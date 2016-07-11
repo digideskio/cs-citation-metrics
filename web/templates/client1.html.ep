@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <title>Citation Metrix</title>
+  <link href="/templates/css/site.css" rel="stylesheet" />
+   <link href="/templates/css/bootstrap.min.css" rel="stylesheet" />
+
+<style type="text/css">
+footer {
+   position:inherit;
+   text-align:center;
+   bottom:0px;
+}
+    </style>
+    <script>
+    </script>
+  </head>
+<body>
+    <div class="navbar navbar-fixed-top" style="background-color:whitesmoke;">
+        <div class="container">
+            <br />
+            <div class="navbar-header">
+                <p style="display:inline;">
+                    <img src="/templates/images/Springer-Nature.jpg" width="250px" height="35px" title="Springer Logo" />
+                    <span class="heading" style="padding-left:200px">Citation Metrix</span>
+                    <span style="padding-left:50px"></span>
+                </p>
+            </div>
+        </div>
+    </div>
+  <br />
+    <div class="container body-content">
+      <div style="text-align:center; padding: 50px;">
+	<form name="cMetricsSubmit" action="http://10.113.5.197:8080/CitationMetrics.cgi/Historical" enctype="multipart/form-data" method="post">
+	  <table>
+	    <!-- <tr><td>Key:</td><td><input type="text" name="Key" /></td></tr> -->
+	    <tr><td>Input Type:</td><td><input type="text" name="Input_Type" /></td></tr>
+	    <tr><td>Please specify a file:</td><td><input type="file" name="Input_File" size="40"></td></tr>
+	    <tr><td></td><td><input type="submit" value="Submit"/></td></tr>
+	 </table>
+     </form>
+    <br><br><br><hr><br><br><br>
+    <form name="cMetricsStatus" action="http://10.113.5.197:8080/CitationMetrics.cgi/Status" enctype="multipart/form-data" method="post">
+    	 <table>
+    	   <tr><td>Token ID:</td><td><input type="text" name="Token" /></td></tr>
+    	   <tr><td></td><td><input type="submit" value="Check Status"/></td></tr>
+         </table>
+     </form>
+      </div>
+        
+      <hr />
+      <footer>
+        Copyright &copy; 2015 | Springer Nature, Part of Springer Science+Business Media
+      </footer>
+    </div>
+</body>
+
+</html>

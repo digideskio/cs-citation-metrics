@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Doug</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <City>Lancaster</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <City>Zurich</City>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>Stanford</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <City>Bern</City>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <City>Dortmund</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <State>MA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbrücken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-642-14366-3</BookID>
+        <BookTitle>Biomedical Image Registration</BookTitle>
+        <BookSubTitle>4th International Workshop, WBIR 2010, Lübeck, Germany, July 11-13, 2010. Proceedings</BookSubTitle>
+        <BookVolumeNumber>6204</BookVolumeNumber>
+        <BookSequenceNumber>6204</BookSequenceNumber>
+        <BookDOI>10.1007/978-3-642-14366-3</BookDOI>
+        <BookTitleID>212463</BookTitleID>
+        <BookPrintISBN>978-3-642-14365-6</BookPrintISBN>
+        <BookElectronicISBN>978-3-642-14366-3</BookElectronicISBN>
+        <BookChapterCount>24</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2010</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="I" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="I22021" Priority="1" Type="Secondary">Image Processing and Computer Vision</BookSubject>
+          <BookSubject Code="H28009" Priority="2" Type="Secondary">Health Informatics</BookSubject>
+          <BookSubject Code="H29005" Priority="3" Type="Secondary">Imaging / Radiology</BookSubject>
+          <BookSubject Code="I18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="I2203X" Priority="5" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="L15001" Priority="6" Type="Secondary">Bioinformatics</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>International Workshop on Biomedical Image Registration</ConfSeriesName>
+          <ConfSeriesID Type="Springer">wbir</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">wbir</ConfSeriesID>
+          <ConfEventID Type="Springer">wbir2010</ConfEventID>
+          <ConfEventAbbreviation>WBIR</ConfEventAbbreviation>
+          <ConfNumber>4</ConfNumber>
+          <ConfEventLocation>
+            <City>Lübeck</City>
+            <Country>Germany</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2010</Year>
+            <Month>7</Month>
+            <Day>11</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2010</Year>
+            <Month>7</Month>
+            <Day>13</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Bernd</GivenName>
+              <FamilyName>Fischer</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>fischer@math.uni-luebeck.de</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Benoît</GivenName>
+              <GivenName>M.</GivenName>
+              <FamilyName>Dawant</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>benoit.dawant@vanderbilt.edu</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff18">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Cristian</GivenName>
+              <FamilyName>Lorenz</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>Cristian.Lorenz@Philips.com</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Institute of Mathematics and Image Computing</OrgDivision>
+            <OrgName>University of Lübeck</OrgName>
+            <OrgAddress>
+              <Street>Wallstr. 40</Street>
+              <Postcode>23560</Postcode>
+              <City>Lübeck</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Electrical Engineering and Computer Science</OrgDivision>
+            <OrgName>Vanderbilt University</OrgName>
+            <OrgAddress>
+              <Street>VU Station B 351662</Street>
+              <Postcode>37240-1662</Postcode>
+              <City>Nashville</City>
+              <State>TN</State>
+              <Country>USA</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff18">
+            <OrgName>Philips Research Europe - Hamburg, Sector Medical Imaging Systems</OrgName>
+            <OrgAddress>
+              <Street>Röntgenstr. 24-26</Street>
+              <Postcode>22335</Postcode>
+              <City>Hamburg</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part2">
+        <PartInfo TocLevels="0">
+          <PartID>2</PartID>
+          <PartSequenceNumber>2</PartSequenceNumber>
+          <PartTitle>Poster Session</PartTitle>
+          <PartChapterCount>7</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Biomedical Image Registration</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap8" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>8</ChapterID>
+            <ChapterDOI>10.1007/978-3-642-14366-3_8</ChapterDOI>
+            <ChapterSequenceNumber>8</ChapterSequenceNumber>
+            <ChapterTitle Language="En">A Computational White Matter Atlas for Aging with Surface-Based Representation of Fasciculi</ChapterTitle>
+            <ChapterFirstPage>83</ChapterFirstPage>
+            <ChapterLastPage>90</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2010</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>2</PartID>
+              <BookID>978-3-642-14366-3</BookID>
+              <BookTitle>Biomedical Image Registration</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Hui</GivenName>
+                  <FamilyName>Zhang</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Paul</GivenName>
+                  <GivenName>A.</GivenName>
+                  <FamilyName>Yushkevich</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff20">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Daniel</GivenName>
+                  <FamilyName>Rueckert</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>James</GivenName>
+                  <GivenName>C.</GivenName>
+                  <FamilyName>Gee</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff19">
+                <OrgDivision>Penn Image Computing and Science Laboratory (PICSL), Department of Radiology</OrgDivision>
+                <OrgName>University of Pennsylvania</OrgName>
+                <OrgAddress>
+                  <City>Philadelphia</City>
+                  <Country>USA</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff20">
+                <OrgDivision>Department of Computing</OrgDivision>
+                <OrgName>Imperial College</OrgName>
+                <OrgAddress>
+                  <City>London</City>
+                  <Country>UK</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Voxel-based analysis, either whole-brain or tract-specific, is a widely used approach for localizing white matter (WM) differences across populations using diffusion tensor imaging (DTI). A prerequisite to this approach is to spatially normalize all the subjects to a common template. The accuracy of spatial normalization can be improved by using a population-specific template that is, morphologically, most similar to the subjects in the population of interest. Here, we report the development of a population-specific DTI template for the elderly using the publicly available IXI brain database. The template captures the average shape and diffusion properties of the aging population and contains segmentations of major WM fasciculi parcellated via fiber tractography. Furthermore, the segmentations are modeled using surface-based representation to support the tract-specific analysis recently proposed by Yushkevich et al. The utility of the template is demonstrated in an examination of WM changes in Amyotrophic Lateral Sclerosis.</Para>
+            </Abstract>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-642-14366-3_Chapter_8.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>Pierpaoli, C., Jezzard, P., Basser, P.J., Barnett, A., Chiro, G.D.: Diffusion tensor MR imaging of the human brain. Radiology 201 (1996). doi: <ExternalRef><RefSource>10.1148/radiology.201.3.8939209</RefSource><RefTarget TargetType="DOI" Address="10.1148/radiology.201.3.8939209"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>Smith, S.M., Jenkinson, M., Johansen-Berg, H., Rueckert, D., Nichols, T.E., Mackay, C.E., Watkins, K.E., Ciccarelli, O., Cader, M.Z., Matthews, P.M., Behrens, T.E.J.: Tract-based spatial statistics: Voxelwise analysis of multi-subject diffusion data. NeuroImage 31 (2006). doi: <ExternalRef><RefSource>10.1016/j.neuroimage.2006.02.024</RefSource><RefTarget TargetType="DOI" Address="10.1016/j.neuroimage.2006.02.024"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.A.</Initials>
+                    <FamilyName>Yushkevich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.J.</Initials>
+                    <FamilyName>Simon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.C.</Initials>
+                    <FamilyName>Gee</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Structure-specific statistical mapping of white matter tracts</ArticleTitle>
+                  <JournalTitle>NeuroImage</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>448</FirstPage>
+                  <LastPage>461</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.neuroimage.2008.01.013</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yushkevich, P.A., Zhang, H., Simon, T.J., Gee, J.C.: Structure-specific statistical mapping of white matter tracts. NeuroImage 41, 448–461 (2008)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.B.</Initials>
+                    <FamilyName>Avants</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.A.</Initials>
+                    <FamilyName>Yushkevich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.H.</Initials>
+                    <FamilyName>Woo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.F.</Initials>
+                    <FamilyName>McCluskey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.B.</Initials>
+                    <FamilyName>Elman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.R.</Initials>
+                    <FamilyName>Melhem</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.C.</Initials>
+                    <FamilyName>Gee</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">High-dimensional spatial normalization of diffusion tensor images improves the detection of white matter differences in amyotrophic lateral sclerosis</ArticleTitle>
+                  <JournalTitle>TMI</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>1585</FirstPage>
+                  <LastPage>1597</LastPage>
+                </BibArticle>
+                <BibUnstructured>Zhang, H., Avants, B.B., Yushkevich, P.A., Woo, J.H., Wang, S., McCluskey, L.F., Elman, L.B., Melhem, E.R., Gee, J.C.: High-dimensional spatial normalization of diffusion tensor images improves the detection of white matter differences in amyotrophic lateral sclerosis. TMI 26, 1585–1597 (2007)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Mori</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Oishi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Jiang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Jiang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Akhter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Hua</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.V.</Initials>
+                    <FamilyName>Faria</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Mahmood</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Woods</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.W.</Initials>
+                    <FamilyName>Toga</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.B.</Initials>
+                    <FamilyName>Pike</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.R.</Initials>
+                    <FamilyName>Neto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Evans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.I.</Initials>
+                    <FamilyName>Miller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Zijl</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Mazziotta</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Stereotaxic white matter atlas based on diffusion tensor imaging in an icbm template</ArticleTitle>
+                  <JournalTitle>NeuroImage</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>570</FirstPage>
+                  <LastPage>582</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.neuroimage.2007.12.035</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mori, S., Oishi, K., Jiang, H., Jiang, L., Li, X., Akhter, K., Hua, K., Faria, A.V., Mahmood, A., Woods, R., Toga, A.W., Pike, G.B., Neto, P.R., Evans, A., Zhang, J., Huang, H., Miller, M.I., van Zijl, P., Mazziotta, J.: Stereotaxic white matter atlas based on diffusion tensor imaging in an icbm template. NeuroImage 40, 570–582 (2008)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Arsigny</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Fillard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Pennec</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Ayache</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Log-Euclidean metrics for fast and simple calculus on diffusion tensors</ArticleTitle>
+                  <JournalTitle>MRM</JournalTitle>
+                  <VolumeID>56</VolumeID>
+                  <FirstPage>411</FirstPage>
+                  <LastPage>421</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1002/mrm.20965</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Arsigny, V., Fillard, P., Pennec, X., Ayache, N.: Log-Euclidean metrics for fast and simple calculus on diffusion tensors. MRM 56, 411–421 (2006)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Guimond</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Meunier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.P.</Initials>
+                    <FamilyName>Thirion</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Average brain models: a convergence study</ArticleTitle>
+                  <JournalTitle>CVIU</JournalTitle>
+                  <VolumeID>77</VolumeID>
+                  <FirstPage>192</FirstPage>
+                  <LastPage>210</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1006/cviu.1999.0815</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Guimond, A., Meunier, J., Thirion, J.P.: Average brain models: a convergence study. CVIU 77, 192–210 (2000)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>Zhang, H., Yushkevich, P.A., Alexander, D.C., Gee, J.C.: Deformable registration of diffusion tensor MR images with explicit orientation optimization. MIA 10 (2006). doi: <ExternalRef><RefSource>10.1016/j.media.2006.06.004</RefSource><RefTarget TargetType="DOI" Address="10.1016/j.media.2006.06.004"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Alexander, D.C., Pierpaoli, C., Basser, P.J., Gee, J.C.: Spatial transformations of diffusion tensor magnetic resonance images. TMI 20 (2001). doi: <ExternalRef><RefSource>10.1109/42.963816</RefSource><RefTarget TargetType="DOI" Address="10.1109/42.963816"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>Wakana, S., Jiang, H., Nagae-Poetscher, L.M., van Zijl, P.C., Mori, S.: Fiber tract-based atlas of human white matter anatomy. Radiology 230 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Lawes, I.N., Barrick, T.R., Murugam, V., Spierings, N., Evans, D.R., Song, M., Clark, C.A.: Atlas-based segmentation of white matter tracts of the human brain using diffusion tensor tractography and comparison with classical dissection. NeuroImage 39 (2008). doi: <ExternalRef><RefSource>10.1016/j.neuroimage.2007.06.041</RefSource><RefTarget TargetType="DOI" Address="10.1016/j.neuroimage.2007.06.041"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.A.</Initials>
+                    <FamilyName>Yushkevich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Piven</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.C.</Initials>
+                    <FamilyName>Hazlett</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.G.</Initials>
+                    <FamilyName>Smith</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Ho</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.C.</Initials>
+                    <FamilyName>Gee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Gerig</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">User-guided 3D active contour segmentation of anatomical structures: significantly improved efficiency and reliability</ArticleTitle>
+                  <JournalTitle>NeuroImage</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>1116</FirstPage>
+                  <LastPage>1128</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.neuroimage.2006.01.015</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yushkevich, P.A., Piven, J., Hazlett, H.C., Smith, R.G., Ho, S., Gee, J.C., Gerig, G.: User-guided 3D active contour segmentation of anatomical structures: significantly improved efficiency and reliability. NeuroImage 31, 1116–1128 (2006)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Lazar, M., Field, A.S., Lee, J., Alexander, A.L.: Lateral asymmetry of superior longitudinal fasciculus: a white matter tractography study. In: ISMRM (2004)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

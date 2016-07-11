@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Dough</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>CA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>MA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbruecken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-540-35461-1</BookID>
+        <BookTitle>Combinatorial Pattern Matching</BookTitle>
+        <BookSubTitle>17th Annual Symposium, CPM 2006, Barcelona, Spain, July 5-7, 2006. Proceedings</BookSubTitle>
+        <BookVolumeNumber>4009</BookVolumeNumber>
+        <BookSequenceNumber>4009</BookSequenceNumber>
+        <BookDOI>10.1007/11780441</BookDOI>
+        <BookTitleID>139689</BookTitleID>
+        <BookPrintISBN>978-3-540-35455-0</BookPrintISBN>
+        <BookElectronicISBN>978-3-540-35461-1</BookElectronicISBN>
+        <BookChapterCount>36</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2006</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="SCI" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="SCI2203X" Priority="1" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="SCI16021" Priority="2" Type="Secondary">Algorithm Analysis and Problem Complexity</BookSubject>
+          <BookSubject Code="SCI21033" Priority="3" Type="Secondary">Document Preparation and Text Processing</BookSubject>
+          <BookSubject Code="SCI18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="SCL15001" Priority="5" Type="Secondary">Bioinformatics</BookSubject>
+          <BookSubject Code="SCI15017" Priority="6" Type="Secondary">Data Structures</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>Annual Symposium on Combinatorial Pattern Matching</ConfSeriesName>
+          <ConfSeriesID Type="Springer">cpm</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">cpm</ConfSeriesID>
+          <ConfEventID Type="Springer">cpm2006</ConfEventID>
+          <ConfEventAbbreviation>CPM</ConfEventAbbreviation>
+          <ConfNumber>17</ConfNumber>
+          <ConfEventLocation>
+            <City>Barcelona</City>
+            <Country>Spain</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>5</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>7</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Moshe</GivenName>
+              <FamilyName>Lewenstein</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>moshe@cs.biu.ac.il</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Gabriel</GivenName>
+              <FamilyName>Valiente</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>valiente@lsi.upc.edu</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Department of Computer Science</OrgDivision>
+            <OrgName>Bar-Ilan University</OrgName>
+            <OrgAddress>
+              <Postcode>52900</Postcode>
+              <City>Ramat-Gan</City>
+              <Country>Israel</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Software</OrgDivision>
+            <OrgName>Technical University of Catalonia</OrgName>
+            <OrgAddress>
+              <Postcode>08034</Postcode>
+              <City>Barcelona</City>
+              <Country>Spain</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part5">
+        <PartInfo TocLevels="0">
+          <PartID>5</PartID>
+          <PartSequenceNumber>5</PartSequenceNumber>
+          <PartTitle>Session 4. Applications in Molecular Biology I</PartTitle>
+          <PartChapterCount>4</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Combinatorial Pattern Matching</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap17" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>17</ChapterID>
+            <ChapterDOI>10.1007/11780441_17</ChapterDOI>
+            <ChapterSequenceNumber>17</ChapterSequenceNumber>
+            <ChapterTitle Language="En">An Improved Algorithm for the Macro-evolutionary Phylogeny Problem</ChapterTitle>
+            <ChapterFirstPage>177</ChapterFirstPage>
+            <ChapterLastPage>187</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2006</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>5</PartID>
+              <BookID>978-3-540-35461-1</BookID>
+              <BookTitle>Combinatorial Pattern Matching</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Behshad</GivenName>
+                  <FamilyName>Behzadi</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>behshad.behzadi@molgen.mpg.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Martin</GivenName>
+                  <FamilyName>Vingron</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>martin.vingron@molgen.mpg.de</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff18">
+                <OrgDivision>Computational Molecular Biology Department</OrgDivision>
+                <OrgName>Max Planck Institute for Molecular Genetics</OrgName>
+                <OrgAddress>
+                  <Street>Ihnestrasse 73</Street>
+                  <Postcode>14195</Postcode>
+                  <City>Berlin</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para TextBreak="No">Macro-evolutionary processes (e.g., gene duplication and loss) have rarely been incorporated into gene phylogeny reconstruction methods. Durand et al. [5] have proposed a polynomial time dynamic programming algorithm to find the gene family tree that optimizes a macro-evolutionary criterion which is the weighted sum of the number of gene duplications and losses. The complexity of this algorithm is <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">nm</Emphasis>
+                        <Superscript>2</Superscript>) where <Emphasis Type="Italic">n</Emphasis> is the number of species and <Emphasis Type="Italic">m</Emphasis> is the maximum number of copies of the gene in a species. In this paper, we propose an improved algorithm with time complexity of <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">nm</Emphasis>) for solving this problem. We also show, that the problem can be solved in <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">n</Emphasis>) if unit costs are considered for both loss and duplication.</Para>
+            </Abstract>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-540-35461-1_Chapter_17.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Arvestad</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.C.</Initials>
+                    <FamilyName>Berglund</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Lagergren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Sennblad</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ChapterTitle Language="En">Gene tree reconstruction and orthology analysis based on an integrated model for duplication and sequence evolution</ChapterTitle>
+                  <BookTitle>Proc. RECOMB 2004</BookTitle>
+                  <PublisherName>ACM Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>326</FirstPage>
+                  <LastPage>335</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/974614.974657</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Arvestad, L., Berglund, A.C., Lagergren, J., Sennblad, B.: Gene tree reconstruction and orthology analysis based on an integrated model for duplication and sequence evolution. In: Proc. RECOMB 2004, pp. 326–335. ACM Press, New York (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Arvestad</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.C.</Initials>
+                    <FamilyName>Berglund</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Lagergren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Sennblad</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Bayesian gene/species tree reconciliation and orthology analysis using MCMC</ArticleTitle>
+                  <JournalTitle>Bioinformatics</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>7</FirstPage>
+                  <LastPage>15</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/bioinformatics/btg1000</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Arvestad, L., Berglund, A.C., Lagergren, J., Sennblad, B.: Bayesian gene/species tree reconciliation and orthology analysis using MCMC. Bioinformatics 19(Suppl. 1), 7–15 (2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Chor</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Tuller</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ChapterTitle Language="En">Maximum likelihood of evolutionary trees is hard</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Miyano</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Mesirov</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Kasif</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Istrail</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>P.A.</Initials>
+                    <FamilyName>Pevzner</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Waterman</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Research in Computational Molecular Biology</BookTitle>
+                  <ConfEventName>9th Annual International Conference, RECOMB 2005</ConfEventName>
+                  <ConfEventLocation>Cambridge, MA, USA</ConfEventLocation>
+                  <ConfEventDate>May 14-18, 2005</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Bioinformatics</SeriesTitle>
+                  <NumberInSeries>3500</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>296</FirstPage>
+                  <LastPage>310</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/11415770_23</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Chor, B., Tuller, T.: Maximum likelihood of evolutionary trees is hard. In: Miyano, S., Mesirov, J., Kasif, S., Istrail, S., Pevzner, P.A., Waterman, M. (eds.) RECOMB 2005. LNCS (LNBI), vol. 3500, pp. 296–310. Springer, Heidelberg (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.H.</Initials>
+                    <FamilyName>Day</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Computational complexity of inferring phylogenies from dissimilarity matrices</ArticleTitle>
+                  <JournalTitle>Bull. Math. Biol.</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>461</FirstPage>
+                  <LastPage>467</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>908160</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0623.92018</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1007/BF02458863</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Day, W.H.: Computational complexity of inferring phylogenies from dissimilarity matrices. Bull. Math. Biol. 49(4), 461–467 (1987)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Durand</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.V.</Initials>
+                    <FamilyName>Halldórsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Vernot</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ChapterTitle Language="En">A Hybrid Micro-Macroevolutionary Approach to Gene Tree Reconstruction</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Miyano</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Mesirov</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Kasif</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Istrail</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>P.A.</Initials>
+                    <FamilyName>Pevzner</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Waterman</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Research in Computational Molecular Biology</BookTitle>
+                  <ConfEventName>9th Annual International Conference, RECOMB 2005</ConfEventName>
+                  <ConfEventLocation>Cambridge, MA, USA</ConfEventLocation>
+                  <ConfEventDate>May 14-18, 2005</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Bioinformatics</SeriesTitle>
+                  <NumberInSeries>3500</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>250</FirstPage>
+                  <LastPage>264</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/11415770_19</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Durand, D., Halldórsson, B.V., Vernot, B.: A Hybrid Micro-Macroevolutionary Approach to Gene Tree Reconstruction. In: Miyano, S., Mesirov, J., Kasif, S., Istrail, S., Pevzner, P.A., Waterman, M. (eds.) RECOMB 2005. LNCS (LNBI), vol. 3500, pp. 250–264. Springer, Heidelberg (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O.</Initials>
+                    <FamilyName>Eulenstein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Mikrin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Vingron</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Duplication-based measures of difference between gene and species trees</ArticleTitle>
+                  <JournalTitle>Journal of Computational Biology</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>135</FirstPage>
+                  <LastPage>148</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1089/cmb.1998.5.135</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Eulenstein, O., Mikrin, B., Vingron, M.: Duplication-based measures of difference between gene and species trees. Journal of Computational Biology 5, 135–148 (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Felsenstein</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Phylogenies from molecular sequences: Inference and reliability</ArticleTitle>
+                  <JournalTitle>Annu. Rev. Genet.</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>521</FirstPage>
+                  <LastPage>565</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1146/annurev.ge.22.120188.002513</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Felsenstein, J.: Phylogenies from molecular sequences: Inference and reliability. Annu. Rev. Genet. 22, 521–565 (1988)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Fitch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Margoliash</FamilyName>
+                  </BibAuthorName>
+                  <Year>1967</Year>
+                  <ArticleTitle Language="En">Construction of phylogenetic trees</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>155</VolumeID>
+                  <FirstPage>279</FirstPage>
+                  <LastPage>284</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.155.3760.279</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fitch, W., Margoliash, E.: Construction of phylogenetic trees. Science 155, 279–284 (1967)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Goodman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Czelusniak</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.W.</Initials>
+                    <FamilyName>Moore</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.E.</Initials>
+                    <FamilyName>Romero-Herrera</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Matsuda</FamilyName>
+                  </BibAuthorName>
+                  <Year>1979</Year>
+                  <ArticleTitle Language="En">Fitting the gene lineage into its species lineage, a parsimony strategy illustrated by cladograms constructed from globin sequences</ArticleTitle>
+                  <JournalTitle>Syst. Zool.</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>138</FirstPage>
+                  <LastPage>163</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1093/sysbio/28.2.132</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goodman, M., Czelusniak, J., Moore, G.W., Romero-Herrera, A.E., Matsuda, G.: Fitting the gene lineage into its species lineage, a parsimony strategy illustrated by cladograms constructed from globin sequences. Syst. Zool. 28, 138–163 (1979)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Guigo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I.</Initials>
+                    <FamilyName>Muchnik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.F.</Initials>
+                    <FamilyName>Smith</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Reconstruction of ancient phylogenies</ArticleTitle>
+                  <JournalTitle>Molecular Phylogenetics and Evolution</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>189</FirstPage>
+                  <LastPage>213</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1006/mpev.1996.0071</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Guigo, R., Muchnik, I., Smith, T.F.: Reconstruction of ancient phylogenies. Molecular Phylogenetics and Evolution 6, 189–213 (1996)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Hallett, M.T., Lagergren, J.: New algorithms for the duplication-loss model. In: Proc. RECOMB 2000 (2000). doi:<ExternalRef><RefSource>10.1145/332306.332359</RefSource><RefTarget Address="10.1145/332306.332359" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Ma, B., Li, M., Zhang, L.: From gene trees to species trees. SIAM J. on comput. (2000). doi:<ExternalRef><RefSource>10.1137/S0097539798343362</RefSource><RefTarget Address="10.1137/S0097539798343362" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Mirkin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I.</Initials>
+                    <FamilyName>Muchnik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.F.</Initials>
+                    <FamilyName>Smith</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">A biologically consistent model for comparing molecular phylogenies</ArticleTitle>
+                  <JournalTitle>Journal of Computational Biology</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <FirstPage>493</FirstPage>
+                  <LastPage>507</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1089/cmb.1995.2.493</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mirkin, B., Muchnik, I., Smith, T.F.: A biologically consistent model for comparing molecular phylogenies. Journal of Computational Biology 2, 493–507 (1995)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.D.M.</Initials>
+                    <FamilyName>Page</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Maps between trees and cladistic analysis of historical associations among genes, organisms and areas</ArticleTitle>
+                  <JournalTitle>Syst. Zool.</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>58</FirstPage>
+                  <LastPage>77</LastPage>
+                </BibArticle>
+                <BibUnstructured>Page, R.D.M.: Maps between trees and cladistic analysis of historical associations among genes, organisms and areas. Syst. Zool. 43, 58–77 (1994)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Nei</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <BookTitle>Molecular Evolution Genetics</BookTitle>
+                  <PublisherName>Columbia University Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Nei, M.: Molecular Evolution Genetics. Columbia University Press, New York (1987)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.M.</Initials>
+                    <FamilyName>Zmasek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.R.</Initials>
+                    <FamilyName>Eddy</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">A simple algorithm to infer gene duplication and speciation events on a gene tree</ArticleTitle>
+                  <JournalTitle>Bioinformatics</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>9</IssueID>
+                  <FirstPage>821</FirstPage>
+                  <LastPage>828</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/bioinformatics/17.9.821</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zmasek, C.M., Eddy, S.R.: A simple algorithm to infer gene duplication and speciation events on a gene tree. Bioinformatics 17(9), 821–828 (2001)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

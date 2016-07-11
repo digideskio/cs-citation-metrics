@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>6</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art16">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>72408</ArticleID>
+            <ArticleDOI>10.1208/aapsj070241</ArticleDOI>
+            <ArticleSequenceNumber>16</ArticleSequenceNumber>
+            <ArticleTitle Language="En">A pragmatic approach to the design of population pharmacokinetic studies</ArticleTitle>
+            <ArticleFirstPage>E408</ArticleFirstPage>
+            <ArticleLastPage>E420</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+              </Received>
+              <Accepted>
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>2</IssueIDStart>
+              <IssueIDEnd>2</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Amit</GivenName>
+                  <FamilyName>Roy</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2" CorrespondingAffiliationID="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ene</GivenName>
+                  <GivenName>I.</GivenName>
+                  <FamilyName>Ette</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>(617) 444-6318</Phone>
+                  <Fax>(617) 444-6713</Fax>
+                  <Email>ene_ette@vrtx.com</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Strategic Modeling and Simulation</OrgDivision>
+                <OrgName>Bristol-Myers Squibb</OrgName>
+                <OrgAddress>
+                  <Postcode>08543</Postcode>
+                  <City>Princeton</City>
+                  <State>NJ</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Clinical Pharmacology</OrgDivision>
+                <OrgName>Vertex Pharmaceuticals</OrgName>
+                <OrgAddress>
+                  <Street>130 Waverly St.</Street>
+                  <Postcode>02139</Postcode>
+                  <City>Cambridge</City>
+                  <State>MA</State>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>The publication of a seminal article on nonlinear mixed-effect modeling led to a revolution in pharmacokinetics (PKs) with the introduction of the population approach. Since then, interest in obtaining accurate and precise estimates of population PK parameters has led to work on population PK study design that extended previous work on optimal sampling designs for individual PK parameter estimation. The issues and developments in the design of population PK studies are reviewed as a prelude to investigating, via simulation, the performance of 2 approaches (population Fisher information matrix D-optimal design and informative block [profile] randomized [IBR] design) for designing population PK studies. The results of our simulation study indicate that the designs based on the 2 approaches yielded efficient parameter estimates. The designs based on the 2 approaches performed similarly, and in some cases designs based on the IBR approach were slightly better. The ease with which the IBR designs can be generated makes them preferable in drug development, where pragmatism and time are of great consideration. We, therefore, refer to the IBR designs as pragmatic designs. Pragmatic designs that achieve high efficiency in the estimation parameters should be used in the design of population PK studies, and simulation should be used to determine the efficiency of the designs.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>population pharmacokinetic sampling design</Keyword>
+              <Keyword>D-optimality</Keyword>
+              <Keyword>informative block randomized design</Keyword>
+              <Keyword>population Fisher information matrix D-optimal design</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: October 5, 2005</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_72408.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Rosenberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>VV</Initials>
+                    <FamilyName>Marathe</FamilyName>
+                  </BibAuthorName>
+                  <Year>1977</Year>
+                  <ArticleTitle Language="En">Estimation of population characteristics of population pharmacokinetic parameters from routine clinical data</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>445</FirstPage>
+                  <LastPage>479</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>925881</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01061728</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE1cXksVOiuw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Rosenberg B, Marathe VV. Estimation of population characteristics of population pharmacokinetic parameters from routine clinical data.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1977;5:445–479.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">Estimating population pharmacokinetics</ArticleTitle>
+                  <JournalTitle>Crit Rev Biomed Eng</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>195</FirstPage>
+                  <LastPage>222</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6754254</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL3s%2Flt1arsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Beal SL, Sheiner LB. Estimating population pharmacokinetics.<Emphasis Type="Italic">Crit Rev Biomed Eng</Emphasis>. 1982;8:195–222.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibBook>
+                  <InstitutionalAuthorName>United States Food and Drug Administration</InstitutionalAuthorName>
+                  <Year>1999</Year>
+                  <BookTitle>Guidance for Industry: Population Pharmacokinetics</BookTitle>
+                  <PublisherName>United States Food and Drug Administration</PublisherName>
+                  <PublisherLocation>Washington, DC</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>United States Food and Drug Administration. Guidance for Industry: Population Pharmacokinetics. Washington, DC: United States Food and Drug Administration; 1999.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <ArticleTitle Language="En">Evaluation of methods for estimating population pharmacokinetic parameters III. Monoexponential model: Clinical pharmacokinetic data</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>303</FirstPage>
+                  <LastPage>319</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6644555</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01061870</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2c%2FmsVehtQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Beal SL. Evaluation of methods for estimating population pharmacokinetic parameters III. Monoexponential model: Clinical pharmacokinetic data.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1983;11:303–319.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MK</Initials>
+                    <FamilyName>al-Banna</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AW</Initials>
+                    <FamilyName>Kelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Whiting</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Experimental design and efficient parameter estimation in population pharmacokinetics</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>347</FirstPage>
+                  <LastPage>360</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2231324</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01062273</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3M%2FjvVOksA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>al-Banna MK, Kelman AW, Whiting B. Experimental design and efficient parameter estimation in population pharmacokinetics.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1990;18:347–360.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Hashimoto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Designs for population pharmacodynamics: Value of pharmacokinetic data and population analysis</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>333</FirstPage>
+                  <LastPage>353</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1875286</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3MzktFKgsA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF03036255</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hashimoto Y, Sheiner LB. Designs for population pharmacodynamics: Value of pharmacokinetic data and population analysis.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1991;19:333–353.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <BookTitle>Efficient parameter estimation in preclinical animal pharmacokinetics</BookTitle>
+                  <PublisherName>University of Glasgow</PublisherName>
+                  <PublisherLocation>Glasgow, Scotland</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Ette EI. Efficient parameter estimation in preclinical animal pharmacokinetics. PhD Thesis. University of Glasgow, Glasgow, Scotland, 1991.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AW</Initials>
+                    <FamilyName>Kelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CA</Initials>
+                    <FamilyName>Howie</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Whiting</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Efficient experimental design and estimation of population pharmacokinetic parameters in preclinical animal studies</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>729</FirstPage>
+                  <LastPage>737</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7479560</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1016267811074</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2MXlsFKlsL8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ette EI, Kelman AW, Howie CA, Whiting B. Efficient experimental design and estimation of population pharmacokinetic parameters in preclinical animal studies.<Emphasis Type="Italic">Pharm Res</Emphasis>. 1995;12:729–737.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Endrenyi</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ChapterTitle Language="En">Design of experiments for estimating enzyme and pharmacokinetic experiments</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Endrenyi</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Kinetic Data Analysis of Enzyme and Pharmacokinetic Experiments</BookTitle>
+                  <PublisherName>Plenum Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>137</FirstPage>
+                  <LastPage>167</LastPage>
+                </BibChapter>
+                <BibUnstructured>Endrenyi L. Design of experiments for estimating enzyme and pharmacokinetic experiments. In: Endrenyi L, ed.<Emphasis Type="Italic">Kinetic Data Analysis of Enzyme and Pharmacokinetic Experiments</Emphasis>. New York: Plenum Press, 1981;137–167.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DZ</Initials>
+                    <FamilyName>D'Argenio</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">Optimal sampling times for pharmacokinetic experiments</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>739</FirstPage>
+                  <LastPage>756</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7341758</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01070904</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D'Argenio DZ. Optimal sampling times for pharmacokinetic experiments.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1981;9:739–756.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mori</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Stephano</FamilyName>
+                    <Particle>Di</Particle>
+                  </BibAuthorName>
+                  <Year>1979</Year>
+                  <ArticleTitle Language="En">Optimal nonuniform sampling interval and test-input design for identification of physiological systems from very limited data</ArticleTitle>
+                  <JournalTitle>IEEE Trans auto Control</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>893</FirstPage>
+                  <LastPage>900</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TAC.1979.1102175</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mori F, Di Stephano JJ III. Optimal nonuniform sampling interval and test-input design for identification of physiological systems from very limited data.<Emphasis Type="Italic">IEEE Trans auto Control</Emphasis>. 1979;AC-24:893–900.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>EM</Initials>
+                    <FamilyName>Landaw</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ChapterTitle Language="En">Optimal design for individual parameter estimation in pharmacokinetics</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Rowland</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Steimer</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Variability in Drug Therapy: Description, Estimation, and Control</BookTitle>
+                  <PublisherName>Raven Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>187</FirstPage>
+                  <LastPage>200</LastPage>
+                </BibChapter>
+                <BibUnstructured>Landaw EM. Optimal design for individual parameter estimation in pharmacokinetics. In: Rowland M, Sheiner L, Steimer JL, eds.<Emphasis Type="Italic">Variability in Drug Therapy: Description, Estimation, and Control</Emphasis>. New York: Raven Press, 1985;187–200.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>DZ</Initials>
+                    <FamilyName>D'Argenio</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Shumitzky</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <BookTitle>ADAPT II User's Guide:<Emphasis Type="Italic">Pharmacokinetic/Pharmacodynamic Systems Analysis Software</Emphasis>
+                  </BookTitle>
+                  <PublisherName>Biomedical Simulations Resource</PublisherName>
+                  <PublisherLocation>Los Angeles, CA</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>D'Argenio DZ, Shumitzky A. ADAPT II User's Guide:<Emphasis Type="Italic">Pharmacokinetic/Pharmacodynamic Systems Analysis Software</Emphasis>. Los Angeles, CA: Biomedical Simulations Resource; 1997.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DZ</Initials>
+                    <FamilyName>D'Argenio</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Incorporating prior parameter uncertainty in the design of sampling schedules for pharmacokinetic parameter estimation experiments</ArticleTitle>
+                  <JournalTitle>Math Biosci</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <FirstPage>105</FirstPage>
+                  <LastPage>118</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2134510</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0025-5564(90)90141-K</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D'Argenio DZ. Incorporating prior parameter uncertainty in the design of sampling schedules for pharmacokinetic parameter estimation experiments.<Emphasis Type="Italic">Math Biosci</Emphasis>. 1990;99:105–118.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Tod</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Padoin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Louchahi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Moreau-Tod</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Petitjean</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Perret</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Implementation of OSPOP, an algorithm for the estimation of optimal sampling times by the ED, EID, and API criteria</ArticleTitle>
+                  <JournalTitle>Comp Method Prog Biomed</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <FirstPage>13</FirstPage>
+                  <LastPage>22</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0169-2607(96)01721-X</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK28vjt1Ortg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tod M, Padoin C, Louchahi K, Moreau-Tod B, Petitjean O, Perret G. Implementation of OSPOP, an algorithm for the estimation of optimal sampling times by the ED, EID, and API criteria.<Emphasis Type="Italic">Comp Method Prog Biomed</Emphasis>. 1996;50:13–22.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Endrenyi</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">A computationally efficient approach for the design of population pharmacokinetic studies</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>279</FirstPage>
+                  <LastPage>294</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1522481</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01062528</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK38zpsFGjtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wang J, Endrenyi L. A computationally efficient approach for the design of population pharmacokinetic studies.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1992;20:279–294.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>Ette EI, Sun H, Ludden TM. Design of population pharmacokinetic studies.<Emphasis Type="Italic">Proc Am Stat Assoc (Biopharmaceutics Section)</Emphasis>. 1994;487–492.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EO</Initials>
+                    <FamilyName>Fadiran</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Jones</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Designing population pharmacokinetic studies: Performance of mixed designs</ArticleTitle>
+                  <JournalTitle>Eur J Drug Metab Pharmacokinet</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <FirstPage>231</FirstPage>
+                  <LastPage>239</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11420896</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXktlKltLw%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1007/BF03192320</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fadiran EO, Jones CD, Ette EI. Designing population pharmacokinetic studies: Performance of mixed designs.<Emphasis Type="Italic">Eur J Drug Metab Pharmacokinet</Emphasis>. 2000;25:231–239.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EN</Initials>
+                    <FamilyName>Jonsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Wade</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Comparison of some practical sampling strategies for population pharmacokinetic studies</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>245</FirstPage>
+                  <LastPage>263</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8875349</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF02353491</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s%2FivFegtQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jonsson EN, Wade JR, Karlsson MO. Comparison of some practical sampling strategies for population pharmacokinetic studies.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1996;24:245–263.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Ludden</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">On the recording of sample times and parameter estimation from repeated measures of pharmacokinetic data</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>637</FirstPage>
+                  <LastPage>650</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9300354</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF02353484</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXmt1Crsbo%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sun H, Ette EI, Ludden TM. On the recording of sample times and parameter estimation from repeated measures of pharmacokinetic data.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1996;24:637–650.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Mallet</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Baccar</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Optimal design in random-effects regression models</ArticleTitle>
+                  <JournalTitle>Biometrika</JournalTitle>
+                  <VolumeID>84</VolumeID>
+                  <FirstPage>429</FirstPage>
+                  <LastPage>442</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/biomet/84.2.429</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mentre F, Mallet A, Baccar D. Optimal design in random-effects regression models.<Emphasis Type="Italic">Biometrika</Emphasis>. 1997;84:429–442.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Tod</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Merle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Mallet</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Robust optimal design for the estimation of hyperparameters in population pharmacokinetics</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>689</FirstPage>
+                  <LastPage>716</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10485081</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1020703007613</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXjvVCmt7w%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tod M, Mentre F, Merle Y, Mallet A. Robust optimal design for the estimation of hyperparameters in population pharmacokinetics.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1998;26:689–716.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Retout</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Further developments of the Fisher information matrix in nonlinear mixed effects models with evaluation in population pharmacokinetics</ArticleTitle>
+                  <JournalTitle>J Biopharm Stat</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>209</FirstPage>
+                  <LastPage>227</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12729390</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1081/BIP-120019267</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Retout S, Mentre F. Further developments of the Fisher information matrix in nonlinear mixed effects models with evaluation in population pharmacokinetics.<Emphasis Type="Italic">J Biopharm Stat</Emphasis>. 2003;13:209–227.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Retout</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">The use of simulated annealing for finding optimal population designs</ArticleTitle>
+                  <JournalTitle>Comput Methods Programs Biomed</JournalTitle>
+                  <VolumeID>69</VolumeID>
+                  <FirstPage>25</FirstPage>
+                  <LastPage>35</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0169-2607(01)00178-X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Duffull SB, Retout S, Mentre F. The use of simulated annealing for finding optimal population designs.<Emphasis Type="Italic">Comput Methods Programs Biomed</Emphasis>. 2001;69:25–35.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AC</Initials>
+                    <FamilyName>Hooker</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Foracchia</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MG</Initials>
+                    <FamilyName>Dobbs</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Vicini</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">An evaluation of population D-optimal designs via pharmacokinetic simulations</ArticleTitle>
+                  <JournalTitle>Ann Biomed Eng</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>98</FirstPage>
+                  <LastPage>111</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12572660</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1114/1.1533074</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hooker AC, Foracchia M, Dobbs MG, Vicini P. An evaluation of population D-optimal designs via pharmacokinetic simulations.<Emphasis Type="Italic">Ann Biomed Eng</Emphasis>. 2003;31:98–111.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Retout</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Bruno</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Fisher information matrix for non-linear mixed-effects models: evaluation and application for optimal design of enoxaparin population pharmacokinetics</ArticleTitle>
+                  <JournalTitle>Stat Med</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <FirstPage>2623</FirstPage>
+                  <LastPage>2639</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12228881</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/sim.1041</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Retout S, Mentre F, Bruno R. Fisher information matrix for non-linear mixed-effects models: evaluation and application for optimal design of enoxaparin population pharmacokinetics.<Emphasis Type="Italic">Stat Med</Emphasis>. 2002;21:2623–2639.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Retout</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Optimization of individual and population designs using Splus</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>417</FirstPage>
+                  <LastPage>443</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15000423</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/B:JOPA.0000013000.59346.9a</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Retout S, Mentre F. Optimization of individual and population designs using Splus.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2003;30:417–443.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Ludden</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Balanced designs in longditudinal population pharmacokinetic studies</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <FirstPage>417</FirstPage>
+                  <LastPage>423</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9602953</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXjsVShtL8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ette EI, Sun H, Ludden TM. Balanced designs in longditudinal population pharmacokinetic studies.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 1998;38:417–423.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Aarons</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LP</Initials>
+                    <FamilyName>Balant</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Practical experience and issues in designing and performing population pharmacokinetic/pharmacodynamic studies</ArticleTitle>
+                  <JournalTitle>Eur J Clin Pharmacol</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <FirstPage>251</FirstPage>
+                  <LastPage>254</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8857068</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00226323</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s%2FhtVSjtQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Aarons L, Balant LP, Mentre F, et al. Practical experience and issues in designing and performing population pharmacokinetic/pharmacodynamic studies.<Emphasis Type="Italic">Eur J Clin Pharmacol</Emphasis>. 1996;49:251–254.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

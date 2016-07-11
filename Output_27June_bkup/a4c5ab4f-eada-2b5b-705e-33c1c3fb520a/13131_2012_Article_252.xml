@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>The Chinese Society of Oceanography</PublisherName>
+    <PublisherLocation>Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>13131</JournalID>
+      <JournalPrintISSN>0253-505X</JournalPrintISSN>
+      <JournalElectronicISSN>1869-1099</JournalElectronicISSN>
+      <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Oceanol. Sin.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="" Type="Primary">Earth Sciences</JournalSubject>
+        <JournalSubject Code="" Priority="1" Type="Secondary">Oceanography</JournalSubject>
+        <JournalSubject Code="" Priority="2" Type="Secondary">Climate Change</JournalSubject>
+        <JournalSubject Code="" Priority="3" Type="Secondary">Ecology</JournalSubject>
+        <JournalSubject Code="" Priority="4" Type="Secondary">Engineering Fluid Dynamics</JournalSubject>
+        <JournalSubject Code="" Priority="5" Type="Secondary">Marine &amp; Freshwater Sciences</JournalSubject>
+        <JournalSubject Code="" Priority="6" Type="Secondary">Environmental Chemistry</JournalSubject>
+        <SubjectCollection Code="SC7">Earth and Environmental Science</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>31</VolumeIDStart>
+        <VolumeIDEnd>31</VolumeIDEnd>
+        <VolumeIssueCount>6</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>6</IssueIDStart>
+          <IssueIDEnd>6</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>12</Month>
+              <Day>13</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>11</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13131-012-0252-6" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>252</ArticleID>
+            <ArticleDOI>10.1007/s13131-012-0252-6</ArticleDOI>
+            <ArticleSequenceNumber>5</ArticleSequenceNumber>
+            <ArticleTitle Language="En">The numerical study of wave-induced pore water pressure response in highly permeable seabed</ArticleTitle>
+            <ArticleFirstPage>46</ArticleFirstPage>
+            <ArticleLastPage>55</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+              </Received>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Changbo</GivenName>
+                  <FamilyName>Jiang</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Yongzhou</GivenName>
+                  <FamilyName>Cheng</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>chengyongzhou@163.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Liuhong</GivenName>
+                  <FamilyName>Chang</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Bo</GivenName>
+                  <FamilyName>Xia</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>School of Hydraulic Engineering</OrgDivision>
+                <OrgName>Changsha University of Science and Technology</OrgName>
+                <OrgAddress>
+                  <City>Changsha</City>
+                  <Postcode>410004</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName>Key Laboratory of Water-Sediment Sciences and Water Disater prevention of Hunan Province</OrgName>
+                <OrgAddress>
+                  <City>Changsha</City>
+                  <Postcode>410004</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>The coupling numerical model of wave interaction with porous medium is used to study wave-induced pore water pressure in high permeability seabed. In the model, the wave field solver is based on the two dimensional Reynolds-averaged Navier-Stokes (RANS) equations with a <Emphasis Type="Italic">k</Emphasis>-<Emphasis Type="Italic">ɛ</Emphasis> closure, and Forchheimer equations are adopted for flow within the porous media. By introducing a Velocity-Pressure Correction equation for the wave flow and porous flow, a highly efficient coupling between the two flows is implemented. The numerical tests are conducted to study the effects of seabed thickness, porosity, particle size and intrinsic permeability coefficient on regular wave and solitary wave-induced pore water pressure response. The results indicate that, as compared with regular wave-induced, solitary wave-induced pore water pressure has larger values and stronger action on seabed with different parameters. The results also clearly show the flow characteristics of pore water flow within seabed and water wave flow on seabed. The maximum pore water flow velocities within seabed under solitary wave action are higher than those under regular wave action.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>solitary wave</Keyword>
+              <Keyword>regular wave</Keyword>
+              <Keyword>highly permeable</Keyword>
+              <Keyword>seabed</Keyword>
+              <Keyword>pore water pressure</Keyword>
+              <Keyword>numerical study</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Foundation items: The National Natural Science Foundation of China under contract Nos 50909009, 50979008 and 41176072; the Open Foundation of the State Key Laboratory of Coastal and Offshore Engineering in Dalian University of Technology of China under contract No. LP1004; the Ph.D. Program Foundation of Ministry of Education of China under contract No. 20094316110002.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/13131_2012_Article_252.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M. A.</Initials>
+                    <FamilyName>Biot</FamilyName>
+                  </BibAuthorName>
+                  <Year>1941</Year>
+                  <ArticleTitle Language="En">General theory of three-dimensional consolidation</ArticleTitle>
+                  <JournalTitle>Journal of applied physics</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>155</FirstPage>
+                  <LastPage>164</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.1712886</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Biot M A. 1941. General theory of three-dimensional consolidation. Journal of applied physics, 12(2): 155–164</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Buscombe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Masselink</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Concepts in gravel beaches dynamics</ArticleTitle>
+                  <JournalTitle>Earth Science Reviews</JournalTitle>
+                  <VolumeID>79</VolumeID>
+                  <IssueID>1–2</IssueID>
+                  <FirstPage>33</FirstPage>
+                  <LastPage>52</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.earscirev.2006.06.003</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Buscombe D, Masselink G. 2006. Concepts in gravel beaches dynamics. Earth Science Reviews, 79(1–2): 33–52</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>H. H.</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>Interaction of water waves and submerged permeable offshore structures [dissertation]</BookTitle>
+                  <PublisherName>The National Cheng Kung University</PublisherName>
+                  <PublisherLocation>Tainan, Taiwan</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Chang H H. 2004. Interaction of water waves and submerged permeable offshore structures [dissertation]. Tainan, Taiwan: The National Cheng Kung University</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Cheng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Jiang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">A coupled numerical model of wave interaction with porous medium</ArticleTitle>
+                  <JournalTitle>Ocean Engineering</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <IssueID>12–13</IssueID>
+                  <FirstPage>952</FirstPage>
+                  <LastPage>959</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.oceaneng.2009.06.001</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cheng Yongzhou, Jiang Changbo, Wang Yongxue. 2009. A coupled numerical model of wave interaction with porous medium. Ocean Engineering, 36(12–13): 952–959</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E. C.</Initials>
+                    <FamilyName>Cruz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Isobe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Watanabe</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Boussinesq equations for wave transformation on porous beds</ArticleTitle>
+                  <JournalTitle>Coast Eng</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>125</FirstPage>
+                  <LastPage>156</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0378-3839(96)00039-7</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cruz E C, Isobe M, Watanabe A. 1997. Boussinesq equations for wave transformation on porous beds. Coast Eng, 30(2):125–156</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>Gu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Gravity waves over porous bottom</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>497</FirstPage>
+                  <LastPage>524</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0378-3839(91)90025-C</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gu Z, Wang H. 1991. Gravity waves over porous bottom. Coastal Engineering, 15(5): 497–524</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C. W.</Initials>
+                    <FamilyName>Hirt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B. D.</Initials>
+                    <FamilyName>Nichols</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">Volume of fluid (VOF) method for the dynamics of free boundaries</ArticleTitle>
+                  <JournalTitle>Journal of Computational Physics</JournalTitle>
+                  <VolumeID>139</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>201</FirstPage>
+                  <LastPage>225</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0021-9991(81)90145-5</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hirt C W, Nichols B D. 1981. Volume of fluid (VOF) method for the dynamics of free boundaries. Journal of Computational Physics, 139(1): 201–225</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Horn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Measurement and modelling of gravel beach groundwater response to wave run-up: Effects on beach profile changes</ArticleTitle>
+                  <JournalTitle>Journal of Coastal Research</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>1241</FirstPage>
+                  <LastPage>1249</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2112/06A-0006.1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Horn D, Li L. 2006. Measurement and modelling of gravel beach groundwater response to wave run-up: Effects on beach profile changes. Journal of Coastal Research, 22(5): 1241–1249</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S. C.</Initials>
+                    <FamilyName>Hsiao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P. L. F.</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Nonlinear water waves propagating over a permeable bed</ArticleTitle>
+                  <JournalTitle>Proceedings of the Royal Society of London</JournalTitle>
+                  <VolumeID>458</VolumeID>
+                  <FirstPage>1291</FirstPage>
+                  <LastPage>1322</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1098/rspa.2001.0903</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hsiao S C, Liu P L F, Chen Y. 2002. Nonlinear water waves propagating over a permeable bed. Proceedings of the Royal Society of London, 458: 1291–1322</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C. J.</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H. H.</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H. H.</Initials>
+                    <FamilyName>Hwung</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Structural permeability effects on the interaction of a solitary wave and a submerged breakwater</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <IssueID>1–2</IssueID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>24</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0378-3839(03)00034-6</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Huang C J, Chang H H, Hwung H H. 2003. Structural permeability effects on the interaction of a solitary wave and a submerged breakwater. Coastal Engineering, 49(1–2): 1–24</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C. J.</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. L.</Initials>
+                    <FamilyName>Shen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H. H.</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Propagation of a solitary wave over rigid porous beds</ArticleTitle>
+                  <JournalTitle>Ocean Engineering</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <IssueID>11–12</IssueID>
+                  <FirstPage>1194</FirstPage>
+                  <LastPage>1202</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.oceaneng.2008.04.003</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Huang C J, Shen M L, Chang H H. 2008. Propagation of a solitary wave over rigid porous beds. Ocean Engineering, 35(11–12): 1194–1202</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D. S.</Initials>
+                    <FamilyName>Jeng</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Wave-induced sea floor dynamics</ArticleTitle>
+                  <JournalTitle>Applied Mechanics Reviews</JournalTitle>
+                  <VolumeID>56</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>407</FirstPage>
+                  <LastPage>429</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1115/1.1577359</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jeng D S. 2003. Wave-induced sea floor dynamics. Applied Mechanics Reviews, 56(4): 407–429</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S. A. S. A.</Initials>
+                    <FamilyName>Karunarathna</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Numerical simulation of wave damping over porous seabed</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <IssueID>10</IssueID>
+                  <FirstPage>845</FirstPage>
+                  <LastPage>855</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.coastaleng.2006.05.003</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Karunarathna S A S A, Lin P. 2006. Numerical simulation of wave damping over porous seabed. Coastal Engineering 53(10): 845–855</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">A fixed-grid model for simulating a moving body in free surface flows</ArticleTitle>
+                  <JournalTitle>Computers &amp; Fluids</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>549</FirstPage>
+                  <LastPage>561</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.compfluid.2006.03.004</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lin P. 2007. A fixed-grid model for simulating a moving body in free surface flows. Computers &amp; Fluids, 36(3): 549–561</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P. L. F.</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <Year>1973</Year>
+                  <ArticleTitle Language="En">Damping of water waves over porous bed</ArticleTitle>
+                  <JournalTitle>J Hydraul Div, ASCE</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <IssueID>HY12</IssueID>
+                  <FirstPage>2263</FirstPage>
+                  <LastPage>2271</LastPage>
+                </BibArticle>
+                <BibUnstructured>Liu P L F. 1973. Damping of water waves over porous bed. J Hydraul Div, ASCE, 99(HY12): 2263–2271</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Teng</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Reflection of regular and irregular waves from a partially perforated caisson breakwater with a rock-filled core</ArticleTitle>
+                  <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>129</FirstPage>
+                  <LastPage>141</LastPage>
+                </BibArticle>
+                <BibUnstructured>Liu Yong, Li Yucheng, Teng Bin, et al. 2007. Reflection of regular and irregular waves from a partially perforated caisson breakwater with a rock-filled core. Acta Oceanologica Sinica, 26(3): 129–141</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P. L. F.</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P. Z.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K. A.</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Numerical modeling of wave interaction with porous structures</ArticleTitle>
+                  <JournalTitle>Journal of Waterway, Port, Coastal and Ocean Engineering</JournalTitle>
+                  <VolumeID>125</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>322</FirstPage>
+                  <LastPage>330</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1061/(ASCE)0733-950X(1999)125:6(322)</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Liu P L F, Lin P Z, Chang K A, et al. 1999. Numerical modeling of wave interaction with porous structures. Journal of Waterway, Port, Coastal and Ocean Engineering, 125(6): 322–330</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Jiang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Numerical simulation of wave field near submerged bars by PLIC-VOF model</ArticleTitle>
+                  <JournalTitle>China Ocean Engineering</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>509</FirstPage>
+                  <LastPage>518</LastPage>
+                </BibArticle>
+                <BibUnstructured>Liu Cheng, Liu Xiaoping, Jiang Changbo. 2005. Numerical simulation of wave field near submerged bars by PLIC-VOF model. China Ocean Engineering, 19(3): 509–518</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O. S.</Initials>
+                    <FamilyName>Madsen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1978</Year>
+                  <ArticleTitle Language="En">Wave-induced pore pressures and effective stresses in a porous bed</ArticleTitle>
+                  <JournalTitle>Géotechnique</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>377</FirstPage>
+                  <LastPage>393</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1680/geot.1978.28.4.377</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Madsen O S. 1978. Wave-induced pore pressures and effective stresses in a porous bed, Géotechnique, 28(4): 377–393</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>McFarland</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Whitcombe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Collins</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Recent shingle beach replenishment schemes in the UK: some preliminary observations</ArticleTitle>
+                  <JournalTitle>Ocean and Coastal Management</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <FirstPage>143</FirstPage>
+                  <LastPage>149</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0964-5691(94)90044-2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>McFarland S, Whitcombe L, Collins M. 1994. Recent shingle beach replenishment schemes in the UK: some preliminary observations. Ocean and Coastal Management, 25: 143–149</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C. C.</Initials>
+                    <FamilyName>Mei</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. A.</Initials>
+                    <FamilyName>Foda</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">response in a fluid-filled poro-elastic solid with a free surface: a boundary layer theory</ArticleTitle>
+                  <JournalTitle>Geophysical Journal of the Royal Astronomical Society</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>597</FirstPage>
+                  <LastPage>631</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1365-246X.1981.tb04892.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mei C C, Foda M A. 1981.Wave-induced response in a fluid-filled poro-elastic solid with a free surface: a boundary layer theory. Geophysical Journal of the Royal Astronomical Society, 66(3): 597–631</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. R.</Initials>
+                    <FamilyName>Packwood</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D. H.</Initials>
+                    <FamilyName>Peregrine</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">The propagation of solitary waves and bores over a porous bed</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>221</FirstPage>
+                  <LastPage>242</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0378-3839(79)90022-X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Packwood A R, Peregrine D H. 1980. The propagation of solitary waves and bores over a porous bed. Coastal Engineering, 3: 221–242</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Precht</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Franke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Polerecky</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Oxygen dynamics in permeable sediments with wave-driven pore water exchange</ArticleTitle>
+                  <JournalTitle>Limnology and Oceanography</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>693</FirstPage>
+                  <LastPage>705</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.4319/lo.2004.49.3.0693</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Precht E, Franke U, Polerecky L, et al. 2004. Oxygen dynamics in permeable sediments with wave-driven pore water exchange. Limnology and Oceanography, 49(3): 693–705</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Ren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Numerical simulation of random wave slamming on structures in the splash zone</ArticleTitle>
+                  <JournalTitle>Ocean Engineering</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <IssueID>5–6</IssueID>
+                  <FirstPage>547</FirstPage>
+                  <LastPage>560</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.oceaneng.2003.10.006</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ren Bing, Wang Yongxue. 2004. Numerical simulation of random wave slamming on structures in the splash zone. Ocean Engineering, 31(5–6): 547–560</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Rojanakamthorn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Isobe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Watanabe</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">A mathematical model of wave transformation over a submerged breakwater</ArticleTitle>
+                  <JournalTitle>Coastal Engineering in Japan</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>209</FirstPage>
+                  <LastPage>234</LastPage>
+                </BibArticle>
+                <BibUnstructured>Rojanakamthorn S, Isobe M, Watanabe A. 1989. A mathematical model of wave transformation over a submerged breakwater. Coastal Engineering in Japan, 32(2): 209–234</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Sawargi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I.</Initials>
+                    <FamilyName>Deguchi</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ChapterTitle Language="En">Wave on permeable layers</ChapterTitle>
+                  <BookTitle>Proceedings of the 23rd International Conference on Coastal Engineering</BookTitle>
+                  <PublisherName>ASCE</PublisherName>
+                  <PublisherLocation>Venice</PublisherLocation>
+                  <FirstPage>1531</FirstPage>
+                  <LastPage>1544</LastPage>
+                </BibChapter>
+                <BibUnstructured>Sawargi T, Deguchi I. 1992. Wave on permeable layers. Proceedings of the 23rd International Conference on Coastal Engineering, Venice: ASCE, 1531–1544</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>C. K.</Initials>
+                    <FamilyName>Sollitt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. H.</Initials>
+                    <FamilyName>Cross</FamilyName>
+                  </BibAuthorName>
+                  <Year>1972</Year>
+                  <ChapterTitle Language="En">Wave transmission through permeable breakwaters</ChapterTitle>
+                  <BookTitle>Proceedings 13th Coastal Engineering Conference, Vancouver</BookTitle>
+                  <PublisherName>ASCE</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>1827</FirstPage>
+                  <LastPage>1846</LastPage>
+                </BibChapter>
+                <BibUnstructured>Sollitt C K, Cross R H. 1972. Wave transmission through permeable breakwaters. Proceedings 13th Coastal Engineering Conference, Vancouver. New York: ASCE, 1827–1846</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M. R. A.</Initials>
+                    <FamilyName>Gent</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">The modeling of wave action on and in coastal structure</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <IssueID>3–4</IssueID>
+                  <FirstPage>311</FirstPage>
+                  <LastPage>339</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0378-3839(94)90041-8</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Van Gent M R A. 1994. The modeling of wave action on and in coastal structure. Coastal Engineering, 22(3–4): 311–339</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M. R. A.</Initials>
+                    <FamilyName>Gent</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Porous flow through rubblemound material</ArticleTitle>
+                  <JournalTitle>Journal ofWaterway, Port, Coastal and Ocean Engineering</JournalTitle>
+                  <VolumeID>121</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>176</FirstPage>
+                  <LastPage>181</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1061/(ASCE)0733-950X(1995)121:3(176)</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Van Gent M R A. 1995. Porous flow through rubblemound material. Journal ofWaterway, Port, Coastal and Ocean Engineering, 121(3): 176–181</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Numerical wave channel with absorbing wave-maker</ArticleTitle>
+                  <JournalTitle>China Ocean Engineering</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>149</FirstPage>
+                  <LastPage>160</LastPage>
+                </BibArticle>
+                <BibUnstructured>Wang Yongxue. 1995. Numerical wave channel with absorbing wave-maker. China Ocean Engineering, 9(2): 149–160</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L. J.</Initials>
+                    <FamilyName>Whitcombe</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Behaviour of an artificially replenished shingle beach at Hayling Island, UK</ArticleTitle>
+                  <JournalTitle>Quarterly Journal of Engineering Geology</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>265</FirstPage>
+                  <LastPage>271</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1144/GSL.QJEGH.1996.029.P4.01</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Whitcombe L J. 1996. Behaviour of an artificially replenished shingle beach at Hayling Island, UK. Quarterly Journal of Engineering Geology, 29: 265–271</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Xiao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y. L.</Initials>
+                    <FamilyName>Young</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. H.</Initials>
+                    <FamilyName>Prévost</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Hydro- and morpho-dynamic modeling of breaking solitary waves over a fine sand beach: Part II</ArticleTitle>
+                  <JournalTitle>Numerical simulation. Marine Geology</JournalTitle>
+                  <VolumeID>269</VolumeID>
+                  <IssueID>3–4</IssueID>
+                  <FirstPage>119</FirstPage>
+                  <LastPage>131</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1016/j.margeo.2009.12.008</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Xiao H, Young Y L, Prévost J H. 2010. Hydro- and morpho-dynamic modeling of breaking solitary waves over a fine sand beach: Part II. Numerical simulation. Marine Geology, 269(3–4): 119–131</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Yamamoto</FamilyName>
+                  </BibAuthorName>
+                  <Year>1978</Year>
+                  <ArticleTitle Language="En">On the response of poro-elastic bed to water waves, J</ArticleTitle>
+                  <JournalTitle>Fluid Mech.</JournalTitle>
+                  <VolumeID>87</VolumeID>
+                  <IssueID>Part1</IssueID>
+                  <FirstPage>193</FirstPage>
+                  <LastPage>206</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1017/S0022112078003006</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yamamoto T. 1978. On the response of poro-elastic bed to water waves, J. Fluid Mech., 87(Part 1): 193–206</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y. L.</Initials>
+                    <FamilyName>Young</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Xiao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Maddux</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Hydro- and morpho-dynamic modeling of breaking solitary waves over a fine sand beach: Part I</ArticleTitle>
+                  <JournalTitle>Experimental study. Marine Geology</JournalTitle>
+                  <VolumeID>269</VolumeID>
+                  <IssueID>3–4</IssueID>
+                  <FirstPage>107</FirstPage>
+                  <LastPage>118</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.margeo.2009.12.009</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Young Y L, Xiao H, Maddux T. 2010. Hydro- and morpho-dynamic modeling of breaking solitary waves over a fine sand beach: Part I. Experimental study. Marine Geology, 269(3–4): 107–118</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>D. L.</Initials>
+                    <FamilyName>Youngs</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ChapterTitle Language="En">Time-dependent multi-material flow with large fluid distortion</ChapterTitle>
+                  <BookTitle>Numerical Methods for Fluid Dynamics: Proceedings of a First Conference</BookTitle>
+                  <PublisherName>Academic Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>273</FirstPage>
+                  <LastPage>285</LastPage>
+                </BibChapter>
+                <BibUnstructured>Youngs D L. 1982. Time-dependent multi-material flow with large fluid distortion, In: Numerical Methods for Fluid Dynamics: Proceedings of a First Conference, New York: Academic Press, 273–285</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Zang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <BookTitle>Wave Induced Seepage Force Action on Cylinder Sitting on Deformable Seabed (In Chinese) [dissertation]</BookTitle>
+                  <PublisherName>Dalian University of Technology</PublisherName>
+                  <PublisherLocation>Dalian</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Zang Jun. 1992. Wave Induced Seepage Force Action on Cylinder Sitting on Deformable Seabed (In Chinese) [dissertation]. Dalian: Dalian University of Technology</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

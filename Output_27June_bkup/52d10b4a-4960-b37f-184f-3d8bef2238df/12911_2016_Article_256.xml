@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>BioMed Central</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+    <PublisherImprintName>BioMed Central</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="Online">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12911</JournalID>
+      <JournalElectronicISSN>1472-6947</JournalElectronicISSN>
+      <JournalTitle>BMC Medical Informatics and Decision Making</JournalTitle>
+      <JournalSubTitle>BMC series – open, inclusive and trusted</JournalSubTitle>
+      <JournalAbbreviatedTitle>BMC Med Inform Decis Mak</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH28009" Priority="1" Type="Secondary">Health Informatics</JournalSubject>
+        <JournalSubject Code="SCI18008" Priority="2" Type="Secondary">Information Systems and Communication Service</JournalSubject>
+        <JournalSubject Code="SCI24067" Priority="3" Type="Secondary">Management of Computing and Information Systems</JournalSubject>
+        <SubjectCollection Code="Medicine">SC11</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="Online">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>16</VolumeIDStart>
+        <VolumeIDEnd>16</VolumeIDEnd>
+        <VolumeIssueCount>1</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="Online">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>0</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>12</Month>
+            </CoverDate>
+            <PricelistYear>2016</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Author(s)</CopyrightHolderName>
+            <CopyrightYear>2016</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s12911-016-0256-9" OutputMedium="Online">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>256</ArticleID>
+            <ArticleDOI>10.1186/s12911-016-0256-9</ArticleDOI>
+            <ArticleCitationID>15</ArticleCitationID>
+            <ArticleSequenceNumber>15</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">A web-based data visualization tool for the MIMIC-II database</ArticleTitle>
+            <ArticleCategory>Software</ArticleCategory>
+            <ArticleCollection ID="AC_ea62e35caaebe1f8b4c9d9f1546a44b6" Type="SubjectSection">
+              <ArticleCollectionTitle>Healthcare Information Systems</ArticleCollectionTitle>
+            </ArticleCollection>
+            <ArticleFirstPage>1</ArticleFirstPage>
+            <ArticleLastPage>8</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+              </Received>
+              <Accepted>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleFundingInformation>
+              <Fund>
+                <FunderName FundRefID="http://dx.doi.org/10.13039/501100000038">Natural Sciences and Engineering Research Council of Canada (CA)</FunderName>
+                <GrantNumber GrantRecipient="Au1" Type="FundRef">RGPIN-2014-04743</GrantNumber>
+              </Fund>
+            </ArticleFundingInformation>
+            <ArticleCopyright>
+              <CopyrightHolderName>Lee et al.</CopyrightHolderName>
+              <CopyrightYear>2016</CopyrightYear>
+              <License SubType="CC BY + CC0" Type="OpenAccess" Version="4.0">
+                <SimplePara>
+                           <Emphasis Type="Bold">Open Access</Emphasis>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ExternalRef>
+                    <RefSource>http://creativecommons.org/licenses/by/4.0/</RefSource>
+                    <RefTarget Address="http://creativecommons.org/licenses/by/4.0/" TargetType="URL"/>
+                  </ExternalRef>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ExternalRef>
+                    <RefSource>http://creativecommons.org/publicdomain/zero/1.0/</RefSource>
+                    <RefTarget Address="http://creativecommons.org/publicdomain/zero/1.0/" TargetType="URL"/>
+                  </ExternalRef>) applies to the data made available in this article, unless otherwise stated.</SimplePara>
+              </License>
+            </ArticleCopyright>
+            <ArticleGrants Type="OpenChoice">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1" ID="Au1" ORCID="http://orcid.org/0000-0001-8593-9321">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Joon</GivenName>
+                  <FamilyName>Lee</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>joon.lee@uwaterloo.ca</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1" ID="Au2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Evan</GivenName>
+                  <FamilyName>Ribey</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>eeribey@uwaterloo.ca</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1" ID="Au3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>James</GivenName>
+                  <GivenName>R.</GivenName>
+                  <FamilyName>Wallace</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>james.wallace@uwaterloo.ca</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>School of Public Health and Health Systems</OrgDivision>
+                <OrgName>University of Waterloo</OrgName>
+                <OrgAddress>
+                  <City>Waterloo</City>
+                  <State>ON</State>
+                  <Country Code="CA">Canada</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <AbstractSection ID="ASec1">
+                <Heading>Background</Heading>
+                <Para ID="Par1">Although MIMIC-II, a public intensive care database, has been recognized as an invaluable resource for many medical researchers worldwide, becoming a proficient MIMIC-II researcher requires knowledge of SQL programming and an understanding of the MIMIC-II database schema. These are challenging requirements especially for health researchers and clinicians who may have limited computer proficiency. In order to overcome this challenge, our objective was to create an interactive, web-based MIMIC-II data visualization tool that first-time MIMIC-II users can easily use to explore the database.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2">
+                <Heading>Results</Heading>
+                <Para ID="Par2">The tool offers two main features: Explore and Compare. The Explore feature enables the user to select a patient cohort within MIMIC-II and visualize the distributions of various administrative, demographic, and clinical variables within the selected cohort. The Compare feature enables the user to select two patient cohorts and visually compare them with respect to a variety of variables. The tool is also helpful to experienced MIMIC-II researchers who can use it to substantially accelerate the cumbersome and time-consuming steps of writing SQL queries and manually visualizing extracted data.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3">
+                <Heading>Conclusions</Heading>
+                <Para ID="Par3">Any interested researcher can use the MIMIC-II data visualization tool for free to quickly and conveniently conduct a preliminary investigation on MIMIC-II with a few mouse clicks. Researchers can also use the tool to learn the characteristics of the MIMIC-II patients. Since it is still impossible to conduct multivariable regression inside the tool, future work includes adding analytics capabilities. Also, the next version of the tool will aim to utilize MIMIC-III which contains more data.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Medical data visualization</Keyword>
+              <Keyword>Medical data exploration</Keyword>
+              <Keyword>Web-based software tools</Keyword>
+            </KeywordGroup>
+            <AbbreviationGroup>
+              <Heading>Abbreviations</Heading>
+              <DefinitionList>
+                <DefinitionListEntry>
+                  <Term>AJAX</Term>
+                  <Description>
+                    <Para ID="Par4">asynchronous JavaScript and XML</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>CCU</Term>
+                  <Description>
+                    <Para ID="Par5">coronary care unit</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>CSRU</Term>
+                  <Description>
+                    <Para ID="Par6">cardiac surgery recovery unit</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>DOM</Term>
+                  <Description>
+                    <Para ID="Par7">document object model</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>EMR</Term>
+                  <Description>
+                    <Para ID="Par8">electronic medical record</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>GUI</Term>
+                  <Description>
+                    <Para ID="Par9">graphical user interface</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>ICD</Term>
+                  <Description>
+                    <Para ID="Par10">international classification of diseases</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>ICU</Term>
+                  <Description>
+                    <Para ID="Par11">intensive care unit</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>MICU</Term>
+                  <Description>
+                    <Para ID="Par12">medical intensive care unit</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>SICU</Term>
+                  <Description>
+                    <Para ID="Par13">surgical intensive care unit</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>SQL</Term>
+                  <Description>
+                    <Para ID="Par14">structured query language</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>SVG</Term>
+                  <Description>
+                    <Para ID="Par15">scalar vector graphic</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>VM</Term>
+                  <Description>
+                    <Para ID="Par16">virtual machine</Para>
+                  </Description>
+                </DefinitionListEntry>
+              </DefinitionList>
+            </AbbreviationGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1" Type="Introduction">
+              <Heading>Background</Heading>
+              <Para ID="Par17">As many hospitals and clinics across North America and other parts of the world continue to adopt electronic medical record (EMR) systems, research interests have been shifting from EMR data collection to EMR data analytics. This shift in research focus has been fueled by the recent excitement around Big Data analytics and data-driven approaches for clinical decision support and knowledge discovery [<CitationRef CitationID="CR1">1</CitationRef>]. In order for medical researchers to advance EMR data analytics, gaining access to large-scale EMR data is the most important first step, and the public intensive care database called MIMIC-II, which has been described by Lee et al. [<CitationRef CitationID="CR2">2</CitationRef>], has played an important role in this regard over the past few years. The current public release of MIMIC-II (version 2.6), the descriptive statistics of which are reported in [<CitationRef CitationID="CR2">2</CitationRef>], contains rich administrative, demographic, and clinical data from 32,000 unique patients admitted to the intensive care units (ICUs) at Beth Israel Deaconess Medical Center (Boston, MA, USA). More than 725 researchers from more than 32 countries currently have no-cost access to MIMIC-II (upon completing human subjects training and signing a data use agreement), and the number of MIMIC-II users continues to grow by over 50 % per year. Numerous research studies have been published based on MIMIC-II [<CitationRef CitationID="CR3">3</CitationRef>–<CitationRef CitationID="CR6">6</CitationRef>].</Para>
+              <Para ID="Par18">Approved MIMIC-II users can access the clinical part of the database (as opposed to the waveforms, i.e., physiologic tracings such as electrocardiograms gathered from ICU bedside monitors, which can be accessed through other methods described on PhysioNet [<CitationRef CitationID="CR7">7</CitationRef>]) via two most popular ways [<CitationRef CitationID="CR8">8</CitationRef>]: 1) the web-based tool called QueryBuilder or 2) a MIMIC-II virtual machine (VM). There is also a third, less frequently used option where the user can download the raw data in text files and use a schema builder to manually construct the database. Although both QueryBuilder and the VM are easy-to-use and platform-independent, they require knowledge in Structured Query Language (SQL) which has been identified as the biggest barrier for clinicians and health researchers who may lack the relevant computer programming skills. Even for computer scientists and engineers well-versed in SQL, there is a non-trivial learning curve associated with understanding the MIMIC-II database schema as well as the clinical nuances involved in understanding EMR data.</Para>
+              <Para ID="Par19">While comprehensive medical data warehousing and analytics platforms such as STRIDE [<CitationRef CitationID="CR9">9</CitationRef>] and i2b2 [<CitationRef CitationID="CR10">10</CitationRef>] exist, public web-based tools for convenient data visualization and exploration have been almost non-existent in medical research, not to mention that truly public medical databases have been rare as well. MIMIC-II already is an innovation in that it is available to any interested researcher for free, but the impact of MIMIC-II can be further extended by going beyond simply granting access and making it easy for any medical researcher to rapidly explore MIMIC-II.</Para>
+              <Para ID="Par20">To facilitate and accelerate initial steps for anyone wishing to utilize MIMIC-II for their research, our objective was to develop a web-based MIMIC-II data visualization tool that would enable a quick, convenient MIMIC-II data exploration for preliminary investigation and feasibility estimation prior to embarking on a research study. The purpose of the tool is to allow the user to quickly visualize key aggregate statistics (e.g., sample size, distributions of clinical variables) of a patient cohort of interest within MIMIC-II, rather than to enable the user to download raw patient-level data, which should still be accomplished via QueryBuilder or the MIMIC-II VM.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Implementation</Heading>
+              <Section2 ID="Sec3">
+                <Heading>Main visualization features</Heading>
+                <Para ID="Par21">The MIMIC-II data visualization tool was designed to provide two main features: Explore and Compare. The Explore feature was implemented in such a way that the user can select a patient cohort based on admission ICU service type, gender, age, and primary International Classification of Diseases 9 (ICD-9) code. The four adult ICU service types in MIMIC-II are medical ICU (MICU), surgical ICU (SICU), coronary care unit (CCU), and cardiac surgery recovery unit (CSRU), with a total of 24,538 unique patients from these units. The fifth ICU service type in MIMIC-II is neonatal ICU (NICU) which was excluded from this tool’s scope due to neonates’ physiologic and clinical differences compared to adults. Then, the user can select the variables to be visualized within the selected cohort from categorized lists, which are tabulated in Table <InternalRef RefID="Tab1">1</InternalRef>. For vital signs and lab test results, the user can select from the following five options as well: the admission, discharge, minimum, maximum, or average value of the ICU stay. Once the tool is finished plotting the results, continuous and categorical variables are displayed in histograms and pie charts, respectively, except the total numbers of unique ICU stays and patients, patient outcomes, and interventions, which are shown in text.<Table Float="Yes" ID="Tab1">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Categories and their corresponding variables that the user can select to visualize</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="2">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <thead>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Category</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Variables</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Demographic information</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>age, ethnicity, gender, marital status, religion</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Administrative information</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>admission ICU service type, admission source, admission type, number of days between ICU and hospital admissions, insurance type</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Patient outcomes</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>mortality at 28 days post-discharge from the hospital, hospital length of stay, hospital mortality, ICU mortality, ICU length of stay, 2-year survival days post-discharge from the hospital</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Vital signs</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>heart rate, mean arterial blood pressure, oxygen saturation, respiratory rate, systolic blood pressure, body temperature</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Lab test results</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>bicarbonate, calcium, chlorine, creatinine, glucose, hematocrit, lactate, magnesium, phosphorus, potassium, sodium, white blood cell count</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Interventions</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>hemodialysis, peritoneal dialysis, total time on mechanical ventilation, vasopressor administration</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Miscellaneous</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>amount of colloids administered, amount of crystalloids administered, body mass index, fluid balance, height, primary ICD-9, SOFA (sequential organ failure assessment) score, SAPS (simplified acute physiology score) I score, urine output, weight</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </Table>
+                        </Para>
+                <Para ID="Par22">The Compare feature was designed to enable the user to visually compare two patient cohorts with respect to selected variables to be visualized. For both cohorts, the same cohort selection criteria as those available in the Explore feature are available. The categorized variables in Table <InternalRef RefID="Tab1">1</InternalRef> are again available for visualization in the Compare feature. For comparison purposes, continuous and categorical variables are visualized in box plots and stacked bar plots, respectively. Like the Explore feature, the following information is displayed in text: the total numbers of unique ICU stays and patients, patient outcomes, and interventions.</Para>
+                <Para ID="Par23">Both the Explore and Compare features were designed to exclude missing data from visualization.</Para>
+              </Section2>
+              <Section2 ID="Sec4">
+                <Heading>Front-end and back-end of the tool</Heading>
+                <Para ID="Par24">The front-end of the MIMIC-II data visualization tool was designed to be a web-based graphical user interface (GUI) that can be accessed from any web browser. The front-end at the client side communicates with an Apache web server hosted in the Health Data Science Lab (HDSL) at the University of Waterloo. In turn, this web server submits a data request to a database server in the HDSL that hosts a copy of MIMIC-II. Once the retrieved data are reformatted and relayed back to the user by the web server, the visualization results are further processed and displayed within the client’s web browser. Overall, the tool incorporates multiple programming languages. The front-end was created using HTML, CSS, and the JavaScript libraries jQuery and D3.js. The back-end (the server side) of the tool was programmed in PHP and PostgreSQL.</Para>
+                <Para ID="Par25">For the ensuing detailed description of the implementation, refer to Fig. <InternalRef RefID="Fig1">1</InternalRef> for an easy-to-understand illustration. The tool starts by generating the static portion of the webpage by pulling the appropriate information files from the web server. Upon user selection of cohort criteria and variables to be visualized, the required information is pulled from each of the appropriate document object models (DOMs) through jQuery, stored in a JSON object, and sent to the web server through an Asynchronous JavaScript and XML (AJAX) call. The information is sent through an AJAX call as opposed to page forwarding in order to store previous results and pull information from different tabs on the GUI upon switching between the Explore and Compare features.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>A diagram describing how the visualization tool works. The sequence of steps is indicated by arrows, while the colour of each box refers to the programming language used</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_256_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                        </Para>
+                <Para ID="Par26">Once the client’s web browser sends a request to the web server, a PHP script filters and cross-references the information from the user through a dictionary that translates the requested variables to their corresponding columns in a custom PostgreSQL table. This table is not part of the standard MIMIC-II release and essentially contains all ICU stays as rows and all variables for cohort selection and visualization as columns. This table was created based on multiple tables contained in the original MIMIC-II schema so that computational time can be minimized on the fly by bypassing computationally expensive table joins. Subsequently, an appropriate PostgreSQL query is generated and submitted to the database server to extract the required data. Separate queries are constructed and submitted for the results that are displayed in text later (i.e., the total numbers of unique ICU stays and patients, patient outcomes, and interventions). Once all data extraction and processing is completed on the server side, the final data are sent back to the user as a JSON object. Additional information that is included within the JSON object are variable names and units of measurement.</Para>
+                <Para ID="Par27">Once the data arrive at the client side, D3.js-based scripts process and reformat the received JSON object so that it can be interpreted by D3.js, while differentiating continuous and categorical variables. D3.js then iterates over the variables to be visualized and draws an appropriate scalar vector graphic (SVG) for each. Finally, titles, axes, and labels are added to the figures, and the visualization is ready for viewing on the user’s web browser.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec5" Type="Results">
+              <Heading>Results and Discussion</Heading>
+              <Para ID="Par28">The MIMIC-II data visualization tool is available at <ExternalRef>
+                  <RefSource>http://hdsl.uwaterloo.ca/visualization-tool/</RefSource>
+                  <RefTarget Address="http://hdsl.uwaterloo.ca/visualization-tool/" TargetType="URL"/>
+                </ExternalRef>. The GUI allows the user to toggle among three tabs: Introduction, Explore, and Compare. The Introduction tab displays general information about the tool, MIMIC-II, and the creators of the tool. The Explore and Compare tabs present their respective features. On all three tabs, a disclaimer for the user is stated at the bottom of the webpage.</Para>
+              <Section2 ID="Sec6">
+                <Heading>The Explore feature</Heading>
+                <Para ID="Par29">Figure <InternalRef RefID="Fig2">2</InternalRef> shows a screenshot of the Explore tab. Instructions for how to use the Explore feature is shown at the top of the webpage. In the Selection Criteria panel located immediately below the Instructions panel, the user can set cohort inclusion and exclusion criteria.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>A screenshot of the visualization tool showing the Explore feature. Selection of all MICU and SICU patients aged between 30 and 70 is shown</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_256_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                        </Para>
+                <Para ID="Par30">Figure <InternalRef RefID="Fig3">3</InternalRef> shows part of the visualization results for the cohort selection criteria shown in Fig. <InternalRef RefID="Fig2">2</InternalRef>. The numbers of unique patients and ICU stays included in the selected cohort as well as intervention and patient outcome information are displayed textually in the ICU Stay Information panel. Under Demographic Information in Fig. <InternalRef RefID="Fig3">3</InternalRef>, the two types of visualization, namely histogram and pie chart, are demonstrated for age and ethnicity. All other continuous and categorical variables are visualized in similar histograms and pie charts, respectively.<Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>A screenshot of an example Explore visualization. The results correspond to the cohort selection in Fig. <InternalRef RefID="Fig2">2</InternalRef>
+                                    </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_256_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                        </Para>
+              </Section2>
+              <Section2 ID="Sec7">
+                <Heading>The Compare feature</Heading>
+                <Para ID="Par31">The top of the Compare tab resembles Fig. <InternalRef RefID="Fig2">2</InternalRef>, except that the instructions are slightly different and that there are two cohort selection panels (each is identical to the Selection Criteria panel shown in Fig. <InternalRef RefID="Fig2">2</InternalRef>). As an example, Fig. <InternalRef RefID="Fig4">4</InternalRef> shows the Compare results when the first and second cohorts are the entire MICU and SICU patients, respectively, and the following variables are selected to be visualized: the three mortality outcomes (28-day, hospital, and ICU mortality), primary ICD-9, and admission SOFA. Since ICD-9 and SOFA are categorical and continuous, respectively, they are visualized as a stacked bar plot and a box plot, respectively.<Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>A screenshot of an example Compare visualization. The first and second cohorts selected here are the entire MICU and SICU cohorts, respectively. Only the mortality outcomes (28-day, hospital, and ICU mortality), primary ICD-9, and admission SOFA score were selected to be visualized</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO4">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_256_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                        </Para>
+              </Section2>
+              <Section2 ID="Sec8">
+                <Heading>Possible applications</Heading>
+                <Para ID="Par32">The MIMIC-II data visualization tool provides a convenient way to quickly explore MIMIC-II prior to embarking on a research study. For researchers who are new to MIMIC-II, the tool enables them to conduct a preliminary investigation on MIMIC-II without any knowledge of SQL or the MIMIC-II database schema. Such a preliminary investigation often targets checking sample size and descriptive statistics prior to an in-depth research study, or simply learning the characteristics of the MIMIC-II patients by studying the distributions of various variables. Also, the Compare feature of the tool allows researchers to visually check for unadjusted differences between patient cohorts with respect to selected variables.</Para>
+                <Para ID="Par33">For example, the Explore example shown in Figs. <InternalRef RefID="Fig2">2</InternalRef> and <InternalRef RefID="Fig3">3</InternalRef> can be used to see if sample size is sufficiently large to study MICU and SICU patients aged between 30 and 70 who underwent peritoneal dialysis. Figure <InternalRef RefID="Fig3">3</InternalRef> shows that there are only 50 ICU stays that meet the inclusion criteria, which would be considered too small for most multivariable regression models. Furthermore, the Compare example shown in Fig. <InternalRef RefID="Fig4">4</InternalRef> can be conducted to check feasibility for mortality studies comparing MICU and SICU. The difference in crude mortality rates between MICU and SICU can readily be calculated, and the differences in ICD-9 codes and SOFA scores can help with understanding the overall severity of illness and patient characteristics in the two cohorts. These observations can inform selection of confounding variables.</Para>
+                <Para ID="Par34">The tool is also helpful to experienced researchers who are already familiar with MIMIC-II, since it allows them to bypass the cumbersome steps of 1) writing and running SQL queries, and 2) loading, processing, and analyzing the extracted data in an analytics environment (e.g., R, Python). Iterating through these steps are inevitable at the beginning of most research projects that involve MIMIC-II [<CitationRef CitationID="CR8">8</CitationRef>], especially when various patient sub-cohorts within MIMIC-II need to be checked for study feasibility. By substantially speeding up the time-consuming steps described above, the tool is valuable even to experienced researchers who can use the tool to quickly and efficiently screen for feasibility of research ideas.</Para>
+              </Section2>
+              <Section2 ID="Sec9">
+                <Heading>Limitations</Heading>
+                <Para ID="Par35">The most prominent limitation of the MIMIC-II data visualization tool is that it can only aid simple data exploration. Once the researcher is content with the outcome of a preliminary investigation based on the tool, the core of most research studies, such as multivariable regression, usually requires an elaborate SQL query for extraction of raw patient-level, rather than aggregate, data. At this stage, the researcher is required to understand the MIMIC-II database schema and run the SQL query using either QueryBuilder or the MIMIC-II VM.</Para>
+                <Para ID="Par36">Another limitation is that the tool can take up to a minute to complete a given visualization job, especially when all available variables are selected for visualization. The running time can be substantially shortened by either deselecting variables that the user does not wish to visualize or by using a more powerful computer at the client side, since the most time-consuming step is the iterations through all selected variables for SVG preparation at the client side.</Para>
+                <Para ID="Par37">Given that health services delivery and medical technologies constantly change over time, an important dimension for MIMIC-II researchers is date of ICU admission. However, all actual dates in MIMIC-II have been randomly shifted through a de-identification process in order to comply with the Health Insurance Portability and Accountability Act (HIPAA) for public release [<CitationRef CitationID="CR2">2</CitationRef>]. Hence, an important limitation of MIMIC-II, and of the MIMIC-II data visualization tool as a result, is that it is impossible to study trends or changes over time.</Para>
+                <Para ID="Par38">Lastly, because NICU data were excluded from the tool, researchers interested in neonatal intensive care cannot benefit from the tool.</Para>
+              </Section2>
+              <Section2 ID="Sec10">
+                <Heading>Future work</Heading>
+                <Para ID="Par39">To address the lack of analytics described in the Limitations section above, a promising future direction is to add a third feature to the tool, namely Analyze. The Analyze feature would allow the user to conduct simple statistical tests such as a <Emphasis Type="Italic">t</Emphasis>-test or a chi-square test, as well as multivariable logistic regression using user-selected covariates and patient outcomes within a specific cohort, all at the convenience of a few mouse clicks within a web browser. Furthermore, enabling the user to develop machine learning algorithms as part of the Analyze feature is a possibility. Since JavaScript offers limited analytics functionalities, it may be best to implement the Analyze feature in R, Python, or Java.</Para>
+                <Para ID="Par40">In addition, an export function seems desirable in the next version of the tool. Such a function would enable the user to export individual figures or raw data that led to the figures. Since only approved MIMIC-II users should be able to download raw patient-level data due to the need for human subjects training and a data use agreement, the user would be asked to log in using their official MIMIC-II account before using the data download function.</Para>
+                <Para ID="Par41">The provider order entry (POE) data in MIMIC-II contain useful information about prescribed medications. However, these data require careful pre-processing since both generic and branded medication names are used interchangeably. The algorithms developed by Warner et al. [<CitationRef CitationID="CR11">11</CitationRef>] can be incorporated by the MIMIC-II data visualization tool to normalize and show medication data.</Para>
+                <Para ID="Par42">Lastly, the latest version of MIMIC, MIMIC-III, was released to the public in August 2015 (see <ExternalRef>
+                    <RefSource>http://mimic.physionet.org</RefSource>
+                    <RefTarget Address="http://mimic.physionet.org" TargetType="URL"/>
+                  </ExternalRef>). MIMIC-III contains approximately 46,000 unique patients, including all MIMIC-II patients. A meaningful future step would be to adapt the visualization tool to MIMIC-III, although this would be more complicated than simply having the tool point to MIMIC-III due to the major differences between MIMIC-II and MIMIC-III schemas. Furthermore, including all NICU data in MIMIC-III would be another way to expand the utility of the tool.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec11" Type="Conclusion">
+              <Heading>Conclusions</Heading>
+              <Para ID="Par43">The MIMIC-II data visualization tool is an intuitive, interactive web-based tool that allows any researcher to explore MIMIC-II without any knowledge of SQL or the MIMIC-II database schema. It provides the flexibility of selecting patient cohorts of interest, as well as a long list of administrative, demographic, and clinical variables that can be visualized. This tool can greatly facilitate and accelerate the preliminary investigation stage of MIMIC-II-based research studies, for both experienced and inexperienced MIMIC-II researchers.</Para>
+              <Section2 ID="Sec12">
+                <Heading>Availability and requirements</Heading>
+                <Para ID="Par44">
+                  <UnorderedList Mark="Bullet">
+                    <ItemContent>
+                      <Para ID="Par45">
+                                    <Emphasis Type="Bold">Project name</Emphasis>: MIMIC-II data visualization</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par46">
+                                    <Emphasis Type="Bold">Project home page</Emphasis>: <ExternalRef>
+                          <RefSource>http://hdsl.uwaterloo.ca/visualization-tool/</RefSource>
+                          <RefTarget Address="http://hdsl.uwaterloo.ca/visualization-tool/" TargetType="URL"/>
+                        </ExternalRef>
+                                 </Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par47">
+                                    <Emphasis Type="Bold">Operating system</Emphasis> (<Emphasis Type="Bold">s</Emphasis>): Platform independent</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par48">
+                                    <Emphasis Type="Bold">Programming language</Emphasis>: JavaScript, D3.js, jQuery, PHP, PostgreSQL, HTML, CSS</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par49">
+                                    <Emphasis Type="Bold">Other requirements</Emphasis>: Any web browser</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par50">
+                                    <Emphasis Type="Bold">License</Emphasis>: Free to use, source code available upon request</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par51">
+                                    <Emphasis Type="Bold">Any restrictions to use by non</Emphasis>-<Emphasis Type="Bold">academics</Emphasis>: None</Para>
+                    </ItemContent>
+                  </UnorderedList>
+                </Para>
+              </Section2>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/12911_2016_Article_256.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <ArticleNote Type="Misc">
+              <Heading>Competing interests</Heading>
+              <SimplePara>The authors have no competing interests.</SimplePara>
+            </ArticleNote>
+            <ArticleNote Type="Misc">
+              <Heading>Authors’ contributions</Heading>
+              <SimplePara>JL conceived the data visualization tool, wrote the SQL query that created the custom table the tool extracts data from, supervised software development, and wrote the manuscript. ER developed the tool under the supervision of JL and JW, and proofread the manuscript. JW supervised software development, contributed ideas for data visualization techniques, and critically revised the manuscript. All authors read and approved the final manuscript.</SimplePara>
+            </ArticleNote>
+            <Acknowledgments>
+              <Heading>Acknowledgements</Heading>
+              <SimplePara>JL was supported by a Discovery Grant (RGPIN-2014-04743) from the Natural Sciences and Engineering Research Council of Canada (NSERC), as well as the University of Waterloo as a faculty member. ER was supported by the School of Public Health and Health Systems, University of Waterloo, as well as the Undergraduate Research Internship Program of the University of Waterloo, as a co-op student. JW was supported by the University of Waterloo as a faculty member.</SimplePara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>MIT Technology Review. Data-driven health care. MIT Technol Rev. 2014;117:1–19. <ExternalRef>
+                    <RefSource>https://www.technologyreview.com/business-report/data-driven-health-care/</RefSource>
+                    <RefTarget Address="https://www.technologyreview.com/business-report/data-driven-health-care/" TargetType="URL"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DJ</Initials>
+                    <FamilyName>Scott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Villarroel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GD</Initials>
+                    <FamilyName>Clifford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Saeed</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RG</Initials>
+                    <FamilyName>Mark</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Open-access MIMIC-II database for intensive care research</ArticleTitle>
+                  <JournalTitle>IEEE Eng Med Biol Soc</JournalTitle>
+                  <VolumeID>2011</VolumeID>
+                  <FirstPage>8315</FirstPage>
+                  <LastPage>8318</LastPage>
+                </BibArticle>
+                <BibUnstructured>Lee J, Scott DJ, Villarroel M, Clifford GD, Saeed M, Mark RG. Open-access MIMIC-II database for intensive care research. IEEE Eng Med Biol Soc. 2011;2011:8315–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Maslove</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Dubin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2015</Year>
+                  <ArticleTitle Language="En">Personalized Mortality Prediction Driven by Electronic Medical Data and a Patient Similarity Metric</ArticleTitle>
+                  <JournalTitle>PLoS One</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <BibArticleNumber>e0127428</BibArticleNumber>
+                  <Occurrence Type="PMCID">
+                    <Handle>4433333</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1371/journal.pone.0127428</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>25978419</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lee J, Maslove DM, Dubin JA. Personalized Mortality Prediction Driven by Electronic Medical Data and a Patient Similarity Metric. PLoS One. 2015;10, e0127428.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Mandelbaum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DJ</Initials>
+                    <FamilyName>Scott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RG</Initials>
+                    <FamilyName>Mark</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Malhotra</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Howell</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Empirical relationships among oliguria, creatinine, mortality, and renal replacement therapy in the critically ill</ArticleTitle>
+                  <JournalTitle>Intensive Care Med</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>414</FirstPage>
+                  <LastPage>419</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>3580030</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00134-012-2767-x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3sXjtFGitLc%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23223822</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mandelbaum T, Lee J, Scott DJ, Mark RG, Malhotra A, Howell MD, et al. Empirical relationships among oliguria, creatinine, mortality, and renal replacement therapy in the critically ill. Intensive Care Med. 2013;39:414–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Lee J, De Louw E, Niemi M, Nelson R, Mark RG, Celi LA, et al. Association between fluid balance and survival in critically ill patients. J Intern Med. 2014. doi: <ExternalRef><RefSource>10.1111/joim.12274</RefSource><RefTarget TargetType="DOI" Address="10.1111/joim.12274"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Danziger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>William</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DJ</Initials>
+                    <FamilyName>Scott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L-W</Initials>
+                    <FamilyName>Lehman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RG</Initials>
+                    <FamilyName>Mark</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Proton-pump inhibitor use is associated with low serum magnesium concentrations</ArticleTitle>
+                  <JournalTitle>Kidney Int</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <FirstPage>692</FirstPage>
+                  <LastPage>699</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/ki.2012.452</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3sXltVWru7Y%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23325090</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Danziger J, William JH, Scott DJ, Lee J, Lehman L-W, Mark RG, et al. Proton-pump inhibitor use is associated with low serum magnesium concentrations. Kidney Int. 2013;83:692–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Amaral</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Glass</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Hausdorff</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PC</Initials>
+                    <FamilyName>Ivanov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RG</Initials>
+                    <FamilyName>Mark</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals</ArticleTitle>
+                  <JournalTitle>Circulation</JournalTitle>
+                  <VolumeID>101</VolumeID>
+                  <FirstPage>E215</FirstPage>
+                  <LastPage>E220</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1161/01.CIR.101.23.e215</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3czhtFGisw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>10851218</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goldberger AL, Amaral LA, Glass L, Hausdorff JM, Ivanov PC, Mark RG, et al. PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals. Circulation. 2000;101:E215–20.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DJ</Initials>
+                    <FamilyName>Scott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Silva</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Park</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GB</Initials>
+                    <FamilyName>Moody</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Celi</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Accessing the public MIMIC-II intensive care relational database for clinical research</ArticleTitle>
+                  <JournalTitle>BMC Med Inform Decis Mak</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>9</FirstPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>3598967</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1472-6947-13-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23302652</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Scott DJ, Lee J, Silva I, Park S, Moody GB, Celi LA, et al. Accessing the public MIMIC-II intensive care relational database for clinical research. BMC Med Inform Decis Mak. 2013;13:9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>HJ</Initials>
+                    <FamilyName>Lowe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TA</Initials>
+                    <FamilyName>Ferris</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PM</Initials>
+                    <FamilyName>Hernandez</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SC</Initials>
+                    <FamilyName>Weber</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">STRIDE--An integrated standards-based translational research informatics platform</ArticleTitle>
+                  <JournalTitle>AMIA Annu Symp Proc</JournalTitle>
+                  <VolumeID>2009</VolumeID>
+                  <FirstPage>391</FirstPage>
+                  <LastPage>395</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2815452</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20351886</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lowe HJ, Ferris TA, Hernandez PM, Weber SC. STRIDE--An integrated standards-based translational research informatics platform. AMIA Annu Symp Proc. 2009;2009:391–5.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SN</Initials>
+                    <FamilyName>Murphy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Weber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Mendis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Gainer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HC</Initials>
+                    <FamilyName>Chueh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Churchill</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Serving the enterprise and beyond with informatics for integrating biology and the bedside (i2b2)</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>124</FirstPage>
+                  <LastPage>130</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>3000779</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/jamia.2009.000893</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20190053</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Murphy SN, Weber G, Mendis M, Gainer V, Chueh HC, Churchill S, et al. Serving the enterprise and beyond with informatics for integrating biology and the bedside (i2b2). J Am Med Inform Assoc. 2010;17:124–30.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Warner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Alterovitz</FamilyName>
+                  </BibAuthorName>
+                  <Year>2016</Year>
+                  <ArticleTitle Language="En">Classification of hospital acquired complications using temporal clinical information from a large electronic health record</ArticleTitle>
+                  <JournalTitle>J Biomed Inform</JournalTitle>
+                  <VolumeID>59</VolumeID>
+                  <FirstPage>209</FirstPage>
+                  <LastPage>217</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jbi.2015.12.008</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Warner JL, Zhang P, Liu J, Alterovitz G. Classification of hospital acquired complications using temporal clinical information from a large electronic health record. J Biomed Inform. 2016;59:209–17.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

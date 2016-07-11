@@ -1,0 +1,239 @@
+#!/usr/bin/perl
+
+#============================================================================================================
+#Author: Neyaz Ahmad
+#Version=1.0
+#perl /etc/EXT/Citation_Metrics/web/cMetrix get -v -M GET /
+#perl /etc/EXT/Citation_Metrics/web/cMetrix get -v -M POST /eProofing?"Input_Type=XML&Key=IN4mJl11HTB3hvSdjTRGNS6gzychYyk9WvbSBCdfhkI"
+
+ 
+#perl c:/Apache/htdocs/CitationMetrix/cMetrix.pl cgi
+#http://10.113.5.197:8080/cMetrix/eProofing
+#http://10.113.5.197:8080/cMetrix
+#============================================================================================================
+
+BEGIN{
+    $scriptLocation=$0;
+    if($scriptLocation!~/[\/\\]/){
+	use Cwd;
+	my $pwd = getcwd;
+	$pwd=~s/\//\//;
+	$scriptLocation="$pwd"."\/"."$scriptLocation";
+    }elsif($scriptLocation=~/^\.\/([^\/\\]+?)$/){
+	use Cwd;
+	my $pwd = getcwd;
+	$pwd=~s/\//\//;
+	$scriptLocation=~s/^\.\///;
+	$scriptLocation="$pwd"."\/"."$scriptLocation";
+    }
+    $scriptLocation=~s/\/([^\/\\]+?)$//;
+    my $moduleLocation=$scriptLocation;
+    $moduleLocation=~s/(^.*\/|^)([^\/\\]+?)$/$1Modules/;
+    unshift(@INC, "$moduleLocation");
+}
+
+use DateTime;
+our $currentTime=&GetDateTime;
+
+my $configLocation=$scriptLocation;
+$configLocation=~s/(^.*\/|^)([^\/\\]+?)$/$1Config\/app\.config/;
+
+my $Uuid_Token="";
+
+use Mojolicious::Lite;
+use Data::Dumper;
+use DBI;
+use UuidToken;
+
+
+##Get app.config file and retrun $config Hash   [syntax: $$config{"web.Upload_Location"}]
+use GetConfig;
+
+my $config=&get_config($configLocation);
+
+#_____________________________________________________________________________________________
+
+
+##Client Test
+get '/' => sub{
+  shift->render(template => 'client');
+};
+
+
+##Main Web Service
+post '/:Service_Type' => sub{
+  my $self=shift;
+
+  my $Service_Type= $self->param('Service_Type');
+  my $Input_Type= $self->param('Input_Type');
+  my $Input_File= $self->param('Input_File');
+  my $DOI= $self->param('DOI');
+  my $Key= $self->param('Key');
+  my $Status= $self->param('Status');
+  my $Token= $self->param('Token');
+
+  my $File_Name="";
+
+  eval {$File_Name = $Input_File->filename;}; warn $@ if $@;
+
+#----------
+  if($Service_Type=~/^eProofing|DDS$/){
+
+    unless ($Key){
+      $self->render(json => {status => "error", data => { message => "No API Key found"}});
+      return undef;
+    }
+    unless ($config->{'ApiKey.user1'} eq $Key){
+      $self->render(json => {status => "error", data => { message => "No Valid API Key"}});
+      return undef;
+    }
+
+    unless ($Input_Type){
+      $self->render(json => {status => "error", data => { message => "No Input_Type define"}});
+      return undef;
+    }
+
+    unless ($Input_File){
+      $self->render(json => {status => "error", data => { message => "No Input_File define"}});
+      return undef;
+    }
+    unless ($File_Name){
+      $self->render(json => {status => "error", data => { message => "No Input_File found"}});
+      return undef;
+    }
+
+  }elsif($Service_Type=~/^Status$/){
+    unless ($Token){
+      $self->render(json => {status => "error", data => { message => "No Token found"}});
+      return undef;
+    }
+  }else{
+      $self->render(json => {status => "error", data => { message => "No Service_Type found"}});
+      return undef;
+    }
+#------
+
+
+#print $config->{'ApiKey.user1'}, "\n";exit;
+
+  $File_Name=&File_Upload($self, $config->{'web.Upload_Location'});
+
+  $Uuid_Token=&Generate_Token;
+
+  &SaveToken($Uuid_Token, $File_Name);
+
+  #run cm.pl tast.xml
+  &Process_Queue($File_Name);
+
+  #test.pm tast.xml ""
+
+  $self->stash(
+	       Service_Type=> $Service_Type,
+	       Input_Type=> $Input_Type,
+	       DOI=> $DOI,
+	       Key=> $Key,
+	       Status=> $Status,
+	       Token=> $Token,
+	       File_Name=> $File_Name,
+	       Uuid_Token=>$Uuid_Token,
+	      );
+
+
+  #Responce Token
+  if(defined $Uuid_Token){
+      $self->render(json => {status => "success", data => { token => "$Uuid_Token",  message => "Job in queue"}});
+  }else{
+    $self->render('cMetrix');
+  }
+};
+app->start;
+
+#========================================================================================================
+sub File_Upload{
+  my ($self, $upload_Location)=@_;
+
+  # Check file size
+  return $self->render(json => {status => "error", data => { message => "File is too big"}})
+    if $self->req->is_limit_exceeded;
+
+  # Process uploaded file
+  my $Input_File = $self->param('Input_File');
+  my $size = $Input_File->size;
+  my $File_Name = $Input_File->filename;
+
+  my $upload = $self->req->upload('Input_File');
+  $upload->move_to("$upload_Location/$File_Name");
+
+  return $File_Name;
+}
+#========================================================================================================
+sub SaveToken{
+    my $Uuid_Token=shift;
+    my $File_Name=shift;
+
+    my $dbh = dbConnect();
+    my $sth = $dbh->prepare("SELECT * FROM Citation_DB.RequestManager");
+    $sth->execute() or die $DBI::errstr;
+    my $rc = $sth->rows;
+
+    my $stmt = qq(INSERT INTO Citation_DB.RequestManager (TokenID,Start_Time,SMStatusID,InputParameter,comments)
+      VALUES ("$Uuid_Token", "$currentTime", "1", "$File_Name", "Job in queue"));
+    my $rv = $dbh->do($stmt) or die $DBI::errstr;
+
+   $sth->finish();
+
+}
+
+#========================================================================================================
+sub Responce_Token{
+
+}
+
+#========================================================================================================
+sub Process_Queue{
+    my $File_Name=shift;
+
+    use Net::RabbitFoot;
+
+    my $conn = Net::RabbitFoot->new()->load_xml_spec()->connect(
+	host => 'localhost',
+	port => 5672,
+	user => 'guest',
+	pass => 'guest',
+	vhost => '/',
+	);
+
+
+    my $chan = $conn->open_channel();
+
+    $chan->declare_queue(
+	queue => 'task_queue',
+	durable => 1,
+	);
+    
+    my $msg = join(' ', $File_Name) || "No File";
+    
+    $chan->publish(
+	exchange => '',
+	routing_key => 'task_queue',
+	body => $msg,
+	);
+    
+    #print " [x] Sent '$msg'\n";
+
+    $conn->close();
+
+}
+
+#========================================================================================================
+sub dbConnect {
+     my $dsn          = "DBI".":"."$config->{'Database.dbtype'}".":"."$config->{'Database.dbname'}";
+     my $db_user_name = "$config->{'Database.user_name'}";
+     my $db_password  = "$config->{'Database.password'}";
+    
+     my $dbh = DBI->connect($dsn, $db_user_name, $db_password, { RaiseError => 1 })
+                       or die ("cannot connect to DB: $DBI::errstr\n");
+    return $dbh;
+}
+
+############

@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Dough</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>CA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>MA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbruecken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-540-35461-1</BookID>
+        <BookTitle>Combinatorial Pattern Matching</BookTitle>
+        <BookSubTitle>17th Annual Symposium, CPM 2006, Barcelona, Spain, July 5-7, 2006. Proceedings</BookSubTitle>
+        <BookVolumeNumber>4009</BookVolumeNumber>
+        <BookSequenceNumber>4009</BookSequenceNumber>
+        <BookDOI>10.1007/11780441</BookDOI>
+        <BookTitleID>139689</BookTitleID>
+        <BookPrintISBN>978-3-540-35455-0</BookPrintISBN>
+        <BookElectronicISBN>978-3-540-35461-1</BookElectronicISBN>
+        <BookChapterCount>36</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2006</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="SCI" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="SCI2203X" Priority="1" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="SCI16021" Priority="2" Type="Secondary">Algorithm Analysis and Problem Complexity</BookSubject>
+          <BookSubject Code="SCI21033" Priority="3" Type="Secondary">Document Preparation and Text Processing</BookSubject>
+          <BookSubject Code="SCI18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="SCL15001" Priority="5" Type="Secondary">Bioinformatics</BookSubject>
+          <BookSubject Code="SCI15017" Priority="6" Type="Secondary">Data Structures</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>Annual Symposium on Combinatorial Pattern Matching</ConfSeriesName>
+          <ConfSeriesID Type="Springer">cpm</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">cpm</ConfSeriesID>
+          <ConfEventID Type="Springer">cpm2006</ConfEventID>
+          <ConfEventAbbreviation>CPM</ConfEventAbbreviation>
+          <ConfNumber>17</ConfNumber>
+          <ConfEventLocation>
+            <City>Barcelona</City>
+            <Country>Spain</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>5</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>7</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Moshe</GivenName>
+              <FamilyName>Lewenstein</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>moshe@cs.biu.ac.il</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Gabriel</GivenName>
+              <FamilyName>Valiente</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>valiente@lsi.upc.edu</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Department of Computer Science</OrgDivision>
+            <OrgName>Bar-Ilan University</OrgName>
+            <OrgAddress>
+              <Postcode>52900</Postcode>
+              <City>Ramat-Gan</City>
+              <Country>Israel</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Software</OrgDivision>
+            <OrgName>Technical University of Catalonia</OrgName>
+            <OrgAddress>
+              <Postcode>08034</Postcode>
+              <City>Barcelona</City>
+              <Country>Spain</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part10">
+        <PartInfo TocLevels="0">
+          <PartID>10</PartID>
+          <PartSequenceNumber>10</PartSequenceNumber>
+          <PartTitle>Session 9. String Matching II</PartTitle>
+          <PartChapterCount>4</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Combinatorial Pattern Matching</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap30" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>30</ChapterID>
+            <ChapterDOI>10.1007/11780441_30</ChapterDOI>
+            <ChapterSequenceNumber>30</ChapterSequenceNumber>
+            <ChapterTitle Language="En">Faster Algorithms for Computing Longest Common Increasing Subsequences</ChapterTitle>
+            <ChapterFirstPage>330</ChapterFirstPage>
+            <ChapterLastPage>341</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2006</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>10</PartID>
+              <BookID>978-3-540-35461-1</BookID>
+              <BookTitle>Combinatorial Pattern Matching</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Gerth</GivenName>
+                  <GivenName>Stølting</GivenName>
+                  <FamilyName>Brodal</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>gerth@daimi.au.dk</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Kanela</GivenName>
+                  <FamilyName>Kaligosi</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>kaligosi@mpi-inf.mpg.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Irit</GivenName>
+                  <FamilyName>Katriel</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>irit@daimi.au.dk</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Martin</GivenName>
+                  <FamilyName>Kutz</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>mkutz@mpi-inf.mpg.de</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff18">
+                <OrgDivision>BRICS</OrgDivision>
+                <OrgName>University of Aarhus</OrgName>
+                <OrgAddress>
+                  <City>Århus</City>
+                  <Country>Denmark</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff19">
+                <OrgName>Max-Plank-Institut für Informatik</OrgName>
+                <OrgAddress>
+                  <City>Saarbrücken</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para TextBreak="No">We present algorithms for finding a longest common increasing subsequence of two or more input sequences. For two sequences of lengths <Emphasis Type="Italic">m</Emphasis> and <Emphasis Type="Italic">n</Emphasis>, where <Emphasis Type="Italic">m</Emphasis>≥<Emphasis Type="Italic">n</Emphasis>, we present an algorithm with an output-dependent expected running time of <InlineEquation ID="IEq1">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="978-3-540-35461-1_30_Chapter_TeX2GIFIEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$O((m+n\ell) \log\log \sigma + {\ensuremath{\mathit{Sort}}})$]]></EquationSource>
+                </InlineEquation> and <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">m</Emphasis>) space, where ℓ is the length of an LCIS, <Emphasis Type="Italic">σ</Emphasis> is the size of the alphabet, and <InlineEquation ID="IEq2">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="978-3-540-35461-1_30_Chapter_TeX2GIFIEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[${\ensuremath{\mathit{Sort}}}$]]></EquationSource>
+                </InlineEquation> is the time to sort each input sequence. For <Emphasis Type="Italic">k</Emphasis>≥3 length-<Emphasis Type="Italic">n</Emphasis> sequences we present an algorithm which improves the previous best bound by more than a factor <Emphasis Type="Italic">k</Emphasis> for many inputs. In both cases, our algorithms are conceptually quite simple but rely on existing sophisticated data structures. Finally, we introduce the problem of longest common weakly-increasing (or non-decreasing) subsequences (LCWIS), for which we present an <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">m</Emphasis>+<Emphasis Type="Italic">n</Emphasis>log<Emphasis Type="Italic">n</Emphasis>)-time algorithm for the 3-letter alphabet case. For the extensively studied longest common subsequence problem, comparable speedups have not been achieved for small alphabets.</Para>
+            </Abstract>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-540-35461-1_Chapter_30.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Aldous</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Diaconis</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Longest increasing subsequences: From patience sorting to the Baik-Deift-Johansson theorem</ArticleTitle>
+                  <JournalTitle>Bull. AMS</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>413</FirstPage>
+                  <LastPage>432</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1090/S0273-0979-99-00796-X</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1694204</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0937.60001</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Aldous, D., Diaconis, P.: Longest increasing subsequences: From patience sorting to the Baik-Deift-Johansson theorem. Bull. AMS 36(4), 413–432 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Bergroth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Hakonen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Raita</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ChapterTitle Language="En">A survey of longest common subsequence algorithms</ChapterTitle>
+                  <BookTitle>SPIRE 2000</BookTitle>
+                  <PublisherName>IEEE Computer Society</PublisherName>
+                  <PublisherLocation>Los Alamitos</PublisherLocation>
+                  <FirstPage>39</FirstPage>
+                  <LastPage>48</LastPage>
+                </BibChapter>
+                <BibUnstructured>Bergroth, L., Hakonen, H., Raita, T.: A survey of longest common subsequence algorithms. In: SPIRE 2000, pp. 39–48. IEEE Computer Society, Los Alamitos (2000)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Bespamyatnikh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Segal</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Enumerating longest increasing subsequences and patience sorting</ArticleTitle>
+                  <JournalTitle>Inf. Process. Lett.</JournalTitle>
+                  <VolumeID>76</VolumeID>
+                  <IssueID>1-2</IssueID>
+                  <FirstPage>7</FirstPage>
+                  <LastPage>11</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0020-0190(00)00124-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1797557</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bespamyatnikh, S., Segal, M.: Enumerating longest increasing subsequences and patience sorting. Inf. Process. Lett. 76(1-2), 7–11 (2000)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>W.-T.</Initials>
+                    <FamilyName>Chan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.P.Y.</Initials>
+                    <FamilyName>Fung</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Ye</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Zhu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ChapterTitle Language="En">Efficient Algorithms for Finding a Longest Common Increasing Subsequence</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Deng</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>D.-Z.</Initials>
+                    <FamilyName>Du</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Algorithms and Computation</BookTitle>
+                  <ConfEventName>16th International Symposium, ISAAC 2005</ConfEventName>
+                  <ConfEventLocation>Sanya, Hainan, China</ConfEventLocation>
+                  <ConfEventDate>December 19-21, 2005</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>3827</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>665</FirstPage>
+                  <LastPage>674</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/11602613_67</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Chan, W.-T., Zhang, Y., Fung, S.P.Y., Ye, D., Zhu, H.: Efficient Algorithms for Finding a Longest Common Increasing Subsequence. In: Deng, X., Du, D.-Z. (eds.) ISAAC 2005. LNCS, vol. 3827, pp. 665–674. Springer, Heidelberg (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.L.</Initials>
+                    <FamilyName>Fredman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1975</Year>
+                  <ArticleTitle Language="En">On computing the length of longest increasing subsequences</ArticleTitle>
+                  <JournalTitle>Discrete Mathematics</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>29</FirstPage>
+                  <LastPage>35</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0012-365X(75)90103-X</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>354386</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0312.68027</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fredman, M.L.: On computing the length of longest increasing subsequences. Discrete Mathematics 11(1), 29–35 (1975)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>H.N.</Initials>
+                    <FamilyName>Gabow</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.L.</Initials>
+                    <FamilyName>Bentley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.E.</Initials>
+                    <FamilyName>Tarjan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ChapterTitle Language="En">Scaling and related techniques for geometry problems</ChapterTitle>
+                  <BookTitle>STOC 1984</BookTitle>
+                  <PublisherName>ACM Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>135</FirstPage>
+                  <LastPage>143</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/800057.808675</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Gabow, H.N., Bentley, J.L., Tarjan, R.E.: Scaling and related techniques for geometry problems. In: STOC 1984, pp. 135–143. ACM Press, New York (1984)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.S.</Initials>
+                    <FamilyName>Hirschberg</FamilyName>
+                  </BibAuthorName>
+                  <Year>1975</Year>
+                  <ArticleTitle Language="En">A linear space algorithm for computing maximal common subsequences</ArticleTitle>
+                  <JournalTitle>Commun. ACM</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>341</FirstPage>
+                  <LastPage>343</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/360825.360861</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>375829</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0301.68042</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hirschberg, D.S.: A linear space algorithm for computing maximal common subsequences. Commun. ACM 18(6), 341–343 (1975)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.W.</Initials>
+                    <FamilyName>Hunt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.G.</Initials>
+                    <FamilyName>Szymanski</FamilyName>
+                  </BibAuthorName>
+                  <Year>1977</Year>
+                  <ArticleTitle Language="En">A fast algorithm for computing longest common subsequences</ArticleTitle>
+                  <JournalTitle>Commun. ACM</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>350</FirstPage>
+                  <LastPage>353</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/359581.359603</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>436655</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0354.68078</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hunt, J.W., Szymanski, T.G.: A fast algorithm for computing longest common subsequences. Commun. ACM 20(5), 350–353 (1977)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.J.</Initials>
+                    <FamilyName>Masek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.S.</Initials>
+                    <FamilyName>Paterson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">A faster algorithm computing string edit distances</ArticleTitle>
+                  <JournalTitle>J. Comput. System Sci.</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>18</FirstPage>
+                  <LastPage>31</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0022-0000(80)90002-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>566639</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0436.68044</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Masek, W.J., Paterson, M.S.: A faster algorithm computing string edit distances. J. Comput. System Sci. 20, 18–31 (1980)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.M.</Initials>
+                    <FamilyName>McCreight</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Priority search trees</ArticleTitle>
+                  <JournalTitle>SIAM Journal on Computing</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>257</FirstPage>
+                  <LastPage>276</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/0214021</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>784736</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0564.68050</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>McCreight, E.M.: Priority search trees. SIAM Journal on Computing 14(2), 257–276 (1985)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Emde Boas</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Kaas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Zijlstra</FamilyName>
+                  </BibAuthorName>
+                  <Year>1977</Year>
+                  <ArticleTitle Language="En">Design and implementation of an efficient priority queue</ArticleTitle>
+                  <JournalTitle>Mathematical Systems Theory</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>99</FirstPage>
+                  <LastPage>127</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01683268</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0363.60104</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>van Emde Boas, P., Kaas, R., Zijlstra, E.: Design and implementation of an efficient priority queue. Mathematical Systems Theory 10, 99–127 (1977)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.A.</Initials>
+                    <FamilyName>Wagner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.J.</Initials>
+                    <FamilyName>Fischer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1974</Year>
+                  <ArticleTitle Language="En">The string-to-string correction problem</ArticleTitle>
+                  <JournalTitle>J. ACM</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>168</FirstPage>
+                  <LastPage>173</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/321796.321811</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>356576</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0278.68032</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wagner, R.A., Fischer, M.J.: The string-to-string correction problem. J. ACM 21(1), 168–173 (1974)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.E.</Initials>
+                    <FamilyName>Willard</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <ArticleTitle Language="En">Log-logarithmic worst-case range queries are possible in space Theta(N)</ArticleTitle>
+                  <JournalTitle>Inf. Process. Lett.</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>81</FirstPage>
+                  <LastPage>84</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0020-0190(83)90075-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>731126</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0509.68106</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Willard, D.E.: Log-logarithmic worst-case range queries are possible in space Theta(N). Inf. Process. Lett. 17(2), 81–84 (1983)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I.-H.</Initials>
+                    <FamilyName>Yang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.-P.</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.-M.</Initials>
+                    <FamilyName>Chao</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">A fast algorithm for computing a longest common increasing subsequence</ArticleTitle>
+                  <JournalTitle>Inf. Process. Lett.</JournalTitle>
+                  <VolumeID>93/5</VolumeID>
+                  <FirstPage>249</FirstPage>
+                  <LastPage>253</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ipl.2004.10.014</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2112994</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yang, I.-H., Huang, C.-P., Chao, K.-M.: A fast algorithm for computing a longest common increasing subsequence. Inf. Process. Lett. 93/5, 249–253 (2005)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>3</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art24">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>71249</ArticleID>
+            <ArticleDOI>10.1208/aapsj070124</ArticleDOI>
+            <ArticleSequenceNumber>24</ArticleSequenceNumber>
+            <ArticleTitle Language="En">A random sampling approach for robust estimation of tissue-to-plasma ratio from extremely sparse data</ArticleTitle>
+            <ArticleFirstPage>E249</ArticleFirstPage>
+            <ArticleLastPage>E258</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>13</Day>
+              </Received>
+              <Accepted>
+                <Year>2004</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>1</IssueIDStart>
+              <IssueIDEnd>1</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Hui-May</GivenName>
+                  <FamilyName>Chu</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>(617) 444-6398</Phone>
+                  <Fax>(617) 444-6713</Fax>
+                  <Email>Hui-May_Chu@vrtx.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ene</GivenName>
+                  <GivenName>I.</GivenName>
+                  <FamilyName>Ette</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Clinical Pharmacology</OrgDivision>
+                <OrgName>Vertex Pharmaceuticals Inc</OrgName>
+                <OrgAddress>
+                  <Street>130 Waverly Street</Street>
+                  <Postcode>02139-4242</Postcode>
+                  <City>Cambridge</City>
+                  <State>MA</State>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>This study was performed to develop a new nonparametric approach for the estimation of robust tissue-to-plasma ratio from extremely sparsely sampled paired data (ie, one sample each from plasma and tissue per subject). Tissue-to-plasma ratio was estimated from paired/unpaired experimental data using independent time points approach, area under the curve (AUC) values calculated with the naive data averaging approach, and AUC values calculated using sampling based approaches (eg, the pseudoprofile-based bootstrap [PpbB] approach and the random sampling approach [our proposed approach]). The random sampling approach involves the use of a 2-phase algorithm. The convergence of the sampling/resampling approaches was investigated, as well as the robustness of the estimates produced by different approaches. To evaluate the latter, new data sets were generated by introducing outlier(s) into the real data set. One to 2 concentration values were inflated by 10% to 40% from their original values to produce the outliers. Tissue-to-plasma ratios computed using the independent time points approach varied between 0 and 50 across time points. The ratio obtained from AUC values acquired using the naive data averaging approach was not associated with any measure of uncertainty or variability. Calculating the ratio without regard to pairing yielded poorer estimates. The random sampling and pseudoprofile-based bootstrap approaches yielded tissue-to-plasma ratios with uncertainty and variability. However, the random sampling approach, because of the 2-phase nature of its algorithm, yielded more robust estimates and required fewer replications. Therefore, a 2-phase random sampling approach is proposed for the robust estimation of tissue-to-plasma ratio from extremely sparsely sampled data.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>paired extremely sparsely sampled data</Keyword>
+              <Keyword>tissue-to-plasma ratio</Keyword>
+              <Keyword>random sampling approach</Keyword>
+              <Keyword>pseudoprofile-based approach</Keyword>
+              <Keyword>convergence</Keyword>
+              <Keyword>robustness</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: September 2, 2005</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_71249.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>FT</Initials>
+                    <FamilyName>Lindstrom</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DS</Initials>
+                    <FamilyName>Birkes</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Estimation of population pharmacokinetic parameters using destructively obtained data: a simulation study of the one compartment open model</ArticleTitle>
+                  <JournalTitle>Drug Metab Rev.</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>195</FirstPage>
+                  <LastPage>264</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6745082</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3109/03602538409015065</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2c3mtFSisw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lindstrom FT, Birkes DS. Estimation of population pharmacokinetic parameters using destructively obtained data: a simulation study of the one compartment open model.<Emphasis Type="Italic">Drug Metab Rev.</Emphasis> 1984;15:195–264.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RD</Initials>
+                    <FamilyName>McArthur</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Parameter estimation in a two compartment population pharmacokinetic model with destructive sampling</ArticleTitle>
+                  <JournalTitle>Math Biosci.</JournalTitle>
+                  <VolumeID>91</VolumeID>
+                  <FirstPage>157</FirstPage>
+                  <LastPage>173</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0025-5564(88)90012-0</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>McArthur RD. Parameter estimation in a two compartment population pharmacokinetic model with destructive sampling.<Emphasis Type="Italic">Math Biosci.</Emphasis> 1988;91:157–173.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Mager</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Goller</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Resampling methods in sparse sampling situations in preclinical pharmacokinetic studies</ArticleTitle>
+                  <JournalTitle>J Pharm Sci.</JournalTitle>
+                  <VolumeID>87</VolumeID>
+                  <FirstPage>372</FirstPage>
+                  <LastPage>378</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9523992</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/js970114h</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXovFOisA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mager H, Goller G. Resampling methods in sparse sampling situations in preclinical pharmacokinetic studies.<Emphasis Type="Italic">J Pharm Sci.</Emphasis> 1998;87:372–378.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Efron</FamilyName>
+                  </BibAuthorName>
+                  <Year>1979</Year>
+                  <ArticleTitle Language="En">Bootstrap methods: another look at the jackknife</ArticleTitle>
+                  <JournalTitle>Ann Statist.</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>26</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1214/aos/1176344552</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Efron B. Bootstrap methods: another look at the jackknife.<Emphasis Type="Italic">Ann Statist.</Emphasis> 1979;7:1–26.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Jones</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Designing cross-sectional pharmacokinetic studies: implications for pediatric and animal studies</ArticleTitle>
+                  <JournalTitle>Clin Res Regul Affairs.</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <IssueID>3&amp;4</IssueID>
+                  <FirstPage>133</FirstPage>
+                  <LastPage>165</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3109/10601339609035949</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jones CD, Sun H, Ette EI. Designing cross-sectional pharmacokinetic studies: implications for pediatric and animal studies.<Emphasis Type="Italic">Clin Res Regul Affairs.</Emphasis> 1996;13(3&amp;4):133–165.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LC</Initials>
+                    <FamilyName>Onyiah</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Estimating inestimable standard errors in population pharmacokinetic studies: the bootstrap with winsorization</ArticleTitle>
+                  <JournalTitle>Eur J Drug Metab Pharmacokinet</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>213</FirstPage>
+                  <LastPage>224</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12365204</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XnsFemt70%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF03190460</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ette EI, Onyiah LC. Estimating inestimable standard errors in population pharmacokinetic studies: the bootstrap with winsorization.<Emphasis Type="Italic">Eur J Drug Metab Pharmacokinet</Emphasis>. 2002;27:213–224.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

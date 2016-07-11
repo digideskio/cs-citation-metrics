@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <JournalSubject Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Type="Secondary">Computer Science, general</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Type="Secondary">Information Storage and Retrieval</JournalSubject>
+        <JournalSubject Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <SubjectCollection Code="Computer Science">SC6</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>1</VolumeIDStart>
+        <VolumeIDEnd>1</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>5</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>10</Month>
+              <Day>23</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2012</Year>
+              <Month>10</Month>
+              <Day>22</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>12</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-012-0013-5" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>13</ArticleID>
+            <ArticleDOI>10.1007/s13735-012-0013-5</ArticleDOI>
+            <ArticleSequenceNumber>3</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Fast shape retrieval using a graph theoretic approach</ArticleTitle>
+            <ArticleCategory>Regular Paper</ArticleCategory>
+            <ArticleFirstPage>239</ArticleFirstPage>
+            <ArticleLastPage>248</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>27</Day>
+              </Received>
+              <Revised>
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+              </Revised>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Chunyuan</GivenName>
+                  <FamilyName>Li</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>A.</GivenName>
+                  <FamilyName>Ben Hamza</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>hamza@ciise.concordia.ca</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Concordia Institute for Information Systems Engineering</OrgDivision>
+                <OrgName>Concordia University</OrgName>
+                <OrgAddress>
+                  <City>Montréal</City>
+                  <State>QC</State>
+                  <Country Code="CA">Canada</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para>A critical issue in shape retrieval systems is that when a user submits a query shape, some shapes in the database are returned relatively often, while some are returned only when submitting specific queries. Intuitively, this phenomenon yields suboptimal retrieval accuracy. In this paper, we address the shape retrieval problem by casting it into the task of identifying “authority” nodes in an inferred similarity graph and also by re-ranking the shapes. The main idea is that the average similarity between a node and its neighboring nodes takes into account the local distribution, and therefore, helps modify the neighborhood edge weight, which guides the re-ranking. The proposed approach is evaluated on both 2D and 3D shape datasets, and the experimental results show that the proposed neighborhood induced similarity measure significantly improves the shape retrieval performance. Moreover, the computational speed of the proposed method is extremely fast.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Shape retrieval</Keyword>
+              <Keyword>Graph theory</Keyword>
+              <Keyword>Similarity</Keyword>
+              <Keyword>Re-ranking</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>Searching shapes more accurately and faster is one of the most important goals in computer vision. In recent years, several approaches have been proposed to optimize shape retrieval systems, from designing smart descriptors [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR4">4</CitationRef>], to explore suitable similarity measure methods [<CitationRef CitationID="CR5">5</CitationRef>]. However, in almost all these systems, the following phenomenon exists: when a user submits a query, some shapes in the database are returned relatively often, while some are returned only given certain special queries. For example, in Fig. <InternalRef RefID="Fig1">1</InternalRef>, the statistics of retrieval results using shape contexts (SC) [<CitationRef CitationID="CR1">1</CitationRef>] on the MPEG-7 dataset [<CitationRef CitationID="CR4">4</CitationRef>] are depicted. There are 70 classes with 20 shapes for each. The frequency of a given shape is displayed as the sum of appearing times in the top 40 rankings when each shape takes the role of query. In Fig. <InternalRef RefID="Fig1">1</InternalRef>a, the appearing frequency is shown, where the red points display the proper rate and the blue points represent the shapes that are returned too often or too rare. Obviously, there is a considerable number of shapes appearing with abnormal times. In particular, it can be observed that the ‘device’ shape shown in Fig. <InternalRef RefID="Fig1">1</InternalRef>b is returned 156 times, but the ‘glass’ shape shown in Fig. <InternalRef RefID="Fig1">1</InternalRef>c is returned only four times. This observation strongly suggests that shapes appearing with too many or very few times will damage the overall retrieval result.</Para>
+              <Para>
+                <Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Statistical results on the MPEG-7 dataset. <Emphasis Type="Bold">a</Emphasis> Appearing frequency, <Emphasis Type="Bold">b</Emphasis> ‘device’ shape (highest frequency), <Emphasis Type="Bold">c</Emphasis> ‘glass’ shape (lowest frequency)</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_13_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>To tackle this problem, we propose the Neighborhood Induced Similarity (NIS), which updates the original similarity based on the neighborhood of a shape before the final ranking. Traditional shape retrieval systems compute the pair-wise similarity among shapes, from which a global ordering can be derived. By separating ranking from similarity measurement, one can leverage ranking algorithms to generate a global ordering. Just like existing re-ranking algorithm for web page [<CitationRef CitationID="CR6">6</CitationRef>], image [<CitationRef CitationID="CR7">7</CitationRef>] and video [<CitationRef CitationID="CR8">8</CitationRef>] retrieval, our proposed method also takes the similarity/dissimilarity/distance matrix as the input, and outputs an optimized similarity matrix for the final ranking.</Para>
+              <Para>However, the difference in our setting is that we aim at eliminating the undesired phenomenon stated above. We present an approach from the perspective of a graph representation, where shapes are represented as nodes, and edges encode the similarity between shapes. In this way, searching shapes is formulated as label propagation on the graph. Therefore, the edge value is very critical, since it guides the propagation behavior. In our method, we consider all the nodes on the graph as a whole, and update the edge value by the average similarity of nodes; further improving the retrieval accuracy.</Para>
+              <Para>Extensive experiments on two standard 2D shape datasets, one trademark image dataset and one 3D shape dataset show that the returned frequency of shapes using our method is more sound and logical than that of existing re-ranking algorithms. Furthermore, our method provides an improved performance accuracy and it is extremely fast. For example, after the adoption of NIS with SC on the MPEG-7 dataset, the returned frequency of the ‘device’ shape drops from 156 to 60, and the ‘glass’ shape rises from 4 to 44, leading to improved retrieval rates from <InlineEquation ID="IEq1">
+                  <EquationSource Format="TEX"><![CDATA[$$86.79$$]]></EquationSource>
+                </InlineEquation> to <InlineEquation ID="IEq2">
+                  <EquationSource Format="TEX"><![CDATA[$$90.49\,\%$$]]></EquationSource>
+                </InlineEquation>. The main advantages of our proposed method may be summarized as follows:<UnorderedList Mark="Bullet">
+                  <ItemContent>
+                    <Para>It eliminates the abnormal frequency phenomenon for shape retrieval with a graph representation.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>It provides an improved accuracy and offers a very competitive time complexity.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>It is universal to arbitrary shapes, both 2D and 3D shapes.</Para>
+                  </ItemContent>
+                </UnorderedList>
+              </Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Previous work</Heading>
+              <Para>Shape retrieval techniques may be broadly classified into two main categories: traditional matching/retrieval methods and similarity learning methods [<CitationRef CitationID="CR5">5</CitationRef>]. Belongie et al. [<CitationRef CitationID="CR1">1</CitationRef>] introduced shape contest, which is a 2D histogram representation of a shape. Ling and Jacobs [<CitationRef CitationID="CR2">2</CitationRef>] proposed the inner distance which modifies shape contexts by considering the geodesic distance between contour points instead of the Euclidean distance, and thus significantly improves the retrieval and classification of articulated shapes. Wei et al. [<CitationRef CitationID="CR11">11</CitationRef>] extracted Zernike features to describe trademark shapes. Trademark images are very complex 2D shapes, and obtaining a high performance of trademark retrieval is of paramount importance to the industry. On the other hand, the Light Field Descriptor (LFD) [<CitationRef CitationID="CR12">12</CitationRef>] has been reported in the literature as one of the most efficient techniques for the retrieval of 3D rigid models [<CitationRef CitationID="CR13">13</CitationRef>]. Our method is, however, general and not limited to any particular similarity measure or representation.</Para>
+              <Para>Our work is partly motivated by Bai et al.’s work [<CitationRef CitationID="CR5">5</CitationRef>], which adopts a graph-based transductive learning algorithm to improve the shape retrieval results. The key idea of this distance learning algorithm is to replace the original shape distance with a distance induced by geodesic paths in the manifold of known shapes. In other words, each shape is considered in the context of other shapes in its class, and the class need not be known. In this paper, we propose NIS instead of Graph Transduction in a sense of improving the shape retrieval results.</Para>
+              <Para>There has been a significant body of work on similarity measures-based methods. Cheng et al. [<CitationRef CitationID="CR14">14</CitationRef>] proposed the sparsity induced similarity measure to improve the label propagation performance [<CitationRef CitationID="CR15">15</CitationRef>]. Jegou et al. [<CitationRef CitationID="CR16">16</CitationRef>] proposed the Contextual Dissimilarity Measure (CDM) to improve the image search accuracy through improving the symmetry of the <InlineEquation ID="IEq3">
+                  <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                </InlineEquation>-neighborhood relationship. Our work reassigns edge weight in a fully connected graph by the average neighborhood weight, which is in a similar spirit as CDM. Other related works on similarity measure-based methods can be found in [<CitationRef CitationID="CR17">17</CitationRef>]. More recently, Bronstein et al. [<CitationRef CitationID="CR9">9</CitationRef>] proposed a non-rigid shape retrieval approach using bags of features based on the heat kernel signature (HKS) [<CitationRef CitationID="CR10">10</CitationRef>], which is defined as the diagonal of the heat kernel of the Laplace–Beltrami operator on a manifold. HKS is a local shape descriptor that enjoys nice properties, including robustness to small perturbations of the shape, efficiency, and invariance to isometric transformations. However, HKS depends on the time parameter, which needs to be set a priori. In addition, the discrete heat kernel requires eigendecomposition of a typically large Laplace–Beltrami matrix. Thus, finding the eigenvalues and eigenfunctions of such a large matrix is often computationally expensive. In addition, the choice of the vocabulary size, the time parameter, and the number of eigenvalues/eigenfunctions can have an impact on the performance of the HKS-based retrieval algorithm.</Para>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Neighborhood induced similarity measure</Heading>
+              <Para>In traditional shape retrieval systems, a user usually employs some distance function to compute the pair-wise similarity between two shape features, and assumes that the more similar two shapes are, the smaller their difference is. For a given query, these systems rank the shapes in the dataset as a list according to the pair-wise similarity, and present to the user several top rankings in the returned list.</Para>
+              <Section2 ID="Sec4">
+                <Heading>Problem formulation</Heading>
+                <Para>To measure the number of returned times of a shape in a given dataset, we first introduce the concept of <Emphasis Type="Italic">appearing frequency</Emphasis> of a shape. Suppose there are <InlineEquation ID="IEq4">
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                  </InlineEquation> shapes in a dataset, and let us consider the top <InlineEquation ID="IEq5">
+                    <EquationSource Format="TEX"><![CDATA[$$t$$]]></EquationSource>
+                  </InlineEquation> ranking shapes <InlineEquation ID="IEq6">
+                    <EquationSource Format="TEX"><![CDATA[$$R_{t}(n)$$]]></EquationSource>
+                  </InlineEquation> in the returned list <InlineEquation ID="IEq7">
+                    <EquationSource Format="TEX"><![CDATA[$$L(n)$$]]></EquationSource>
+                  </InlineEquation> of a query shape <InlineEquation ID="IEq8">
+                    <EquationSource Format="TEX"><![CDATA[$$Q_{n}, 1\le n\le N$$]]></EquationSource>
+                  </InlineEquation>. Obviously, the cardinality <InlineEquation ID="IEq9">
+                    <EquationSource Format="TEX"><![CDATA[$$|R_{t}(n)|=t$$]]></EquationSource>
+                  </InlineEquation> of the set <InlineEquation ID="IEq10">
+                    <EquationSource Format="TEX"><![CDATA[$$R_{t}(n)$$]]></EquationSource>
+                  </InlineEquation> is constant within the <Emphasis Type="Italic">t</Emphasis>-highest ranking framework. The appearing frequency of <InlineEquation ID="IEq11">
+                    <EquationSource Format="TEX"><![CDATA[$$Q_{n}$$]]></EquationSource>
+                  </InlineEquation> is then defined as follows:<Equation ID="Equ1">
+                    <EquationNumber>1</EquationNumber>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} f(n)=\sum _{i=1}^{N}\sum _{j\in R_{t}(n)}\delta _{i,j} \end{aligned}$$]]></EquationSource>
+                  </Equation>where<Equation ID="Equ2">
+                    <EquationNumber>2</EquationNumber>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \delta _{i,j}=\left\{ \begin{array}{l@{\quad }l} 1,&\text{ if} Q_{n} \text{ is} \text{ the} j \text{-th} \text{ returned} \text{ shape}\\&\quad \text{ of} \text{ the} \text{ query} Q_{i}\\ 0,&\text{ otherwise} \end{array}\right. \end{aligned}$$]]></EquationSource>
+                  </Equation>We can observe that some shapes have high frequency rate, while others are returned only when submitting specific queries. These shapes are referred to as <Emphasis Type="Italic">over-returned shapes</Emphasis> and <Emphasis Type="Italic">never-returned shapes</Emphasis>, respectively, which are defined for a given neighborhood size. Both of them are considered abnormal shapes or ‘bad shapes’ in a shape retrieval system. Our goal is to decrease the number of these abnormal shapes. In other words, we hope that the frequency rates of each shape in the dataset would be the same constant which is relative to <InlineEquation ID="IEq12">
+                    <EquationSource Format="TEX"><![CDATA[$$|R_{t}(n)|$$]]></EquationSource>
+                  </InlineEquation>.</Para>
+                <Para>The main idea of our proposed method is that we would like the <InlineEquation ID="IEq13">
+                    <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                  </InlineEquation>-neighborhoods to have a similar distance in order to approach the same frequency rate.</Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Proposed neighborhood induced similarity algorithm</Heading>
+                <Para>Let <InlineEquation ID="IEq14">
+                    <EquationSource Format="TEX"><![CDATA[$$D=(d_{ij})$$]]></EquationSource>
+                  </InlineEquation> be a distance matrix computed by some shape function. We formulate the shape retrieval problem as a form of propagation on a graph, where a node’s label propagates to the neighboring nodes according to their proximity. In this process, we fix the label on the query shape. Thus, the query shape acts like a source that pushes out the label to other shapes. Intuitively, we want shapes that are similar to have the same label.</Para>
+                <Para>We create a graph <InlineEquation ID="IEq15">
+                    <EquationSource Format="TEX"><![CDATA[$$G=({\mathcal V},{\mathcal E})$$]]></EquationSource>
+                  </InlineEquation> where the node set <InlineEquation ID="IEq16">
+                    <EquationSource Format="TEX"><![CDATA[$${\mathcal V}$$]]></EquationSource>
+                  </InlineEquation> represent all the shapes in the dataset, both query and the others. The element of the edge set <InlineEquation ID="IEq17">
+                    <EquationSource Format="TEX"><![CDATA[$${\mathcal E}$$]]></EquationSource>
+                  </InlineEquation> represent the similarity between nodes. We propagate the labels through the edges. Larger edge weights allow labels to travel through more easily. The propagation process stops when a user-specified number of nodes are labeled. Likewise, the frequency of a node <InlineEquation ID="IEq18">
+                    <EquationSource Format="TEX"><![CDATA[$$\varvec{v}_{i}\in {\mathcal V}$$]]></EquationSource>
+                  </InlineEquation> is defined as the sum of the labeled times after each node in the graph propagates its label to its neighborhood. Interestingly, we find that the frequency of a node is equal to the degree of the node if we cut off the edges that no label travels. A subgraph of the newly obtained graph <InlineEquation ID="IEq19">
+                    <EquationSource Format="TEX"><![CDATA[$$G_{0}$$]]></EquationSource>
+                  </InlineEquation> includes some dense graph <InlineEquation ID="IEq20">
+                    <EquationSource Format="TEX"><![CDATA[$$G_{\mathrm dense }$$]]></EquationSource>
+                  </InlineEquation> and sparse graph <InlineEquation ID="IEq21">
+                    <EquationSource Format="TEX"><![CDATA[$$G_{\mathrm sparse }$$]]></EquationSource>
+                  </InlineEquation>. Obviously, <InlineEquation ID="IEq22">
+                    <EquationSource Format="TEX"><![CDATA[$$G_{\mathrm dense }$$]]></EquationSource>
+                  </InlineEquation> consists of nodes with high frequency (or degree) <InlineEquation ID="IEq23">
+                    <EquationSource Format="TEX"><![CDATA[$$V_{\mathrm high }$$]]></EquationSource>
+                  </InlineEquation>, and <InlineEquation ID="IEq24">
+                    <EquationSource Format="TEX"><![CDATA[$$G_{\mathrm sparse }$$]]></EquationSource>
+                  </InlineEquation> consists of nodes with low frequency <InlineEquation ID="IEq25">
+                    <EquationSource Format="TEX"><![CDATA[$$V_{\mathrm low }$$]]></EquationSource>
+                  </InlineEquation>. Viewed in this fashion, our target is to obtain a well-distributed graph.</Para>
+                <Para>Now assume that the graph is fully connected with the following weights computed by a Gaussian kernel:<Equation ID="Equ3">
+                    <EquationNumber>3</EquationNumber>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} w(\varvec{v}_{i},\varvec{v}_{j})=\exp \left(-\frac{d_{ij}}{\alpha ^2}\right), \end{aligned}$$]]></EquationSource>
+                  </Equation>where <InlineEquation ID="IEq26">
+                    <EquationSource Format="TEX"><![CDATA[$$\alpha $$]]></EquationSource>
+                  </InlineEquation> is a bandwidth hyper-parameter and it is determined empirically. In the sequel, we set <InlineEquation ID="IEq27">
+                    <EquationSource Format="TEX"><![CDATA[$$\alpha $$]]></EquationSource>
+                  </InlineEquation> to 100.</Para>
+                <Para>The <InlineEquation ID="IEq28">
+                    <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                  </InlineEquation>-nearest neighbors of a given node <InlineEquation ID="IEq29">
+                    <EquationSource Format="TEX"><![CDATA[$$\varvec{v}_{i}$$]]></EquationSource>
+                  </InlineEquation> are the nodes <InlineEquation ID="IEq30">
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm NN _{k}(i)$$]]></EquationSource>
+                  </InlineEquation>, in which the nodes <InlineEquation ID="IEq31">
+                    <EquationSource Format="TEX"><![CDATA[$$\varvec{v}$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq32">
+                    <EquationSource Format="TEX"><![CDATA[$$\varvec{v}_{i}$$]]></EquationSource>
+                  </InlineEquation> are connected by an e.g., if the edge weight between <InlineEquation ID="IEq33">
+                    <EquationSource Format="TEX"><![CDATA[$$\varvec{v}$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq34">
+                    <EquationSource Format="TEX"><![CDATA[$$\varvec{v}_{i}$$]]></EquationSource>
+                  </InlineEquation> is among the <InlineEquation ID="IEq35">
+                    <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                  </InlineEquation>-th largest from <InlineEquation ID="IEq36">
+                    <EquationSource Format="TEX"><![CDATA[$$\varvec{v}_{i}$$]]></EquationSource>
+                  </InlineEquation> to other nodes, i.e.<Equation ID="Equ4">
+                    <EquationNumber>4</EquationNumber>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathrm NN _{k}(i)=\{\varvec{v}: \max _{k} w(\varvec{v}_{i},\varvec{v})\} \end{aligned}$$]]></EquationSource>
+                  </Equation>The above-mentioned problem of frequency rate suggests a solution which reassigns weight. Intuitively, we would like the <InlineEquation ID="IEq37">
+                    <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                  </InlineEquation>-neighborhoods to have similar weights in order to eliminate ‘bad shapes’.</Para>
+                <Para>Let us consider the neighborhood of a given node defined by its <InlineEquation ID="IEq38">
+                    <EquationSource Format="TEX"><![CDATA[$$|\mathrm NN _{k}(i)|$$]]></EquationSource>
+                  </InlineEquation> nearest neighbors. The value <InlineEquation ID="IEq39">
+                    <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                  </InlineEquation> is a compromise between computation cost and quality of retrieval result. The larger the value of <InlineEquation ID="IEq40">
+                    <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                  </InlineEquation>, the more expensive the computation. In general, <InlineEquation ID="IEq41">
+                    <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                  </InlineEquation> needs to be greater than 20 to prevent the system from being over constrained due to possible noise in the original measure.</Para>
+                <Para>We define the neighborhood weight or similarity <InlineEquation ID="IEq42">
+                    <EquationSource Format="TEX"><![CDATA[$$s(i)$$]]></EquationSource>
+                  </InlineEquation> as the mean weight of a given node <InlineEquation ID="IEq43">
+                    <EquationSource Format="TEX"><![CDATA[$$\varvec{v}_{i}$$]]></EquationSource>
+                  </InlineEquation> to the nodes of its neighborhood:<Equation ID="Equ5">
+                    <EquationNumber>5</EquationNumber>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} s(i)=\frac{1}{k}\sum _{\varvec{x}\in \mathrm NN _{k}(i)} w(\varvec{v}_{i},\varvec{x}) \end{aligned}$$]]></EquationSource>
+                  </Equation>and it is computed for each node. Subsequently, we define a new weight between two nodes as follows:<Equation ID="Equ6">
+                    <EquationNumber>6</EquationNumber>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} w^{\star }(\varvec{v}_{i},\varvec{u}_{k})=w(\varvec{v}_{i},\varvec{u}_{k})\frac{\bar{s}}{(s(i)s(j))^{1/2}}, \end{aligned}$$]]></EquationSource>
+                  </Equation>where <InlineEquation ID="IEq44">
+                    <EquationSource Format="TEX"><![CDATA[$$\bar{s}$$]]></EquationSource>
+                  </InlineEquation> is the geometric mean neighborhood similarity obtained by<Equation ID="Equ7">
+                    <EquationNumber>7</EquationNumber>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \bar{s}=\prod _{i} s(i)^{1/n}. \end{aligned}$$]]></EquationSource>
+                  </Equation>Thus, we reassign the graph weight and propagate the query label according to the new weight. Note that the terms <InlineEquation ID="IEq45">
+                    <EquationSource Format="TEX"><![CDATA[$$\bar{s}$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq46">
+                    <EquationSource Format="TEX"><![CDATA[$$s(i)$$]]></EquationSource>
+                  </InlineEquation> do not impact the nearest neighbors of a given node.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Relation to contextual dissimilarity measure</Heading>
+                <Para>Given the visual word vector <InlineEquation ID="IEq47">
+                    <EquationSource Format="TEX"><![CDATA[$$\varvec{\xi }_{j}$$]]></EquationSource>
+                  </InlineEquation> of a query, similar images in the database are represented by vector(s) <InlineEquation ID="IEq48">
+                    <EquationSource Format="TEX"><![CDATA[$$\varvec{\xi }_{j}$$]]></EquationSource>
+                  </InlineEquation> minimizing <InlineEquation ID="IEq49">
+                    <EquationSource Format="TEX"><![CDATA[$$d(\varvec{\xi }_{i},\varvec{\xi }_{j})$$]]></EquationSource>
+                  </InlineEquation>, where the relation <InlineEquation ID="IEq50">
+                    <EquationSource Format="TEX"><![CDATA[$$d(\cdot , \cdot )$$]]></EquationSource>
+                  </InlineEquation> is a distance on the visual word vector space. Note that the weighting scheme previously described can be seen as part of the distance definition. The contextual dissimilarity measure (CDM) updates the given distance <InlineEquation ID="IEq51">
+                    <EquationSource Format="TEX"><![CDATA[$$d(\cdot , \cdot )$$]]></EquationSource>
+                  </InlineEquation> (e.g., Manhattan distance) by applying two weighting factors <InlineEquation ID="IEq52">
+                    <EquationSource Format="TEX"><![CDATA[$$\eta _{i}$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq53">
+                    <EquationSource Format="TEX"><![CDATA[$$\eta _{j}$$]]></EquationSource>
+                  </InlineEquation> that depend on the vectors and between which the distance is computed:<Equation ID="Equ8">
+                    <EquationNumber>8</EquationNumber>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathrm CDM (\varvec{\xi }_{i},\varvec{\xi }_{j})=d(\varvec{\xi }_{i},\varvec{\xi }_{j})\eta _{i}\eta _{j}. \end{aligned}$$]]></EquationSource>
+                  </Equation>Our proposed NIS approach is a graph representation. We encode the edge weights as similarity between shapes, and the retrieval is a one-step label propagation from the query to other shapes. Our goal is to update the edge weight instead of distance. It is worth pointing out that CDM is iterative, whereas the proposed method is non-iterative. Moreover, we aim at re-ranking the shape retrieval result, though the edge weighting factor is learned in a similar fashion as CDM.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7">
+              <Heading>Applying neighborhood-induced similarity</Heading>
+              <Para>The goal of shape retrieval is to recall shapes that are relevant to the query. In this section, we explain the intuition behind the use of NIS to improve the relevancy of shape ranking results.</Para>
+              <Section2 ID="Sec8">
+                <Heading>Distance measure</Heading>
+                <Para>A reliable measurement of shape similarity is critical to the performance of NIS since it determines the underlying graph structure. Measuring pair-wise similarity can be categorized into two main classes: (1) compute direct difference in features extracted from shapes, which are invariant to rotation and robust to certain degree of deformation, such as skeletons, moments, and Fourier descriptors; (2) perform matching to find the detailed point-wise correspondences to compute these differences [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR2">2</CitationRef>]. Our algorithm is, however, general and not limited to any particular similarity measure or representation.</Para>
+              </Section2>
+              <Section2 ID="Sec9">
+                <Heading>Nodes with high or low frequency</Heading>
+                <Para>In the weighted similarity graph, NIS works on nodes with high or low frequency to improve the shape re-ranking results. We illustrate the process in Fig.  <InternalRef RefID="Fig2">2</InternalRef>. In a dense graph, for <InlineEquation ID="IEq54">
+                    <EquationSource Format="TEX"><![CDATA[$$V_{\mathrm high }$$]]></EquationSource>
+                  </InlineEquation>, there are relatively more query nodes that can propagate their label to it, which indicates that edge weights between <InlineEquation ID="IEq55">
+                    <EquationSource Format="TEX"><![CDATA[$$V_{\mathrm high }$$]]></EquationSource>
+                  </InlineEquation> and other nodes are larger. However, we could obtain several reduced weights by NIS since the overall average weight is smaller. Thus, a more concise and relevant set of query candidate shapes is searched. In a sparse graph, for <InlineEquation ID="IEq56">
+                    <EquationSource Format="TEX"><![CDATA[$$V_{\mathrm low }$$]]></EquationSource>
+                  </InlineEquation>, in the opposite way, we increase the candidate set by promoting the edge weight.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Two nodes in the similarity graph, e.g., ‘device’ and ‘glass’ shapes. By updating the edge weight, NIS identifies a highly relevant set of candidate query shapes. <Emphasis Type="Bold">a</Emphasis> 156 query shapes for ‘device’, 15 shapes are shown, <Emphasis Type="Bold">b</Emphasis> 60 query shapes for ‘device’ with NIS, 8 shapes are shown; <Emphasis Type="Bold">c</Emphasis> 4 query shapes for ‘glass’, <Emphasis Type="Bold">d</Emphasis> 44 query shapes for ‘glass’ with NIS, 8 shapes are shown</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO10">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_13_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec10">
+              <Heading>Experimental results</Heading>
+              <Para>In this section, we conduct extensive experiments to validate the performance of the proposed method. We first investigate the impact of the neighborhood size and then show the improved shape retrieval results by handling the frequency problem on 2D shapes. Then, we conduct more experiments on complex 2D shapes from a trademark image dataset, and also on a 3D shape dataset. In our experiments, we used SC, IDSC for 2D shapes, Zernike features for the trademark images, and LFD for 3D models to generate the distance measure and construct the similarity graph. Finally, we show that our method is computationally fast by deriving the overall computational cost.</Para>
+              <Section2 ID="Sec11">
+                <Heading>Results on 2D shapes</Heading>
+                <Para>
+                  <Emphasis Type="Bold">Datasets:</Emphasis> The experiments are performed on two shape data sets, the MPEG-7 dataset and Tarri dataset. The former consists of 1,400 silhouette images grouped into 70 categories. Each category contains 20 different shapes. The latter is comprised of 50 object categories, 20 shapes per category; so there are 1,000 images in total.</Para>
+                <Para>
+                  <Emphasis Type="Bold">Evaluation criterion:</Emphasis> The performance is measured using the so-called bull’s eye score to evaluate the accuracy of the proposed method. Every shape in the dataset is compared to all other shapes, and the number of shapes from the same class among the 40 most similar shapes is reported. The bull’s eye retrieval rate is the ratio of the total number of shapes from the same class to the highest possible number (which is <InlineEquation ID="IEq57">
+                    <EquationSource Format="TEX"><![CDATA[$$20\times 1{,}400$$]]></EquationSource>
+                  </InlineEquation> on MPEG-7). Thus, the best possible rate is <InlineEquation ID="IEq58">
+                    <EquationSource Format="TEX"><![CDATA[$$100\,\%$$]]></EquationSource>
+                  </InlineEquation>.</Para>
+                <Section3 ID="Sec12">
+                  <Heading>Neighborhood size of NIS</Heading>
+                  <Para>One important parameter of the proposed method is the neighborhood size, <InlineEquation ID="IEq59">
+                      <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                    </InlineEquation>. We evaluate the accuracy of the method for different values of <InlineEquation ID="IEq60">
+                      <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                    </InlineEquation>. It results in disparate accuracy when the size is relatively small. Figure <InternalRef RefID="Fig3">3</InternalRef> shows the percentage of correct results on MPEG-7 dataset. We observe that the accuracy surges significantly when the size of neighborhood is small, namely 7 or 8 in this case, then slightly decreases as the neighborhood enlarges. The peak accuracy is obtained when the neighborhood size is equal to 30. Considering that a small neighborhood contributes to lower computational cost, while a larger one provides a better accuracy in a limited range. We set the size <InlineEquation ID="IEq61">
+                      <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                    </InlineEquation> to 30 in the experiments as a trade-off value.</Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig3">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 3</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Impact of neighborhood size for the MPEG-7 dataset</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO11">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_13_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                </Section3>
+                <Section3 ID="Sec13">
+                  <Heading>Improving 2D shape retrieval</Heading>
+                  <Para>We evaluate the NIS performance for shape retrieval on MPEG-7 dataset and Tarri dataset. The proposed method is able to improve the shape contexts retrieval rates from <InlineEquation ID="IEq62">
+                      <EquationSource Format="TEX"><![CDATA[$$86.79$$]]></EquationSource>
+                    </InlineEquation> to <InlineEquation ID="IEq63">
+                      <EquationSource Format="TEX"><![CDATA[$$90.49\,\%$$]]></EquationSource>
+                    </InlineEquation>, and the IDSC from <InlineEquation ID="IEq64">
+                      <EquationSource Format="TEX"><![CDATA[$$84.68$$]]></EquationSource>
+                    </InlineEquation> to <InlineEquation ID="IEq65">
+                      <EquationSource Format="TEX"><![CDATA[$$88.05\,\%$$]]></EquationSource>
+                    </InlineEquation> on the MPEG-7 dataset. It also improves shape contexts retrieval rates from <InlineEquation ID="IEq66">
+                      <EquationSource Format="TEX"><![CDATA[$$94.17$$]]></EquationSource>
+                    </InlineEquation> to <InlineEquation ID="IEq67">
+                      <EquationSource Format="TEX"><![CDATA[$$97\,\%$$]]></EquationSource>
+                    </InlineEquation> on Tarri dataset.</Para>
+                  <Para>In order to visualize the gain in retrieval rates by our method, we conduct a series of experiments on the MPEG-7 dataset. Here we vary the neighborhood size <InlineEquation ID="IEq68">
+                      <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                    </InlineEquation> from 1 to 40 instead of setting it to 40 as in the bull’s eye evaluation. Figure <InternalRef RefID="Fig4">4</InternalRef> shows that our similarity measure outperforms the Shape Contexts and IDSC on both MPEG-7 and Tarri datasets. Note that each class has 20 shapes, so the curve increases for <InlineEquation ID="IEq69">
+                      <EquationSource Format="TEX"><![CDATA[$$k>20$$]]></EquationSource>
+                    </InlineEquation>.</Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig4">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 4</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>
+                            <Emphasis Type="Bold">a</Emphasis> A comparison of retrieval rates between IDSC (<Emphasis Type="Italic">blue circle</Emphasis>) and by the proposed method (<Emphasis Type="Italic">red asterisk</Emphasis>) for MPEG-7 dataset. <Emphasis Type="Bold">b</Emphasis> A comparison of retrieval rates between SC (<Emphasis Type="Italic">blue circle</Emphasis>) and by the proposed method (<Emphasis Type="Italic">red asterisk</Emphasis>) for MPEG-7 dataset. <Emphasis Type="Bold">c</Emphasis> A comparison of retrieval rates between SC (<Emphasis Type="Italic">blue circle</Emphasis>) and by the proposed method (<Emphasis Type="Italic">red asterisk</Emphasis>) for Tarri dataset (color figure online)</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO12">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_13_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>Figure <InternalRef RefID="Fig5">5</InternalRef> illustrates some typical queries for which NIS significantly improves the results on MPEG-7 dataset. We place the query in the first column, and the most relevant returns in a row beside it excluding the query itself. For each group of comparison, the query with no NIS (upper row) is often irrelevantly retrieved, whereas the query with NIS (second row) returns the most relevant shapes. It shows that only one result is correct for the query ‘glass’. It instead retrieves eight elephants as the most similar shapes among the top ten, since it confuses the glass bottom with the elephant crus and trunk. However, the proposed method deliberately increases the distance from a global perspective. It can accurately distinguish the difference with only one mistake.</Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig5">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 5</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>First column shows query shapes. Remaining columns show the most similar shapes retrieved by SC (<Emphasis Type="Italic">odd row numbers</Emphasis>) and by our method (<Emphasis Type="Italic">even row numbers</Emphasis>)</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO13">
+                        <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_13_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>The results of the query ‘lizard’ are equally convincing. No correct shape is returned besides the query itself without NIS, and our method correctly retrieves seven among top ten. For the results of the query ‘tree’, it mistakenly retrieves camel for ‘tree’, since the camel’s hump is more similar to the serrated shape of the pine tree. Nevertheless, all retrieval results are correct using the new distance learned via our method.</Para>
+                  <Para>The comparison of frequency rate is illustrated in Fig.  <InternalRef RefID="Fig6">6</InternalRef>, where the red squares denote the proposed method and the blue crosses otherwise. Since each class has 20 shapes and we consider the top 40 for each query, the optimal frequency rate ranges from about 20–40 and the ideal dots form a band-like region which is parallel to the <InlineEquation ID="IEq70">
+                      <EquationSource Format="TEX"><![CDATA[$$x$$]]></EquationSource>
+                    </InlineEquation>-axis. The performance is considered unsatisfactory provided that the deviation of frequency rate from the region is large. After all, a large deviation implies over-returned and never-returned. We observe that the rate of query shapes gather towards the ideal region in a considerable number. The most notable improvement of the proposed method is that the frequency rates seldom fall below the boundary of 20, unlike the frequency rate without NIS. This clearly demonstrates that NIS can effectively regulate the overall similarity of each shape and reduce the disturbance of ‘bad shapes’.</Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig6">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 6</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Frequency rate without NIS (<Emphasis Type="Italic">blue points</Emphasis>) and with NIS (<Emphasis Type="Italic">red points</Emphasis>) (color figure online)</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO14">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_13_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                </Section3>
+              </Section2>
+              <Section2 ID="Sec14">
+                <Heading>Results on more complex 2D shapes</Heading>
+                <Para>In this experiment, we investigate the NIS performance for improving the retrieval results on Wei’s Trademark Image dataset with 1,003 images in 14 classes [<CitationRef CitationID="CR11">11</CitationRef>]. These include Apple, Fan, Abstract Circle1, Abstract Circle2, Encircled Cross, Abstract Saddle, Abstract Saddle, Abstract Sign, Triangle, Bat, Peacock, Abstract Flowers, Rabbit, Snow Flake, and Miscellaneous. Figure <InternalRef RefID="Fig7">7</InternalRef> displays sample images from the Trademark Image dataset. Traditional descriptor-based methods applied on these complex shapes still maintain a modest performance. However, the industry is in urgent need for a satisfactory retrieval performance because it will save human consumption of comparing one by one to avoid reduplication. In this setting, the neighborhood size is set to 85.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig7">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 7</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Sample images from the trademark shape dataset</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO15">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_13_Fig7_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>In our comparative analysis, we used the Precision/Recall curve to measure the retrieval performance. Ideally, this curve should be a horizontal line at unit precision. For each query image, we use the first 108 return trademark images with descending similarity rankings (i.e., ascending Euclidean distance ranking), dividing them into 9 groups accordingly. However, in order to obtain a more objective picture of the performance, we plot the average performance of 20 query images of the same class. We show the result in Fig. <InternalRef RefID="Fig8">8</InternalRef>, where Zernike features [<CitationRef CitationID="CR3">3</CitationRef>] are first extracted to calculate the original distance matrix, and the proposed algorithm is used to obtain the accuracy-improved matrix. Again, the overall retrieval performance is improved by NIS.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig8">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 8</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>NIS improves the overall retrieval performance for the trademark image dataset. <Emphasis Type="Italic">Blue line</Emphasis> is with NIS and <Emphasis Type="Italic">red line</Emphasis> is without NIS (color figure online)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO16">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_13_Fig8_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Based on the above experimental results, our algorithm is validated to improve shape retrieval in 2D, both on standard datasets and on trademark images with large variation among individuals.</Para>
+              </Section2>
+              <Section2 ID="Sec15">
+                <Heading>Results on 3D shapes</Heading>
+                <Para>We tested the performance of the proposed matching algorithm using the McGill Shape Benchmark (<ExternalRef>
+                    <RefSource>http://www.cim.McGill.ca/shape/benchmark</RefSource>
+                    <RefTarget Address="http://www.cim.McGill.ca/shape/benchmark" TargetType="URL"/>
+                  </ExternalRef>). This publicly available benchmark database provides a 3D shape repository, which contains 255 objects that are divided into ten categories, namely, ‘Ants’, ‘Crabs’, ‘Spectacles’, ‘Hands’, ‘Humans’, ‘Octopuses’, ‘Pliers’, ‘Snakes’, ‘Spiders’, and ‘Teddy Bears’. Sample models from this database are shown in Fig. <InternalRef RefID="Fig9">9</InternalRef>.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig9">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 9</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Sample shapes from McGill Articulated Shape Database. Only two shapes for each of the 10 classes are shown</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO17">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_13_Fig9_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>The evaluation of the retrieval results is based on the following quantification measures. These measures range from <InlineEquation ID="IEq71">
+                    <EquationSource Format="TEX"><![CDATA[$$0$$]]></EquationSource>
+                  </InlineEquation> to <InlineEquation ID="IEq72">
+                    <EquationSource Format="TEX"><![CDATA[$$100\,\%$$]]></EquationSource>
+                  </InlineEquation>, and higher values indicate better performance.<UnorderedList Mark="Bullet">
+                    <ItemContent>
+                      <Para>
+                        <Emphasis Type="Italic">Nearest neighbor (NN):</Emphasis> The percentage of queries where the closest match belongs to the query’s class.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>
+                        <Emphasis Type="Italic">First tier (FT):</Emphasis> The recall for the <InlineEquation ID="IEq73">
+                          <EquationSource Format="TEX"><![CDATA[$$(\kappa -1)$$]]></EquationSource>
+                        </InlineEquation> closest matches, where <InlineEquation ID="IEq74">
+                          <EquationSource Format="TEX"><![CDATA[$$\kappa $$]]></EquationSource>
+                        </InlineEquation> is the cardinality of the query’s class.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>
+                        <Emphasis Type="Italic">Second tier (ST):</Emphasis> The recall for the <InlineEquation ID="IEq75">
+                          <EquationSource Format="TEX"><![CDATA[$$2(\kappa -1)$$]]></EquationSource>
+                        </InlineEquation> closest matches, where <InlineEquation ID="IEq76">
+                          <EquationSource Format="TEX"><![CDATA[$$\kappa $$]]></EquationSource>
+                        </InlineEquation> is the cardinality of the query’s class.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>
+                        <Emphasis Type="Italic">Discounted cumulative gain:</Emphasis> A statistic that correct results near the front of the retrieval list are weighted more heavily than correct results near the end under the assumption that a user is most interested in the first results.</Para>
+                    </ItemContent>
+                  </UnorderedList>We compare our method with the 3D Light Field Distribution (LFD) method. As in the previous experiments, the distance matrix calculated via LFD is chosen as the input of NIS, and the neighborhood size is set to 48. The corresponding scores of each method for each class of the database as well as the overall scores for the complete database are shown in Table <InternalRef RefID="Tab1">1</InternalRef>. We render numbers in bold if our method is superior or equivalent to LFD. Obviously, in most cases, NIS has a positive effect on 3D shapes re-ranking. Though not all the entries with NIS outperform LFD in the comparative results, it is understandable that NIS works in a given statistical range. For example, ‘Hands’, the worst class according to the result, will still lead to effective shape re-ranking based upon the First Tier measure.</Para>
+                <Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Quantitative measure scores of the retrieval methods</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="6">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <colspec align="left" colname="c6" colnum="6"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara># Queries</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Method</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>NN (%)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>FT (%)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>ST (%)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>DCG (%)</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Overall database</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>84.16</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>46.26</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>62.18</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>83.72</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>84.61</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>44.69</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>59.28</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>82.74</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Ants</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>90</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>53.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>77.78</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>88.42</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>93.33</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>54.56</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>76.11</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>89.33</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Crabs</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>93.33</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>50.89</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>65.33</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>86.33</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>93.33</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>45</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>60.11</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>84.08</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Spectacles</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>76</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>51.52</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>66.08</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>88.45</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>100</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>50.56</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>65.60</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>88.34</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Hands</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>80</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>28.25</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>40.50</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>75.36</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>90</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>28</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>42.25</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>75.44</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Humans</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>79.31</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>40.79</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>54.94</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>81.26</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>79.31</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>39.35</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>53.03</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>80.69</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Octopuses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>60</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>26.88</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>41.93</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>72.30</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>48</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>24</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>35.36</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>68.47</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Pliers</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>100</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>75.50</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>87.25</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>97.58</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>100</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>75.25</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>87.25</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>97.47</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Snakes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>76</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>26.14</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>33.92</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>71.68</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>68</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>20.64</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>25.28</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>66.53</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Spiders</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>70.97</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>41.94</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>65.45</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>81.18</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>74.12</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>42.77</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>65.35</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>82.35</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Teddy bears</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ours</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>100</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>66.50</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>86.50</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>95.64</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>LFD</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>100</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>66.75</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>82.50</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>94.59</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+              </Section2>
+              <Section2 ID="Sec16">
+                <Heading>Computational cost</Heading>
+                <Para>We compared the computation time of our method with the graph transduction approach [<CitationRef CitationID="CR5">5</CitationRef>]. Both algorithms are implemented in MATLAB running on a Pentium Dual Core 1.73 GHz PC. The MATLAB implementation of the graph transduction is publicly available in (<ExternalRef>
+                    <RefSource>http://happyyxw.googlepages.com/democodeeccv</RefSource>
+                    <RefTarget Address="http://happyyxw.googlepages.com/democodeeccv" TargetType="URL"/>
+                  </ExternalRef>). The entire retrievalprocess of the proposed algorithm takes about 5.05 s, which is extremely faster than the graph transduction’s 2.18 h.</Para>
+                <Para>We also analyzed the computational complexity of the proposed similarity measure approach. The time to compute the neighborhood distance is <InlineEquation ID="IEq77">
+                    <EquationSource Format="TEX"><![CDATA[$${\mathcal O}(kN)$$]]></EquationSource>
+                  </InlineEquation>, to compute geometric mean is <InlineEquation ID="IEq78">
+                    <EquationSource Format="TEX"><![CDATA[$${\mathcal O}(N)$$]]></EquationSource>
+                  </InlineEquation>, and to update the weight is <InlineEquation ID="IEq79">
+                    <EquationSource Format="TEX"><![CDATA[$${\mathcal O}(N)$$]]></EquationSource>
+                  </InlineEquation>. There is an additional cost for ranking the scores at the end, which is <InlineEquation ID="IEq80">
+                    <EquationSource Format="TEX"><![CDATA[$${\mathcal O}(k\log N)$$]]></EquationSource>
+                  </InlineEquation>. Thus, the total complexity of our method amounts to <InlineEquation ID="IEq81">
+                    <EquationSource Format="TEX"><![CDATA[$${\mathcal O}(k\log N + (k+2)N)$$]]></EquationSource>
+                  </InlineEquation>. since <InlineEquation ID="IEq82">
+                    <EquationSource Format="TEX"><![CDATA[$$k\ll N$$]]></EquationSource>
+                  </InlineEquation>, the overall time complexity of our algorithm is bounded by <InlineEquation ID="IEq83">
+                    <EquationSource Format="TEX"><![CDATA[$${\mathcal O}(N^2)$$]]></EquationSource>
+                  </InlineEquation>. It is worth pointing out that the complexity of our approach is at least one order smaller than the complexity <InlineEquation ID="IEq84">
+                    <EquationSource Format="TEX"><![CDATA[$${\mathcal O}(TN^3)$$]]></EquationSource>
+                  </InlineEquation> of the graph transduction algorithm, where <InlineEquation ID="IEq85">
+                    <EquationSource Format="TEX"><![CDATA[$$T$$]]></EquationSource>
+                  </InlineEquation> is the number of iterations.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec17">
+              <Heading>Conclusions and future work</Heading>
+              <Para>In this paper, we proposed a novel similarity measure for eliminating abnormal shapes in shape retrieval systems. The proposed NIS measure takes into account the hidden local structure by using the average neighborhood similarity in a graph representation. We tested the proposed similarity measure on the commonly used MPEG-7 and Tarri datasets, a trademark image dataset, and a 3D shape dataset. The experimental results demonstrated the efficiency of the proposed method both in 2D and 3D, even on shapes with large variations. In addition, we showed that the proposed method is computationally fast.</Para>
+              <Para>Future research directions include further exploration of the frequency problem on shape classification as well as clustering. We also plan to combine sparse representation with the proposed method in order to achieve much better retrieval results.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_Article_13.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_13_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <Heading>Acknowledgments</Heading>
+              <SimplePara>The authors would like to thank the anonymous reviewers and the Section Editor for helpful and very insightful comments. This work was supported in part by an NSERC Discovery grant.</SimplePara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Belongie</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Puzicha</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Shape matching and object recognition using shape contexts</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>509</FirstPage>
+                  <LastPage>522</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/34.993558</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Belongie S, Malik J, Puzicha J (2002) Shape matching and object recognition using shape contexts. IEEE Trans Pattern Anal Mach Intell 24(4):509–522</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Ling</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Jacobs</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Shape classification using the inner-distance</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>286</FirstPage>
+                  <LastPage>299</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2007.41</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ling H, Jacobs D (2007) Shape classification using the inner-distance. IEEE Trans Pattern Anal Mach Intell 29(2):286–299</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M-C</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C-M</Initials>
+                    <FamilyName>Pun</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Complex Zernike moments features for shape-based image retrieval</ArticleTitle>
+                  <JournalTitle>IEEE Trans Syst Man Cybern</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>227</FirstPage>
+                  <LastPage>237</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TSMCA.2008.2007988</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Li S, Lee M-C, Pun C-M (2009) Complex Zernike moments features for shape-based image retrieval. IEEE Trans Syst Man Cybern 39(1):227–237</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TB</Initials>
+                    <FamilyName>Sebastian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PN</Initials>
+                    <FamilyName>Klein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BB</Initials>
+                    <FamilyName>Kimia</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Recognition of shapes by editing their shock graphs</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>550</FirstPage>
+                  <LastPage>571</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2004.1273924</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sebastian TB, Klein PN, Kimia BB (2004) Recognition of shapes by editing their shock graphs. IEEE Trans Pattern Anal Mach Intell 26(5):550–571</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Bai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Yang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LJ</Initials>
+                    <FamilyName>Latecki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Tu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Learning context sensitive shape similarity by graph transduction</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>861</FirstPage>
+                  <LastPage>874</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2009.85</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bai X, Yang X, Latecki LJ, Liu W, Tu Z (2010) Learning context sensitive shape similarity by graph transduction. IEEE Trans Pattern Anal Mach Intell 32(5):861–874</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Brin S, Page L (1998) The anatomy of a large-scale hypertextual Web search engine. Proc Int Conf World Wide Web 7 30(1–7):107–117. doi:<ExternalRef><RefSource>10.1016/S0169-7552(98)00110-X</RefSource><RefTarget Address="10.1016/S0169-7552(98)00110-X" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>He</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W-Y</Initials>
+                    <FamilyName>Ma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Imagerank: spectral techniques for structural analysis of image database</ArticleTitle>
+                  <JournalTitle>Proc IEEE Int Conf Multimedia Expo</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <FirstPage>25</FirstPage>
+                  <LastPage>28</LastPage>
+                </BibArticle>
+                <BibUnstructured>He X, Ma W-Y, Zhang H (2002) Imagerank: spectral techniques for structural analysis of image database. Proc IEEE Int Conf Multimedia Expo 1:25–28</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Latecki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Lakamper</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Eckhardt</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Shape descriptors for non-rigid shapes with a single closed contour</ArticleTitle>
+                  <JournalTitle>Proc IEEE Conf Comput Vis Pattern Recognit</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <FirstPage>424</FirstPage>
+                  <LastPage>429</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/CVPR.2000.855850</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Latecki L, Lakamper R, Eckhardt U (2000) Shape descriptors for non-rigid shapes with a single closed contour. Proc IEEE Conf Comput Vis Pattern Recognit 1:424–429</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Bronstein AM, Bronstein MM, Guibas L, Ovsjanikov M (2011) Shape Google: geometric words and expressions for invariant shape retrieval. ACM Trans Graph 30(1). doi:<ExternalRef><RefSource>10.1145/1899404.1899405</RefSource><RefTarget Address="10.1145/1899404.1899405" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ovsjanikov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Guibas</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">A concise and provably informative multi-scale signature-based on heat diffusion</ArticleTitle>
+                  <JournalTitle>Comput Graph Forum</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>1383</FirstPage>
+                  <LastPage>1392</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1467-8659.2009.01515.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sun J, Ovsjanikov M, Guibas L (2009) A concise and provably informative multi-scale signature-based on heat diffusion. Comput Graph Forum 28(5):1383–1392</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C-H</Initials>
+                    <FamilyName>Wei</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W-Y</Initials>
+                    <FamilyName>Chau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C-T</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Trademark image retrieval using synthetic features for describing global shape and interior structure</ArticleTitle>
+                  <JournalTitle>Pattern Recognit</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>386</FirstPage>
+                  <LastPage>394</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patcog.2008.08.019</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1181.68259</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wei C-H, Li Y, Chau W-Y, Li C-T (2009) Trademark image retrieval using synthetic features for describing global shape and interior structure. Pattern Recognit 42(3):386–394</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D-Y</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X-P</Initials>
+                    <FamilyName>Tian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y-T</Initials>
+                    <FamilyName>Shen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ouhyoung</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">On visual similarity based 3D model retrieval</ArticleTitle>
+                  <JournalTitle>Comput Graph Forum</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>223</FirstPage>
+                  <LastPage>232</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/1467-8659.00669</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chen D-Y, Tian X-P, Shen Y-T, Ouhyoung M (2003) On visual similarity based 3D model retrieval. Comput Graph Forum 22(3):223–232</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Siddiqi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Macrini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Shokoufandeh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Bouix</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Dickinson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Retrieving articulated 3-D models using medial surfaces</ArticleTitle>
+                  <JournalTitle>Mach Vis Appl</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>261</FirstPage>
+                  <LastPage>275</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00138-007-0097-8</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Siddiqi K, Zhang J, Macrini D, Shokoufandeh A, Bouix S, Dickinson S (2008) Retrieving articulated 3-D models using medial surfaces. Mach Vis Appl 19(4):261–275</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Cheng H, Liu Z, Yang J (2009) Sparsity induced similarity measure for label propagation. Proc IEEE Int Conf Comput Vis, Kyoto, Japan, pp 317–324 </BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>Xiaojin Z (2005) Semi-supervised learning with Graphs, PhD thesis, CMU</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Jegou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Schmid</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Harzallah</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Verbeek</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Accurate image search using the contextual dissimilarity measure</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>2</FirstPage>
+                  <LastPage>11</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2008.285</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jegou H, Schmid C, Harzallah H, Verbeek J (2010) Accurate image search using the contextual dissimilarity measure. IEEE Trans Pattern Anal Mach Intell 32(1):2–11</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Yu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Amores</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Sebe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Radeva</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Q</Initials>
+                    <FamilyName>Tian</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Distance learning for similarity estimation</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>451</FirstPage>
+                  <LastPage>462</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2007.70714</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yu J, Amores J, Sebe N, Radeva P, Tian Q (2008) Distance learning for similarity estimation. IEEE Trans Pattern Anal Mach Intell 30(3):451–462</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Jing</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Baluja</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">VisualRank: applying PageRank to large-scale image search</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <IssueID>11</IssueID>
+                  <FirstPage>1877</FirstPage>
+                  <LastPage>1890</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2008.121</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jing Y, Baluja S (2008) VisualRank: applying PageRank to large-scale image search. IEEE Trans Pattern Anal Mach Intell 30(11):1877–1890</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibUnstructured>Shilane P, Min P, Kazhdan M, Funkhouser T (2004) The princeton shape benchmark. In: Proceedings of shape modeling, International, pp 167–178</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

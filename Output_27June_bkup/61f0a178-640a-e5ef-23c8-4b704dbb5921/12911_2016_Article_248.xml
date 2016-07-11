@@ -1,0 +1,1838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>BioMed Central</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+    <PublisherImprintName>BioMed Central</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="Online">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12911</JournalID>
+      <JournalElectronicISSN>1472-6947</JournalElectronicISSN>
+      <JournalTitle>BMC Medical Informatics and Decision Making</JournalTitle>
+      <JournalSubTitle>BMC series – open, inclusive and trusted</JournalSubTitle>
+      <JournalAbbreviatedTitle>BMC Med Inform Decis Mak</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH28009" Priority="1" Type="Secondary">Health Informatics</JournalSubject>
+        <JournalSubject Code="SCI18008" Priority="2" Type="Secondary">Information Systems and Communication Service</JournalSubject>
+        <JournalSubject Code="SCI24067" Priority="3" Type="Secondary">Management of Computing and Information Systems</JournalSubject>
+        <SubjectCollection Code="Medicine">SC11</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="Online">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>16</VolumeIDStart>
+        <VolumeIDEnd>16</VolumeIDEnd>
+        <VolumeIssueCount>1</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="Online">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>0</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>12</Month>
+            </CoverDate>
+            <PricelistYear>2016</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Author(s)</CopyrightHolderName>
+            <CopyrightYear>2016</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s12911-016-0248-9" OutputMedium="Online">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>248</ArticleID>
+            <ArticleDOI>10.1186/s12911-016-0248-9</ArticleDOI>
+            <ArticleCitationID>5</ArticleCitationID>
+            <ArticleSequenceNumber>5</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Semantic representation of reported measurements in radiology</ArticleTitle>
+            <ArticleCategory>Research article</ArticleCategory>
+            <ArticleCollection ID="AC_7d92db00b242f4eeaf7a33c4340d6843" Type="SubjectSection">
+              <ArticleCollectionTitle>Standards, technology, and modeling</ArticleCollectionTitle>
+            </ArticleCollection>
+            <ArticleFirstPage>1</ArticleFirstPage>
+            <ArticleLastPage>12</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+              </Received>
+              <Accepted>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>22</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleFundingInformation>
+              <Fund>
+                <FunderName>German Federal Ministry of Economics and Technology</FunderName>
+                <GrantNumber Type="FundRef">01MT14001</GrantNumber>
+              </Fund>
+            </ArticleFundingInformation>
+            <ArticleCopyright>
+              <CopyrightHolderName>Oberkampf et al.</CopyrightHolderName>
+              <CopyrightYear>2016</CopyrightYear>
+              <License SubType="CC BY + CC0" Type="OpenAccess" Version="4.0">
+                <SimplePara>
+                           <Emphasis Type="Bold">Open Access</Emphasis>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ExternalRef>
+                    <RefSource>http://creativecommons.org/licenses/by/4.0/</RefSource>
+                    <RefTarget Address="http://creativecommons.org/licenses/by/4.0/" TargetType="URL"/>
+                  </ExternalRef>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ExternalRef>
+                    <RefSource>http://creativecommons.org/publicdomain/zero/1.0/</RefSource>
+                    <RefTarget Address="http://creativecommons.org/publicdomain/zero/1.0/" TargetType="URL"/>
+                  </ExternalRef>) applies to the data made available in this article, unless otherwise stated.</SimplePara>
+              </License>
+            </ArticleCopyright>
+            <ArticleGrants Type="OpenChoice">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2" ID="Au1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Heiner</GivenName>
+                  <FamilyName>Oberkampf</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>heiner.oberkampf@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2 Aff3" ID="Au2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Sonja</GivenName>
+                  <FamilyName>Zillner</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>sonja.zillner@siemens.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff4" ID="Au3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>James</GivenName>
+                  <GivenName>A.</GivenName>
+                  <FamilyName>Overton</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>james@overton.ca</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1" ID="Au4">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Bernhard</GivenName>
+                  <FamilyName>Bauer</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>bernhard.bauer@informatik.uni-augsburg.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff5" ID="Au5">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Alexander</GivenName>
+                  <FamilyName>Cavallaro</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>alexander.cavallaro@uk-erlangen.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff5" ID="Au6">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Michael</GivenName>
+                  <FamilyName>Uder</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>michael.uder@uk-erlangen.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff5" CorrespondingAffiliationID="Aff5" ID="Au7">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Matthias</GivenName>
+                  <FamilyName>Hammon</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>+49 9131 8536065</Phone>
+                  <Email>matthias.hammon@uk-erlangen.de</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Computer Science</OrgDivision>
+                <OrgName>Software Methodologies for Distributed Systems, University of Augsburg</OrgName>
+                <OrgAddress>
+                  <Street>Universitätsstraße 6a</Street>
+                  <Postcode>86159</Postcode>
+                  <City>Augsburg</City>
+                  <Country Code="DE">Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName>Corporate Technology, Siemens AG</OrgName>
+                <OrgAddress>
+                  <Street>Otto-Hahn-Ring 6</Street>
+                  <Postcode>81739</Postcode>
+                  <City>Münech</City>
+                  <Country Code="DE">Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgName>School of International Business and Entrepreneurship, Steinbeis University</OrgName>
+                <OrgAddress>
+                  <Street>Kalkofenstraße 53</Street>
+                  <Postcode>71083</Postcode>
+                  <City>Herrenberg</City>
+                  <Country Code="DE">Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff4">
+                <OrgName>Knocean.com</OrgName>
+                <OrgAddress>
+                  <City>Toronto</City>
+                  <Country Code="CA">Canada</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff5">
+                <OrgDivision>Department of Radiology</OrgDivision>
+                <OrgName>University Hospital Erlangen</OrgName>
+                <OrgAddress>
+                  <Street>Maximiliansplatz 1</Street>
+                  <Postcode>91054</Postcode>
+                  <City>Erlangen</City>
+                  <Country Code="DE">Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <AbstractSection ID="ASec1">
+                <Heading>Background</Heading>
+                <Para ID="Par1">In radiology, a vast amount of diverse data is generated, and unstructured reporting is standard. Hence, much useful information is trapped in free-text form, and often lost in translation and transmission. One relevant source of free-text data consists of reports covering the assessment of changes in tumor burden, which are needed for the evaluation of cancer treatment success. Any change of lesion size is a critical factor in follow-up examinations. It is difficult to retrieve specific information from unstructured reports and to compare them over time. Therefore, a prototype was implemented that demonstrates the structured representation of findings, allowing selective review in consecutive examinations and thus more efficient comparison over time.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2">
+                <Heading>Methods</Heading>
+                <Para ID="Par2">We developed a semantic Model for Clinical Information (MCI) based on existing ontologies from the Open Biological and Biomedical Ontologies (OBO) library. MCI is used for the integrated representation of measured image findings and medical knowledge about the normal size of anatomical entities. An integrated view of the radiology findings is realized by a prototype implementation of a ReportViewer. Further, RECIST (Response Evaluation Criteria In Solid Tumors) guidelines are implemented by SPARQL queries on MCI. The evaluation is based on two data sets of German radiology reports: An oncologic data set consisting of 2584 reports on 377 lymphoma patients and a mixed data set consisting of 6007 reports on diverse medical and surgical patients. All measurement findings were automatically classified as abnormal/normal using formalized medical background knowledge, i.e., knowledge that has been encoded into an ontology. A radiologist evaluated 813 classifications as correct or incorrect. All unclassified findings were evaluated as incorrect.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3">
+                <Heading>Results</Heading>
+                <Para ID="Par3">The proposed approach allows the automatic classification of findings with an accuracy of 96.4 % for oncologic reports and 92.9 % for mixed reports. The ReportViewer permits efficient comparison of measured findings from consecutive examinations. The implementation of RECIST guidelines with SPARQL enhances the quality of the selection and comparison of target lesions as well as the corresponding treatment response evaluation.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec4">
+                <Heading>Conclusions</Heading>
+                <Para ID="Par4">The developed MCI enables an accurate integrated representation of reported measurements and medical knowledge. Thus, measurements can be automatically classified and integrated in different decision processes. The structured representation is suitable for improved integration of clinical findings during decision-making. The proposed ReportViewer provides a longitudinal overview of the measurements.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Radiology</Keyword>
+              <Keyword>Measurement</Keyword>
+              <Keyword>Classification</Keyword>
+              <Keyword>Ontology</Keyword>
+              <Keyword>OBO</Keyword>
+              <Keyword>Open Biological and Biomedical Ontologies</Keyword>
+              <Keyword>RECIST</Keyword>
+              <Keyword>Follow-up</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Background</Heading>
+              <Para ID="Par5">In radiology, a vast amount of diverse data is generated (image data, secondary captures, texts, etc.). Obviously, these data facilitate the generation of fountains of knowledge and pools of evidence supporting decision-making as well as therapy planning and monitoring. Unfortunately, because unstructured reporting is the norm, much useful information is trapped in free-text form, and often lost in translation and transmission [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR2">2</CitationRef>].</Para>
+              <Para ID="Par6">The assessment of changes in tumor burden is an important task during the evaluation of cancer treatment success. Tumor shrinkage and disease progression must be assessed and reported to evaluate therapy response. Increasingly many different measurements are performed and reported in radiology (volumes, perfusion or diffusion measurements, spectroscopy results, etc.). However, most of these data are measurements of the size of a lesion or an organ in different dimensions. The change of the lesion size is still the critical factor in follow-up examinations (sonography, computed tomography, magnetic resonance imaging) during therapy or surveillance. The RECIST (Response Evaluation Criteria In Solid Tumors) guideline allows a standardized assessment of tumor burden and tumor response during therapy [<CitationRef CitationID="CR3">3</CitationRef>]. Here, a sum of the diameters (short axis for lymph nodes, longest diameter for the remaining lesions) for all target lesions is calculated and reported as the baseline or follow-up sum and indicates therapy response/failure [<CitationRef CitationID="CR3">3</CitationRef>].</Para>
+              <Para ID="Par7">In general, the increase in available clinical data and availability of medical knowledge provide the basis for better and more effective decision-making. A common assumption is that the more data we have about a particular patient, the more effectively this patient can be treated. However, this requires the automatic and longitudinal integration of findings from different reports in decision processes such as diagnosis or treatment evaluation. Today, however, improved quality of treatment on the one hand and limited funding on the other hand are in conflict. In the current situation, the availability of more data entails increased efforts for the clinicians and thus higher costs. This is mostly due to three challenges:<OrderedList>
+                  <ListItem>
+                    <ItemNumber>1</ItemNumber>
+                    <ItemContent>
+                      <Para ID="Par8">Only a small amount of the data is structured, while a high percentage of relevant data is unstructured.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>2</ItemNumber>
+                    <ItemContent>
+                      <Para ID="Par9">Existing data are not sufficiently linked to medical knowledge and thus do not include the appropriate level of detail for decision-support systems.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>3</ItemNumber>
+                    <ItemContent>
+                      <Para ID="Par10">Finding descriptions are not longitudinally integrated. Thus, the comparison of findings from consecutive examinations to evaluate the change of the health status requires extensive manual effort.</Para>
+                    </ItemContent>
+                  </ListItem>
+                </OrderedList>
+                     </Para>
+              <Para ID="Par11">As a result of these problems, most of the available data are simply not used to their full potential during clinical decision-making. To overcome these problems, structured representations of findings are needed that allow the selective retrieval and better integration of useful data. For instance, during diagnosis and examination processes, attention is mainly focused on abnormalities. For blood tests, a classification of measurement values (low, normal, high) is commonly provided. However, for image findings, this kind of automatic normality classification is missing, since radiology findings are more complex (see, e.g., Fig. <InternalRef RefID="Fig1">1</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Example of an abnormal mediastinal lymph node. An axial image of a contrast-enhanced computed tomography examination of the thorax. The size of a lymph node is specified by measuring the longest in-plane diameter and the corresponding short axis in the orthogonal direction</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_248_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+                     </Para>
+              <Para ID="Par12">Much work has already been performed on developing structured representations for clinical findings; this is commonly realized through a combination of an information model with reference terminologies [<CitationRef CitationID="CR4">4</CitationRef>–<CitationRef CitationID="CR6">6</CitationRef>]. The role of the information model is to define the schema according to which the terminology is used. In previous work [<CitationRef CitationID="CR7">7</CitationRef>], we created a corresponding Model for Clinical Information (MCI) that is based on ontologies from the Open Biological and Biomedical Ontologies (OBO) library [<CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>]. RadLex [<CitationRef CitationID="CR10">10</CitationRef>], the Foundational Model of Anatomy [<CitationRef CitationID="CR11">11</CitationRef>], and other ontologies are employed as reference terminologies. Further, in [<CitationRef CitationID="CR12">12</CitationRef>], we demonstrated how structured representations of measurement findings can be extracted from free-text radiology reports. The contribution of this paper is twofold:<OrderedList>
+                  <ListItem>
+                    <ItemNumber>1</ItemNumber>
+                    <ItemContent>
+                      <Para ID="Par13">We describe classes and properties of MCI that are used for the structured representation of size measurements typically found in radiology reports and medical knowledge about the normal size of anatomical entities.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>2</ItemNumber>
+                    <ItemContent>
+                      <Para ID="Par14">We show how measurement information is enriched using formalized medical background knowledge in order to provide different views on the data required by radiologists and referring physicians for more efficient decision-making. For instance, we classify findings as normal or abnormal and identify possible target lesions according to RECIST guidelines.</Para>
+                    </ItemContent>
+                  </ListItem>
+                </OrderedList>
+                     </Para>
+              <Para ID="Par15">In a prototype implementation (ReportViewer), we demonstrate the usage of our structured representations. The ReportViewer allows selective review of reported findings from consecutive examinations and thus more efficient comparison of radiological findings over time. Before we conclude, the classification algorithm is evaluated and related work is discussed.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Methods</Heading>
+              <Para ID="Par16">In this section, we describe the Model for Clinical Information (MCI), focusing on structured representations of measured image findings. Then we describe the knowledge model with normal size specifications of anatomical entities and how it is used to classify image findings as well as integrating RECIST guidelines. Finally, the ReportViewer prototype is presented.</Para>
+              <Para ID="Par17">This single-center investigation was approved by the institutional review board of the University Hospital Erlangen, and all procedures were in accordance with the Helsinki Declaration. The need for informed consent was waived.</Para>
+              <Section2 ID="Sec3">
+                <Heading>The model for clinical information</Heading>
+                <Para ID="Par18">As described in [<CitationRef CitationID="CR7">7</CitationRef>], the Model for Clinical Information (MCI) is based on selected upper- and mid-level ontologies from the Open Biological and Biomedical Ontologies (OBO) Foundry. The OBO Foundry follows the idea of ‘coordinated evolution of orthogonal ontologies’ that are based on a common architecture to support biomedical data integration [<CitationRef CitationID="CR8">8</CitationRef>]. The common architecture necessary for this alignment is provided by a common upper-level ontology - namely the Basic Formal Ontology (BFO) [<CitationRef CitationID="CR13">13</CitationRef>]. Additionally, the OBO Foundry has developed naming conventions described in [<CitationRef CitationID="CR14">14</CitationRef>] that support the coordinated creation of ontologies in a common framework. MCI follows the OBO naming conventions and reuses all classes of BFO and other selected classes and properties from the Relations Ontology (RO) [<CitationRef CitationID="CR15">15</CitationRef>], the Ontology for General Medical Science (OGMS) [<CitationRef CitationID="CR16">16</CitationRef>], the Information Artifact Ontology (IAO) [<CitationRef CitationID="CR17">17</CitationRef>], the Ontology for Biomedical Investigations (OBI) [<CitationRef CitationID="CR18">18</CitationRef>], the Phenotypic Quality Ontology (PATO) [<CitationRef CitationID="CR19">19</CitationRef>], the Units Ontology (UO) [<CitationRef CitationID="CR20">20</CitationRef>], and the Foundational Model of Anatomy (FMA) [<CitationRef CitationID="CR11">11</CitationRef>]. These ontologies define the basic classes and properties that provide the foundation of our model, and already provide a basic structure for the representation of clinical findings. In total, MCI contains 551 classes (447 imported), 107 object properties (83 imported), and 33 data properties (15 imported).</Para>
+                <Section3 ID="Sec4">
+                  <Heading>Basic representation of clinical findings</Heading>
+                  <Para ID="Par19">OGMS defines a clinical finding as “a representation that is either the output of a clinical history taking or a physical examination or an image finding, or some combination thereof” [<CitationRef CitationID="CR16">16</CitationRef>]. In its most basic form, a clinical finding describes a quality of some material entity (Fig. <InternalRef RefID="Fig2">2</InternalRef>). Additionally, the quality can be specified by a measurement; e.g., the measured length of the spleen (Fig. <InternalRef RefID="Fig3">3</InternalRef>) can be represented by using this pattern.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 2</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>The basic pattern of a clinical finding. A clinical finding always describes a quality of some material entity. Additionally, the quality can be a described by a measurement, and the location of the described entity can be specified</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO2">
+                        <ImageObject Color="BlackWhite" FileRef="MediaObjects/12911_2016_248_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                              <Figure Category="Standard" Float="Yes" ID="Fig3">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 3</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Example of a normal spleen. An axial image of a contrast-enhanced computed tomography examination of the upper abdomen. The size of the spleen in the axial plane is specified by measuring the length and width at the hilum</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO3">
+                        <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_248_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                           </Para>
+                </Section3>
+                <Section3 ID="Sec5">
+                  <Heading>Extensions for detailed representation of measurement findings</Heading>
+                  <Para ID="Par20">The basic pattern of clinical findings is useful and provides an effective structure for extensions that we developed in order to express image findings at the required level of detail. In the following paragraphs, we describe the extensions (i.e. classes and properties) required for precise representation of specific finding types and the orientation of measurements.</Para>
+                </Section3>
+                <Section3 ID="Sec6">
+                  <Heading>Types of clinical findings</Heading>
+                  <Para ID="Par21">Clinical findings are central information objects beyond all patient data because they are the main input for decision-making, such as providing a diagnosis or treatment evaluation. For selective retrieval and usage of sought information, MCI defines approximately 30 subclasses of clinical findings [<CitationRef CitationID="CR7">7</CitationRef>]. In particular, MCI defines a normal finding as “a clinical finding describing some normal quality that inheres in some anatomical structure.” The class of abnormal findings is defined accordingly and is disjoint with normal findings. The distinction between abnormal and normal findings is important during radiological reading because it affects the management and the prognosis of the patient. Figure <InternalRef RefID="Fig4">4</InternalRef> shows the representation of a normal finding related to the spleen length from Fig. <InternalRef RefID="Fig3">3</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig4">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 4</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Spleen with normal length. A length measurement finding was represented with OBO classes and relations. Boxes with round corners denote classes, otherwise instanced. Named arrows denote relations between instances. Arrows without labels denote rdf:type relations from individuals to corresponding classes</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO4">
+                        <ImageObject Color="BlackWhite" FileRef="MediaObjects/12911_2016_248_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                           </Para>
+                </Section3>
+                <Section3 ID="Sec7">
+                  <Heading>Orientation of measurements</Heading>
+                  <Para ID="Par22">We import several qualities from PATO; however, some extensions needed to be made to capture the orientation aspect of the measured qualities more precisely. As shown in Fig. <InternalRef RefID="Fig5">5</InternalRef>, PATO defines several size qualities, in particular subclasses of 1-D extent such as length, width, height and diameter.<Figure Category="Standard" Float="Yes" ID="Fig5">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 5</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Size qualities. PATO defines several qualities for size. MCI adds four qualities defined as necessary for the representation of image findings</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO5">
+                        <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_248_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                           </Para>
+                  <Para ID="Par23">To precisely express image findings, MCI adds the following qualities: the craniocaudal diameter is defined as a diameter that is along the craniocaudal axis, and the left-right diameter is defined as a diameter that is orthogonal to the sagittal plane and parallel to some left-right axis. For instance, the height of the spleen is measured along the craniocaudal axis (as shown in Fig. <InternalRef RefID="Fig6">6</InternalRef>) and thus can be more precisely specified as the craniocaudal diameter of the spleen.<Figure Category="Standard" Float="Yes" ID="Fig6">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 6</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Craniocaudal extension of the spleen. A coronal slice of a contrast-enhanced computed tomography examination of the upper thorax/upper abdomen. The height of the spleen is measured in parallel to the craniocaudal axis</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO6">
+                        <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_248_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                           </Para>
+                  <Para ID="Par24">Most of the measurements in radiology are taken in one of the three main body planes (axial or transverse plane, coronal plane, sagittal plane). MCI imports corresponding classes from FMA. To define relations to these planes and axis, we defined the following object properties: “parallel to” is defined as ‘a symmetric property that holds between anatomical planes that do not intersect’ and “orthogonal to” is defined as ‘a symmetric property that holds between anatomical planes that are linearly independent’.</Para>
+                  <Para ID="Par25">In the description of solid tumors and lymph nodes, the size is specified by the longest 1-D extension and the corresponding longest perpendicular 1-D extension within a specific plane, i.e. the short axis (as shown in Fig. <InternalRef RefID="Fig1">1</InternalRef>). Here, the orientation of the measurement is defined by the shape of the particular anatomical entity (tumor, lymph node, etc.). Accordingly, MCI defines the following two subclasses of 1-D extent: the longest (in plane) axis is ‘a 1-D extent describing the longest straight line, where all points of the line are within the respective object’. The short axis is ‘a 1-D extent describing the longest straight line of an object in orthogonal direction to the longest axis of that object’.</Para>
+                  <Para ID="Par26">Usually, lesions and organs are measured in 3 dimensions. However, due to different reasons, measurements are sometimes performed in 2 or just 1 dimension. Interestingly, during the evaluation according to the RECIST guidelines, only the short axis (lymph nodes) or the longest diameter (remaining lesions) is considered [<CitationRef CitationID="CR3">3</CitationRef>]. In other words, the length of the short axis is the relevant quality for classification of malignancy/abnormality [<CitationRef CitationID="CR21">21</CitationRef>–<CitationRef CitationID="CR24">24</CitationRef>]. The final representation of a RECIST-compliant measurement finding of a lymph node is shown in Fig. <InternalRef RefID="Fig7">7</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig7">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 7</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Lymph node size in the axial plane. According to RECIST guidelines, the size of lymph nodes is specified by the longest 1-D extension (longest axis) and the corresponding longest perpendicular 1-D extension (short axis) within the axial plane</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO7">
+                        <ImageObject Color="BlackWhite" FileRef="MediaObjects/12911_2016_248_Fig7_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                           </Para>
+                </Section3>
+              </Section2>
+              <Section2 ID="Sec8">
+                <Heading>Knowledge models</Heading>
+                <Para ID="Par27">Detailed representation of image findings and the distinction between normal and abnormal findings is important, and MCI provides corresponding classes. However, the distinction is often not explicit in the data: in a radiology report, a size of the spleen might be simply specified as ‘spleen 7 × 12 × 15 cm’ without any interpretation. Formalized medical knowledge can be used to classify this measurement finding as splenomegaly, i.e. an enlarged and thus abnormal spleen. Further, in a diagnostic process, finding data needs to be interpreted with respect to diseases. For example, a splenomegaly is an abnormal enlarged spleen and can be related to inflammation or to specific types of cancer such as lymphoma. Further, only lesions with a certain minimal size can be used as target lesions for treatment evaluation. In the following subsections, we show how the MCI is used to represent medical knowledge about the normal and abnormal size of anatomical entities, and how RECIST guidelines for target lesions can be formalized.</Para>
+                <Section3 ID="Sec9">
+                  <Heading>Normal size specifications</Heading>
+                  <Para ID="Par28">The medical literature contains much information about normal qualities of anatomical entities as well as descriptions of typical abnormal or pathological structures such as cysts, lesions or enlarged lymph nodes. The main function of these specifications is to define which manifestation of a quality of some anatomical entity is considered to be normal and which is not. Radiologists refer to these specifications from medical literature when they classify observed findings as normal, abnormal or pathological. For instance, a lymph node with a short axis of 0.7 cm is considered to be normal, since ‘normal lymph nodes are ≤ 1 cm in the short axis’. Accordingly, a lymph node of size 2.65 cm in the short axis is classified as abnormal. Similar specifications are available for many other anatomical entities (see e.g. [<CitationRef CitationID="CR21">21</CitationRef>–<CitationRef CitationID="CR27">27</CitationRef>]). The different types of specifications are listed in Table <InternalRef RefID="Tab1">1</InternalRef>.<Table Float="Yes" ID="Tab1">
+                      <Caption Language="En">
+                        <CaptionNumber>Table 1</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Commonly used range specifications to describe the normal size of anatomical entities</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <tgroup cols="2">
+                        <colspec align="left" colname="c1" colnum="1"/>
+                        <colspec align="left" colname="c2" colnum="2"/>
+                        <thead>
+                          <row>
+                            <entry colname="c1">
+                              <SimplePara>Range type</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>Examples: anatomical entity E, quality Q, bound/range</SimplePara>
+                            </entry>
+                          </row>
+                        </thead>
+                        <tbody>
+                          <row>
+                            <entry colname="c1" morerows="2">
+                              <SimplePara>Upper bound</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>lymph node (RID13296), short axis, 1 cm</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c2">
+                              <SimplePara>submental lymph node (RID7710), short axis, 1.5 cm</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c2">
+                              <SimplePara>spleen (RID86), length, 15 cm</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c1">
+                              <SimplePara>Lower bound</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>ascending aorta (RID580), diameter root, 4 cm</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c1" morerows="2">
+                              <SimplePara>Interval</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>kidney (RID205), cranio-caudal diameter, 8–13 cm</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c2">
+                              <SimplePara>wall of gallbladder (RID33779), thickness, 0.1–0.3 cm</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c2">
+                              <SimplePara>ureter (RID229), width, 0.4–0.7 cm</SimplePara>
+                            </entry>
+                          </row>
+                        </tbody>
+                      </tgroup>
+                    </Table>
+                           </Para>
+                  <Para ID="Par29">The motivation for formalizing this knowledge is to automate this kind of classification in order to add information about the finding type. Thus, we enrich descriptions of clinical findings and enhance the data quality. As shown in Fig. <InternalRef RefID="Fig8">8</InternalRef>, MCI defines classes for the different types of normal size specifications (i.e. interval, upper bound and lower bound). The pattern of these specifications is similar to the pattern of clinical findings described above.<Figure Category="Standard" Float="Yes" ID="Fig8">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 8</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Normal size specification. The thickness of the wall of the gallbladder is normally in the range of 1–3 mm</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO8">
+                        <ImageObject Color="BlackWhite" FileRef="MediaObjects/12911_2016_248_Fig8_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                           </Para>
+                  <Para ID="Par30">The actual definition of which size of particular anatomical entities is considered to be normal depends on the guidelines used. However, we emphasize that the model is able to represent the necessary types of specifications (upper bound, lower bound and interval) and can be adapted to whichever guideline the user prefers. A representation of this type of medical knowledge is given in Fig. <InternalRef RefID="Fig8">8</InternalRef>. In total, the knowledge model contains 40 size specifications related to 33 different anatomical entities. By using the RadLex subclass hierarchy, the overall coverage is enhanced: for instance, size descriptions about ‘lymph node’ apply to more than 250 subclasses in RadLex.</Para>
+                </Section3>
+                <Section3 ID="Sec10">
+                  <Heading>Normality classification of image findings</Heading>
+                  <Para ID="Par31">In [<CitationRef CitationID="CR12">12</CitationRef>], we demonstrated how structured representations of measurement findings can be extracted from free-text radiology reports by using Natural Language Processing technology in combination with the knowledge models described above. Here, we demonstrate how it is used to automatically classify image findings. First, we are given some size finding where the anatomical entity (E), the measured quality (Q) and the measured value are specified (as e.g. in Fig. <InternalRef RefID="Fig4">4</InternalRef>). Then we check the knowledge model and retrieve the most specific size specification according to the Entity-Quality (EQ) methodology [<CitationRef CitationID="CR28">28</CitationRef>]. Only the normal size specifications with the most specific pair (anatomical entity E’, quality Q’) are retrieved. Most specific means that there is no size specification with anatomical entity E” and quality Q” such that E” is on the subclass path between E and E’, and Q” is on the subclass path between Q and Q’. If there are two such normal size specifications, the one with a shorter subclass path from E to E’ is considered the most specific. Thus, e.g., for a measurement of a submental lymph node, a different normal size specification is retrieved than for a measurement of a mediastinal lymph node. After retrieval, the normal range is compared to the actual measurement value. For example, the length of the spleen (9.6 cm) is compared to the normal length (7–10 cm), and accordingly the length is classified as normal and the finding as a normal finding. Since the classification of measurement findings is based on value comparisons, it is not realized by defining logical axioms in OWL. Instead, we use SPARQL to retrieve relevant data from the triple store and to classify findings by comparing their measurement values to normal size specifications of our knowledge model. The resulting finding type is then written back to the triple store.</Para>
+                </Section3>
+              </Section2>
+              <Section2 ID="Sec11">
+                <Heading>Response Evaluation Criteria In Solid Tumors (RECIST)</Heading>
+                <Para ID="Par32">The RECIST (Response Evaluation Criteria In Solid Tumors) guideline allows a standardized assessment of tumor burden and tumor response during therapy. Here, a sum of the diameters (short axis for lymph nodes, longest diameter for the remaining lesions) for all target lesions is calculated and reported as the baseline for follow-up sum and indicates therapy response/failure. At baseline, tumor lesions (longest diameter ≥ 10 mm) and lymph nodes (short axis diameter ≥ 15 mm) can be considered and selected as target lesions. Up to a maximum of five lesions that are representative of all involved organs may be identified as target lesions (these should allow reproducible repeated measurements). The sum of the diameters of all target lesions is calculated and reported at baseline and during follow-up [<CitationRef CitationID="CR3">3</CitationRef>].</Para>
+                <Para ID="Par33">The following criteria are used to determine objective tumor response:<UnorderedList Mark="Dash">
+                    <ItemContent>
+                      <Para ID="Par34">Complete Response: Disappearance of all target lesions (any pathological lymph nodes, whether target or non-target, must have reduction in short axis to &lt;10 mm).</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par35">Partial Response: At least a 30 % decrease in the sum of diameters of target lesions (reference = baseline sum diameters).</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par36">Progressive Disease: At least a 20 % increase in the sum of diameters of target lesions (reference = the smallest sum in the study; this includes the baseline sum if that is the smallest in the study). For Progressive Disease, the sum must also exhibit an absolute increase of ≥ 5 mm. The appearance of one or more new lesions is also considered as Progressive Disease.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par37">Stable Disease: Neither sufficient decrease to qualify for Complete/Partial Response nor sufficient increase to qualify for Progressive Disease [<CitationRef CitationID="CR3">3</CitationRef>].</Para>
+                    </ItemContent>
+                  </UnorderedList>
+                        </Para>
+                <Para ID="Par38">Currently, automatic image segmentation algorithms are already used to detect lesions and lymph nodes in CT or MRI images (see e.g. [<CitationRef CitationID="CR29">29</CitationRef>–<CitationRef CitationID="CR34">34</CitationRef>]). Thus, automatic extraction of structured representations of lesion and lymph node size from images is within reach. With structured representations (e.g. in Fig. <InternalRef RefID="Fig7">7</InternalRef>), large parts of the RECIST criteria can be automated and improved. Indeed, the guidelines represent rules and most of them are easily implemented using SPARQL:<OrderedList>
+                    <ListItem>
+                      <ItemNumber>1</ItemNumber>
+                      <ItemContent>
+                        <Para ID="Par39">Selection of target lesions: For each multidirectional measurement of a lymph node or lesion, the value for the short axis (longest axis respectively) is compared to the RECIST minimal value 15 mm (10 mm respectively). If the value is larger, then the finding about the lymph node (or lesion) is classified as a potential target lesion. The actual selection of final target lesions from the set of potential lesions is performed by the radiologist.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>2</ItemNumber>
+                      <ItemContent>
+                        <Para ID="Par40">Verification of selected set of target lesions: It is verified that there are at most five target lesions selected and that each organ appears at most twice as the location of the lesion. This is realized by a SPARQL ASK query.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>3</ItemNumber>
+                      <ItemContent>
+                        <Para ID="Par41">Calculation of RECIST sum: The values for short axis (lymph nodes) and longest axis (other lesions) are summed for all target lesions. The resulting value is represented as shown in Fig. <InternalRef RefID="Fig9">9</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig9">
+                            <Caption Language="En">
+                              <CaptionNumber>Fig. 9</CaptionNumber>
+                              <CaptionContent>
+                                <SimplePara>RECIST sum: this is calculated based on a set of target lesions. Adjacent items are represented by subclass relationships, i.e. the RECIST sum calculation is a subclass of data transformation</SimplePara>
+                              </CaptionContent>
+                            </Caption>
+                            <MediaObject ID="MO9">
+                              <ImageObject Color="BlackWhite" FileRef="MediaObjects/12911_2016_248_Fig9_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                            </MediaObject>
+                          </Figure>
+                                    </Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>4</ItemNumber>
+                      <ItemContent>
+                        <Para ID="Par42">Classification of response: Classification of complete response and partial response is verified by SPARQL queries. Similarly, the increase for a progressive disease is verified. The appearance of new lesions has to be assigned manually by the radiologist. If not otherwise classified, the examination is assigned as a stable disease.</Para>
+                      </ItemContent>
+                    </ListItem>
+                  </OrderedList>
+                        </Para>
+              </Section2>
+              <Section2 ID="Sec12">
+                <Heading>ReportViewer</Heading>
+                <Para ID="Par43">In addition to the classification of each finding as normal or abnormal, information about the change of findings over time is of importance. For instance, radiologists compare the size of lesions or specific anatomical entities such as lymph nodes or organs over time to evaluate the treatment success. For instance, the size of the spleen was measured in 3 dimensions in consecutive examinations and the radiologist ‘infers’ that the spleen size/volume increased, decreased or did not change. The comparison to the initial and the previously performed examination is required in many clinical processes such as differential diagnosis, monitoring or treatment evaluation. For instance, the radiologist has to examine which findings are progressive, regressive, stable or new.</Para>
+                <Para ID="Par44">Even though we have structured representations of findings that were extracted from text, automatic comparison requires the linking of consecutive findings. For findings about anatomical entities that can be identified only once in the human body (e.g. the liver or the spleen), this is possible. However, for lymph nodes and multiple lesions in one organ, the linking is not reliable: Two findings about a mediastinal lymph node from consecutive examinations do not necessarily describe the same entity. For lesions, the situation is similar: Two findings about a liver lesion from different reports do not necessarily describe the same lesion. Without a precise marking of the lesions by the radiologist, a direct and reliable link cannot be established.</Para>
+                <Para ID="Par45">Thus, we decided to provide the radiologist with an integrated view of findings from consecutive examinations. The ReportViewer (Fig. <InternalRef RefID="Fig10">10</InternalRef>) allows selective retrieval of findings from consecutive examinations. For instance, one can display findings about a particular anatomical entity (such as the spleen) or finding of a particular body region (thorax, abdomen, mediastinum, etc.) from consecutive examinations. Extracted and classified measurements are displayed next to the original report sentence. In total, the prototype implementation allows the radiologist to efficiently compare findings from consecutive examinations without losing the context information. As shown, e.g., in Fig. <InternalRef RefID="Fig10">10</InternalRef>, the size of the axillary lymph node can be easily compared longitudinal (size changed from 3.5 to 1.4 to 1 cm). Thus the ReportViewer potentially facilitates follow-up examination.<Figure Category="Standard" Float="Yes" ID="Fig10">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 10</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Screenshot of the ReportViewer showing extracted and classified measurement findings describing entities that are part of the thorax from consecutive examinations. The change of the size of the axillary lymph node from enlarged to normal is visible. <Emphasis Type="Italic">Red</Emphasis> = abnormal/pathologic finding, <Emphasis Type="Italic">green</Emphasis> = normal/non-pathologic finding</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO10">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_248_Fig10_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                        </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec13" Type="Discussion">
+              <Heading>Results and discussion</Heading>
+              <Para ID="Par46">In this section, we evaluate the normal classification and discuss related work.</Para>
+              <Section2 ID="Sec14">
+                <Heading>Evaluation of normal classification</Heading>
+                <Section3 ID="Sec15">
+                  <Heading>Data sets</Heading>
+                  <Para ID="Par47">The evaluation is based on two data sets of radiology reports: Firstly, an oncologic data set was used consisting of 2584 German radiology reports (27 different readers) on 377 lymphoma patients. The imaging modality was mainly computed tomography (CT), but magnetic resonance imaging (MRI) and ultrasound (US) were also used. Secondly, a mixed data set consisting of 6007 German radiology reports (27 different readers) on diverse medical and surgical patients was used. The imaging modality was CT. The inspected body regions for both data sets were mainly abdomen, thorax and head, but also include various other regions from the whole body. Sentences with measurements were annotated with anatomical entities defined in RadLex, and the radiologist manually selected the best annotation to describe the measurement. For example, for the sentence ‘lymph nodes within aortopulmonary window and pretracheal unchanged with a size of up to 1.6 × 1.2 cm’ [Original in German: Die LK im aortopulmonalen Fenster und prätracheal größenunverändert mit einer Größe von bis zu 1,6 × 1,2 cm.], the pair (‘1.6 × 1.2 cm’, ‘aortopulmonary lymph node’) was selected by the radiologist. In total, 420/393 findings were classified in the oncologic/mixed data set (including 170/184 lesions and cysts).</Para>
+                </Section3>
+                <Section3 ID="Sec16">
+                  <Heading>Evaluation</Heading>
+                  <Para ID="Par48">All measurement findings, i.e. the pairs (measurement, anatomical entity), were automatically classified and for each data set, the radiologist was provided with an Excel spreadsheet that provided each classified finding, the sentence, the ‘measurement, anatomical entity’ pair and the classifier result (normal, abnormal or unclassified). Then the radiologist evaluated the classified finding as correct or incorrect. All unclassified findings were evaluated as incorrect. Accuracy was 96.4 % for oncologic reports and 92.9 % for mixed reports. Detailed evaluation results are summarized in Table <InternalRef RefID="Tab2">2</InternalRef>. For both data sets, the number of incorrect classifications (i.e. false positives and false negatives) was very small (Table <InternalRef RefID="Tab2">2</InternalRef>). However, both data sets have a significant number of unclassified findings that occur when the anatomical entities are not covered by the knowledge model.<Table Float="Yes" ID="Tab2">
+                      <Caption Language="En">
+                        <CaptionNumber>Table 2</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Evaluation results for the classification of normal and abnormal findings extracted from radiological reports</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <tgroup cols="3">
+                        <colspec align="left" colname="c1" colnum="1"/>
+                        <colspec align="left" colname="c2" colnum="2"/>
+                        <colspec align="left" colname="c3" colnum="3"/>
+                        <thead>
+                          <row>
+                            <entry colname="c1"/>
+                            <entry colname="c2">
+                              <SimplePara>Oncologic data set</SimplePara>
+                            </entry>
+                            <entry colname="c3">
+                              <SimplePara>Mixed data set</SimplePara>
+                            </entry>
+                          </row>
+                        </thead>
+                        <tbody>
+                          <row>
+                            <entry colname="c1">
+                              <SimplePara>All cases</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>420</SimplePara>
+                            </entry>
+                            <entry colname="c3">
+                              <SimplePara>393</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c1">
+                              <SimplePara>True normal</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>115</SimplePara>
+                            </entry>
+                            <entry colname="c3">
+                              <SimplePara>86</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c1">
+                              <SimplePara>True abnormal</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>290</SimplePara>
+                            </entry>
+                            <entry colname="c3">
+                              <SimplePara>279</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c1">
+                              <SimplePara>False normal</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>2</SimplePara>
+                            </entry>
+                            <entry colname="c3">
+                              <SimplePara>2</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c1">
+                              <SimplePara>False abnormal</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>2</SimplePara>
+                            </entry>
+                            <entry colname="c3">
+                              <SimplePara>1</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c1">
+                              <SimplePara>Unclassified</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>11</SimplePara>
+                            </entry>
+                            <entry colname="c3">
+                              <SimplePara>25</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry colname="c1">
+                              <SimplePara>Accuracy</SimplePara>
+                            </entry>
+                            <entry colname="c2">
+                              <SimplePara>96.4 % (405/420)</SimplePara>
+                            </entry>
+                            <entry colname="c3">
+                              <SimplePara>92.9 % (365/393)</SimplePara>
+                            </entry>
+                          </row>
+                        </tbody>
+                      </tgroup>
+                      <tfooter>
+                        <SimplePara>The oncologic data set contains reports from lymphoma patients; the mixed data set contains reports from diverse medical and surgical patients. ‘True normal’ means that the algorithm <Emphasis Type="Italic">correctly</Emphasis> classified a finding as normal (accordingly for ‘true abnormal’). ‘False normal’ means that the algorithm <Emphasis Type="Italic">falsely</Emphasis> classified a finding as normal while the radiologist classified it as abnormal (accordingly for ‘false normal’). The term ‘unclassified’ means that the algorithm was not able to classify the finding</SimplePara>
+                      </tfooter>
+                    </Table>
+                           </Para>
+                  <Para ID="Par49">Firstly, there are size findings about anatomical entities that are too unspecific to be classified as normal or abnormal. For instance, ‘portion of soft tissue’ is never classified for that reason (6 times for the oncologic data set and 9 times for the mixed data set). Similarly, ‘fluid’, ‘duct’ and ‘wall’ are not sufficiently specific for classification.</Para>
+                  <Para ID="Par50">Secondly, there are anatomical entities that are simply not yet covered by the knowledge model. For instance, the finding ‘2.8 × 0.7 cm, rib’ is not classified because the knowledge model does not contain a normal size specification for the rib. Similarly, findings about pleura, trachea, right ventricle, bulla, infrarenal aorta, mucosa, L2 vertebral body, T10 vertebral body, L4 vertebral body, aortic arch, crus of diaphragm and set of biliary ducts were not classified. The rate of correctly classified findings for the oncologic data set is significantly higher than for the mixed data set, because fewer findings remained unclassified (11 out of 250). This is because the mixed data set contains reports from patients with diverse disease background and thus there are more measured anatomical entities that are not covered by the knowledge model. This can be resolved by extending the knowledge model for corresponding entities.</Para>
+                  <Para ID="Par51">Most of the incorrect classifications are spleen measurements. For instance, the finding ‘14.8 × 8.5 cm, spleen’ was incorrectly classified as normal. This is because the classification algorithm simply maps 14.8 cm to the height (normal range: 11–15 cm) and the length (normal range: 7–10 cm). However, the size was measured in the axial plane and thus describes the length and width, and accordingly a splenomegaly, i.e. an abnormal spleen. On the other hand, the finding ‘9 × 3.5 × 6.5 cm, spleen’ was incorrectly classified as abnormal since the algorithm detected that the value 3.5 cm is below the normal width of 4–6 cm. However, according to the radiologist, this deviation is not considered to be abnormal. Here, the algorithm needs to be adapted accordingly. Further, the finding ‘4 cm, ascending aorta’ was incorrectly classified as normal. In this case, the size was compared to the normal size of the aorta at the root (normally at least 4 cm); however, the ascending aorta is normally slightly smaller, and thus 4 cm should have been classified as abnormal since it represents an ectasia of the ascending aorta. This fault can be avoided by extending the knowledge model with more granular size descriptions.</Para>
+                </Section3>
+              </Section2>
+              <Section2 ID="Sec17">
+                <Heading>Related work</Heading>
+                <Para ID="Par52">In the biomedical domain, there is much work on structured representation of measurements from a wide variety of examinations. The contribution of our work is the integrated representation of image findings and medical knowledge. Here, we review existing modeling approaches.</Para>
+                <Para ID="Par53">We reused many different ontologies from the OBO library, and consequently patterns of these ontologies were reused. For example, the basic representation of a clinical finding is defined analogously to the representation of human phenotypes in the Human Phenotype Ontology (HP) [<CitationRef CitationID="CR35">35</CitationRef>, <CitationRef CitationID="CR36">36</CitationRef>]. This has the advantage that clinical findings defined by MCI can be automatically classified in terms of HP such as splenomegaly, lymphadenopathy, etc. The pattern of scalar measurements is reused from the Ontology for Biomedical Investigations (OBI) [<CitationRef CitationID="CR37">37</CitationRef>].</Para>
+                <Para ID="Par54">In [<CitationRef CitationID="CR38">38</CitationRef>], the representation of phenotype measurement data is presented in which three aspects of a measurement are captured: the measurement itself, the method of how the measured values were obtained, and the condition of the measurement. While in laboratory tests these three aspects are of high relevance, for the radiology findings described here, the measurement method and condition (e.g. imaging modality or usage of a contrast agent) are of minor importance.</Para>
+                <Para ID="Par55">Another important related work is the Annotation and Image Markup (AIM) standard [<CitationRef CitationID="CR39">39</CitationRef>] that provides a data model for capturing image annotation and markup data. In particular, image measurements discussed in this paper are covered by AIM. Also, RadLex IDs are used as the controlled vocabulary for anatomical entities and observation characteristics. Thus, the approach and the knowledge model on normal size specifications could also be applied to image measurements specified in AIM, when qualities of measurements (length, width, thickness, etc.) are expressed at a similar level of granularity as PATO.</Para>
+                <Para ID="Par56">The Biological Spatial Ontology (BSPO) [<CitationRef CitationID="CR40">40</CitationRef>] is a small ontology specialized for cross-species representation of spatial anatomical entities. BSPO defines very useful classes for the representation of anatomical boundaries, planes and axes as well as many properties for spatial relations such as ‘anterior to’, ‘right of’, ‘on the distal side of’, etc. The problem, however, is that some classes and properties (with high relevance for our use case) were not fitting our need: Firstly, the ‘orthogonal to’ relation of BSPO is not symmetric and holds only between axes and planes - not between two axes within one plane. Secondly, the definition of the anterior-posterior axis does not match the human anatomy: In BSPO, the anterior-posterior axis is orthogonal to the axial plane and has the synonymous craniocaudal axis. For humans, however, the anterior-posterior axis is orthogonal to the coronal plane and different than the craniocaudal axis.</Para>
+                <Para ID="Par57">Thus, we decided to reuse classes for planes and axes from FMA instead and define orthogonal-to and parallel-to relations in MCI directly.</Para>
+                <Para ID="Par58">Biomarkers are measurable qualities of an organism that can be used to determine its status or condition (e.g. with respect to diseases or disorders). Since the structured representation of image measurements allows the analysis of large patient cohorts, MCI also supports the development of imaging biomarkers. Regarding this aspect, the Quantitative Imaging Biomarkers Ontology (QIBO) [<CitationRef CitationID="CR41">41</CitationRef>] was created to support the creation of biomarkers from clinical imaging data in general. The aim of QIBO is “to represent, integrate and harmonize heterogeneous knowledge across the domain of imaging biomarkers” [<CitationRef CitationID="CR41">41</CitationRef>]. However, QIBO is no longer maintained.</Para>
+                <Para ID="Par59">In radiology, structured reporting has been discussed for a long time. For example, in DICOM structured reporting (SR) [<CitationRef CitationID="CR42">42</CitationRef>], a hierarchical schema for the representation of image findings is presented that describes ‘Content Items’ by reference to some template and definition of properties such as the specification of a diameter or description of the measured entity. In contrast to DICOM SR, however, our representation is aligned with existing ontologies of the OBO library and thus automatically linked to further knowledge resources. In [<CitationRef CitationID="CR43">43</CitationRef>], the structure of DICOM SR findings and representations along UMLS semantic types is analyzed. Findings are distinguished as anatomical findings, lesion findings and quality findings. The goal is to link finding descriptions to diseases by using the GAMUTS ontology.</Para>
+                <Para ID="Par60">We mention that there are numerous Natural Language Processing (NLP) techniques to extract information from text. NLP techniques are employed by our approach for annotation of text with ontology concepts. In comparison to pure NLP approaches (such as [<CitationRef CitationID="CR44">44</CitationRef>]), however, our approach formalizes knowledge and thus is able to classify findings even when no interpretation such as ‘normal’, ‘unremarkable’, etc. occurs in the report text.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec18">
+              <Heading>Conclusions</Heading>
+              <Para ID="Par61">In the biomedical domain, much work on the structured representation of measurements from a wide variety of examinations has been accomplished. The proposed MCI enables an accurate integrated representation of reported measurements and medical knowledge. Thus, measurements can be automatically classified and integrated in different clinical decision processes. The structured representation is suitable for better integration of clinical findings during decision-making. The proposed ReportViewer provides a longitudinal overview of the measurements. Further, MCI provides classes that are required for a RECIST-compliant representation of lymph node measurements and other lesions. Implementation of RECIST guidelines with SPARQL enhances the quality of the selection and comparison of target lesions, and the corresponding treatment response evaluation. In future work, we plan to contextualize the knowledge model with respect to the patient background such as age, gender, weight, height and other characteristics. Further, the integration with existing image segmentation algorithms will be a promising next step.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/12911_2016_Article_248.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <ArticleNote Type="Misc">
+              <Heading>Competing interests</Heading>
+              <SimplePara>The authors declare that they have no competing interests.</SimplePara>
+            </ArticleNote>
+            <ArticleNote Type="Misc">
+              <Heading>Authors’ contributions</Heading>
+              <SimplePara>HO and MH drafted the manuscript. SZ, BB, JAO, AC and MU assisted with manuscript preparation. HO, MH, SZ, JAO and BB participated in the ontology research, the design of the study and performed the statistical analysis. All authors read and approved the final manuscript.</SimplePara>
+            </ArticleNote>
+            <Acknowledgments>
+              <Heading>Acknowledgements</Heading>
+              <SimplePara>This research has been supported in part by the KDI project, which is funded by the German Federal Ministry of Economics and Technology under grant number 01MT14001.</SimplePara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NR</Initials>
+                    <FamilyName>Dunnick</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CP</Initials>
+                    <FamilyName>Langlotz</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">The radiology report of the future: a summary of the 2007 Intersociety Conference</ArticleTitle>
+                  <JournalTitle>J Am Coll Radiol</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>626</FirstPage>
+                  <LastPage>9</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jacr.2007.12.015</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18442766</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dunnick NR, Langlotz CP. The radiology report of the future: a summary of the 2007 Intersociety Conference. J Am Coll Radiol. 2008;5:626–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CE</Initials>
+                    <FamilyName>Kahn</FamilyName>
+                    <Suffix>Jr</Suffix>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CP</Initials>
+                    <FamilyName>Langlotz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ES</Initials>
+                    <FamilyName>Burnside</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Carrino</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DS</Initials>
+                    <FamilyName>Channin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Hovsepian</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Toward best practices in radiology reporting</ArticleTitle>
+                  <JournalTitle>Radiology</JournalTitle>
+                  <VolumeID>252</VolumeID>
+                  <FirstPage>852</FirstPage>
+                  <LastPage>6</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1148/radiol.2523081992</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19717755</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kahn Jr CE, Langlotz CP, Burnside ES, Carrino JA, Channin DS, Hovsepian DM, et al. Toward best practices in radiology reporting. Radiology. 2009;252:852–6.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EA</Initials>
+                    <FamilyName>Eisenhauer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Therasse</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Bogaerts</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LH</Initials>
+                    <FamilyName>Schwartz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Sargent</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Ford</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1)</ArticleTitle>
+                  <JournalTitle>Eur J Cancer</JournalTitle>
+                  <VolumeID>45</VolumeID>
+                  <FirstPage>228</FirstPage>
+                  <LastPage>47</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ejca.2008.10.026</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD1M%2Fgs12rug%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19097774</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sargent D, Ford R, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer. 2009;45:228–47.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>Benson T. Principles of Health Interoperability HL7 and SNOMED. Springer Verlag London. 2010. doi:<ExternalRef>
+                    <RefSource>10.1007/978-1-84882-803-2</RefSource>
+                    <RefTarget Address="10.1007/978-1-84882-803-2" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Markwell D, Sato L, Cheetham E. Representing clinical information using SNOMED Clinical Terms with different structural information models. In: Spackman K, Cornet R, editors. Proceedings of the 3rd International Conference on Knowledge Representation in Medicine (KR-MED 2008). 2008. p. 72–79. <ExternalRef>
+                    <RefSource>http://ceur-ws.org/Vol-410/Paper13.pdf</RefSource>
+                    <RefTarget Address="http://ceur-ws.org/Vol-410/Paper13.pdf" TargetType="URL"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Beale</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Heard</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">An ontology-based model of clinical information</ArticleTitle>
+                  <JournalTitle>Stud Health Technol Inform</JournalTitle>
+                  <VolumeID>129</VolumeID>
+                  <FirstPage>760</FirstPage>
+                  <LastPage>4</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>17911819</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Beale T, Heard S. An ontology-based model of clinical information. Stud Health Technol Inform. 2007;129:760–4.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Oberkampf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Zillner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Bauer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Hammon</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ChapterTitle Language="En">An OGMS-based Model for Clinical Information (MCI)</ChapterTitle>
+                  <BookTitle>Proceedings of International Conference on Biomedical Ontology</BookTitle>
+                  <FirstPage>97</FirstPage>
+                  <LastPage>100</LastPage>
+                </BibChapter>
+                <BibUnstructured>Oberkampf H, Zillner S, Bauer B, Hammon M. An OGMS-based Model for Clinical Information (MCI). In: Proceedings of International Conference on Biomedical Ontology. 2013. p. 97–100.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Smith</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ashburner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Rosse</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Bard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Bug</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Ceusters</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">The OBO Foundry: coordinated evolution of ontologies to support biomedical data integration</ArticleTitle>
+                  <JournalTitle>Nat Biotechnol</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <FirstPage>1251</FirstPage>
+                  <LastPage>5</LastPage>
+                  <BibArticleDOI>10.1038/nbt1346</BibArticleDOI>
+                  <Occurrence Type="PMCID">
+                    <Handle>2814061</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/nbt1346</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2sXht1Oru7zK</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17989687</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Smith B, Ashburner M, Rosse C, Bard J, Bug W, Ceusters W, et al. The OBO Foundry: coordinated evolution of ontologies to support biomedical data integration. Nat Biotechnol. 2007;25:1251–5. doi:<ExternalRef>
+                    <RefSource>10.1038/nbt1346</RefSource>
+                    <RefTarget Address="10.1038/nbt1346" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>The Open Biological and Biomedical Ontologies Foundry. <ExternalRef>
+                    <RefSource>http://www.obofoundry.org/</RefSource>
+                    <RefTarget Address="http://www.obofoundry.org/" TargetType="URL"/>
+                  </ExternalRef> Accessed 31 July 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>RadLex Version 3.11. <ExternalRef>
+                    <RefSource>http://radlex.org</RefSource>
+                    <RefTarget Address="http://radlex.org" TargetType="URL"/>
+                  </ExternalRef>. Accessed 31 July 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Rosse C, Mejino J L. The Foundational Model of Anatomy ontology. In: Burger A, Davidson D, Baldock R (eds.): Anatomy ontologies for bioinformatics: principles and practice, Vol. 351. Springer-Verlag New York. 2008;59–117. doi: <ExternalRef><RefSource>10.1007/978-1-84628-885-2_4</RefSource><RefTarget TargetType="DOI" Address="10.1007/978-1-84628-885-2_4"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Oberkampf H, Bretschneider C, Zillner S, Bauer B, Hammon M. Knowledge-based Extraction of Measurement-Entity Relations from German Radiology Reports. IEEE International Conference on Healthcare Informatics; 2014. p. 149–154. doi:<ExternalRef>
+                    <RefSource>10.1109/ICHI.2014.27</RefSource>
+                    <RefTarget Address="10.1109/ICHI.2014.27" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>The Basic Formal Ontology (BFO 2.0) Official Classes-only OWL File. <ExternalRef>
+                    <RefSource>http://purl.obolibrary.org/obo/bfo/classes-only.owl</RefSource>
+                    <RefTarget Address="http://purl.obolibrary.org/obo/bfo/classes-only.owl" TargetType="URL"/>
+                  </ExternalRef>. Accessed 21 October 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Schober D, Kusnirczyk W, Lewis SE, Lomax J, Mungall C, Rocca-Serra P, et al. Towards naming conventions for use in controlled vocabulary and ontology engineering. In: Stevens R, Lord P, McEntire R, Sansone S-A, editors. In ISMBECCB Special Interest Group SIG Meeting Program Materials BioOntologies, vol. SIG Worksh. 2007. p. 4. <ExternalRef>
+                    <RefSource>http://www.bio-ontologies.org.uk/2007/download/Bio</RefSource>
+                    <RefTarget Address="http://www.bio-ontologies.org.uk/2007/download/Bio" TargetType="URL"/>
+                  </ExternalRef>- Ontologies2007.pdf.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>Relations Ontology. <ExternalRef>
+                    <RefSource>http://purl.obolibrary.org/obo/ro/core.owl</RefSource>
+                    <RefTarget Address="http://purl.obolibrary.org/obo/ro/core.owl" TargetType="URL"/>
+                  </ExternalRef> Accessed 09 March 2015.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>The Ontology for General Medical Science (OGMS). <ExternalRef>
+                    <RefSource>http://purl.obolibrary.org/obo/ogms.owl</RefSource>
+                    <RefTarget Address="http://purl.obolibrary.org/obo/ogms.owl" TargetType="URL"/>
+                  </ExternalRef> Accessed 31 July 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>The Information Artifact Ontology (IAO). <ExternalRef>
+                    <RefSource>http://purl.obolibrary.org/obo/iao.owl</RefSource>
+                    <RefTarget Address="http://purl.obolibrary.org/obo/iao.owl" TargetType="URL"/>
+                  </ExternalRef>. Accessed 31 July 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>Ontology for Biomedical Investigations (OBI). <ExternalRef>
+                    <RefSource>http://purl.obofoundry.org/obo/obi.owl</RefSource>
+                    <RefTarget Address="http://purl.obofoundry.org/obo/obi.owl" TargetType="URL"/>
+                  </ExternalRef>. Accessed 31 July 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibUnstructured>Phenotypic Quality (PATO). <ExternalRef>
+                    <RefSource>http://purl.obolibrary.org/obo/pato.owl</RefSource>
+                    <RefTarget Address="http://purl.obolibrary.org/obo/pato.owl" TargetType="URL"/>
+                  </ExternalRef>. Accessed 31 July 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibUnstructured>Units of Measurement Ontology (UO). <ExternalRef>
+                    <RefSource>http://purl.obolibrary.org/obo/uo.owl</RefSource>
+                    <RefTarget Address="http://purl.obolibrary.org/obo/uo.owl" TargetType="URL"/>
+                  </ExternalRef>. Accessed 21 October 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Kiyono</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Sone</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Sakai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Imai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Watanabe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Izuno</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">The number and size of normal mediastinal lymph nodes: a postmortem study</ArticleTitle>
+                  <JournalTitle>AJR Am J Roentgenol</JournalTitle>
+                  <VolumeID>150</VolumeID>
+                  <FirstPage>771</FirstPage>
+                  <LastPage>6</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2214/ajr.150.4.771</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1c7mtVyiug%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>3258087</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kiyono K, Sone S, Sakai F, Imai Y, Watanabe T, Izuno I, et al. The number and size of normal mediastinal lymph nodes: a postmortem study. AJR Am J Roentgenol. 1988;150:771–6.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kramer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HJ</Initials>
+                    <FamilyName>Groen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Current concepts in the mediastinal lymph node staging of nonsmall cell lung cancer</ArticleTitle>
+                  <JournalTitle>Ann Surg</JournalTitle>
+                  <VolumeID>238</VolumeID>
+                  <FirstPage>180</FirstPage>
+                  <LastPage>8</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>1422673</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12894010</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1097/01.SLA.0000081086.37779.1a</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kramer H, Groen HJ. Current concepts in the mediastinal lymph node staging of nonsmall cell lung cancer. Ann Surg. 2003;238:180–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BC</Initials>
+                    <FamilyName>Lucey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Stuhlfaut</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Soto</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Mesenteric lymph nodes: Detection and significance on MDCT</ArticleTitle>
+                  <JournalTitle>AJR Am J Roentgenol</JournalTitle>
+                  <VolumeID>184</VolumeID>
+                  <FirstPage>41</FirstPage>
+                  <LastPage>4</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2214/ajr.184.1.01840041</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15615948</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lucey BC, Stuhlfaut JW, Soto JA. Mesenteric lymph nodes: Detection and significance on MDCT. AJR Am J Roentgenol. 2005;184:41–4.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>HJ</Initials>
+                    <FamilyName>Steinkamp</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Cornehl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Hosten</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Pegios</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Vogl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Felix</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Cervical lymphadenopathy: Ratio of long- to short-axis diameter as a predictor of malignancy</ArticleTitle>
+                  <JournalTitle>Br J Radiol</JournalTitle>
+                  <VolumeID>68</VolumeID>
+                  <FirstPage>266</FirstPage>
+                  <LastPage>70</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1259/0007-1285-68-807-266</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M3ltlOgtA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>7735765</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Steinkamp HJ, Cornehl M, Hosten N, Pegios W, Vogl T, Felix R. Cervical lymphadenopathy: Ratio of long- to short-axis diameter as a predictor of malignancy. Br J Radiol. 1995;68:266–70.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibUnstructured>Harnsberger HR. Head and neck imaging. Year Book Medical Pub. 1990. ISBN:0815142854.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>HI</Initials>
+                    <FamilyName>Libshitz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RJ</Initials>
+                    <FamilyName>Mckenna</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Mediastinal lymph node size in lung cancer</ArticleTitle>
+                  <JournalTitle>AJR Am J Roentgenol</JournalTitle>
+                  <VolumeID>143</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>715</FirstPage>
+                  <LastPage>8</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2214/ajr.143.4.715</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2czgtlOgtQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>6332469</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Libshitz HI, Mckenna RJ. Mediastinal lymph node size in lung cancer. AJR Am J Roentgenol. 1984;143(4):715–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibUnstructured>Moeller TB, Reif E. CT- und MRT-Normalbefunde. Thieme Verlag: Stuttgart, Germany; 1998.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NL</Initials>
+                    <FamilyName>Washington</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Haendel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CJ</Initials>
+                    <FamilyName>Mungall</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ashburner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Westerfield</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SE</Initials>
+                    <FamilyName>Lewis</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Linking human diseases to animal models using ontology-based phenotype annotation</ArticleTitle>
+                  <JournalTitle>PLoS Biol</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <FirstPage>e1000247</FirstPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2774506</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1371/journal.pbio.1000247</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19956802</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Washington NL, Haendel MA, Mungall CJ, Ashburner M, Westerfield M, Lewis SE. Linking human diseases to animal models using ontology-based phenotype annotation. PLoS Biol. 2009;7:e1000247.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MS</Initials>
+                    <FamilyName>Brown</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Lo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JG</Initials>
+                    <FamilyName>Goldin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Barnoy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GH</Initials>
+                    <FamilyName>Kim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MF</Initials>
+                    <FamilyName>McNitt-Gray</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Toward clinically usable CAD for lung cancer screening with computed tomography</ArticleTitle>
+                  <JournalTitle>Eur Radiol</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>2719</FirstPage>
+                  <LastPage>28</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00330-014-3329-0</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>25052078</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Brown MS, Lo P, Goldin JG, Barnoy E, Kim GH, McNitt-Gray MF, et al. Toward clinically usable CAD for lung cancer screening with computed tomography. Eur Radiol. 2014;24:2719–28.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Barbu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Suehling</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Xu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SK</Initials>
+                    <FamilyName>Zhou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Comaniciu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Automatic detection and segmentation of lymph nodes from CT data</ArticleTitle>
+                  <JournalTitle>IEEE Trans Med Imaging</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>240</FirstPage>
+                  <LastPage>50</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TMI.2011.2168234</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21968722</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Barbu A, Suehling M, Xu X, Liu D, Zhou SK, Comaniciu D. Automatic detection and segmentation of lymph nodes from CT data. IEEE Trans Med Imaging. 2012;31:240–50.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Feulner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SK</Initials>
+                    <FamilyName>Zhou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Hammon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Hornegger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Comaniciu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Lymph node detection and segmentation in chest CT data using discriminative learning and a spatial prior</ArticleTitle>
+                  <JournalTitle>Med Image Anal</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>254</FirstPage>
+                  <LastPage>70</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.media.2012.11.001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23246185</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Feulner J, Zhou SK, Hammon M, Hornegger J, Comaniciu D. Lymph node detection and segmentation in chest CT data using discriminative learning and a spatial prior. Med Image Anal. 2013;17:254–70.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Massoptier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Casciaro</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">A new fully automatic and robust algorithm for fast segmentation of liver tissue and tumors from CT scans</ArticleTitle>
+                  <JournalTitle>Eur Radiol</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>1658</FirstPage>
+                  <LastPage>65</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00330-008-0924-y</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18369633</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Massoptier L, Casciaro S. A new fully automatic and robust algorithm for fast segmentation of liver tissue and tumors from CT scans. Eur Radiol. 2008;18:1658–65.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Ruskó</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Á</Initials>
+                    <FamilyName>Perényi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Automated liver lesion detection in CT images based on multi-level geometric features</ArticleTitle>
+                  <JournalTitle>Int J Comput Assist Radiol Surg</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>577</FirstPage>
+                  <LastPage>93</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11548-013-0949-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24091854</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ruskó L, Perényi Á. Automated liver lesion detection in CT images based on multi-level geometric features. Int J Comput Assist Radiol Surg. 2014;9:577–93.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Jacobs</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EM</Initials>
+                    <FamilyName>Rikxoort</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Twellmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ET</Initials>
+                    <FamilyName>Scholten</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PA</Initials>
+                    <FamilyName>Jong</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Kuhnigk</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Automatic detection of subsolid pulmonary nodules in thoracic computed tomography images</ArticleTitle>
+                  <JournalTitle>Med Image Anal</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>374</FirstPage>
+                  <LastPage>84</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.media.2013.12.001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24434166</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jacobs C, van Rikxoort EM, Twellmann T, Scholten ET, de Jong PA, Kuhnigk JM, et al. Automatic detection of subsolid pulmonary nodules in thoracic computed tomography images. Med Image Anal. 2014;18:374–84.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PN</Initials>
+                    <FamilyName>Robinson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Köhler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Bauer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Seelow</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Horn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Mundlos</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">The human phenotype ontology: a tool for annotating and analyzing human hereditary disease</ArticleTitle>
+                  <JournalTitle>Am J Hum Genet</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <FirstPage>610</FirstPage>
+                  <LastPage>5</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2668030</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ajhg.2008.09.017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD1cXhtlyjsrnI</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18950739</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Robinson PN, Köhler S, Bauer S, Seelow D, Horn D, Mundlos S. The human phenotype ontology: a tool for annotating and analyzing human hereditary disease. Am J Hum Genet. 2008;83:610–5.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PN</Initials>
+                    <FamilyName>Robinson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Mundlos</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">The human phenotype ontology</ArticleTitle>
+                  <JournalTitle>Clin Genet</JournalTitle>
+                  <VolumeID>77</VolumeID>
+                  <FirstPage>525</FirstPage>
+                  <LastPage>34</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1399-0004.2010.01436.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3crktVSqsA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20412080</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Robinson PN, Mundlos S. The human phenotype ontology. Clin Genet. 2010;77:525–34.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Brinkman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Courtot</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Derom</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Fostel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>He</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Lord</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Modeling biomedical experimental processes with OBI</ArticleTitle>
+                  <JournalTitle>J Biomed Semantics</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <IssueID>Suppl 1</IssueID>
+                  <FirstPage>S7</FirstPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2903726</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/2041-1480-1-S1-S7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20626927</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Brinkman RR, Courtot M, Derom D, Fostel JM, He Y, Lord P, et al. Modeling biomedical experimental processes with OBI. J Biomed Semantics. 2010;1 Suppl 1:S7.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Shimoyama</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Nigam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LS</Initials>
+                    <FamilyName>McIntosh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Nagarajan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Rice</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Three ontologies to define phenotype measurement data</ArticleTitle>
+                  <JournalTitle>Front Genet</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>87</FirstPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>3361058</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3389/fgene.2012.00087</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22654893</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shimoyama M, Nigam R, McIntosh LS, Nagarajan R, Rice T, Rao DC, et al. Three ontologies to define phenotype measurement data. Front Genet. 2012;3:87.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DS</Initials>
+                    <FamilyName>Channin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Mongkolwat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Kleper</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Sepukar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DL</Initials>
+                    <FamilyName>Rubin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">The caBIG Annotation and Image Markup Project</ArticleTitle>
+                  <JournalTitle>J Digit Imaging</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <FirstPage>217</FirstPage>
+                  <LastPage>25</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2837161</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10278-009-9193-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19294468</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Channin DS, Mongkolwat P, Kleper V, Sepukar K, Rubin DL. The caBIG Annotation and Image Markup Project. J Digit Imaging. 2010;23:217–25.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibUnstructured>The Biological Spatial Ontology (BSPO). <ExternalRef>
+                    <RefSource>http://purl.obolibrary.org/obo/bspo.owl</RefSource>
+                    <RefTarget Address="http://purl.obolibrary.org/obo/bspo.owl" TargetType="URL"/>
+                  </ExternalRef> Accessed 31 July 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Buckler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TT</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Savig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BE</Initials>
+                    <FamilyName>Suzek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DL</Initials>
+                    <FamilyName>Rubin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Paik</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Quantitative imaging biomarker ontology (QIBO) for knowledge representation of biomedical imaging biomarkers</ArticleTitle>
+                  <JournalTitle>J Digit Imaging</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>630</FirstPage>
+                  <LastPage>41</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>3705004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10278-013-9599-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23589184</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Buckler AJ, Liu TT, Savig E, Suzek BE, Rubin DL, Paik D. Quantitative imaging biomarker ontology (QIBO) for knowledge representation of biomedical imaging biomarkers. J Digit Imaging. 2013;26:630–41.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Hussein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Engelmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Schroeter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HP</Initials>
+                    <FamilyName>Meinzer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">DICOM structured reporting: Part 1. Overview and characteristics</ArticleTitle>
+                  <JournalTitle>Radiographics</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>891</FirstPage>
+                  <LastPage>6</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1148/rg.243035710</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15143238</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hussein R, Engelmann U, Schroeter A, Meinzer HP. DICOM structured reporting: Part 1. Overview and characteristics. Radiographics. 2004;24:891–6.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>43.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Bertaud</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lasbleiz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mougin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Burgun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Duvauferrier</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">A unified representation of findings in clinical radiology using the UMLS and DICOM</ArticleTitle>
+                  <JournalTitle>Int J Med Inform</JournalTitle>
+                  <VolumeID>77</VolumeID>
+                  <FirstPage>621</FirstPage>
+                  <LastPage>9</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijmedinf.2007.11.003</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18178520</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bertaud V, Lasbleiz J, Mougin F, Burgun A, Duvauferrier R. A unified representation of findings in clinical radiology using the UMLS and DICOM. Int J Med Inform. 2008;77:621–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR44">
+                <CitationNumber>44.</CitationNumber>
+                <BibUnstructured>Bretschneider C, Zillner S, Hammon M. Identifying pathological findings in German radiology reports using a syntacto-semantic parsing approach. In: Proceedings of BioNLP. 2013. p. 27–35.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

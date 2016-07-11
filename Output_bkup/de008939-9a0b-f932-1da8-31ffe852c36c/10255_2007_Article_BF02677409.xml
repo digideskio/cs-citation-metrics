@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10255</JournalID>
+      <JournalPrintISSN>0168-9673</JournalPrintISSN>
+      <JournalElectronicISSN>1618-3932</JournalElectronicISSN>
+      <JournalTitle>Acta Mathematicae Applicatae Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Mathematicae Applicatae Sinica</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Math Applications in Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Mathematical and Computational Physics</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>14</VolumeIDStart>
+        <VolumeIDEnd>14</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>13</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>1998</Year>
+              <Month>7</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Science Press</CopyrightHolderName>
+            <CopyrightYear>1998</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art7">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>BF02677409</ArticleID>
+            <ArticleDOI>10.1007/BF02677409</ArticleDOI>
+            <ArticleSequenceNumber>7</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Global convergence of QPFTH method for large-scale nonlinear sparse constrained optimization</ArticleTitle>
+            <ArticleFirstPage>271</ArticleFirstPage>
+            <ArticleLastPage>283</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>1995</Year>
+                <Month>4</Month>
+                <Day>21</Day>
+              </Received>
+              <Revised>
+                <Year>1997</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+              </Revised>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Science Press</CopyrightHolderName>
+              <CopyrightYear>1998</CopyrightYear>
+            </ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+            <ArticleContext>
+              <JournalID>10255</JournalID>
+              <VolumeIDStart>14</VolumeIDStart>
+              <VolumeIDEnd>14</VolumeIDEnd>
+              <IssueIDStart>3</IssueIDStart>
+              <IssueIDEnd>3</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ni</GivenName>
+                  <FamilyName>Qin</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>College of Science</OrgDivision>
+                <OrgName>Nanjing University of Aeronautics and Astronautics</OrgName>
+                <OrgAddress>
+                  <Postcode>210016</Postcode>
+                  <City>Nanjing</City>
+                  <Country>China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>A QP-free, truncated hybrid (QPFTH) method was proposed and developed in [6] for solving sparse large-scale nonlinear programming problems. In the hybrid method, a truncated Newton method is combined with the method of multiplier. In every iteration level, either a truncated solution for a symmetric system of linear equations is determined by CG algorithm or an unconstrained subproblem is solved by the limited memory BFGS algorithm such that the hybrid algorithm is suitable to large0scale problems. In this paper, the consistency in the hybrid method and a steplength procedure are discussed and developed. The global convergence of QPFTH method is proved and the two-step Q-quadratic convergence rate is further analyzed.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>Large-scale optimization</Keyword>
+              <Keyword>global convergence</Keyword>
+              <Keyword>sparse problem</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>This research is supported by National Natural Sciences Foundation of China and Natural Sciences Foundation of Jiangsu Province.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10255_2007_Article_BF02677409.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>[1]</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>A.R.</Initials>
+                    <FamilyName>Conn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.I.M.</Initials>
+                    <FamilyName>Gould</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.L.</Initials>
+                    <FamilyName>Toint</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <BookTitle>LANCELOT: a Fortran Package for Large-scale Nonlinear Optimization (Release A)</BookTitle>
+                  <SeriesTitle Language="En">Number 17 in Springer Series in Computational Mathematics</SeriesTitle>
+                  <PublisherName>Springer-Verlag</PublisherName>
+                  <PublisherLocation>Heidelberg, Berlin, New York</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0761.90087</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1007/978-3-662-12211-2</Handle>
+</Occurrence>
+                </BibBook>
+                <BibUnstructured>A.R. Conn, N.I.M. Gould and P.L. Toint. LANCELOT: a Fortran Package for Large-scale Nonlinear Optimization (Release A). Number 17 in Springer Series in Computational Mathematics, Springer-Verlag, Heidelberg, Berlin, New York, 1992.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>[2]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I.D.</Initials>
+                    <FamilyName>Coope</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Fletcher</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Some Numerical Experience with a Globally Convergent Algorithm for Nonlinearly Constrained Optimization</ArticleTitle>
+                  <JournalTitle>JOTA</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>15</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0418.65028</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00934840</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>I.D. Coope and R. Fletcher. Some Numerical Experience with a Globally Convergent Algorithm for Nonlinearly Constrained Optimization.<Emphasis Type="Italic">JOTA</Emphasis>, 1980, 32: 1–15.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>[3]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Kleinmichel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Richter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Schönefeld</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">On a Class of Hybrid Methods for Smooth Constrained Optimization</ArticleTitle>
+                  <JournalTitle>JOTA</JournalTitle>
+                  <VolumeID>73</VolumeID>
+                  <FirstPage>465</FirstPage>
+                  <LastPage>500</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0794.90064</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00940052</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>H. Kleinmichel, C. Richter and K. Schönefeld. On a Class of Hybrid Methods for Smooth Constrained Optimization.<Emphasis Type="Italic">JOTA</Emphasis>, 1992, 73: 465–500.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>[4]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Klenmichel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Schönefeld</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Newton-type Methods for Nonlinearly Constrained Programming Problems—Algorithm and Theory</ArticleTitle>
+                  <JournalTitle>Optimization</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>397</FirstPage>
+                  <LastPage>412</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/02331938808843355</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>H. Klenmichel and K. Schönefeld. Newton-type Methods for Nonlinearly Constrained Programming Problems—Algorithm and Theory.<Emphasis Type="Italic">Optimization</Emphasis>, 1988, 19: 397–412.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>[5]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Ni</Initials>
+                    <FamilyName>Qin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Truncated Dual SQP Method with Limited Memory</ArticleTitle>
+                  <JournalTitle>Optimization Methods and Software</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>25</FirstPage>
+                  <LastPage>57</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/10556789508805623</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ni Qin. Truncated Dual SQP Method with Limited Memory.<Emphasis Type="Italic">Optimization Methods and Software</Emphasis>, 1995, 6: 25–57.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>[6]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Ni</Initials>
+                    <FamilyName>Qin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">QP-free, Truncated Hybrid Method for Large-scale Nonlinear Constrained Optimization</ArticleTitle>
+                  <JournalTitle>Journal of Computational Mathematics</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>36</FirstPage>
+                  <LastPage>54</LastPage>
+                </BibArticle>
+                <BibUnstructured>Ni Qin. QP-free, Truncated Hybrid Method for Large-scale Nonlinear Constrained Optimization.<Emphasis Type="Italic">Journal of Computational Mathematics</Emphasis>, 1997, 15: 36–54.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

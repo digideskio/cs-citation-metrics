@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>The Chinese Society of Oceanography</PublisherName>
+    <PublisherLocation>Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>13131</JournalID>
+      <JournalPrintISSN>0253-505X</JournalPrintISSN>
+      <JournalElectronicISSN>1869-1099</JournalElectronicISSN>
+      <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Oceanol. Sin.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Earth Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Environmental Chemistry</JournalSubject>
+        <JournalSubject Type="Secondary">Oceanography</JournalSubject>
+        <JournalSubject Type="Secondary">Engineering Fluid Dynamics</JournalSubject>
+        <JournalSubject Type="Secondary">Marine &amp; Freshwater Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Ecology</JournalSubject>
+        <JournalSubject Type="Secondary">Climate Change</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>31</VolumeIDStart>
+        <VolumeIDEnd>31</VolumeIDEnd>
+        <VolumeIssueCount>6</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>6</Month>
+              <Day>17</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>5</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13131-012-0202-3" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>202</ArticleID>
+            <ArticleDOI>10.1007/s13131-012-0202-3</ArticleDOI>
+            <ArticleSequenceNumber>2</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Numerical study of wave and longshore current interaction</ArticleTitle>
+            <ArticleFirstPage>10</ArticleFirstPage>
+            <ArticleLastPage>17</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+              </Received>
+              <Accepted>
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jun</GivenName>
+                  <FamilyName>Tang</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>jtang@dlut.edu.cn</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Yongming</GivenName>
+                  <FamilyName>Shen</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Feng</GivenName>
+                  <FamilyName>Shi</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ming</GivenName>
+                  <FamilyName>Zhang</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>State Key Laboratory of Coastal and Offshore Engineering</OrgDivision>
+                <OrgName>Dalian University of Technology</OrgName>
+                <OrgAddress>
+                  <City>Dalian</City>
+                  <Postcode>116023</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Wave and longshore current interaction was examined based on the numerical models. In these models, water waves in the presence of longshore currents were modeled by parabolic mild slope equation, and wave breaking induced longshore currents were modeled by shallow water equation. Water wave provided the radiation stress gradients to drive current. Wave and longshore current interactions were considered by cycling the wave and longshore current models to a steady state. The experiments for regular and irregular breaking wave induced longshore currents by Hamilton and Ebersole (2001) and Reniers and Battjes (1997) were simulated. The numerical results indicate that the present models are effective for simulating the interaction of wave and breaking wave induced longshore currents, and the numerically simulated longshore current at wave breaking point considering wave and longshore current interaction show some disagreement with those neglecting the wave-current interaction, and the breaking wave induced longshore current effect on wave transformation is not obvious.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>water wave</Keyword>
+              <Keyword>longshore current</Keyword>
+              <Keyword>wave current interaction</Keyword>
+              <Keyword>numerical simulation</Keyword>
+              <Keyword>surf zone</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Foundation item: The National Natural Science Foundation of China under contract Nos 50839001, 51179025 and 50709004; the Specialized Research Fund for the Doctoral Program of Higher Education of China under contract No.20070141032.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/13131_2012_Article_202.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. A.</Initials>
+                    <FamilyName>Battjes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. J. F.</Initials>
+                    <FamilyName>Stive</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Calibration and verification of a dissipation model for random breaking waves</ArticleTitle>
+                  <JournalTitle>Journal of Geophysical Research</JournalTitle>
+                  <VolumeID>90</VolumeID>
+                  <IssueID>C5</IssueID>
+                  <FirstPage>9159</FirstPage>
+                  <LastPage>9167</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/JC090iC05p09159</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Battjes J A, Stive M J F. 1985. Calibration and verification of a dissipation model for random breaking waves. Journal of Geophysical Research, 90(C5): 9159–9167</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>J. C. W.</Initials>
+                    <FamilyName>Berkhoff</FamilyName>
+                  </BibAuthorName>
+                  <Year>1972</Year>
+                  <ChapterTitle Language="En">Computation of combined refraction-diffraction</ChapterTitle>
+                  <BookTitle>Proceeding of the 13th Conference on Coastal Engineering</BookTitle>
+                  <PublisherName>ASCE</PublisherName>
+                  <PublisherLocation>Vancouver</PublisherLocation>
+                  <FirstPage>471</FirstPage>
+                  <LastPage>490</LastPage>
+                </BibChapter>
+                <BibUnstructured>Berkhoff J C W. 1972. Computation of combined refraction-diffraction. In: Proceeding of the 13th Conference on Coastal Engineering, Vancouver, ASCE, 471–490</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Q.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. T.</Initials>
+                    <FamilyName>Kirby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. A.</Initials>
+                    <FamilyName>Dalrymple</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Boussinesq modeling of longshore currents</ArticleTitle>
+                  <JournalTitle>Jounral of Geophysical Research</JournalTitle>
+                  <VolumeID>108</VolumeID>
+                  <IssueID>C11</IssueID>
+                  <FirstPage>3362</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2002JC001308</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chen Q, Kirby J T, Dalrymple R A, et al. 2003. Boussinesq modeling of longshore currents. Jounral of Geophysical Research, 108(C11): 3362. doi: 10.1029/2002JC001308</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Goda</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">A 2-D random wave transformation model with gradational breaker index</ArticleTitle>
+                  <JournalTitle>Coastal Engineering Journal</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>38</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1142/S0578563404000884</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goda Y. 2004. A 2-D random wave transformation model with gradational breaker index. Coastal Engineering Journal, 46(1): 1–38</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Goda</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Examination of the influence of several factors on longshore current computation with random waves</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <FirstPage>157</FirstPage>
+                  <LastPage>170</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.coastaleng.2005.10.006</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goda Y. 2006. Examination of the influence of several factors on longshore current computation with random waves. Coastal Engineering, 53: 157–170</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D. G.</Initials>
+                    <FamilyName>Hamilton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B. A.</Initials>
+                    <FamilyName>Ebersole</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Establishing uniform longshore currents in a large-scale sediment transport facility</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>199</FirstPage>
+                  <LastPage>218</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0378-3839(00)00059-4</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hamilton D G, Ebersole B A. 2001. Establishing uniform longshore currents in a large-scale sediment transport facility. Coastal Engineering, 42: 199–218</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. T.</Initials>
+                    <FamilyName>Kirby</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">Rational approximations in the parabolic equation method for water waves</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>355</FirstPage>
+                  <LastPage>378</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0378-3839(86)90021-9</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kirby J T. 1986. Rational approximations in the parabolic equation method for water waves. Coastal Engineering, 10: 355–378</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J. T.</Initials>
+                    <FamilyName>Kirby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. A.</Initials>
+                    <FamilyName>Dalrymple</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <BookTitle>Combined Refraction/Diffraction Model REF/DIF: 1. Documentation and User’s Manual</BookTitle>
+                  <SeriesTitle Language="En">CACR Report</SeriesTitle>
+                  <NumberInSeries>94-22</NumberInSeries>
+                  <PublisherName>Univ of Delaware</PublisherName>
+                  <PublisherLocation>Newark, DE</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Kirby J T, Dalrymple R A. 1994. Combined Refraction/Diffraction Model REF/DIF: 1. Documentation and User’s Manual. CACR Report, No. 94-22. Univ of Delaware, Newark, DE</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M. S.</Initials>
+                    <FamilyName>Longuet-Higgins</FamilyName>
+                  </BibAuthorName>
+                  <Year>1970</Year>
+                  <ArticleTitle Language="En">Longshore currents generated by obliquely incident sea waves</ArticleTitle>
+                  <JournalTitle>Journal of Geophysical Research</JournalTitle>
+                  <VolumeID>75</VolumeID>
+                  <FirstPage>6778</FirstPage>
+                  <LastPage>6801</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/JC075i033p06778</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Longuet-Higgins M S. 1970. Longshore currents generated by obliquely incident sea waves. Journal of Geophysical Research, 75: 6778–6801</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H. T.</Initials>
+                    <FamilyName>Özkan-Haller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. T.</Initials>
+                    <FamilyName>Kirby</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Spectral model for wave transformation and breaking over irregular bathymetry</ArticleTitle>
+                  <JournalTitle>Journal of Waterway, Port, Coastal, and Ocean Engineering</JournalTitle>
+                  <VolumeID>124</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>189</FirstPage>
+                  <LastPage>198</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1061/(ASCE)0733-950X(1998)124:4(189)</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Özkan-Haller H T, Kirby J T. 1998. Spectral model for wave transformation and breaking over irregular bathymetry. Journal of Waterway, Port, Coastal, and Ocean Engineering, 124(4): 189–198</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T. N.</Initials>
+                    <FamilyName>Pham</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Larson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Hanson</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">A numerical model of nearshore waves, currents, and sediment transport</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>56</VolumeID>
+                  <IssueID>11–12</IssueID>
+                  <FirstPage>1084</FirstPage>
+                  <LastPage>1096</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1016/j.coastaleng.2009.06.007</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pham T N, Larson M, Hanson H, et al. 2009. A numerical model of nearshore waves, currents, and sediment transport. Coastal Engineering, 56(11–12): 1084–1096</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. J. H. M.</Initials>
+                    <FamilyName>Reniers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. A.</Initials>
+                    <FamilyName>Battjes</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">A laboratory study of longshore currents over barred and non-barred beaches</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>22</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0378-3839(96)00033-6</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Reniers A J H M, Battjes J A. 1997. A laboratory study of longshore currents over barred and non-barred beaches. Coastal Engineering, 30: 1–22</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y. M.</Initials>
+                    <FamilyName>Shen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Tang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W. R.</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Numerical simulation of long-shore currents induced by regular breaking wave</ArticleTitle>
+                  <JournalTitle>Journal of Coastal Research</JournalTitle>
+                  <VolumeID>SI52</VolumeID>
+                  <FirstPage>195</FirstPage>
+                  <LastPage>202</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.2112/1551-5036-52.sp1.215</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shen Y M, Tang J, Huang W R. 2008. Numerical simulation of long-shore currents induced by regular breaking wave. Journal of Coastal Research, SI52: 195–202</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Tang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Shen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Cui</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Numerical simulation of random wave-induced currents in coastal zone</ArticleTitle>
+                  <JournalTitle>Chinese Journal of Theoretical and Applied Mechanics (in Chinese)</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>455</FirstPage>
+                  <LastPage>463</LastPage>
+                </BibArticle>
+                <BibUnstructured>Tang Jun, Shen Yongming, Cui Lei, et al. 2008a. Numerical simulation of random wave-induced currents in coastal zone. Chinese Journal of Theoretical and Applied Mechanics (in Chinese), 40(4): 455–463</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Tang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Shen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Cui</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Numerical simulation of irregular water waves in coastal surf zones</ArticleTitle>
+                  <JournalTitle>Acta Oceanological Sinaca (in Chinese)</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>147</FirstPage>
+                  <LastPage>152</LastPage>
+                </BibArticle>
+                <BibUnstructured>Tang Jun, Shen Yongming, Cui Lei, et al. 2008b. Numerical simulation of irregular water waves in coastal surf zones. Acta Oceanological Sinaca (in Chinese), 30(2): 147–152</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Tang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Shen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Zheng</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">The numerical simulation of nearshore current combined with the elliptic mild-slope equation</ArticleTitle>
+                  <JournalTitle>Acta Oceanologica Sinica (in Chinese)</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>140</FirstPage>
+                  <LastPage>145</LastPage>
+                </BibArticle>
+                <BibUnstructured>Tang Jun, Shen Yongming, Zheng Yonghong, et al. 2006. The numerical simulation of nearshore current combined with the elliptic mild-slope equation. Acta Oceanologica Sinica (in Chinese), 28(1): 140–145</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R. L. C.</Initials>
+                    <FamilyName>Van</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K. M.</Initials>
+                    <FamilyName>Wijnberg</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">One-dimensional modeling of individual waves and wave-induced longshore currents in the surf zone</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>121</FirstPage>
+                  <LastPage>145</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0378-3839(96)00014-2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Van R L C, Wijnberg K M. 1996. One-dimensional modeling of individual waves and wave-induced longshore currents in the surf zone. Coastal Engineering, 28: 121–145</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Yu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D. N.</Initials>
+                    <FamilyName>Slinn</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Effects of wave-current interaction on rip currents</ArticleTitle>
+                  <JournalTitle>Journal of Geophysical Research</JournalTitle>
+                  <VolumeID>108</VolumeID>
+                  <IssueID>C3</IssueID>
+                  <FirstPage>3088</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2001JC001105</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yu J, Slinn D N. 2003. Effects of wave-current interaction on rip currents. Journal of Geophysical Research, 108(C3): 3088. doi: 10.1029/2001JC001105</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Zheng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Shen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Dahong.</Initials>
+                    <FamilyName>Qiu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Calculation of wave radiation stresses connected with the parabolic mild-slope equation</ArticleTitle>
+                  <JournalTitle>Acta Oceanologica Sinica (in Chinese)</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>110</FirstPage>
+                  <LastPage>116</LastPage>
+                </BibArticle>
+                <BibUnstructured>Zheng Yonghong, Shen Yongming, Qiu Dahong. 2000. Calculation of wave radiation stresses connected with the parabolic mild-slope equation. Acta Oceanologica Sinica (in Chinese), 22(6): 110–116</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

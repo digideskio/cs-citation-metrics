@@ -1,0 +1,2009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>BioMed Central</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+    <PublisherImprintName>BioMed Central</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="Online">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12911</JournalID>
+      <JournalElectronicISSN>1472-6947</JournalElectronicISSN>
+      <JournalTitle>BMC Medical Informatics and Decision Making</JournalTitle>
+      <JournalSubTitle>BMC series – open, inclusive and trusted</JournalSubTitle>
+      <JournalAbbreviatedTitle>BMC Med Inform Decis Mak</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH28009" Priority="1" Type="Secondary">Health Informatics</JournalSubject>
+        <JournalSubject Code="SCI18008" Priority="2" Type="Secondary">Information Systems and Communication Service</JournalSubject>
+        <JournalSubject Code="SCI24067" Priority="3" Type="Secondary">Management of Computing and Information Systems</JournalSubject>
+        <SubjectCollection Code="Medicine">SC11</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="Online">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>16</VolumeIDStart>
+        <VolumeIDEnd>16</VolumeIDEnd>
+        <VolumeIssueCount>1</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="Online">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>0</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>12</Month>
+            </CoverDate>
+            <PricelistYear>2016</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Author(s)</CopyrightHolderName>
+            <CopyrightYear>2016</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s12911-016-0252-0" OutputMedium="Online">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>252</ArticleID>
+            <ArticleDOI>10.1186/s12911-016-0252-0</ArticleDOI>
+            <ArticleCitationID>17</ArticleCitationID>
+            <ArticleSequenceNumber>17</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Multiscale Poincaré plots for visualizing the structure of heartbeat time series</ArticleTitle>
+            <ArticleCategory>Technical advance</ArticleCategory>
+            <ArticleCollection ID="AC_7d92db00b242f4eeaf7a33c4340d6843" Type="SubjectSection">
+              <ArticleCollectionTitle>Standards, technology, and modeling</ArticleCollectionTitle>
+            </ArticleCollection>
+            <ArticleFirstPage>1</ArticleFirstPage>
+            <ArticleLastPage>7</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+              </Received>
+              <Accepted>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleFundingInformation>
+              <Fund>
+                <FunderName FundRefID="http://dx.doi.org/10.13039/100000002">National Institutes of Health</FunderName>
+                <GrantNumber GrantRecipient="Au6" Type="FundRef">R24HL114473</GrantNumber>
+                <GrantNumber GrantRecipient="Au6" Type="FundRef">R01GM104987</GrantNumber>
+              </Fund>
+              <Fund>
+                <FunderName FundRefID="http://dx.doi.org/http://dx.doi.org/10.13039/100001229">G Harold and Leila Y. Mathers Foundation (US)</FunderName>
+              </Fund>
+              <Fund>
+                <FunderName FundRefID="http://dx.doi.org/http://dx.doi.org/10.13039/100001400">Wyss Foundation</FunderName>
+              </Fund>
+            </ArticleFundingInformation>
+            <ArticleCopyright>
+              <CopyrightHolderName>Henriques et al.</CopyrightHolderName>
+              <CopyrightYear>2016</CopyrightYear>
+              <License SubType="CC BY + CC0" Type="OpenAccess" Version="4.0">
+                <SimplePara>
+                           <Emphasis Type="Bold">Open Access</Emphasis>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ExternalRef>
+                    <RefSource>http://creativecommons.org/licenses/by/4.0/</RefSource>
+                    <RefTarget Address="http://creativecommons.org/licenses/by/4.0/" TargetType="URL"/>
+                  </ExternalRef>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ExternalRef>
+                    <RefSource>http://creativecommons.org/publicdomain/zero/1.0/</RefSource>
+                    <RefTarget Address="http://creativecommons.org/publicdomain/zero/1.0/" TargetType="URL"/>
+                  </ExternalRef>) applies to the data made available in this article, unless otherwise stated.</SimplePara>
+              </License>
+            </ArticleCopyright>
+            <ArticleGrants Type="OpenChoice">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2 Aff3" ID="Au1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Teresa</GivenName>
+                  <GivenName>S.</GivenName>
+                  <FamilyName>Henriques</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>teresa.henriques@wyss.harvard.edu</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff4" ID="Au2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Sara</GivenName>
+                  <FamilyName>Mariani</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>sara.mariani@wyss.harvard.edu</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1" ID="Au3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Anton</GivenName>
+                  <FamilyName>Burykin</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>burykin@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff5" ID="Au4">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Filipa</GivenName>
+                  <FamilyName>Rodrigues</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>filipacsrodrigues@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff5" ID="Au5">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Tiago</GivenName>
+                  <GivenName>F.</GivenName>
+                  <FamilyName>Silva</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>tiagosilva_8@hotmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff3" CorrespondingAffiliationID="Aff3" ID="Au6">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ary</GivenName>
+                  <GivenName>L.</GivenName>
+                  <FamilyName>Goldberger</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>617-306-5082</Phone>
+                  <Email>agoldber@bidmc.harvard.edu</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgName>Wyss Institute for Biologically Inspired Engineering at Harvard University</OrgName>
+                <OrgAddress>
+                  <City>Boston</City>
+                  <State>MA</State>
+                  <Country Code="US">USA</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName> Center for Anesthesia Research and Excellence (CARE), Beth Israel Deaconess Medical Center</OrgName>
+                <OrgAddress>
+                  <City>Boston</City>
+                  <State>MA</State>
+                  <Country Code="US">USA</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>Margret and H.A. Rey Institute of Nonlinear Dynamics in Physiology and Medicine, Division of Interdisciplinary Medicine and Biotechnology</OrgDivision>
+                <OrgName>Beth Israel Deaconess Medical Center</OrgName>
+                <OrgAddress>
+                  <City>Boston</City>
+                  <State>MA</State>
+                  <Country Code="US">USA</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff4">
+                <OrgDivision>Division of Sleep and Circadian Disorders, Department of Medicine</OrgDivision>
+                <OrgName> Brigham and Women’s Hospital, Harvard Medical School</OrgName>
+                <OrgAddress>
+                  <City>Boston</City>
+                  <State>MA</State>
+                  <Country Code="US">USA</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff5">
+                <OrgDivision>Department of Physics, Faculty of Sciences</OrgDivision>
+                <OrgName>University of Lisbon</OrgName>
+                <OrgAddress>
+                  <City>Lisbon</City>
+                  <Country Code="PT">Portugal</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading> Abstract</Heading>
+              <AbstractSection ID="ASec1">
+                <Heading>Background</Heading>
+                <Para ID="Par1">Poincaré delay maps are widely used in the analysis of cardiac interbeat interval (RR) dynamics. To facilitate visualization of the structure of these time series, we introduce <Emphasis Type="Italic">multiscale Poincaré</Emphasis> (MSP) plots.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2">
+                <Heading>Methods</Heading>
+                <Para ID="Par2">Starting with the original RR time series, the method employs a coarse-graining procedure to create a family of time series, each of which represents the system’s dynamics in a different time scale. Next, the Poincaré plots are constructed for the original and the coarse-grained time series. Finally, as an optional adjunct, color can be added to each point to represent its normalized frequency.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3">
+                <Heading>Results</Heading>
+                <Para ID="Par3">We illustrate the MSP method on simulated Gaussian white and 1/f noise time series. The MSP plots of 1/f noise time series reveal relative conservation of the phase space area over multiple time scales, while those of white noise show a marked reduction in area. We also show how MSP plots can be used to illustrate the loss of complexity when heartbeat time series from healthy subjects are compared with those from patients with chronic (congestive) heart failure syndrome or with atrial fibrillation.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec4">
+                <Heading>Conclusions</Heading>
+                <Para ID="Par4">This generalized multiscale approach to Poincaré plots may be useful in visualizing other types of time series.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Atrial fibrillation</Keyword>
+              <Keyword>Complexity</Keyword>
+              <Keyword>Congestive heart failure</Keyword>
+              <Keyword>Fractal</Keyword>
+              <Keyword>Heart rate</Keyword>
+              <Keyword>Multiscale</Keyword>
+              <Keyword>Nonlinear dynamics</Keyword>
+              <Keyword>Poincaré plot</Keyword>
+              <Keyword>Time series</Keyword>
+              <Keyword>Visualization</Keyword>
+            </KeywordGroup>
+            <AbbreviationGroup>
+              <Heading>Abbreviations</Heading>
+              <DefinitionList>
+                <DefinitionListEntry>
+                  <Term>AF</Term>
+                  <Description>
+                    <Para ID="Par5">Atrial fibrillation</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>AV</Term>
+                  <Description>
+                    <Para ID="Par6">Atrioventricular</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>CHF</Term>
+                  <Description>
+                    <Para ID="Par7">Congestive (chronic) heart failure</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>HRV</Term>
+                  <Description>
+                    <Para ID="Par8">Heart rate variability</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>MSP</Term>
+                  <Description>
+                    <Para ID="Par9">Multiscale Poincaré</Para>
+                  </Description>
+                </DefinitionListEntry>
+              </DefinitionList>
+            </AbbreviationGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1" Type="Introduction">
+              <Heading>Background</Heading>
+              <Para ID="Par10">The use of delay (also called return) maps is central to the qualitative and quantitative analysis of dynamical systems [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR2">2</CitationRef>]. The phase space realization with dimension of two and delay of one is referred to as a Poincaré plot [<CitationRef CitationID="CR1">1</CitationRef>–<CitationRef CitationID="CR3">3</CitationRef>]. This graphical method is widely used to visualize and quantify short- and longer-term properties of heart rate variability (HRV) [<CitationRef CitationID="CR3">3</CitationRef>–<CitationRef CitationID="CR11">11</CitationRef>].</Para>
+              <Para ID="Par11">Here we propose a multiscale generalization of the Poincaré plot method, prompted by the observation that physiologic systems generate fluctuations over a broad range of scales. These fluctuations are a marker of the complexity of biologic dynamics, especially in healthy organisms under “free-running” conditions [<CitationRef CitationID="CR12">12</CitationRef>–<CitationRef CitationID="CR15">15</CitationRef>]. A variety of computational tools, including fractal and multifractal methods [<CitationRef CitationID="CR16">16</CitationRef>–<CitationRef CitationID="CR18">18</CitationRef>], multiscale entropy [<CitationRef CitationID="CR19">19</CitationRef>–<CitationRef CitationID="CR22">22</CitationRef>], and multiscale time irreversibility [<CitationRef CitationID="CR23">23</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>] have been proposed to probe the temporal richness of physiologic signals and of their dynamical alterations with senescence and pathology.</Para>
+              <Para ID="Par12">We sought to develop a complementary graphical method to aid in visualizing the multiscale properties of cardiac interbeat interval and other types of time series, in conjunction with these computational analyses. We were further motivated by the pedagogic need for graphical techniques to assist students and trainees in developing an intuitive sense for concepts and terms such as <Emphasis Type="Italic">multiscale</Emphasis>, <Emphasis Type="Italic">self-similarity</Emphasis> (<Emphasis Type="Italic">fractality</Emphasis>) and <Emphasis Type="Italic">complexity loss</Emphasis>. To this end, we adapted and extended the methodology of delay (Poincaré) maps. Classical Poincaré maps are single-scale, since they graph the value of one data point of the original time series against the next. The novelty of our method consists in the generation of <Emphasis Type="Italic">multiscale Poincaré</Emphasis> (MSP) plots. This multiscale implementation is accomplished via a simple coarse-graining procedure [<CitationRef CitationID="CR19">19</CitationRef>, <CitationRef CitationID="CR21">21</CitationRef>] that produces multiple rescaled “copies” of the original signal. For each coarse-grained time series, we create a Poincaré plot, which is then assembled into the final montage. Furthermore, as a potentially useful, but optional adjunct, the data points in each plot are color-coded using an estimated normalized probability density function to further enhance visualization of time series properties.</Para>
+              <Para ID="Par13">To introduce and illustrate the MSP method, we first apply it to synthetic Gaussian white and 1/f-type noise time series. The technique is then applied to RR interval time series obtained in health, chronic (congestive) heart failure and atrial fibrillation. The primary goal here is to introduce this method as a simple-to-implement visualization tool.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Methods</Heading>
+              <Para ID="Par14">The MSP technique consists of three steps: i) construction of the coarse-grained time series; ii) construction of a Poincaré plot for the original and each of the coarse-grained time series, and iii) colorization of the Poincaré plots based on an estimated normalized probability density function.</Para>
+              <Section2 ID="Sec3">
+                <Heading>Coarse-graining technique and construction of MSP montage</Heading>
+                <Para ID="Par15">Considering a time series <Emphasis Type="Italic">X</Emphasis> of length N, <Emphasis Type="Italic">X</Emphasis> = {<Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>1</Subscript>, <Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>2</Subscript>, <Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>3</Subscript>, …, <Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>
+                              <Emphasis Type="Italic">N</Emphasis> − 1</Subscript>, <Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>
+                    <Emphasis Type="Italic">N</Emphasis>
+                  </Subscript>}, its Poincaré plot is the scatter plot representing the set of points: (<Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>1</Subscript>, <Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>2</Subscript>), (<Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>2</Subscript>, <Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>3</Subscript>), …, (<Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>
+                              <Emphasis Type="Italic">N</Emphasis> − 1</Subscript>, <Emphasis Type="Italic">x</Emphasis>
+                           <Subscript>
+                    <Emphasis Type="Italic">N</Emphasis>
+                  </Subscript>) [<CitationRef CitationID="CR4">4</CitationRef>–<CitationRef CitationID="CR6">6</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>].</Para>
+                <Para ID="Par16">The coarse-grained time series [<CitationRef CitationID="CR19">19</CitationRef>, <CitationRef CitationID="CR21">21</CitationRef>] are obtained using a non-overlapping moving average low-pass filter. The window length, s, determines the scale of the coarse-grained time series {Σ<Subscript>s</Subscript>(j)}. The elements of the coarse-grained time series for scale <Emphasis Type="Italic">s</Emphasis> are determined according to the equation:<Equation ID="Equa">
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="12911_2016_252_Article_Equa.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="MATHML">
+                      <math display="block" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <msub>
+                          <mrow>
+                            <mi mathvariant="normal">Σ</mi>
+                          </mrow>
+                          <mi>s</mi>
+                        </msub>
+                        <mo stretchy="false">(</mo>
+                        <mi>j</mi>
+                        <mo stretchy="false">)</mo>
+                        <mo>=</mo>
+                        <mfrac>
+                          <mn>1</mn>
+                          <mi>s</mi>
+                        </mfrac>
+                        <mrow>
+                          <mstyle>
+                            <munderover>
+                              <mo>∑</mo>
+                              <mrow>
+                                <mi>i</mi>
+                                <mo>=</mo>
+                                <mrow>
+                                  <mo>(</mo>
+                                  <mi>j</mi>
+                                  <mo>−</mo>
+                                  <mn>1</mn>
+                                  <mo>)</mo>
+                                </mrow>
+                                <mi>s</mi>
+                                <mo>+</mo>
+                                <mn>1</mn>
+                              </mrow>
+                              <mrow>
+                                <mi>j</mi>
+                                <mi>s</mi>
+                              </mrow>
+                            </munderover>
+                          </mstyle>
+                        </mrow>
+                        <msub>
+                          <mrow>
+                            <mi>x</mi>
+                          </mrow>
+                          <mi>i</mi>
+                        </msub>
+                        <mo>,</mo>
+                        <mspace width="2em"/>
+                        <mn>1</mn>
+                        <mo>≤</mo>
+                        <mi>j</mi>
+                        <mo>≤</mo>
+                        <mfrac>
+                          <mi>N</mi>
+                          <mi>s</mi>
+                        </mfrac>
+                      </math>
+                    </EquationSource>
+                    <EquationSource Format="TEX"><![CDATA[$$ {\Sigma}_s(j)=\frac{1}{s}\sum_{i=\left(j-1\right)s+1}^{js}{x}_i,\kern2em 1\le j\le \frac{N}{s} $$]]></EquationSource>
+                  </Equation>
+                        </Para>
+                <Para ID="Par17">Here, the Poincaré plots for the original and the coarse-grained time series are constructed and assembled into the MSP montage.</Para>
+              </Section2>
+              <Section2 ID="Sec4">
+                <Heading>Colorization of MSP plots</Heading>
+                <Para ID="Par18">The traditional monochromatic Poincaré plot can be enhanced by adding color to each of its data points to convey information about their normalized frequency of occurrence [<CitationRef CitationID="CR25">25</CitationRef>–<CitationRef CitationID="CR27">27</CitationRef>]. The probability density function can be estimated by employing the histogram technique (used here), or employing kernel density-based or other methods [<CitationRef CitationID="CR27">27</CitationRef>–<CitationRef CitationID="CR29">29</CitationRef>]. Specifically, we used the Matlab®, <Emphasis Type="Italic">dscatter</Emphasis> function to compute the smoothed normalized two-dimensional histogram of {(x<Subscript>i</Subscript>, x<Subscript>i+1</Subscript>)} [<CitationRef CitationID="CR30">30</CitationRef>]. We employed the Matlab® “jet” color-map (Fig. <InternalRef RefID="Fig1">1</InternalRef>). We note that alternative color schemes [<CitationRef CitationID="CR31">31</CitationRef>, <CitationRef CitationID="CR32">32</CitationRef>] and functions can be used for the same purpose.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Color scheme map. The interval [0,1] is divided into 256 adjacent intervals, each of which is assigned a color following the Matlab® “jet” color scheme</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_252_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                        </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec5">
+              <Heading>Results and discussion</Heading>
+              <Para ID="Par19">For illustrative purposes, we applied the MSP method to synthetic white and 1/f noise time series and to RR intervals time series in health and selected pathologic states.</Para>
+              <Section2 ID="Sec6">
+                <Heading>MSP plots for synthetic white and 1/f noise time series</Heading>
+                <Para ID="Par20">Figure <InternalRef RefID="Fig2">2</InternalRef> shows the MSP montage for a Gaussian white noise time series comprising 20,000 data points. The traditional Poincaré plot (equivalent to scale 1) has a circular shape, due to the normal distribution of the uncorrelated data points (where a uniformly distributed random time series would be represented by a square shape). As expected, the Poincaré plots for scales &gt;1 show the same mean (centroid) with a progressive decrease in circular area. This decrease is due to the relation between the radius of these plots and the standard deviation of each time series. The coarse-graining procedure, by averaging consecutive uncorrelated random points, creates time series with consecutively lower variance. Specifically, the variance of each coarse-grained time series decreases with the scale as σ<Subscript>s</Subscript>
+                           <Superscript>2</Superscript> = σ<Superscript>2</Superscript> /s, where s is the scale and σ<Superscript>2</Superscript> and σ<Subscript>s</Subscript>
+                           <Superscript>2</Superscript> represent the variance of the original and coarse-grained time series, respectively.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Multiscale Poincaré (MSP) plots of synthetic white noise time series (20,000 data points) for scales <Emphasis Type="Italic">s</Emphasis> = 1 to 12. Note that <Emphasis Type="Bold">Σ</Emphasis>
+                                       <Subscript>
+                            <Emphasis Type="BoldItalic">s</Emphasis>
+                          </Subscript> (i) represents the i<Superscript>th</Superscript> data point of the coarse-grained time series for scale s. The data points are colorized based on their estimated normalized probability density function (see text and Fig. <InternalRef RefID="Fig1">1</InternalRef>)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_252_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                        </Para>
+                <Para ID="Par21">Figure <InternalRef RefID="Fig3">3</InternalRef> shows the MSP montage for a 1/f time series, which represents a complex, fractal structure characterized by correlations between data points across multiple time scales. The conventional (single-scale) Poincaré plot of a 1/f noise time series has an elliptical shape indicating positive correlations between consecutive data points (large values more likely to be followed by large values and low values more likely to be followed by low values). The standard deviation of 1/f noise coarse-grained time series remains constant across scales [<CitationRef CitationID="CR21">21</CitationRef>]. Thus, the area of the Poincaré plots remains approximately constant across scales, a consequence of the fractal structure of the 1/f noise signal. (The slight decrease in the area is attributable to the filtering of very high frequency components in a finite time series).<Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Multiscale Poincaré (MSP) plots of synthetic 1/f noise time series (20,000 data points) for scales <Emphasis Type="Italic">s</Emphasis> = 1 to 12. Note that <Emphasis Type="Bold">Σ</Emphasis>
+                                       <Subscript>
+                            <Emphasis Type="BoldItalic">s</Emphasis>
+                          </Subscript> (i) represents the i<Superscript>th</Superscript> data point of the coarse-grained time series for scale <Emphasis Type="Italic">s</Emphasis>. The data points are colorized based on their estimated normalized probability density function (see text and Fig. <InternalRef RefID="Fig1">1</InternalRef>)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_252_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                        </Para>
+              </Section2>
+              <Section2 ID="Sec7">
+                <Heading>MSP plots for RR interval time series</Heading>
+                <Para ID="Par22">The MSP technique was then applied to recordings from an open-access dataset of deidentified cardiac interbeat interval time series from Holter monitor (~24 h) recordings (<ExternalRef>
+                    <RefSource>http://www.physionet.org/challenge/chaos/</RefSource>
+                    <RefTarget Address="http://www.physionet.org/challenge/chaos/" TargetType="URL"/>
+                  </ExternalRef>) [<CitationRef CitationID="CR33">33</CitationRef>]. This database includes RR interval time series from ostensibly healthy subjects, as well as patients with congestive (chronic) heart failure (CHF) syndrome, and patients with permanent atrial fibrillation (AF). Here we describe the geometry of the MSP plots from one subject in each of these three groups, representing the extremes of health and heart disease. The MSP plots for the other subjects in each group showed similar characteristics.</Para>
+                <Section3 ID="Sec8">
+                  <Heading>Healthy heartbeat dynamics</Heading>
+                  <Para ID="Par23">Figure <InternalRef RefID="Fig4">4</InternalRef> presents the RR interval time series of a healthy subject, their coarse-grained time series for scales 5 and 10 and corresponding colorized Poincaré plots. The area of these plots is maintained across scales, reminiscent of what is seen with simulated 1/f time series (Fig. <InternalRef RefID="Fig3">3</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig4">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 4</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>The left panels present the cardiac interbeat (RR) interval time series (top) from a healthy subject and the coarse-grained time series for scales 5 (middle) and 10 (bottom). The right panels present the corresponding Poincaré plots, which have been colorized based on their estimated normalized probability density functions (see text and Fig. <InternalRef RefID="Fig1">1</InternalRef>). The original RR time series was filtered to remove outliers (using <ExternalRef>
+                              <RefSource>http://physionet.org/tutorials/hrv-toolkit/HRV.src/filt.c</RefSource>
+                              <RefTarget Address="http://physionet.org/tutorials/hrv-toolkit/HRV.src/filt.c" TargetType="URL"/>
+                            </ExternalRef>, with visual assistance). (The MSP plots are derived from dataset # n2nn from the PhysioNet database described in the text)</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO4">
+                        <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_252_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                           </Para>
+                  <Para ID="Par24">The geometry of the traditional Poincaré plot of heartbeat intervals in health and disease has been the subject of extensive study [<CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR6">6</CitationRef>, <CitationRef CitationID="CR11">11</CitationRef>, <CitationRef CitationID="CR34">34</CitationRef>, <CitationRef CitationID="CR35">35</CitationRef>]. The traditional (scale 1) Poincaré plot for healthy subjects exhibits a “comet-like” shape [<CitationRef CitationID="CR4">4</CitationRef>]. We confirm this tapered (teardrop) morphology [<CitationRef CitationID="CR36">36</CitationRef>, <CitationRef CitationID="CR37">37</CitationRef>], and also find that both the overall shape of the map and its area are preserved across scales. Furthermore, the teardrop appearance for scale 1 is consistent with the previously reported correlation of the average value of the RR interval with the variance of the time series, i.e., shorter RR intervals are associated with lower dispersion (variance) of the RR intervals [<CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR38">38</CitationRef>]. The MSP representation (Fig. <InternalRef RefID="Fig5">5</InternalRef> - top panels) highlights information by showing that this asymmetric “tail,” present at scale 1, is preserved across scales for the healthy subject.<Figure Category="Standard" Float="Yes" ID="Fig5">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 5</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>“Collapse of complexity” with severe pathology. The MSP plots are derived from a healthy subject in sinus rhythm (top), a patient with chronic heart failure (CHF) in sinus rhythm (middle) and a patient with atrial fibrillation (AF) (bottom). The MSP plots correspond to the original time series (left column) and their derived coarse-grained time series for scales 5 (second column), 10 (third column) and 15 (right column). The “wedge” shaped appearance of the AF plots at lower scales relates to the constraints on physiologic conduction imposed by refractoriness of the AV node. (The sinus rhythm time series of the healthy subject and the patient with CHF syndrome were filtered to remove outliers using <ExternalRef>
+                              <RefSource>http://physionet.org/tutorials/hrv-toolkit/HRV.src/filt.c</RefSource>
+                              <RefTarget Address="http://physionet.org/tutorials/hrv-toolkit/HRV.src/filt.c" TargetType="URL"/>
+                            </ExternalRef>, and visual assistance). We note that the scales correspond to slightly different mean rates in each subject. For example, scale 10 corresponds to means of 10 points. Thus, if the RR mean is around ~1 s (healthy case) this coarse-grained time scale will be ~10 s, but when the mean RR is around 0.6 s (AF case), the same time scale will correspond to ~6 s. (The MSP plots are from subjects # n2nn, c3nn and a5nn, respectively, from the PhysioNet database available at <ExternalRef>
+                              <RefSource>http://www.physionet.org/challenge/chaos/</RefSource>
+                              <RefTarget Address="http://www.physionet.org/challenge/chaos/" TargetType="URL"/>
+                            </ExternalRef>) [<CitationRef CitationID="CR33">33</CitationRef>]</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO5">
+                        <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_252_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                           </Para>
+                </Section3>
+                <Section3 ID="Sec9">
+                  <Heading>Chronic Heart Failure (CHF) and Atrial Fibrillation (AF) Dynamics</Heading>
+                  <Para ID="Par25">Previous reports [<CitationRef CitationID="CR3">3</CitationRef>–<CitationRef CitationID="CR5">5</CitationRef>] have shown that the area of the Poincaré plot of RR interval time series is markedly smaller for patients with severe CHF (but still in sinus rhythm) than healthy subjects. Here, we extend this finding by showing that the area is invariant under the coarse-graining operation. Our results (Fig. <InternalRef RefID="Fig5">5</InternalRef> - middle panels) are consistent with an overall reduction in multiscale complex variability with heart failure [<CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR21">21</CitationRef>].</Para>
+                  <Para ID="Par26">Prior studies [<CitationRef CitationID="CR25">25</CitationRef>, <CitationRef CitationID="CR39">39</CitationRef>] have shown that the Poincaré plots (scale 1) of RR interval time series from subjects with AF are reminiscent of those derived from white noise signals. MSP plots (Fig. <InternalRef RefID="Fig5">5</InternalRef> - bottom panels) highlight these results. In addition, they show that the resemblance between the Poincaré plots of the AF subject and those of white noise signals is most apparent for relatively short time scales (in this example, scales &lt; 10, approximately lower than 15 s). In both white noise and AF cases, the areas of the Poincaré plots decrease with scale. Such behavior is attributable to the uncorrelated structure of the time series fluctuations. However, for larger time scales, the Poincaré plots for the subject with AF show the classical elliptical shape indicative of long-range correlations [<CitationRef CitationID="CR40">40</CitationRef>]. This finding is consistent with previous studies [<CitationRef CitationID="CR40">40</CitationRef>, <CitationRef CitationID="CR41">41</CitationRef>] reporting that the absolute value of the scaling exponents derived from log-log power spectral plots of RR intervals time series from subjects with AF are closer to 1 (fractal noise) than to 0.5 (white noise) or 2 (brown noise) across the lower frequency bands, with a “cross-over” toward those of white noise at higher frequencies.</Para>
+                  <Para ID="Par27">The persistence of correlated behavior at higher scales (lower frequencies) in AF may be related to the degree to which the atrioventricular (AV) junction and autonomic nervous system function are preserved in this common arrhythmia. Whether AF associated with the most severe derangements of AV nodal conduction (and concomitant myocardial disease) shows a complete breakdown of correlations is an intriguing question with basic and clinical implications. The MSP method may be of use in screening “big datasets” in order to gain some intuition about the multiscale behavior of RR intervals in AF in different clinical subsets. We hypothesize that permanent AF associated with heart failure would have a less complex structure by this method than so-called “lone” AF, which is not associated with clinically apparent heart disease.</Para>
+                  <Para ID="Par28">In this regard, Fig. <InternalRef RefID="Fig6">6</InternalRef> shows an example of AF [<CitationRef CitationID="CR25">25</CitationRef>] from another patient. The multiscale Poincaré plots reveal a different pattern of variability on both shorter and longer time scales compared with that shown in the bottom panel of Fig. <InternalRef RefID="Fig5">5</InternalRef>. First is a short time scale clustering of RR intervals, embedded in the overall map. These additional clusters correspond to alternation of RR intervals which has been noted before in some cases of AF [<CitationRef CitationID="CR25">25</CitationRef>, <CitationRef CitationID="CR39">39</CitationRef>, <CitationRef CitationID="CR42">42</CitationRef>], but remains to be mechanistically explained and clinically investigated further. One possible explanation is dual-pathway AV conduction [<CitationRef CitationID="CR25">25</CitationRef>, <CitationRef CitationID="CR39">39</CitationRef>]; another is a Wenckebach variant of conduction block in the AV node. The finding was not due to ventricular ectopy here. Second, the MSP plots add information by revealing that this anomalous pattern is <Emphasis Type="Italic">scale-specific</Emphasis>, as it is not apparent with coarse graining. In contrast, MSP analysis of RR time series from healthy subjects shows that the “tail” at the lower left portion of the plots (due to decreased variance with increased heart rate) is present <Emphasis Type="Italic">across scales</Emphasis> (Fig. <InternalRef RefID="Fig4">4</InternalRef>). While “anecdotal,” these examples support the possible utility of using MSP plots in evaluating subsets of RR time series in health and disease having quantitatively and qualitatively different interbeat interval dynamics that may not be readily discernible using conventional time series inspection and analysis. More generally, the above findings are consistent with the concept that perturbations related to advanced aging and pathology (e.g., heart failure, atrial fibrillation, etc.) may be most evident in disturbances in higher frequency fluctuations, those required for “fine-tuning” adaptiveness [<CitationRef CitationID="CR13">13</CitationRef>, <CitationRef CitationID="CR14">14</CitationRef>, <CitationRef CitationID="CR43">43</CitationRef>].<Figure Category="Standard" Float="Yes" ID="Fig6">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 6</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Another example of atrial fibrillation (AF). The MSP plots correspond to the original time series (left column) and their coarse-grained time series for scales 5 (second column), 10 (third column) and 15 (right column), respectively. This case of AF differs from that in Fig. <InternalRef RefID="Fig5">5</InternalRef> (bottom panels) by showing 4 sub-areas of RR clusters evident at scale 1, three of which disappear at higher scales (i.e., lower frequencies). Furthermore, the MSP plots at the higher scales are more circular than those in Fig. <InternalRef RefID="Fig5">5</InternalRef> (bottom panels), suggesting more random behavior in the case shown here at these scales. The differences between these recordings, which are not readily apparent from the original time series or other conventional representations, support the potential utility of MSP plots in exploring the dynamics of different subsets of AF. (The MSP plots are from subject # a1nn from <ExternalRef>
+                              <RefSource>http://www.physionet.org/challenge/chaos/</RefSource>
+                              <RefTarget Address="http://www.physionet.org/challenge/chaos/" TargetType="URL"/>
+                            </ExternalRef>) [<CitationRef CitationID="CR33">33</CitationRef>]</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO6">
+                        <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_252_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                           </Para>
+                </Section3>
+                <Section3 ID="Sec10">
+                  <Heading>Use of colorization</Heading>
+                  <Para ID="Par29">Finally, we note that the colorization of the MSP plots, an optional feature of the multiscale renderings, is intended to facilitate rapid assessment of the values of the most frequently observed pairs of RR intervals (mode) as well as of the shape of the probability density function. For example, Fig. <InternalRef RefID="Fig5">5</InternalRef> shows that the most frequently observed values are ~1 s for the healthy subject, ~0.75 s for the patient with CHF and ~ 0.5 s for the patient with AF. In addition, Fig. <InternalRef RefID="Fig5">5</InternalRef> also shows that the probability density function is skewed to the left in the case of the healthy subject and to the right in case of the CHF patient and the subject with AF on short time scales. Whether quantitative analyses developed for traditional Poincaré plots [<CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR6">6</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR11">11</CitationRef>, <CitationRef CitationID="CR35">35</CitationRef>, <CitationRef CitationID="CR44">44</CitationRef>] can be usefully extended to MSP plots is of interest but outside the scope of this brief methodological note. We also emphasize that these plots are intended to complement current quantitative methods of time series analysis (e.g., Fourier, fractal/multifractal, and entropy-related analyses, to name but a few).</Para>
+                </Section3>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec11">
+              <Heading>Conclusions</Heading>
+              <Para ID="Par30">We introduce a novel delay map implementation termed <Emphasis Type="Italic">multiscale Poincaré</Emphasis> (MSP) plots, to facilitate visualization of multiscale structure of cardiac interbeat interval time series. The method comprises: i) a coarse-graining operation that generates a family of time series; ii) delay map construction for the original and the coarse-grained time series; and iii) colorization of the delay maps based on an estimated normalized probability density function. The method appears to be useful in depicting concepts such as scaling behavior in health and disease and contrasting “real-world” and simulated data. Future studies are needed to evaluate its use in heart rate dynamics, as well as its potential utility in studying other types of time series.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/12911_2016_Article_252.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <ArticleNote Type="Misc">
+              <Heading>Competing interests</Heading>
+              <SimplePara>The authors declare that they have no competing interests.</SimplePara>
+            </ArticleNote>
+            <ArticleNote Type="Misc">
+              <Heading>Authors’ contributions</Heading>
+              <SimplePara>The conceptualization and initial implementation of the method were developed by TFS, FR, AB, and ALG. TSH, SM, and ALG contributed with refinements of the method, analysis of the findings and to the composition and editing of the manuscript. All authors have read and approved this manuscript.</SimplePara>
+            </ArticleNote>
+            <Acknowledgments>
+              <Heading>Acknowledgments</Heading>
+              <SimplePara>This work was supported by the Wyss Institute, the G. Harold &amp; Leila Y. Mathers Foundation, the National Institutes of Health grants R24HL114473 and 2R01GM104987. We gratefully acknowledge the advice and input of Dr. Madalena D. Costa.</SimplePara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Ruelle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Takens</FamilyName>
+                  </BibAuthorName>
+                  <Year>1971</Year>
+                  <ArticleTitle Language="En">On the nature of turbulence</ArticleTitle>
+                  <JournalTitle>Commun. Math. Phys.</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>167</FirstPage>
+                  <LastPage>92</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01646553</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ruelle D, Takens F. On the nature of turbulence. Commun Math Phys. 1971;20:167–92.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Takens</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">Detecting strange attractors in turbulence</ArticleTitle>
+                  <JournalTitle>Lect. Notes Math.</JournalTitle>
+                  <VolumeID>898</VolumeID>
+                  <FirstPage>366</FirstPage>
+                  <LastPage>81</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BFb0091924</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Takens F. Detecting strange attractors in turbulence. Lect Notes Math. 1981;898:366–81.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Lerma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Infante</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Pérez-Grovas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MV</Initials>
+                    <FamilyName>José</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Poincaré plot indexes of heart rate variability capture dynamic adaptations after haemodialysis in chronic renal failure patients</ArticleTitle>
+                  <JournalTitle>Clin. Physiol. Funct. Imaging.</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>72</FirstPage>
+                  <LastPage>80</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1475-097X.2003.00466.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12641600</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lerma C, Infante O, Pérez-Grovas H, José MV. Poincaré plot indexes of heart rate variability capture dynamic adaptations after haemodialysis in chronic renal failure patients. Clin Physiol Funct Imaging. 2003;23(2):72–80.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Woo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WG</Initials>
+                    <FamilyName>Stevenson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DK</Initials>
+                    <FamilyName>Moser</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RB</Initials>
+                    <FamilyName>Trelease</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RM</Initials>
+                    <FamilyName>Harper</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Patterns of beat-to-beat heart rate variability in advanced heart failure</ArticleTitle>
+                  <JournalTitle>Am. Heart J.</JournalTitle>
+                  <VolumeID>123</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>704</FirstPage>
+                  <LastPage>10</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0002-8703(92)90510-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK387ntVKqsQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>1539521</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Woo MA, Stevenson WG, Moser DK, Trelease RB, Harper RM. Patterns of beat-to-beat heart rate variability in advanced heart failure. Am Heart J. 1992;123(3):704–10.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PW</Initials>
+                    <FamilyName>Kamen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Tonkin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Application of the Poincaré plot to heart rate variability: a new measure of functional status in heart failure</ArticleTitle>
+                  <JournalTitle>Aust. N. Z. J. Med.</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>18</FirstPage>
+                  <LastPage>26</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1445-5994.1995.tb00573.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2MzgsFyjsw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>7786239</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kamen PW, Tonkin AM. Application of the Poincaré plot to heart rate variability: a new measure of functional status in heart failure. Aust N Z J Med. 1995;25(1):18–26.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PW</Initials>
+                    <FamilyName>Kamen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Krum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Tonkin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Poincaré plot of heart rate variability allows quantitative display of parasympathetic nervous activity in humans</ArticleTitle>
+                  <JournalTitle>Clin. Sci. (Lond.)</JournalTitle>
+                  <VolumeID>91</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>201</FirstPage>
+                  <LastPage>8</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1042/cs0910201</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK28zovVSnsQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kamen PW, Krum H, Tonkin AM. Poincaré plot of heart rate variability allows quantitative display of parasympathetic nervous activity in humans. Clin Sci (Lond). 1996;91(2):201–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MP</Initials>
+                    <FamilyName>Tulppo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TH</Initials>
+                    <FamilyName>Mäkikallio</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TE</Initials>
+                    <FamilyName>Takala</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Seppänen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HV</Initials>
+                    <FamilyName>Huikuri</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Quantitative beat-to-beat analysis of heart rate dynamics during exercise</ArticleTitle>
+                  <JournalTitle>Am. J. Physiol. Heart Circ. Physiol.</JournalTitle>
+                  <VolumeID>271</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>H244</FirstPage>
+                  <LastPage>52</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK28XkvVWitbg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tulppo MP, Mäkikallio TH, Takala TE, Seppänen T, Huikuri HV. Quantitative beat-to-beat analysis of heart rate dynamics during exercise. Am J Physiol Heart Circ Physiol. 1996;271(1):H244–52.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Brennan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Palaniswami</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Kamen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Do existing measures of Poincaré plot geometry reflect nonlinear features of heart rate variability?</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Biomed. Eng.</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <IssueID>11</IssueID>
+                  <FirstPage>1342</FirstPage>
+                  <LastPage>7</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/10.959330</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3MnhtF2qtw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11686633</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Brennan M, Palaniswami M, Kamen P. Do existing measures of Poincaré plot geometry reflect nonlinear features of heart rate variability? IEEE Trans Biomed Eng. 2001;48(11):1342–7.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PK</Initials>
+                    <FamilyName>Stein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Reddy</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Non-linear heart rate variability and risk stratification in cardiovascular disease</ArticleTitle>
+                  <JournalTitle>Indian Pacing Electrophysiol. J.</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>210</FirstPage>
+                  <LastPage>20</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>1431594</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16943869</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stein PK, Reddy A. Non-linear heart rate variability and risk stratification in cardiovascular disease. Indian Pacing Electrophysiol J. 2005;5(3):210–20.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PK</Initials>
+                    <FamilyName>Stein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PP</Initials>
+                    <FamilyName>Domitrovich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Hui</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Rautaharju</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Gottdiener</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Sometimes higher heart rate variability is not better heart rate variability: results of graphical and nonlinear analyses</ArticleTitle>
+                  <JournalTitle>J. Cardiovasc. Electrophysiol</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <IssueID>9</IssueID>
+                  <FirstPage>954</FirstPage>
+                  <LastPage>9</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1540-8167.2005.40788.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16174015</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stein PK, Domitrovich PP, Hui N, Rautaharju P, Gottdiener J. Sometimes higher heart rate variability is not better heart rate variability: results of graphical and nonlinear analyses. J Cardiovasc Electrophysiol. 2005;16(9):954–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>AH</Initials>
+                    <FamilyName>Khandoker</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Karmakar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Brennan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Palaniswami</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Voss</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <BookTitle>Poincaré plot methods for heart rate variability analysis</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-1-4614-7375-6</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Khandoker AH, Karmakar C, Brennan M, Palaniswami M, Voss A. Poincaré plot methods for heart rate variability analysis. New York: Springer; 2013.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BJ</Initials>
+                    <FamilyName>West</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Fractals in physiology and medicine</ArticleTitle>
+                  <JournalTitle>Yale J. Biol. Med.</JournalTitle>
+                  <VolumeID>60</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>421</FirstPage>
+                  <LastPage>35</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2590346</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1c7gtFOisg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>3424875</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goldberger AL, West BJ. Fractals in physiology and medicine. Yale J Biol Med. 1987;60(5):421–35.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Amaral</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Hausdorff</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PC</Initials>
+                    <FamilyName>Ivanov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C-K</Initials>
+                    <FamilyName>Peng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HE</Initials>
+                    <FamilyName>Stanley</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Fractal dynamics in physiology: alterations with disease and aging</ArticleTitle>
+                  <JournalTitle>Proc. Natl. Acad. Sci USA</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <IssueID>suppl 1</IssueID>
+                  <FirstPage>2466</FirstPage>
+                  <LastPage>72</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>128562</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1073/pnas.012579499</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11875196</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goldberger AL, Amaral LA, Hausdorff JM, Ivanov PC, Peng C-K, Stanley HE. Fractal dynamics in physiology: alterations with disease and aging. Proc Natl Acad Sci USA. 2002;99 suppl 1:2466–72.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Giles</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Filley lecture: Complex systems</ArticleTitle>
+                  <JournalTitle>Proc. Am. Thorac. Soc.</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>467</FirstPage>
+                  <LastPage>71</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2647633</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1513/pats.200603-028MS</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16921107</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goldberger AL, Giles F. Filley lecture: Complex systems. Proc Am Thorac Soc. 2006;3(6):467–71.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Voss</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Schulz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Schroeder</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Baumert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Caminal</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Methods derived from nonlinear dynamics for analysing heart rate variability</ArticleTitle>
+                  <JournalTitle>Philos Trans A Math Phys Eng Sci</JournalTitle>
+                  <VolumeID>367</VolumeID>
+                  <IssueID>1887</IssueID>
+                  <FirstPage>277</FirstPage>
+                  <LastPage>96</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1098/rsta.2008.0232</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18977726</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Voss A, Schulz S, Schroeder R, Baumert M, Caminal P. Methods derived from nonlinear dynamics for analysing heart rate variability. Philos Trans A Math Phys Eng Sci. 2009;367(1887):277–96.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C-K</Initials>
+                    <FamilyName>Peng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Havlin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HE</Initials>
+                    <FamilyName>Stanley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Quantification of scaling exponents and crossover phenomena in nonstationary heartbeat time series</ArticleTitle>
+                  <JournalTitle>Chaos</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>82</FirstPage>
+                  <LastPage>7</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.166141</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3Mnls1ylsA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11538314</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Peng C-K, Havlin S, Stanley HE, Goldberger AL. Quantification of scaling exponents and crossover phenomena in nonstationary heartbeat time series. Chaos. 1995;5(1):82–7.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PC</Initials>
+                    <FamilyName>Ivanov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Amaral</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Havlin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MG</Initials>
+                    <FamilyName>Rosenblum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ZR</Initials>
+                    <FamilyName>Struzik</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Multifractality in human heartbeat dynamics</ArticleTitle>
+                  <JournalTitle>Nature</JournalTitle>
+                  <VolumeID>399</VolumeID>
+                  <IssueID>6735</IssueID>
+                  <FirstPage>461</FirstPage>
+                  <LastPage>5</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/20924</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXjvV2jtb8%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>10365957</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ivanov PC, Amaral LA, Goldberger AL, Havlin S, Rosenblum MG, Struzik ZR, et al. Multifractality in human heartbeat dynamics. Nature. 1999;399(6735):461–5.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Kantelhardt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SA</Initials>
+                    <FamilyName>Zschiegner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Koscielny-Bunde</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Havlin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Bunde</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HE</Initials>
+                    <FamilyName>Stanley</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Multifractal detrended fluctuation analysis of nonstationary time series</ArticleTitle>
+                  <JournalTitle>Physica A</JournalTitle>
+                  <VolumeID>316</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>87</FirstPage>
+                  <LastPage>114</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0378-4371(02)01383-3</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kantelhardt JW, Zschiegner SA, Koscielny-Bunde E, Havlin S, Bunde A, Stanley HE. Multifractal detrended fluctuation analysis of nonstationary time series. Physica A. 2002;316(1):87–114.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Costa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C-K</Initials>
+                    <FamilyName>Peng</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Multiscale entropy analysis of complex physiologic time series</ArticleTitle>
+                  <JournalTitle>Phys. Rev. Lett.</JournalTitle>
+                  <VolumeID>89</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>068102</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevLett.89.068102</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12190613</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Costa MD, Goldberger AL, Peng C-K. Multiscale entropy analysis of complex physiologic time series. Phys Rev Lett. 2002;89(6):068102.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Costa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C-K</Initials>
+                    <FamilyName>Peng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Hausdorff</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Multiscale entropy analysis of human gait dynamics</ArticleTitle>
+                  <JournalTitle>Physica A</JournalTitle>
+                  <VolumeID>330</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>53</FirstPage>
+                  <LastPage>60</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.physa.2003.08.022</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Costa MD, Peng C-K, Goldberger AL, Hausdorff JM. Multiscale entropy analysis of human gait dynamics. Physica A. 2003;330(1):53–60.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Costa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C-K</Initials>
+                    <FamilyName>Peng</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Multiscale entropy analysis of biological signals</ArticleTitle>
+                  <JournalTitle>Phys. Rev. E Stat. Nonlin. Soft Matter Phys</JournalTitle>
+                  <VolumeID>71</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>021906</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevE.71.021906</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15783351</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Costa MD, Goldberger AL, Peng C-K. Multiscale entropy analysis of biological signals. Phys Rev E Stat Nonlin Soft Matter Phys. 2005;71(2):021906.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SD</Initials>
+                    <FamilyName>Wu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CW</Initials>
+                    <FamilyName>Wu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SG</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KY</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C-K</Initials>
+                    <FamilyName>Peng</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Analysis of complex time series using refined composite multiscale entropy</ArticleTitle>
+                  <JournalTitle>Phys. Lett. A.</JournalTitle>
+                  <VolumeID>378</VolumeID>
+                  <IssueID>20</IssueID>
+                  <FirstPage>1369</FirstPage>
+                  <LastPage>74</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.physleta.2014.03.034</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC2cXls1elsLg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wu SD, Wu CW, Lin SG, Lee KY, Peng C-K. Analysis of complex time series using refined composite multiscale entropy. Phys Lett A. 2014;378(20):1369–74.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Costa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C-K</Initials>
+                    <FamilyName>Peng</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Broken asymmetry of the human heartbeat: loss of time irreversibility in aging and disease</ArticleTitle>
+                  <JournalTitle>Phys. Rev. Lett.</JournalTitle>
+                  <VolumeID>95</VolumeID>
+                  <IssueID>19</IssueID>
+                  <FirstPage>198102</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevLett.95.198102</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16384029</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Costa MD, Goldberger AL, Peng C-K. Broken asymmetry of the human heartbeat: loss of time irreversibility in aging and disease. Phys Rev Lett. 2005;95(19):198102.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Costa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C-K</Initials>
+                    <FamilyName>Peng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Multiscale analysis of heart rate dynamics: entropy and time irreversibility measures</ArticleTitle>
+                  <JournalTitle>Cardiovasc. Eng.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>88</FirstPage>
+                  <LastPage>93</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10558-007-9049-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18172763</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Costa MD, Peng C-K, Goldberger AL. Multiscale analysis of heart rate dynamics: entropy and time irreversibility measures. Cardiovasc Eng. 2008;8(2):88–93.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Burykin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Costa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Citi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Dynamical density delay maps: simple, new method for visualising the behaviour of complex systems</ArticleTitle>
+                  <JournalTitle>BMC Med. Inform. Decis. Mak.</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>6</FirstPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>3899032</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1472-6947-14-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24438439</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Burykin A, Costa MD, Citi L, Goldberger AL. Dynamical density delay maps: simple, new method for visualising the behaviour of complex systems. BMC Med Inform Decis Mak. 2014;14(1):6.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Henriques</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MN</Initials>
+                    <FamilyName>Munshi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AR</Initials>
+                    <FamilyName>Segal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Costa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">“Glucose-at-a-Glance”: new method to visualize the dynamics of continuous glucose monitoring data</ArticleTitle>
+                  <JournalTitle>J. Diabetes Sci Technol</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>299</FirstPage>
+                  <LastPage>306</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>4455408</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/1932296814524095</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24876582</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Henriques T, Munshi MN, Segal AR, Costa MD, Goldberger AL. “Glucose-at-a-Glance”: new method to visualize the dynamics of continuous glucose monitoring data. J Diabetes Sci Technol. 2014;8(2):299–306.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Burykin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Mariani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Henriques</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TF</Initials>
+                    <FamilyName>Silva</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WT</Initials>
+                    <FamilyName>Schnettler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Costa</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2015</Year>
+                  <ArticleTitle Language="En">Remembrance of time series past: simple chromatic method for visualizing trends in biomedical signals</ArticleTitle>
+                  <JournalTitle>Physiol. Meas.</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <IssueID>7</IssueID>
+                  <FirstPage>N95</FirstPage>
+                  <LastPage>102</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0967-3334/36/7/N95</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>26012777</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Burykin A, Mariani S, Henriques T, Silva TF, Schnettler WT, Costa MD, et al. Remembrance of time series past: simple chromatic method for visualizing trends in biomedical signals. Physiol Meas. 2015;36(7):N95–102.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Rosenblatt</FamilyName>
+                  </BibAuthorName>
+                  <Year>1956</Year>
+                  <ArticleTitle Language="En">Remarks on some nonparametric estimates of a density function</ArticleTitle>
+                  <JournalTitle>Ann. Math. Stat.</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>832</FirstPage>
+                  <LastPage>7</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1214/aoms/1177728190</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rosenblatt M. Remarks on some nonparametric estimates of a density function. Ann Math Stat. 1956;27:832–7.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DE</Initials>
+                    <FamilyName>Lake</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Nonparametric entropy estimation using kernel densities</ArticleTitle>
+                  <JournalTitle>Meth. Enzymol.</JournalTitle>
+                  <VolumeID>467</VolumeID>
+                  <FirstPage>531</FirstPage>
+                  <LastPage>46</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0076-6879(09)67020-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19897106</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lake DE. Nonparametric entropy estimation using kernel densities. Meth Enzymol. 2009;467:531–46.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PH</Initials>
+                    <FamilyName>Eilers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Goeman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Enhancing scatterplots with smoothed densities</ArticleTitle>
+                  <JournalTitle>Bioinformatics</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>623</FirstPage>
+                  <LastPage>8</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/bioinformatics/btg454</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXitlyiu7k%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15033868</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Eilers PH, Goeman JJ. Enhancing scatterplots with smoothed densities. Bioinformatics. 2004;20(5):623–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Ware</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Color sequences for univariate maps: Theory, experiments and principles</ArticleTitle>
+                  <JournalTitle>IEEE Comput. Graph. Appl.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>41</FirstPage>
+                  <LastPage>9</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/38.7760</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ware C. Color sequences for univariate maps: Theory, experiments and principles. IEEE Comput Graph Appl. 1988;8(5):41–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Gehlenborg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Wong</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Points of view: Mapping quantitative data to color</ArticleTitle>
+                  <JournalTitle>Nat. Methods</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>769</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/nmeth.2134</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC38XhtFWmsb%2FP</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23019685</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gehlenborg N, Wong B. Points of view: Mapping quantitative data to color. Nat Methods. 2012;9(8):769.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LAN</Initials>
+                    <FamilyName>Amaral</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Glass</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Hausdorff</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PC</Initials>
+                    <FamilyName>Ivanov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RG</Initials>
+                    <FamilyName>Mark</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals</ArticleTitle>
+                  <JournalTitle>Circulation</JournalTitle>
+                  <VolumeID>101</VolumeID>
+                  <IssueID>23</IssueID>
+                  <FirstPage>e215</FirstPage>
+                  <LastPage>e220</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1161/01.CIR.101.23.e215</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3czhtFGisw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>10851218</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goldberger AL, Amaral LAN, Glass L, Hausdorff JM, Ivanov PC, Mark RG, et al. PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals. Circulation. 2000;101(23):e215–20.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JT</Initials>
+                    <FamilyName>Bigger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Camm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RE</Initials>
+                    <FamilyName>Kleiger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Malliani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Moss</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Heart rate variability standards of measurement, physiological interpretation, and clinical use</ArticleTitle>
+                  <JournalTitle>Eur. Heart J.</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>354</FirstPage>
+                  <LastPage>81</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/oxfordjournals.eurheartj.a014868</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Malik M, Bigger JT, Camm AJ, Kleiger RE, Malliani A, Moss AJ, et al. Heart rate variability standards of measurement, physiological interpretation, and clinical use. Eur Heart J. 1996;17(3):354–81.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Piskorski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Guzik</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Geometry of Poincaré plot of RR intervals and its asymmetry in healthy adults</ArticleTitle>
+                  <JournalTitle>Physiol. Meas.</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>287</FirstPage>
+                  <LastPage>300</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0967-3334/28/3/005</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD2s7it1CgtQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17322593</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Piskorski J, Guzik P. Geometry of Poincaré plot of RR intervals and its asymmetry in healthy adults. Physiol Meas. 2007;28(3):287–300.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>DH</Initials>
+                    <FamilyName>Seggern</FamilyName>
+                    <Particle>Von</Particle>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <BookTitle>CRC Standard Curves and Surfaces with Mathematica</BookTitle>
+                  <PublisherName>CRC</PublisherName>
+                  <PublisherLocation>Boca Raton</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Von Seggern DH. CRC Standard Curves and Surfaces with Mathematica. Boca Raton: CRC; 2006.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibUnstructured>Weisstein EW. Teardrop curve. From MathWorld--A Wolfram Web Resource. <ExternalRef>
+                    <RefSource>http://mathworld.wolfram.com/TeardropCurve.html</RefSource>
+                    <RefTarget Address="http://mathworld.wolfram.com/TeardropCurve.html" TargetType="URL"/>
+                  </ExternalRef>. Accessed 30 Sep 2015.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Monfredi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AE</Initials>
+                    <FamilyName>Lyashkov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AB</Initials>
+                    <FamilyName>Johnsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Inada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Schneider</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Biophysical characterization of the underappreciated and important relationship between heart rate variability and heart rate</ArticleTitle>
+                  <JournalTitle>Hypertension</JournalTitle>
+                  <VolumeID>64</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>1334</FirstPage>
+                  <LastPage>43</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>4326239</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1161/HYPERTENSIONAHA.114.03782</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC2cXhvV2ntLjM</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>25225208</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Monfredi O, Lyashkov AE, Johnsen AB, Inada S, Schneider H, Wang R, et al. Biophysical characterization of the underappreciated and important relationship between heart rate variability and heart rate. Hypertension. 2014;64(6):1334–43.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Climent</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GM</Initials>
+                    <FamilyName>Salud</FamilyName>
+                    <Particle>de la</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Husser</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Castells</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Millet</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Bollmann</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Poincaré surface profiles of RR intervals: a novel noninvasive method for the evaluation of preferential AV nodal conduction during atrial fibrillation</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Biomed. Eng.</JournalTitle>
+                  <VolumeID>56</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>433</FirstPage>
+                  <LastPage>42</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TBME.2008.2003273</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19272940</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Climent AM, de la Salud GM, Husser D, Castells F, Millet J, Bollmann A. Poincaré surface profiles of RR intervals: a novel noninvasive method for the evaluation of preferential AV nodal conduction during atrial fibrillation. IEEE Trans Biomed Eng. 2009;56(2):433–42.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Hayano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Yamasaki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Sakata</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Okada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Mukai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Fujinami</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Spectral characteristics of ventricular response to atrial fibrillation</ArticleTitle>
+                  <JournalTitle>Am. J. Physiol. Heart Circ. Physiol.</JournalTitle>
+                  <VolumeID>273</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>H2811</FirstPage>
+                  <LastPage>6</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXjsVOmug%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hayano J, Yamasaki F, Sakata S, Okada A, Mukai S, Fujinami T. Spectral characteristics of ventricular response to atrial fibrillation. Am J Physiol Heart Circ Physiol. 1997;273(6):H2811–6.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Balocchi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Carpeggiani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Fronzoni</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CK</Initials>
+                    <FamilyName>Peng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Michelassi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Mietus</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Short and long-term heart rate dynamics in atrial fibrillation</ArticleTitle>
+                  <JournalTitle>Stud. Health Technol. Inform.</JournalTitle>
+                  <VolumeID>60</VolumeID>
+                  <FirstPage>91</FirstPage>
+                  <LastPage>6</LastPage>
+                </BibArticle>
+                <BibUnstructured>Balocchi R, Carpeggiani C, Fronzoni L, Peng CK, Michelassi C, Mietus J, et al. Short and long-term heart rate dynamics in atrial fibrillation. Stud Health Technol Inform. 1999;60:91–6.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Masè</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Marini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Disertori</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Ravelli</FamilyName>
+                  </BibAuthorName>
+                  <Year>2015</Year>
+                  <ArticleTitle Language="En">Dynamics of AV coupling during human atrial fibrillation: role of atrial rate</ArticleTitle>
+                  <JournalTitle>Am. J. Physiol. Heart Circ. Physiol.</JournalTitle>
+                  <VolumeID>301</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>H198</FirstPage>
+                  <LastPage>205</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1152/ajpheart.00726.2014</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Masè M, Marini M, Disertori M, Ravelli F. Dynamics of AV coupling during human atrial fibrillation: role of atrial rate. Am J Physiol Heart Circ Physiol. 2015;301(1):H198–205.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>43.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Goldberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Findley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Blackburn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Mandell</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Nonlinear dynamics of heart failure: implications of long-wavelength cardiopulmonary oscillations</ArticleTitle>
+                  <JournalTitle>Am Heart J</JournalTitle>
+                  <VolumeID>107</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>612</FirstPage>
+                  <LastPage>5</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0002-8703(84)90120-0</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2c7isV2lug%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>6695715</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goldberger AL, Findley L, Blackburn MJ, Mandell AJ. Nonlinear dynamics of heart failure: implications of long-wavelength cardiopulmonary oscillations. Am Heart J. 1984;107(3):612–5.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR44">
+                <CitationNumber>44.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Guzik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Piskorski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Krauze</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Wykretowicz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Wysocki</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Heart rate asymmetry by Poincaré plots of RR intervals</ArticleTitle>
+                  <JournalTitle>Biomed. Tech. (Berl)</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>272</FirstPage>
+                  <LastPage>5</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1515/BMT.2006.054</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Guzik P, Piskorski J, Krauze T, Wykretowicz A, Wysocki H. Heart rate asymmetry by Poincaré plots of RR intervals. Biomed Tech (Berl). 2006;51(4):272–5.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>9</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art3">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>73523</ArticleID>
+            <ArticleDOI>10.1208/aapsj070353</ArticleDOI>
+            <ArticleSequenceNumber>3</ArticleSequenceNumber>
+            <ArticleTitle Language="En">A new equivalence based metric for predictive check to qualify mixed-effects models</ArticleTitle>
+            <ArticleFirstPage>E523</ArticleFirstPage>
+            <ArticleLastPage>E531</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+              </Received>
+              <Accepted>
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>3</IssueIDStart>
+              <IssueIDEnd>3</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Pravin</GivenName>
+                  <GivenName>R.</GivenName>
+                  <FamilyName>Jadhav</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jogarao</GivenName>
+                  <GivenName>V.</GivenName>
+                  <GivenName>S.</GivenName>
+                  <FamilyName>Gobburu</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>(301) 594-2109</Phone>
+                  <Fax>(301) 480-3212</Fax>
+                  <Email>jogarao.gobburu@fda.hhs.gov</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Division of Pharmaceutical Evaluation-1, Office of Clinical Pharmacology and Biopharmaceutics</OrgDivision>
+                <OrgName>Center for Drug Evaluation and Research</OrgName>
+                <OrgAddress>
+                  <Street>1451 Rockville Pike, Rm 2039, HFD-860</Street>
+                  <Postcode>20852</Postcode>
+                  <City>Rockville</City>
+                  <State>MD</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Pharmaceutics, Medical College of Virginia</OrgDivision>
+                <OrgName>VA Commonwealth University</OrgName>
+                <OrgAddress>
+                  <Postcode>23298</Postcode>
+                  <City>Richmond</City>
+                  <State>VA</State>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>The main objective of any modeling exercise is to provide a rationale for effective decision making during drug development. The aim of the current simulation experiment was to evaluate the properties of predictive check as a covariate model qualification technique and, more importantly, to introduce and evaluate alternative criteria to qualify models.</Para>
+              <Para>Original concentration-time profiles (y<Superscript>od</Superscript>) were simulated using a 1-compartment model for an intravenous drug administered to 25 men and 25 women. The typical clearance for male subjects (TVCLm) was assumed to be 5-fold higher than that for female subjects (TVCLf). Fifty such trials under the same design were generated randomly. Predictive check was used as the model qualification tool to study predictive performance of true (males ≠ females) and false (males=females) models in the context of maximum likelihood estimation. For each y<Superscript>od</Superscript>, 200 replications were generated to study the properties of a discrepancy variable, a statistic that depends on the model, and a test statistic, a statistic that does not depend on the model. Several qualification criteria were evaluated in assessing predictive performance, such as, predictive p-value (Pp), probability of equivalence (p<Superscript>eqv</Superscript>), and probability of rejecting the null hypothesis (data=model) using the Kolmogorov-Smirnov test (p<Superscript>ks</Superscript>).</Para>
+              <Para>The Pp value was calculated using sum of squared errors as a discrepancy variable. For both of the models, the Pp values uniformly ranged between 0 and 1. The pattern of Pp values suggests that qualification of the false model is unlikely. For both of the models, the range of p<Superscript>eqv</Superscript> is about 0.95 to 1.0 for concentration at 0.5 hours. However, this is not the case for the concentration at 4 hours, which is primarily dependent on the clearance. The false model (0.35 to 0.50) has poor predictive performance compared with the true model (0.65 to 0.80) using p<Superscript>eqv</Superscript>. The p<Superscript>ks</Superscript> suggests no difference in the distributions of replicated and original concentrations at all of the time points for both of the models.</Para>
+              <Para>Discrepancy variables cannot aid in rejecting false models, whereas the use of a test statistic can aid in rejecting false models. However, selection of an informative test statistic is challenging. As far as the qualification criteria are considered, the equivalence-based comparison of a test statistic is more informative than a significance-based comparison. No convincing evidence exists in the literature demonstrating the added advantages of predictive check as a routine model qualification tool over the existing tools, such as diagnostic plots or mechanistic reasoning. However, when a model is to be used for designing a trial, it should at least be able to regenerate the data used to build the model. In such cases, predictive check might offer insights into potential inconsistencies.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>model validation</Keyword>
+              <Keyword>model qualification</Keyword>
+              <Keyword>posterior predictive check</Keyword>
+              <Keyword>test statistic</Keyword>
+              <Keyword>discrepancy variable</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: October 7, 2005</SimplePara>
+            </ArticleNote>
+            <ArticleNote Type="Misc">
+              <SimplePara>The views expressed in this article are those of the authors and do not necessarily reflect the official views of FDA.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_73523.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Steimer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic/pharmacodynamic modeling in drug development</ArticleTitle>
+                  <JournalTitle>Annu Rev Pharmacol Toxicol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>67</FirstPage>
+                  <LastPage>95</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10836128</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1146/annurev.pharmtox.40.1.67</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXjs1yhsrg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Steimer JL. Pharmacokinetic/pharmacodynamic modeling in drug development.<Emphasis Type="Italic">Annu Rev Pharmacol Toxicol</Emphasis>. 2000;40:67–95.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JV</Initials>
+                    <FamilyName>Gobburu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PJ</Initials>
+                    <FamilyName>Marroum</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Utilisation of pharmacokinetic-pharmacodynamic modelling and simulation in regulatory decision-making</ArticleTitle>
+                  <JournalTitle>Clin Pharmacokinet</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>883</FirstPage>
+                  <LastPage>892</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11735607</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2165/00003088-200140120-00001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3MnptFCjtQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gobburu JV, Marroum PJ. Utilisation of pharmacokinetic-pharmacodynamic modelling and simulation in regulatory decision-making.<Emphasis Type="Italic">Clin Pharmacokinet</Emphasis>. 2001;40:883–892.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>Holford NHG, Hale M, Ko HS, Steimer JL, Sheiner LB. Simulation in Drug development: good practices.<Emphasis Type="Italic">Center for Drug Development Science</Emphasis>. Available at: http://cdds.georgetown.edu. Accessed January 1, 2004.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Wahlby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EN</Initials>
+                    <FamilyName>Jonsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Assessment of actual significance levels for covariate effects in NONMEM</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>231</FirstPage>
+                  <LastPage>252</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11468939</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011527125570</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD38%2FitlOktA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wahlby U, Jonsson EN, Karlsson MO. Assessment of actual significance levels for covariate effects in NONMEM.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2001;28:231–252.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>FDA. Guidance: Population Pharmacokinetics.<Emphasis Type="Italic">FDA guidance page</Emphasis>. Available at:http://www.fda.gov/cder/guidance. Accessed January 13, 2004.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Rubin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Bayesianly justifiable and relevant frequency calculations for the applied statisitcian</ArticleTitle>
+                  <JournalTitle>Ann Stat</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>1151</FirstPage>
+                  <LastPage>1172</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1214/aos/1176346785</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rubin D. Bayesianly justifiable and relevant frequency calculations for the applied statisitcian.<Emphasis Type="Italic">Ann Stat</Emphasis>. 1984;12:1151–1172.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JB</Initials>
+                    <FamilyName>Carlin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HS</Initials>
+                    <FamilyName>Stern</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DB</Initials>
+                    <FamilyName>Rubin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ChapterTitle Language="En">Model checking and sensitivity analysis</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gelman</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Bayesian Data Analysis</BookTitle>
+                  <PublisherName>Chapman &amp; Hall</PublisherName>
+                  <PublisherLocation>London</PublisherLocation>
+                  <FirstPage>161</FirstPage>
+                  <LastPage>189</LastPage>
+                </BibChapter>
+                <BibUnstructured>Gelman A, Carlin JB, Stern HS, Rubin DB. Model checking and sensitivity analysis. In: Gelman A, ed.<Emphasis Type="Italic">Bayesian Data Analysis</Emphasis>. London: Chapman &amp; Hall; 1995;161–189.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>XL</Initials>
+                    <FamilyName>Meng</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ChapterTitle Language="En">Model checking and model improvement</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>WR</Initials>
+                    <FamilyName>Gilks</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Richardson</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>DJ</Initials>
+                    <FamilyName>Spiegelhalter</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Markov Chain and Monte Carlo in Practice</BookTitle>
+                  <PublisherName>Chapman &amp; Hall</PublisherName>
+                  <PublisherLocation>London</PublisherLocation>
+                  <FirstPage>189</FirstPage>
+                  <LastPage>202</LastPage>
+                </BibChapter>
+                <BibUnstructured>Gelman A, Meng XL. Model checking and model improvement. In: Gilks WR, Richardson S, Spiegelhalter DJ, eds.<Emphasis Type="Italic">Markov Chain and Monte Carlo in Practice</Emphasis>. London: Chapman &amp; Hall; 1996:189–202.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Yano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Evaluating pharmacokinetic/pharmacodynamic models using the posterior predictive check</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>171</FirstPage>
+                  <LastPage>192</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11381569</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011555016423</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD38%2FhtV2htg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yano Y, Beal SL, Sheiner LB. Evaluating pharmacokinetic/pharmacodynamic models using the posterior predictive check.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2001;28:171–192.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>XL</Initials>
+                    <FamilyName>Meng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HS</Initials>
+                    <FamilyName>Stern</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Posterior predictive assessment of model fitness via realized discrepancies</ArticleTitle>
+                  <JournalTitle>Statistica Sinica</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>733</FirstPage>
+                  <LastPage>807</LastPage>
+                </BibArticle>
+                <BibUnstructured>Gelman A, Meng XL, Stern HS. Posterior predictive assessment of model fitness via realized discrepancies.<Emphasis Type="Italic">Statistica Sinica</Emphasis>. 1996;6:733–807.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Guttman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1967</Year>
+                  <ArticleTitle Language="En">The use of a concept of a future observation in the goodness-of-fit problems</ArticleTitle>
+                  <JournalTitle>J R Statist Soc B</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <FirstPage>83</FirstPage>
+                  <LastPage>100</LastPage>
+                </BibArticle>
+                <BibUnstructured>Guttman I. The use of a concept of a future observation in the goodness-of-fit problems.<Emphasis Type="Italic">J R Statist Soc B</Emphasis>. 1967;1:83–100.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GC</Initials>
+                    <FamilyName>Tiao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Xu</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Robustness of maximum likelihood estimates for multi-step predictions: the exponential smoothing case</ArticleTitle>
+                  <JournalTitle>Biometrika</JournalTitle>
+                  <VolumeID>80</VolumeID>
+                  <FirstPage>623</FirstPage>
+                  <LastPage>641</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/biomet/80.3.623</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tiao GC, Xu D. Robustness of maximum likelihood estimates for multi-step predictions: the exponential smoothing case.<Emphasis Type="Italic">Biometrika</Emphasis>. 1993;80:623–641.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Goegebeur</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Tuerlinckx</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Mechelen</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Diagnostic checks for discrete data regression models using posterior predictive simulations</ArticleTitle>
+                  <JournalTitle>J Royal Stat Soc: C</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <FirstPage>247</FirstPage>
+                  <LastPage>268</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/1467-9876.00190</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gelman A, Goegebeur Y, Tuerlinckx F, Van Mechelen I. Diagnostic checks for discrete data regression models using posterior predictive simulations.<Emphasis Type="Italic">J Royal Stat Soc: C</Emphasis>. 2000;49:247–268.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Aarons</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Development of a sequential linked pharmacokinetic and pharmacodynamic simulation model for ivabradine in healthy volunteers</ArticleTitle>
+                  <JournalTitle>Eur J Pharm Sci</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>275</FirstPage>
+                  <LastPage>284</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10838017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0928-0987(00)00085-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXjs1Cgsrk%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Duffull SB, Aarons L. Development of a sequential linked pharmacokinetic and pharmacodynamic simulation model for ivabradine in healthy volunteers.<Emphasis Type="Italic">Eur J Pharm Sci</Emphasis>. 2000;10:275–284.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Chabaud</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Nony</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Laveille</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Girard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Aarons</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">A pharmacokinetic simulation model for ivabradine in healthy volunteers</ArticleTitle>
+                  <JournalTitle>Eur J Pharm Sci.</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>285</FirstPage>
+                  <LastPage>294</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10838018</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0928-0987(00)00086-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXjs1CgsrY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Duffull SB, Chabaud S, Nony P, Laveille C, Girard P, Aarons L. A pharmacokinetic simulation model for ivabradine in healthy volunteers.<Emphasis Type="Italic">Eur J Pharm Sci.</Emphasis>. 2000;10:285–294.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LE</Initials>
+                    <FamilyName>Friberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Freijs</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sandstrom</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Semiphysiological model for the time course of leukocytes after varying schedules of 5-fluorouracil in rats</ArticleTitle>
+                  <JournalTitle>J Pharmacol Exp Ther</JournalTitle>
+                  <VolumeID>295</VolumeID>
+                  <FirstPage>734</FirstPage>
+                  <LastPage>740</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11046112</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXnsl2kt7Y%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Friberg LE, Freijs A, Sandstrom M, Karlsson MO. Semiphysiological model for the time course of leukocytes after varying schedules of 5-fluorouracil in rats.<Emphasis Type="Italic">J Pharmacol Exp Ther</Emphasis>. 2000;295:734–740.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

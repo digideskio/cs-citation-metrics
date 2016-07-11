@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Doug</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <City>Lancaster</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <City>Zurich</City>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>Stanford</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <City>Bern</City>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <City>Dortmund</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <State>MA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbrücken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-642-14366-3</BookID>
+        <BookTitle>Biomedical Image Registration</BookTitle>
+        <BookSubTitle>4th International Workshop, WBIR 2010, Lübeck, Germany, July 11-13, 2010. Proceedings</BookSubTitle>
+        <BookVolumeNumber>6204</BookVolumeNumber>
+        <BookSequenceNumber>6204</BookSequenceNumber>
+        <BookDOI>10.1007/978-3-642-14366-3</BookDOI>
+        <BookTitleID>212463</BookTitleID>
+        <BookPrintISBN>978-3-642-14365-6</BookPrintISBN>
+        <BookElectronicISBN>978-3-642-14366-3</BookElectronicISBN>
+        <BookChapterCount>24</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2010</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="I" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="I22021" Priority="1" Type="Secondary">Image Processing and Computer Vision</BookSubject>
+          <BookSubject Code="H28009" Priority="2" Type="Secondary">Health Informatics</BookSubject>
+          <BookSubject Code="H29005" Priority="3" Type="Secondary">Imaging / Radiology</BookSubject>
+          <BookSubject Code="I18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="I2203X" Priority="5" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="L15001" Priority="6" Type="Secondary">Bioinformatics</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>International Workshop on Biomedical Image Registration</ConfSeriesName>
+          <ConfSeriesID Type="Springer">wbir</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">wbir</ConfSeriesID>
+          <ConfEventID Type="Springer">wbir2010</ConfEventID>
+          <ConfEventAbbreviation>WBIR</ConfEventAbbreviation>
+          <ConfNumber>4</ConfNumber>
+          <ConfEventLocation>
+            <City>Lübeck</City>
+            <Country>Germany</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2010</Year>
+            <Month>7</Month>
+            <Day>11</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2010</Year>
+            <Month>7</Month>
+            <Day>13</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Bernd</GivenName>
+              <FamilyName>Fischer</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>fischer@math.uni-luebeck.de</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Benoît</GivenName>
+              <GivenName>M.</GivenName>
+              <FamilyName>Dawant</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>benoit.dawant@vanderbilt.edu</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff18">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Cristian</GivenName>
+              <FamilyName>Lorenz</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>Cristian.Lorenz@Philips.com</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Institute of Mathematics and Image Computing</OrgDivision>
+            <OrgName>University of Lübeck</OrgName>
+            <OrgAddress>
+              <Street>Wallstr. 40</Street>
+              <Postcode>23560</Postcode>
+              <City>Lübeck</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Electrical Engineering and Computer Science</OrgDivision>
+            <OrgName>Vanderbilt University</OrgName>
+            <OrgAddress>
+              <Street>VU Station B 351662</Street>
+              <Postcode>37240-1662</Postcode>
+              <City>Nashville</City>
+              <State>TN</State>
+              <Country>USA</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff18">
+            <OrgName>Philips Research Europe - Hamburg, Sector Medical Imaging Systems</OrgName>
+            <OrgAddress>
+              <Street>Röntgenstr. 24-26</Street>
+              <Postcode>22335</Postcode>
+              <City>Hamburg</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part2">
+        <PartInfo TocLevels="0">
+          <PartID>2</PartID>
+          <PartSequenceNumber>2</PartSequenceNumber>
+          <PartTitle>Poster Session</PartTitle>
+          <PartChapterCount>7</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Biomedical Image Registration</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap9" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>9</ChapterID>
+            <ChapterDOI>10.1007/978-3-642-14366-3_9</ChapterDOI>
+            <ChapterSequenceNumber>9</ChapterSequenceNumber>
+            <ChapterTitle Language="En">Anatomical Landmark Based Registration of Contrast Enhanced T1-Weighted MR Images</ChapterTitle>
+            <ChapterFirstPage>91</ChapterFirstPage>
+            <ChapterLastPage>103</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2010</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>2</PartID>
+              <BookID>978-3-642-14366-3</BookID>
+              <BookTitle>Biomedical Image Registration</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ali</GivenName>
+                  <FamilyName>Demir</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>ademir@sabanciuniv.edu</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Gozde</GivenName>
+                  <FamilyName>Unal</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>gozdeunal@sabanciuniv.edu</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff20">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Kutlay</GivenName>
+                  <FamilyName>Karaman</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff19">
+                <OrgName>Sabanci University</OrgName>
+                <OrgAddress>
+                  <City>Istanbul</City>
+                  <Country>Turkey</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff20">
+                <OrgName>Anadolu Medical Center, Kocaeli</OrgName>
+                <OrgAddress>
+                  <Country>Turkey</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>In many problems involving multiple image analysis, an image registration step is required. One such problem appears in brain tumor imaging, where baseline and follow-up image volumes from a tumor patient are often to-be compared. Nature of the registration for a change detection problem in brain tumor growth analysis is usually rigid or affine. Contrast enhanced T1-weighted MR images are widely used in clinical practice for monitoring brain tumors. Over this modality, contours of the active tumor cells and whole tumor borders and margins are visually enhanced. In this study, a new technique to register serial contrast enhanced T1 weighted MR images is presented. The proposed fully-automated method is based on five anatomical landmarks: eye balls, nose, confluence of sagittal sinus, and apex of superior sagittal sinus. After extraction of anatomical landmarks from fixed and moving volumes, an affine transformation is estimated by minimizing the sum of squared distances between the landmark coordinates. Final result is refined with a surface registration, which is based on head masks confined to the surface of the scalp, as well as to a plane constructed from three of the extracted features. The overall registration is not intensity based, and it depends only on the invariant structures. Validation studies using both synthetically transformed MRI data, and real MRI scans, which included several markers over the head of the patient were performed. In addition, comparison studies against manual landmarks marked by a radiologist, as well as against the results obtained from a typical mutual information based method were carried out to demonstrate the effectiveness of the proposed method.</Para>
+            </Abstract>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-642-14366-3_Chapter_9.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Modersitzki</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>Numerical methods for image registration</BookTitle>
+                  <PublisherName>Oxford University Press</PublisherName>
+                  <PublisherLocation>Oxford</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1055.68140</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Modersitzki, J.: Numerical methods for image registration. Oxford University Press, Oxford (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Zitova</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Flusser</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Image registration methods: a survey</ArticleTitle>
+                  <JournalTitle>Image and Vision Computing</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <FirstPage>977</FirstPage>
+                  <LastPage>1000</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0262-8856(03)00137-9</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zitova, B., Flusser, J.: Image registration methods: a survey. Image and Vision Computing 21, 977–1000 (2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Fischer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Modersitzki</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Ill-posed medicine–an introduction to image registration</ArticleTitle>
+                  <JournalTitle>Inverse Problems</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>16</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0266-5611/24/3/034008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2421945</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fischer, B., Modersitzki, J.: Ill-posed medicine–an introduction to image registration. Inverse Problems 24, 1–16 (2008)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Maintz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Viergever</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">A survey of medical image registration</ArticleTitle>
+                  <JournalTitle>Medical Image Analysis</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>36</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1361-8415(01)80026-8</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Maintz, J., Viergever, M.: A survey of medical image registration. Medical Image Analysis 2, 1–36 (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Angelini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O.</Initials>
+                    <FamilyName>Clatz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Mandonnet</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Konukoglu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Capelle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Duffau</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Glioma Dynamics and Computational Models: A Review of Segmentation, Registration, and In Silico Growth Algorithms and their Clinical Applications</ArticleTitle>
+                  <JournalTitle>Current Medical Imaging Reviews</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>176</FirstPage>
+                  <LastPage>262</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2174/157340507782446241</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Angelini, E., Clatz, O., Mandonnet, E., Konukoglu, E., Capelle, L., Duffau, H.: Glioma Dynamics and Computational Models: A Review of Segmentation, Registration, and In Silico Growth Algorithms and their Clinical Applications. Current Medical Imaging Reviews 3, 176–262 (2007)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Patriarche</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Erickson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">A Review of the Automated Detection of Change in Serial Imaging Studies of the Brain</ArticleTitle>
+                  <JournalTitle>J. Digit. Imaging</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>158</FirstPage>
+                  <LastPage>174</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10278-004-1010-x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Patriarche, J., Erickson, B.: A Review of the Automated Detection of Change in Serial Imaging Studies of the Brain. J. Digit. Imaging 17, 158–174 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Ettinger, G.J., Grimson, W.E.L., Lozano-Perez, T., Wells III, W.M., White, S.J., Kikinis, R.: Automatic registration for multiple sclerosis change detection. In: IEEE Workshop on Biomedical Image Analysis, Los Alamitos, CA, pp. 297–306 (1994)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Chui</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Win</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Schultz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.S.</Initials>
+                    <FamilyName>Duncan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Rangarajan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A unified non-rigid feature registration method for brain mapping</ArticleTitle>
+                  <JournalTitle>Med. Image. Anal.</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>113</FirstPage>
+                  <LastPage>130</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1361-8415(02)00102-0</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chui, H., Win, L., Schultz, R., Duncan, J.S., Rangarajan, A.: A unified non-rigid feature registration method for brain mapping. Med. Image. Anal. 7(2), 113–130 (2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Davatzikos, C., Prince, J.L.: Brain image registration based on curve mapping. In: IEEE Workshop on Biomedical Image Analysis, Los Alamitos, CA, pp. 245–254 (1994)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Davatzikos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.L.</Initials>
+                    <FamilyName>Prince</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.N.</Initials>
+                    <FamilyName>Bryan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Image registration based on boundary mapping</ArticleTitle>
+                  <JournalTitle>IEEE Transactions on Medical Imaging</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>112</FirstPage>
+                  <LastPage>115</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/42.481446</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Davatzikos, C., Prince, J.L., Bryan, R.N.: Image registration based on boundary mapping. IEEE Transactions on Medical Imaging 15(1), 112–115 (1996)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Douglas, N.G., Bruce, F.: Accurate and robust brain image alignment using boundary-based registration. Neuroimage (2009)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Christensen, G.E.: Inverse consistent registration with object boundary constraints. In: IEEE International Symposium on Biomedical Imaging, vol. 1, pp. 591–594 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Talairach, J., Tournoux, P.: Co-planar stereotaxic Atlas of the Human Brain. Thieme Medical Publishers (1988)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Verard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Allain</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.M.</Initials>
+                    <FamilyName>Travere</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.C.</Initials>
+                    <FamilyName>Baron</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Bloyet</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Fully Automatic Identification of AC and PC Landmarks on Brain MRI Using Scene Analysis</ArticleTitle>
+                  <JournalTitle>IEEE Transactions on Medical Imaging</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>610</FirstPage>
+                  <LastPage>616</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/42.640751</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Verard, L., Allain, P., Travere, J.M., Baron, J.C., Bloyet, D.: Fully Automatic Identification of AC and PC Landmarks on Brain MRI Using Scene Analysis. IEEE Transactions on Medical Imaging 16(5), 610–616 (1997)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Rohr</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Stiehl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Sprengel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Buzug</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Weese</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Kuhn</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Landmark-based elastic registration using approximating thin-plate splines</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Med. Img.</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>526</FirstPage>
+                  <LastPage>534</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/42.929618</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rohr, K., Stiehl, H., Sprengel, R., Buzug, T., Weese, J., Kuhn, M.: Landmark-based elastic registration using approximating thin-plate splines. IEEE Trans. Med. Img. 20(6), 526–534 (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.P.</Initials>
+                    <FamilyName>Thirion</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">New feature points based on geometric invariants for 3d image registration</ArticleTitle>
+                  <JournalTitle>Int. J. of Computer Vision</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>121</FirstPage>
+                  <LastPage>137</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00054999</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Thirion, J.P.: New feature points based on geometric invariants for 3d image registration. Int. J. of Computer Vision 18(2), 121–137 (1996)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.A.</Initials>
+                    <FamilyName>Viola</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.M.</Initials>
+                    <FamilyName>Wells</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Alignment by maximization of mutual information</ArticleTitle>
+                  <JournalTitle>International Journal of Computer Vision</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>137</FirstPage>
+                  <LastPage>154</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1007958904918</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Viola, P.A., Wells, W.M.: Alignment by maximization of mutual information. International Journal of Computer Vision 24(2), 137–154 (1997)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G.P.</Initials>
+                    <FamilyName>Penney</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Weese</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.A.</Initials>
+                    <FamilyName>Little</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Desmedt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.L.G.</Initials>
+                    <FamilyName>Hill</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.J.</Initials>
+                    <FamilyName>Hawkes</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">A comparison of similarity measures for use in 2-D-3-D medical image registration</ArticleTitle>
+                  <JournalTitle>IEEE Trans. on Med. Imaging</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>586</FirstPage>
+                  <LastPage>594</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/42.730403</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Penney, G.P., Weese, J., Little, J.A., Desmedt, P., Hill, D.L.G., Hawkes, D.J.: A comparison of similarity measures for use in 2-D-3-D medical image registration. IEEE Trans. on Med. Imaging 17, 586–594 (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Pluim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Maintz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Viergever</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Image registration by maximization of combined mutual information and gradient information</ArticleTitle>
+                  <JournalTitle>IEEE Trans. on Med. Imaging</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>809</FirstPage>
+                  <LastPage>814</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/42.876307</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pluim, J., Maintz, J., Viergever, M.: Image registration by maximization of combined mutual information and gradient information. IEEE Trans. on Med. Imaging 19(8), 809–814 (2000)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.M.</Initials>
+                    <FamilyName>Fitzpatrick</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.B.</Initials>
+                    <FamilyName>West</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.R.J.</Initials>
+                    <FamilyName>Maurer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Predicting error in rigid-body point-based registration</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Med. Imaging</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>694</FirstPage>
+                  <LastPage>702</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/42.736021</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fitzpatrick, J.M., West, J.B., Maurer, C.R.J.: Predicting error in rigid-body point-based registration. IEEE Trans. Med. Imaging 17, 694–702 (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Jenkinson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Smith</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">A global optimisation method for robust affine registration of brain images</ArticleTitle>
+                  <JournalTitle>Med. Image. Anal.</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>143</FirstPage>
+                  <LastPage>156</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1361-8415(01)00036-6</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jenkinson, M., Smith, S.: A global optimisation method for robust affine registration of brain images. Med. Image. Anal. 5(2), 143–156 (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Golub, G.H., Van Loan, C.F.: Matrix Computations. JHU Press (1996)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>R.M.</Initials>
+                    <FamilyName>Murray</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Sastry</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <BookTitle>A Mathematical Introduction to Robotic Manipulation</BookTitle>
+                  <PublisherName>CRC Press</PublisherName>
+                  <PublisherLocation>Boca Raton</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0858.70001</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Murray, R.M., Li, Z., Sastry, S.: A Mathematical Introduction to Robotic Manipulation. CRC Press, Boca Raton (1994)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

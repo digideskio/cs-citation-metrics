@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>The Chinese Society of Oceanography</PublisherName>
+    <PublisherLocation>Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>13131</JournalID>
+      <JournalPrintISSN>0253-505X</JournalPrintISSN>
+      <JournalElectronicISSN>1869-1099</JournalElectronicISSN>
+      <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Oceanol. Sin.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Earth Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Environmental Chemistry</JournalSubject>
+        <JournalSubject Type="Secondary">Ecology</JournalSubject>
+        <JournalSubject Type="Secondary">Engineering Fluid Dynamics</JournalSubject>
+        <JournalSubject Type="Secondary">Oceanography</JournalSubject>
+        <JournalSubject Type="Secondary">Marine &amp; Freshwater Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Climate Change</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>31</VolumeIDStart>
+        <VolumeIDEnd>31</VolumeIDEnd>
+        <VolumeIssueCount>6</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>16</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>1</Month>
+              <Day>18</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>1</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13131-012-0172-5" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>172</ArticleID>
+            <ArticleDOI>10.1007/s13131-012-0172-5</ArticleDOI>
+            <ArticleSequenceNumber>3</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Improvement and application of a saturation based wave dissipation function in SWAN model</ArticleTitle>
+            <ArticleFirstPage>24</ArticleFirstPage>
+            <ArticleLastPage>32</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>17</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>26</Day>
+              </Received>
+              <Accepted>
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Yi</GivenName>
+                  <FamilyName>Wang</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>wangyi@nmefc.gov.cn</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Xingwei</GivenName>
+                  <FamilyName>Jiang</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgName>Ocean University of China</OrgName>
+                <OrgAddress>
+                  <City>Qingdao</City>
+                  <Postcode>266100</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>National Marine Environmental Forecasting Center</OrgDivision>
+                <OrgName>State Ocean Administration</OrgName>
+                <OrgAddress>
+                  <City>Beijing</City>
+                  <Postcode>100081</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>National Satellite Ocean Application Service</OrgDivision>
+                <OrgName>State Oceanic Administration</OrgName>
+                <OrgAddress>
+                  <City>Beijing</City>
+                  <Postcode>100081</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Wave dissipation characteristics in SWAN (Simulating Waves Nearshore) model are investigated through numerical experiments. It is found that neither the fully developed integral parameters of wind waves (significant wave height and peak frequency) nor the high frequency spectral tail can be well reproduced by the default wave dissipation source terms. A new spectral dissipation source term is proposed, which comprises saturation based dissipation above two times of peak frequency and improved whitecapping dissipation at lower frequency spectrum. The reciprocal wave age (<Emphasis Type="Italic">u</Emphasis>
+                <Subscript>*</Subscript>/<Emphasis Type="Italic">c</Emphasis>
+                <Subscript>
+                  <Emphasis Type="Italic">p</Emphasis>
+                </Subscript>) is involved into the whitecapping model to adjust dissipation rate at different wind speed. The Phillips higher frequency saturation parameter in the saturation-based dissipation is no longer taken as a constant, but varies with wave age. Numerical validations demonstrate that both the wind wave generation process and higher frequency spectrum of wind waves can be well simulated by the new wave dissipation term.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>wind wave dissipation</Keyword>
+              <Keyword>higher frequency spectrum</Keyword>
+              <Keyword>SWAN</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Foundation item: The Public Science and Technology Research Funds Projects of Ocean, State Oceanic Administration of the People’s Republic of China, under contract No.201005033.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/13131_2012_Article_172.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. G. M.</Initials>
+                    <FamilyName>Alves</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. L.</Initials>
+                    <FamilyName>Banner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I. R.</Initials>
+                    <FamilyName>Young</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Revisiting the Pierson-Moskowitz asymptotic limits for fully developed wind waves</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <FirstPage>1301</FirstPage>
+                  <LastPage>1323</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(2003)033&lt;1301:RTPALF&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Alves J G M, Banner M L, Young I R. 2003. Revisiting the Pierson-Moskowitz asymptotic limits for fully developed wind waves. J Phys Oceanogr, 33: 1301–1323</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. H. G. M.</Initials>
+                    <FamilyName>Alves</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. L.</Initials>
+                    <FamilyName>Banner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Performance of a saturation based dissipation-rate source term in modeling the fetch-limited evolution of wind waves</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <FirstPage>1274</FirstPage>
+                  <LastPage>1298</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(2003)033&lt;1274:POASDS&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Alves J H G M, Banner M L. 2003. Performance of a saturation based dissipation-rate source term in modeling the fetch-limited evolution of wind waves. J Phys Oceanogr, 33: 1274–1298</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Ardhuin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Chapron</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Collard</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Observation of swell dissipation across oceans</ArticleTitle>
+                  <JournalTitle>Geophys Res Lett</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <FirstPage>L06607</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2008GL037030</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ardhuin F, Chapron B, Collard F. 2009. Observation of swell dissipation across oceans. Geophys Res Lett, 36, L06607</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. V.</Initials>
+                    <FamilyName>Babanin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y. P.</Initials>
+                    <FamilyName>Soloviev</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Field Investigation of transformation of the wind wave frequency spectrum with fetch and the stage of development</ArticleTitle>
+                  <JournalTitle>J phys Oceanogr</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>563</FirstPage>
+                  <LastPage>576</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1998)028&lt;0563:FIOTOT&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Babanin A V, Soloviev YU P. 1998. Field Investigation of transformation of the wind wave frequency spectrum with fetch and the stage of development. J phys Oceanogr, 28: 563–576</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. V.</Initials>
+                    <FamilyName>Babanin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. J.</Initials>
+                    <FamilyName>westhuysen</FamilyName>
+                    <Particle>Van der</Particle>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Physics of “saturation based” dissipation functions proposed for wave forecast models</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <FirstPage>1831</FirstPage>
+                  <LastPage>1841</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/2007JPO3874.1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Babanin A V, Van der westhuysen A J. 2008. Physics of “saturation based” dissipation functions proposed for wave forecast models. J Phys Oceanogr, 38: 1831–1841</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M. L.</Initials>
+                    <FamilyName>Banner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. V.</Initials>
+                    <FamilyName>Babanin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I. R.</Initials>
+                    <FamilyName>Young</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Breaking probability for dominant waves on the sea surface</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>3145</FirstPage>
+                  <LastPage>3160</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(2000)030&lt;3145:BPFDWO&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Banner M L, Babanin A V, Young I R. 2000. Breaking probability for dominant waves on the sea surface. J Phys Oceanogr, 30: 3145–3160</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M. L.</Initials>
+                    <FamilyName>Banner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I. R.</Initials>
+                    <FamilyName>Young</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Modeling spectral dissipation in the evolution of wind waves Part I: Assesment of existing model performance</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>1550</FirstPage>
+                  <LastPage>1571</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1994)024&lt;1550:MSDITE&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Banner M L, Young I R. 1994. Modeling spectral dissipation in the evolution of wind waves Part I: Assesment of existing model performance. J Phys Oceanogr, 24: 1550–1571</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Booij</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L. H.</Initials>
+                    <FamilyName>Holthuijsen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Propagation of ocean waves in discrete spectral wave models</ArticleTitle>
+                  <JournalTitle>J Comput Phys</JournalTitle>
+                  <VolumeID>68</VolumeID>
+                  <FirstPage>307</FirstPage>
+                  <LastPage>326</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0021-9991(87)90060-X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Booij N, Holthuijsen L H. 1987. Propagation of ocean waves in discrete spectral wave models. J Comput Phys, 68: 307–326</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <BibUnstructured>Gunther H, Hasselmann S, Janssen P A E M. 1992. The WAM model Cycle 4. Hamburg: Deutsch Klim Rechenzentrum, Techn Rep No. 4</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <Year>1974</Year>
+                  <ArticleTitle Language="En">On the spectral disspation of ocean waves due to whitecapping</ArticleTitle>
+                  <JournalTitle>Bound-Layer Meteor</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>107</FirstPage>
+                  <LastPage>127</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00232479</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hasselmann K. 1974. On the spectral disspation of ocean waves due to whitecapping. Bound-Layer Meteor, 6: 107–127</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Computations and Parameterizations of the Nonlinear Energy Transfer in a Gravity-Wave Spectrum. Part I: A New Method for Efficient Computations of the Exact Nonlinear Transfer Integral</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>1369</FirstPage>
+                  <LastPage>1377</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1985)015&lt;1369:CAPOTN&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hasselmann S, Hasselmann K. 1985a. Computations and Parameterizations of the Nonlinear Energy Transfer in a Gravity-Wave Spectrum. Part I: A New Method for Efficient Computations of the Exact Nonlinear Transfer Integral. J Phys Oceanogr, 15: 1369–1377</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. H.</Initials>
+                    <FamilyName>Allender</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Computations and Parameterizations of the Nonlinear Energy Transfer in a Gravity-Wave Specturm. Part II: Parameterizations of the nonlinear energy Transfer for Application in wave models</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>1378</FirstPage>
+                  <LastPage>1391</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1985)015&lt;1378:CAPOTN&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hasselmann S, Hasselmann K, Allender J H, et al. 1985b. Computations and Parameterizations of the Nonlinear Energy Transfer in a Gravity-Wave Specturm. Part II: Parameterizations of the nonlinear energy Transfer for Application in wave models. J Phys Oceanogr, 15: 1378–1391</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>P. A. E. M.</Initials>
+                    <FamilyName>Janssen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>The Interaction of Ocean Waves and Wind</BookTitle>
+                  <PublisherName>Cambridge University Press</PublisherName>
+                  <PublisherLocation>Cambridge</PublisherLocation>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1017/CBO9780511525018</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Janssen P A E M. 2004. The Interaction of Ocean Waves and Wind. Cambridge: Cambridge University Press</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P. E. A. M.</Initials>
+                    <FamilyName>Janssen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">Wave-Induced Stress and the Drag of Air Flow over Sea Waves</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>745</FirstPage>
+                  <LastPage>754</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1989)019&lt;0745:WISATD&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Janssen P E A M. 1989. Wave-Induced Stress and the Drag of Air Flow over Sea Waves. J Phys Oceanogr, 19: 745–754</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P. E. A. M.</Initials>
+                    <FamilyName>Janssen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Quasi-linear Theory of Wind-Wave Generation Applied to Wave Forecasting</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <FirstPage>1631</FirstPage>
+                  <LastPage>1642</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1991)021&lt;1631:QLTOWW&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Janssen P E A M. 1991. Quasi-linear Theory of Wind-Wave Generation Applied to Wave Forecasting. J Phys Oceanogr, 21: 1631–1642</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K. K.</Initials>
+                    <FamilyName>Kahma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C. J.</Initials>
+                    <FamilyName>Calkoen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Reconciling discrepancies in the observed growth of wind-generated waves</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>1389</FirstPage>
+                  <LastPage>1405</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1992)022&lt;1389:RDITOG&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kahma K K, Calkoen C J. 1992. Reconciling discrepancies in the observed growth of wind-generated waves. J Phys Oceanogr, 22: 1389–1405</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>G. J.</Initials>
+                    <FamilyName>Komen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Cavaleri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Donelan</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1994</Year>
+                  <BookTitle>Dynamics and Modelling of Ocean Waves</BookTitle>
+                  <PublisherName>Cambridge University Press</PublisherName>
+                  <PublisherLocation>Cambridge</PublisherLocation>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1017/CBO9780511628955</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Komen G J, Cavaleri L, Donelan M, et al. 1994. Dynamics and Modelling of Ocean Waves. Cambridge: Cambridge University Press</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G. J.</Initials>
+                    <FamilyName>Komen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">On the existence of a fully developed windsea spectrum</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>1271</FirstPage>
+                  <LastPage>1285</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1984)014&lt;1271:OTEOAF&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Komen G J, Hasselmann K, Hasselmann S. 1984. On the existence of a fully developed windsea spectrum. J Phys Oceanogr, 14: 1271–1285</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. R. W. J.</Initials>
+                    <FamilyName>Pierson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Moskowitz</FamilyName>
+                  </BibAuthorName>
+                  <Year>1964</Year>
+                  <ArticleTitle Language="En">A Proposed Spectral Form for Fully Developed Wind Seas Based on the Similarity Theory of S A Kitaigorodskii</ArticleTitle>
+                  <JournalTitle>J Geophys Res</JournalTitle>
+                  <VolumeID>69</VolumeID>
+                  <FirstPage>5181</FirstPage>
+                  <LastPage>5190</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/JZ069i024p05181</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pierson J R W J, Moskowitz L. 1964. A Proposed Spectral Form for Fully Developed Wind Seas Based on the Similarity Theory of S A Kitaigorodskii. J Geophys Res, 69: 5181–5190</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W. E.</Initials>
+                    <FamilyName>Rogers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P. A.</Initials>
+                    <FamilyName>Hwang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D. W.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Investigation of wave growth and decay in the SWAN model: three regional-scale applications</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <FirstPage>366</FirstPage>
+                  <LastPage>389</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(2003)033&lt;0366:IOWGAD&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rogers W E, Hwang P A, Wang D W. 2003. Investigation of wave growth and decay in the SWAN model: three regional-scale applications. J Phys Oceanogr, 33: 366–389</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R. L.</Initials>
+                    <FamilyName>Snyder</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F. W.</Initials>
+                    <FamilyName>Dobson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. A.</Initials>
+                    <FamilyName>Elliott</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">Array measurements of atmospheric pressure fluctuations above surface gravity waves</ArticleTitle>
+                  <JournalTitle>J Fluid Mech</JournalTitle>
+                  <VolumeID>102</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>59</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1017/S0022112081002528</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Snyder R L, Dobson F W, Elliott J A, et al. 1981. Array measurements of atmospheric pressure fluctuations above surface gravity waves. J Fluid Mech, 102: 1–59</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <BibArticle>
+                  <InstitutionalAuthorName>The WISE Group.</InstitutionalAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Wave modelling-the state of the art</ArticleTitle>
+                  <JournalTitle>Progress in Oceanography</JournalTitle>
+                  <VolumeID>75</VolumeID>
+                  <FirstPage>603</FirstPage>
+                  <LastPage>674</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.pocean.2007.05.005</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>The WISE Group. 2007. Wave modelling-the state of the art. Progress in Oceanography, 75: 603–674</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <BibUnstructured>Tolman H L. 2009. User manual and system documentation of WAVEWATCH III? version 314 NOAA /NWS/NCEP/MMAB Technical Note 276</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. J.</Initials>
+                    <FamilyName>westhuysen</FamilyName>
+                    <Particle>Van der</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Zijlema</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. A.</Initials>
+                    <FamilyName>Battjes</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Nonlinear saturation based whitecapping dissipation in SWAN for deep and shallow water</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>54</VolumeID>
+                  <FirstPage>151</FirstPage>
+                  <LastPage>170</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.coastaleng.2006.08.006</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Van der westhuysen A J, Zijlema M, Battjes J A. 2007. Nonlinear saturation based whitecapping dissipation in SWAN for deep and shallow water. Coastal Engineering, 54: 151–170</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <BibArticle>
+                  <InstitutionalAuthorName>WAMDI Group.</InstitutionalAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">The WAM Model-A Third Generation Ocean Wave Prediction Model</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>1775</FirstPage>
+                  <LastPage>1810</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1988)018&lt;1775:TWMTGO&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>WAMDI Group. 1988. The WAM Model-A Third Generation Ocean Wave Prediction Model. J Phys Oceanogr, 18: 1775–1810</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <BibUnstructured>Yan L. 1987. An improved wind input source term for third generation ocean wave modelling. The Netherlands: Scientific report WR-No 87-8</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I. R.</Initials>
+                    <FamilyName>Young</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. V.</Initials>
+                    <FamilyName>Babanin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Spectral distribution of energy dissipation of wind-generated waves due to dominant wave breaking</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <FirstPage>376</FirstPage>
+                  <LastPage>394</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/JPO2859.1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Young I R, Babanin A V. 2006. Spectral distribution of energy dissipation of wind-generated waves due to dominant wave breaking. J Phys Oceanogr, 36: 376–394</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

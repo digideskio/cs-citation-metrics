@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>BioMed Central</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+    <PublisherImprintName>BioMed Central</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="Online">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12911</JournalID>
+      <JournalElectronicISSN>1472-6947</JournalElectronicISSN>
+      <JournalTitle>BMC Medical Informatics and Decision Making</JournalTitle>
+      <JournalSubTitle>BMC series – open, inclusive and trusted</JournalSubTitle>
+      <JournalAbbreviatedTitle>BMC Med Inform Decis Mak</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH28009" Priority="1" Type="Secondary">Health Informatics</JournalSubject>
+        <JournalSubject Code="SCI18008" Priority="2" Type="Secondary">Information Systems and Communication Service</JournalSubject>
+        <JournalSubject Code="SCI24067" Priority="3" Type="Secondary">Management of Computing and Information Systems</JournalSubject>
+        <SubjectCollection Code="Medicine">SC11</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="Online">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>16</VolumeIDStart>
+        <VolumeIDEnd>16</VolumeIDEnd>
+        <VolumeIssueCount>1</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="Online">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>0</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>12</Month>
+            </CoverDate>
+            <PricelistYear>2016</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Author(s)</CopyrightHolderName>
+            <CopyrightYear>2016</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s12911-016-0255-x" OutputMedium="Online">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="Yes" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>255</ArticleID>
+            <ArticleDOI>10.1186/s12911-016-0255-x</ArticleDOI>
+            <ArticleCitationID>18</ArticleCitationID>
+            <ArticleSequenceNumber>18</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Modelling and extraction of variability in free-text medication prescriptions from an anonymised primary care electronic medical record research database</ArticleTitle>
+            <ArticleCategory>Research article</ArticleCategory>
+            <ArticleCollection ID="AC_ea62e35caaebe1f8b4c9d9f1546a44b6" Type="SubjectSection">
+              <ArticleCollectionTitle>Healthcare Information Systems</ArticleCollectionTitle>
+            </ArticleCollection>
+            <ArticleFirstPage>1</ArticleFirstPage>
+            <ArticleLastPage>10</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+              </Received>
+              <Accepted>
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleFundingInformation>
+              <Fund>
+                <FunderName FundRefID="http://dx.doi.org/http://dx.doi.org/10.13039/501100000341">Arthritis Research UK (GB)</FunderName>
+              </Fund>
+              <Fund>
+                <FunderName FundRefID="http://dx.doi.org/http://dx.doi.org/10.13039/501100000265">Medical Research Council (GB)</FunderName>
+              </Fund>
+              <Fund>
+                <FunderName FundRefID="http://dx.doi.org/http://dx.doi.org/10.13039/501100000265">Medical Research Council (GB)</FunderName>
+              </Fund>
+            </ArticleFundingInformation>
+            <ArticleCopyright>
+              <CopyrightHolderName>Karystianis et al.</CopyrightHolderName>
+              <CopyrightYear>2016</CopyrightYear>
+              <License SubType="CC BY + CC0" Type="OpenAccess" Version="4.0">
+                <SimplePara>
+                           <Emphasis Type="Bold">Open Access</Emphasis>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ExternalRef>
+                    <RefSource>http://creativecommons.org/licenses/by/4.0/</RefSource>
+                    <RefTarget Address="http://creativecommons.org/licenses/by/4.0/" TargetType="URL"/>
+                  </ExternalRef>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ExternalRef>
+                    <RefSource>http://creativecommons.org/publicdomain/zero/1.0/</RefSource>
+                    <RefTarget Address="http://creativecommons.org/publicdomain/zero/1.0/" TargetType="URL"/>
+                  </ExternalRef>) applies to the data made available in this article, unless otherwise stated.</SimplePara>
+              </License>
+            </ArticleCopyright>
+            <ArticleGrants Type="OpenChoice">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2" ID="Au1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>George</GivenName>
+                  <FamilyName>Karystianis</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff3" ID="Au2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Therese</GivenName>
+                  <FamilyName>Sheppard</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff3 Aff4" ID="Au3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>William</GivenName>
+                  <GivenName>G.</GivenName>
+                  <FamilyName>Dixon</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff4 Aff5" CorrespondingAffiliationID="Aff5" ID="Au4">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Goran</GivenName>
+                  <FamilyName>Nenadic</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>g.nenadic@manchester.ac.uk</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>School of Computer Science</OrgDivision>
+                <OrgName>University of Manchester</OrgName>
+                <OrgAddress>
+                  <City>Manchester</City>
+                  <Country Code="GB">UK</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName>The Christie NHS Foundation Trust</OrgName>
+                <OrgAddress>
+                  <City>Manchester</City>
+                  <Country Code="GB">UK</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>Arthritis Research UK Centre for Epidemiology</OrgDivision>
+                <OrgName>University of Manchester</OrgName>
+                <OrgAddress>
+                  <City>Manchester</City>
+                  <Country Code="GB">UK</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff4">
+                <OrgDivision>The Farr Institute of Health Informatics Research</OrgDivision>
+                <OrgName>Health eResearch Centre</OrgName>
+                <OrgAddress>
+                  <City>Manchester</City>
+                  <Country Code="GB">UK</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff5">
+                <OrgDivision>Manchester Institute of Biotechnology</OrgDivision>
+                <OrgName>University of Manchester</OrgName>
+                <OrgAddress>
+                  <City>Manchester</City>
+                  <Country Code="GB">UK</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <AbstractSection ID="ASec1">
+                <Heading>Background</Heading>
+                <Para ID="Par1">Free-text medication prescriptions contain detailed instruction information that is key when preparing drug data for analysis. The objective of this study was to develop a novel model and automated text-mining method to extract detailed structured medication information from free-text prescriptions and explore their variability (e.g. optional dosages) in primary care research databases.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2">
+                <Heading>Methods</Heading>
+                <Para ID="Par2">We introduce a prescription model that provides minimum and maximum values for dose number, frequency and interval, allowing modelling variability and flexibility within a drug prescription. We developed a text mining system that relies on rules to extract such structured information from prescription free-text dosage instructions. The system was applied to medication prescriptions from an anonymised primary care electronic record database (Clinical Practice Research Datalink, CPRD).</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3">
+                <Heading>Results</Heading>
+                <Para ID="Par3">We have evaluated our approach on a test set of 220 CPRD prescription free-text directions. The system achieved an overall accuracy of 91 % at the prescription level, with 97 % accuracy across the attribute levels. We then further analysed over 56,000 most common free text prescriptions from CPRD records and found that 1 in 4 has inherent variability, i.e. a choice in taking medication specified by different minimum and maximum doses, duration or frequency.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec4">
+                <Heading>Conclusions</Heading>
+                <Para ID="Par4">Our approach provides an accurate, automated way of coding prescription free text information, including information about flexibility and variability within a prescription. The method allows the researcher to decide how best to prepare the prescription data for drug efficacy and safety analyses in any given setting, and test various scenarios and their impact.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Text mining</Keyword>
+              <Keyword>Natural language processing</Keyword>
+              <Keyword>Dose information</Keyword>
+              <Keyword>Prescriptions</Keyword>
+              <Keyword>CPRD</Keyword>
+            </KeywordGroup>
+            <AbbreviationGroup>
+              <Heading>Abbreviations</Heading>
+              <DefinitionList>
+                <DefinitionListEntry>
+                  <Term>CPRD</Term>
+                  <Description>
+                    <Para ID="Par5">Clinical Practice Research Datalink</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>EHR</Term>
+                  <Description>
+                    <Para ID="Par6">Electronic health record</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>CRF</Term>
+                  <Description>
+                    <Para ID="Par7">Conditional random field</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>SVM</Term>
+                  <Description>
+                    <Para ID="Par8">Support vector machine</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>MedXN</Term>
+                  <Description>
+                    <Para ID="Par9">Medication extraction and normalization system</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>dn_min</Term>
+                  <Description>
+                    <Para ID="Par10">Minimum dose number</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>dn_max</Term>
+                  <Description>
+                    <Para ID="Par11">Maximum dose number</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>df_min</Term>
+                  <Description>
+                    <Para ID="Par12">Minimum dose frequency</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>df_max</Term>
+                  <Description>
+                    <Para ID="Par13">Maximum dose frequency</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>di_min</Term>
+                  <Description>
+                    <Para ID="Par14">Minimum dose interval</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>di_max</Term>
+                  <Description>
+                    <Para ID="Par15">Maximum dose interval</Para>
+                  </Description>
+                </DefinitionListEntry>
+              </DefinitionList>
+            </AbbreviationGroup>
+            <ArticleNote Type="ESMHint">
+              <Heading>Electronic supplementary material</Heading>
+              <SimplePara>The online version of this article (doi:<ExternalRef>
+                  <RefSource>10.1186/s12911-016-0255-x</RefSource>
+                  <RefTarget Address="10.1186/s12911-016-0255-x" TargetType="DOI"/>
+                </ExternalRef>) contains supplementary material, which is available to authorized users.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Background</Heading>
+              <Para ID="Par16">Electronic health records (EHRs) are becoming widely adopted in national healthcare systems in both primary and secondary care. By collecting and aggregating data from anonymised EHRs, research databases have been established to support large-scale epidemiological analysis: for example, the Clinical Practice Research Datalink (CPRD, <ExternalRef>
+                  <RefSource>http://www.cprd.com/</RefSource>
+                  <RefTarget Address="http://www.cprd.com/" TargetType="URL"/>
+                </ExternalRef>) provides comprehensive longitudinal primary care data for over 11 million UK patients to support observational research, making it the world’s largest computerized healthcare database [<CitationRef CitationID="CR1">1</CitationRef>]. Examples of research supported by CPRD include drug utilisation studies [<CitationRef CitationID="CR2">2</CitationRef>], pharmacoepidemiology [<CitationRef CitationID="CR3">3</CitationRef>] and health services research [<CitationRef CitationID="CR4">4</CitationRef>]. Analysis of population data within such databases is often dependent on coded or structured information. For example, data on medication prescriptions include structured and coded information about variables like date of prescription, medication type, dosage and number of tablets. However, large parts of EHRs are un- or semi-structured. During medication prescribing, the doctor is able to provide free text directions to the patient indicating some details that are not coded (e.g. an option to take a tablet when needed up to a maximum number of times a day). In order to utilise this information in large population analysis, additional processing to extract structured information is required. In many cases, manual efforts have been undertaken to identify and extract key information, but such approaches are extremely time consuming and often inconsistent and incomplete [<CitationRef CitationID="CR5">5</CitationRef>–<CitationRef CitationID="CR7">7</CitationRef>]. In this manuscript we present an automated methodology to extract and represent prescription instruction information in a structured form, capturing, in particular, the variability and flexibility of dosage information. For example, instruction ‘two tablets up to three times a day’, could mean 0, 2, 4 or 6 tablets and we here propose an approach to model, identify and record flexibility in drug directions as prescribed by doctors. Our main motivation is to support researchers in making transparent decisions when preparing prescription data for further processing.</Para>
+              <Para ID="Par17">To identify key clinical information from unstructured and semi-structured text, automated text mining has been used for over 30 years [<CitationRef CitationID="CR8">8</CitationRef>–<CitationRef CitationID="CR11">11</CitationRef>]. It relies on various lexical, syntactic and semantic techniques in order to recognise and link various concepts [<CitationRef CitationID="CR12">12</CitationRef>–<CitationRef CitationID="CR14">14</CitationRef>]. Methods have been applied to discharge summaries, clinical notes, reports, health records and journal articles [<CitationRef CitationID="CR15">15</CitationRef>–<CitationRef CitationID="CR18">18</CitationRef>], and the results – despite numerous challenges – have demonstrated the potential of text mining to streamline data collection, improve healthcare, decrease health costs, reduce the risk of medical errors and enhance medical understanding [<CitationRef CitationID="CR18">18</CitationRef>–<CitationRef CitationID="CR21">21</CitationRef>].</Para>
+              <Para ID="Par18">There have been a number of studies that specifically focused on the extraction of medications from clinical text [<CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR23">23</CitationRef>]. These have mostly focused on the identification of textual expressions that refer to drug usage, extracting characteristics such as medication dose (e.g., “<Emphasis Type="Italic">2 tablets”, “5 ml”</Emphasis>), mode of administration (e.g., “<Emphasis Type="Italic">orally”</Emphasis>), frequency (e.g., “<Emphasis Type="Italic">every two hours”</Emphasis>) and duration (e.g., “<Emphasis Type="Italic">for 2 days”</Emphasis>). However, the aim was often to identify mentions of these characteristics in text, rather than to convert them into structured values that can be used directly for data analytics or epidemiological research. This is in particular important in cases where prescriptions have an optional dose (e.g., “<Emphasis Type="Italic">2-3 tablets”</Emphasis>), optional frequency (e.g., “<Emphasis Type="Italic">twice a day as required”</Emphasis>) or an interval gap between the medication administration (e.g., “<Emphasis Type="Italic">every other day”</Emphasis>). In these cases, existing text mining approaches do not aim to provide full information in a structured form (e.g., that a tablet is to be taken either 2 or 3 times), but rather extract <Emphasis Type="Italic">textual spans</Emphasis> that need further processing in order to identify the options. For example, from <Emphasis Type="Italic">“2-4 tablets each morning as needed”</Emphasis>, existing approaches would extract “<Emphasis Type="Italic">2-4 tablets</Emphasis>” as dose number, without specifying that the patient has an option to take between 2 (minimum dose number) and 4 (maximum dose number), or even to skip it completely (“<Emphasis Type="Italic">as needed”</Emphasis>). Having this detailed information explicitly represented and extracted is key for allowing healthcare data analysts to study the impact of different prescription options and plans. For example, “<Emphasis Type="Italic">take 1-2 tablets per day</Emphasis>” can be used to analyse the effects of using a minimum dose of 1 or a maximum dose of 2 tablets, rather than assuming that the patient will take an average of 1.5 tablets each day.</Para>
+              <Para ID="Par19">This paper presents a novel approach to model and extract structured detailed values that represent the prescribed drug usage to support subsequent epidemiological studies. Specifically, we introduce a model to represent the variability and flexibility in drug directions, including minimum and maximum values for drug dosage, frequency and interval of administration, as well as optional choices. We also present a text mining system that enables the identification and structuring of the model components, and evaluate its performance on a subset of the CPRD prescription records. Using the system, we then provide descriptive statistics of the medication information variability having run the tool on a set of 56,000 most common free text instructions from the CPRD database.</Para>
+              <Section2 ID="Sec2">
+                <Heading>Related work</Heading>
+                <Para ID="Par20">There are several approaches to the extraction of medication information from unstructured clinical notes. One of the early examples is that of Evans and colleagues [<CitationRef CitationID="CR5">5</CitationRef>], who introduced a rule-based approach that identified targeted dose information (dose level and frequency, duration, rate, necessity, purpose, quantity) from discharge summaries with a relatively good performance (an accuracy of 80 %). More recently, the identification of medication mentions and corresponding attributes (dose, mode of administration, frequency, duration and reason for administration) in hospital discharge summaries was a focus of the 2009 i2b2 Clinical Data Challenge, which attracted 19 international teams with different methodologies ranging from rule-based systems to machine learning [<CitationRef CitationID="CR24">24</CitationRef>]. A number of systems (e.g. [<CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR23">23</CitationRef>, <CitationRef CitationID="CR25">25</CitationRef>]) utilized rule-based methods and reported F-scores (the harmonic mean of precision (i.e. positive predictive value) and recall (i.e. sensitivity)) between 78 % and 86 %. Patrick et al. [<CitationRef CitationID="CR9">9</CitationRef>], on the other hand, relied on machine learning techniques (conditional random fields (CRFs) and support vector machines (SVMs)) with an overall 86 % F-score. Following the challenge, Doan et al. [<CitationRef CitationID="CR26">26</CitationRef>] applied various classifiers with different voting strategies in order to combine outputs from three individual classifiers (a rule-based system, SVM and CRF) with an F-score of 91 %. More recently, Sohn et al. [<CitationRef CitationID="CR27">27</CitationRef>] described a medication extraction and normalization system (MedXN) that is based on the RxNorm dictionary combined with inference rules. They aimed to identify various components of medication prescriptions from clinical notes including drug dosage and frequency with a 92 % and 84 % F-scores respectively. Finally, MacKinlay et al. [<CitationRef CitationID="CR28">28</CitationRef>] proposed a dependency graph-based system for the recognition of dosage information such as the minimum and maximum dose numbers and the dose unit with an overall accuracy of 80 %, optional doses with 88 % accuracy and the dose frequency with 90 % accuracy. However, they have not focused on the identification of the minimum and maximum dose frequency, nor the minimum and maximum dose interval.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Methods</Heading>
+              <Section2 ID="Sec4">
+                <Heading>Prescription data model</Heading>
+                <Para ID="Par21">The CPRD database contains over 56,000 most common free-text prescription rubrics that GPs have used to instruct administration of medications. Examples include:<Table Float="No" ID="Taba">
+                    <tgroup cols="2">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <tbody>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>
+                              <Emphasis Type="Italic">one every 8 hrs</Emphasis>
+                            </SimplePara>
+                            <SimplePara>
+                              <Emphasis Type="Italic">5mls daily when required</Emphasis>
+                            </SimplePara>
+                            <SimplePara>
+                              <Emphasis Type="Italic">two drops every 3 hrs when required</Emphasis>
+                            </SimplePara>
+                            <SimplePara>
+                              <Emphasis Type="Italic">apply sparingly 1-2 times daily</Emphasis>
+                            </SimplePara>
+                            <SimplePara>
+                              <Emphasis Type="Italic">up to three 5 ml spoonsful to be taken twice a day</Emphasis>
+                            </SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>
+                              <Emphasis Type="Italic">one drop once daily l eye</Emphasis>
+                            </SimplePara>
+                            <SimplePara>
+                              <Emphasis Type="Italic">four times a day if needed</Emphasis>
+                            </SimplePara>
+                            <SimplePara>
+                              <Emphasis Type="Italic">one to be applied two times week</Emphasis>
+                            </SimplePara>
+                            <SimplePara>
+                              <Emphasis Type="Italic">two times every week when required</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </Table>
+                        </Para>
+                <Para ID="Par22">We note that prescription directions do not contain information about the prescribed drug itself, nor do they typically specify mode and reason for it being prescribed; this information is however available in other structured attributes in the database and can be therefore easily retrieved. We also note that access to data from CPRD is subject to a full licence agreement and an Independent Scientific Advisory Committee approval.</Para>
+                <Para ID="Par23">In order to comprehensively represent the information in free-text medication prescriptions, we have designed and developed a model that records the following four attributes: dose number, dose frequency, dose interval and dose unit.</Para>
+                <Para ID="Par24">
+                           <Emphasis Type="Italic">Dose number</Emphasis> is the number of medication units taken in a single dose. We record the minimum and maximum dose number as prescribed, along with the <Emphasis Type="Italic">dose unit</Emphasis> (e.g., <Emphasis Type="Italic">capsule</Emphasis>, <Emphasis Type="Italic">tablet</Emphasis>), which represents the item of medication taken. If there is a choice left as to how much the patient can take, the values for the minimum and maximum will be different; otherwise these will be equal. For example, expression <Emphasis Type="Italic">“2-4 tablets”</Emphasis> is represented as a minimum dose of 2 and a maximum dose of 4, with “<Emphasis Type="Italic">tablet”</Emphasis> as the unit. In expression “<Emphasis Type="Italic">5 ml”,</Emphasis> both the minimum and maximum dose will be set to 5, with “<Emphasis Type="Italic">ml”</Emphasis> set as the unit. If there is an option not to take medication (e.g., “<Emphasis Type="Italic">up to 2 tablets”</Emphasis>), the minimum dose is set to 0.</Para>
+                <Para ID="Par25">
+                           <Emphasis Type="Italic">Dose frequency</Emphasis> represents the number of times the dose is taken in the dose interval – we use day as the default interval for the medication administration unless it has been stated otherwise (see below). For example, if a medication is taken every 4 h, then the frequency is 6 times per day. We record the minimum and maximum dose frequency. For example, in the expression “<Emphasis Type="Italic">3-4 times</Emphasis>”, the minimum frequency is 3 (times per day), and the maximum frequency is 4. If there is no choice, the value for both the minimum and maximum is the same. In cases where the prescription offers an option to take medication if/when required (e.g., “<Emphasis Type="Italic">take one every day when required”</Emphasis>), the minimum frequency is set to 0.</Para>
+                <Para ID="Par26">
+                           <Emphasis Type="Italic">Dose interval</Emphasis> is the time interval to which the dose frequency applies. For example, if a medication is taken daily, then the interval refers to the daily application. We use “daily” as the main (default) unit; if a medication is taken weekly, then the interval is 7 days. We record the minimum and maximum dose interval. For example, in the expression “<Emphasis Type="Italic">every 3 to 5 days</Emphasis>”, the minimum interval is 3 (days), and the maximum interval is 5. If there is no choice, the value for the minimum and maximum will be the same. For example, if a medication is taken on alternate days, the minimum and maximum dose intervals are set to 2 days between the administrations of the medication.</Para>
+                <Para ID="Par27">Table <InternalRef RefID="Tab1">1</InternalRef> provides examples of prescriptions with their respective representation in our model. In cases when certain information is not available (i.e. not expressed in the prescription), we use ‘?’ to record an unspecified value. Note, however, that in cases where the dose interval is missing, we assume that it is “daily” (unless the prescription refers to another source (e.g. <Emphasis Type="Italic">“as directed”</Emphasis>)).<Table Float="Yes" ID="Tab1">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Examples of prescription instructions represented in our model</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="8">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <colspec align="left" colname="c6" colnum="6"/>
+                      <colspec align="left" colname="c7" colnum="7"/>
+                      <colspec align="left" colname="c8" colnum="8"/>
+                      <thead>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Prescription</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>dn_min</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>dn_max</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>df_min</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>df_max</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>di_min</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>di_max</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>dose unit</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>take 2 tablets 4 times a day</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>4</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>4</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>tablet</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>2 tabs qid</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>4</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>4</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>tablet</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>a half to one tablet to 2 three times a day when required</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>0.5</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>3</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>tablet</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>10 mg to be taken weekly</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>10</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>10</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>7</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>7</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>mg</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>2 with each meal</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>3</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>3</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>?</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>take 2.5 ml twice a day</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>2.5</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>2.5</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>ml</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>half a tablet twice a day when required</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>0.5</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0.5</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>tablet</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>2 puffs 6 hrly prn</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>4</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>puff</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>1 to 3 every day</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>3</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>?</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>one or two to be taken every 4 to 6 hours</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>4</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>6</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>?</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>take as directed</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>?</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>?</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>?</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>?</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>-</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>apply as needed</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>?</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>?</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>-</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>
+                                    <Emphasis Type="Italic">dn_min</Emphasis> is dose number (minimum), <Emphasis Type="Italic">dn_max</Emphasis> is dose number (maximum), <Emphasis Type="Italic">df_min</Emphasis> is dose frequency (minimum), <Emphasis Type="Italic">df_max</Emphasis> is dose frequency (maximum), <Emphasis Type="Italic">di_min</Emphasis> is dose interval (minimum), <Emphasis Type="Italic">di_max</Emphasis> is dose interval (maximum). Additional file <InternalRef RefID="MOESM1">1</InternalRef>: Table S1 contains examples of frequent Latin abbreviations</SimplePara>
+                    </tfooter>
+                  </Table>
+                        </Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Extraction of dosage information</Heading>
+                <Para ID="Par28">Medication prescriptions recorded in rubrics are often dense with information, some of which can be ambiguous due to abbreviations, often of Latin nomenclature such as <Emphasis Type="Italic">“tds”</Emphasis> (Lat. <Emphasis Type="Italic">ter die sumendus,</Emphasis> three times per day, see Additional file <InternalRef RefID="MOESM1">1</InternalRef>: Table S1 for common examples), and confusing (numerical) lists of value (e.g., “<Emphasis Type="Italic">take 2 3 4 times per day</Emphasis>”). In addition, they often contain a number of typographical errors and misspellings.</Para>
+                <Para ID="Par29">A rule-based system was designed and implemented for the extraction of detailed prescription information. The approach has two steps (Fig. <InternalRef RefID="Fig1">1</InternalRef>). In the first step, a set of dictionaries and rules are applied to the free-text prescription aiming to identify and populate candidate values in the model instance for that prescription. In the second step, a number of <Emphasis Type="Italic">meta</Emphasis>-<Emphasis Type="Italic">rules</Emphasis> are applied to provide consistency, set defaults for missing values or correct any values regarded as likely to be incorrect. These steps are explained below.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>The two-step approach for the extraction of structured dose information from CPRD prescription instructions</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/12911_2016_255_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                        </Para>
+                <Section3 ID="Sec6">
+                  <Heading>Step 1: Application of dictionaries and rules</Heading>
+                  <Para ID="Par30">A random sample of 200 free-text prescription instructions was chosen from more than 56,000 most commonly used CPRD instructions, and was manually reviewed in order to identify their lexical composition and engineer rules. A set of dictionaries (a total of 13, see Additional file <InternalRef RefID="MOESM1">1</InternalRef>: Table S2) was created for various medication attributes that appear in prescription free text, including common expressions for dose units, Latin abbreviations used for dose frequency, periods, etc. Around 300 generic rules were manually designed to model the three aspects of medication prescription: dose number, frequency and interval; we have also engineered rules to identify mentions of dose units. The rules rely on two types of constituent:<OrderedList>
+                      <ListItem>
+                        <ItemNumber>a.</ItemNumber>
+                        <ItemContent>
+                          <Para ID="Par31">specific semantic classes (e.g., expressions referring to meals or numbers); these are either represented by the dictionaries or modelled using regular expressions (i.e. patterns that match character combinations in text strings; e.g., standard numerical expressions are represented as series of digits). These classes can include lexical variation: for example, numbers (<Emphasis Type="Italic">NUM</Emphasis>) can include not only standard numerical expressions, but numerical ranges (e.g., <Emphasis Type="Italic">2-3</Emphasis>) or numerals expressed in words (e.g., <Emphasis Type="Italic">“two”</Emphasis>).</Para>
+                        </ItemContent>
+                      </ListItem>
+                      <ListItem>
+                        <ItemNumber>b.</ItemNumber>
+                        <ItemContent>
+                          <Para ID="Par32">semi-frozen lexical expressions, used as anchors or context for mentions of certain types of medication information. For example, we modelled a variety of lexico-syntactic expressions that indicate expressions for administration of a medication such as “<Emphasis Type="Italic">take</Emphasis> NUM <Emphasis Type="Italic">pills</Emphasis>”, where <Emphasis Type="Italic">NUM</Emphasis> indicates a number or range (as above).</Para>
+                        </ItemContent>
+                      </ListItem>
+                    </OrderedList>
+                           </Para>
+                  <Para ID="Par33">The rules are designed as syntactic patterns consisting of these two constituents (i.e. semi-frozen chunks and/or semantic place holders). For example, a rule that captures the minimum and maximum dose number would have two parts: a semi frozen verbal expression (e.g., “<Emphasis Type="Italic">take</Emphasis>”, “<Emphasis Type="Italic">inhale</Emphasis>”, “<Emphasis Type="Italic">use</Emphasis>”), followed by a numeric mention matched by the numeric regular expressions and a possible time unit (“<Emphasis Type="Italic">2 a day</Emphasis>”, “<Emphasis Type="Italic">3-4” every week</Emphasis>”). Table <InternalRef RefID="Tab2">2</InternalRef> shows the number of rules created for each of the medication prescription attributes (dose, frequency, interval, unit), along with some typical examples. For the implementation of the rules we used MinorThird [<CitationRef CitationID="CR29">29</CitationRef>], an information extraction development environment, with default, built-in tokenisation.<Table Float="Yes" ID="Tab2">
+                      <Caption Language="En">
+                        <CaptionNumber>Table 2</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Examples of rules for the recognition of dosage attributes in medication data</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO2">
+                        <ImageObject Color="BlackWhite" FileRef="MediaObjects/12911_2016_255_Tab2_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </MediaObject>
+                      <tfooter>
+                        <SimplePara>The rules were implemented in MinorThird [<CitationRef CitationID="CR29">29</CitationRef>] and we use its notation here. Only the part in brackets (the string of interest) is being extracted as a mention (i.e., annotation); the rest of the rule (if any) specifies the context/anchors. The rules use explicit matching of spans (e.g., <Emphasis Type="Italic">eq(‘times’)</Emphasis>), the dictionary matches for single (e.g. <Emphasis Type="Italic">a(verb)</Emphasis> – matching verbs that indicate the administration of a medication (e.g., <Emphasis Type="Italic">take, insert</Emphasis>)) and multiword terms (e.g., <Emphasis Type="Italic">@period</Emphasis>, see Additional file <InternalRef RefID="MOESM1">1</InternalRef>: Table S2). <Emphasis Type="Italic">Number</Emphasis> models numerical expressions including those belonging to the dictionary “<Emphasis Type="Italic">number</Emphasis>”; a(timeUnitLy) matches the words of the dictionary “<Emphasis Type="Italic">timeUnitLy</Emphasis>” with prescription text that indicates an adverb of time e.g., “<Emphasis Type="Italic">daily</Emphasis>”, “<Emphasis Type="Italic">weekly</Emphasis>”, etc; @perTimeUnit recognises syntactical patterns of the dictionary “<Emphasis Type="Italic">perTimeUnit</Emphasis>” that contain both numeric and word phrases in prescription text e.g., “<Emphasis Type="Italic">four times a day</Emphasis>”, “<Emphasis Type="Italic">2 times per week</Emphasis>”, etc.; a(timeUnit) identifies the words from the “<Emphasis Type="Italic">timeUnit</Emphasis>” dictionary (see Additional file <InternalRef RefID="MOESM1">1</InternalRef>: Table S2)</SimplePara>
+                      </tfooter>
+                    </Table>
+                           </Para>
+                </Section3>
+                <Section3 ID="Sec7">
+                  <Heading>Step 2: Structuring the extracted information</Heading>
+                  <Para ID="Par34">The rules applied in Step 1 aim to identify candidate mentions that correspond to a specific attribute. The recognised candidate mentions are then used to capture the minimum and maximum values of each attribute using a number of rules that capture lexical expressions of ranges (e.g., “2 to 4”, “2-4”, “between 2 and 4”). Additional rules have been created to deal with optional values (e.g., <Emphasis Type="Italic">“up to NUM”</Emphasis>, or matching specific expressions such as “<Emphasis Type="Italic">as necessary</Emphasis>”, “<Emphasis Type="Italic">when required</Emphasis>”, “<Emphasis Type="Italic">if needed</Emphasis>”); in such cases, the minimum dose frequency is set to 0. A number of defaults were used in cases where information is not explicitly represented in the prescription text. For example,<UnorderedList Mark="Bullet">
+                      <ItemContent>
+                        <Para ID="Par35">The minimum and maximum dose numbers are set to “1” in cases where the prescription text is not specific about dose numbers, but still contains information for the identification of dose frequency (e.g., the dose number is set to 1 for all of these “<Emphasis Type="Italic">apply four times a day when required</Emphasis>”, “<Emphasis Type="Italic">to each eye every four hours”</Emphasis>, “<Emphasis Type="Italic">every morning after food</Emphasis>”, “<Emphasis Type="Italic">take in the morning for blood pressure</Emphasis>”).</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para ID="Par36">The minimum and the maximum dose number are set as an average in prescriptions that include two (or more) unequal doses per day (e.g. the dose number in <Emphasis Type="Italic">“one every morning and two every night”</Emphasis> is set to 1.5). We record the dosage frequency in the standard way (“2” in the previous example, as the medication is to be taken twice (morning, night)), so that the total daily dosage can be inferred (see also discussion in Section 3.3).</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para ID="Par37">The minimum dose interval is set to “1” and the maximum to “<Emphasis Type="Italic">?</Emphasis>” when the prescription text contains no information that suggests any specific detail or context (e.g., <Emphasis Type="Italic">“as directed”</Emphasis>).</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para ID="Par38">Common general meal-time expressions (e.g., <Emphasis Type="Italic">“with each meal”</Emphasis> or <Emphasis Type="Italic">“after meal”</Emphasis>) were assigned a daily frequency of 3, with individual meals counted as frequency of 1 (e.g., “<Emphasis Type="Italic">with breakfast</Emphasis>”).</Para>
+                      </ItemContent>
+                    </UnorderedList>
+                           </Para>
+                  <Para ID="Par39">This step is also used to check consistency (i.e. that the minimum value is not bigger than the maximum), and inconsistent cases would be discarded.</Para>
+                </Section3>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec8" Type="Discussion">
+              <Heading>Results and discussions</Heading>
+              <Para ID="Par40">We performed two experiments: first, using a small gold-standard sample, we aimed to evaluate the performance of the proposed text mining approach (Section 3.1). Then, using a larger set, we aimed to explore, quantify and discuss the practice in medication prescriptions from CPRD (Section 3.2). The study was approved by the CPRD Independent Scientific Advisory Committee (ref 11_154A).</Para>
+              <Section2 ID="Sec9">
+                <Heading>Gold-standard evaluation</Heading>
+                <Para ID="Par41">The initial set of 200 free-text CPRD prescription instructions was used to develop and tune the system, and these were not used for the evaluation. Following the development of the system and in order to create a gold standard for the evaluation, a new set of 100 medication prescriptions was randomly selected from the CPRD dataset of 56,000 free-text prescriptions, and manually and independently annotated by the authors: a clinical consultant (WGD), a health informatician (GN) and a health informatician with medical background (GK). The initial inter-annotator agreement was 93 % at the prescription level, calculated by the absolute agreement rate [<CitationRef CitationID="CR30">30</CitationRef>], indicating a very good annotation consistency. All disagreement cases were reviewed, and were considered omissions (e.g., a wrongly recorded maximum dose number) rather than fundamental disagreement. The data were then corrected by the agreement of all annotators. Following this, another random set of 120 CPRD prescriptions was manually annotated by GK and merged with the 100 gold-standard prescription instructions to form the final evaluation dataset.</Para>
+                <Para ID="Par42">Out of the 220 prescription instructions in the gold-standard dataset, 33 (15 %) contained different values for minimum/maximum values in at least one of the attributes, and a further 26 (12 %) contained at least one of the minimum/maximum values unspecified (i.e. represented as ‘?’).</Para>
+                <Para ID="Par43">The prescription extraction system was then applied to the gold-standard set and the results were compared to the human annotations. We used accuracy to assess the system’s performance, defined as the number of correctly identified and structured medication attributes (true positives) divided by the total number of prescription attributes in the evaluation set. We calculated the accuracy at both the dosage attribute levels and also at the prescription level.</Para>
+                <Para ID="Par44">Table <InternalRef RefID="Tab3">3</InternalRef> provides the detailed results at the dosage attribute level. The accuracy values were ranging from 94 %-100 %, suggesting reliable results across all the medication attributes. The minimum dose interval and dose unit had the highest accuracy (100 %), while maximum dose frequency had the lowest accuracy of 94 %. At the prescription level, each free text record is considered a true positive only if all its attributes have been successfully identified. The accuracy at the prescription level was 90.9 %, suggesting relatively reliable results.<Table Float="Yes" ID="Tab3">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>The accuracy of the medication attribute extraction</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="3">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <thead>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Dosage attribute</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>True positives (out of 220)</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>Accuracy (%)</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>dose number (minimum)</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>211</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>95.9</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>dose number (maximum)</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>210</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>95.4</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>dose frequency (minimum)</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>210</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>95.4</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>dose frequency (maximum)</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>207</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>94.0</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>dose interval (minimum)</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>220</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>100.0</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>dose interval (maximum)</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>217</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>98.6</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>dose unit</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>220</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>100.0</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>(macro) accuracy</SimplePara>
+                          </entry>
+                          <entry nameend="c3" namest="c2">
+                            <SimplePara>97.0</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Accuracy is shown for each attribute, considered separately. Macro accuracy represents an average of the accuracy values across different attributes</SimplePara>
+                    </tfooter>
+                  </Table>
+                        </Para>
+                <Para ID="Par45">By analysing the results, two bugs were identified caused by oversights in the system implementation: while we handle half dose units generally, due to a hiccup it was not included in the rule for handling cases of varying administration at different times (e.g. in “<Emphasis Type="Italic">one in the morning and half at night</Emphasis>”). Another oversight was missing “or” as a range operator for the expression of alternative dosages (e.g. in <Emphasis Type="Italic">“20 or 40 mg before meals four times a day”</Emphasis>). We note that these bugs were corrected before using the system for the analysis described below.</Para>
+              </Section2>
+              <Section2 ID="Sec10">
+                <Heading>Analysis of free-text instructions in CPRD</Heading>
+                <Para ID="Par46">We applied the system to 56,114 most common free text instructions within CPRD (see next paragraph), to explore how much variability (i.e. minimum, maximum values, optional dosages) is presented in free text prescriptions. We note that here we do not aim to look at the variability of prescriptions across and between patients, but rather the level of flexibility in a single prescription.</Para>
+                <Para ID="Par47">The data set was obtained from the “common_dosages” table in CPRD, which is a generic look-up table of most common free text instructions that GPs type within electronic prescriptions. This table is a generic repository of all different (unique) free-text directions that have been collected from the whole CPRD for all treatments and diseases. Each row corresponds with instructions about how a drug is to be taken (but no information about the drug itself is included – this information is available in other tables).</Para>
+                <Para ID="Par48">We note that for a total of 406 records (0.72 %), we were not able to extract any dosage information. A manual review of a random sample of 30 such prescriptions showed that indeed no useful information was present that could be extracted (e.g., “~ ~ ~ ~ ~ ~ ~”, “<Emphasis Type="Italic">1-2 four</Emphasis>”, “<Emphasis Type="Italic">28percent</Emphasis>”, “<Emphasis Type="Italic">40n</Emphasis>”, “<Emphasis Type="Italic">human</Emphasis>”). We also note that there were no cases that were discarded because of inconsistent values (i.e. the minimum value is bigger than the maximum).</Para>
+                <Para ID="Par49">Table <InternalRef RefID="Tab4">4</InternalRef> provides an overview of the dosage attributes identified in this data set. Almost a quarter of prescriptions (24 %) have variability in at least one attribute (i.e. different min/max value, where both values are specific): 11 % had different minimum and maximum dose numbers (e.g., <Emphasis Type="Italic">“2-4 tablets”</Emphasis>) and 18 % had different minimum and maximum dose frequencies (e.g., “<Emphasis Type="Italic">2-3 times”</Emphasis>). Only 55 examples (less than 0.1 %) had different minimum and maximum dose intervals (e.g., <Emphasis Type="Italic">“every 2-3 months”</Emphasis>).<Table Float="Yes" ID="Tab4">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Medication prescription variability in the most common CPRD prescription instructions</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="3">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <thead>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Prescriptions with</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Number of such prescriptions (out of 56,114)</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>Prescriptions percentage</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>all medication elements as “?”</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>406</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0.7 %</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>at least one element as “?”</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>11,696</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>20.8 %</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>dn_min ≠ dn_max</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>6,278</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>11.1 %</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>df_min ≠ df_max</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>10,249</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>18.2 %</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>di_min ≠ di_max</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>55</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0.1 %</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>no dose units</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>36,111</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>65.4 %</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>
+                                    <Emphasis Type="Italic">dn_min</Emphasis> is dose number (minimum), <Emphasis Type="Italic">dn_max</Emphasis> is dose number (maximum), <Emphasis Type="Italic">df_min</Emphasis> is dose frequency (minimum), <Emphasis Type="Italic">df_max</Emphasis> is dose frequency (maximum), <Emphasis Type="Italic">di_min</Emphasis> is dose interval (minimum), <Emphasis Type="Italic">di_max</Emphasis> is dose interval (maximum)</SimplePara>
+                    </tfooter>
+                  </Table>
+                        </Para>
+                <Para ID="Par50">A fifth of prescriptions (20 %) had at least one unspecified dosage attribute (either minimum or maximum dose number, frequency or interval). We note that there were no unspecified values in dose numbers as we have provided defaults when these are not explicit. On the other hand, almost two thirds of the prescription instructions did not contain information regarding dose units, but this information is available from other tables within CPRD. Still, a total of 22 different dose units were recognised in free-text instructions, with <Emphasis Type="Italic">tablet</Emphasis> and <Emphasis Type="Italic">millilitres</Emphasis> as most frequent dose units (30 % and 27.5 % respectively).</Para>
+              </Section2>
+              <Section2 ID="Sec11">
+                <Heading>Discussion</Heading>
+                <Para ID="Par51">Our analysis of free-text prescriptions in the CPRD database shows that a substantial proportion of records have flexibility or variability in prescribed dosage and/or frequency, and therefore the ability to represent such details is key for supporting pharmacoepidemiology researchers in preparing prescription data for further processing. We note that the CPRD database does contain transformation of the free text prescriptions into various structured dose variables, but their model does not allow for further choices that the researchers can make in cases where there is variability or flexibility in drug administration, as in such cases the attributes are recorded by a single average value, without specifying prescribed options or ranges. In particular, cases where drugs are taken <Emphasis Type="Italic">when</Emphasis> or <Emphasis Type="Italic">if needed</Emphasis> are not recorded. Our model, on the other hand, allows researchers to explore effects of all such variability by making transparent decisions as to which values have been taken into account.</Para>
+                <Para ID="Par52">While the quality of text-mined data was high, there were still cases where the system failed to extract correct information. Such cases in the evaluation gold-standard dataset were analysed in detail (see Additional file <InternalRef RefID="MOESM1">1</InternalRef>: Table S3 for all errors). We summarise here the major challenges:<UnorderedList Mark="Bullet">
+                    <ItemContent>
+                      <Para ID="Par53">Misspellings: As with other types of clinical text [<CitationRef CitationID="CR31">31</CitationRef>, <CitationRef CitationID="CR32">32</CitationRef>], prescription records often contain misspellings (e.g., “<Emphasis Type="Italic">2bd bil</Emphasis>””, “<Emphasis Type="Italic">aplly twice daily</Emphasis>”). For example, in our evaluation set, 11.8 % (26 out 220) of prescription instructions had misspellings. A common source of errors is the misspelling of dose units or frequency keywords, which have failed to trigger relevant rules. In such cases, most if not all of dose attributes would be unrecognised (not only the one linked to the cue word in question). For example, half of the cases where the dose number was incorrectly identified were due to misspellings (e.g. “<Emphasis Type="Italic">1 mnae</Emphasis>”, “<Emphasis Type="Italic">2-3 spoonsfuls to be taken twice daily</Emphasis>”), as the system failed to recognise misspelled keywords (e.g., “<Emphasis Type="Italic">mnae</Emphasis>” for “<Emphasis Type="Italic">mane</Emphasis>”; “<Emphasis Type="Italic">spoonsfuls</Emphasis>” for <Emphasis Type="Italic">“spoonfuls”</Emphasis>), which are used to trigger the associated rules.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par54">Tokenisation: The tokenisation approach used in MinorThird has resulted in a number of errors. For example, our pre-processor did not tokenise on ‘/’ (e.g., “<Emphasis Type="Italic">take 1 mane/take 1 at night</Emphasis>” has “<Emphasis Type="Italic">mane/take”</Emphasis> as a single token). In addition, spaces were sometimes missing between dosage attributes (e.g., dose number and dose frequency - “<Emphasis Type="Italic">1mnae</Emphasis>”, “<Emphasis Type="Italic">1-26hlryprn</Emphasis>”), which makes it challenging to identify correct tokens.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par55">Structural ambiguity: There are cases where the prescription text can be interpreted in more than one way, often as a result of typographic errors or omissions. For example, prescription “<Emphasis Type="Italic">take 1 2 3 times per day</Emphasis>” can be read as “<Emphasis Type="Italic">take [1 or 2 DOSE UNITS], [3 times per day]</Emphasis>” or “<Emphasis Type="Italic">take [1 DOSE UNIT], [2-3 times per day]</Emphasis>”. A similar case is <Emphasis Type="Italic">“a half to one tablet to 2 three times a day when required”</Emphasis>, which can be either interpreted as <Emphasis Type="Italic">“[a half to one tablet] [to 2 three times] a day [when required]”</Emphasis> (“0.5 to 1 tablets, 2-3 times a day when required”) or <Emphasis Type="Italic">“[a half to one tablet to 2] [three times] a day [when required]”</Emphasis> (“0.5 to 2 tablets, 3 times a day when required”). Our system opted for the latter, identifying the second <Emphasis Type="Italic">“to”</Emphasis> as a dosage number cue rather than a frequency cue (and not realising that it is likely that there was a typo where “to” and “2” were swapped in the original text). Similarly, other types of ambiguity also proved challenging. For example, prescription <Emphasis Type="Italic">“6 per day”</Emphasis> can mean either 6 dose units taken at once, or one taken 6 times. While being ambiguous, we note that the pattern of administration within a day may not be important for a given data analysis (and thus may not matter which one – in this case – is extracted). Another example is “<Emphasis Type="Italic">2 for pain</Emphasis>”, where the missing interval (per day or just one-off) makes the whole expression under-specified. Another example is “<Emphasis Type="Italic">apply 2 times a day when required</Emphasis>”, which could be interpreted as “twice a day on days when required” or “apply daily up to 2 times when required”.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par56">Lexical coverage in the dictionaries: Despite a reasonable assumption that the prescription lexical space is limited, we have still encountered cases where the dictionaries were not complete in particular for some variation of common concepts (e.g., “tablet(s)”).</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par57">Acronyms and abbreviations: Medical abbreviations are used extensively, and they appear in multiple ways. Acronyms can also be ambiguous (e.g., “<Emphasis Type="Italic">od</Emphasis>” that can stand either for “<Emphasis Type="Italic">once a day</Emphasis>” or for “oculus dexter”, <Emphasis Type="Italic">right eye</Emphasis>), and additional information (e.g., other linked tables in CPRD) may need to be used to disambiguate them.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par58">Varying dosages: While we aimed to model (and extract) cases where there were different doses taken in different times (e.g., <Emphasis Type="Italic">“one every morning and two every night”</Emphasis>, “<Emphasis Type="Italic">take 3 in the morning 2 at teattime and 3 at night</Emphasis>”), the system missed some specific patterns of variability. For example, there were cases where prescriptions require administration at different specific time(s) on the hour scale (e.g., “<Emphasis Type="Italic">take one tablet and then at 8 am and one at 2 pm</Emphasis>”, “<Emphasis Type="Italic">1 at 8 am 1 at 4 am</Emphasis>”). We note that the model would need to be expanded to allow representation of specific dosages for each administration point in cases where such granularity is of interest for drug exposure modelling (e.g., “<Emphasis Type="Italic">take 3 in the morning 2 at teattime and 3 at night</Emphasis>” can be modelled as three parallel drug administration events – one for morning, one for mid-day and one for night).</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para ID="Par59">Drug administration duration and breaks: A special type of prescription is that which asks for a specific duration or requires breaks in taking medication (e.g., “<Emphasis Type="Italic">1 daily for 21 days then 7 day break caution if vomiting diarrhoea antibiotics</Emphasis>”, “<Emphasis Type="Italic">2 drops to each eye</Emphasis> every <Emphasis Type="Italic">2 hour for 24 hour then 2 four times a day til settled for 2 day</Emphasis>”; “<Emphasis Type="Italic">2 to start then 1 after each loose motion up to 16 mg total daily</Emphasis>”). This type of prescription instruction requires an extended model to represent the dynamics of the drug administration. There are also examples that suggest a single, one off, dosage administration (e.g., “<Emphasis Type="Italic">take 1 at 9 o clock</Emphasis>”), which is not currently supported by our model.</Para>
+                    </ItemContent>
+                  </UnorderedList>
+                        </Para>
+                <Para ID="Par60">Our rule-based approach to the extraction of prescription details proved to be both effective and efficient. While building rule-based systems is often time consuming, in this case, the whole system was engineered within two months of effort, requiring further two months for tuning and adjustments. The complementarity of expertise within the development team covered both clinical aspects and text mining experience, which led to the rapid implementation of the lexicalised rules. Given the modular implementation, any further changes in the model can be relatively quickly deployed.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec12">
+              <Heading>Conclusion</Heading>
+              <Para ID="Par61">Electronic health record research databases, such as the CPRD, contain a wealth of patient information including coded data and information that appears only in unstructured text. This includes free-text directions from the prescribing doctor associated with medication prescriptions. In this paper we introduced a model and presented a rule-based system for the identification of detailed structured medication dosage attributes (dose number, dose frequency, dose interval, dose unit). The system specifically captures the variability and flexibility in instructions, such as different minimum and maximum dosages. The evaluation process revealed reliable performance with an overall accuracy of over 90 %, suggesting that the proposed implementation can be useful for exploring prescription patterns on a large scale. In the analysis of most common free-text prescriptions in the CPRD database, we were able to demonstrate that at least a quarter of prescriptions have some level of variability or flexibility. By capturing the variability in the possible range of exposures from a single prescription, we allow the researcher to select how they would like to model the exposure, for example selecting the minimum dose number, maximum dose number, average dose number or a random dose number within the minimum to maximum range. While some issues still remain for future work (e.g. handling dosage duration, varying dosages and breaks/different dynamics in medication administration), the current model can be used to prepare drug exposure information for epidemiological studies.</Para>
+              <Section2 ID="Sec13">
+                <Heading>Availability of the resources</Heading>
+                <Para ID="Par62">The software and evaluation data is available at <ExternalRef>
+                    <RefSource>http://gnteam.cs.manchester.ac.uk/resources/DOSES/</RefSource>
+                    <RefTarget Address="http://gnteam.cs.manchester.ac.uk/resources/DOSES/" TargetType="URL"/>
+                  </ExternalRef>.</Para>
+              </Section2>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/12911_2016_Article_255.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <ArticleNote Type="Misc">
+              <Heading>Competing interests</Heading>
+              <SimplePara>The authors declare that they have no competing interests.</SimplePara>
+            </ArticleNote>
+            <ArticleNote Type="Misc">
+              <Heading>Authors’ contributions</Heading>
+              <SimplePara>The study was conceived and designed by WGD, and GN. TS provided the data. GK implemented the system and performed the experiments. All authors read and approved the final manuscript.</SimplePara>
+            </ArticleNote>
+            <Acknowledgments>
+              <Heading>Acknowledgements</Heading>
+              <SimplePara>This project was supported by the Arthritis Research UK Centre for Epidemiology. WGD was supported by an MRC Clinician Scientist Fellowship (G0902272). TS was funded by the Canadian Institute of Health Research (MOP-111166). The authors also acknowledge support from the Farr Institute of Health Informatics Research and Health eResearch Centre (HeRC).</SimplePara>
+            </Acknowledgments>
+            <Appendix ID="App1" OutputMedium="Online">
+              <Section1 ID="Sec14">
+                <Heading>Additional file</Heading>
+                <Para ID="Par63">
+                  <MediaObject ID="MOESM1">
+                    <DataObject FileRef="MediaObjects/12911_2016_255_MOESM1_ESM.docx">
+                      <Caption Language="En">
+                        <CaptionNumber>Additional file 1:</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>
+                                          <Emphasis Type="Bold">Table S1.</Emphasis> Examples of commonly used Latin abbreviations in medication. <Emphasis Type="Bold">Table S2.</Emphasis> Dictionaries used for the identification of dosage information. <Emphasis Type="Bold">Table S3.</Emphasis> System errors from the test dataset (220 prescriptions). (DOCX 25 kb)</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                    </DataObject>
+                  </MediaObject>
+                </Para>
+              </Section1>
+            </Appendix>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Williams</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Staa</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Puri</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Recent advances in the utility and use of the General Practice Research Database as an example of a UK Primary Care Data resource</ArticleTitle>
+                  <JournalTitle>Ther Adv Drug Safety</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>89</FirstPage>
+                  <LastPage>99</LastPage>
+                  <BibArticleDOI>10.1177/2042098611435911</BibArticleDOI>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/2042098611435911</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Williams T, van Staa T, Puri S, et al. Recent advances in the utility and use of the General Practice Research Database as an example of a UK Primary Care Data resource. Ther Adv Drug Safety. 2012;3(2):89–99. doi:<ExternalRef>
+                    <RefSource>10.1177/2042098611435911</RefSource>
+                    <RefTarget Address="10.1177/2042098611435911" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Jones</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Isojarvi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Guiraud-Diawara</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Shen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Verpillat</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Differences in usage of clobazam vs. Clonazepam for epilepsy</ArticleTitle>
+                  <JournalTitle>Ann Neurol</JournalTitle>
+                  <VolumeID>76</VolumeID>
+                  <FirstPage>S31</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/ana.24174</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jones D, Isojarvi J, Guiraud-Diawara A, Shen V, Verpillat P. Differences in usage of clobazam vs. Clonazepam for epilepsy. Ann Neurol. 2014;76:S31.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>UT</Initials>
+                    <FamilyName>Kadam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Blagojevic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Belcher</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Statin use and clinical osteoarthritis in the general population: a longitudinal study</ArticleTitle>
+                  <JournalTitle>J Gen Intern Med</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <IssueID>7</IssueID>
+                  <FirstPage>943</FirstPage>
+                  <LastPage>9</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>3682050</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11606-013-2382-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3svkt1ymtQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23471638</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kadam UT, Blagojevic M, Belcher J. Statin use and clinical osteoarthritis in the general population: a longitudinal study. J Gen Intern Med. 2013;28(7):943–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Reed</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Hong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Novick</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Lenox-Smith</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Happich</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Health care costs before and after diagnosis of depression in patients with unexplained pain: a retrospective cohort study using the United Kingdom General Practice Research Database</ArticleTitle>
+                  <JournalTitle>Clinicoecon Outcomes Res</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>37</FirstPage>
+                  <LastPage>47</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>3552476</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2147/CEOR.S38323</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23355787</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Reed C, Hong J, Novick D, Lenox-Smith A, Happich M. Health care costs before and after diagnosis of depression in patients with unexplained pain: a retrospective cohort study using the United Kingdom General Practice Research Database. Clinicoecon Outcomes Res. 2013;5:37–47.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Evans DA, Brownlow ND, Hersh WR, Campbell EM. Automating concept identification in the electronic medical record: an experiment in extracting dose information. In: Proceedings of the AMIA Annual Fall Symposium. American Medical Informatics Association; Wshington, DC. 1996;388-392. </BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Sirohi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Peissig</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Study of effect of drug lexicons on medication extraction from electronic medical records</ArticleTitle>
+                  <JournalTitle>Pac Symp Biocomput</JournalTitle>
+                  <VolumeID>2005</VolumeID>
+                  <FirstPage>308</FirstPage>
+                  <LastPage>18</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1142/9789812702456_0029</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sirohi E, Peissig P. Study of effect of drug lexicons on medication extraction from electronic medical records. Pac Symp Biocomput. 2005;2005:308–18.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Meystre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GK</Initials>
+                    <FamilyName>Savova</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KC</Initials>
+                    <FamilyName>Kipper-Schuler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JF</Initials>
+                    <FamilyName>Hurdle</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Extracting information from textual documents in the electronic health record: a review of recent research</ArticleTitle>
+                  <JournalTitle>Yearb Med Inform.</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>128</FirstPage>
+                  <LastPage>44</LastPage>
+                </BibArticle>
+                <BibUnstructured>Meystre SM, Savova GK, Kipper-Schuler KC, Hurdle JF. Extracting information from textual documents in the electronic health record: a review of recent research. Yearb Med Inform. 2008;35:128–44.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Friedman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Shagina</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YA</Initials>
+                    <FamilyName>Lussier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Hripcsak</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Automated encoding of clinical documents based on natural language processing</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>392</FirstPage>
+                  <LastPage>402</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>516246</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1197/jamia.M1552</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15187068</Handle>
+                  </Occurrence>
+                  <BibComments>Epub 2004 Jun 7</BibComments>
+                </BibArticle>
+                <BibUnstructured>Friedman C, Shagina L, Lussier YA, Hripcsak G. Automated encoding of clinical documents based on natural language processing. J Am Med Inform Assoc. 2004;11(5):392–402. Epub 2004 Jun 7.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Patrick</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">High accuracy information extraction of medication information from clinical notes: 2009 i2b2 medication extraction challenge</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>524</FirstPage>
+                  <LastPage>527</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2995676</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/jamia.2010.003939</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20819856</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Patrick J, Li M. High accuracy information extraction of medication information from clinical notes: 2009 i2b2 medication extraction challenge. J Am Med Inform Assoc. 2010;17(5):524–7.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Spasic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Sarafraz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Keane</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Nenadic</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Medication information extraction with linguistic pattern matching and semantic rules</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>532</FirstPage>
+                  <LastPage>535</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2995671</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/jamia.2010.003657</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20819858</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Spasic I, Sarafraz F, Keane JA, Nenadic G. Medication information extraction with linguistic pattern matching and semantic rules. J Am Med Inform Assoc. 2010;17(5):532–5.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Spasic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Livsey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Keane</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Nenadic</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Text mining of cancer-related information: review of current status and future directions</ArticleTitle>
+                  <JournalTitle>Int J Med Inform</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <IssueID>9</IssueID>
+                  <FirstPage>605</FirstPage>
+                  <LastPage>23</LastPage>
+                  <BibArticleDOI>10.1016/j.ijmedinf.2014.06.009</BibArticleDOI>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijmedinf.2014.06.009</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>25008281</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Spasic I, Livsey J, Keane JA, Nenadic G. Text mining of cancer-related information: review of current status and future directions. Int J Med Inform. 2014;83(9):605–23. doi:<ExternalRef>
+                    <RefSource>10.1016/j.ijmedinf.2014.06.009</RefSource>
+                    <RefTarget Address="10.1016/j.ijmedinf.2014.06.009" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Fiszman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WW</Initials>
+                    <FamilyName>Chapman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Aronsky</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RS</Initials>
+                    <FamilyName>Evans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PJ</Initials>
+                    <FamilyName>Haug</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Automatic detection of acute bacterial pneumonia from chest X-ray reports</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>593</FirstPage>
+                  <LastPage>604</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>129668</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/jamia.2000.0070593</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3M%2FmtVeitQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11062233</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fiszman M, Chapman WW, Aronsky D, Evans RS, Haug PJ. Automatic detection of acute bacterial pneumonia from chest X-ray reports. J Am Med Inform Assoc. 2000;7(6):593–604.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>QT</Initials>
+                    <FamilyName>Zeng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Goryachev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Weiss</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sordo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SN</Initials>
+                    <FamilyName>Murphy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Lazarus</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Extracting principal diagnosis, co-morbidity and smoking status for asthma research: evaluation of a natural language processing system</ArticleTitle>
+                  <JournalTitle>BMC Med Inform Decis Mak</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>30</FirstPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>1553439</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1472-6947-6-30</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16872495</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zeng QT, Goryachev S, Weiss S, Sordo M, Murphy SN, Lazarus R. Extracting principal diagnosis, co-morbidity and smoking status for asthma research: evaluation of a natural language processing system. BMC Med Inform Decis Mak. 2006;6(1):30.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Wang X, Chused A, Elhadad N, Friedman C, Markatou M. Automated knowledge acquisition from clinical narrative reports. In: AMIA Annual Symposium Proceedings. American Medical Informatics Association; Washington, DC. 2008. Vol. 2008, p. 783-7.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>Mamlin BW, Heinze DT, McDonald CJ. Automated extraction and normalization of findings from cancer-related free-text radiology reports. In: AMIA Annual Symposium Proceedings. American Medical Informatics Association; Washington, DC. 2003:420-4. </BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Schadow</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CJ</Initials>
+                    <FamilyName>McDonald</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Extracting structured information from free text pathology reports. In AMIA Annual Symposium Proceedings</ArticleTitle>
+                  <JournalTitle>Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>2003</VolumeID>
+                  <FirstPage>584</FirstPage>
+                  <LastPage>588</LastPage>
+                </BibArticle>
+                <BibUnstructured>Schadow G, McDonald CJ. Extracting structured information from free text pathology reports. In AMIA Annual Symposium Proceedings. Am Med Inform Assoc. 2003;2003:584–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Chiang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CW</Initials>
+                    <FamilyName>Yang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Automated evaluation of electronic discharge notes to assess quality of care for cardiovascular diseases using Medical Language Extraction and Encoding System (MedLEE)</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>245</FirstPage>
+                  <LastPage>252</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2995708</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/jamia.2009.000182</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20442141</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chiang JH, Lin JW, Yang CW. Automated evaluation of electronic discharge notes to assess quality of care for cardiovascular diseases using Medical Language Extraction and Encoding System (MedLEE). J Am Med Inform Assoc. 2010;17(3):245–52.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Friedman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Discovering novel adverse drug events using natural language processing and mining of the electronic health record</ArticleTitle>
+                  <JournalTitle>Artif Intell Med</JournalTitle>
+                  <VolumeID>2009</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>5</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-642-02976-9_1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Friedman C. Discovering novel adverse drug events using natural language processing and mining of the electronic health record. Artif Intell Med. 2009;2009:1–5.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Cano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Blanco</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Peshkin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Automated identification of diagnosis and co-morbidity in clinical records</ArticleTitle>
+                  <JournalTitle>Methods Inf Med</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>546</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3414/ME0615</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD1MfhtVOqtA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19696949</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cano C, Blanco A, Peshkin L. Automated identification of diagnosis and co-morbidity in clinical records. Methods Inf Med. 2009;48(6):546.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Jagannathan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CJ</Initials>
+                    <FamilyName>Mullett</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JG</Initials>
+                    <FamilyName>Arbogast</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KA</Initials>
+                    <FamilyName>Halbritter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Yellapragada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Regulapati</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Assessment of commercial NLP engines for medication information extraction from dictated clinical notes</ArticleTitle>
+                  <JournalTitle>Int J Med Inform</JournalTitle>
+                  <VolumeID>78</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>284</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijmedinf.2008.08.006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD1M7oslertQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18838293</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jagannathan V, Mullett CJ, Arbogast JG, Halbritter KA, Yellapragada D, Regulapati S, et al. Assessment of commercial NLP engines for medication information extraction from dictated clinical notes. Int J Med Inform. 2009;78(4):284.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibUnstructured>Wang Y. Annotating and recognising named entities in clinical notes. In: Proceedings of the ACL-IJCNLP 2009 Student Research Workshop. Association for Computational Linguistics; Singapore. 2009;18-26. </BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Yang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Automatic extraction of medication information from medical discharge summaries</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>545</FirstPage>
+                  <LastPage>548</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2995675</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/jamia.2010.003863</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20819861</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yang H. Automatic extraction of medication information from medical discharge summaries. J Am Med Inform Assoc. 2010;17(5):545–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Xu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SP</Initials>
+                    <FamilyName>Stenner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Doan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KB</Initials>
+                    <FamilyName>Johnson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LR</Initials>
+                    <FamilyName>Waitman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JC</Initials>
+                    <FamilyName>Denny</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">MedEx: a medication information extraction system for clinical narratives</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>19</FirstPage>
+                  <LastPage>24</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2995636</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1197/jamia.M3378</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3cXlsVentrs%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20064797</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Xu H, Stenner SP, Doan S, Johnson KB, Waitman LR, Denny JC. MedEx: a medication information extraction system for clinical narratives. J Am Med Inform Assoc. 2010;17(1):19–24.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Uzuner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Solti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Cadag</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Extracting medication information from clinical text</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>514</FirstPage>
+                  <LastPage>518</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2995677</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/jamia.2010.003947</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20819854</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Uzuner O, Solti I, Cadag E. Extracting medication information from clinical text. J Am Med Inform Assoc. 2010;17:514–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Hamon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Grabar</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Linguistic approach for identification of medication names and related information in clinical narratives</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>549</FirstPage>
+                  <LastPage>554</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>2995681</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/jamia.2010.004036</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20819862</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hamon T, Grabar N. Linguistic approach for identification of medication names and related information in clinical narratives. J Am Med Inform Assoc. 2010;17(5):549–54.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Doan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Collier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Xu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Duy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Phuong</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Recognition of medication information from discharge summaries using ensembles of classifiers</ArticleTitle>
+                  <JournalTitle>BMC Med Inform Decis Mak</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>36</FirstPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>3502425</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1472-6947-12-36</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22564405</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Doan S, Collier N, Xu H, Duy P, Phuong T. Recognition of medication information from discharge summaries using ensembles of classifiers. BMC Med Inform Decis Mak. 2012;12(1):36.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Sohn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CL</Initials>
+                    <FamilyName>Clark</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SR</Initials>
+                    <FamilyName>Halgrim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SP</Initials>
+                    <FamilyName>Murphy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CG</Initials>
+                    <FamilyName>Chute</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">MedXN: an open source medication extraction and normalization tool for clinical text</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>858</FirstPage>
+                  <LastPage>65</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>4147619</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/amiajnl-2013-002190</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24637954</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sohn S, Clark CL, Halgrim SR, Murphy SP, Chute CG, Liu H. MedXN: an open source medication extraction and normalization tool for clinical text. J Am Med Inform Assoc. 2014;21(5):858–65.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>MacKinlay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Verspoor</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ChapterTitle Language="En">Information Extraction from Medication Prescriptions Within Drug Administration Data</ChapterTitle>
+                  <BookTitle>The 4th international workshop on health document text mining and information analysis with the focus of cross-language evaluation (LOUHI), Canberra/Sydney, Australia</BookTitle>
+                </BibChapter>
+                <BibUnstructured>MacKinlay A, Verspoor K. Information Extraction from Medication Prescriptions Within Drug Administration Data. In: The 4th international workshop on health document text mining and information analysis with the focus of cross-language evaluation (LOUHI), Canberra/Sydney, Australia. 2013.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibUnstructured>Cohen WW. MinorThird: Methods for Identifying Names and Ontological Relations in Text using Heuristics for Inducing Regularities from Data. 2004. <ExternalRef>
+                    <RefSource>http://minorthird.sourceforge.net</RefSource>
+                    <RefTarget Address="http://minorthird.sourceforge.net/" TargetType="URL"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>JD</Initials>
+                    <FamilyName>Kim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Tsujii</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ChapterTitle Language="En">Corpora and their annotations</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Ananiadou</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J</Initials>
+                    <FamilyName>McNaught</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Text Mining for Biology and Biomedicine</BookTitle>
+                  <PublisherName>Artech House</PublisherName>
+                  <PublisherLocation>46 Gilingham Street, London SW1V 1AH UK</PublisherLocation>
+                  <BibComments>ISBN 1-5053-984-X</BibComments>
+                </BibChapter>
+                <BibUnstructured>Kim JD, Tsujii J. Corpora and their annotations. In: Ananiadou S, McNaught J, editors. Text Mining for Biology and Biomedicine. 46 Gilingham Street, London SW1V 1AH UK: Artech House; 2006. ISBN 1-5053-984-X.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibUnstructured>Patrick, J., Nguyen, D. Automated Proof Reading of Clinical Notes. PACLIC; Singapore. 2011;303-312.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>KH</Initials>
+                    <FamilyName>Lai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Topaz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FR</Initials>
+                    <FamilyName>Goss</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Zhou</FamilyName>
+                  </BibAuthorName>
+                  <Year>2015</Year>
+                  <ArticleTitle Language="En">Automated misspelling detection and correction in clinical free-text records</ArticleTitle>
+                  <JournalTitle>J Biomed Inform.</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>188</FirstPage>
+                  <LastPage>95</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jbi.2015.04.008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>25917057</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lai KH, Topaz M, Goss FR, Zhou L. Automated misspelling detection and correction in clinical free-text records. J Biomed Inform. 2015;55:188–95.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

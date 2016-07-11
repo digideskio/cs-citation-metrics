@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10255</JournalID>
+      <JournalPrintISSN>0168-9673</JournalPrintISSN>
+      <JournalElectronicISSN>1618-3932</JournalElectronicISSN>
+      <JournalTitle>Acta Mathematicae Applicatae Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Mathematicae Applicatae Sinica</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Math Applications in Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Mathematical and Computational Physics</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>14</VolumeIDStart>
+        <VolumeIDEnd>14</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>16</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>1998</Year>
+              <Month>4</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Science Press</CopyrightHolderName>
+            <CopyrightYear>1998</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art12">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>BF02677427</ArticleID>
+            <ArticleDOI>10.1007/BF02677427</ArticleDOI>
+            <ArticleSequenceNumber>12</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Saddlepoint approximations to the two-sample permutation tests</ArticleTitle>
+            <ArticleFirstPage>197</ArticleFirstPage>
+            <ArticleLastPage>201</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>1995</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+              </Received>
+              <Revised>
+                <Year>1998</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+              </Revised>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Science Press</CopyrightHolderName>
+              <CopyrightYear>1998</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>10255</JournalID>
+              <VolumeIDStart>14</VolumeIDStart>
+              <VolumeIDEnd>14</VolumeIDEnd>
+              <IssueIDStart>2</IssueIDStart>
+              <IssueIDEnd>2</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jing</GivenName>
+                  <FamilyName>Bingyi</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Mathematics</OrgDivision>
+                <OrgName>Hong Kong University of Science and Technology</OrgName>
+                <OrgAddress>
+                  <Street>Clear Water Bay</Street>
+                  <City>Kowloon</City>
+                  <Country>Hong Kong, China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>A saddlepoint approximation for a two-sample permutation test was obtained by Robinson<Superscript>[7]</Superscript>. Although the approximation is very accurate, the formula is very complicated and difficult to apply. In this paper, we shall revisit the same problem from a different angle. We shall first turn the problem into a conditional probability and then apply a Lugannani-Rice type formula to it, which was developed by Skovagard<Superscript>[8]</Superscript> for the mean of i.i.d. samples and by Jing and Robinson<Superscript>[5]</Superscript> for smooth function of vector means. Both the Lugannani-Rice type formula and Robinson’s formula achieve the same relative error of order<Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">n</Emphasis>
+                        <Superscript>−3/2</Superscript>), but the former is very compact and much easier to use in practice. Some numerical results with be presented to compare the two formulas.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>Indirect edgeworth expansion</Keyword>
+              <Keyword>Lugannani-Rice formula</Keyword>
+              <Keyword>saddlepoint approximation</Keyword>
+              <Keyword>two-sample permulation test</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>This research is supported by Hong Kong Research Grant Council, Grant HKUST627/95P.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef TargetType="OnlinePDF" FileRef="BodyRef/PDF/10255_2007_Article_BF02677427.pdf"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>[1]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Albers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.J.</Initials>
+                    <FamilyName>Bickel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.R.</Initials>
+                    <FamilyName>Zwet</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <Year>1976</Year>
+                  <ArticleTitle Language="En">Asymptotic Expansions for the Power of Distribution Free Tests in the One Sample Problem</ArticleTitle>
+                  <JournalTitle>Ann. Statist.</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>108</FirstPage>
+                  <LastPage>156</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0321.62049</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>391373</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1214/aos/1176343350</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>W. Albers, P.J. Bickel and W.R. Van Zwet. Asymptotic Expansions for the Power of Distribution Free Tests in the One Sample Problem.<Emphasis Type="Italic">Ann. Statist.</Emphasis> 1976, 4: 108–156.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>[2]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.J.</Initials>
+                    <FamilyName>Bickel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.R.</Initials>
+                    <FamilyName>Zwet</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <Year>1978</Year>
+                  <ArticleTitle Language="En">Asymptotic Expansions for the Power of Distribution Free Tests in the Two Sample Problem</ArticleTitle>
+                  <JournalTitle>Ann. Statist.</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>937</FirstPage>
+                  <LastPage>1004</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0378.62047</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>499567</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>P.J. Bickel and W.R. Van Zwet. Asymptotic Expansions for the Power of Distribution Free Tests in the Two Sample Problem.<Emphasis Type="Italic">Ann. Statist.</Emphasis>, 1978, 6: 937–1004.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>[3]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O.E.</Initials>
+                    <FamilyName>Barndorff-Nielsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.R.</Initials>
+                    <FamilyName>Cox</FamilyName>
+                  </BibAuthorName>
+                  <Year>1979</Year>
+                  <ArticleTitle Language="En">Edgeworth and Saddlepoint Approximations with Statistical Applications</ArticleTitle>
+                  <JournalTitle>J. R. Statist. Soc.</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>279</FirstPage>
+                  <LastPage>312</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0424.62010</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>557595</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>O.E. Barndorff-Nielsen and D.R. Cox. Edgeworth and Saddlepoint Approximations with Statistical Applications.<Emphasis Type="Italic">J. R. Statist. Soc.</Emphasis>, 1979, B (41): 279–312.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>[4]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.E.</Initials>
+                    <FamilyName>Daniels</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Tail Probability Approximations</ArticleTitle>
+                  <JournalTitle>International Statistical Review</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>37</FirstPage>
+                  <LastPage>48</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0614.62016</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/1403269</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>962940</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>H.E. Daniels. Tail Probability Approximations.<Emphasis Type="Italic">International Statistical Review</Emphasis>, 1987, 55: 37–48.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>[5]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B.Y.</Initials>
+                    <FamilyName>Jing</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Robinson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Saddlepoint Approximations for Marginal and Conditional Probabilities of Transformed Variables</ArticleTitle>
+                  <JournalTitle>Annals of Statistics</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>1115</FirstPage>
+                  <LastPage>1132</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0817.62007</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1311967</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1214/aos/1176325620</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>B.Y. Jing and J. Robinson. Saddlepoint Approximations for Marginal and Conditional Probabilities of Transformed Variables.<Emphasis Type="Italic">Annals of Statistics</Emphasis>, 1994, 22(3): 1115–1132.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>[6]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Lugannani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.O.</Initials>
+                    <FamilyName>Rice</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Saddlepoint Approximation for the Distribution Function of the Sum of Independent Random Variables</ArticleTitle>
+                  <JournalTitle>Adv. Appl. Prob.</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>475</FirstPage>
+                  <LastPage>490</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0425.60042</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/1426607</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>569438</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. Lugannani and S.O. Rice. Saddlepoint Approximation for the Distribution Function of the Sum of Independent Random Variables.<Emphasis Type="Italic">Adv. Appl. Prob.</Emphasis>, 1980, 12: 475–490.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>[7]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Bobinson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">Saddlepoint Approximations for Permutation Tests and Confidence Intervals</ArticleTitle>
+                  <JournalTitle>J. Roy. Statist. Soc. (Series B)</JournalTitle>
+                  <VolumeID>44</VolumeID>
+                  <FirstPage>91</FirstPage>
+                  <LastPage>101</LastPage>
+                </BibArticle>
+                <BibUnstructured>J. Bobinson. Saddlepoint Approximations for Permutation Tests and Confidence Intervals.<Emphasis Type="Italic">J. Roy. Statist. Soc.</Emphasis> (Series B), 1982, 44: 91–101.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>[8]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>IB.M.</Initials>
+                    <FamilyName>Skovgaard</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Saddlepoint Expansions for Conditional Distributions</ArticleTitle>
+                  <JournalTitle>J. Appl. Prob.</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>875</FirstPage>
+                  <LastPage>887</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0638.62018</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/3214212</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>913828</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>IB.M. Skovgaard. Saddlepoint Expansions for Conditional Distributions.<Emphasis Type="Italic">J. Appl. Prob.</Emphasis>, 1987, 24: 875–887.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>[9]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Robinson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1978</Year>
+                  <ArticleTitle Language="En">An Asymptotic Expansion for Samples from a Finite Population</ArticleTitle>
+                  <JournalTitle>Annals of Statistics</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>1005</FirstPage>
+                  <LastPage>1011</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0387.60030</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>499568</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1214/aos/1176344306</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. Robinson. An Asymptotic Expansion for Samples from a Finite Population.<Emphasis Type="Italic">Annals of Statistics</Emphasis>, 1978, 6: 1005–1011.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>[10]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.D.</Initials>
+                    <FamilyName>John</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Robison</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <ArticleTitle Language="En">Edgeworth Expansions for the Power of Permutation Tests</ArticleTitle>
+                  <JournalTitle>Annals of Statistics</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>625</FirstPage>
+                  <LastPage>631</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0514.62053</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>696073</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1214/aos/1176346167</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>R.D. John and J Robison. Edgeworth Expansions for the Power of Permutation Tests.<Emphasis Type="Italic">Annals of Statistics</Emphasis>, 1983, 11: 625–631.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

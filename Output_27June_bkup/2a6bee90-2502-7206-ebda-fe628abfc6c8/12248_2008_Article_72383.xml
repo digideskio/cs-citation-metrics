@@ -1,0 +1,2177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>6</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art14">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>72383</ArticleID>
+            <ArticleDOI>10.1208/aapsj070239</ArticleDOI>
+            <ArticleSequenceNumber>14</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Population pharmacokinetics/pharmacodynamics of anesthetics</ArticleTitle>
+            <ArticleFirstPage>E383</ArticleFirstPage>
+            <ArticleLastPage>E389</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+              </Received>
+              <Accepted>
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>2</IssueIDStart>
+              <IssueIDEnd>2</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Erik</GivenName>
+                  <FamilyName>Olofsen</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>+31-71-5262301</Phone>
+                  <Fax>+31-71-5266230</Fax>
+                  <Email>e.olofsen@lumc.nl</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Albert</GivenName>
+                  <FamilyName>Dahan</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Anesthesiology P5-Q</OrgDivision>
+                <OrgName>Leiden University Medical Center</OrgName>
+                <OrgAddress>
+                  <Postbox>PO Box 9600</Postbox>
+                  <Postcode>2300 RC</Postcode>
+                  <City>Leiden</City>
+                  <Country>The Netherlands</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>In this article we review how population pharmacokinetic/pharmacodynamic (PD) modeling has evolved in the specialty of anesthesiology, how anesthesiology benefited from the mixed-effects approach, and which features of modeling need careful attention. Key articles from the anesthesiology literature are selected to discuss the modeling of typical anesthesiological PD end points, such as level of consciousness and analgesia, interactions between hypnotics and analgesics, estimation with poor and sometimes rich data sets from populations of various sizes, covariate detection, covariances between random effects, and Bayesian forecasting.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>PK/PD modeling</Keyword>
+              <Keyword>anesthetics</Keyword>
+              <Keyword>NONMEM</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: October 5, 2005</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_72383.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibBook>
+                  <InstitutionalAuthorName>NONMEM Project Group</InstitutionalAuthorName>
+                  <Year>1999</Year>
+                  <BookTitle>NONMEM User's Guide</BookTitle>
+                  <PublisherName>University of California</PublisherName>
+                  <PublisherLocation>San Francisco, CA</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>NONMEM Project Group. NONMEM User's Guide. San Francisco, CA: University of California; 1999.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Minto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Schnider</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Expanding clinical applications of population pharmacodynamic modeling</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <FirstPage>321</FirstPage>
+                  <LastPage>333</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9803979</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1365-2125.1998.00792.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXmvFWntb8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Minto CF, Schnider TW. Expanding clinical applications of population pharmacodynamic modeling.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 1998;46:321–333.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PMC</Initials>
+                    <FamilyName>Wright</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Population based pharmacokinetic analysis: why do we need it; what is it; and what has it told us about anaesthetics</ArticleTitle>
+                  <JournalTitle>Br J Anaesth</JournalTitle>
+                  <VolumeID>80</VolumeID>
+                  <FirstPage>488</FirstPage>
+                  <LastPage>501</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9640156</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXivVChs70%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wright PMC. Population based pharmacokinetic analysis: why do we need it; what is it; and what has it told us about anaesthetics.<Emphasis Type="Italic">Br J Anaesth</Emphasis>. 1998;80:488–501.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Whiting</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AW</Initials>
+                    <FamilyName>Kelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Grevel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics. Theory and clinical application</ArticleTitle>
+                  <JournalTitle>Clin Pharmacokinet</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>387</FirstPage>
+                  <LastPage>401</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3536257</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2s%2Flt1Cluw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2165/00003088-198611050-00004</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Whiting B, Kelman AW, Grevel J. Population pharmacokinetics. Theory and clinical application.<Emphasis Type="Italic">Clin Pharmacokinet</Emphasis>. 1986;11:387–401.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PO</Initials>
+                    <FamilyName>Maitre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Vozeh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Heykants</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DA</Initials>
+                    <FamilyName>Thomson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Stanski</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics of alfentanil: the average dose-plasma concentration relationship and interindividual variability in patients</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <FirstPage>3</FirstPage>
+                  <LastPage>12</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3099604</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-198701000-00002</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL2sXpsFGgtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Maitre PO, Vozeh S, Heykants J, Thomson DA, Stanski DR. Population pharmacokinetics of alfentanil: the average dose-plasma concentration relationship and interindividual variability in patients.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1987;66:3–12.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Grevel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Whiting</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">The relevance of pharmacokinetics to optimal intravenous anesthesia</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>2</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3800025</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2s%2FpvVShsw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-198701000-00001</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Grevel J, Whiting B. The relevance of pharmacokinetics to optimal intravenous anesthesia.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1987;66:1–2.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BK</Initials>
+                    <FamilyName>Kataria</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SA</Initials>
+                    <FamilyName>Ved</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HF</Initials>
+                    <FamilyName>Nicodemus</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">The pharmacokinetics of propofol in children using three different data analysis approaches</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>80</VolumeID>
+                  <FirstPage>104</FirstPage>
+                  <LastPage>122</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8291699</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-199401000-00018</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c7itFamtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kataria BK, Ved SA, Nicodemus HF, et al. The pharmacokinetics of propofol in children using three different data analysis approaches.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1994;80:104–122.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Fisher</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Propofol in pediatrics. Lessons in pharmacokinetic modeling</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>80</VolumeID>
+                  <FirstPage>2</FirstPage>
+                  <LastPage>5</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8291709</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c7itFaltg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fisher DM. Propofol in pediatrics. Lessons in pharmacokinetic modeling.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1994;80:2–5.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Schüttler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Ihmsen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics of propofol: a multicenter study</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>92</VolumeID>
+                  <FirstPage>727</FirstPage>
+                  <LastPage>738</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10719952</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200003000-00017</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schüttler J, Ihmsen H. Population pharmacokinetics of propofol: a multicenter study.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2000;92:727–738.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Schnider</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Minto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Gambus</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">The influence of method of administration and covariates on the pharmacokinetics of propofol in adult volunteers</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>88</VolumeID>
+                  <FirstPage>1170</FirstPage>
+                  <LastPage>1182</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9605675</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-199805000-00006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXjsVaqs7s%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schnider TW, Minto CF, Gambus PL, et al. The influence of method of administration and covariates on the pharmacokinetics of propofol in adult volunteers.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1998;88:1170–1182.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CJ</Initials>
+                    <FamilyName>Hull</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">How far can we go with compartmental models?</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>399</FirstPage>
+                  <LastPage>402</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2310018</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-199003000-00001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3c7nvVKltQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hull CJ. How far can we go with compartmental models?<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1990;72:399–402.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Boer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Drug handling by the lungs</ArticleTitle>
+                  <JournalTitle>Br J Anaesth</JournalTitle>
+                  <VolumeID>91</VolumeID>
+                  <FirstPage>50</FirstPage>
+                  <LastPage>60</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12821565</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/bja/aeg117</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXltVSqtL8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Boer F. Drug handling by the lungs.<Emphasis Type="Italic">Br J Anaesth</Emphasis>. 2003;91:50–60.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TC</Initials>
+                    <FamilyName>Krejcie</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TK</Initials>
+                    <FamilyName>Henthorn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CA</Initials>
+                    <FamilyName>Shanks</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Avram</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">A recirculatory pharmacokinetic model describing the circulatory mixing, tissue distribution and elimination of antipyrine in dogs</ArticleTitle>
+                  <JournalTitle>J Pharm Exp Ther</JournalTitle>
+                  <VolumeID>269</VolumeID>
+                  <FirstPage>609</FirstPage>
+                  <LastPage>616</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2cXkt1Khsrc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Krejcie TC, Henthorn TK, Shanks CA, Avram MJ. A recirculatory pharmacokinetic model describing the circulatory mixing, tissue distribution and elimination of antipyrine in dogs.<Emphasis Type="Italic">J Pharm Exp Ther</Emphasis>. 1994;269:609–616.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Kuipers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Boer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JG</Initials>
+                    <FamilyName>Bovill</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AGL</Initials>
+                    <FamilyName>Burm</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Recirculatory pharmacokinetics and pharmacodynamics of rocuronium in patients—the influence of cardiac output</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>94</VolumeID>
+                  <FirstPage>47</FirstPage>
+                  <LastPage>55</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11135721</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200101000-00012</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXmsFKjsQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kuipers JA, Boer F, Olofsen E, Bovill JG, Burm AGL. Recirculatory pharmacokinetics and pharmacodynamics of rocuronium in patients—the influence of cardiac output.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2001;94:47–55.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Stanski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Vozeh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RD</Initials>
+                    <FamilyName>Miller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Ham</FamilyName>
+                  </BibAuthorName>
+                  <Year>1979</Year>
+                  <ArticleTitle Language="En">Simultaneous modeling of pharmacokinetics and pharmacodynamics: application to d-tubocurarine</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <FirstPage>358</FirstPage>
+                  <LastPage>371</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>761446</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE1MXhsl2qsro%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Stanski DR, Vozeh S, Miller RD, Ham J. Simultaneous modeling of pharmacokinetics and pharmacodynamics: application to d-tubocurarine.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 1979;25:358–371.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Stanski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PO</Initials>
+                    <FamilyName>Maitre</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics and pharmacodynamics of thiopental: the effect of age revisited</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>412</FirstPage>
+                  <LastPage>422</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2310020</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-199003000-00003</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK3cXhslWltbo%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stanski DR, Maitre PO. Population pharmacokinetics and pharmacodynamics of thiopental: the effect of age revisited.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1990;72:412–422.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Somma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Donner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Zomorodi</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Population pharmacodynamics of midazolam administered by target controlled infusion in SICU patients after CABG surgery</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>89</VolumeID>
+                  <FirstPage>1430</FirstPage>
+                  <LastPage>1443</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9856718</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-199812000-00021</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXhtl2gsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Somma J, Donner A, Zomorodi K, et al. Population pharmacodynamics of midazolam administered by target controlled infusion in SICU patients after CABG surgery.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1998;89:1430–1443.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Fábregas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Rapado</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Gambús</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Modeling of the sedative and airway obstruction effects of propofol in patients with Parkinson disease undergoing stereotactic surgery</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>97</VolumeID>
+                  <FirstPage>1378</FirstPage>
+                  <LastPage>1386</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12459662</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200212000-00008</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fábregas N, Rapado J, Gambús PL, et al. Modeling of the sedative and airway obstruction effects of propofol in patients with Parkinson disease undergoing stereotactic surgery.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2002;97:1378–1386.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CAJ</Initials>
+                    <FamilyName>Knibbe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KP</Initials>
+                    <FamilyName>Zuideveld</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>DeJongh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PFM</Initials>
+                    <FamilyName>Kuks</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LPHJ</Initials>
+                    <FamilyName>Aarts</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Danhof</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetic and pharmacodynamic modeling of propofol for long-term sedation in critically ill patients: a comparison between propofol 6% and propofol 1%</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>670</FirstPage>
+                  <LastPage>684</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12496748</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1067/mcp.2002.129500</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXlt1Sjsw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Knibbe CAJ, Zuideveld KP, DeJongh J, Kuks PFM, Aarts LPHJ, Danhof M. Population pharmacokinetic and pharmacodynamic modeling of propofol for long-term sedation in critically ill patients: a comparison between propofol 6% and propofol 1%.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 2002;72:670–684.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AG</Initials>
+                    <FamilyName>Doufas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Bakhshandeh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AR</Initials>
+                    <FamilyName>Bjorksten</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Shafer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DI</Initials>
+                    <FamilyName>Sessler</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Induction speed is not a determinant of propofol pharmacodynamics</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>101</VolumeID>
+                  <FirstPage>1112</FirstPage>
+                  <LastPage>1121</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15505446</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200411000-00010</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXovVGhsrs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Doufas AG, Bakhshandeh M, Bjorksten AR, Shafer SL, Sessler DI. Induction speed is not a determinant of propofol pharmacodynamics.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2004;101:1112–1121.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Minto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Schnider</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TD</Initials>
+                    <FamilyName>Egan</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Influence of age and gender on the pharmacokinetics and pharmacodynamics of remifentanil. I. Model development</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>86</VolumeID>
+                  <FirstPage>10</FirstPage>
+                  <LastPage>23</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9009935</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-199701000-00004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXosl2ltg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Minto CF, Schnider TW, Egan TD, et al. Influence of age and gender on the pharmacokinetics and pharmacodynamics of remifentanil. I. Model development.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1997;86:10–23.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BJ</Initials>
+                    <FamilyName>Anderson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NHG</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GA</Initials>
+                    <FamilyName>Woollard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Kanagasundaram</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Mahadevan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Perioperative pharmacodynamics of acetaminophen analgesia in children</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>90</VolumeID>
+                  <FirstPage>411</FirstPage>
+                  <LastPage>421</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9952146</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-199902000-00014</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXhtlSisrs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Anderson BJ, Holford NHG, Woollard GA, Kanagasundaram S, Mahadevan M. Perioperative pharmacodynamics of acetaminophen analgesia in children.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1999;90:411–421.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Rehberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Bouillon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Grünewald</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Comparison of the concentration-dependent effect of sevoflurane on the spinal H-reflex and the EEG in humans</ArticleTitle>
+                  <JournalTitle>Acta Anaesthesiol Scand</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <FirstPage>569</FirstPage>
+                  <LastPage>576</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15101850</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1399-6576.2004.00372.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXkvVWjtrw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rehberg B, Bouillon T, Grünewald M, et al. Comparison of the concentration-dependent effect of sevoflurane on the spinal H-reflex and the EEG in humans.<Emphasis Type="Italic">Acta Anaesthesiol Scand</Emphasis>. 2004;48:569–576.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Johansen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PS</Initials>
+                    <FamilyName>Sebel</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Development and clinical application of electroencephalographic bispectrum monitoring</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>93</VolumeID>
+                  <FirstPage>1336</FirstPage>
+                  <LastPage>1344</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11046224</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200011000-00029</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXosFSiu7s%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Johansen JW, Sebel PS. Development and clinical application of electroencephalographic bispectrum monitoring.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2000;93:1336–1344.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Röpcke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Rehberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Koenen-Bergmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Bouillon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Bruhn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Hoeft</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Surgical stimulation shifts EEG concentration-response relationship of desflurane</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>94</VolumeID>
+                  <FirstPage>390</FirstPage>
+                  <LastPage>399</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11374596</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200103000-00006</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Röpcke H, Rehberg B, Koenen-Bergmann M, Bouillon T, Bruhn J, Hoeft A. Surgical stimulation shifts EEG concentration-response relationship of desflurane.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2001;94:390–399.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Sarton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Romberg</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Sex differences in morphine analgesia: an experimental study in healthy volunteers</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>93</VolumeID>
+                  <FirstPage>1245</FirstPage>
+                  <LastPage>1254</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11046213</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200011000-00018</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXosFSiurk%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sarton E, Olofsen E, Romberg R, et al. Sex differences in morphine analgesia: an experimental study in healthy volunteers.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2000;93:1245–1254.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Luginbühl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Schnider</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Petersen-Felix</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Arendt-Nielsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Zbinden</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Comparison of five experimental pain tests to measure analgesic effects of alfentanil</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>95</VolumeID>
+                  <FirstPage>22</FirstPage>
+                  <LastPage>29</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11465562</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200107000-00009</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Luginbühl M, Schnider TW, Petersen-Felix S, Arendt-Nielsen L, Zbinden AM. Comparison of five experimental pain tests to measure analgesic effects of alfentanil.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2001;95:22–29.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Romberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Bijl</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Alfentanil and placebo analgesia: no sex differences detected in models of experimental pain</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>103</VolumeID>
+                  <FirstPage>130</FirstPage>
+                  <LastPage>139</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15983465</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200507000-00020</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2MXlsF2iurg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Olofsen E, Romberg R, Bijl H, et al. Alfentanil and placebo analgesia: no sex differences detected in models of experimental pain.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2005;103:130–139.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Romberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Bijl</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Polymorphism of μ-opioid receptor gene (OPRM1:c. 118A&gt;G) does not protect against opioid-induced respiratory depression despite reduced analgesic response</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>102</VolumeID>
+                  <FirstPage>522</FirstPage>
+                  <LastPage>530</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15731588</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200503000-00008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2MXhsF2ltbs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Romberg RR, Olofsen E, Bijl H, et al. Polymorphism of μ-opioid receptor gene (OPRM1:c. 118A&gt;G) does not protect against opioid-induced respiratory depression despite reduced analgesic response.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2005;102:522–530.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Romberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Sarton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Teppema</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Dahan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Pharmacodynamic effect of morphine-6-glucoronide versus morphine on hypoxic and hypercapnic breathing in healthy volunteers</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <FirstPage>788</FirstPage>
+                  <LastPage>798</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14508308</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200310000-00008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXnsFant7g%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Romberg R, Olofsen E, Sarton E, Teppema L, Dahan A. Pharmacodynamic effect of morphine-6-glucoronide versus morphine on hypoxic and hypercapnic breathing in healthy volunteers.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2003;99:788–798.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Bouillon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Bruhn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Radu-Radulescu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Andresen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Cohane</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Shafer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A model of the ventilatory-depressant potency of remifentanil in the non-steady state</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <FirstPage>779</FirstPage>
+                  <LastPage>787</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14508307</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200310000-00007</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXnsFant7s%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bouillon T, Bruhn J, Radu-Radulescu L, Andresen C, Cohane C, Shafer SL. A model of the ventilatory-depressant potency of remifentanil in the non-steady state.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2003;99:779–787.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Dahan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Romberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Teppema</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Sarton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Bijl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Simultaneous measurement and integrated analysis of analgesia and respiration after an intravenous morphine infusion</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>101</VolumeID>
+                  <FirstPage>1201</FirstPage>
+                  <LastPage>1209</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15505457</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200411000-00021</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXovVGhs7s%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dahan A, Romberg R, Teppema L, Sarton E, Bijl H, Olofsen E. Simultaneous measurement and integrated analysis of analgesia and respiration after an intravenous morphine infusion.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2004;101:1201–1209.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Sleigh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Daham</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">The influence of remifentanil on the dynamic relationship between sevoflurane and surrogate anesthetic effect measures derived from the EEG</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>96</VolumeID>
+                  <FirstPage>555</FirstPage>
+                  <LastPage>564</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11873028</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200203000-00009</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XisVGmt7c%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Olofsen E, Sleigh JW, Daham A. The influence of remifentanil on the dynamic relationship between sevoflurane and surrogate anesthetic effect measures derived from the EEG.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2002;96:555–564.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Minto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Schnider</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TG</Initials>
+                    <FamilyName>Short</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KM</Initials>
+                    <FamilyName>Gregg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gentilini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Shafer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Response surface model for anesthetic drug interactions</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>92</VolumeID>
+                  <FirstPage>1603</FirstPage>
+                  <LastPage>1616</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10839909</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200006000-00017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXksVGjsrg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Minto CF, Schnider TW, Short TG, Gregg KM, Gentilini A, Shafer SL. Response surface model for anesthetic drug interactions.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2000;92:1603–1616.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Bouillon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Bruhn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Radulescu</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Pharmacodynamic interaction between propofol and remifentanil regarding hypnosis, tolerance of laryngoscopy, bispectral index, and electroencephalographic approximate entropy</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>100</VolumeID>
+                  <FirstPage>1353</FirstPage>
+                  <LastPage>1372</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15166553</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200406000-00006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXksVKgt7w%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bouillon TW, Bruhn J, Radulescu L, et al. Pharmacodynamic interaction between propofol and remifentanil regarding hypnosis, tolerance of laryngoscopy, bispectral index, and electroencephalographic approximate entropy.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2004;100:1353–1372.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Dahan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Nieuwenhuijs</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Sarton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Romberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Teppema</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Response surface modeling of alfentanil-sevoflurane interaction on cardiorespiratory control and bispectral index</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>94</VolumeID>
+                  <FirstPage>982</FirstPage>
+                  <LastPage>991</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11465624</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200106000-00011</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXkslGqsrY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dahan A, Nieuwenhuijs D, Olofsen E, Sarton E, Romberg R, Teppema L. Response surface modeling of alfentanil-sevoflurane interaction on cardiorespiratory control and bispectral index.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2001;94:982–991.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DJF</Initials>
+                    <FamilyName>Nieuwenhuijs</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Romberg</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Response surface modeling of remifentanil-propofol interaction on cardiorespiratory control and bispectral index</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>98</VolumeID>
+                  <FirstPage>312</FirstPage>
+                  <LastPage>322</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12552187</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200302000-00008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXmsFCmtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nieuwenhuijs DJF, Olofsen E, Romberg RR, et al. Response surface modeling of remifentanil-propofol interaction on cardiorespiratory control and bispectral index.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2003;98:312–322.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PO</Initials>
+                    <FamilyName>Maitre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Bührer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Thomson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Stanski</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">A three-step approach combining Bayesian regression: application to midazolam</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>377</FirstPage>
+                  <LastPage>384</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1920085</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01061662</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK3MXms12qsrc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Maitre PO, Bührer M, Thomson D, Stanski DR. A three-step approach combining Bayesian regression: application to midazolam.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1991;19:377–384.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Mandema</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Verotta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Building population pharmacokineticpharmacodynamic models</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>511</FirstPage>
+                  <LastPage>528</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1287200</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01061469</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3s7msVWhsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mandema JW, Verotta D, Sheiner LB. Building population pharmacokineticpharmacodynamic models.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1992;20:511–528.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>El</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Stability and performance of a population pharmacokinetic model</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <FirstPage>486</FirstPage>
+                  <LastPage>495</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9208355</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXktlWisbk%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1002/j.1552-4604.1997.tb04326.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ette El. Stability and performance of a population pharmacokinetic model.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 1997;37:486–495.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Dahan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ChapterTitle Language="En">Response surface modeling of drug interactions: model selection and multimodel inference using the bootstrap</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>DS</Initials>
+                    <FamilyName>Ward</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Dahan</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>LJSM</Initials>
+                    <FamilyName>Teppema</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Pharmacology and Pathophysiology of the Control of Breathing</BookTitle>
+                  <PublisherName>Marcel Dekker</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibChapter>
+                <BibUnstructured>Olofsen E, Dahan A. Response surface modeling of drug interactions: model selection and multimodel inference using the bootstrap. In: Ward DS, Dahan A, Teppema LJSM, eds.<Emphasis Type="Italic">Pharmacology and Pathophysiology of the Control of Breathing</Emphasis>. New York: Marcel Dekker; 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Bonate</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">The effect of collinearity on parameter estimates in nonlinear mixed effects models</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>709</FirstPage>
+                  <LastPage>717</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10350015</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1018828709196</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXjt1yit70%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bonate PL. The effect of collinearity on parameter estimates in nonlinear mixed effects models.<Emphasis Type="Italic">Pharm Res</Emphasis>. 1999;16:709–717.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>43.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Ribbing</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EN</Initials>
+                    <FamilyName>Jonsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Power, selection bias and predictive performance of the population pharmacokinetic covariate model</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>109</FirstPage>
+                  <LastPage>134</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15379381</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/B:JOPA.0000034404.86036.72</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXlsFelu7c%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ribbing J, Jonsson EN. Power, selection bias and predictive performance of the population pharmacokinetic covariate model.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2004;31:109–134.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR44">
+                <CitationNumber>44.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Wählby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EN</Initials>
+                    <FamilyName>Jonsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">assessment of actual significance levels for covariate effects in NONMEN</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>231</FirstPage>
+                  <LastPage>252</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11468939</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011527125570</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wählby U, Jonsson EN, Karlsson MO. assessment of actual significance levels for covariate effects in NONMEN.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2001;28:231–252.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR45">
+                <CitationNumber>45.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GC</Initials>
+                    <FamilyName>Wallenstein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Stangier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Ludden</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Analyzing rich data using different methods provided by NONMEM: pharmacokinetics of telmisartan following intravenous infusion to healthy volunteers</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>772</FirstPage>
+                  <LastPage>776</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10350024</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011997229669</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXjt1yitLw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wallenstein GC, Stangier J, Ludden TM. Analyzing rich data using different methods provided by NONMEM: pharmacokinetics of telmisartan following intravenous infusion to healthy volunteers.<Emphasis Type="Italic">Pharm Res</Emphasis>. 1999;16:772–776.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR46">
+                <CitationNumber>46.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EN</Initials>
+                    <FamilyName>Jonsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Nonlinearity detection: advantages of nonlinear mixed-effects modeling</ArticleTitle>
+                  <JournalTitle>AAPS Pharm Sci</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <FirstPage>E32</FirstPage>
+                  <LastPage>E32</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1208/ps020332</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3MjgtVOitw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jonsson EN, Karlsson MO. Nonlinearity detection: advantages of nonlinear mixed-effects modeling.<Emphasis Type="Italic">AAPS Pharm Sci</Emphasis>. 2000;2:E32.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR47">
+                <CitationNumber>47.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JK</Initials>
+                    <FamilyName>Lindsey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Jones</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Jarvis</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Some statistical issues in modelling pharmacokinetic data</ArticleTitle>
+                  <JournalTitle>Stat Med</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>2775</FirstPage>
+                  <LastPage>2783</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11523082</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/sim.742</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3MvnvFGntg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lindsey JK, Jones B, Jarvis P. Some statistical issues in modelling pharmacokinetic data.<Emphasis Type="Italic">Stat Med</Emphasis>. 2001;20:2775–2783.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR48">
+                <CitationNumber>48.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">The intellectual health of clinical drug evaluation</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <FirstPage>4</FirstPage>
+                  <LastPage>9</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1855352</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3MzgvFaktQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/clpt.1991.97</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB. The intellectual health of clinical drug evaluation.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 1991;50:4–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR49">
+                <CitationNumber>49.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>KP</Initials>
+                    <FamilyName>Burnham</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Anderson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <BookTitle>Model Selection and Multimodel Inference</BookTitle>
+                  <EditionNumber>2nd ed</EditionNumber>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Burnham KP, Anderson DR. Model Selection and Multimodel Inference, 2nd ed. New York: Springer; 2002.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR50">
+                <CitationNumber>50.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Akaike</FamilyName>
+                  </BibAuthorName>
+                  <Year>1974</Year>
+                  <ArticleTitle Language="En">A new look at the statistical model identification</ArticleTitle>
+                  <JournalTitle>IEEE Trans Automat Contr</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>716</FirstPage>
+                  <LastPage>723</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TAC.1974.1100705</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Akaike H. A new look at the statistical model identification.<Emphasis Type="Italic">IEEE Trans Automat Contr</Emphasis>. 1974;19:716–723.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR51">
+                <CitationNumber>51.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Kuipers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Boer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>DeRoode</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Olofsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JG</Initials>
+                    <FamilyName>Bovill</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AGL</Initials>
+                    <FamilyName>Burm</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Modeling population pharmacokinetics of lidocaine: should cardiac output be included as a patient factor?</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>94</VolumeID>
+                  <FirstPage>566</FirstPage>
+                  <LastPage>573</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11379674</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200104000-00007</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXjtVyisLY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kuipers JA, Boer F, DeRoode A, Olofsen E, Bovill JG, Burm AGL. Modeling population pharmacokinetics of lidocaine: should cardiac output be included as a patient factor?<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2001;94:566–573.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR52">
+                <CitationNumber>52.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Minto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Schnider</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Shafer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Pharmacokinetics and pharmacodynamics of remifentanil. II. Model application</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>86</VolumeID>
+                  <FirstPage>24</FirstPage>
+                  <LastPage>33</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9009936</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-199701000-00005</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXosl2ltw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Minto CF, Schnider TW, Shafer SL. Pharmacokinetics and pharmacodynamics of remifentanil. II. Model application.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1997;86:24–33.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR53">
+                <CitationNumber>53.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TG</Initials>
+                    <FamilyName>Short</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TY</Initials>
+                    <FamilyName>Ho</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Minto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Schnider</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Shafer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Efficient trial design for eliciting a pharmacokinetic-pharmacodynamic model-based response surface describing the interaction between two intravenous anesthetic drugs</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>96</VolumeID>
+                  <FirstPage>400</FirstPage>
+                  <LastPage>408</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11818774</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200202000-00027</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XhsVGnurY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Short TG, Ho TY, Minto CF, Schnider TW, Shafer SL. Efficient trial design for eliciting a pharmacokinetic-pharmacodynamic model-based response surface describing the interaction between two intravenous anesthetic drugs.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2002;96:400–408.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR54">
+                <CitationNumber>54.</CitationNumber>
+                <BibUnstructured>Roy A, Ette El. A pragmatic approach to the design of population pharmacokinetic studies.<Emphasis Type="Italic">AAPSJ PharmSciTech</Emphasis>. In press.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR55">
+                <CitationNumber>55.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Lu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Bailey</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Reliability of pharmacodynamic analysis by logistic regression—a simulation study</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>92</VolumeID>
+                  <FirstPage>985</FirstPage>
+                  <LastPage>992</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10754617</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-200004000-00015</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXivVeitb8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lu W, Bailey JM. Reliability of pharmacodynamic analysis by logistic regression—a simulation study.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 2000;92:985–992.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR56">
+                <CitationNumber>56.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Jönsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MC</Initials>
+                    <FamilyName>Kjellson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Estimating bias in population parameters for some models for repeated measures ordinal data using NONMEM and NLMIXED</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>299</FirstPage>
+                  <LastPage>320</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15563005</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/B:JOPA.0000042738.06821.61</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jönsson S, Kjellson MC, Karlsson MO. Estimating bias in population parameters for some models for repeated measures ordinal data using NONMEM and NLMIXED.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2004;31:299–320.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR57">
+                <CitationNumber>57.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Yano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Evaluating pharmacokinetic/pharmacodynamic models using the posterior predictive check</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>171</FirstPage>
+                  <LastPage>192</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11381569</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011555016423</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD38%2FhtV2htg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yano Y, Beal SL, Sheiner LB. Evaluating pharmacokinetic/pharmacodynamic models using the posterior predictive check.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2001;28:171–192.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR58">
+                <CitationNumber>58.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PO</Initials>
+                    <FamilyName>Maitre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Stanski</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Bayesian forecasting improves the prediction of intraoperative plasma concentrations of alfentanil</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>69</VolumeID>
+                  <FirstPage>652</FirstPage>
+                  <LastPage>659</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3142308</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-198811000-00004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL1MXitlQ%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Maitre PO, Stanski DR. Bayesian forecasting improves the prediction of intraoperative plasma concentrations of alfentanil.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1988;69:652–659.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR59">
+                <CitationNumber>59.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>Brater</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Bayesian dosing of anesthetic agents: esoteric or practical</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>69</VolumeID>
+                  <FirstPage>641</FirstPage>
+                  <LastPage>462</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3189911</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-198811000-00002</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1M%2FkvVCntw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Brater DC. Bayesian dosing of anesthetic agents: esoteric or practical.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1988;69:641–462.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR60">
+                <CitationNumber>60.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Schnider</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Minto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Bruckert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Mandema</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Population pharmacodynamic modeling and covariate detection for central neural blockade</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>85</VolumeID>
+                  <FirstPage>502</FirstPage>
+                  <LastPage>512</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8853080</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-199609000-00009</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s%2FgsFOrsw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schnider TW, Minto CF, Bruckert H, Mandema JW. Population pharmacodynamic modeling and covariate detection for central neural blockade.<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1996;85:502–512.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR61">
+                <CitationNumber>61.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Rosenberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>VV</Initials>
+                    <FamilyName>Marathe</FamilyName>
+                  </BibAuthorName>
+                  <Year>1979</Year>
+                  <ArticleTitle Language="En">Forecasting individual pharmacokinetics</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>294</FirstPage>
+                  <LastPage>305</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>466923</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaE1M3jsFagsw%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1002/cpt1979263294</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Beal S, Rosenberg B, Marathe VV. Forecasting individual pharmacokinetics.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 1979;26:294–305.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR62">
+                <CitationNumber>62.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gentilini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CW</Initials>
+                    <FamilyName>Frei</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AH</Initials>
+                    <FamilyName>Glattfedler</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Multitasked closed-loop control in anesthesia</ArticleTitle>
+                  <JournalTitle>IEEE Eng Med Biol Mag</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>39</FirstPage>
+                  <LastPage>53</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11211660</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/51.897827</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3M3gtlShsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gentilini A, Frei CW, Glattfedler AH, et al. Multitasked closed-loop control in anesthesia.<Emphasis Type="Italic">IEEE Eng Med Biol Mag</Emphasis>. 2001;20:39–53.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR63">
+                <CitationNumber>63.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Fisher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PMC</Initials>
+                    <FamilyName>Wright</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Are plasma concentration values necessary for pharmacodynamic modeling of muscle relaxants?</ArticleTitle>
+                  <JournalTitle>Anesthesiology</JournalTitle>
+                  <VolumeID>86</VolumeID>
+                  <FirstPage>567</FirstPage>
+                  <LastPage>575</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9066322</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00000542-199703000-00008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXit1amtrg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fisher DM, Wright PMC. Are plasma concentration values necessary for pharmacodynamic modeling of muscle relaxants?<Emphasis Type="Italic">Anesthesiology</Emphasis>. 1997;86:567–575.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

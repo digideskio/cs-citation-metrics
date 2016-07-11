@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Japan</PublisherName>
+    <PublisherLocation>Japan</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10047</JournalID>
+      <JournalPrintISSN>1434-7229</JournalPrintISSN>
+      <JournalElectronicISSN>1619-0904</JournalElectronicISSN>
+      <JournalTitle>Journal of Artificial Organs</JournalTitle>
+      <JournalSubTitle>The Official Journal of the Japanese Society for Artificial Organs</JournalSubTitle>
+      <JournalAbbreviatedTitle>J Artif Organs</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Type="Secondary">Hepatology </JournalSubject>
+        <JournalSubject Type="Secondary">Nephrology </JournalSubject>
+        <JournalSubject Type="Secondary">Orthopedics </JournalSubject>
+        <JournalSubject Type="Secondary">Biomedical Engineering</JournalSubject>
+        <JournalSubject Type="Secondary">Cardiac Surgery </JournalSubject>
+        <JournalSubject Type="Secondary">Surgery </JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>11</VolumeIDStart>
+        <VolumeIDEnd>11</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>12</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2008</Year>
+              <Month>10</Month>
+              <Day>5</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2008</Year>
+              <Month>9</Month>
+            </CoverDate>
+            <PricelistYear>2008</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Japanese Society for Artificial Organs</CopyrightHolderName>
+            <CopyrightYear>2008</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10047-008-0416-5" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>416</ArticleID>
+            <ArticleDOI>10.1007/s10047-008-0416-5</ArticleDOI>
+            <ArticleSequenceNumber>4</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Simulation of the fluid dynamics in artificial aortic roots: comparison of two different types of prostheses</ArticleTitle>
+            <ArticleCategory>Original Article</ArticleCategory>
+            <ArticleFirstPage>123</ArticleFirstPage>
+            <ArticleLastPage>129</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+              </Received>
+              <Accepted>
+                <Year>2008</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2008</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Japanese Society for Artificial Organs</CopyrightHolderName>
+              <CopyrightYear>2008</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Christoph</GivenName>
+                  <GivenName>L.</GivenName>
+                  <FamilyName>Bara</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>+49-511-532-6310</Phone>
+                  <Fax>+49-511-532-6309</Fax>
+                  <Email>bara.christoph@mh-hannover.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Janko</GivenName>
+                  <GivenName>F.</GivenName>
+                  <FamilyName>Verhey</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Cardiac, Thoracic, Transplantation and Vascular Surgery</OrgDivision>
+                <OrgName>Hannover Medical School (OE6210)</OrgName>
+                <OrgAddress>
+                  <Street>Carl-Neuberg-Str. 1</Street>
+                  <Postcode>D-30625</Postcode>
+                  <City>Hannover</City>
+                  <Country Code="DE">Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>MVIP Imaging Products GmbH</OrgDivision>
+                <OrgName>Nörten-Hardenberg</OrgName>
+                <OrgAddress>
+                  <City>Lower Saxony</City>
+                  <Country Code="DE">Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>Department of Medical Informatics</OrgDivision>
+                <OrgName>University Hospital Göttingen</OrgName>
+                <OrgAddress>
+                  <City>Göttingen</City>
+                  <Country Code="DE">Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>As a consequence of the growing number of elderly people, the incidence of degenerative aortic diseases continues to increase. Often, artificial aortic roots are needed to replace the native tissue. Some physical characteristics of the artificial aortic root, however, are quite different from native aorta and need to be optimized. The supposed benefit of a prosthesis with artificial sinuses of Valsalva could first be checked by numerical calculations. Two simplified base geometries were used for simulating the flow and pressure distributions, especially in the coronary arteries. One model approximates the ascending aorta as a tube, and the other uses a design with toroidal dilation of the aortic root to approximate the native geometry of the sinuses of Valsalva. The flow and pressure distributions in both models were compared in the ascending aorta as well as in the right and the left coronary arteries. Both the pressure and the velocity distribution in the coronary artery region were not significantly higher in the model with the sinus design compared to the tube model. The sinus design only slightly increased the mean pressures and the velocities in both the ascending aorta and in the coronary arteries. Higher pressure in the coronary arteries should improve the blood circulation and decrease the risk of a surgery-related coronary incident. The sinus design did not show the hopedfor benefits, and therefore it is only a minor factor in optimizing future aortic root prostheses.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Hemodynamics</Keyword>
+              <Keyword>Coronary circulation</Keyword>
+              <Keyword>Computer modeling</Keyword>
+              <Keyword>Aortic surgery</Keyword>
+              <Keyword>Aortal prosthesis</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <BodyRef TargetType="OnlinePDF" FileRef="BodyRef/PDF/10047_2008_Article_416.pdf"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Kallenbach</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Karck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Pak</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Salcher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Khaladj</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Leyh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Hagl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Haverich</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Decade of aortic valve-sparing reimplantation: are we pushing the limits too far?</ArticleTitle>
+                  <JournalTitle>Circulation</JournalTitle>
+                  <VolumeID>112</VolumeID>
+                  <IssueID>suppl9</IssueID>
+                  <FirstPage>I253</FirstPage>
+                  <LastPage>259</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>16159826</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kallenbach K, Karck M, Pak D, Salcher R, Khaladj N, Leyh R, Hagl C, Haverich A. Decade of aortic valve-sparing reimplantation: are we pushing the limits too far? Circulation 2005;112(suppl 9):I253–259</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Kallenbach</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Karck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.G.</Initials>
+                    <FamilyName>Leyh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Hagl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Walles</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Harringer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Haverich</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Valve-sparing aortic root reconstruction in patients with significant aortic insufficiency</ArticleTitle>
+                  <JournalTitle>Ann Thorac Surg</JournalTitle>
+                  <VolumeID>74</VolumeID>
+                  <FirstPage>1765</FirstPage>
+                  <LastPage>1768</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0003-4975(02)04143-7</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kallenbach K, Karck M, Leyh RG, Hagl C, Walles T, Harringer W, Haverich A. Valve-sparing aortic root reconstruction in patients with significant aortic insufficiency. Ann Thorac Surg 2002;74:1765–1768; discussion S92-99</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Karck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Kallenbach</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Hagl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Rhein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Leyh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Haverich</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Aortic root surgery in Marfan syndrome: comparison of aortic valve-sparing reimplantation versus composite grafting</ArticleTitle>
+                  <JournalTitle>J Thorac Cardiovasc Surg</JournalTitle>
+                  <VolumeID>127</VolumeID>
+                  <FirstPage>391</FirstPage>
+                  <LastPage>398</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14762346</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jtcvs.2003.07.049</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Karck M, Kallenbach K, Hagl C, Rhein C, Leyh R, Haverich A. Aortic root surgery in Marfan syndrome: comparison of aortic valve-sparing reimplantation versus composite grafting. J Thorac Cardiovasc Surg 2004;127:391–398</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.E.</Initials>
+                    <FamilyName>David</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.M.</Initials>
+                    <FamilyName>Feindel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">An aortic valve-sparing operation for patients with aortic incompetence and aneurysm of the ascending aorta</ArticleTitle>
+                  <JournalTitle>J Thorac Cardiovasc Surg</JournalTitle>
+                  <VolumeID>103</VolumeID>
+                  <FirstPage>617</FirstPage>
+                  <LastPage>622</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1532219</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK387psVOlug%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>David TE, Feindel CM. An aortic valve-sparing operation for patients with aortic incompetence and aneurysm of the ascending aorta. J Thorac Cardiovasc Surg 1992;103:617–622</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Yacoub</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Fagan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Tassano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Radley-Smith</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <ArticleTitle Language="En">Result of valveconserving operations for aortic regurgitation</ArticleTitle>
+                  <JournalTitle>Circulation</JournalTitle>
+                  <VolumeID>68</VolumeID>
+                  <IssueID>suppl3</IssueID>
+                  <FirstPage>321</FirstPage>
+                </BibArticle>
+                <BibUnstructured>Yacoub M, Fagan A, Tassano P, Radley-Smith R. Result of valveconserving operations for aortic regurgitation. Circulation 1983; 68(suppl 3):321</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Mingke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Dresler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.D.</Initials>
+                    <FamilyName>Stone</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Borst</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Composite graft replacement of the aortic root in 335 patients with aneurysm or dissection</ArticleTitle>
+                  <JournalTitle>Thorac Cardiovasc Surg</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <FirstPage>12</FirstPage>
+                  <LastPage>19</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9554042</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c3hsVKlsg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1055/s-2007-1010177</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mingke D, Dresler C, Stone CD, Borst H. Composite graft replacement of the aortic root in 335 patients with aneurysm or dissection. Thorac Cardiovasc Surg 1998;46:12–19</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V.L.</Initials>
+                    <FamilyName>Gott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.M.</Initials>
+                    <FamilyName>Gillinov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.E.</Initials>
+                    <FamilyName>Pyeritz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.E.</Initials>
+                    <FamilyName>Cameron</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.A.</Initials>
+                    <FamilyName>Reitz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.S.</Initials>
+                    <FamilyName>Greene</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.D.</Initials>
+                    <FamilyName>Stone</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.L.</Initials>
+                    <FamilyName>Ferris</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.E.</Initials>
+                    <FamilyName>Alejo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V.A.</Initials>
+                    <FamilyName>McKusick</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Aortic root replacement. Risk factor analysis of a seventeen-year experience with 270 patients</ArticleTitle>
+                  <JournalTitle>J Thorac Cardiovasc Surg</JournalTitle>
+                  <VolumeID>109</VolumeID>
+                  <FirstPage>536</FirstPage>
+                  <LastPage>545</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7877316</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0022-5223(95)70286-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M7ot1Kitw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gott VL, Gillinov AM, Pyeritz RE, Cameron DE, Reitz BA, Greene PS, Stone CD, Ferris RL, Alejo DE, McKusick VA. Aortic root replacement. Risk factor analysis of a seventeen-year experience with 270 patients. J Thorac Cardiovasc Surg 1995;109: 536–545</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>E.M.</Initials>
+                    <FamilyName>Isselbacher</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ChapterTitle Language="En">Diseases of the aorta</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Braunwald</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>D.P.</Initials>
+                    <FamilyName>Zipes</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Libby</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Heart disease: a textbook of cardiovascular medicine</BookTitle>
+                  <EditionNumber>6th edn.</EditionNumber>
+                  <PublisherName>W.B. Saunders</PublisherName>
+                  <PublisherLocation>Philadelphia</PublisherLocation>
+                  <FirstPage>1422</FirstPage>
+                </BibChapter>
+                <BibUnstructured>Isselbacher EM. Diseases of the aorta. In: Braunwald E, Zipes DP, Libby P (eds) Heart disease: a textbook of cardiovascular medicine, vol 2. 6th edn. Philadelphia: W.B. Saunders, 2001; 1422</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Lindsay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.E.</Initials>
+                    <FamilyName>DeBakey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.C.</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ChapterTitle Language="En">Diagnosis and treatment of diseases of the aorta</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>R.C.</Initials>
+                    <FamilyName>Schlant</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>R.W.</Initials>
+                    <FamilyName>Alexander</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Hurst’s the heart: arteries and veins</BookTitle>
+                  <EditionNumber>8th edn.</EditionNumber>
+                  <PublisherName>McGraw-Hill</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>2163</FirstPage>
+                </BibChapter>
+                <BibUnstructured>Lindsay J, DeBakey ME, Beal AC. Diagnosis and treatment of diseases of the aorta. In: Schlant RC, Alexander RW (eds) Hurst’s the heart: arteries and veins. 8th edn. New York: McGraw-Hill, 1994;2163</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>R.C.</Initials>
+                    <FamilyName>Schlant</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.H.</Initials>
+                    <FamilyName>Sonnenblick</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ChapterTitle Language="En">Normal physiology of the cardiovascular system</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>R.C.</Initials>
+                    <FamilyName>Schlant</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>R.W.</Initials>
+                    <FamilyName>Alexander</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Hurst’s the heart: arteries and veins</BookTitle>
+                  <EditionNumber>8th edn.</EditionNumber>
+                  <PublisherName>McGraw-Hill</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>139</FirstPage>
+                </BibChapter>
+                <BibUnstructured>Schlant RC, Sonnenblick EH. Normal physiology of the cardiovascular system. In: Schlant RC, Alexander RW (eds) Hurst’s the heart: arteries and veins. 8th edn. New York: McGraw-Hill, 1994; 139</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Paulis</FamilyName>
+                    <Particle>De</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Tomai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Bertoldo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.S.</Initials>
+                    <FamilyName>Ghini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Scaffa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Nardi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Chiariello</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Coronary flow characteristics after a Bentall procedure with or without sinuses of Valsalva</ArticleTitle>
+                  <JournalTitle>Eur J Cardiothorac Surg</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>66</FirstPage>
+                  <LastPage>72</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15200981</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ejcts.2004.04.031</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>De Paulis R, Tomai F, Bertoldo F, Ghini AS, Scaffa R, Nardi P, Chiariello L. Coronary flow characteristics after a Bentall procedure with or without sinuses of Valsalva. Eur J Cardiothorac Surg 2004;26:66–72</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>R.A.</Initials>
+                    <FamilyName>Granger</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <BookTitle>Fluid mechanics</BookTitle>
+                  <PublisherName>Dover Publications</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Granger RA. Fluid mechanics. New York: Dover Publications, 1995</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Gursahani S, Ponce E, Nagaraju M, Tatke S. Biofluid dynamics of the artificial heart. In: Goyal MR (ed) Congress on Biofluid Dynamics of Human Body Systems at Biomedical Engineering. Miami: 2003;B1–25</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.B.</Initials>
+                    <FamilyName>Shim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.Y.</Initials>
+                    <FamilyName>Yeo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.J.</Initials>
+                    <FamilyName>Ko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.H.</Initials>
+                    <FamilyName>Youn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.R.</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.Y.</Initials>
+                    <FamilyName>Park</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.G.</Initials>
+                    <FamilyName>Min</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Numerical analysis of the three-dimensional blood flow in the Korean artificial heart</ArticleTitle>
+                  <JournalTitle>Artif Organs</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>49</FirstPage>
+                  <LastPage>60</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12534713</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1525-1594.2003.07180.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shim EB, Yeo JY, Ko HJ, Youn CH, Lee YR, Park CY, Min BG, Sun K. Numerical analysis of the three-dimensional blood flow in the Korean artificial heart. Artif Organs 2003;27:49–60</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Pekkan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Zelicourt</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Ge</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Sotiropoulos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Frakes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.A.</Initials>
+                    <FamilyName>Fogel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.P.</Initials>
+                    <FamilyName>Yoganathan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Physics-driven CFD modeling of complex anatomical cardiovascular flows-a TCPC case study</ArticleTitle>
+                  <JournalTitle>Ann Biomed Eng</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <FirstPage>284</FirstPage>
+                  <LastPage>300</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15868719</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10439-005-1731-0</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pekkan K, de Zelicourt D, Ge L, Sotiropoulos F, Frakes D, Fogel MA, Yoganathan AP. Physics-driven CFD modeling of complex anatomical cardiovascular flows-a TCPC case study. Ann Biomed Eng 2005;33:284–300</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Song</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.G.</Initials>
+                    <FamilyName>Wood</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Olsen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Computational fluid dynamics (CFD) study of the 4th-generation prototype of a continuous flow ventricular assist device (VAD)</ArticleTitle>
+                  <JournalTitle>J Biomech Eng</JournalTitle>
+                  <VolumeID>126</VolumeID>
+                  <FirstPage>180</FirstPage>
+                  <LastPage>187</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15179847</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1115/1.1688776</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Song X, Wood HG, Olsen D. Computational fluid dynamics (CFD) study of the 4th-generation prototype of a continuous flow ventricular assist device (VAD). J Biomech Eng 2004;126:180–187</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Watanabe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Hisada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Sugiura</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Okada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Fukunari</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Computer simulation of blood flow, left ventricular wall motion and their interrelationship by fluid-structure interaction finite element method</ArticleTitle>
+                  <JournalTitle>JSME Int J Series C</JournalTitle>
+                  <VolumeID>45</VolumeID>
+                  <FirstPage>1003</FirstPage>
+                  <LastPage>1012</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1299/jsmec.45.1003</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Watanabe H, Hisada T, Sugiura S, Okada J, Fukunari H. Computer simulation of blood flow, left ventricular wall motion and their interrelationship by fluid-structure interaction finite element method. JSME Int J Series C 2002;45:1003–1012</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.L.</Initials>
+                    <FamilyName>Throckmorton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.S.</Initials>
+                    <FamilyName>Lim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.A.</Initials>
+                    <FamilyName>McCulloch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Jiang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Song</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.E.</Initials>
+                    <FamilyName>Allaire</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.G.</Initials>
+                    <FamilyName>Wood</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.B.</Initials>
+                    <FamilyName>Olsen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Computational design and experimental performance testing of an axial-flow pediatric ventricular assist device</ArticleTitle>
+                  <JournalTitle>ASAIO J</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <FirstPage>629</FirstPage>
+                  <LastPage>635</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>16322729</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/01.mat.0000177541.53513.a8</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Throckmorton AL, Lim DS, McCulloch MA, Jiang W, Song X, Allaire PE, Wood HG, Olsen DB. Computational design and experimental performance testing of an axial-flow pediatric ventricular assist device. ASAIO J 2005;51:629–635</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Yin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Alemu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Affeld</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Jesty</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Bluestein</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Flow-induced platelet activation in bileaflet and monoleaflet mechanical heart valves</ArticleTitle>
+                  <JournalTitle>Ann Biomed Eng</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>1058</FirstPage>
+                  <LastPage>1066</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15446502</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1114/B:ABME.0000036642.21895.3f</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yin W, Alemu Y, Affeld K, Jesty J, Bluestein D. Flow-induced platelet activation in bileaflet and monoleaflet mechanical heart valves. Ann Biomed Eng 2004;32:1058–1066</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Ge</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.L.</Initials>
+                    <FamilyName>Leo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Sotiropoulos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.P.</Initials>
+                    <FamilyName>Yoganathan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Flow in a mechanical bileaflet heart valve at laminar and near-peak systole flow rates: CFD simulations and experiments</ArticleTitle>
+                  <JournalTitle>J Biomech Eng</JournalTitle>
+                  <VolumeID>127</VolumeID>
+                  <FirstPage>782</FirstPage>
+                  <LastPage>797</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>16248308</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1115/1.1993665</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ge L, Leo HL, Sotiropoulos F, Yoganathan AP. Flow in a mechanical bileaflet heart valve at laminar and near-peak systole flow rates: CFD simulations and experiments. J Biomech Eng 2005; 127:782–797</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.M.</Initials>
+                    <FamilyName>Black</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.J.</Initials>
+                    <FamilyName>Drury</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Mechanical and other problems of artificial valves</ArticleTitle>
+                  <JournalTitle>Curr Top Pathol</JournalTitle>
+                  <VolumeID>86</VolumeID>
+                  <FirstPage>127</FirstPage>
+                  <LastPage>159</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8162709</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c3hsFehtw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Black MM, Drury PJ. Mechanical and other problems of artificial valves. Curr Top Pathol 1994;86:127–159</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.R.</Initials>
+                    <FamilyName>Choi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.N.</Initials>
+                    <FamilyName>Kim</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Analysis of blood flow interacted with leaflets in MHV in view of fluid-structure interaction</ArticleTitle>
+                  <JournalTitle>KSME J</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>613</FirstPage>
+                  <LastPage>622</LastPage>
+                </BibArticle>
+                <BibUnstructured>Choi CR, Kim CN. Analysis of blood flow interacted with leaflets in MHV in view of fluid-structure interaction. KSME J 2001;15: 613–622</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Hart</FamilyName>
+                    <Particle>De</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.W.M.</Initials>
+                    <FamilyName>Peters</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.J.G.</Initials>
+                    <FamilyName>Schreurs</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.P.T.</Initials>
+                    <FamilyName>Baaijens</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A threedimensional computational analysis of fluid-structure interaction in the aortic valve</ArticleTitle>
+                  <JournalTitle>J Biomech</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <FirstPage>103</FirstPage>
+                  <LastPage>112</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12485644</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0021-9290(02)00244-0</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>De Hart J, Peters GWM, Schreurs PJG, Baaijens FPT. A threedimensional computational analysis of fluid-structure interaction in the aortic valve. J Biomech 2003;36:103–112</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Grigioni</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Daniele</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Morbiducci</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>D’Avenio</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Benedetto</FamilyName>
+                    <Particle>Di</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Gaudio</FamilyName>
+                    <Particle>Del</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Barbaro</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Computational model of the fluid dynamics of a cannula inserted in a vessel: incidence of the presence of side holes in blood flow</ArticleTitle>
+                  <JournalTitle>J Biomech</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>1599</FirstPage>
+                  <LastPage>1612</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12445613</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0021-9290(02)00231-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD38novVansg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Grigioni M, Daniele C, Morbiducci U, D’Avenio G, Di Benedetto G, Del Gaudio C, Barbaro V. Computational model of the fluid dynamics of a cannula inserted in a vessel: incidence of the presence of side holes in blood flow. J Biomech 2002;35:1599–1612</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.P.</Initials>
+                    <FamilyName>Yoganathan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.B.</Initials>
+                    <FamilyName>Chandran</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Sotiropoulos</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Flow in prosthetic heart valves: state-of-the-art and future directions</ArticleTitle>
+                  <JournalTitle>Ann Biomed Eng</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <FirstPage>1689</FirstPage>
+                  <LastPage>1694</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>16389514</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10439-005-8759-z</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yoganathan AP, Chandran KB, Sotiropoulos F. Flow in prosthetic heart valves: state-of-the-art and future directions. Ann Biomed Eng 2005;33:1689–1694</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Leuprecht</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Perktold</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Kozerke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Boesiger</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Combined CFD and MRI study of blood flow in a human ascending aorta model</ArticleTitle>
+                  <JournalTitle>Biorheology</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>425</FirstPage>
+                  <LastPage>429</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12122262</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Leuprecht A, Perktold K, Kozerke S, Boesiger P. Combined CFD and MRI study of blood flow in a human ascending aorta model. Biorheology 2002;39:425–429</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N.R.</Initials>
+                    <FamilyName>Saber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.B.</Initials>
+                    <FamilyName>Wood</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.D.</Initials>
+                    <FamilyName>Gosman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.D.</Initials>
+                    <FamilyName>Merrifield</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.-Z.</Initials>
+                    <FamilyName>Yang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.L.</Initials>
+                    <FamilyName>Charrier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.D.</Initials>
+                    <FamilyName>Gatehouse</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.N.</Initials>
+                    <FamilyName>Firmin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Progress towards patientspecific computational flow modeling of the left heart via combination of magnetic resonance imaging with computational fluid dynamics</ArticleTitle>
+                  <JournalTitle>Ann Biomed Eng</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>42</FirstPage>
+                  <LastPage>52</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12572655</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1114/1.1533073</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Saber NR, Wood NB, Gosman AD, Merrifield RD, Yang G-Z, Charrier CL, Gatehouse PD, Firmin DN. Progress towards patientspecific computational flow modeling of the left heart via combination of magnetic resonance imaging with computational fluid dynamics. Ann Biomed Eng 2003;31:42–52</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Sankaranarayanan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.P.</Initials>
+                    <FamilyName>Chua</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.N.</Initials>
+                    <FamilyName>Ghista</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.S.</Initials>
+                    <FamilyName>Tan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Computational model of blood flow in the aorto-coronary bypass graft</ArticleTitle>
+                  <JournalTitle>Biomed Eng Online</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>14</FirstPage>
+                  <Occurrence Type="PID">
+                    <Handle>15745458</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1475-925X-4-14</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sankaranarayanan M, Chua LP, Ghista DN, Tan YS. Computational model of blood flow in the aorto-coronary bypass graft. Biomed Eng Online 2005;4:14</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V.B.</Initials>
+                    <FamilyName>Makhijani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.Q.</Initials>
+                    <FamilyName>Yang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.J.</Initials>
+                    <FamilyName>Dionne</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.J.</Initials>
+                    <FamilyName>Thubrikar</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Threedimensional coupled fluid-structure simulation of pericardial bioprosthetic aortic valve function</ArticleTitle>
+                  <JournalTitle>ASAIO J</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>M387</FirstPage>
+                  <LastPage>392</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9360067</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c%2FisVertg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00002480-199709000-00005</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Makhijani VB, Yang HQ, Dionne PJ, Thubrikar MJ. Threedimensional coupled fluid-structure simulation of pericardial bioprosthetic aortic valve function. ASAIO J 1997;43:M387–392</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>May-Newman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Hillen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Dembitsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Effect of left ventricular assist device outflow conduit anastomosis location on flow patterns in the native aorta</ArticleTitle>
+                  <JournalTitle>ASAIO J</JournalTitle>
+                  <VolumeID>52</VolumeID>
+                  <FirstPage>132</FirstPage>
+                  <LastPage>139</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>16557097</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/01.mat.0000201961.97981.e9</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>May-Newman K, Hillen B, Dembitsky W. Effect of left ventricular assist device outflow conduit anastomosis location on flow patterns in the native aorta. ASAIO J 2006;52:132–139</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.D.</Initials>
+                    <FamilyName>May-Newman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.K.</Initials>
+                    <FamilyName>Hillen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.S.</Initials>
+                    <FamilyName>Sironda</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Dembitsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Effect of LVAD outflow conduit insertion angle on flow through the native aorta</ArticleTitle>
+                  <JournalTitle>J Med Eng Technol</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>105</FirstPage>
+                  <LastPage>109</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15204615</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/0309190042000193865</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD2czms1ynug%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>May-Newman KD, Hillen BK, Sironda CS, Dembitsky W. Effect of LVAD outflow conduit insertion angle on flow through the native aorta. J Med Eng Technol 2004;28:105–109</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Kiris</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Kwak</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Rogers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I.D.</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Computational approach for probing the flow through artificial heart devices</ArticleTitle>
+                  <JournalTitle>J Biomech Eng</JournalTitle>
+                  <VolumeID>119</VolumeID>
+                  <FirstPage>452</FirstPage>
+                  <LastPage>460</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9407285</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1115/1.2798293</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c%2FntFWktA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kiris C, Kwak D, Rogers S, Chang ID. Computational approach for probing the flow through artificial heart devices. J Biomech Eng 1997;119:452–460</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.J.</Initials>
+                    <FamilyName>King</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Corden</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>David</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Fisher</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">A three-dimensional, time-dependent analysis of flow through a bileaflet mechanical heart valve: comparison of experimental and numerical results</ArticleTitle>
+                  <JournalTitle>J Biomech</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>609</FirstPage>
+                  <LastPage>618</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8707787</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0021-9290(95)00107-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK283lsV2qtw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>King MJ, Corden J, David T, Fisher J. A three-dimensional, time-dependent analysis of flow through a bileaflet mechanical heart valve: comparison of experimental and numerical results. J Biomech 1996;29:609–618</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

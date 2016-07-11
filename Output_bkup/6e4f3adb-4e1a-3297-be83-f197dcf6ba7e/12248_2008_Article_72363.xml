@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>6</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art12">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>72363</ArticleID>
+            <ArticleDOI>10.1208/aapsj070237</ArticleDOI>
+            <ArticleSequenceNumber>12</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Recommended reading in population pharmacokinetic pharmacodynamics</ArticleTitle>
+            <ArticleFirstPage>E363</ArticleFirstPage>
+            <ArticleLastPage>E373</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2005</Year>
+                <Month>3</Month>
+                <Day>30</Day>
+              </Received>
+              <Accepted>
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>2</IssueIDStart>
+              <IssueIDEnd>2</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Peter</GivenName>
+                  <GivenName>L.</GivenName>
+                  <FamilyName>Bonate</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>(210) 949-8662</Phone>
+                  <Fax>(210) 949-8219</Fax>
+                  <Email>peter.bonate@genzyme.com</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgName>Genzyme Corporation</OrgName>
+                <OrgAddress>
+                  <Street>4545 Horizon Hill Blvd.</Street>
+                  <Postcode>78229</Postcode>
+                  <City>San Antonio</City>
+                  <State>TX</State>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Developing the skills or expertise to create useful population pharmacokinetic-pharmacodynamic models can be a daunting task-the level of mathematical and statistical complexity is such that newcomers to the field are frequently overwhelmed. A good place to start in learning the field is to read articles in the literature. However, the number of articles dealing with population pharmacokinetic pharmacodynamics is exponentially increasing on a yearly basis, so choosing which articles to read can be difficult. The purpose of this review is to provide a recommended reading list for newcomers to the field. The list was chosen based on perceived impact of the article in the field, the quality of the article, or to highlight some important detail contained within the article. After reading the articles in the list, it is believed that the reader will have a broad overview of the field and have a sound foundation for moredetailed reading of the literature.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>NONMEM</Keyword>
+              <Keyword>influential articles</Keyword>
+              <Keyword>review</Keyword>
+              <Keyword>first-order approximation</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: October 5, 2005</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_72363.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Rosenberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Marathe</FamilyName>
+                  </BibAuthorName>
+                  <Year>1977</Year>
+                  <ArticleTitle Language="En">Estimation of population characteristics of pharmacokinetic parameters from routine clinical data</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>445</FirstPage>
+                  <LastPage>479</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>925881</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01061728</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE1cXksVOiuw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Rosenberg B, Marathe V. Estimation of population characteristics of pharmacokinetic parameters from routine clinical data.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1977;5:445–479.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">Evaluation of methods for estimating population pharmacokinetic parameters. II. Biexponential model and experimental pharmacokinetic data</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>635</FirstPage>
+                  <LastPage>651</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7334463</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01061030</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL38Xmt1GksQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Beal SL. Evaluation of methods for estimating population pharmacokinetic parameters. II. Biexponential model and experimental pharmacokinetic data.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1981;9:635–651.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">Evaluation of methods for estimating population pharmacokinetic parameters. III. Monoexponential model: routine pharmacokinetic data</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>303</FirstPage>
+                  <LastPage>319</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01061870</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Beal SL. Evaluation of methods for estimating population pharmacokinetic parameters. III. Monoexponential model: routine pharmacokinetic data.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1982;11:303–319.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Evaluation of methods for estimating population pharmacokinetics parameters. I. Michaelis-Menten model: routine clinical pharmacokinetic data</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>553</FirstPage>
+                  <LastPage>571</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7229908</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01060053</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL3M7psVWgsQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Beal SL. Evaluation of methods for estimating population pharmacokinetics parameters. I. Michaelis-Menten model: routine clinical pharmacokinetic data.<Emphasis Type="Italic">J Pharmacokinet Biopharm.</Emphasis> 1980;8:553–571.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CC</Initials>
+                    <FamilyName>Peck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AI</Initials>
+                    <FamilyName>Nichols</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Extended least squares nonlinear regression: a possible solution to the “choice of weights” problem in analysis of individual pharmacokinetic data</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>545</FirstPage>
+                  <LastPage>558</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6520748</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01060132</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL2MXnt1eqtw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Peck CC, Beal SL, Sheiner LB, Nichols AI. Extended least squares nonlinear regression: a possible solution to the “choice of weights” problem in analysis of individual pharmacokinetic data.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1984;12:545–558.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic parameter estimates from several least squares procedures: superiority of extended least squares</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm.</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>185</FirstPage>
+                  <LastPage>201</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>4057057</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01059398</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL28%2Fjs1Oqsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Beal SL. Pharmacokinetic parameter estimates from several least squares procedures: superiority of extended least squares.<Emphasis Type="Italic">J Pharmacokinet Biopharm.</Emphasis> 1985;13:185–201.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Vozeh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Katz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Steiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Follath</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetic parameters in patients treated with oral mexiletine</ArticleTitle>
+                  <JournalTitle>Eur J Clin Pharmacol.</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <FirstPage>445</FirstPage>
+                  <LastPage>451</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7151850</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00605996</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL3sXks1Chug%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Vozeh S, Katz G, Steiner V, Follath F. Population pharmacokinetic parameters in patients treated with oral mexiletine.<Emphasis Type="Italic">Eur J Clin Pharmacol.</Emphasis> 1982;23:445–451.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TH</Initials>
+                    <FamilyName>Grasela</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics of procainamide from routine clinical data</ArticleTitle>
+                  <JournalTitle>Clin Pharmacokinet</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>545</FirstPage>
+                  <LastPage>554</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6509861</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2165/00003088-198409060-00004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL2MXnt1egug%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Grasela TH, Sheiner LB. Population pharmacokinetics of procainamide from routine clinical data.<Emphasis Type="Italic">Clin Pharmacokinet</Emphasis>. 1984;9:545–554.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Grasela</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Donn</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Neonatal population pharmacokinetics for phenobarbital derived from routine clinical data</ArticleTitle>
+                  <JournalTitle>Dev Pharmacol Ther</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>374</FirstPage>
+                  <LastPage>383</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>4075936</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Grasela T, Donn SM. Neonatal population pharmacokinetics for phenobarbital derived from routine clinical data.<Emphasis Type="Italic">Dev Pharmacol Ther</Emphasis>. 1985;8:374–383.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TH</Initials>
+                    <FamilyName>Grasela</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EJ</Initials>
+                    <FamilyName>Antal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Ereshefsky</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BG</Initials>
+                    <FamilyName>Wells</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RL</Initials>
+                    <FamilyName>Evans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RB</Initials>
+                    <FamilyName>Smith</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">An evaluation of population pharmacokinetics in therapeutic trials. Part II. Detection of a drug-drug interaction</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther.</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>433</FirstPage>
+                  <LastPage>441</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3665341</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/clpt.1987.174</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Grasela TH, Antal EJ, Ereshefsky L, Wells BG, Evans RL Smith RB. An evaluation of population pharmacokinetics in therapeutic trials. Part II. Detection of a drug-drug interaction.<Emphasis Type="Italic">Clin Pharmacol Ther.</Emphasis> 1987;42:433–441.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Wahlby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EN</Initials>
+                    <FamilyName>Jonsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Comparison of stepwise covariate model building strategies in population pharmacokinetic-pharmacodynamic analysis</ArticleTitle>
+                  <JournalTitle>AAPS PharmSci.</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>E27</FirstPage>
+                  <LastPage>E27</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12645999</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1208/ps040427</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wahlby U, Jonsson EN, Karlsson MO. Comparison of stepwise covariate model building strategies in population pharmacokinetic-pharmacodynamic analysis.<Emphasis Type="Italic">AAPS PharmSci.</Emphasis> 2002;4:E27.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PO</Initials>
+                    <FamilyName>Maitre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Buhrer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Thomson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Stanski</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">A three-step approach combining Bayesian regression and NONMEN population analysis: application to midazolam</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>377</FirstPage>
+                  <LastPage>384</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1920085</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01061662</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK3MXms12qsrc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Maitre PO, Buhrer M, Thomson D, Stanski DR. A three-step approach combining Bayesian regression and NONMEN population analysis: application to midazolam.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1991;19:377–384.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Mandema</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Verotta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Building population pharmacokinetic-pharmacodynamic models. I. Models for covariate effects</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>511</FirstPage>
+                  <LastPage>528</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1287200</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01061469</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3s7msVWhsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mandema J, Verotta D, Sheiner LB. Building population pharmacokinetic-pharmacodynamic models. I. Models for covariate effects.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1992;20:511–528.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>TJ</Initials>
+                    <FamilyName>Hastie</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RJ</Initials>
+                    <FamilyName>Tibshirani</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <BookTitle>Generalized Additive Models</BookTitle>
+                  <PublisherName>Chapman and Hall</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Hastie TJ, Tibshirani RJ.<Emphasis Type="Italic">Generalized Additive Models</Emphasis>. New York: Chapman and Hall. 1990.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Bruno</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Vivier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JC</Initials>
+                    <FamilyName>Vergniol</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>DePhillips</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Montay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">A population model for docetaxel (Taxotere<Superscript>®</Superscript>): model building and validation</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>153</FirstPage>
+                  <LastPage>172</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8875345</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF02353487</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK28XlvVKru7Y%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bruno R, Vivier N, Vergniol JC, DePhillips SL, Montay G, Sheiner LB. A population model for docetaxel (Taxotere<Superscript>®</Superscript>): model building and validation.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1996;24:153–172.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">The importance of modeling interoccasion variability in population pharmacokinetic analyses</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <FirstPage>735</FirstPage>
+                  <LastPage>750</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8138894</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01113502</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c7os12huw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Karlsson MO, Sheiner LB. The importance of modeling interoccasion variability in population pharmacokinetic analyses.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1993;21:735–750.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Laporte-Simitsidis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Girard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Mismetti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Chabaud</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Decousus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Boissel</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Inter-study variability in population pharmacokinetic analysis: when and how to estimate it?</ArticleTitle>
+                  <JournalTitle>J Pharm Sci.</JournalTitle>
+                  <VolumeID>89</VolumeID>
+                  <FirstPage>155</FirstPage>
+                  <LastPage>166</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10688745</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/(SICI)1520-6017(200002)89:2&lt;155::AID-JPS3&gt;3.0.CO;2-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXit1Kntrw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Laporte-Simitsidis S, Girard P, Mismetti P, Chabaud S, Decousus H, Boissel JP. Inter-study variability in population pharmacokinetic analysis: when and how to estimate it?.<Emphasis Type="Italic">J Pharm Sci.</Emphasis> 2000;89:155–166.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Wade</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NC</Initials>
+                    <FamilyName>Sambol</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Interaction between structural, statistical, and covariate models in population pharmacokinetic analysis</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm.</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>165</FirstPage>
+                  <LastPage>176</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7815312</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF02353542</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2cXmsVGjtb8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wade JR, Beal SL, Sambol NC. Interaction between structural, statistical, and covariate models in population pharmacokinetic analysis.<Emphasis Type="Italic">J Pharmacokinet Biopharm.</Emphasis> 1994;22:165–176.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Verbeke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Molenberghs</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <BookTitle>Linear Mixed Models in Practice: A SAS-Oriented Approach</BookTitle>
+                  <PublisherName>Springer Verlag</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+<Occurrence Type="DOI">
+<Handle>10.1007/978-1-4612-2294-1</Handle>
+</Occurrence>
+                </BibBook>
+                <BibUnstructured>Verbeke G, Molenberghs G.<Emphasis Type="Italic">Linear Mixed Models in Practice: A SAS-Oriented Approach</Emphasis>. New York: Springer Verlag: 1997.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Wahlby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EN</Initials>
+                    <FamilyName>Jonsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Assessment of actual significance levels for covariate effects in NONMEM</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn.</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>231</FirstPage>
+                  <LastPage>252</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11468939</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011527125570</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD38%2FitlOktA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wahlby U, Jonsson EN, Karlsson MO. Assessment of actual significance levels for covariate effects in NONMEM.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn.</Emphasis> 2001;28:231–252.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Wahlby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MR</Initials>
+                    <FamilyName>Bouw</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EN</Initials>
+                    <FamilyName>Jonsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Assessment of type I error rates for statistical sub-model in NONMEM</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn.</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>251</FirstPage>
+                  <LastPage>269</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12449498</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1020254823597</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wahlby U, Bouw MR, Jonsson EN, Karlsson MO. Assessment of type I error rates for statistical sub-model in NONMEM.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn.</Emphasis> 2002;29:251–269.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DO</Initials>
+                    <FamilyName>Stram</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Variance components testing in the longitudinal mixed effects model</ArticleTitle>
+                  <JournalTitle>Biometries</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <FirstPage>1171</FirstPage>
+                  <LastPage>1177</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2533455</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2Mzgs1GqtA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stram DO, Lee JW. Variance components testing in the longitudinal mixed effects model.<Emphasis Type="Italic">Biometries</Emphasis>. 1994;50:1171–1177.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>JC</Initials>
+                    <FamilyName>Pinheiro</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Bates</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <BookTitle>Mixed-Effect Models in S and S-Plus</BookTitle>
+                  <PublisherName>Springer Verlag</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Pinheiro JC, Bates DM.<Emphasis Type="Italic">Mixed-Effect Models in S and S-Plus</Emphasis>. New York: Springer Verlag; 2000.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Aarons</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LP</Initials>
+                    <FamilyName>Balant</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Morselli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Rowland</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J-L</Initials>
+                    <FamilyName>Steimer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Vozeh</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Practical experience and issues in designing and performing population pharmacokinetic/pharmacodynamic studies</ArticleTitle>
+                  <JournalTitle>Eur J Clin Pharmacol.</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <FirstPage>251</FirstPage>
+                  <LastPage>254</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8857068</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00226323</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s%2FhtVSjtQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Aarons L, Balant LP, Mentre F, Morselli PL, Rowland M Steimer J-L, Vozeh S. Practical experience and issues in designing and performing population pharmacokinetic/pharmacodynamic studies.<Emphasis Type="Italic">Eur J Clin Pharmacol.</Emphasis> 1996;49:251–254.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Kowalski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MM</Initials>
+                    <FamilyName>Hutmacher</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Design evaluation for a population pharmacokinetic study using clinical trial simulation: a case study</ArticleTitle>
+                  <JournalTitle>Stat Med.</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>75</FirstPage>
+                  <LastPage>91</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11135349</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/1097-0258(20010115)20:1&lt;75::AID-SIM602&gt;3.0.CO;2-C</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3M7ktVartw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kowalski K, Hutmacher MM. Design evaluation for a population pharmacokinetic study using clinical trial simulation: a case study.<Emphasis Type="Italic">Stat Med.</Emphasis> 2001;20:75–91.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PID</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Design and power of a population pharmacokinetic study</ArticleTitle>
+                  <JournalTitle>Pharm Res.</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>75</FirstPage>
+                  <LastPage>82</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11336356</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011030827847</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXjtFajtrc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lee PID. Design and power of a population pharmacokinetic study.<Emphasis Type="Italic">Pharm Res.</Emphasis> 2001; 18:75–82.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Green</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Prospective evaluation of a D-optimal designed population pharmacokinetic study</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn.</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>145</FirstPage>
+                  <LastPage>161</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12942685</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1024467714170</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXms1yhtLs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Green D, Duffull SB. Prospective evaluation of a D-optimal designed population pharmacokinetic study.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn.</Emphasis> 2003;30:145–161.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Retout</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">The use of simulated annealing for finding optimal population designs</ArticleTitle>
+                  <JournalTitle>Comput Methods Programs Biomed.</JournalTitle>
+                  <VolumeID>69</VolumeID>
+                  <FirstPage>25</FirstPage>
+                  <LastPage>35</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12088590</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0169-2607(01)00178-X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Duffull SB, Retout S, Mentre F. The use of simulated annealing for finding optimal population designs.<Emphasis Type="Italic">Comput Methods Programs Biomed.</Emphasis> 2002; 69:25–35.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EN</Initials>
+                    <FamilyName>Jonsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CG</Initials>
+                    <FamilyName>Wiltse</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Wade</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Assumption testing in population pharmacokinetic models: illustrated with an analysis of moxonidine data from congestive heart failure patients</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>207</FirstPage>
+                  <LastPage>246</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9795882</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1020561807903</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXntVKqurY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Karlsson MO, Jonsson EN, Wiltse CG, Wade JR. Assumption testing in population pharmacokinetic models: illustrated with an analysis of moxonidine data from congestive heart failure patients.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1998;26:207–246.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Bonate</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">The effect of collinearity on parameter estimates in nonlinear mixed effect models</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>709</FirstPage>
+                  <LastPage>717</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10350015</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1018828709196</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXjt1yit70%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bonate PL. The effect of collinearity on parameter estimates in nonlinear mixed effect models.<Emphasis Type="Italic">Pharm Res</Emphasis>. 1999;16:709–717.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Hartford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Davidian</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Consequences of misspecifying assumptions in nonlinear mixed effects models</ArticleTitle>
+                  <JournalTitle>Comp Stat Data Anal</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>139</FirstPage>
+                  <LastPage>164</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0167-9473(99)00076-6</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hartford A, Davidian M. Consequences of misspecifying assumptions in nonlinear mixed effects models.<Emphasis Type="Italic">Comp Stat Data Anal</Emphasis>. 2000;34:139–164.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PJ</Initials>
+                    <FamilyName>Williams</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YH</Initials>
+                    <FamilyName>Kim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Lane</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M-J</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EV</Initials>
+                    <FamilyName>Capparelli</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Model appropriateness and pharmacokinetic modeling</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>610</FirstPage>
+                  <LastPage>623</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12817524</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXkslGhsbw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ette EI, Williams PJ, Kim YH, Lane JR, Liu M-J, Capparelli EV, Model appropriateness and pharmacokinetic modeling.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 2003;43:610–623.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Bruno</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Baille</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Retout</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Vivier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Veyrat-Follet</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G-J</Initials>
+                    <FamilyName>Sanderlink</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Becker</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EM</Initials>
+                    <FamilyName>Antman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics and pharmacodynamics of enoxaparin in unstable angina and non-ST-segment elevation myocardial infarction</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>56</VolumeID>
+                  <FirstPage>407</FirstPage>
+                  <LastPage>414</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12968985</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1365-2125.2003.01904.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXosFCls7Y%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bruno R, Baille P, Retout S, Vivier N, Veyrat-Follet C Sanderlink G-J, Becker R, Antman EM. Population pharmacokinetics and pharmacodynamics of enoxaparin in unstable angina and non-ST-segment elevation myocardial infarction.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 2003;56:407–414.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Rajagopalan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MR</Initials>
+                    <FamilyName>Gastonguay</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics of ciprofloxacin in pediatric patients</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>698</FirstPage>
+                  <LastPage>710</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12856383</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXlvFWqs7g%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1177/0091270003254802</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rajagopalan P, Gastonguay MR. Population pharmacokinetics of ciprofloxacin in pediatric patients.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 2003;43:698–710.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NHG</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">A size standard for pharmacokinetics</ArticleTitle>
+                  <JournalTitle>Clin Pharmacokinet</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>329</FirstPage>
+                  <LastPage>332</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8743333</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK28zjtVKluw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2165/00003088-199630050-00001</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Holford NHG. A size standard for pharmacokinetics.<Emphasis Type="Italic">Clin Pharmacokinet</Emphasis>. 1996;30:329–332.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Grasmader</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Verwohlt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K-U</Initials>
+                    <FamilyName>Kuhn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Dragicevic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Widdern</FamilyName>
+                    <Particle>von</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zobel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Hiemke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Rietschel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Maier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Jaehde</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ML</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetic analysis of mirtazapine</ArticleTitle>
+                  <JournalTitle>Eur J Clin Pharmacol</JournalTitle>
+                  <VolumeID>60</VolumeID>
+                  <FirstPage>473</FirstPage>
+                  <LastPage>480</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15289959</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00228-004-0737-0</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXotVOhtLg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Grasmader K, Verwohlt PL, Kuhn K-U, Dragicevic A, von Widdern O, Zobel A, Hiemke C, Rietschel M, Maier W, Jaehde U, Rao ML. Population pharmacokinetic analysis of mirtazapine.<Emphasis Type="Italic">Eur J Clin Pharmacol</Emphasis>. 2004;60:473–480.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ChapterTitle Language="En">Methodology of population pharmacokinetics</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>ER</Initials>
+                    <FamilyName>Garrett</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Hirtz</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Drug Fate and Metabolism: Methods and Techniques. Vol. 5</BookTitle>
+                  <PublisherName>Marcel Dekker, Inc</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>135</FirstPage>
+                  <LastPage>183</LastPage>
+                </BibChapter>
+                <BibUnstructured>Beal SL, Sheiner LB. Methodology of population pharmacokinetics. In: Garrett ER, Hirtz JL, eds.<Emphasis Type="Italic">Drug Fate and Metabolism: Methods and Techniques. Vol. 5</Emphasis> New York: Marcel Dekker, Inc; 1985;135–183.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Ludden</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics/ pharmacodynamics</ArticleTitle>
+                  <JournalTitle>Annu Rev Pharmacol Toxicol</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>185</FirstPage>
+                  <LastPage>209</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1605567</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK383ps1Kmsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Ludden TM. Population pharmacokinetics/ pharmacodynamics.<Emphasis Type="Italic">Annu Rev Pharmacol Toxicol</Emphasis>. 1992;32:185–209.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Tett</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NHG</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>McLachlan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics and pharmacodynamics: an underutilized resource</ArticleTitle>
+                  <JournalTitle>Drug Inf J</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>693</FirstPage>
+                  <LastPage>710</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1177/009286159803200310</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tett S, Holford NHG, McLachlan AJ. Population pharmacokinetics and pharmacodynamics: an underutilized resource.<Emphasis Type="Italic">Drug Inf J</Emphasis>. 1998;32:693–710.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Davidian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Giltinan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <BookTitle>Nonlinear Models for Repeated Measures Data</BookTitle>
+                  <PublisherName>Chapman and Hall</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Davidian M, Giltinan DM.<Emphasis Type="Italic">Nonlinear Models for Repeated Measures Data</Emphasis>. New York: Chapman and Hall; 1995.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Verbeke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Molenberghs</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <BookTitle>Linear Mixed Models for Longitudinal Data</BookTitle>
+                  <PublisherName>Springer-Verlag</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Verbeke G, Molenberghs G.<Emphasis Type="Italic">Linear Mixed Models for Longitudinal Data</Emphasis>. New York: Springer-Verlag, 2000.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibBook>
+                  <InstitutionalAuthorName>US Department of Health and Human Services, Food and Drug Administration. Guidance for Industry</InstitutionalAuthorName>
+                  <Year>1999</Year>
+                  <BookTitle>Population Pharmacokinetics</BookTitle>
+                  <PublisherName>Food and Drug Administration</PublisherName>
+                  <PublisherLocation>Washington, DC</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>US Department of Health and Human Services, Food and Drug Administration. Guidance for Industry.<Emphasis Type="Italic">Population Pharmacokinetics</Emphasis>. Washington, DC: Food and Drug Administration; 1999.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

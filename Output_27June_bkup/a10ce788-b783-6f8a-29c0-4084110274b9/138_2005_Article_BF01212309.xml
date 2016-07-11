@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+</PublisherInfo>
+<Journal>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>138</JournalID>
+<JournalPrintISSN>0932-8092</JournalPrintISSN>
+<JournalElectronicISSN>1432-1769</JournalElectronicISSN>
+<JournalTitle>Machine Vision and Applications</JournalTitle>
+<JournalSubTitle>An International Journal</JournalSubTitle>
+<JournalAbbreviatedTitle>Machine Vis. Apps.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing</JournalSubject>
+        <JournalSubject Type="Secondary">Communications Engineering, Networks</JournalSubject>
+      </JournalSubjectGroup>
+</JournalInfo>
+<Volume>
+<VolumeInfo VolumeType="Regular" TocLevels="0">
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<Issue IssueType="Regular">
+<IssueInfo TocLevels="0">
+<IssueIDStart>1</IssueIDStart>
+<IssueIDEnd>1</IssueIDEnd>
+<IssueArticleCount>6</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<DateString>1988</DateString>
+<Year>1988</Year>
+<Month>3</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<Article ID="Art2">
+<ArticleInfo Language="En" ArticleType="OriginalPaper" NumberingStyle="Unnumbered" TocLevels="0" ContainsESM="No">
+<ArticleID>BF01212309</ArticleID>
+<ArticleDOI>10.1007/BF01212309</ArticleDOI>
+<ArticleSequenceNumber>2</ArticleSequenceNumber>
+<ArticleTitle Language="En">An image-recognition system using algorithmically dedicated integrated circuits</ArticleTitle>
+<ArticleFirstPage>3</ArticleFirstPage>
+<ArticleLastPage>22</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>2005</Year>
+<Month>2</Month>
+<Day>8</Day>
+</RegistrationDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+<ArticleContext>
+<JournalID>138</JournalID>
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<IssueIDStart>1</IssueIDStart>
+<IssueIDEnd>1</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<ArticleHeader>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1" PresentAffiliationID="Aff2">
+<AuthorName DisplayOrder="Western">
+<GivenName>Peter</GivenName>
+<GivenName>A.</GivenName>
+<FamilyName>Ruetz</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Robert</GivenName>
+<GivenName>W.</GivenName>
+<FamilyName>Brodersen</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgDivision>Department of Electrical Engineering and Computer Science</OrgDivision>
+<OrgName>University of California, Berkeley</OrgName>
+<OrgAddress>
+<Postcode>94720</Postcode>
+<City>Berkeley</City>
+<State>CA</State>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="Aff2">
+<OrgDivision>LSI Logic</OrgDivision>
+<OrgName>Systems Research Lab</OrgName>
+<OrgAddress>
+<Postbox>P.O. Box 10005</Postbox>
+<Postcode>94303-0857</Postcode>
+<City>Palo Alto</City>
+<State>CA</State>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<Abstract ID="Abs1" Language="En">
+<Heading>Abstract</Heading>
+<Para>An image-recognition system was implemented with a set of eight algorithmically dedicated integrated circuits to recognize two-dimensional objects that are characterized by their closed outer contours. The complete system operates at rates up to 15 frames/second using a standard workstation as a controller. The recognition system achieved a 97% recognition rate for over 10,000 trials of recognition of eight objects over a wide range of orientation and size variations. A 100% recognition rate was achieved if size variations were eliminated. The set of 4-micron NMOS image processor chips operates on 10-megahertz 8-bit video data (512 × 512 images) in real time. The processors include: a 3 × 3 linear convolver, a 3 × 3 sorting filter, a 7 × 7 logical convolver, a contour tracer, a feature extractor, a look-up table ROM, and two post-processors for the linear convolver. Each chip was designed using an architecture that is dedicated to the particular image processing task being performed. The design time for all of the chips was kept to 1.5 man-years by developing a set of design guidelines. The relationship between the algorithms that were implemented and the silicon implementation is discussed.</Para>
+</Abstract>
+<KeywordGroup Language="En">
+<Heading>Key words</Heading>
+<Keyword>image recognitions</Keyword>
+<Keyword>VLSI</Keyword>
+<Keyword>architectures</Keyword>
+<Keyword>custom design</Keyword>
+<Keyword>convolution</Keyword>
+<Keyword>contour-bracing</Keyword>
+<Keyword>median filtering</Keyword>
+</KeywordGroup>
+</ArticleHeader>
+<BodyRef FileRef="BodyRef/PDF/138_2005_Article_BF01212309.pdf" TargetType="PDF"/>
+<ArticleBackmatter>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<BibUnstructured>Bandyopadhyay A (Oct 1984) Interest points, disparities, and correspondence. Proceedings of the Image Understanding Workshop: 184–187, DARPA</BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<BibUnstructured>Barnard ST et al (June 1983) Three-dimensional shape from line drawings. Proceedings of the Image Understanding Workshop: 282–284, DARPA</BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<BibUnstructured>Demassieux N et al (1985) VLSI architecture for a onechip video median filter. Proceedings of ICASSP: International Conference on Acoustics Speech and Signal Processing 26.7.1–26.7.4</BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<BibBook>
+<BibAuthorName>
+<Initials>RC</Initials>
+<FamilyName>Gonzalez</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Wintz</FamilyName>
+</BibAuthorName>
+<Year>1977</Year>
+<BookTitle>Digital Image Processing</BookTitle>
+<PublisherName>Addison-Wesley</PublisherName>
+<PublisherLocation>Reading, Mass</PublisherLocation>
+<FirstPage>352</FirstPage>
+</BibBook>
+<BibUnstructured>Gonzalez RC, Wintz P (1977) Digital Image Processing. Addison-Wesley, Reading, Mass: p 352</BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<BibArticle>
+<BibAuthorName>
+<Initials>GH</Initials>
+<FamilyName>Granlund</FamilyName>
+</BibAuthorName>
+<Year>1972</Year>
+<ArticleTitle Language="En">Fourier preprocessing for hand print character recognition</ArticleTitle>
+<JournalTitle>IEEE Trans. Computers</JournalTitle>
+<VolumeID>C-21</VolumeID>
+<FirstPage>195</FirstPage>
+<LastPage>201</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/TC.1972.5008926</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Granlund GH (Feb 1972) Fourier preprocessing for hand print character recognition. IEEE Trans. Computers C-21: 195–201</BibUnstructured>
+</Citation>
+<Citation ID="CR6">
+<BibUnstructured>Healy G, Sanz JLC (Jan 1985) CONTAM: An edge-based approach to segmenting images with irregular objects. IBM Research Report, Almeden Research Center</BibUnstructured>
+</Citation>
+<Citation ID="CR7">
+<BibArticle>
+<BibAuthorName>
+<Initials>M-K</Initials>
+<FamilyName>Hu</FamilyName>
+</BibAuthorName>
+<Year>1962</Year>
+<ArticleTitle Language="En">Visual pattern recognition by moment invariants</ArticleTitle>
+<JournalTitle>IRE Transactions of Information Theory</JournalTitle>
+<VolumeID>IT-8</VolumeID>
+<FirstPage>179</FirstPage>
+<LastPage>187</LastPage>
+</BibArticle>
+<BibUnstructured>Hu M-K (1962) Visual pattern recognition by moment invariants. IRE Transactions of Information Theory IT-8: 179–187</BibUnstructured>
+</Citation>
+<Citation ID="CR8">
+<BibArticle>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Kavaler</FamilyName>
+</BibAuthorName>
+<Etal/>
+<Year>1984</Year>
+<ArticleTitle Language="En">A dynamic time warp IC for a one-thousand word recognition system</ArticleTitle>
+<JournalTitle>Proceedings of ICASSP</JournalTitle>
+<VolumeID>2</VolumeID>
+<FirstPage>25B.6.1</FirstPage>
+<LastPage>25B.6.4</LastPage>
+</BibArticle>
+<BibUnstructured>Kavaler R et al (Mar 1984) A dynamic time warp IC for a one-thousand word recognition system. Proceedings of ICASSP 2: 25B.6.1–25B.6.4</BibUnstructured>
+</Citation>
+<Citation ID="CR9">
+<BibUnstructured>Ketonen J (June 1983) Deducing facts about scenes from images. Proceedings of the Image Understanding Workshop: 182–183</BibUnstructured>
+</Citation>
+<Citation ID="CR10">
+<BibChapter>
+<BibAuthorName>
+<Initials>PW</Initials>
+<FamilyName>Kitchin</FamilyName>
+</BibAuthorName>
+<Etal/>
+<Year>1983</Year>
+<ChapterTitle Language="En">Processing of binary images</ChapterTitle>
+<BookTitle>Robot Vision</BookTitle>
+<PublisherName>IFS Ltd</PublisherName>
+<PublisherLocation>UK, London</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Kitchin PW et al (1983) Processing of binary images. In: Robot Vision. IFS Ltd, UK, London</BibUnstructured>
+</Citation>
+<Citation ID="CR11">
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Magee</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">A rule-based system for pattern recognition that exploits topological constraints</ArticleTitle>
+<JournalTitle>Proceedings of the CVPR</JournalTitle>
+<VolumeID>85</VolumeID>
+<FirstPage>62</FirstPage>
+<LastPage>67</LastPage>
+</BibArticle>
+<BibUnstructured>Magee M (June 1985) A rule-based system for pattern recognition that exploits topological constraints. Proceedings of the CVPR 85: 62–67</BibUnstructured>
+</Citation>
+<Citation ID="CR12">
+<BibChapter>
+<BibAuthorName>
+<Initials>PM</Initials>
+<FamilyName>Narendra</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ChapterTitle Language="En">A separable median filter for image noise smoothing</ChapterTitle>
+<BookTitle>Digital Image Processing and Analysis</BookTitle>
+<SeriesTitle Language="En">Vol 1: Digital Image Processing</SeriesTitle>
+<PublisherName>IEEE Computer Society</PublisherName>
+<PublisherLocation>Los Angeles</PublisherLocation>
+<FirstPage>450</FirstPage>
+<LastPage>459</LastPage>
+</BibChapter>
+<BibUnstructured>Narendra PM (1985) A separable median filter for image noise smoothing. In: Digital Image Processing and Analysis. Vol 1: Digital Image Processing: 450–459, IEEE Computer Society, Los Angeles</BibUnstructured>
+</Citation>
+<Citation ID="CR13">
+<BibArticle>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Petajan</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Automatic lipreading to enhance speech recognition</ArticleTitle>
+<JournalTitle>Proceedings of the CVPR</JournalTitle>
+<VolumeID>85</VolumeID>
+<FirstPage>40</FirstPage>
+<LastPage>47</LastPage>
+</BibArticle>
+<BibUnstructured>Petajan ED (June 1985) Automatic lipreading to enhance speech recognition. Proceedings of the CVPR 85: 40–47</BibUnstructured>
+</Citation>
+<Citation ID="CR14">
+<BibBook>
+<BibAuthorName>
+<Initials>WK</Initials>
+<FamilyName>Pratt</FamilyName>
+</BibAuthorName>
+<Year>1978</Year>
+<BookTitle>Digital Image Processing</BookTitle>
+<PublisherName>Wiley</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+<FirstPage>526</FirstPage>
+</BibBook>
+<BibUnstructured>Pratt WK (1978a) Digital Image Processing. Wiley, New York: p 526</BibUnstructured>
+</Citation>
+<Citation ID="CR15">
+<BibUnstructured>Ruetz P (May 1986) Architectures and Design Techniques for Real-Time Image Processing ICs. UCB/ERL Memorandum No. M86/37, Berkeley, Calif</BibUnstructured>
+</Citation>
+<Citation ID="CR16">
+<BibUnstructured>Ruetz P, Brodersen R (Feb 1986) A real-time imageprocessing chip set. IEEE International Solid State Circuits Conference Digest of Technical Papers: 148–149</BibUnstructured>
+</Citation>
+<Citation ID="CR17">
+<BibUnstructured>Ruetz P, Jain R, Shunc C, Rabast J, Jacobs G, Broderson R (May 1986) Automatic layout generation of real-time digital image-processing circuits. 1986 Custom Integrated Circuits Conference Proceedings: 111–115</BibUnstructured>
+</Citation>
+<Citation ID="CR18">
+<BibArticle>
+<BibAuthorName>
+<Initials>MM</Initials>
+<FamilyName>Skolnick</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Automatic comparison of 2-D electrophoretic gels</ArticleTitle>
+<JournalTitle>Proceedings of the CVPR</JournalTitle>
+<VolumeID>85</VolumeID>
+<FirstPage>48</FirstPage>
+<LastPage>54</LastPage>
+</BibArticle>
+<BibUnstructured>Skolnick MM (June 1985) Automatic comparison of 2-D electrophoretic gels. Proceedings of the CVPR 85: 48–54</BibUnstructured>
+</Citation>
+<Citation ID="CR19">
+<BibUnstructured>Weymouth TE et al (June 1983) Rule-bases strategies for image interpretation. Proceedings of the Image Understanding Workshop: 193–202</BibUnstructured>
+</Citation>
+</Bibliography>
+</ArticleBackmatter>
+</Article>
+</Issue>
+</Volume>
+</Journal>
+</Publisher>

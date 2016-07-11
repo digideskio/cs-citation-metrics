@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+</PublisherInfo>
+<Journal>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>138</JournalID>
+<JournalPrintISSN>0932-8092</JournalPrintISSN>
+<JournalElectronicISSN>1432-1769</JournalElectronicISSN>
+<JournalTitle>Machine Vision and Applications</JournalTitle>
+<JournalSubTitle>An International Journal</JournalSubTitle>
+<JournalAbbreviatedTitle>Machine Vis. Apps.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing</JournalSubject>
+        <JournalSubject Type="Secondary">Communications Engineering, Networks</JournalSubject>
+      </JournalSubjectGroup>
+</JournalInfo>
+<Volume>
+<VolumeInfo VolumeType="Regular" TocLevels="0">
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<Issue IssueType="Regular">
+<IssueInfo TocLevels="0">
+<IssueIDStart>3</IssueIDStart>
+<IssueIDEnd>3</IssueIDEnd>
+<IssueArticleCount>7</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<DateString>1988</DateString>
+<Year>1988</Year>
+<Month>9</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>Springer-Verlag</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<Article ID="Art5">
+<ArticleInfo Language="En" ArticleType="OriginalPaper" NumberingStyle="Unnumbered" TocLevels="0" ContainsESM="No">
+<ArticleID>BF01213006</ArticleID>
+<ArticleDOI>10.1007/BF01213006</ArticleDOI>
+<ArticleSequenceNumber>5</ArticleSequenceNumber>
+<ArticleTitle Language="En">Projection-based high accuracy measurement of straight line edges</ArticleTitle>
+<ArticleFirstPage>183</ArticleFirstPage>
+<ArticleLastPage>199</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>2005</Year>
+<Month>2</Month>
+<Day>8</Day>
+</RegistrationDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>Springer-Verlag</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+<ArticleContext>
+<JournalID>138</JournalID>
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<IssueIDStart>3</IssueIDStart>
+<IssueIDEnd>3</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<ArticleHeader>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+<AuthorName DisplayOrder="Western">
+<Prefix>Dr.</Prefix>
+<GivenName>Dragutin</GivenName>
+<FamilyName>Petkovic</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Wayne</GivenName>
+<FamilyName>Niblack</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Myron</GivenName>
+<FamilyName>Flickner</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgName>IBM Almaden Research Center</OrgName>
+<OrgAddress>
+<Street>650 Harry Road</Street>
+<Postcode>95120-6099</Postcode>
+<City>San Jose</City>
+<State>CA</State>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<Abstract ID="Abs1" Language="En">
+<Heading>Abstract</Heading>
+<Para>We present a novel projection-based high accuracy algorithm to determine the parameters of a straight edge in a noisy image. Our algorithm is equivalent to applying a set of very long directional operators over a range of finely quantized angles. This is known to improve both signal-to-noise ratio and localization in the measurement of straight line edges, but was rarely used in practice because of the expense and coefficient restrictions of the operators. The algorithm is implemented by taking a set of projections of the original grey level image, filtering the projections, and analyzing the peaks in projection space to estimate line offset and angle. It also includes a procedure to analyze the peaks in projection space which provides an accuracy better than the quantization in offset and angle parameters. The algorithm was tested on synthetic and a large number of real images and offers very high (subpixel) offset and angular accuracy. The advantages of the algorithm over traditional approaches are improved signal-to-noise ratio and localization accuracy (due to the effective use of very long directional edge operators), no need for expensive edge operators and related hardware, and no need for sophisticated thresholding of the gradient image for finding edges. It is robust in the presence of many types of texture, patterned and bias noise, light intensity, and focus change, and is ideal for use in industrial machine vision, where a large number of parts with straight edges are processed.</Para>
+</Abstract>
+<KeywordGroup Language="En">
+<Heading>Key words</Heading>
+<Keyword>high accuracy line measurement</Keyword>
+<Keyword>edge detection</Keyword>
+<Keyword>Radon transform</Keyword>
+<Keyword>digital projection</Keyword>
+<Keyword>machine vision</Keyword>
+</KeywordGroup>
+</ArticleHeader>
+<BodyRef FileRef="BodyRef/PDF/138_2005_Article_BF01213006.pdf" TargetType="PDF"/>
+<ArticleBackmatter>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<BibUnstructured>Ballard DH, Brown C (1982) Computer Vision, Prentice Hall 123–130</BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<BibChapter>
+<BibAuthorName>
+<Initials>WB</Initials>
+<FamilyName>Baringer</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>B</Initials>
+<FamilyName>Richards</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Brodersen</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JLC</Initials>
+<FamilyName>Sanz</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>D</Initials>
+<FamilyName>Petkovic</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ChapterTitle Language="En">A VLSI implementation of PPPE for real-time image processing in Radon space-work in progress</ChapterTitle>
+<BookTitle>Proc. of IEEE Workshop on Computer Architectures for Pattern Analysis and Machine Intelligence</BookTitle>
+<PublisherName>Seattle</PublisherName>
+<PublisherLocation>WA</PublisherLocation>
+<FirstPage>88</FirstPage>
+<LastPage>93</LastPage>
+</BibChapter>
+<BibUnstructured>Baringer WB, Richards B, Brodersen R, Sanz JLC, Petkovic D (1987) A VLSI implementation of PPPE for real-time image processing in Radon space-work in progress, Proc. of IEEE Workshop on Computer Architectures for Pattern Analysis and Machine Intelligence, Seattle, WA: 88–93</BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<BibArticle>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Canny</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">A computational approach to edge detection</ArticleTitle>
+<JournalTitle>IEEE Pattern Analysis and Machine Intelligence</JournalTitle>
+<VolumeID>8</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>679</FirstPage>
+<LastPage>698</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/TPAMI.1986.4767851</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Canny J (1986) A computational approach to edge detection, IEEE Pattern Analysis and Machine Intelligence, Vol. 8(6): 679–698</BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<BibArticle>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Deans</FamilyName>
+</BibAuthorName>
+<Year>1981</Year>
+<ArticleTitle Language="En">Hough transform from the Radon transform</ArticleTitle>
+<JournalTitle>IEEE Pattern Analysis and Machine Intelligence</JournalTitle>
+<VolumeID>3</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>185</FirstPage>
+<LastPage>188</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/TPAMI.1981.4767076</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Deans S (1981) Hough transform from the Radon transform, IEEE Pattern Analysis and Machine Intelligence, Vol. 3(2): 185–188</BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<BibArticle>
+<BibAuthorName>
+<Initials>RO</Initials>
+<FamilyName>Duda</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>PE</Initials>
+<FamilyName>Hart</FamilyName>
+</BibAuthorName>
+<Year>1972</Year>
+<ArticleTitle Language="En">Use of the Hough transform to detect lines and curves in pictures</ArticleTitle>
+<JournalTitle>Communications of the ACM</JournalTitle>
+<VolumeID>15</VolumeID>
+<FirstPage>11</FirstPage>
+<LastPage>15</LastPage>
+</BibArticle>
+<BibUnstructured>Duda RO, Hart PE (1972) Use of the Hough transform to detect lines and curves in pictures, Communications of the ACM, Vol. 15: 11–15</BibUnstructured>
+</Citation>
+<Citation ID="CR6">
+<BibUnstructured>Gordon S, Seering W (1986) Accuracy issues in measuring quantized images of straight-line features, IEEE International Conference on Robotics and Automation, San Francisco, CA: 931–936</BibUnstructured>
+</Citation>
+<Citation ID="CR7">
+<BibArticle>
+<BibAuthorName>
+<Initials>K</Initials>
+<FamilyName>Hanahara</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Maruyama</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Uchiyama</FamilyName>
+</BibAuthorName>
+<Year>1988</Year>
+<ArticleTitle Language="En">A real-time processor for the Hough transform</ArticleTitle>
+<JournalTitle>IEEE Pattern Analysis and Machine Intelligence, (special issue on Machine Vision)</JournalTitle>
+<VolumeID>10</VolumeID>
+<FirstPage>121</FirstPage>
+<LastPage>125</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/34.3876</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Hanahara K, Maruyama T, Uchiyama T (1988) A real-time processor for the Hough transform, IEEE Pattern Analysis and Machine Intelligence, (special issue on Machine Vision), Vol. 10: 121–125</BibUnstructured>
+</Citation>
+<Citation ID="CR8">
+<BibArticle>
+<BibAuthorName>
+<Initials>E</Initials>
+<FamilyName>Hinkle</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JLC</Initials>
+<FamilyName>Sanz</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>D</Initials>
+<FamilyName>Petkovic</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AK</Initials>
+<FamilyName>Jain</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">PPPE: New life for projection-based image processing</ArticleTitle>
+<JournalTitle>Journal of Parallel and Distributed Processing</JournalTitle>
+<VolumeID>4</VolumeID>
+<FirstPage>45</FirstPage>
+<LastPage>78</LastPage>
+</BibArticle>
+<BibUnstructured>Hinkle E, Sanz JLC, Petkovic D, Jain AK (1987) PPPE: New life for projection-based image processing, Special issue of Journal of Parallel and Distributed Processing, (4): 45–78</BibUnstructured>
+</Citation>
+<Citation ID="CR9">
+<BibUnstructured>Hough P (1962) Method and means for recognizing complex patterns, U.S. Patent 3069654</BibUnstructured>
+</Citation>
+<Citation ID="CR10">
+<BibArticle>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Li</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Lavin</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>LeMaster</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Fast Hough transform: a hierarchical approach</ArticleTitle>
+<JournalTitle>Computer Vision, Graphics, and Image Processing</JournalTitle>
+<VolumeID>36</VolumeID>
+<FirstPage>139</FirstPage>
+<LastPage>161</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1016/0734-189X(86)90011-3</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Li H, Lavin M, LeMaster R (1986) Fast Hough transform: a hierarchical approach, Computer Vision, Graphics, and Image Processing, Vol. 36: 139–161</BibUnstructured>
+</Citation>
+<Citation ID="CR11">
+<BibArticle>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Illingworth</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Kittler</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">The adaptive Hough transform</ArticleTitle>
+<JournalTitle>IEEE Pattern Analysis and Machine Intelligence</JournalTitle>
+<VolumeID>9</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>690</FirstPage>
+<LastPage>698</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/TPAMI.1987.4767964</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Illingworth J, Kittler J (1987) The adaptive Hough transform, IEEE Pattern Analysis and Machine Intelligence, Vol. 9(5): 690–698</BibUnstructured>
+</Citation>
+<Citation ID="CR12">
+<BibUnstructured>Maitre H (1985) An exact prediction of performance of the Hough transform, Acta Polytechnica, Scandinavian Applied Physics Series (Finland), No. PH149: 243–246</BibUnstructured>
+</Citation>
+<Citation ID="CR13">
+<BibArticle>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Maitre</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Contribution to the prediction of performance of the Hough transform</ArticleTitle>
+<JournalTitle>IEEE Pattern Analysis and Machine Intelligence</JournalTitle>
+<VolumeID>8</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>669</FirstPage>
+<LastPage>674</LastPage>
+</BibArticle>
+<BibUnstructured>Maitre H (1986) Contribution to the prediction of performance of the Hough transform, IEEE Pattern Analysis and Machine Intelligence, Vol. 8(5): 669–674</BibUnstructured>
+</Citation>
+<Citation ID="CR14">
+<BibArticle>
+<BibAuthorName>
+<Initials>DC</Initials>
+<FamilyName>Marr</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>EC</Initials>
+<FamilyName>Hildreth</FamilyName>
+</BibAuthorName>
+<Year>1980</Year>
+<ArticleTitle Language="En">Theory of edge detection</ArticleTitle>
+<JournalTitle>in Proceedings of Royal Society of London B</JournalTitle>
+<VolumeID>207</VolumeID>
+<FirstPage>187</FirstPage>
+<LastPage>217</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1098/rspb.1980.0020</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Marr DC, Hildreth EC (1980) Theory of edge detection, in Proceedings of Royal Society of London B, Vol. 207: 187–217</BibUnstructured>
+</Citation>
+<Citation ID="CR15">
+<BibUnstructured>Niblack W, Petkovic D (1988) On Improving the accuracy of the Hough transform: Theory Simulations, and Experiments, Proc. of IEEE conference on Computer Vision and Pattern Recognition. Ann Arbor, MI: 574–579</BibUnstructured>
+</Citation>
+<Citation ID="CR16">
+<BibArticle>
+<BibAuthorName>
+<Initials>D</Initials>
+<FamilyName>Nyyssonen</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Theory of optical edge detection and imaging of thick layers</ArticleTitle>
+<JournalTitle>Journal of Optical Society of America</JournalTitle>
+<VolumeID>72</VolumeID>
+<IssueID>10</IssueID>
+<FirstPage>1425</FirstPage>
+<LastPage>1436</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/JOSA.72.001425</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Nyyssonen D 1982) Theory of optical edge detection and imaging of thick layers, Journal of Optical Society of America, Vol. 72(10): 1425–1436</BibUnstructured>
+</Citation>
+<Citation ID="CR17">
+<BibArticle>
+<BibAuthorName>
+<Initials>FM</Initials>
+<FamilyName>Rhodes</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JJ</Initials>
+<FamilyName>Dituri</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>GH</Initials>
+<FamilyName>Chapman</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>BE</Initials>
+<FamilyName>Emerson</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AM</Initials>
+<FamilyName>Soares</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JI</Initials>
+<FamilyName>Raffel</FamilyName>
+</BibAuthorName>
+<Year>1988</Year>
+<ArticleTitle Language="En">A monolithic Hough transform processor based on restructurable VLSI</ArticleTitle>
+<JournalTitle>IEEE Pattern Analysis and Machine Intelligence, (special issue on Machine Vision)</JournalTitle>
+<VolumeID>10</VolumeID>
+<FirstPage>106</FirstPage>
+<LastPage>110</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/34.3873</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Rhodes FM, Dituri JJ, Chapman GH, Emerson BE, Soares AM, Raffel JI (1988) A monolithic Hough transform processor based on restructurable VLSI, IEEE Pattern Analysis and Machine Intelligence, (special issue on Machine Vision), Vol 10: 106–110</BibUnstructured>
+</Citation>
+<Citation ID="CR18">
+<BibBook>
+<BibAuthorName>
+<Initials>JLC</Initials>
+<FamilyName>Sanz</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>EB</Initials>
+<FamilyName>Hinkle</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AK</Initials>
+<FamilyName>Jain</FamilyName>
+</BibAuthorName>
+<Year>1988</Year>
+<BookTitle>Radon and projection transform-based computer vision</BookTitle>
+<PublisherName>Springer Verlag</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+<Occurrence Type="DOI">
+<Handle>10.1007/978-3-642-73012-2</Handle>
+</Occurrence>
+</BibBook>
+<BibUnstructured>Sanz JLC, Hinkle EB, Jain AK (1988) Radon and projection transform-based computer vision, Springer Verlag, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR19">
+<BibArticle>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Shapiro</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Lannino</FamilyName>
+</BibAuthorName>
+<Year>1979</Year>
+<ArticleTitle Language="En">Geometric constructions for predicting Hough transform performance</ArticleTitle>
+<JournalTitle>IEEE Pattern Analysis and Machine Intelligence</JournalTitle>
+<VolumeID>1</VolumeID>
+<IssueID>3</IssueID>
+<FirstPage>310</FirstPage>
+<LastPage>317</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/TPAMI.1979.4766929</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Shapiro S, Lannino A (1979) Geometric constructions for predicting Hough transform performance, IEEE Pattern Analysis and Machine Intelligence, Vol. 1(3): 310–317</BibUnstructured>
+</Citation>
+<Citation ID="CR20">
+<BibUnstructured>Stewart GW (1973) Introduction to Matrix Computations, Academic Press</BibUnstructured>
+</Citation>
+<Citation ID="CR21">
+<BibUnstructured>Suter B (1985) A parallel algorithm for the discrete Radon transform, Proceedings of the IEEE Computer Society Workshop on Computer Architecture for Pattern Analysis and Image Database Management, Miami Beach, FL: 394–398</BibUnstructured>
+</Citation>
+<Citation ID="CR22">
+<BibArticle>
+<BibAuthorName>
+<Initials>V</Initials>
+<FamilyName>Torre</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Poggio</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">On edge detection</ArticleTitle>
+<JournalTitle>IEEE Pattern Analysis and Machine Intelligence</JournalTitle>
+<VolumeID>8</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>147</FirstPage>
+<LastPage>163</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/TPAMI.1986.4767769</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Torre V, Poggio T (1986) On edge detection, IEEE Pattern Analysis and Machine Intelligence, Vol. 8(2): 147–163</BibUnstructured>
+</Citation>
+<Citation ID="CR23">
+<BibArticle>
+<BibAuthorName>
+<Initials>TM</Initials>
+<FamilyName>Veen</FamilyName>
+<Particle>Van</Particle>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>FCA</Initials>
+<FamilyName>Groen</FamilyName>
+</BibAuthorName>
+<Year>1981</Year>
+<ArticleTitle Language="En">Discretization in the Hough transform</ArticleTitle>
+<JournalTitle>Pattern Recognition</JournalTitle>
+<VolumeID>14</VolumeID>
+<FirstPage>137</FirstPage>
+<LastPage>145</LastPage>
+</BibArticle>
+<BibUnstructured>Van Veen TM, Groen FCA (1981) Discretization in the Hough transform, Pattern Recognition, Vol. 14: 137–145</BibUnstructured>
+</Citation>
+</Bibliography>
+</ArticleBackmatter>
+</Article>
+</Issue>
+</Volume>
+</Journal>
+</Publisher>

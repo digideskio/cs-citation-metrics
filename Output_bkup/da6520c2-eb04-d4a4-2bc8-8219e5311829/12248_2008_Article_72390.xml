@@ -1,0 +1,3096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>6</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art15">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>72390</ArticleID>
+            <ArticleDOI>10.1208/aapsj070240</ArticleDOI>
+            <ArticleSequenceNumber>15</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Modeling and simulation of adherence: Approaches and applications in therapeutics</ArticleTitle>
+            <ArticleFirstPage>E390</ArticleFirstPage>
+            <ArticleLastPage>E407</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+              </Received>
+              <Accepted>
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>2</IssueIDStart>
+              <IssueIDEnd>2</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Leslie</GivenName>
+                  <GivenName>A.</GivenName>
+                  <FamilyName>Kenna</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>(301) 827-9116</Phone>
+                  <Fax>(301) 827-4267</Fax>
+                  <Email>kennal@cder.fda.gov</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Line</GivenName>
+                  <FamilyName>Labbé</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff4">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jeffrey</GivenName>
+                  <GivenName>S.</GivenName>
+                  <FamilyName>Barrett</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff5">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Marc</GivenName>
+                  <FamilyName>Pfister</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgName>Food and Drug Administration</OrgName>
+                <OrgAddress>
+                  <Postcode>20857</Postcode>
+                  <City>Rockville</City>
+                  <State>MD</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>Faculty of Pharmacy</OrgDivision>
+                <OrgName>University of Montreal</OrgName>
+                <OrgAddress>
+                  <Postcode>H3T1J4</Postcode>
+                  <City>Montreal</City>
+                  <State>Quebec</State>
+                  <Country>Canada</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff4">
+                <OrgName>Children's Hospital of Philadelphia</OrgName>
+                <OrgAddress>
+                  <Postcode>19104</Postcode>
+                  <City>Philadelphia</City>
+                  <State>PA</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff5">
+                <OrgDivision>Strategic Modeling and Simulation</OrgDivision>
+                <OrgName>Bristol Myers Squibb</OrgName>
+                <OrgAddress>
+                  <Postcode>08543</Postcode>
+                  <City>Princeton</City>
+                  <State>NJ</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName>FDA/CDER/OCPB, PKLN 13B17, HFD 870</OrgName>
+                <OrgAddress>
+                  <Street>5600 Fishers Lane</Street>
+                  <Postcode>20857</Postcode>
+                  <City>Rockville</City>
+                  <State>MD</State>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Partial adherence with a prescribed or randomly assigned dose gives rise to unintended variability in actual drug exposure in clinical practice and during clinical trials. There are tremendous costs associated with incomplete and/or improper drug intake—to both individual patients and society as a whole. Methodology for quantifying the relation between adherence, exposure and drug response is an area of active research. Modeling and statistical approaches have been useful in evaluating the impact of adherence on therapeutics and in addressing the challenges of confounding and measurement error which arise in this context. This paper reviews quantitative approaches to using adherence information in improving therapeutics. It draws heavily on applications in the area of HIV pharmacology.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>adherence</Keyword>
+              <Keyword>modeling</Keyword>
+              <Keyword>simulation</Keyword>
+              <Keyword>PK/PD</Keyword>
+              <Keyword>NONMEM</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: October 5, 2005</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_72390.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Vrijens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Tousset</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Gaillard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Metry</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Urquhart</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Major features of dose omissions in 87 ambulatory drug trials</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther.</JournalTitle>
+                  <VolumeID>77</VolumeID>
+                  <FirstPage>99</FirstPage>
+                  <LastPage>99</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1016/j.clpt.2005.01.006</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Vrijens B, Tousset E, Gaillard P, Metry J, Urquhart J. Major features of dose omissions in 87 ambulatory drug trials.<Emphasis Type="Italic">Clin Pharmacol Ther.</Emphasis> 2005;77:P99.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>WS</Initials>
+                    <FamilyName>Bond</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DA</Initials>
+                    <FamilyName>Hussar</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Detection methods and strategies for improving medication compliance</ArticleTitle>
+                  <JournalTitle>Am J Hosp Pharm.</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <FirstPage>1978</FirstPage>
+                  <LastPage>1988</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1928147</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK38%2Fis1WntA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bond WS, Hussar DA. Detection methods and strategies for improving medication compliance.<Emphasis Type="Italic">Am J Hosp Pharm.</Emphasis> 1991;48:1978–1988.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibBook>
+                  <BibEditorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Cramer</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Spilker</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <Year>1991</Year>
+                  <BookTitle>Patient Compliance in Medical Practice and Clinical Trials</BookTitle>
+                  <PublisherName>Raven Press Ltd</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Cramer JA, Spilker B, eds. Patient Compliance in Medical Practice and Clinical Trials. New York: Raven Press Ltd; 1991.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RH</Initials>
+                    <FamilyName>Didlake</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Dreyfus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RH</Initials>
+                    <FamilyName>Kermanet</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Patient noncompliance: a major cause of late graft failure in cyclosporine-treated renal transplants</ArticleTitle>
+                  <JournalTitle>Transplant Proc.</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <IssueID>suppl 3</IssueID>
+                  <FirstPage>63</FirstPage>
+                  <LastPage>69</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3291299</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1c3msFCjug%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Didlake RH, Dreyfus K, Kermanet RH, et al. Patient noncompliance: a major cause of late graft failure in cyclosporine-treated renal transplants.<Emphasis Type="Italic">Transplant Proc.</Emphasis> 1988;20(suppl 3):63–69.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kastrissios</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TF</Initials>
+                    <FamilyName>Blaschke</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Therapeutic implications of nonadherence with antiretroviral drug regimens</ArticleTitle>
+                  <JournalTitle>HIV</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>24</FirstPage>
+                  <LastPage>28</LastPage>
+                </BibArticle>
+                <BibUnstructured>Kastrissios H, Blaschke TF. Therapeutic implications of nonadherence with antiretroviral drug regimens.<Emphasis Type="Italic">HIV</Emphasis>. 1998;8:24–28.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Urquhart</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Ascertaining how much compliance is enough with outpatient antibiotic regimens</ArticleTitle>
+                  <JournalTitle>Postgrad Med J.</JournalTitle>
+                  <VolumeID>68</VolumeID>
+                  <IssueID>suppl 3</IssueID>
+                  <FirstPage>S49</FirstPage>
+                  <LastPage>S59</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1287619</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Urquhart J. Ascertaining how much compliance is enough with outpatient antibiotic regimens.<Emphasis Type="Italic">Postgrad Med J.</Emphasis> 1992;68(suppl 3):S49-S59.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Urquhart</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">The electronic medication event monitor. Lessons for pharmacotherapy</ArticleTitle>
+                  <JournalTitle>Clin Pharmacokinet.</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>345</FirstPage>
+                  <LastPage>356</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9160169</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2szgtlyltQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Urquhart J. The electronic medication event monitor. Lessons for pharmacotherapy.<Emphasis Type="Italic">Clin Pharmacokinet.</Emphasis> 1997;32:345–356.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Hong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Sumrani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Delaney</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Causes of late renal allograft failure in the ciclosporin era</ArticleTitle>
+                  <JournalTitle>Nephron.</JournalTitle>
+                  <VolumeID>62</VolumeID>
+                  <FirstPage>272</FirstPage>
+                  <LastPage>279</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1436337</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3s%2FmtlKnsw%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1159/000187058</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hong JH, Sumrani N, Delaney V, et al. Causes of late renal allograft failure in the ciclosporin era.<Emphasis Type="Italic">Nephron.</Emphasis> 1992;62:272–279.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Dunn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Golden</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CT</Initials>
+                    <FamilyName>Buren</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Causes of graft loss beyond two years in the cyclosporine era</ArticleTitle>
+                  <JournalTitle>Transplantation</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <FirstPage>349</FirstPage>
+                  <LastPage>353</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2305464</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3c7mt12muw%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1097/00007890-199002000-00024</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dunn J, Golden D, Van Buren CT, et al. Causes of graft loss beyond two years in the cyclosporine era.<Emphasis Type="Italic">Transplantation</Emphasis>. 1990;49:349–353.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Urquhart</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Role of patient compliance in clinical pharmacokinetics. A review of recent research</ArticleTitle>
+                  <JournalTitle>Clin Pharmacokinet.</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>202</FirstPage>
+                  <LastPage>215</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7988102</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M%2FnvFOitw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2165/00003088-199427030-00004</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Urquhart J. Role of patient compliance in clinical pharmacokinetics. A review of recent research.<Emphasis Type="Italic">Clin Pharmacokinet.</Emphasis> 1994;27:202–215.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Ickovics</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AW</Initials>
+                    <FamilyName>Meisler</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Adherence in AIDS clinical trials: a framework for clinical research and clinical care</ArticleTitle>
+                  <JournalTitle>J Clin Epidemiol.</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <FirstPage>385</FirstPage>
+                  <LastPage>391</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9179096</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2szit1KjtA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0895-4356(97)00041-3</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ickovics JR, Meisler AW. Adherence in AIDS clinical trials: a framework for clinical research and clinical care.<Emphasis Type="Italic">J Clin Epidemiol.</Emphasis> 1997;50:385–391.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Cramer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RH</Initials>
+                    <FamilyName>Mattson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ML</Initials>
+                    <FamilyName>Prevey</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">How often is medication taken as prescribed? A novel assessment technique</ArticleTitle>
+                  <JournalTitle>JAMA</JournalTitle>
+                  <VolumeID>261</VolumeID>
+                  <FirstPage>3273</FirstPage>
+                  <LastPage>3277</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2716163</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1M3js1Kjsg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/jama.261.22.3273</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cramer JA, Mattson RH, Prevey ML, et al. How often is medication taken as prescribed? A novel assessment technique.<Emphasis Type="Italic">JAMA</Emphasis>. 1989;261:3273–3277.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DA</Initials>
+                    <FamilyName>Revicki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Frank</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Pharmacoeconomic evaluation in the real world. Effectiveness versus efficacy studies</ArticleTitle>
+                  <JournalTitle>Pharmacoeconomics</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>423</FirstPage>
+                  <LastPage>434</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10537960</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1Mzgs1Wltw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2165/00019053-199915050-00001</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Revicki DA, Frank L. Pharmacoeconomic evaluation in the real world. Effectiveness versus efficacy studies.<Emphasis Type="Italic">Pharmacoeconomics</Emphasis>. 1999;15:423–434.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SE</Initials>
+                    <FamilyName>Weis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PC</Initials>
+                    <FamilyName>Slocum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FX</Initials>
+                    <FamilyName>Blais</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">The effect of directly observed therapy on the rates of drug resistance and relapse in tuberculosis</ArticleTitle>
+                  <JournalTitle>N Engl J Med.</JournalTitle>
+                  <VolumeID>330</VolumeID>
+                  <FirstPage>1179</FirstPage>
+                  <LastPage>1184</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8139628</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c7oslyisg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1056/NEJM199404283301702</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Weis SE, Slocum PC, Blais FX, et al. The effect of directly observed therapy on the rates of drug resistance and relapse in tuberculosis.<Emphasis Type="Italic">N Engl J Med.</Emphasis> 1994;330:1179–1184.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>KC</Initials>
+                    <FamilyName>Farmer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Methods for measuring and monitoring medication regimen adherence in clinical trials and clinical practice</ArticleTitle>
+                  <JournalTitle>Clin Ther.</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <FirstPage>1074</FirstPage>
+                  <LastPage>1090</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10440628</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1Mzmslansg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0149-2918(99)80026-5</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Farmer KC. Methods for measuring and monitoring medication regimen adherence in clinical trials and clinical practice.<Emphasis Type="Italic">Clin Ther.</Emphasis> 1999;21:1074–1090.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Chesney</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Ickovics</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DB</Initials>
+                    <FamilyName>Chambers</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Self-reported adherence to antiretroviral medications among participants in HIV clinical trials: the AACTG adherence instruments. Patient Care Committee &amp; Adherence Working Group of the Outcomes Committee of the Adult AIDS Clinical Trials Group (AACTG)</ArticleTitle>
+                  <JournalTitle>AIDS Care.</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>255</FirstPage>
+                  <LastPage>266</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10928201</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3cvhslKgsA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/09540120050042891</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chesney MA, Ickovics JR, Chambers DB, et al. Self-reported adherence to antiretroviral medications among participants in HIV clinical trials: the AACTG adherence instruments. Patient Care Committee &amp; Adherence Working Group of the Outcomes Committee of the Adult AIDS Clinical Trials Group (AACTG).<Emphasis Type="Italic">AIDS Care.</Emphasis> 2000;12: 255–266.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Klerk</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SJ</Initials>
+                    <FamilyName>Linden</FamilyName>
+                    <Particle>van der</Particle>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Compliance monitoring of NSAID drug therapy in ankylosing spondylitis, experiences with an electronic monitoring device</ArticleTitle>
+                  <JournalTitle>Br J Rheumatol.</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>60</FirstPage>
+                  <LastPage>65</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8624625</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/rheumatology/35.1.60</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>de Klerk E, van der Linden SJ. Compliance monitoring of NSAID drug therapy in ankylosing spondylitis, experiences with an electronic monitoring device.<Emphasis Type="Italic">Br J Rheumatol.</Emphasis> 1996;35:60–65.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JY</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Kusek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PF</Initials>
+                    <FamilyName>Greene</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Assessing medication adherence by pill count and electronic monitoring in the African American Study of Kidney Disease and Hypertension (AASK) Pilot Study</ArticleTitle>
+                  <JournalTitle>Am J Hypertens.</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>719</FirstPage>
+                  <LastPage>725</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8862216</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s%2FhsFGltQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0895-7061(96)00056-8</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lee JY, Kusek JW, Greene PF, et al. Assessing medication adherence by pill count and electronic monitoring in the African American Study of Kidney Disease and Hypertension (AASK) Pilot Study.<Emphasis Type="Italic">Am J Hypertens.</Emphasis> 1996;9:719–725.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Bloch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Gur</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AY</Initials>
+                    <FamilyName>Shalev</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Hypouricemic effect of zuclopenthixol: a potential marker of drug compliance?</ArticleTitle>
+                  <JournalTitle>Psychopharmacology (Berl)</JournalTitle>
+                  <VolumeID>109</VolumeID>
+                  <FirstPage>377</FirstPage>
+                  <LastPage>378</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK3sXit1Gmt7s%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF02245887</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bloch M, Gur E, Shalev AY. Hypouricemic effect of zuclopenthixol: a potential marker of drug compliance?<Emphasis Type="Italic">Psychopharmacology (Berl)</Emphasis>. 1992;109:377–378.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Kapur</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Ganguli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Ulrich</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Use of random-sequence riboflavin as a marker of medication compliance in chronic schizophrenics</ArticleTitle>
+                  <JournalTitle>Schizophr Res.</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>49</FirstPage>
+                  <LastPage>53</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1686184</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK387ltlOktg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0920-9964(91)90020-R</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kapur S, Ganguli R, Ulrich R, et al. Use of random-sequence riboflavin as a marker of medication compliance in chronic schizophrenics.<Emphasis Type="Italic">Schizophr Res.</Emphasis> 1991;6:49–53.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Hardy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Kumar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Peaker</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">A comparison of a short half-life marker (low-dose isoniazid), a long half-life pharmacological indicator (low-dose phenobarbitone) and measurements of a controlled release ‘therapeutic drug’ (metoprolol, Metoros) in reflecting incomplete compliance by volunteers</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol.</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>437</FirstPage>
+                  <LastPage>441</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2223422</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK3MXlsFahug%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hardy E, Kumar S, Peaker S, et al. A comparison of a short half-life marker (low-dose isoniazid), a long half-life pharmacological indicator (low-dose phenobarbitone) and measurements of a controlled release ‘therapeutic drug’ (metoprolol, Metoros) in reflecting incomplete compliance by volunteers.<Emphasis Type="Italic">Br J Clin Pharmacol.</Emphasis> 1990;30:437–441.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Maenpaa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Javela</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Pikkarainen</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Minimal doses of digoxin: a new marker for compliance to medication</ArticleTitle>
+                  <JournalTitle>Eur Heart J.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <IssueID>suppl 1</IssueID>
+                  <FirstPage>31</FirstPage>
+                  <LastPage>37</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3322828</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1093/eurheartj/8.suppl_I.31</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Maenpaa H, Javela K, Pikkarainen JH, et al. Minimal doses of digoxin: a new marker for compliance to medication.<Emphasis Type="Italic">Eur Heart J.</Emphasis> 1987;8(suppl 1):31–37.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Pekovic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Mayanja</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Vjecha</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Comparison of three composite compliance indices in a trial of self-administered preventive therapy for tuberculosis in HIV-infected Ugandan adults. Uganda-Case Western Reserve University Research Collaboration</ArticleTitle>
+                  <JournalTitle>J Clin Epidemiol.</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <FirstPage>597</FirstPage>
+                  <LastPage>607</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9674667</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1czjslChtg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0895-4356(98)00033-X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pekovic V, Mayanja H, Vjecha M, et al. Comparison of three composite compliance indices in a trial of self-administered preventive therapy for tuberculosis in HIV-infected Ugandan adults. Uganda-Case Western Reserve University Research Collaboration.<Emphasis Type="Italic">J Clin Epidemiol.</Emphasis> 1998;51:597–607.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Gries</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Verotta</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Selecting reliable pharmacokinetic data for explanatory analyses of clinical trials in the presence of possible noncompliance</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn.</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>343</FirstPage>
+                  <LastPage>362</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11677931</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXot1GjsLw%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011582713692</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lu J, Gries JM, Verotta D, et al. Selecting reliable pharmacokinetic data for explanatory analyses of clinical trials in the presence of possible noncompliance.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn.</Emphasis> 2001;28:343–362.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>KM</Initials>
+                    <FamilyName>Melbourne</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Geletko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Brown</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Medication adherence in patients with HIV infection: a comparison of two measurement methods</ArticleTitle>
+                  <JournalTitle>AIDS Read.</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>329</FirstPage>
+                  <LastPage>338</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12737122</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3s3hsF2ktA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Melbourne KM, Geletko SM, Brown SL, et al. Medication adherence in patients with HIV infection: a comparison of two measurement methods.<Emphasis Type="Italic">AIDS Read.</Emphasis> 1999;9:329–338.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>RJ</Initials>
+                    <FamilyName>Carroll</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Ruppert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Stefanski</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <BookTitle>Measurement error in nonlinear models</BookTitle>
+                  <PublisherName>CRC Press</PublisherName>
+                  <PublisherLocation>Boca Raton, FL</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Carroll RJ, Ruppert D, Stefanski LA. Measurement error in nonlinear models. Boca Raton, FL: CRC Press, 1998.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Kenna</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Estimating treatment effect in the presence of non-compliance measured with error: precision and robustness of data analysis methods</ArticleTitle>
+                  <JournalTitle>Stat Med.</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <FirstPage>3561</FirstPage>
+                  <LastPage>3580</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15534899</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/sim.1830</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kenna LA, Sheiner LB. Estimating treatment effect in the presence of non-compliance measured with error: precision and robustness of data analysis methods.<Emphasis Type="Italic">Stat Med.</Emphasis> 2004;23:3561–3580.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Kenna</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <BookTitle>Estimating treatment effect in the presence of non-compliance measured with error: power, precision and robustness of data analysis methods</BookTitle>
+                  <PublisherName>University of California San Francisco</PublisherName>
+                  <PublisherLocation>San Francisco, CA</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Kenna LA. Estimating treatment effect in the presence of non-compliance measured with error: power, precision and robustness of data analysis methods [dissertation].<Emphasis Type="Italic">PhD Thesis</Emphasis>. San Francisco, CA; University of California San Francisco: 2001.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Catania</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Binson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Canchola</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Effects of interviewer gender, interviewer choice, and item wording on response to questions concerning sexual behavior</ArticleTitle>
+                  <JournalTitle>Public Opinion Quarterly.</JournalTitle>
+                  <VolumeID>60</VolumeID>
+                  <FirstPage>345</FirstPage>
+                  <LastPage>375</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1086/297758</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Catania JA, Binson D, Canchola J, et al. Effects of interviewer gender, interviewer choice, and item wording on response to questions concerning sexual behavior.<Emphasis Type="Italic">Public Opinion Quarterly.</Emphasis> 1996;60:345–375.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RM</Initials>
+                    <FamilyName>Kaplan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HJ</Initials>
+                    <FamilyName>Simon</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Compliance in medical care: reconsideration of self-predictions</ArticleTitle>
+                  <JournalTitle>Ann Behav Med.</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>66</FirstPage>
+                  <LastPage>71</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1207/s15324796abm1202_2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kaplan RM, Simon HJ. Compliance in medical care: reconsideration of self-predictions.<Emphasis Type="Italic">Ann Behav Med.</Emphasis> 1990;12:66–71.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>ME</Initials>
+                    <FamilyName>Hyland</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CA</Initials>
+                    <FamilyName>Kenyon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Allen</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Diary keeping in asthma: comparison of written and electronic methods</ArticleTitle>
+                  <JournalTitle>BMJ</JournalTitle>
+                  <VolumeID>306</VolumeID>
+                  <FirstPage>487</FirstPage>
+                  <LastPage>489</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8448458</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3s7pt1KqsQ%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1136/bmj.306.6876.487</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hyland ME, Kenyon CA, Allen R, et al. Diary keeping in asthma: comparison of written and electronic methods.<Emphasis Type="Italic">BMJ</Emphasis>. 1993;306:487–489.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Bangsberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FM</Initials>
+                    <FamilyName>Hecht</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ED</Initials>
+                    <FamilyName>Charlebois</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Adherence to protease inhibitors, HIV-1 viral load, and development of drug resistance in an indigent population</ArticleTitle>
+                  <JournalTitle>AIDS</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>357</FirstPage>
+                  <LastPage>366</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10770537</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXis1egu7s%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00002030-200003100-00008</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bangsberg DR, Hecht FM, Charlebois ED, et al. Adherence to protease inhibitors, HIV-1 viral load, and development of drug resistance in an indigent population.<Emphasis Type="Italic">AIDS</Emphasis>. 2000;14:357–366.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AR</Initials>
+                    <FamilyName>Feinstein</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">On white-coat effects and the electronic monitoring of compliance</ArticleTitle>
+                  <JournalTitle>Arch Intern Med.</JournalTitle>
+                  <VolumeID>150</VolumeID>
+                  <FirstPage>1377</FirstPage>
+                  <LastPage>1378</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2369237</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3czhsVGqsw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/archinte.150.7.1377</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Feinstein AR. On white-coat effects and the electronic monitoring of compliance.<Emphasis Type="Italic">Arch Intern Med.</Emphasis> 1990;150:1377–1378.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CE</Initials>
+                    <FamilyName>Golin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LG</Initials>
+                    <FamilyName>Miller</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">A comparison study of multiple measures of adherence to HIV protease inhibitors</ArticleTitle>
+                  <JournalTitle>Ann Intern Med.</JournalTitle>
+                  <VolumeID>134</VolumeID>
+                  <FirstPage>968</FirstPage>
+                  <LastPage>977</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11352698</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXktF2gs7o%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.7326/0003-4819-134-10-200105150-00011</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Liu H, Golin CE, Miller LG, et al. A comparison study of multiple measures of adherence to HIV protease inhibitors.<Emphasis Type="Italic">Ann Intern Med.</Emphasis> 2001;134:968–977.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Vrijens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Goetghebeur</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Comparing compliance patterns between randomized treatments</ArticleTitle>
+                  <JournalTitle>Control Clin Trials.</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>187</FirstPage>
+                  <LastPage>203</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9204220</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2szkvVWluw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0197-2456(96)00235-8</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Vrijens B, Goetghebeur E. Comparing compliance patterns between randomized treatments.<Emphasis Type="Italic">Control Clin Trials.</Emphasis> 1997;18:187–203.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Robins</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Correction for non-compliance in equivalence trials</ArticleTitle>
+                  <JournalTitle>Stat Med.</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>269</FirstPage>
+                  <LastPage>302</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9493255</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c7lsVejtA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/(SICI)1097-0258(19980215)17:3&lt;269::AID-SIM763&gt;3.0.CO;2-J</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Robins JM. Correction for non-compliance in equivalence trials.<Emphasis Type="Italic">Stat Med.</Emphasis> 1998;17:269–302; discussion 387–389.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Goetghebeur</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Molenberghs</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Katz</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Estimating the causal effect of compliance on binary outcome in randomized controlled trials</ArticleTitle>
+                  <JournalTitle>Stat Med.</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>341</FirstPage>
+                  <LastPage>355</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9493258</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c7lsVejuw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/(SICI)1097-0258(19980215)17:3&lt;341::AID-SIM766&gt;3.0.CO;2-X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goetghebeur E, Molenberghs G, Katz J. Estimating the causal effect of compliance on binary outcome in randomized controlled trials.<Emphasis Type="Italic">Stat Med.</Emphasis> 1998;17:341–355.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Efron</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Feldman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Compliance as an explanatory variable in clinical trials</ArticleTitle>
+                  <JournalTitle>J Am Stat Assoc.</JournalTitle>
+                  <VolumeID>86</VolumeID>
+                  <FirstPage>9</FirstPage>
+                  <LastPage>22</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2289707</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Efron B, Feldman D. Compliance as an explanatory variable in clinical trials.<Emphasis Type="Italic">J Am Stat Assoc.</Emphasis> 1991;86:9–22.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DB</Initials>
+                    <FamilyName>Rubin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Intention-to-treat analysis and the goals of clinical trials</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther.</JournalTitle>
+                  <VolumeID>57</VolumeID>
+                  <FirstPage>6</FirstPage>
+                  <LastPage>15</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7828382</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M7ivFejtw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0009-9236(95)90260-0</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Rubin DB. Intention-to-treat analysis and the goals of clinical trials.<Emphasis Type="Italic">Clin Pharmacol Ther.</Emphasis> 1995;57:6–15.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JD</Initials>
+                    <FamilyName>Angrist</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GW</Initials>
+                    <FamilyName>Imbens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Rubin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Identification of causal effects using instrumental variables</ArticleTitle>
+                  <JournalTitle>J Am Stat Assoc.</JournalTitle>
+                  <VolumeID>91</VolumeID>
+                  <FirstPage>444</FirstPage>
+                  <LastPage>472</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2291629</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Angrist JD, Imbens GW, Rubin DR. Identification of causal effects using instrumental variables.<Emphasis Type="Italic">J Am Stat Assoc.</Emphasis> 1996;91:444–472.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Albert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DL</Initials>
+                    <FamilyName>Demets</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">On a model-based approach to estimating efficacy in clinical trials</ArticleTitle>
+                  <JournalTitle>Stat Med.</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>2323</FirstPage>
+                  <LastPage>2335</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7855466</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M7lvVOnsQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/sim.4780132204</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Albert JM, Demets DL. On a model-based approach to estimating efficacy in clinical trials.<Emphasis Type="Italic">Stat Med.</Emphasis> 1994;13:2323–2335.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EN</Initials>
+                    <FamilyName>Jonsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Wade</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Almqvist</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Discrimination between rival dosing histories</ArticleTitle>
+                  <JournalTitle>Pharm Res.</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>984</FirstPage>
+                  <LastPage>991</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9279877</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXlslejtLw%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1012184808192</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jonsson EN, Wade JR, Almqvist G, et al. Discrimination between rival dosing histories.<Emphasis Type="Italic">Pharm Res.</Emphasis> 1997;14:984–991.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>43.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CW</Initials>
+                    <FamilyName>Cheng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KS</Initials>
+                    <FamilyName>Woo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JC</Initials>
+                    <FamilyName>Chan</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Association between adherence to statin therapy and lipid control in Hong Kong Chinese patients at high risk of coronary heart disease</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol.</JournalTitle>
+                  <VolumeID>58</VolumeID>
+                  <FirstPage>528</FirstPage>
+                  <LastPage>535</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15521901</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1365-2125.2004.02202.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cheng CW, Woo KS, Chan JC, et al. Association between adherence to statin therapy and lipid control in Hong Kong Chinese patients at high risk of coronary heart disease.<Emphasis Type="Italic">Br J Clin Pharmacol.</Emphasis> 2004;58:528–535.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR44">
+                <CitationNumber>44.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Frolkis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GL</Initials>
+                    <FamilyName>Pearce</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Nambi</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Statins do not meet expectations for lowering low-density lipoprotein cholesterol levels when used in clinical practice</ArticleTitle>
+                  <JournalTitle>Am J Med.</JournalTitle>
+                  <VolumeID>113</VolumeID>
+                  <FirstPage>625</FirstPage>
+                  <LastPage>629</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12505111</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XpslSmu7g%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0002-9343(02)01303-7</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Frolkis JP, Pearce GL, Nambi V, et al. Statins do not meet expectations for lowering low-density lipoprotein cholesterol levels when used in clinical practice.<Emphasis Type="Italic">Am J Med.</Emphasis> 2002;113:625–629.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR45">
+                <CitationNumber>45.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Simons</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Levis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Simons</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Apparent discontinuation rates in patients prescribed lipid-lowering drugs</ArticleTitle>
+                  <JournalTitle>Med J Aust.</JournalTitle>
+                  <VolumeID>164</VolumeID>
+                  <FirstPage>208</FirstPage>
+                  <LastPage>211</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8604188</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK287ot1Klsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Simons LA, Levis G, Simons J. Apparent discontinuation rates in patients prescribed lipid-lowering drugs.<Emphasis Type="Italic">Med J Aust.</Emphasis> 1996;164:208–211.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR46">
+                <CitationNumber>46.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JG</Initials>
+                    <FamilyName>Hiatt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SG</Initials>
+                    <FamilyName>Shamsie</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Schectman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Discontinuation rates of cholesterol-lowering medications: implications for primary care</ArticleTitle>
+                  <JournalTitle>Am J Manag Care.</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>437</FirstPage>
+                  <LastPage>444</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10387383</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1M3ntlylsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hiatt JG, Shamsie SG, Schectman G. Discontinuation rates of cholesterol-lowering medications: implications for primary care.<Emphasis Type="Italic">Am J Manag Care.</Emphasis> 1999;5:437–444.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR47">
+                <CitationNumber>47.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Larsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Andersen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Kragstrup</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">High persistence of statin use in a Danish population: compliance study 1993–1998</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol.</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <FirstPage>375</FirstPage>
+                  <LastPage>378</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11966668</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1365-2125.2002.01563.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Larsen J, Andersen M, Kragstrup J, et al. High persistence of statin use in a Danish population: compliance study 1993–1998.<Emphasis Type="Italic">Br J Clin Pharmacol.</Emphasis> 2002;53:375–378.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR48">
+                <CitationNumber>48.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DA</Initials>
+                    <FamilyName>Hughes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Walley</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Predicting “real world” effectiveness by integrating adherence with pharmacodynamic modeling</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther.</JournalTitle>
+                  <VolumeID>74</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>8</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12844129</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXkvFGhsLo%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0009-9236(03)00091-2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hughes DA, Walley T. Predicting “real world” effectiveness by integrating adherence with pharmacodynamic modeling.<Emphasis Type="Italic">Clin Pharmacol Ther.</Emphasis> 2003;74:1–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR49">
+                <CitationNumber>49.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Williams-Deane</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LS</Initials>
+                    <FamilyName>Potter</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Current oral contraceptive use instructions: An analysis of patient package inserts</ArticleTitle>
+                  <JournalTitle>Fam Plann Perspect.</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>111</FirstPage>
+                  <LastPage>115</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1628713</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK38zjtFOnuw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2135540</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Williams-Deane M, Potter LS. Current oral contraceptive use instructions: An analysis of patient package inserts.<Emphasis Type="Italic">Fam Plann Perspect.</Emphasis> 1992;24:111–115.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR50">
+                <CitationNumber>50.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Urquhar</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Erratic patient compliance with prescribed drug regiments: target for drug delivery systems</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther.</JournalTitle>
+                  <VolumeID>67</VolumeID>
+                  <FirstPage>331</FirstPage>
+                  <LastPage>334</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1067/mcp.2000.105582</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Urquhar J. Erratic patient compliance with prescribed drug regiments: target for drug delivery systems.<Emphasis Type="Italic">Clin Pharmacol Ther.</Emphasis> 2000;67:331–334.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR51">
+                <CitationNumber>51.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Cramer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Effect of partial compliance on cardiovascular medication effectiveness</ArticleTitle>
+                  <JournalTitle>Heart.</JournalTitle>
+                  <VolumeID>88</VolumeID>
+                  <FirstPage>203</FirstPage>
+                  <LastPage>206</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12117861</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/heart.88.2.203</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cramer JA. Effect of partial compliance on cardiovascular medication effectiveness.<Emphasis Type="Italic">Heart.</Emphasis> 2002;88:203–206.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR52">
+                <CitationNumber>52.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BF</Initials>
+                    <FamilyName>Johnson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Whelton</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">A study design for comparing the effects of missing daily doses of antihypertensive drugs</ArticleTitle>
+                  <JournalTitle>Am J Ther.</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <FirstPage>260</FirstPage>
+                  <LastPage>267</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11835097</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00045391-199412000-00003</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Johnson BF, Whelton A. A study design for comparing the effects of missing daily doses of antihypertensive drugs.<Emphasis Type="Italic">Am J Ther.</Emphasis> 1994;1:260–267.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR53">
+                <CitationNumber>53.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RE</Initials>
+                    <FamilyName>Rangno</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Langlois</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">Comparison of withdrawal phenomena after propranolol, metoprolol and pindolol</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol.</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <IssueID>suppl 2</IssueID>
+                  <FirstPage>345S</FirstPage>
+                  <LastPage>351S</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6125187</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL383lslSgtQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rangno RE, Langlois S. Comparison of withdrawal phenomena after propranolol, metoprolol and pindolol.<Emphasis Type="Italic">Br J Clin Pharmacol.</Emphasis> 1982;13(suppl 2):345S-351S.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR54">
+                <CitationNumber>54.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Vaur</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Dutrey-Dupagne</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Boussac</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Differential effects of a missed dose of trandolapril and enalapril on blood pressure control in hypertensive patients</ArticleTitle>
+                  <JournalTitle>J Cardiovasc Pharmacol.</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>127</FirstPage>
+                  <LastPage>131</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7564352</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2MXms1WgtLs%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00005344-199507000-00020</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Vaur L, Dutrey-Dupagne C, Boussac J, et al. Differential effects of a missed dose of trandolapril and enalapril on blood pressure control in hypertensive patients.<Emphasis Type="Italic">J Cardiovasc Pharmacol.</Emphasis> 1995;26:127–131.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR55">
+                <CitationNumber>55.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>FH</Initials>
+                    <FamilyName>Leenen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Fourney</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Notman</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Persistence of antihypertensive effect after ‘missed doses’ of calcium antagonist with long (amlodipine) vs short (diltiazem), elimination half-life</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol.</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>83</FirstPage>
+                  <LastPage>88</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8838433</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK28Xhs1Ohtrc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Leenen FH, Fourney A, Notman G, et al. Persistence of antihypertensive effect after ‘missed doses’ of calcium antagonist with long (amlodipine) vs short (diltiazem), elimination half-life.<Emphasis Type="Italic">Br J Clin Pharmacol.</Emphasis> 1996;41:83–88.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR56">
+                <CitationNumber>56.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Mallion</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Meilhac</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Tremel</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Use of a microprocessor-equipped tablet box in monitoring compliance with antihypertensive treatment</ArticleTitle>
+                  <JournalTitle>J Cardiovasc Pharmacol</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>suppl 2</IssueID>
+                  <FirstPage>S41</FirstPage>
+                  <LastPage>S48</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1377305</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1097/00005344-199219002-00011</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mallion JM, Meilhac B, Tremel F, et al. Use of a microprocessor-equipped tablet box in monitoring compliance with antihypertensive treatment.<Emphasis Type="Italic">J Cardiovasc Pharmacol</Emphasis>. 1992;19(suppl 2):S41-S48.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR57">
+                <CitationNumber>57.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SY</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>XY</Initials>
+                    <FamilyName>Song</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Bayesian analysis of structural equation models with dichotomous variables</ArticleTitle>
+                  <JournalTitle>Stat Med.</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>3073</FirstPage>
+                  <LastPage>3088</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12973788</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/sim.1544</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lee SY, Song XY. Bayesian analysis of structural equation models with dichotomous variables.<Emphasis Type="Italic">Stat Med.</Emphasis> 2003;22:3073–3088.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR58">
+                <CitationNumber>58.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Wainberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Friedland</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Public health implications of antiretroviral therapy and HIV drug resistance</ArticleTitle>
+                  <JournalTitle>JAMA</JournalTitle>
+                  <VolumeID>279</VolumeID>
+                  <FirstPage>1997</FirstPage>
+                  <LastPage>1983</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/jama.279.24.1977</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wainberg MA, Friedland G. Public health implications of antiretroviral therapy and HIV drug resistance.<Emphasis Type="Italic">JAMA</Emphasis>. 1998;279:1997–1983.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR59">
+                <CitationNumber>59.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GF</Initials>
+                    <FamilyName>Vanhove</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Schapiro</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Winters</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Patient compliance and drug failure in protease inhibitor monotherapy</ArticleTitle>
+                  <JournalTitle>JAMA</JournalTitle>
+                  <VolumeID>276</VolumeID>
+                  <FirstPage>1955</FirstPage>
+                  <LastPage>1956</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8971062</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s7is1Wgug%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/jama.276.24.1955</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Vanhove GF, Schapiro JM, Winters MA, et al. Patient compliance and drug failure in protease inhibitor monotherapy.<Emphasis Type="Italic">JAMA</Emphasis>. 1996;276:1955–1956.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR60">
+                <CitationNumber>60.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MS</Initials>
+                    <FamilyName>Hirsch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Conway</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RT</Initials>
+                    <FamilyName>D'Aquila</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Antiretroviral drug resistance testing in adults with HIV infection: implications for clinical management. International AIDS Society-USA Panel</ArticleTitle>
+                  <JournalTitle>JAMA</JournalTitle>
+                  <VolumeID>279</VolumeID>
+                  <FirstPage>1984</FirstPage>
+                  <LastPage>1991</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9643863</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXksFelsLg%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/jama.279.24.1984</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hirsch MS, Conway B, D'Aquila RT, et al. Antiretroviral drug resistance testing in adults with HIV infection: implications for clinical management. International AIDS Society-USA Panel.<Emphasis Type="Italic">JAMA</Emphasis>. 1998;279:1984–1991.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR61">
+                <CitationNumber>61.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Bangsberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ED</Initials>
+                    <FamilyName>Charlebois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RM</Initials>
+                    <FamilyName>Grant</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">High levels of adherence do not prevent accumulation of HIV drug resistance mutations</ArticleTitle>
+                  <JournalTitle>AIDS</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>1925</FirstPage>
+                  <LastPage>1932</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12960825</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00002030-200309050-00011</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bangsberg DR, Charlebois ED, Grant RM, et al. High levels of adherence do not prevent accumulation of HIV drug resistance mutations.<Emphasis Type="Italic">AIDS</Emphasis>. 2003;17:1925–1932.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR62">
+                <CitationNumber>62.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Pfister</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Labbe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Hammer</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics and pharmacodynamics of efavirenz, nelfinavir, and indinavir: Adult AIDS Clinical Trial Group Study 398</ArticleTitle>
+                  <JournalTitle>Antimicrob Agents Chemother.</JournalTitle>
+                  <VolumeID>47</VolumeID>
+                  <FirstPage>130</FirstPage>
+                  <LastPage>137</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12499180</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXis12htQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1128/AAC.47.1.130-137.2003</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pfister M, Labbe L, Hammer SM, et al. Population pharmacokinetics and pharmacodynamics of efavirenz, nelfinavir, and indinavir: Adult AIDS Clinical Trial Group Study 398.<Emphasis Type="Italic">Antimicrob Agents Chemother.</Emphasis> 2003;47:130–137.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR63">
+                <CitationNumber>63.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Urquhart</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ChapterTitle Language="En">Non-compliance: the ultimate absorption barrier</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>LF</Initials>
+                    <FamilyName>Prescott</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>WS</Initials>
+                    <FamilyName>Nimmo</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Novel Drug Delivery and Its Therapeutic Applications</BookTitle>
+                  <PublisherName>John Wiley &amp; Sons</PublisherName>
+                  <PublisherLocation>Chichester, UK</PublisherLocation>
+                  <FirstPage>127</FirstPage>
+                  <LastPage>137</LastPage>
+                </BibChapter>
+                <BibUnstructured>Urquhart J. Non-compliance: the ultimate absorption barrier. In: Prescott LF, Nimmo WS, eds. Novel Drug Delivery and Its Therapeutic Applications, Chichester, UK: John Wiley &amp; Sons, 1989;127–137.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR64">
+                <CitationNumber>64.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kastrissios</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Suarez</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Katzenstein</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Characterizing patterns of drug-taking behavior with a multiple drug regimen in an AIDS clinical trial</ArticleTitle>
+                  <JournalTitle>AIDS</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>2295</FirstPage>
+                  <LastPage>2303</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9863872</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXlt1Kk</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00002030-199817000-00011</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kastrissios H, Suarez JR, Katzenstein D, et al. Characterizing patterns of drug-taking behavior with a multiple drug regimen in an AIDS clinical trial.<Emphasis Type="Italic">AIDS</Emphasis>. 1998;12:2295–2303.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR65">
+                <CitationNumber>65.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Girard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kastrissios</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Do we need full compliance data for population pharmacokinetic analysis?</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm.</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>265</FirstPage>
+                  <LastPage>282</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8970015</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXjtFKhtg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF02353671</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Girard P, Sheiner LB, Kastrissios H, et al. Do we need full compliance data for population pharmacokinetic analysis?<Emphasis Type="Italic">J Pharmacokinet Biopharm.</Emphasis> 1996;24:265–282.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR66">
+                <CitationNumber>66.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Girard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TF</Initials>
+                    <FamilyName>Blaschke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kastrissios</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">A Markov mixed effect regression model for drug compliance</ArticleTitle>
+                  <JournalTitle>Stat Med.</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>2313</FirstPage>
+                  <LastPage>2333</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9819830</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1M%2Fjslaltw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/(SICI)1097-0258(19981030)17:20&lt;2313::AID-SIM935&gt;3.0.CO;2-V</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Girard P, Blaschke TF, Kastrissios H, et al. A Markov mixed effect regression model for drug compliance.<Emphasis Type="Italic">Stat Med.</Emphasis> 1998;17:2313–2333.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR67">
+                <CitationNumber>67.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Vrijens</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <BookTitle>Analyzing time-varying patterns of human exposure to xenobiotics and their biomedical impact</BookTitle>
+                  <PublisherName>University of Ghent</PublisherName>
+                  <PublisherLocation>Ghent, Belgium</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Vrijens B. Analyzing time-varying patterns of human exposure to xenobiotics and their biomedical impact. Ghent, Belgium: University of Ghent; 2002.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR68">
+                <CitationNumber>68.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Labbé</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Hammer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Mellors</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">A Markov model for the effect of covariates including drug adherence on longitudinal viral response in HIV patients</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther.</JournalTitle>
+                  <VolumeID>75</VolumeID>
+                  <FirstPage>90</FirstPage>
+                  <LastPage>90</LastPage>
+                </BibArticle>
+                <BibUnstructured>Labbé L, Hammer SM, Mellors JW, et al. A Markov model for the effect of covariates including drug adherence on longitudinal viral response in HIV patients.<Emphasis Type="Italic">Clin Pharmacol Ther.</Emphasis> 2004;75:P90.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR69">
+                <CitationNumber>69.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Labbé</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Verotta</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">A non-linear mixed effect dynamic model using adherence to treatment to describe long-term therapy outcome in HIV-patients</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther.</JournalTitle>
+                  <VolumeID>77</VolumeID>
+                  <FirstPage>90</FirstPage>
+                  <LastPage>90</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.clpt.2004.09.007</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2MXks1aj</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Labbé L, Verotta D. A non-linear mixed effect dynamic model using adherence to treatment to describe long-term therapy outcome in HIV-patients.<Emphasis Type="Italic">Clin Pharmacol Ther.</Emphasis> 2005;77:P90.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR70">
+                <CitationNumber>70.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Diggle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MG</Initials>
+                    <FamilyName>Kenward</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Informative drop-out in longitudinal data analysis</ArticleTitle>
+                  <JournalTitle>Appl Stats.</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>49</FirstPage>
+                  <LastPage>93</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2986113</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Diggle P, Kenward MG. Informative drop-out in longitudinal data analysis.<Emphasis Type="Italic">Appl Stats.</Emphasis> 1994;43:49–93.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR71">
+                <CitationNumber>71.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Hu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ME</Initials>
+                    <FamilyName>Sale</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A joint model for nonlinear longitudinal data with informative dropout</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn.</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>83</FirstPage>
+                  <LastPage>103</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12800808</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1023249510224</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hu C, Sale ME. A joint model for nonlinear longitudinal data with informative dropout.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn.</Emphasis> 2003;30:83–103.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR72">
+                <CitationNumber>72.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SE</Initials>
+                    <FamilyName>Noordmohamed</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WK</Initials>
+                    <FamilyName>Henry</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FS</Initials>
+                    <FamilyName>Rhame</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Strategies for control of zidovudine concentrations in serum</ArticleTitle>
+                  <JournalTitle>Antimicrob Agents Chemother</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>2792</FirstPage>
+                  <LastPage>2797</LastPage>
+                </BibArticle>
+                <BibUnstructured>Noordmohamed SE, Henry WK, Rhame FS, et al. Strategies for control of zidovudine concentrations in serum.<Emphasis Type="Italic">Antimicrob Agents Chemother</Emphasis>. 1995;39:2792–2797.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR73">
+                <CitationNumber>73.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SJ</Initials>
+                    <FamilyName>Goldie</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AD</Initials>
+                    <FamilyName>Paltiel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MC</Initials>
+                    <FamilyName>Weinstein</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Projecting the cost-effectiveness of adherence interventions in persons with human immunodeficiency virus infection</ArticleTitle>
+                  <JournalTitle>Am J Med.</JournalTitle>
+                  <VolumeID>115</VolumeID>
+                  <FirstPage>632</FirstPage>
+                  <LastPage>641</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14656616</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.amjmed.2003.07.007</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goldie SJ, Paltiel AD, Weinstein MC, et al. Projecting the cost-effectiveness of adherence interventions in persons with human immunodeficiency virus infection.<Emphasis Type="Italic">Am J Med.</Emphasis> 2003;115:632–641.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR74">
+                <CitationNumber>74.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GM</Initials>
+                    <FamilyName>Lucas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RE</Initials>
+                    <FamilyName>Chaisson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RD</Initials>
+                    <FamilyName>Moore</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Highly active antiretroviral therapy in a large urban clinic: risk factors for virologic failure and adverse drug reactions</ArticleTitle>
+                  <JournalTitle>Ann Intern Med.</JournalTitle>
+                  <VolumeID>131</VolumeID>
+                  <FirstPage>81</FirstPage>
+                  <LastPage>87</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10419445</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1MzjtlSntg%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.7326/0003-4819-131-2-199907200-00002</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lucas GM, Chaisson RE, Moore RD. Highly active antiretroviral therapy in a large urban clinic: risk factors for virologic failure and adverse drug reactions.<Emphasis Type="Italic">Ann Intern Med.</Emphasis> 1999;131:81–87.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR75">
+                <CitationNumber>75.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>WM</Initials>
+                    <FamilyName>Glazer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Ereshefsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">A pharmacoeconomic model of outpatient antipsychotic therapy in “revolving door” schizophrenic patients</ArticleTitle>
+                  <JournalTitle>J Clin Psychiatry</JournalTitle>
+                  <VolumeID>57</VolumeID>
+                  <FirstPage>337</FirstPage>
+                  <LastPage>345</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8752015</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK28zlsVOisw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Glazer WM, Ereshefsky L. A pharmacoeconomic model of outpatient antipsychotic therapy in “revolving door” schizophrenic patients.<Emphasis Type="Italic">J Clin Psychiatry</Emphasis>. 1996;57:337–345.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR76">
+                <CitationNumber>76.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Cramer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RD</Initials>
+                    <FamilyName>Scheyer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RH</Initials>
+                    <FamilyName>Mattson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Compliance declines between clinic visits</ArticleTitle>
+                  <JournalTitle>Arch Intern Med.</JournalTitle>
+                  <VolumeID>150</VolumeID>
+                  <FirstPage>1509</FirstPage>
+                  <LastPage>1510</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2369248</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3czhsVKisw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/archinte.150.7.1509</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cramer JA, Scheyer RD, Mattson RH. Compliance declines between clinic visits.<Emphasis Type="Italic">Arch Intern Med.</Emphasis> 1990;150:1509–1510.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR77">
+                <CitationNumber>77.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Waeber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Leonetti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Kolloch</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Compliance with aspirin or placebo in the Hypertension Optimal Treatment (HOT) study</ArticleTitle>
+                  <JournalTitle>J Hypertens.</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>1041</FirstPage>
+                  <LastPage>1045</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10419079</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXkvFKhur4%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00004872-199917070-00022</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Waeber B, Leonetti G, Kolloch R, et al. Compliance with aspirin or placebo in the Hypertension Optimal Treatment (HOT) study.<Emphasis Type="Italic">J Hypertens.</Emphasis> 1999;17:1041–1045.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR78">
+                <CitationNumber>78.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kastrissios</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TF</Initials>
+                    <FamilyName>Blaschke</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Medication compliance as a feature in drug development</ArticleTitle>
+                  <JournalTitle>Annu Rev Pharmacol Toxicol.</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <FirstPage>451</FirstPage>
+                  <LastPage>475</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9131261</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXisl2qt74%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1146/annurev.pharmtox.37.1.451</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kastrissios H, Blaschke TF. Medication compliance as a feature in drug development.<Emphasis Type="Italic">Annu Rev Pharmacol Toxicol.</Emphasis> 1997;37:451–475.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR79">
+                <CitationNumber>79.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Kass</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DW</Initials>
+                    <FamilyName>Meltzer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Gordon</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">Compliance with topical pilocarpine treatment</ArticleTitle>
+                  <JournalTitle>Am J Ophthalmol.</JournalTitle>
+                  <VolumeID>101</VolumeID>
+                  <FirstPage>515</FirstPage>
+                  <LastPage>523</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3706455</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL283ht1CrsA%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1016/0002-9394(86)90939-6</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kass MA, Meltzer DW, Gordon M, et al. Compliance with topical pilocarpine treatment.<Emphasis Type="Italic">Am J Ophthalmol.</Emphasis> 1986;101:515–523.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR80">
+                <CitationNumber>80.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>CC</Initials>
+                    <FamilyName>Peck</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ChapterTitle Language="En">Non-compliance and clinical trials: regulatory perspectives</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Metry</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>UA</Initials>
+                    <FamilyName>Meyer</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Drug Regimen Compliance: Issues in Clinical Trials and Patient Management</BookTitle>
+                  <PublisherName>John Wiley &amp; Sons</PublisherName>
+                  <PublisherLocation>Chichester, UK</PublisherLocation>
+                  <FirstPage>97</FirstPage>
+                  <LastPage>102</LastPage>
+                </BibChapter>
+                <BibUnstructured>Peck CC. Non-compliance and clinical trials: regulatory perspectives. In: Metry JM, Meyer UA, eds. Drug Regimen Compliance: Issues in Clinical Trials and Patient Management. Chichester, UK: John Wiley &amp; Sons, 1999;97–102.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR81">
+                <CitationNumber>81.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Hasford</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ChapterTitle Language="En">Design and analysis of clinical trials of compliance</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Metry</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>UA</Initials>
+                    <FamilyName>Meyer</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Drug Regimen Compliance: Issues in Clinical Trials and Patient Management</BookTitle>
+                  <PublisherName>John Wiley &amp; Sons</PublisherName>
+                  <PublisherLocation>Chichester, UK</PublisherLocation>
+                  <FirstPage>23</FirstPage>
+                  <LastPage>40</LastPage>
+                </BibChapter>
+                <BibUnstructured>Hasford J. Design and analysis of clinical trials of compliance, In: Metry JM, Meyer UA, eds. Drug Regimen Compliance: Issues in Clinical Trials and Patient Management. Chichester, UK: John Wiley &amp; Sons, 1999;23–40.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR82">
+                <CitationNumber>82.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RB</Initials>
+                    <FamilyName>Haynes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Montague</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Oliver</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Interventions for helping patients to follow prescriptions for medications</ArticleTitle>
+                  <JournalTitle>Cochrane Database Syst Rev.</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <FirstPage>CD000011</FirstPage>
+                  <LastPage>CD000011</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10796686</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Haynes RB, Montague P, Oliver T, et al. Interventions for helping patients to follow prescriptions for medications.<Emphasis Type="Italic">Cochrane Database Syst Rev.</Emphasis> 2000;2:CD000011.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR83">
+                <CitationNumber>83.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Volmink</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Garner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Directly observed therapy for treating tuberculosis</ArticleTitle>
+                  <JournalTitle>Cochrane Database Syst Rev.</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>CD003343</FirstPage>
+                  <LastPage>CD003343</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11687192</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Volmink J, Garner P. Directly observed therapy for treating tuberculosis.<Emphasis Type="Italic">Cochrane Database Syst Rev.</Emphasis> 2001;4:CD003343.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR84">
+                <CitationNumber>84.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Barker</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Millard</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Directly observed therapy and treatment adherence</ArticleTitle>
+                  <JournalTitle>Lancet</JournalTitle>
+                  <VolumeID>356</VolumeID>
+                  <FirstPage>1030</FirstPage>
+                  <LastPage>1</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11041424</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3cvptVWmsw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0140-6736(05)72650-7</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Barker J, Millard J. Directly observed therapy and treatment adherence.<Emphasis Type="Italic">Lancet</Emphasis>. 2000;356:1030–1; author reply 1032.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR85">
+                <CitationNumber>85.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Urquhart</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Chevalley</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Impact of unrecognized dosing errors on the cost and effectiveness of pharmaceuticals</ArticleTitle>
+                  <JournalTitle>Drug Info J.</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>363</FirstPage>
+                  <LastPage>378</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1177/009286158802200310</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Urquhart J, Chevalley C. Impact of unrecognized dosing errors on the cost and effectiveness of pharmaceuticals.<Emphasis Type="Italic">Drug Info J.</Emphasis> 1998;22:363–378.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR86">
+                <CitationNumber>86.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Learning versus confirming in clinical drug development</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther.</JournalTitle>
+                  <VolumeID>61</VolumeID>
+                  <FirstPage>275</FirstPage>
+                  <LastPage>291</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9084453</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s3jvVWitQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0009-9236(97)90160-0</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB. Learning versus confirming in clinical drug development.<Emphasis Type="Italic">Clin Pharmacol Ther.</Emphasis> 1997;61:275–291.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR87">
+                <CitationNumber>87.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Girard</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Clinical trial simulation: a tool for understanding study failures and preventing them</ArticleTitle>
+                  <JournalTitle>Basic Clin Pharmacol Toxicol.</JournalTitle>
+                  <VolumeID>96</VolumeID>
+                  <FirstPage>228</FirstPage>
+                  <LastPage>234</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15733219</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2MXisFSlsr8%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1742-7843.2005.pto960313.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Girard P. Clinical trial simulation: a tool for understanding study failures and preventing them.<Emphasis Type="Italic">Basic Clin Pharmacol Toxicol.</Emphasis> 2005;96:228–234.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR88">
+                <CitationNumber>88.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Lasagn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PB</Initials>
+                    <FamilyName>Hutt</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ChapterTitle Language="En">Health care, research, and regulatory impact of noncompliance</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Cramer</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Spilker</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Compliance in Medical Practice and Clinical Trials, JA</BookTitle>
+                  <PublisherName>Raven Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>393</FirstPage>
+                  <LastPage>403</LastPage>
+                </BibChapter>
+                <BibUnstructured>Lasagn L, Hutt PB. Health care, research, and regulatory impact of noncompliance. In: Cramer JA, Spilker B, eds. Compliance in Medical Practice and Clinical Trials, JA. New York: Raven Press, 1991;393–403.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR89">
+                <CitationNumber>89.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SE</Initials>
+                    <FamilyName>Morris</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GV</Initials>
+                    <FamilyName>Groom</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ED</Initials>
+                    <FamilyName>Cameron</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1979</Year>
+                  <ArticleTitle Language="En">Studies on low dose oral contraceptives: plasma hormone changes in relation to deliberate pill (‘Microgynon 30’) omission</ArticleTitle>
+                  <JournalTitle>Contraception</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>61</FirstPage>
+                  <LastPage>69</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>477318</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE1MXltlCltbs%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0010-7824(79)90045-3</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Morris SE, Groom GV, Cameron ED, et al. Studies on low dose oral contraceptives: plasma hormone changes in relation to deliberate pill (‘Microgynon 30’) omission.<Emphasis Type="Italic">Contraception</Emphasis>. 1979;20:61–69.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR90">
+                <CitationNumber>90.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Chowdhury</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>UM</Initials>
+                    <FamilyName>Joshi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Gopalkrishna</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">‘Escape’ ovulation in women due to the missing of low dose combination oral contraceptive pills</ArticleTitle>
+                  <JournalTitle>Contraception</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>241</FirstPage>
+                  <LastPage>247</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7438752</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL3M%2FmsFyitg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0010-7824(80)80003-5</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chowdhury V, Joshi UM, Gopalkrishna K, et al. ‘Escape’ ovulation in women due to the missing of low dose combination oral contraceptive pills.<Emphasis Type="Italic">Contraception</Emphasis>. 1980;22:241–247.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR91">
+                <CitationNumber>91.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Shi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SZ</Initials>
+                    <FamilyName>Cekan</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">Hormonal consequences of “missing the pill”</ArticleTitle>
+                  <JournalTitle>Contraception</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>545</FirstPage>
+                  <LastPage>566</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6820336</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL3sXhtVWgtLc%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0010-7824(82)90131-7</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wang E, Shi S, Cekan SZ, et al. Hormonal consequences of “missing the pill”.<Emphasis Type="Italic">Contraception</Emphasis>. 1982;26: 545–566.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR92">
+                <CitationNumber>92.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BM</Initials>
+                    <FamilyName>Landgren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Diczfalusy</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Hormonal consequences of missing the pill during the first two days of three consecutive artificial cycles</ArticleTitle>
+                  <JournalTitle>Contraception</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>437</FirstPage>
+                  <LastPage>446</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6430642</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2c3mtVGktg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0010-7824(84)90017-9</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Landgren BM, Diczfalusy E. Hormonal consequences of missing the pill during the first two days of three consecutive artificial cycles.<Emphasis Type="Italic">Contraception</Emphasis>. 1984;29:437–446.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR93">
+                <CitationNumber>93.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BM</Initials>
+                    <FamilyName>Landgren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Csemiczky</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">The effect of follicular growth and luteal function of “missing the pill”. A comparison between a monophasic and a triphasic combined oral contraceptive</ArticleTitle>
+                  <JournalTitle>Contraception.</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>149</FirstPage>
+                  <LastPage>159</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1828225</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3M3kvFKhtA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0010-7824(91)90042-E</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Landgren BM, Csemiczky G. The effect of follicular growth and luteal function of “missing the pill”. A comparison between a monophasic and a triphasic combined oral contraceptive.<Emphasis Type="Italic">Contraception.</Emphasis> 1991;43:149–159.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR94">
+                <CitationNumber>94.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JT</Initials>
+                    <FamilyName>Cross</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HD</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Nelson</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">One in five marketed drugs undergoes a dosage change: 1980–1999</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther.</JournalTitle>
+                  <VolumeID>69</VolumeID>
+                  <FirstPage>63</FirstPage>
+                  <LastPage>63</LastPage>
+                </BibArticle>
+                <BibUnstructured>Cross JT, Lee HD, Nelson JS, et al. One in five marketed drugs undergoes a dosage change: 1980–1999.<Emphasis Type="Italic">Clin Pharmacol Ther.</Emphasis> 2001;69:P63.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR95">
+                <CitationNumber>95.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lazarou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BH</Initials>
+                    <FamilyName>Pomeranz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PN</Initials>
+                    <FamilyName>Corey</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Incidence of adverse drug reactions in hospitalized patients: a meta-analysis of prospective studies</ArticleTitle>
+                  <JournalTitle>JAMA</JournalTitle>
+                  <VolumeID>279</VolumeID>
+                  <FirstPage>1200</FirstPage>
+                  <LastPage>1205</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9555760</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c3hsFSnsQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/jama.279.15.1200</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lazarou J, Pomeranz BH, Corey PN. Incidence of adverse drug reactions in hospitalized patients: a meta-analysis of prospective studies.<Emphasis Type="Italic">JAMA</Emphasis>. 1998;279:1200–1205.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR96">
+                <CitationNumber>96.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Fremont-Smith</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GR</Initials>
+                    <FamilyName>Kravitz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Bush</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Adverse drug reactions in hospitalized patients</ArticleTitle>
+                  <JournalTitle>J Am Stat Assoc.</JournalTitle>
+                  <VolumeID>280</VolumeID>
+                  <FirstPage>1741</FirstPage>
+                  <LastPage>1741</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1M%2FlslSktg%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1001/jama.280.20.1741</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fremont-Smith K, Kravitz GR, Bush T, et al. Adverse drug reactions in hospitalized patients.<Emphasis Type="Italic">J Am Stat Assoc.</Emphasis> 1998;280:1741.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR97">
+                <CitationNumber>97.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>KD</Initials>
+                    <FamilyName>Burney</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Krishnan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MT</Initials>
+                    <FamilyName>Ruffin</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Adherence to single daily dose of aspirin in a chemoprevention trial. An evaluation of self-report and microelectronic monitoring</ArticleTitle>
+                  <JournalTitle>Arch Farm Med.</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>297</FirstPage>
+                  <LastPage>300</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK283ht1eqsw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/archfami.5.5.297</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Burney KD, Krishnan K, Ruffin MT, et al. Adherence to single daily dose of aspirin in a chemoprevention trial. An evaluation of self-report and microelectronic monitoring.<Emphasis Type="Italic">Arch Farm Med.</Emphasis> 1996;5:297–300.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR98">
+                <CitationNumber>98.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BJ</Initials>
+                    <FamilyName>Turner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FM</Initials>
+                    <FamilyName>Hecht</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Improving on a coin toss to predict patient adherence to medications</ArticleTitle>
+                  <JournalTitle>Ann Intern Med.</JournalTitle>
+                  <VolumeID>134</VolumeID>
+                  <FirstPage>1004</FirstPage>
+                  <LastPage>1006</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11352702</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3M3mtlSitw%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.7326/0003-4819-134-10-200105150-00015</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Turner BJ, Hecht FM. Improving on a coin toss to predict patient adherence to medications.<Emphasis Type="Italic">Ann Intern Med.</Emphasis> 2001;134:1004–1006.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR99">
+                <CitationNumber>99.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PA</Initials>
+                    <FamilyName>Meredith</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HL</Initials>
+                    <FamilyName>Elliott</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Therapeutic coverage: reducing the risks of partial compliance</ArticleTitle>
+                  <JournalTitle>Br J Clin Pract.</JournalTitle>
+                  <VolumeID>73</VolumeID>
+                  <FirstPage>13</FirstPage>
+                  <LastPage>17</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2czgsVOltA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Meredith PA, Elliott HL. Therapeutic coverage: reducing the risks of partial compliance.<Emphasis Type="Italic">Br J Clin Pract.</Emphasis> 1994;73(suppl):13–17.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR100">
+                <CitationNumber>100.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Detry</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Patient compliance and therapeutic coverage: amlodipine versus nifedipine SR in the treatment of hypertension and angina: interim results. Steering Committee and Cardiologists and General Practitioners involved in the Belgium Multicentre Study on Patient Compliance</ArticleTitle>
+                  <JournalTitle>Clin Cardiol.</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>suppl 3</IssueID>
+                  <FirstPage>III12</FirstPage>
+                  <LastPage>III16</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9156955</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s3pslOjsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Detry JM. Patient compliance and therapeutic coverage: amlodipine versus nifedipine SR in the treatment of hypertension and angina: interim results. Steering Committee and Cardiologists and General Practitioners involved in the Belgium Multicentre Study on Patient Compliance.<Emphasis Type="Italic">Clin Cardiol.</Emphasis> 1994;17(suppl 3):III12-III16.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR101">
+                <CitationNumber>101.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Urquhart</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Klerk</FamilyName>
+                    <Particle>De</Particle>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Contending paradigms for the interpretation of data on patient compliance with therapeutic drug regimens</ArticleTitle>
+                  <JournalTitle>Stat Med.</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>251</FirstPage>
+                  <LastPage>267</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9493254</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c7lsVejtw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/(SICI)1097-0258(19980215)17:3&lt;251::AID-SIM762&gt;3.0.CO;2-A</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Urquhart J, De Klerk E. Contending paradigms for the interpretation of data on patient compliance with therapeutic drug regimens.<Emphasis Type="Italic">Stat Med.</Emphasis> 1998;17:251–267; discussion 387–389.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>9</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art5">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>73544</ArticleID>
+            <ArticleDOI>10.1208/aapsj070355</ArticleDOI>
+            <ArticleSequenceNumber>5</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Pharmacokinetics/pharmacodynamics and the stages of drug development: Role of modeling and simulation</ArticleTitle>
+            <ArticleFirstPage>E544</ArticleFirstPage>
+            <ArticleLastPage>E559</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+              </Received>
+              <Accepted>
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>3</IssueIDStart>
+              <IssueIDEnd>3</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jenny</GivenName>
+                  <GivenName>Y.</GivenName>
+                  <FamilyName>Chien</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>(317) 27609186</Phone>
+                  <Fax>(317) 433-2473</Fax>
+                  <Email>jchien@lilly.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Stuart</GivenName>
+                  <FamilyName>Friedrich</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Michael</GivenName>
+                  <GivenName>A.</GivenName>
+                  <FamilyName>Heathman</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Dinesh</GivenName>
+                  <GivenName>P.</GivenName>
+                  <Particle>de</Particle>
+                  <FamilyName>Alwis</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Vikram</GivenName>
+                  <FamilyName>Sinha</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Lilly Research Laboratories, Eli Lilly &amp; Company</OrgDivision>
+                <OrgName>Lilly Corporate Center</OrgName>
+                <OrgAddress>
+                  <Postcode>46285</Postcode>
+                  <City>Indianapolis</City>
+                  <State>IN</State>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Pharmacokinetic (PK) and pharmacodynamic (PD) modeling and simulation (M&amp;S) are well-recognized powerful tools that enable effective implementation of the learn-and-confirm paradigm in drug development. The impact of PK/PD M&amp;S on decision making and drug development risk management is dependent on the question being asked and on the availability and quality of data accessible at a particular stage of drug development. For instance, M&amp;S methodologies can be used to capture uncertainty and use the expected variability in PK/PD data generated in preclinical species for projection of the plausible range of clinical dose; clinical trial simulation can be used to forecast the probability of achieving a target response in patients based on information obtained in early phases of development. Framing the right question and capturing the key assumptions are critical components of the “learn-and-confirm” paradigm in the drug development process and are essential to delivering high-value PK/PD M&amp;S results. Selected works of PK/PD modeling and simulation from preclinical to phase III are presented as case examples in this article.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>drug development</Keyword>
+              <Keyword>modeling and simulation</Keyword>
+              <Keyword>pharmacokinetics/pharmacodynamics</Keyword>
+              <Keyword>NONMEM</Keyword>
+              <Keyword>design optimization</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: October 7, 2005</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_73544.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Learning versus confirming in clinical drug development</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>61</VolumeID>
+                  <FirstPage>275</FirstPage>
+                  <LastPage>291</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9084453</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0009-9236(97)90160-0</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:ByiB3sfhtFM%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB. Learning versus confirming in clinical drug development.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 1997;61:275–291.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibBook>
+                  <BibEditorName>
+                    <Initials>HC</Initials>
+                    <FamilyName>Kimko</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <Year>2003</Year>
+                  <BookTitle>Simulation for Designing Clinical Trials</BookTitle>
+                  <SeriesTitle Language="En">A Pharmacokinetic-Pharmacodynamic Modeling Perspective</SeriesTitle>
+                  <PublisherName>Marcel Dekker</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Kimko HC, Duffull SB, eds. Simulation for Designing Clinical Trials.<Emphasis Type="Italic">A Pharmacokinetic-Pharmacodynamic Modeling Perspective</Emphasis>. New York: Marcel Dekker; 2003.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CC</Initials>
+                    <FamilyName>Peck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WH</Initials>
+                    <FamilyName>Barr</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LZ</Initials>
+                    <FamilyName>Benet</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Opportunities for integration of pharmacokinetics, pharmacodynamics, and toxicokinetics in rational drug development</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>111</FirstPage>
+                  <LastPage>119</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8163710</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:ByuB3Mnls1w%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1002/j.1552-4604.1994.tb03974.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Peck CC, Barr WH, Benet LZ, et al. Opportunities for integration of pharmacokinetics, pharmacodynamics, and toxicokinetics in rational drug development.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 1994;34:111–119.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GR</Initials>
+                    <FamilyName>Galluppi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MC</Initials>
+                    <FamilyName>Rogge</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LK</Initials>
+                    <FamilyName>Roskos</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Integration of pharmacokinetic and pharmacodynamic studies in the discovery, development, and review of protein therapeutic agents: a conference report</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>69</VolumeID>
+                  <FirstPage>387</FirstPage>
+                  <LastPage>399</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11406736</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1067/mcp.2001.115455</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXltFWlur8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Galluppi GR, Rogge MC, Roskos LK, et al. Integration of pharmacokinetic and pharmacodynamic studies in the discovery, development, and review of protein therapeutic agents: a conference report.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 2001;69:387–399.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LJ</Initials>
+                    <FamilyName>Lesko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Rowland</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CC</Initials>
+                    <FamilyName>Peck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TF</Initials>
+                    <FamilyName>Blaschke</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Optimizing the science of drug development: opportunities for better candidate selection and accelerated evaluation in humans</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>1335</FirstPage>
+                  <LastPage>1344</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11205725</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1007574217260</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXlvFymsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lesko LJ, Rowland M, Peck CC, Blaschke TF. Optimizing the science of drug development: opportunities for better candidate selection and accelerated evaluation in humans.<Emphasis Type="Italic">Pharm Res</Emphasis>. 2000;17:1335–1344.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Steimer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic/pharmacodynamic modeling in drug development</ArticleTitle>
+                  <JournalTitle>Annu Rev Pharmacol Toxicol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>67</FirstPage>
+                  <LastPage>96</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10836128</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1146/annurev.pharmtox.40.1.67</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXjs1yhsrg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Steimer JL. Pharmacokinetic/pharmacodynamic modeling in drug development.<Emphasis Type="Italic">Annu Rev Pharmacol Toxicol</Emphasis>. 2000;40:67–96.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>U.S. Department of Health and Human Services, FDA. Exposure-response relationships—study design, data analysis, and regulatory applications. Available at: http://www.fda.gov/cder/ gdlns/exposure.htm. Accessed May 9, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>Holford NHG, Hale M, Ko HC, Steimer J-L, Sheiner LB, Peck CC. Simulation in Drug Development: Good Practices. Available at: http://cdds.georgetown.edu/research/sddgp723.html. Accessed May 9, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NH</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HC</Initials>
+                    <FamilyName>Kimko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Monteleone</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CC</Initials>
+                    <FamilyName>Peck</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Simulation of clinical trials</ArticleTitle>
+                  <JournalTitle>Annu Rev Pharmacol Toxicol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>209</FirstPage>
+                  <LastPage>234</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10836134</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1146/annurev.pharmtox.40.1.209</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXjs1yhsLw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Holford NH, Kimko HC, Monteleone JP, Peck CC. Simulation of clinical trials.<Emphasis Type="Italic">Annu Rev Pharmacol Toxicol</Emphasis>. 2000;40:209–234.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>HC</Initials>
+                    <FamilyName>Kimko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SS</Initials>
+                    <FamilyName>Reele</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NH</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CC</Initials>
+                    <FamilyName>Peck</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Prediction of the outcome of a phase 3 clinical trial of an antischizophrenic agent (quetiapine fumarate) by simulation with a population pharmacokinetic and pharmacodynamic model</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>68</VolumeID>
+                  <FirstPage>568</FirstPage>
+                  <LastPage>577</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11103759</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1067/mcp.2000.110975</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXovVeru7w%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kimko HC, Reele SS, Holford NH, Peck CC. Prediction of the outcome of a phase 3 clinical trial of an antischizophrenic agent (quetiapine fumarate) by simulation with a population pharmacokinetic and pharmacodynamic model.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 2000;68:568–577.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PO</Initials>
+                    <FamilyName>Gisleskog</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Use of prior information to stabilize a population data analysis</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>473</FirstPage>
+                  <LastPage>505</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12795242</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1022972420004</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gisleskog PO, Karlsson MO, Beal SL. Use of prior information to stabilize a population data analysis.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2002;29:473–505.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentré</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Aarons</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Optimal design of a population pharmacodynamic experiment for ivabradine</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>83</FirstPage>
+                  <LastPage>89</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11336357</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011035028755</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXjtFajt74%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Duffull SB, Mentré F, Aarons L. Optimal design of a population pharmacodynamic experiment for ivabradine.<Emphasis Type="Italic">Pharm Res</Emphasis>. 2001;18:83–89.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Retout</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Optimization of individual and population designs using S-PLUS</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>417</FirstPage>
+                  <LastPage>443</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15000423</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/B:JOPA.0000013000.59346.9a</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Retout S, Mentre F. Optimization of individual and population designs using S-PLUS.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2003;30:417–443.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CA</Initials>
+                    <FamilyName>Howie</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AW</Initials>
+                    <FamilyName>Kelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Whiting</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Experimental design and efficient parameter estimation in preclinical pharmacokinetic studies</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>729</FirstPage>
+                  <LastPage>737</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7479560</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1016267811074</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2MXlsFKlsL8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ette EI, Howie CA, Kelman AW, Whiting B. Experimental design and efficient parameter estimation in preclinical pharmacokinetic studies.<Emphasis Type="Italic">Pharm Res</Emphasis>. 1995;12:729–737.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>MM</Initials>
+                    <FamilyName>Hutmacher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KG</Initials>
+                    <FamilyName>Kowalski</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ChapterTitle Language="En">Evaluation of random sparse sampling designs for a population pharmacokinetic study: Assessment of power and bias using simulations</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>HC</Initials>
+                    <FamilyName>Kimko</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Simulation for Designing Clinical Trials. A Pharmacokinetic-Pharmacodynamic Modeling Perspective</BookTitle>
+                  <PublisherName>Marcel Dekker</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibChapter>
+                <BibUnstructured>Hutmacher MM, Kowalski KG. Evaluation of random sparse sampling designs for a population pharmacokinetic study: Assessment of power and bias using simulations. In: Kimko HC, Duffull SB, eds.<Emphasis Type="Italic">Simulation for Designing Clinical Trials. A Pharmacokinetic-Pharmacodynamic Modeling Perspective</Emphasis>. New York: Marcel Dekker; 2003.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Dantzig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DP</Initials>
+                    <FamilyName>Alwis</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Burgess</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Considerations in the design and development of transport inhibitors as adjuncts to drug therapy</ArticleTitle>
+                  <JournalTitle>Adv Drug Deliv Rev</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>133</FirstPage>
+                  <LastPage>150</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12535578</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0169-409X(02)00175-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXivVWnuw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dantzig A, de Alwis DP, Burgess M. Considerations in the design and development of transport inhibitors as adjuncts to drug therapy.<Emphasis Type="Italic">Adv Drug Deliv Rev</Emphasis>. 2003;55:133–150.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Giaccone</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SC</Initials>
+                    <FamilyName>Linn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Welink</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">A dose-finding and pharmacokinetic study of reversal of multidrug resistance with SDZ PSC 833 in combination with doxorubicin in patients with solid tumors</ArticleTitle>
+                  <JournalTitle>Clin Cancer Res</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>2005</FirstPage>
+                  <LastPage>2015</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9815591</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXns1OgsL0%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Giaccone G, Linn SC, Welink J, et al. A dose-finding and pharmacokinetic study of reversal of multidrug resistance with SDZ PSC 833 in combination with doxorubicin in patients with solid tumors.<Emphasis Type="Italic">Clin Cancer Res</Emphasis>. 1997;3:2005–2015.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Tellingen</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kemper</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Beijnen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">P-glycoprotein inhibition in tumors by PSC833: impact of dose adjustments on the efficacy of doxorubicin chemotherapy</ArticleTitle>
+                  <JournalTitle>AACR</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>950</FirstPage>
+                  <LastPage>950</LastPage>
+                </BibArticle>
+                <BibUnstructured>van Tellingen O, Kemper M, Beijnen JH. P-glycoprotein inhibition in tumors by PSC833: impact of dose adjustments on the efficacy of doxorubicin chemotherapy.<Emphasis Type="Italic">AACR</Emphasis>. 2001;42:950.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Callies</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DP</Initials>
+                    <FamilyName>Alwis</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Mehta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Burgess</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Aarons</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetic model for daunorubucuin and daunorubicinol coadministered with zosuquidar. 3HCL (LY335979)</ArticleTitle>
+                  <JournalTitle>Cancer Chemother Pharmacol</JournalTitle>
+                  <VolumeID>54</VolumeID>
+                  <FirstPage>39</FirstPage>
+                  <LastPage>48</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15045528</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00280-004-0775-4</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXksFSitb8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Callies S, de Alwis DP, Mehta A, Burgess M, Aarons L. Population pharmacokinetic model for daunorubucuin and daunorubicinol coadministered with zosuquidar. 3HCL (LY335979).<Emphasis Type="Italic">Cancer Chemother Pharmacol</Emphasis>. 2004;54:39–48.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Callies</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DP</Initials>
+                    <FamilyName>Alwis</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JG</Initials>
+                    <FamilyName>Wright</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Sandler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Burgess</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Aarons</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A population pharmacokinetic model for doxorubicin and doxorubicinol in the presence of a novel MDR modulator, zosuquidar trihydrochloride (LY335979)</ArticleTitle>
+                  <JournalTitle>Cancer Chemother Pharmacol</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <FirstPage>107</FirstPage>
+                  <LastPage>118</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12647011</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXit1Shurk%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Callies S, de Alwis DP, Wright JG, Sandler A, Burgess M, Aarons L. A population pharmacokinetic model for doxorubicin and doxorubicinol in the presence of a novel MDR modulator, zosuquidar trihydrochloride (LY335979).<Emphasis Type="Italic">Cancer Chemother Pharmacol</Emphasis>. 2003;51:107–118.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CC</Initials>
+                    <FamilyName>Peck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DB</Initials>
+                    <FamilyName>Rubin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Hypothesis: a single clinical trial plus causal evidence of effectiveness is sufficient for drug approval</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>73</VolumeID>
+                  <FirstPage>481</FirstPage>
+                  <LastPage>490</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12811358</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0009-9236(03)00018-3</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Peck CC, Rubin DB, Sheiner LB. Hypothesis: a single clinical trial plus causal evidence of effectiveness is sufficient for drug approval.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 2003;73:481–490.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NHG</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PE</Initials>
+                    <FamilyName>Coates</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Guentert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Riegelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">The effect of quinidine and its metabolites on the electrocardiogram and systolic time intervals: concentration-effect relationships</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>187</FirstPage>
+                  <LastPage>195</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7213522</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL3MXitVakt7o%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1111/j.1365-2125.1981.tb01123.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Holford NHG, Coates PE, Guentert TW, Riegelman S, Sheiner LB. The effect of quinidine and its metabolites on the electrocardiogram and systolic time intervals: concentration-effect relationships.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 1981;11:187–195.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Farbom</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Batchvarov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Hnatkova</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Camm</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Relation between QT and RR intervals is highly individual among healthy subjects: implications for heart rate correction of the QT interval</ArticleTitle>
+                  <JournalTitle>Heart</JournalTitle>
+                  <VolumeID>87</VolumeID>
+                  <FirstPage>220</FirstPage>
+                  <LastPage>228</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11847158</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/heart.87.3.220</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD387hsVGjuw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Malik M, Farbom P, Batchvarov V, Hnatkova K, Camm AJ. Relation between QT and RR intervals is highly individual among healthy subjects: implications for heart rate correction of the QT interval.<Emphasis Type="Italic">Heart</Emphasis>. 2002;87:220–228.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Yano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Evaluating pharmacokinetic/ pharmacodynamic models using the posterior predictive check</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>171</FirstPage>
+                  <LastPage>192</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11381569</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011555016423</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD38%2FhtV2htg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yano Y, Beal SL, Sheiner LB. Evaluating pharmacokinetic/ pharmacodynamic models using the posterior predictive check.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2001;28:171–192.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibUnstructured>U.S. Department of Health and Human Services, FDA. Guidance for Industry: Population Pharmacokinetics. Available at: http://www.fda/gov/cder/guidance/1852fnl.pdf. Accessed May 9, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibUnstructured>Venitz J. Using exposure-response relationships to define a therapeutic index. Clinical Pharmacology Subcommittee for Pharmaceutical Science, US Department of Health and Human Services, FDA. ACPS Clinical Pharmacology Subcommittee Meeting October 23, 2002. Rockville, MD, NTI-CPSC Presentation, October 23, 2002. Available at: www.fda.gov/ohrms/dockets/ac/02/slides/ 3898S1_06_Venitz.pdf. Accessed May 9, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibUnstructured>Stanski DR. Model-Based Drug Development: A Critical Path Opportunity. Available at: http://www.fda.gov/oc/initiatives/ criticalpath/stanski/stanski.html. Accessed May 9, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibUnstructured>U.S. Department of Health and Human Services, FDA. Challenge and opportunity on the critical path to new medical products. FDA, March 2004. Available at: http://www.fda.gov/oc/initiatives/ criticalpath/whitepaper.html. Accessed May 9, 2005.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

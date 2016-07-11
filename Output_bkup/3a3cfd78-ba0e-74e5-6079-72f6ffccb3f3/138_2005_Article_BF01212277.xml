@@ -1,0 +1,3320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+</PublisherInfo>
+<Journal>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>138</JournalID>
+<JournalPrintISSN>0932-8092</JournalPrintISSN>
+<JournalElectronicISSN>1432-1769</JournalElectronicISSN>
+<JournalTitle>Machine Vision and Applications</JournalTitle>
+<JournalSubTitle>An International Journal</JournalSubTitle>
+<JournalAbbreviatedTitle>Machine Vis. Apps.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing</JournalSubject>
+        <JournalSubject Type="Secondary">Communications Engineering, Networks</JournalSubject>
+      </JournalSubjectGroup>
+</JournalInfo>
+<Volume>
+<VolumeInfo VolumeType="Regular" TocLevels="0">
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<Issue IssueType="Regular">
+<IssueInfo TocLevels="0">
+<IssueIDStart>2</IssueIDStart>
+<IssueIDEnd>2</IssueIDEnd>
+<IssueArticleCount>6</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<DateString>1988</DateString>
+<Year>1988</Year>
+<Month>6</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<Article ID="Art5">
+<ArticleInfo Language="En" ArticleType="OriginalPaper" NumberingStyle="Unnumbered" TocLevels="0" ContainsESM="No">
+<ArticleID>BF01212277</ArticleID>
+<ArticleDOI>10.1007/BF01212277</ArticleDOI>
+<ArticleSequenceNumber>5</ArticleSequenceNumber>
+<ArticleTitle Language="En">Active, optical range imaging sensors</ArticleTitle>
+<ArticleFirstPage>127</ArticleFirstPage>
+<ArticleLastPage>152</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>2005</Year>
+<Month>2</Month>
+<Day>8</Day>
+</RegistrationDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+<ArticleContext>
+<JournalID>138</JournalID>
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<IssueIDStart>2</IssueIDStart>
+<IssueIDEnd>2</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<ArticleHeader>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Paul</GivenName>
+<GivenName>J.</GivenName>
+<FamilyName>Besl</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgDivision>Computer Science Department</OrgDivision>
+<OrgName>General Motors Research Laboratories</OrgName>
+<OrgAddress>
+<Postcode>48090-9055</Postcode>
+<City>Warren</City>
+<State>Michigan</State>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<Abstract ID="Abs1" Language="En">
+<Heading>Abstract</Heading>
+<Para>Active, optical range imaging sensors collect three-dimensional coordinate data from object surfaces and can be useful in a wide variety of automation applications, including shape acquisition, bin picking, assembly, inspection, gaging, robot navigation, medical diagnosis, and cartography. They are unique imaging devices in that the image data points explicitly represent scene surface geometry in a sampled form. At least six different optical principles have been used to actively obtain range images: (1) radar, (2) triangulation, (3) moire, (4) holographic interferometry, (5) focusing, and (6) diffraction. In this survey, the relative capabilities of different sensors and sensing methods are evaluated using a figure of merit based on range accuracy, depth of field, and image acquisition time.</Para>
+</Abstract>
+<KeywordGroup Language="En">
+<Heading>Key words</Heading>
+<Keyword>range image</Keyword>
+<Keyword>depth map</Keyword>
+<Keyword>optical measurement</Keyword>
+<Keyword>laser radar</Keyword>
+<Keyword>active triangulation</Keyword>
+</KeywordGroup>
+</ArticleHeader>
+<BodyRef FileRef="BodyRef/PDF/138_2005_Article_BF01212277.pdf" TargetType="PDF"/>
+<ArticleBackmatter>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<BibArticle>
+<BibAuthorName>
+<Initials>GJ</Initials>
+<FamilyName>Agin</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>PT</Initials>
+<FamilyName>Highnam</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">Movable light stripe sensor for obtaining 3D coordinate measurements</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on 3-D Machine Perception</JournalTitle>
+<VolumeID>360</VolumeID>
+<FirstPage>326</FirstPage>
+</BibArticle>
+<BibUnstructured>Agin GJ, Highnam, PT (1983) Movable light stripe sensor for obtaining 3D coordinate measurements. Proceedings SPIE Conference on 3-D Machine Perception (360):326</BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<BibUnstructured>Ahola R, Heikkinen T, Manninen M (1985) 3D image acquisition by scanning time of flight measurements. Proceedings International Conference on Advances in Image Processing and Pattern Recognition</BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<BibArticle>
+<BibAuthorName>
+<Initials>MD</Initials>
+<FamilyName>Altschuler</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>BR</Initials>
+<FamilyName>Altschuler</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Toboada</FamilyName>
+</BibAuthorName>
+<Year>1981</Year>
+<ArticleTitle Language="En">Laser electro-optic system for rapid 3D topographic mapping of surfaces</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>20</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>953</FirstPage>
+<LastPage>961</LastPage>
+</BibArticle>
+<BibUnstructured>Altschuler MD, Altschuler BR, Toboada J (1981) Laser electro-optic system for rapid 3D topographic mapping of surfaces. Optical Engineering 20(6):953–961</BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<BibArticle>
+<BibAuthorName>
+<Initials>K</Initials>
+<FamilyName>Andresen</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">The phase shift method applied to moire image processing</ArticleTitle>
+<JournalTitle>Optik</JournalTitle>
+<VolumeID>72</VolumeID>
+<FirstPage>115</FirstPage>
+<LastPage>119</LastPage>
+</BibArticle>
+<BibUnstructured>Andresen K (1986) The phase shift method applied to moire image processing. Optik 72:115–119</BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<BibBook>
+<InstitutionalAuthorName>ANSI</InstitutionalAuthorName>
+<Year>1986</Year>
+<BookTitle>American National Standard for the safe use of lasers. (ANSI Z136.1-1986)</BookTitle>
+<PublisherName>American National Standards Institute</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>ANSI 1986. American National Standard for the safe use of lasers. (ANSI Z136.1-1986) American National Standards Institute, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR6">
+<BibUnstructured>Asada M, Ichikawa H, Tsuji S (1986) Determining surface property by projecting a stripe pattern. Proceedings International Conference on Pattern Recognition IEEE-CS, IAPR: 1162–1164</BibUnstructured>
+</Citation>
+<Citation ID="CR7">
+<BibUnstructured>Banic J, Sizgoric S, O'Neill R (1987) Airborne scanning lidar bathymeter measures water depth. Laser Focus/ Electro-Optics: 48–52</BibUnstructured>
+</Citation>
+<Citation ID="CR8">
+<BibChapter>
+<BibAuthorName>
+<Initials>CM</Initials>
+<FamilyName>Bastuschek</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JT</Initials>
+<FamilyName>Schwartz</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ChapterTitle Language="En">Preliminary implementation of a ratio image depth sensor</ChapterTitle>
+<BookTitle>Robotics Research Report No. 28</BookTitle>
+<PublisherName>Courant Institute of Mathematical Sciences, New York University</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Bastuschek CM, Schwartz JT (1984) Preliminary implementation of a ratio image depth sensor. Robotics Research Report No. 28, Courant Institute of Mathematical Sciences, New York University, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR9">
+<BibArticle>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Beheim</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>K</Initials>
+<FamilyName>Fritsch</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Range finding using frequency-modulated laser diode</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>25</VolumeID>
+<IssueID>9</IssueID>
+<FirstPage>1439</FirstPage>
+<LastPage>1442</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/AO.25.001439</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Beheim G, Fritsch K (1986) Range finding using frequency-modulated laser diode. Applied Optics, 25(9):1439–1442</BibUnstructured>
+</Citation>
+<Citation ID="CR10">
+<BibChapter>
+<BibAuthorName>
+<Initials>PJ</Initials>
+<FamilyName>Besl</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ChapterTitle Language="En">Range imaging sensors</ChapterTitle>
+<BookTitle>Tech. Report GMR-6090</BookTitle>
+<PublisherName>Computer Science Dept., General Motors Research Labs</PublisherName>
+<PublisherLocation>Warren, MI</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Besl PJ (1987) Range imaging sensors. Tech. Report GMR-6090. Computer Science Dept., General Motors Research Labs, Warren, MI</BibUnstructured>
+</Citation>
+<Citation ID="CR11">
+<BibChapter>
+<BibAuthorName>
+<Initials>PJ</Initials>
+<FamilyName>Besl</FamilyName>
+</BibAuthorName>
+<Year>1988</Year>
+<ChapterTitle Language="En">Active optical range imaging sensors</ChapterTitle>
+<BibEditorName>
+<Initials>J.</Initials>
+<FamilyName>Sanz</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Advances in Machine Vision: Architectures and Applications</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Besl PJ (1988) Active optical range imaging sensors. In: Advances in Machine Vision: Architectures and Applications. J. Sanz (Ed.), Springer-Verlag, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR12">
+<BibArticle>
+<BibAuthorName>
+<Initials>PJ</Initials>
+<FamilyName>Besl</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RC</Initials>
+<FamilyName>Jain</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Three dimensional object recognition</ArticleTitle>
+<JournalTitle>ACM Computing Surveys</JournalTitle>
+<VolumeID>17</VolumeID>
+<IssueID>1</IssueID>
+<FirstPage>75</FirstPage>
+<LastPage>145</LastPage>
+</BibArticle>
+<BibUnstructured>Besl PJ, Jain RC (1985) Three dimensional object recognition. ACM Computing Surveys 17(1):75–145</BibUnstructured>
+</Citation>
+<Citation ID="CR13">
+<BibArticle>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Bickel</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Hausler</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Maul</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Optics in Modern Science and Technology</ArticleTitle>
+<JournalTitle>Conf. Dig.</JournalTitle>
+<VolumeID>ICO-13</VolumeID>
+<FirstPage>534</FirstPage>
+</BibArticle>
+<BibUnstructured>Bickel G, Hausler G, Maul M (1984) Optics in Modern Science and Technology, Conf. Dig. ICO-13:534</BibUnstructured>
+</Citation>
+<Citation ID="CR14">
+<BibArticle>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Bickel</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Hausler</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Maul</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Triangulation with expanded range of depth</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>975</FirstPage>
+<LastPage>979</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973610</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Bickel G, Hausler G, Maul M (1985) Triangulation with expanded range of depth. Optical Engineering 24(6):975–979</BibUnstructured>
+</Citation>
+<Citation ID="CR15">
+<BibArticle>
+<BibAuthorName>
+<Initials>N</Initials>
+<FamilyName>Binger</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>SJ</Initials>
+<FamilyName>Harris</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">Applications of laser radar technology</ArticleTitle>
+<JournalTitle>Sensors</JournalTitle>
+<VolumeID>4</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>42</FirstPage>
+<LastPage>44</LastPage>
+</BibArticle>
+<BibUnstructured>Binger N, Harris SJ (1987) Applications of laser radar technology. Sensors 4(4):42–44</BibUnstructured>
+</Citation>
+<Citation ID="CR16">
+<BibArticle>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Binnig</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Rohrer</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">The scanning tunneling microscope</ArticleTitle>
+<JournalTitle>Scientific American</JournalTitle>
+<VolumeID>253</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>50</FirstPage>
+<LastPage>69</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1038/scientificamerican0885-50</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Binnig G, Rohrer H (1985) The scanning tunneling microscope. Scientific American 253, 2 (Aug), 50–69</BibUnstructured>
+</Citation>
+<Citation ID="CR17">
+<BibArticle>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Blais</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Rioux</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Biris: a simple 3D sensor. Proceedings SPIE Conference on Optics</ArticleTitle>
+<JournalTitle>Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>235</FirstPage>
+<LastPage>242</LastPage>
+</BibArticle>
+<BibUnstructured>Blais F, Rioux M (1986) Biris: a simple 3D sensor. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision, 728:235–242</BibUnstructured>
+</Citation>
+<Citation ID="CR18">
+<BibArticle>
+<BibAuthorName>
+<Initials>AJ</Initials>
+<FamilyName>Boehnlein</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>KG</Initials>
+<FamilyName>Harding</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Adaptation of a parallel architecture computer to phase-shifted moire interferometry</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>132</FirstPage>
+<LastPage>146</LastPage>
+</BibArticle>
+<BibUnstructured>Boehnlein AJ, Harding KG (1986) Adaptation of a parallel architecture computer to phase-shifted moire interferometry. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision, 728:132–146</BibUnstructured>
+</Citation>
+<Citation ID="CR19">
+<BibUnstructured>Boulder Electro-Optics (1986) Product information, Boulder, Colorado, (now Boulder Melles Griot)</BibUnstructured>
+</Citation>
+<Citation ID="CR20">
+<BibArticle>
+<BibAuthorName>
+<Initials>KL</Initials>
+<FamilyName>Boyer</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AC</Initials>
+<FamilyName>Kak</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">Color encoded structured light for rapid active ranging</ArticleTitle>
+<JournalTitle>IEEE Transactions Pattern Analysis Machine Intelligence PAMI-9</JournalTitle>
+<VolumeID>1</VolumeID>
+<FirstPage>14</FirstPage>
+<LastPage>28</LastPage>
+</BibArticle>
+<BibUnstructured>Boyer KL, Kak AC (1987) Color encoded structured light for rapid active ranging. IEEE Transactions Pattern Analysis Machine Intelligence PAMI-9, 1:14–28</BibUnstructured>
+</Citation>
+<Citation ID="CR21">
+<BibArticle>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Brou</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Finding the orientation of objects in vector maps</ArticleTitle>
+<JournalTitle>International Journal of Robot Research</JournalTitle>
+<VolumeID>3</VolumeID>
+<FirstPage>4</FirstPage>
+</BibArticle>
+<BibUnstructured>Brou P (1984) Finding the orientation of objects in vector maps. International Journal of Robot Research 3:4</BibUnstructured>
+</Citation>
+<Citation ID="CR22">
+<BibArticle>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Bumbaca</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Blais</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Rioux</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Real-time correction of 3D nonlinearities for a laser rangefinder</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>25</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>561</FirstPage>
+<LastPage>565</LastPage>
+</BibArticle>
+<BibUnstructured>Bumbaca F, Blais F, Rioux M (1986) Real-time correction of 3D nonlinearities for a laser rangefinder. Optical Engineering 25(4):561–565</BibUnstructured>
+</Citation>
+<Citation ID="CR23">
+<BibChapter>
+<BibAuthorName>
+<Initials>B</Initials>
+<FamilyName>Carrihill</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ChapterTitle Language="En">The intensity ratio depth sensor</ChapterTitle>
+<BookTitle>Ph.D. dissertation</BookTitle>
+<PublisherName>Courant Institute of Mathematical Sciences, New York University</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Carrihill B (1986) The intensity ratio depth sensor. Ph.D. dissertation, Courant Institute of Mathematical Sciences, New York University, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR24">
+<BibArticle>
+<BibAuthorName>
+<Initials>B</Initials>
+<FamilyName>Carrihill</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Hummel</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Experiments with the intensity ratio depth sensor</ArticleTitle>
+<JournalTitle>Computer Vision, Graphics, Image Processing</JournalTitle>
+<VolumeID>32</VolumeID>
+<FirstPage>337</FirstPage>
+<LastPage>358</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1016/0734-189X(85)90056-8</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Carrihill B, Hummel R (1985) Experiments with the intensity ratio depth sensor. Computer Vision, Graphics, Image Processing 32:337–358</BibUnstructured>
+</Citation>
+<Citation ID="CR25">
+<BibChapter>
+<BibAuthorName>
+<Initials>SK</Initials>
+<FamilyName>Case</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JA</Initials>
+<FamilyName>Jalkio</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RC</Initials>
+<FamilyName>Kim</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ChapterTitle Language="En">3D vision system analysis and design</ChapterTitle>
+<BibEditorName>
+<Initials>T.</Initials>
+<FamilyName>Kanade</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Three-Dimensional Machine Vision</BookTitle>
+<PublisherName>Kluwer Academic</PublisherName>
+<PublisherLocation>Boston</PublisherLocation>
+<FirstPage>63</FirstPage>
+<LastPage>96</LastPage>
+</BibChapter>
+<BibUnstructured>Case SK, Jalkio JA, Kim RC (1987) 3D vision system analysis and design. In: Three-Dimensional Machine Vision, T. Kanade (Ed.), Kluwer Academic, Boston, pp. 63–96</BibUnstructured>
+</Citation>
+<Citation ID="CR26">
+<BibArticle>
+<BibAuthorName>
+<Initials>WT</Initials>
+<FamilyName>Cathey</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>WC</Initials>
+<FamilyName>Davis</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Vision system with ranging for maneuvering in space</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>7</IssueID>
+<FirstPage>821</FirstPage>
+<LastPage>824.</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973913</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Cathey WT, Davis WC (1986) Vision system with ranging for maneuvering in space. Optical Engineering 24(7):821–824. See also Imaging system with range to each pixel. Journal of the Optical Society of America A 3(9):1537–1542</BibUnstructured>
+</Citation>
+<Citation ID="CR27">
+<BibUnstructured>CDRH 1985. Federal Register, Part III, Dept. of Health and Human Services, 21 CFR Parts 1000 and 1040 [Docket No. 80N-0364], Laser Products; Amendments to Performance Standard; Final Rule. For further info, Contact Glenn Conklin, Center for Devices and Radiological Health (HFZ-84), U.S. Food and Drug Administration, 5600 Fishers Lane, Rockville, MD 20857</BibUnstructured>
+</Citation>
+<Citation ID="CR28">
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Chang</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CP</Initials>
+<FamilyName>Hu</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Lam</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JC</Initials>
+<FamilyName>Wyant</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">High precision deformation measurement by digital phase shifting holographic interferometry</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>22</IssueID>
+<FirstPage>3780</FirstPage>
+<LastPage>3783</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/AO.24.003780</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Chang M, Hu CP, Lam P, Wyant JC (1985) High precision deformation measurement by digital phase shifting holographic interferometry. Applied Optics 24(22):3780–3783</BibUnstructured>
+</Citation>
+<Citation ID="CR29">
+<BibArticle>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Chavel</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>TC</Initials>
+<FamilyName>Strand</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Range measurement using Talbot diffraction imaging of gratings</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>23</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>862</FirstPage>
+<LastPage>871</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/AO.23.000862</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Chavel P, Strand TC (1984) Range measurement using Talbot diffraction imaging of gratings. Applied Optics 23(6):862–871</BibUnstructured>
+</Citation>
+<Citation ID="CR30">
+<BibArticle>
+<BibAuthorName>
+<Initials>EL</Initials>
+<FamilyName>Church</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>TV</Initials>
+<FamilyName>Vorburger</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JC</Initials>
+<FamilyName>Wyant</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Direct comparison of mechanical and optical measurements of the finish of precision machined optical surfaces</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>3</IssueID>
+<FirstPage>388</FirstPage>
+<LastPage>395</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973494</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Church EL, Vorburger TV, Wyant JC (1985) Direct comparison of mechanical and optical measurements of the finish of precision machined optical surfaces. Optical Engineering 24(3):388–395</BibUnstructured>
+</Citation>
+<Citation ID="CR31">
+<BibArticle>
+<BibAuthorName>
+<Initials>HE</Initials>
+<FamilyName>Cline</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AS</Initials>
+<FamilyName>Holik</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>WE</Initials>
+<FamilyName>Lorenson</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Computeraided surface reconstruction of interference contours</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>21</VolumeID>
+<IssueID>24</IssueID>
+<FirstPage>4481</FirstPage>
+<LastPage>4489</LastPage>
+</BibArticle>
+<BibUnstructured>Cline HE, Holik AS, Lorenson WE (1982) Computeraided surface reconstruction of interference contours. Applied Optics 21(24):4481–4489</BibUnstructured>
+</Citation>
+<Citation ID="CR32">
+<BibArticle>
+<BibAuthorName>
+<Initials>HE</Initials>
+<FamilyName>Cline</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>WE</Initials>
+<FamilyName>Lorenson</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AS</Initials>
+<FamilyName>Holik</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Automated moire contouring</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>23</VolumeID>
+<IssueID>10</IssueID>
+<FirstPage>1454</FirstPage>
+<LastPage>1459</LastPage>
+</BibArticle>
+<BibUnstructured>Cline HE, Lorenson WE, Holik AS (1984) Automated moire contouring. Applied Optics 23(10):1454–1459</BibUnstructured>
+</Citation>
+<Citation ID="CR33">
+<BibArticle>
+<BibAuthorName>
+<Initials>TR</Initials>
+<FamilyName>Corle</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JT</Initials>
+<FamilyName>Fanton</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>GS</Initials>
+<FamilyName>Kino</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">Distance measurements by differential confocal optical ranging</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>26</VolumeID>
+<IssueID>12</IssueID>
+<FirstPage>2416</FirstPage>
+<LastPage>2420</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/AO.26.002416</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Corle TR, Fanton JT, Kino GS (1987) Distance measurements by differential confocal optical ranging. Applied Optics 26(12):2416–2420</BibUnstructured>
+</Citation>
+<Citation ID="CR34">
+<BibArticle>
+<BibAuthorName>
+<Initials>SM</Initials>
+<FamilyName>Cotter</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>BG</Initials>
+<FamilyName>Batchelor</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Deriving range maps at real-time video rates</ArticleTitle>
+<JournalTitle>Sensor Review</JournalTitle>
+<VolumeID>6</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>185</FirstPage>
+<LastPage>192</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1108/eb007703</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Cotter SM, Batchelor BG (1986) Deriving range maps at real-time video rates. Sensor Review 6(4):185–192</BibUnstructured>
+</Citation>
+<Citation ID="CR35">
+<BibArticle>
+<BibAuthorName>
+<Initials>JM</Initials>
+<FamilyName>Cowley</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AF</Initials>
+<FamilyName>Moodie</FamilyName>
+</BibAuthorName>
+<Year>1957</Year>
+<ArticleTitle Language="En">Fourier images: I—the point source</ArticleTitle>
+<JournalTitle>Proceedings Physical Society</JournalTitle>
+<VolumeID>70</VolumeID>
+<FirstPage>486</FirstPage>
+<LastPage>496</LastPage>
+</BibArticle>
+<BibUnstructured>Cowley JM, Moodie AF (1957) Fourier images: I—the point source. Proceedings Physical Society 70:486–496</BibUnstructured>
+</Citation>
+<Citation ID="CR36">
+<BibUnstructured>Cunningham R (1986) Laser radar for the space conscious. Lasers and Applications July: 18–20</BibUnstructured>
+</Citation>
+<Citation ID="CR37">
+<BibUnstructured>Cyberoptics (1987) Product information. Minneapolis, MN</BibUnstructured>
+</Citation>
+<Citation ID="CR38">
+<BibUnstructured>Damm L (1987) A minimum-size all purpose fiber optical proximity sensor. Proceedings Vision'87 Conference: 6-71-6-91</BibUnstructured>
+</Citation>
+<Citation ID="CR39">
+<BibArticle>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Dandliker</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>B</Initials>
+<FamilyName>Ineichen</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Mottier</FamilyName>
+</BibAuthorName>
+<Year>1973</Year>
+<NoArticleTitle/>
+<JournalTitle>Optics Communications</JournalTitle>
+<VolumeID>9</VolumeID>
+<FirstPage>412</FirstPage>
+</BibArticle>
+<BibUnstructured>Dandliker R, Ineichen B, Mottier F (1973) Optics Communications 9:412</BibUnstructured>
+</Citation>
+<Citation ID="CR40">
+<BibArticle>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Dandliker</FamilyName>
+</BibAuthorName>
+<Year>1980</Year>
+<ArticleTitle Language="En">Heterodyne holography review</ArticleTitle>
+<JournalTitle>Progress in Optics</JournalTitle>
+<VolumeID>17</VolumeID>
+<FirstPage>1</FirstPage>
+</BibArticle>
+<BibUnstructured>Dandliker R (1980) Heterodyne holography review. Progress in Optics 17:1</BibUnstructured>
+</Citation>
+<Citation ID="CR41">
+<BibArticle>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Dandliker</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Thalmann</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Heterodyne and quasiheterodyne holographic interferometry</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>824</FirstPage>
+<LastPage>831</LastPage>
+</BibArticle>
+<BibUnstructured>Dandliker R, Thalmann R (1985) Heterodyne and quasiheterodyne holographic interferometry. Optical Engineering 24(5):824–831</BibUnstructured>
+</Citation>
+<Citation ID="CR42">
+<BibArticle>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Dandridge</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Current induced frequency modulation in diode lasers</ArticleTitle>
+<JournalTitle>Electron. Letters</JournalTitle>
+<VolumeID>18</VolumeID>
+<FirstPage>302</FirstPage>
+</BibArticle>
+<BibUnstructured>Dandridge A (1982) Current induced frequency modulation in diode lasers. Electron. Letters 18:302</BibUnstructured>
+</Citation>
+<Citation ID="CR43">
+<BibArticle>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Denstman</FamilyName>
+</BibAuthorName>
+<Year>1980</Year>
+<ArticleTitle Language="En">State-of-the-art optics: Automated image focusing</ArticleTitle>
+<JournalTitle>Industrial Photography</JournalTitle>
+<VolumeID>July</VolumeID>
+<FirstPage>33</FirstPage>
+<LastPage>37</LastPage>
+</BibArticle>
+<BibUnstructured>Denstman H (1980) State-of-the-art optics: Automated image focusing. Industrial Photography, July:33–37</BibUnstructured>
+</Citation>
+<Citation ID="CR44">
+<BibBook>
+<BibAuthorName>
+<Initials>EL</Initials>
+<FamilyName>Dereniak</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>DG</Initials>
+<FamilyName>Crowe</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<BookTitle>Optical Radiation Detectors</BookTitle>
+<PublisherName>Wiley</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Dereniak EL, Crowe DG (1984) Optical Radiation Detectors. Wiley, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR45">
+<BibChapter>
+<BibAuthorName>
+<NoInitials/>
+<FamilyName>Diffracto</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ChapterTitle Language="En">Product Literature</ChapterTitle>
+<BookTitle>Laser probe digital ranging sensor</BookTitle>
+<PublisherName>Diffracto, Ltd.</PublisherName>
+<PublisherLocation>Windsor, Canada</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Diffracto (1987) Product Literature. Laser probe digital ranging sensor. Diffracto, Ltd., Windsor, Canada</BibUnstructured>
+</Citation>
+<Citation ID="CR46">
+<BibUnstructured>Digital Optronics (1986) Product literature. Springfield, VA</BibUnstructured>
+</Citation>
+<Citation ID="CR47">
+<BibUnstructured>Dimatteo PL, Ross JA, Stern HK (1979) Arrangement for sensing the geometric characteristics of an object. (RVSI) U.S. Patent 4175862</BibUnstructured>
+</Citation>
+<Citation ID="CR48">
+<BibBook>
+<InstitutionalAuthorName>Electro-Optical Information Systems</InstitutionalAuthorName>
+<Year>1987</Year>
+<BookTitle>Product Information</BookTitle>
+<PublisherName>EOIS</PublisherName>
+<PublisherLocation>Santa Monica, CA</PublisherLocation>
+</BibBook>
+<BibUnstructured>Electro-Optical Information Systems (1987) Product Information. EOIS, Santa Monica, CA</BibUnstructured>
+</Citation>
+<Citation ID="CR49">
+<BibArticle>
+<BibAuthorName>
+<Initials>OD</Initials>
+<FamilyName>Faugeras</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Hebert</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">The representation, recognition, and locating of 3-D objects</ArticleTitle>
+<JournalTitle>International Journal of Robotic Research</JournalTitle>
+<VolumeID>5</VolumeID>
+<IssueID>3</IssueID>
+<FirstPage>27</FirstPage>
+<LastPage>52</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1177/027836498600500302</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Faugeras OD, Hebert M (1986) The representation, recognition, and locating of 3-D objects. International Journal of Robotic Research 5(3):27–52</BibUnstructured>
+</Citation>
+<Citation ID="CR50">
+<BibArticle>
+<BibAuthorName>
+<Initials>KD</Initials>
+<FamilyName>Froome</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RH</Initials>
+<FamilyName>Bradsell</FamilyName>
+</BibAuthorName>
+<Year>1961</Year>
+<ArticleTitle Language="En">Distance measurement by means of a light ray modulated at a microwave frequency</ArticleTitle>
+<JournalTitle>Journal of Scientific Instrumentation</JournalTitle>
+<VolumeID>38</VolumeID>
+<FirstPage>458</FirstPage>
+<LastPage>462</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1088/0950-7671/38/12/302</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Froome KD, Bradsell RH (1961) Distance measurement by means of a light ray modulated at a microwave frequency. Journal of Scientific Instrumentation 38:458–462</BibUnstructured>
+</Citation>
+<Citation ID="CR51">
+<BibArticle>
+<BibAuthorName>
+<Initials>KJ</Initials>
+<FamilyName>Gasvik</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">Moire technique by means of digital image processing</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>22</VolumeID>
+<IssueID>23</IssueID>
+<FirstPage>3543</FirstPage>
+<LastPage>3548</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/AO.22.003543</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Gasvik KJ (1983) Moire technique by means of digital image processing. Applied Optics 22(23):3543–3548</BibUnstructured>
+</Citation>
+<Citation ID="CR52">
+<BibArticle>
+<BibAuthorName>
+<Initials>N</Initials>
+<FamilyName>Goldberg</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Inside autofocus: How the magic works</ArticleTitle>
+<JournalTitle>Popular Photography</JournalTitle>
+<VolumeID>Feb</VolumeID>
+<FirstPage>77</FirstPage>
+<LastPage>83</LastPage>
+</BibArticle>
+<BibUnstructured>Goldberg N (1982) Inside autofocus: How the magic works. Popular Photography, Feb:77–83</BibUnstructured>
+</Citation>
+<Citation ID="CR53">
+<BibArticle>
+<BibAuthorName>
+<Initials>JW</Initials>
+<FamilyName>Goodman</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">A random walk through the field of speckle</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>25</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>610</FirstPage>
+<LastPage>612</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973872</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Goodman JW (1986) A random walk through the field of speckle. Optical Engineering 25(5):610–612</BibUnstructured>
+</Citation>
+<Citation ID="CR54">
+<BibBook>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Gottlieb</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<BookTitle>Electro-Optic and Acousto-Optic Scanning and Deflection</BookTitle>
+<PublisherName>Marcel-Dekker</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Gottlieb M (1983) Electro-Optic and Acousto-Optic Scanning and Deflection. Marcel-Dekker, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR55">
+<BibBook>
+<BibAuthorName>
+<Initials>DR</Initials>
+<FamilyName>Griffin</FamilyName>
+</BibAuthorName>
+<Year>1958</Year>
+<BookTitle>Listening in the dark: The acoustic orientation of bats and men</BookTitle>
+<PublisherName>Yale University Press</PublisherName>
+<PublisherLocation>New Haven, CT</PublisherLocation>
+</BibBook>
+<BibUnstructured>Griffin DR (1958) Listening in the dark: The acoustic orientation of bats and men. Yale University Press, New Haven, CT</BibUnstructured>
+</Citation>
+<Citation ID="CR56">
+<BibArticle>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Grossman</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">Depth from Focus</ArticleTitle>
+<JournalTitle>Pattern Recognition Letters</JournalTitle>
+<VolumeID>5</VolumeID>
+<IssueID>1</IssueID>
+<FirstPage>63</FirstPage>
+<LastPage>69</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1016/0167-8655(87)90026-2</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Grossman P (1987) Depth from Focus. Pattern Recognition Letters 5(1):63–69</BibUnstructured>
+</Citation>
+<Citation ID="CR57">
+<BibUnstructured>Haggren H, Leikas E (1987) Mapvision—The photogrammetric machine vision system. Proceedings Vision'87 Conference: 10-37–10-50</BibUnstructured>
+</Citation>
+<Citation ID="CR58">
+<BibBook>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Halioua</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>V</Initials>
+<FamilyName>Srinivasan</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<BookTitle>Method and apparatus for surface profilometry</BookTitle>
+<PublisherName>New York Institute of Technology</PublisherName>
+<PublisherLocation>Old Westury, NY.</PublisherLocation>
+</BibBook>
+<BibUnstructured>Halioua M, Srinivasan V (1987) Method and apparatus for surface profilometry. New York Institute of Technology, Old Westury, NY. U.S. Patent 4,641,972</BibUnstructured>
+</Citation>
+<Citation ID="CR59">
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Halioua</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RS</Initials>
+<FamilyName>Krishnamurthy</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Liu</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>FP</Initials>
+<FamilyName>Chiang</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">Projection moire with moving gratings for automated 3D topography</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>22</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>850</FirstPage>
+<LastPage>855</LastPage>
+</BibArticle>
+<BibUnstructured>Halioua M, Krishnamurthy RS, Liu H, Chiang FP (1983) Projection moire with moving gratings for automated 3D topography. Applied Optics 22(6):850–855</BibUnstructured>
+</Citation>
+<Citation ID="CR60">
+<BibArticle>
+<BibAuthorName>
+<Initials>EL</Initials>
+<FamilyName>Hall</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JBK</Initials>
+<FamilyName>Tio</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CA</Initials>
+<FamilyName>McPherson</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>FA</Initials>
+<FamilyName>Sadjadi</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Measuring curved surfaces for robot vision</ArticleTitle>
+<JournalTitle>Computer</JournalTitle>
+<VolumeID>15</VolumeID>
+<IssueID>12</IssueID>
+<FirstPage>42</FirstPage>
+<LastPage>54</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/MC.1982.1653915</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Hall EL, Tio JBK, McPherson CA, Sadjadi FA (1982) Measuring curved surfaces for robot vision. Computer 15(12):42–54</BibUnstructured>
+</Citation>
+<Citation ID="CR61">
+<BibArticle>
+<BibAuthorName>
+<Initials>K</Initials>
+<FamilyName>Hane</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CP</Initials>
+<FamilyName>Grover</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Grating imaging and its application to displacement sensing</ArticleTitle>
+<JournalTitle>Journal of Optical Society of America A</JournalTitle>
+<VolumeID>2</VolumeID>
+<IssueID>13</IssueID>
+<FirstPage>9</FirstPage>
+</BibArticle>
+<BibUnstructured>Hane K, Grover CP (1985) Grating imaging and its application to displacement sensing. Journal of Optical Society of America A 2(13):9</BibUnstructured>
+</Citation>
+<Citation ID="CR62">
+<BibArticle>
+<BibAuthorName>
+<Initials>KG</Initials>
+<FamilyName>Harding</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">Moire interferometry for industrial inspection</ArticleTitle>
+<JournalTitle>Lasers and Applications</JournalTitle>
+<VolumeID>Nov.</VolumeID>
+<FirstPage>73</FirstPage>
+</BibArticle>
+<BibUnstructured>Harding KG (1983) Moire interferometry for industrial inspection. Lasers and Applications Nov.: 73</BibUnstructured>
+</Citation>
+<Citation ID="CR63">
+<BibArticle>
+<BibAuthorName>
+<Initials>KG</Initials>
+<FamilyName>Harding</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>K</Initials>
+<FamilyName>Goodson</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Hybrid high accuracy structured light profiler</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>132</FirstPage>
+<LastPage>145</LastPage>
+</BibArticle>
+<BibUnstructured>Harding KG, Goodson K (1986) Hybrid high accuracy structured light profiler. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision 728:132–145</BibUnstructured>
+</Citation>
+<Citation ID="CR64">
+<BibChapter>
+<BibAuthorName>
+<Initials>KG</Initials>
+<FamilyName>Harding</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Tait</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ChapterTitle Language="En">Moire techniques applied to automated inspection of machined parts</ChapterTitle>
+<BookTitle>Proceedings Vision'86 Conference</BookTitle>
+<PublisherName>SME</PublisherName>
+<PublisherLocation>Dearborn, MI</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Harding KG, Tait R (1986) Moire techniques applied to automated inspection of machined parts. Proceedings Vision'86 Conference, SME, Dearborn, MI</BibUnstructured>
+</Citation>
+<Citation ID="CR65">
+<BibArticle>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Hariharan</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Quasi-heterodyne hologram interferometry</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>632</FirstPage>
+<LastPage>638</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973542</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Hariharan P (1985) Quasi-heterodyne hologram interferometry. Optical Engineering 24(4):632–638</BibUnstructured>
+</Citation>
+<Citation ID="CR66">
+<BibArticle>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Hariharan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>BF</Initials>
+<FamilyName>Oreb</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>N</Initials>
+<FamilyName>Brown</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<NoArticleTitle/>
+<JournalTitle>tApplied Optics</JournalTitle>
+<VolumeID>22</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>876</FirstPage>
+</BibArticle>
+<BibUnstructured>Hariharan P, Oreb BF, Brown N (1983) tApplied Optics 22(6):876</BibUnstructured>
+</Citation>
+<Citation ID="CR67">
+<BibArticle>
+<BibAuthorName>
+<Initials>JE</Initials>
+<FamilyName>Harvey</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>MJ</Initials>
+<FamilyName>MacFarlane</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JL</Initials>
+<FamilyName>Forgham</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Design and performance of ranging telescopes: Monolithic vs. synthetic aperture</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>1</IssueID>
+<FirstPage>183</FirstPage>
+<LastPage>188</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973447</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Harvey JE, MacFarlane MJ, Forgham JL (1985) Design and performance of ranging telescopes: Monolithic vs. synthetic aperture. Optical Engineering 24(1):183–188</BibUnstructured>
+</Citation>
+<Citation ID="CR68">
+<BibArticle>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Hausler</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Maul</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Telecentric scanner for 3D sensing</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>978</FirstPage>
+<LastPage>980</LastPage>
+</BibArticle>
+<BibUnstructured>Hausler G, Maul M (1985) Telecentric scanner for 3D sensing. Optical Engineering 24(6):978–980</BibUnstructured>
+</Citation>
+<Citation ID="CR69">
+<BibUnstructured>Heikkinen T, Ahola R, Manninen M, Myllyla R (1986) Recent results of the performance analysis of a 3D sensor based on time of flight. Proceedings SPIE Quebec International Symposium on Optical and Optoelectronic Applied Sciences and Engineering.</BibUnstructured>
+</Citation>
+<Citation ID="CR70">
+<BibUnstructured>Hersman M, Goodwin F, Kenyon S, Slotwinski A (1987) Coherent laser radar application to 3D vision and metrology. Proceedings Vision'87 Conference 3-1-3-12</BibUnstructured>
+</Citation>
+<Citation ID="CR71">
+<BibChapter>
+<BibAuthorName>
+<Initials>SW</Initials>
+<FamilyName>Holland</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>L</Initials>
+<FamilyName>Rossol</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>MR</Initials>
+<FamilyName>Ward</FamilyName>
+</BibAuthorName>
+<Year>1979</Year>
+<ChapterTitle Language="En">Consight-1: A vision controlled robot system for transferring parts from belt conveyors</ChapterTitle>
+<BibEditorName>
+<Initials>G.G.</Initials>
+<FamilyName>Dodd</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>L.</Initials>
+<FamilyName>Rossol</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Computer Vision and SensorBased Robots</BookTitle>
+<PublisherName>Plenum Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+<FirstPage>81</FirstPage>
+<LastPage>97</LastPage>
+</BibChapter>
+<BibUnstructured>Holland SW, Rossol L, Ward MR (1979) Consight-1: A vision controlled robot system for transferring parts from belt conveyors. In: Computer Vision and SensorBased Robots G.G. Dodd and L. Rossol (Eds.), Plenum Press, New York, pp. 81–97</BibUnstructured>
+</Citation>
+<Citation ID="CR72">
+<BibUnstructured>Horn BKP (1968) Focusing. MIT, Project MAC, AI Memo 160</BibUnstructured>
+</Citation>
+<Citation ID="CR73">
+<BibUnstructured>Hulsmeyer C (1904) Hertzian wave projecting and receiving apparatus adapted to indicate or give warning of the presence of a metallic body, such as a ship or a train, in the line of projection of such waves. U.K. Patent 13,170</BibUnstructured>
+</Citation>
+<Citation ID="CR74">
+<BibUnstructured>HYMARC (1987) Product information. Ottawa, Ontario Canada</BibUnstructured>
+</Citation>
+<Citation ID="CR75">
+<BibUnstructured>Idesawa M, Yatagai Y, Soma T (1976) A method for the automatic measurement of 3D shapes by new type of moire topography. Proceedings 3rd International Conference Pattern Recognition: 708</BibUnstructured>
+</Citation>
+<Citation ID="CR76">
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Idesawa</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Yatagai</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Soma</FamilyName>
+</BibAuthorName>
+<Year>1977</Year>
+<ArticleTitle Language="En">Scanning moire method and automatic measurement of 3D shapes</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>16</VolumeID>
+<IssueID>8</IssueID>
+<FirstPage>2152</FirstPage>
+<LastPage>2162</LastPage>
+</BibArticle>
+<BibUnstructured>Idesawa M, Yatagai Y, Soma T (1977) Scanning moire method and automatic measurement of 3D shapes. Applied Optics 16(8):2152–2162</BibUnstructured>
+</Citation>
+<Citation ID="CR77">
+<BibUnstructured>Idesawa M, Yatagai Y (1980) 3D shape input and processing by moire technique. Proceedings 5th International Conference Pattern Recognition, IEEE-CS: 1085–1090</BibUnstructured>
+</Citation>
+<Citation ID="CR78">
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Idesawa</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Kinoshita</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">New type of miniaturized optical range sensing methods RORS and RORST</ArticleTitle>
+<JournalTitle>Journal of Robotic Systems</JournalTitle>
+<VolumeID>3</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>165</FirstPage>
+<LastPage>181</LastPage>
+</BibArticle>
+<BibUnstructured>Idesawa M, Kinoshita G (1986) New type of miniaturized optical range sensing methods RORS and RORST. Journal of Robotic Systems 3(2):165–181</BibUnstructured>
+</Citation>
+<Citation ID="CR79">
+<BibUnstructured>Inokuchi S, Sato K, Matsuda F (1984) Range imaging system for 3-D object recognition. Proceedings 7th International Conference Pattern Recognition: 806–808</BibUnstructured>
+</Citation>
+<Citation ID="CR80">
+<BibArticle>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Jalkio</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Kim</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Case</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">3D inspection using multistripe structured light</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>966</FirstPage>
+<LastPage>974</LastPage>
+</BibArticle>
+<BibUnstructured>Jalkio J, Kim R, Case S (1985) 3D inspection using multistripe structured light. Optical Engineering 24(6):966–974</BibUnstructured>
+</Citation>
+<Citation ID="CR81">
+<BibArticle>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Jalkio</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Kim</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Case</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Triangulation based range sensor design</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>132</FirstPage>
+<LastPage>146</LastPage>
+</BibArticle>
+<BibUnstructured>Jalkio J, Kim R, Case S (1986) Triangulation based range sensor design. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision, 728:132–146</BibUnstructured>
+</Citation>
+<Citation ID="CR82">
+<BibArticle>
+<BibAuthorName>
+<Initials>RA</Initials>
+<FamilyName>Jarvis</FamilyName>
+</BibAuthorName>
+<Year>1976</Year>
+<ArticleTitle Language="En">Focus optimization criteria for computer image processing</ArticleTitle>
+<JournalTitle>Microscope</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>163</FirstPage>
+<LastPage>180</LastPage>
+</BibArticle>
+<BibUnstructured>Jarvis RA (1976) Focus optimization criteria for computer image processing. Microscope 24(2):163–180</BibUnstructured>
+</Citation>
+<Citation ID="CR83">
+<BibArticle>
+<BibAuthorName>
+<Initials>RA</Initials>
+<FamilyName>Jarvis</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Computer vision and robotics laboratory</ArticleTitle>
+<JournalTitle>IEEE Computer</JournalTitle>
+<VolumeID>15</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>9</FirstPage>
+<LastPage>23</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/MC.1982.1654046</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Jarvis RA (1982) Computer vision and robotics laboratory. IEEE Computer 15(6):9–23</BibUnstructured>
+</Citation>
+<Citation ID="CR84">
+<BibArticle>
+<BibAuthorName>
+<Initials>RA</Initials>
+<FamilyName>Jarvis</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">A laser time-of-flight range scanner for robotic vision</ArticleTitle>
+<JournalTitle>IEEE Transactions Pattern Analysis Machine Intelligence PAMI-5</JournalTitle>
+<VolumeID>5</VolumeID>
+<FirstPage>505</FirstPage>
+<LastPage>512</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/TPAMI.1983.4767429</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Jarvis RA (1983a) A laser time-of-flight range scanner for robotic vision. IEEE Transactions Pattern Analysis Machine Intelligence PAMI-5 5:505–512</BibUnstructured>
+</Citation>
+<Citation ID="CR85">
+<BibArticle>
+<BibAuthorName>
+<Initials>RA</Initials>
+<FamilyName>Jarvis</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">A perspective on range finding techniques for computer vision</ArticleTitle>
+<JournalTitle>IEEE Transactions Pattern Analysis Machine Intelligence PAMI-5</JournalTitle>
+<VolumeID>2</VolumeID>
+<FirstPage>122</FirstPage>
+<LastPage>139</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/TPAMI.1983.4767365</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Jarvis RA (1983b) A perspective on range finding techniques for computer vision. IEEE Transactions Pattern Analysis Machine Intelligence PAMI-5, 2:122–139</BibUnstructured>
+</Citation>
+<Citation ID="CR86">
+<BibUnstructured>Jelalian AV, McManus RG (1977) AGARD Panel Proceeding No. 77. June, Sec. 2.1, pp 1–21</BibUnstructured>
+</Citation>
+<Citation ID="CR87">
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Johnson</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Fiber displacement sensors for metrology and control</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>961</FirstPage>
+<LastPage>965</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973608</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Johnson M (1985) Fiber displacement sensors for metrology and control. Optical Engineering 24(6):961–965</BibUnstructured>
+</Citation>
+<Citation ID="CR88">
+<BibChapter>
+<BibAuthorName>
+<Initials>AC</Initials>
+<FamilyName>Kak</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ChapterTitle Language="En">Depth perception for robot vision</ChapterTitle>
+<BibEditorName>
+<Initials>S.</Initials>
+<FamilyName>Nof</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Handbook of Industrial Robotics</BookTitle>
+<PublisherName>Wiley</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+<FirstPage>272</FirstPage>
+<LastPage>319</LastPage>
+</BibChapter>
+<BibUnstructured>Kak AC (1985) Depth perception for robot vision. In: Handbook of Industrial Robotics, S. Nof (Ed.) Wiley, New York, pp 272–319</BibUnstructured>
+</Citation>
+<Citation ID="CR89">
+<BibUnstructured>Kanade T, Asada H (1981) Noncontact visual 3D rangefinding devices. In: Proceedings SPIE 3D Machine Perception, B.R. Altschuler (Ed.):48–53</BibUnstructured>
+</Citation>
+<Citation ID="CR90">
+<BibChapter>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Kanade</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Fuhrman</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ChapterTitle Language="En">A noncontact optical proximity sensor for measuring surface shape</ChapterTitle>
+<BibEditorName>
+<Initials>T.</Initials>
+<FamilyName>Kanade</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>ThreeDimensional Machine Vision</BookTitle>
+<PublisherName>Kluwer Academic</PublisherName>
+<PublisherLocation>Boston</PublisherLocation>
+<FirstPage>151</FirstPage>
+<LastPage>194</LastPage>
+</BibChapter>
+<BibUnstructured>Kanade T, Fuhrman M (1985) A noncontact optical proximity sensor for measuring surface shape. In: ThreeDimensional Machine Vision, T. Kanade (Ed.), Kluwer Academic Boston, pp 151–194</BibUnstructured>
+</Citation>
+<Citation ID="CR91">
+<BibArticle>
+<BibAuthorName>
+<Initials>HM</Initials>
+<FamilyName>Karara</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Close-range photogrammetry: where are we and where are we heading?</ArticleTitle>
+<JournalTitle>Photogrammetric Engineering and Remote Sensing</JournalTitle>
+<VolumeID>51</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>537</FirstPage>
+<LastPage>544</LastPage>
+</BibArticle>
+<BibUnstructured>Karara HM (1985) Close-range photogrammetry: where are we and where are we heading? Photogrammetric Engineering and Remote Sensing 51(5):537–544</BibUnstructured>
+</Citation>
+<Citation ID="CR92">
+<BibUnstructured>Kawata H, Endo H, Eto Y (1985) A study of laser radar. Proceedings 10th International Technical Conference on Experimental Safety Vehicles</BibUnstructured>
+</Citation>
+<Citation ID="CR93">
+<BibBook>
+<BibAuthorName>
+<Initials>WN</Initials>
+<FamilyName>Kellogg</FamilyName>
+</BibAuthorName>
+<Year>1961</Year>
+<BookTitle>Porpoises and sonar</BookTitle>
+<PublisherName>University of Chicago Press</PublisherName>
+<PublisherLocation>Chicago, IL</PublisherLocation>
+</BibBook>
+<BibUnstructured>Kellogg WN (1961) Porpoises and sonar. University of Chicago Press, Chicago, IL</BibUnstructured>
+</Citation>
+<Citation ID="CR94">
+<BibUnstructured>Kern Instruments (1987) Product Information. Gottwald, R. and Berner, W., The new Kern system for positioning and automated coordinate evaluation; advanced technology for automated 3D coordinate determination. Brewster, NY. and Aarau, Switzerland</BibUnstructured>
+</Citation>
+<Citation ID="CR95">
+<BibArticle>
+<BibAuthorName>
+<Initials>RJ</Initials>
+<FamilyName>Keyes</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Heterodyne and nonheterodyne laser transceivers</ArticleTitle>
+<JournalTitle>Review of Scientific Instrumentation</JournalTitle>
+<VolumeID>57</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>519</FirstPage>
+<LastPage>528</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1063/1.1138921</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Keyes RJ (1986) Heterodyne and nonheterodyne laser transceivers. Review of Scientific Instrumentation 57(4):519–528</BibUnstructured>
+</Citation>
+<Citation ID="CR96">
+<BibChapter>
+<BibAuthorName>
+<Initials>RP</Initials>
+<FamilyName>Khetan</FamilyName>
+</BibAuthorName>
+<Year>1975</Year>
+<ChapterTitle Language="En">The theory and application of projection moire methods</ChapterTitle>
+<BookTitle>Ph.D. dissertation</BookTitle>
+<PublisherName>Dept. of Engineering Mechanics, State University of New York</PublisherName>
+<PublisherLocation>Stony Brook</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Khetan RP (1975) The theory and application of projection moire methods. Ph.D. dissertation. Dept. of Engineering Mechanics, State University of New York, Stony Brook</BibUnstructured>
+</Citation>
+<Citation ID="CR97">
+<BibBook>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Kingslake</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<BookTitle>Optical system design</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Kingslake R (1983) Optical system designAcademic Press, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR98">
+<BibArticle>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Kinoshita</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Idesawa</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Naomi</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Robotic range sensor with projection of bright ring pattern</ArticleTitle>
+<JournalTitle>Journal of Robotic Systems</JournalTitle>
+<VolumeID>3</VolumeID>
+<IssueID>3</IssueID>
+<FirstPage>249</FirstPage>
+<LastPage>257</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1002/rob.4620030305</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Kinoshita G, Idesawa M, Naomi S (1986) Robotic range sensor with projection of bright ring pattern. Journal of Robotic Systems 3(3):249–257</BibUnstructured>
+</Citation>
+<Citation ID="CR99">
+<BibArticle>
+<BibAuthorName>
+<Initials>JJ</Initials>
+<FamilyName>Koenderink</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AJ</Initials>
+<FamilyName>Doorn</FamilyName>
+<Particle>Van</Particle>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Dynamic shape</ArticleTitle>
+<JournalTitle>Biological Cybernetics</JournalTitle>
+<VolumeID>53</VolumeID>
+<FirstPage>383</FirstPage>
+<LastPage>396</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1007/BF00318204</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Koenderink JJ, Van Doorn AJ (1986) Dynamic shape. Biological Cybernetics 53:383–396</BibUnstructured>
+</Citation>
+<Citation ID="CR100">
+<BibArticle>
+<BibAuthorName>
+<Initials>V</Initials>
+<FamilyName>Kratky</FamilyName>
+</BibAuthorName>
+<Year>1979</Year>
+<ArticleTitle Language="En">Real-time photogrammetric support of dynamic 3D control</ArticleTitle>
+<JournalTitle>Photogrammetric Engineering and Remote Sensing</JournalTitle>
+<VolumeID>45</VolumeID>
+<IssueID>9</IssueID>
+<FirstPage>1231</FirstPage>
+<LastPage>1242</LastPage>
+</BibArticle>
+<BibUnstructured>Kratky V (1979) Real-time photogrammetric support of dynamic 3D control. Photogrammetric Engineering and Remote Sensing 45(9):1231–1242</BibUnstructured>
+</Citation>
+<Citation ID="CR101">
+<BibChapter>
+<BibAuthorName>
+<Initials>EP</Initials>
+<FamilyName>Krotkov</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ChapterTitle Language="En">Focusing</ChapterTitle>
+<BookTitle>Ph.D. Dissertation</BookTitle>
+<PublisherName>U. Penn</PublisherName>
+<PublisherLocation>Phila, PA</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Krotkov EP (1986) Focusing. Ph.D. Dissertation, U. Penn, Phila, PA</BibUnstructured>
+</Citation>
+<Citation ID="CR102">
+<BibUnstructured>Krotkov E, Martin JP (1986) Range from focus. Proceedings IEEE International Conference on Robotics and Automation, IEEE-CS: 1093–1098</BibUnstructured>
+</Citation>
+<Citation ID="CR103">
+<BibArticle>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Kurahashi</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Adachi</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Idesawa</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">A prototype of optical proximity sensor based on RORS</ArticleTitle>
+<JournalTitle>Journal of Robotic Systems</JournalTitle>
+<VolumeID>3</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>183</FirstPage>
+<LastPage>190</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1002/rob.4620030206</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Kurahashi A, Adachi M, Idesawa M (1986) A prototype of optical proximity sensor based on RORS. Journal of Robotic Systems 3(2):183–190</BibUnstructured>
+</Citation>
+<Citation ID="CR104">
+<BibArticle>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Labuz</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>ES</Initials>
+<FamilyName>McVey</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Camera and projector motion for range mapping</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>227</FirstPage>
+<LastPage>234</LastPage>
+</BibArticle>
+<BibUnstructured>Labuz J, McVey ES (1986) Camera and projector motion for range mapping. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision 728:227–234</BibUnstructured>
+</Citation>
+<Citation ID="CR105">
+<BibArticle>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Lamy</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>C</Initials>
+<FamilyName>Liegeois</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Meyrueis</FamilyName>
+</BibAuthorName>
+<Year>1981</Year>
+<ArticleTitle Language="En">3D automated pattern recognition using moire techniques</ArticleTitle>
+<JournalTitle>Proceedings SPIE</JournalTitle>
+<VolumeID>360</VolumeID>
+<FirstPage>345</FirstPage>
+<LastPage>351</LastPage>
+</BibArticle>
+<BibUnstructured>Lamy F, Liegeois C, Meyrueis P (1981) 3D automated pattern recognition using moire techniques. Proceedings SPIE 360:345–351</BibUnstructured>
+</Citation>
+<Citation ID="CR106">
+<BibArticle>
+<BibAuthorName>
+<Initials>MM</Initials>
+<FamilyName>Landman</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>SJ</Initials>
+<FamilyName>Robertson</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">A flexible industrial system for automated 3D inspection</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>203</FirstPage>
+<LastPage>209</LastPage>
+</BibArticle>
+<BibUnstructured>Landman MM, Robertson SJ (1986) A flexible industrial system for automated 3D inspection. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision, 728:203–209</BibUnstructured>
+</Citation>
+<Citation ID="CR107">
+<BibUnstructured>Laser Technology (1986) Product information. Norristown, PA</BibUnstructured>
+</Citation>
+<Citation ID="CR108">
+<BibArticle>
+<BibAuthorName>
+<Initials>JC</Initials>
+<FamilyName>Leader</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Speckle effects on coherent laser radar detection efficiency</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>25</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>644</FirstPage>
+<LastPage>650</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973878</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Leader JC (1986) Speckle effects on coherent laser radar detection efficiency. Optical Engineering 25(5):644–650</BibUnstructured>
+</Citation>
+<Citation ID="CR109">
+<BibArticle>
+<BibAuthorName>
+<Initials>JR</Initials>
+<FamilyName>Leger</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>MA</Initials>
+<FamilyName>Snyder</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Real-time depth measurement and display using Fresnel diffraction and whitelight processing</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>23</VolumeID>
+<IssueID>10</IssueID>
+<FirstPage>1655</FirstPage>
+<LastPage>1670</LastPage>
+</BibArticle>
+<BibUnstructured>Leger JR, Snyder MA (1984) Real-time depth measurement and display using Fresnel diffraction and whitelight processing. Applied Optics 23(10):1655–1670</BibUnstructured>
+</Citation>
+<Citation ID="CR110">
+<BibArticle>
+<BibAuthorName>
+<Initials>E</Initials>
+<FamilyName>Leith</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Upatnieks</FamilyName>
+</BibAuthorName>
+<Year>1962</Year>
+<ArticleTitle Language="En">Reconstructed wavefronts and communication theory</ArticleTitle>
+<JournalTitle>Journal of Optical Society America</JournalTitle>
+<VolumeID>54</VolumeID>
+<FirstPage>1123</FirstPage>
+<LastPage>1130</LastPage>
+</BibArticle>
+<BibUnstructured>Leith E, Upatnieks J (1962) Reconstructed wavefronts and communication theory. Journal of Optical Society America 54:1123–1130</BibUnstructured>
+</Citation>
+<Citation ID="CR111">
+<BibUnstructured>Lewis RA, Johnston AR (1977) A scanning laser rangefinder for a robotic vehicle. Proceedings 5th International Joint Conference on Artificial Intelligence: 762–768</BibUnstructured>
+</Citation>
+<Citation ID="CR112">
+<BibArticle>
+<BibAuthorName>
+<Initials>JRT</Initials>
+<FamilyName>Lewis</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Sopwith</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">3D surface measurement by microcomputer</ArticleTitle>
+<JournalTitle>Image and Vision Computing</JournalTitle>
+<VolumeID>4</VolumeID>
+<IssueID>3</IssueID>
+<FirstPage>159</FirstPage>
+<LastPage>166</LastPage>
+</BibArticle>
+<BibUnstructured>Lewis JRT, Sopwith T (1986) 3D surface measurement by microcomputer. Image and Vision Computing 4(3):159–166</BibUnstructured>
+</Citation>
+<Citation ID="CR113">
+<BibUnstructured>Livingstone FR, Tulai AF, Thomas MR (1987) Application of 3-D vision to the measurement of marine propellers. Proceedings Vision'87 Conference: 10-25–10-36</BibUnstructured>
+</Citation>
+<Citation ID="CR114">
+<BibUnstructured>Livingstone FR, Rioux M (1986) Development of a large field of view 3D vision system. Proceedings SPIE 665</BibUnstructured>
+</Citation>
+<Citation ID="CR115">
+<BibArticle>
+<BibAuthorName>
+<Initials>Rayleigh</Initials>
+<FamilyName>Lord</FamilyName>
+</BibAuthorName>
+<Year>1874</Year>
+<ArticleTitle Language="En">On the manufacture and theory of diffraction gratings</ArticleTitle>
+<JournalTitle>Phil. Mag.</JournalTitle>
+<VolumeID>47</VolumeID>
+<IssueID>81</IssueID>
+<FirstPage>193</FirstPage>
+</BibArticle>
+<BibUnstructured>Lord Rayleigh (JW Strutt) (1874) On the manufacture and theory of diffraction gratings. Phil. Mag. 47(81):193</BibUnstructured>
+</Citation>
+<Citation ID="CR116">
+<BibArticle>
+<BibAuthorName>
+<Initials>Rayleigh (JW Strutt)</Initials>
+<FamilyName>Lord</FamilyName>
+</BibAuthorName>
+<Year>1881</Year>
+<NoArticleTitle/>
+<JournalTitle>Phil. Mag.</JournalTitle>
+<VolumeID>11</VolumeID>
+<FirstPage>196</FirstPage>
+</BibArticle>
+<BibUnstructured>Lord Rayleigh (JW Strutt) (1881) Phil. Mag. 11:196</BibUnstructured>
+</Citation>
+<Citation ID="CR117">
+<BibUnstructured>Lorenz RD (1984) Theory and design of optical/electronic probes for high performance measurement of parts. Ph.D. dissertation, Univ. of Wisconsin-Madison</BibUnstructured>
+</Citation>
+<Citation ID="CR118">
+<BibArticle>
+<BibAuthorName>
+<Initials>RD</Initials>
+<FamilyName>Lorenz</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">A novel, high-range-to-resolution ratio, optical sensing technique for high speed surface geometry measurements</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>152</FirstPage>
+<LastPage>146</LastPage>
+</BibArticle>
+<BibUnstructured>Lorenz RD (1986) A novel, high-range-to-resolution ratio, optical sensing technique for high speed surface geometry measurements. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision 728:152–146</BibUnstructured>
+</Citation>
+<Citation ID="CR119">
+<BibArticle>
+<BibAuthorName>
+<Initials>WW</Initials>
+<FamilyName>Macy</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">Two-dimensional fringe pattern analysis</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>22</VolumeID>
+<IssueID>22</IssueID>
+<FirstPage>3893</FirstPage>
+<LastPage>3901</LastPage>
+</BibArticle>
+<BibUnstructured>Macy WW (1983) Two-dimensional fringe pattern analysis. Applied Optics 22(22):3893–3901</BibUnstructured>
+</Citation>
+<Citation ID="CR120">
+<BibArticle>
+<BibAuthorName>
+<Initials>DL</Initials>
+<FamilyName>Mader</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Holographic interferometry of pipes: precision interpretation by least squares fitting</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>22</IssueID>
+<FirstPage>3784</FirstPage>
+<LastPage>3790</LastPage>
+</BibArticle>
+<BibUnstructured>Mader DL (1985) Holographic interferometry of pipes: precision interpretation by least squares fitting. Applied Optics 24(22):3784–3790</BibUnstructured>
+</Citation>
+<Citation ID="CR121">
+<BibBook>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Marshall</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<BookTitle>Laser Beam Scanning</BookTitle>
+<PublisherName>Marcel-Dekker</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Marshall G (1985) Laser Beam Scanning, Marcel-Dekker, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR122">
+<BibArticle>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Matsuda</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Multifunctional optical proximity sensor using phase modulation</ArticleTitle>
+<JournalTitle>Journal of Robotic Systems</JournalTitle>
+<VolumeID>3</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>137</FirstPage>
+<LastPage>147</LastPage>
+</BibArticle>
+<BibUnstructured>Matsuda R (1986) Multifunctional optical proximity sensor using phase modulation. Journal of Robotic Systems 3(2):137–147</BibUnstructured>
+</Citation>
+<Citation ID="CR123">
+<BibArticle>
+<BibAuthorName>
+<Initials>HJ</Initials>
+<FamilyName>Matthews</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>DK</Initials>
+<FamilyName>Hamilton</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CJR</Initials>
+<FamilyName>Sheppard</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Surface profiling by phase-locked interferometry</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>25</VolumeID>
+<IssueID>14</IssueID>
+<FirstPage>2372</FirstPage>
+<LastPage>2374</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/AO.25.002372</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Matthews HJ, Hamilton DK, Sheppard CJR (1986) Surface profiling by phase-locked interferometry. Applied Optics 25(14):2372–2374</BibUnstructured>
+</Citation>
+<Citation ID="CR124">
+<BibUnstructured>Mersch SH, Doles JE (1985) Cylindrical optics applied to machine vision. Proceedings Vision'85 Conference, SME, 4-53–4-63</BibUnstructured>
+</Citation>
+<Citation ID="CR125">
+<BibArticle>
+<BibAuthorName>
+<Initials>L</Initials>
+<FamilyName>Mertz</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">Real-time fringe pattern analysis</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>22</VolumeID>
+<IssueID>10</IssueID>
+<FirstPage>1535</FirstPage>
+<LastPage>1539</LastPage>
+</BibArticle>
+<BibUnstructured>Mertz L (1983) Real-time fringe pattern analysis. Applied Optics 22(10):1535–1539</BibUnstructured>
+</Citation>
+<Citation ID="CR126">
+<BibUnstructured>Miller GL, Wagner ER (1987) An optical rangefinder for autonomous robot cart navigation. Proceedings SPIE Industrial Electronics, Cambridge, MA, (November)</BibUnstructured>
+</Citation>
+<Citation ID="CR127">
+<BibArticle>
+<BibAuthorName>
+<Initials>DT</Initials>
+<FamilyName>Moore</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>BE</Initials>
+<FamilyName>Traux</FamilyName>
+</BibAuthorName>
+<Year>1979</Year>
+<ArticleTitle Language="En">Phase-locked moire fringe analysis for automated contouring of diffuse surfaces</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>18</VolumeID>
+<IssueID>l</IssueID>
+<FirstPage>91</FirstPage>
+<LastPage>96</LastPage>
+</BibArticle>
+<BibUnstructured>Moore DT, Traux BE (1979) Phase-locked moire fringe analysis for automated contouring of diffuse surfaces. Applied Optics 18(l):91–96</BibUnstructured>
+</Citation>
+<Citation ID="CR128">
+<BibChapter>
+<BibAuthorName>
+<Initials>JL</Initials>
+<FamilyName>Mundy</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>GB</Initials>
+<FamilyName>Porter</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ChapterTitle Language="En">A three-dimensional sensor based on structured light</ChapterTitle>
+<BibEditorName>
+<Initials>T.</Initials>
+<FamilyName>Kanade</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Three-Dimensional Machine Vision</BookTitle>
+<PublisherName>Kluwer Academic</PublisherName>
+<PublisherLocation>Boston</PublisherLocation>
+<FirstPage>3</FirstPage>
+<LastPage>62</LastPage>
+</BibChapter>
+<BibUnstructured>Mundy JL, Porter GB (1986) A three-dimensional sensor based on structured light. In: Three-Dimensional Machine Vision, T. Kanade (Ed.), Kluwer Academic, Boston, pp 3–62</BibUnstructured>
+</Citation>
+<Citation ID="CR129">
+<BibChapter>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Nakagawa</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Ninomiya</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ChapterTitle Language="En">Three-dimensional vision systems using the structured light method for inspecting solder joints and assembly robots</ChapterTitle>
+<BibEditorName>
+<Initials>T.</Initials>
+<FamilyName>Kanade</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>ThreeDimensional Machine Vision</BookTitle>
+<PublisherName>Kluwer Academic</PublisherName>
+<PublisherLocation>Boston</PublisherLocation>
+<FirstPage>543</FirstPage>
+<LastPage>565</LastPage>
+</BibChapter>
+<BibUnstructured>Nakagawa Y, Ninomiya T (1987) Three-dimensional vision systems using the structured light method for inspecting solder joints and assembly robots. ThreeDimensional Machine Vision, T. Kanade (Ed.), Kluwer Academic, Boston, pp 543–565</BibUnstructured>
+</Citation>
+<Citation ID="CR130">
+<BibUnstructured>Nevatia R, Binford TO (1973) Structured descriptions of complex objects. Proceedings 3rd International Joint Conference on Artificial Intelligence: 641–647</BibUnstructured>
+</Citation>
+<Citation ID="CR131">
+<BibUnstructured>Newport Corp (1987) Product Information. Design and testing with holography. Machine vision components. Fountain Valley, CA</BibUnstructured>
+</Citation>
+<Citation ID="CR132">
+<BibArticle>
+<BibAuthorName>
+<Initials>D</Initials>
+<FamilyName>Nitzan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AE</Initials>
+<FamilyName>Brain</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RO</Initials>
+<FamilyName>Duda</FamilyName>
+</BibAuthorName>
+<Year>1977</Year>
+<ArticleTitle Language="En">The measurement and use of registered reflectance and range data in scene analysis</ArticleTitle>
+<JournalTitle>Proceedings IEEE</JournalTitle>
+<VolumeID>65</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>206</FirstPage>
+<LastPage>220.</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/PROC.1977.10458</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Nitzan D, Brain AE, Duda RO (1977) The measurement and use of registered reflectance and range data in scene analysis. Proceedings IEEE 65(2):206–220.</BibUnstructured>
+</Citation>
+<Citation ID="CR133">
+<BibUnstructured>Nitzan D, Bolles R, Kremers J, Mulgaonkar P (May 1986) 3D vision for robot applications. NATO Workshop on Knowledge Engineering for Robotic Applications, Maratea, Italy</BibUnstructured>
+</Citation>
+<Citation ID="CR134">
+<BibBook>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Oboshi</FamilyName>
+</BibAuthorName>
+<Year>1976</Year>
+<BookTitle>Three-Dimensional Imaging Techniques</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Oboshi T (1976) Three-Dimensional Imaging Techniques. Academic Press, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR135">
+<BibArticle>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Oster</FamilyName>
+</BibAuthorName>
+<Year>1965</Year>
+<ArticleTitle Language="En">Moire optics: a bibliography</ArticleTitle>
+<JournalTitle>Journal of Optical Society America</JournalTitle>
+<VolumeID>55</VolumeID>
+<FirstPage>1329</FirstPage>
+</BibArticle>
+<BibUnstructured>Oster G (1965) Moire optics: a bibliography. Journal of Optical Society America 55:1329</BibUnstructured>
+</Citation>
+<Citation ID="CR136">
+<BibArticle>
+<BibAuthorName>
+<Initials>O</Initials>
+<FamilyName>Ozeki</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Nakano</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Yamamoto</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Real-time range measurement device for 3D object recognition</ArticleTitle>
+<JournalTitle>IEEE Trans. Pattern Analysis Machine Intelligence</JournalTitle>
+<VolumeID>PAMI-8</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>550</FirstPage>
+<LastPage>553</LastPage>
+</BibArticle>
+<BibUnstructured>Ozeki O, Nakano T, Yamamoto S (1986) Real-time range measurement device for 3D object recognition. IEEE Trans. Pattern Analysis Machine Intelligence. PAMI-8, 4, 550–553</BibUnstructured>
+</Citation>
+<Citation ID="CR137">
+<BibArticle>
+<BibAuthorName>
+<Initials>D</Initials>
+<FamilyName>Pantzer</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Politch</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>L</Initials>
+<FamilyName>Ek</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Heterodyne profiling instrument for the angstrom region</ArticleTitle>
+<JournalTitle>Applied: Optics</JournalTitle>
+<VolumeID>25</VolumeID>
+<IssueID>22</IssueID>
+<FirstPage>4168</FirstPage>
+<LastPage>4172</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/AO.25.004168</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Pantzer D, Politch J, Ek L (1986) Heterodyne profiling instrument for the angstrom region. Applied: Optics 25(22):4168–4172</BibUnstructured>
+</Citation>
+<Citation ID="CR138">
+<BibArticle>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Parthasarathy</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Birk</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Dessimoz</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Laser rangefinder for robot control and inspection</ArticleTitle>
+<JournalTitle>Proceedings SPIE Robot Vision</JournalTitle>
+<VolumeID>336</VolumeID>
+<FirstPage>2</FirstPage>
+<LastPage>11</LastPage>
+</BibArticle>
+<BibUnstructured>Parthasarathy S, Birk J, Dessimoz J (1982) Laser rangefinder for robot control and inspection. Proceedings SPIE Robot Vision 336:2–11</BibUnstructured>
+</Citation>
+<Citation ID="CR139">
+<BibUnstructured>Pelowski KR (1986) 3D measurement with machine vision. Proceedings Vision'86 Conference: 2-17–2-31</BibUnstructured>
+</Citation>
+<Citation ID="CR140">
+<BibArticle>
+<BibAuthorName>
+<Initials>AP</Initials>
+<FamilyName>Pentland</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">A new sense of depth of field</ArticleTitle>
+<JournalTitle>IEEE Transaction Pattern Analysis Machine Intelligence PAMI-9</JournalTitle>
+<VolumeID>4</VolumeID>
+<FirstPage>523</FirstPage>
+<LastPage>531</LastPage>
+</BibArticle>
+<BibUnstructured>Pentland AP (1987) A new sense of depth of field. IEEE Transaction Pattern Analysis Machine Intelligence PAMI-9, 4:523–531</BibUnstructured>
+</Citation>
+<Citation ID="CR141">
+<BibUnstructured>Perceptron (1987) Product information. Farmington Hills, MI</BibUnstructured>
+</Citation>
+<Citation ID="CR142">
+<BibArticle>
+<BibAuthorName>
+<Initials>JC</Initials>
+<FamilyName>Perrin</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Thomas</FamilyName>
+</BibAuthorName>
+<Year>1979</Year>
+<ArticleTitle Language="En">Electronic processing of moire fringes: application to moire topography and comparison with photogrammetry</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>18</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>563</FirstPage>
+<LastPage>574</LastPage>
+</BibArticle>
+<BibUnstructured>Perrin JC, Thomas A (1979) Electronic processing of moire fringes: application to moire topography and comparison with photogrammetry. Applied Optics 18(4):563–574</BibUnstructured>
+</Citation>
+<Citation ID="CR143">
+<BibArticle>
+<BibAuthorName>
+<Initials>RW</Initials>
+<FamilyName>Peterson</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>GM</Initials>
+<FamilyName>Robinson</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RA</Initials>
+<FamilyName>Carlsen</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CD</Initials>
+<FamilyName>Englund</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>PJ</Initials>
+<FamilyName>Moran</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>WM</Initials>
+<FamilyName>Wirth</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Interferometric measurements of the surface profile of moving samples</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>23</VolumeID>
+<IssueID>10</IssueID>
+<FirstPage>1464</FirstPage>
+<LastPage>1466</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/AO.23.001464</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Peterson RW, Robinson GM, Carlsen RA, Englund CD, Moran PJ, Wirth WM (1984) Interferometric measurements of the surface profile of moving samples. Applied Optics 23(10):1464–1466</BibUnstructured>
+</Citation>
+<Citation ID="CR144">
+<BibUnstructured>Photonic Automation, Inc. (1987) Product literature. Improving automated SMT inspection with 3D vision. M. Juha and J. Donahue. Santa Ana, CA</BibUnstructured>
+</Citation>
+<Citation ID="CR145">
+<BibArticle>
+<BibAuthorName>
+<Initials>FJ</Initials>
+<FamilyName>Pipitone</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>TG</Initials>
+<FamilyName>Marshall</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">A wide-field scanning triangulation rangefinder for machine vision</ArticleTitle>
+<JournalTitle>International Journal of Robotics Research</JournalTitle>
+<VolumeID>2</VolumeID>
+<IssueID>1</IssueID>
+<FirstPage>39</FirstPage>
+<LastPage>49</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1177/027836498300200104</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Pipitone FJ, Marshall TG (1983) A wide-field scanning triangulation rangefinder for machine vision. International Journal of Robotics Research 2(1):39–49</BibUnstructured>
+</Citation>
+<Citation ID="CR146">
+<BibUnstructured>Pinckney HFL (1978) Theory and development of an online 30 Hz video photogrammetry system for real-time 3D control. International Archives of Photogrammetry, Vol. XXII, Part V. 2:38 pages</BibUnstructured>
+</Citation>
+<Citation ID="CR147">
+<BibArticle>
+<BibAuthorName>
+<Initials>L</Initials>
+<FamilyName>Pirodda</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Shadow and projection moire techniques for absolute and relative mapping of surface shapes</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>21</VolumeID>
+<FirstPage>640</FirstPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7972959</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Pirodda L (1982) Shadow and projection moire techniques for absolute and relative mapping of surface shapes. Optical Engineering 21:640</BibUnstructured>
+</Citation>
+<Citation ID="CR148">
+<BibUnstructured>Popplestone RJ, Brown CM, Ambler AP, Crawford GF (1975) Forming models of plane-and-cylinder faceted bodies from light stripes. Proceedings 4th International Joint Conference on Artificial Intelligence: 664–668</BibUnstructured>
+</Citation>
+<Citation ID="CR149">
+<BibUnstructured>Potmesil M (1983) Generating models of solid objects by matching 3D surface segments. Proceedings 8th International Joint Conference on Artificial Intelligence: 1089–1093</BibUnstructured>
+</Citation>
+<Citation ID="CR150">
+<BibArticle>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Potsdamer</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Altschuler</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Surface measurement by space-encoded projected beam system</ArticleTitle>
+<JournalTitle>Computer Graphics Image Processing</JournalTitle>
+<VolumeID>18</VolumeID>
+<FirstPage>1</FirstPage>
+<LastPage>17</LastPage>
+</BibArticle>
+<BibUnstructured>Potsdamer J, Altschuler M (1982) Surface measurement by space-encoded projected beam system. Computer Graphics Image Processing 18:1–17</BibUnstructured>
+</Citation>
+<Citation ID="CR151">
+<BibArticle>
+<BibAuthorName>
+<Initials>RJ</Initials>
+<FamilyName>Pryputniewicz</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Heterodyne holography applications in studies of small components</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>849</FirstPage>
+<LastPage>854</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973587</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Pryputniewicz RJ (1985) Heterodyne holography applications in studies of small components. Optical Engineering 24(5):849–854</BibUnstructured>
+</Citation>
+<Citation ID="CR152">
+<BibUnstructured>Quist TM, Bicknell WE, Bates DA (1978) ARPA Semiannual report: optics research, Lincoln Laboratory, MIT</BibUnstructured>
+</Citation>
+<Citation ID="CR153">
+<BibArticle>
+<BibAuthorName>
+<Initials>GT</Initials>
+<FamilyName>Reid</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Automatic fringe pattern analysis: A review</ArticleTitle>
+<JournalTitle>Optics and Lasers in Engineering</JournalTitle>
+<VolumeID>7</VolumeID>
+<FirstPage>37</FirstPage>
+<LastPage>68</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1016/0143-8166(86)90034-5</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Reid GT (1986) Automatic fringe pattern analysis: A review. Optics and Lasers in Engineering 7:37–68</BibUnstructured>
+</Citation>
+<Citation ID="CR154">
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Rioux</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Laser range finder based upon synchronized scanners</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>23</VolumeID>
+<IssueID>21</IssueID>
+<FirstPage>3837</FirstPage>
+<LastPage>3844</LastPage>
+</BibArticle>
+<BibUnstructured>Rioux M (1984) Laser range finder based upon synchronized scanners. Applied Optics 23(21):3837–3844</BibUnstructured>
+</Citation>
+<Citation ID="CR155">
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Rioux</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Blais</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Compact 3-D camera for robotic applications</ArticleTitle>
+<JournalTitle>Journal of Optical Society of America A</JournalTitle>
+<VolumeID>3</VolumeID>
+<IssueID>9</IssueID>
+<FirstPage>1518</FirstPage>
+<LastPage>1521</LastPage>
+</BibArticle>
+<BibUnstructured>Rioux M, Blais F (1986) Compact 3-D camera for robotic applications. Journal of Optical Society of America A 3(9):1518–1521</BibUnstructured>
+</Citation>
+<Citation ID="CR156">
+<BibBook>
+<InstitutionalAuthorName>Robotic Vision Systems, Inc</InstitutionalAuthorName>
+<Year>1987</Year>
+<BookTitle>Product literature</BookTitle>
+<PublisherName>RVSI</PublisherName>
+<PublisherLocation>Hauppage, NY</PublisherLocation>
+</BibBook>
+<BibUnstructured>Robotic Vision Systems, Inc (1987) Product literature. RVSI, Hauppage, NY</BibUnstructured>
+</Citation>
+<Citation ID="CR157">
+<BibUnstructured>Rocker F (1974) Localization and classification of 3D objects. Proceedings 2nd International Conference Pattern Recognition: 527–528</BibUnstructured>
+</Citation>
+<Citation ID="CR158">
+<BibArticle>
+<BibAuthorName>
+<Initials>JP</Initials>
+<FamilyName>Rosenfeld</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CJ</Initials>
+<FamilyName>Tsikos</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">High-speed space encoding projector for 3D imaging</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>146</FirstPage>
+<LastPage>151</LastPage>
+</BibArticle>
+<BibUnstructured>Rosenfeld JP, Tsikos CJ (1986) High-speed space encoding projector for 3D imaging. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision, 728:146–151</BibUnstructured>
+</Citation>
+<Citation ID="CR159">
+<BibBook>
+<BibAuthorName>
+<Initials>JA</Initials>
+<FamilyName>Ross</FamilyName>
+</BibAuthorName>
+<Year>1978</Year>
+<BookTitle>Methods and systems for 3D measurement</BookTitle>
+<PublisherName>RVSI</PublisherName>
+<PublisherLocation>Hauppage, NY</PublisherLocation>
+</BibBook>
+<BibUnstructured>Ross JA (1978) Methods and systems for 3D measurement. U.S. Patent 4,199,253. (RVSI, Hauppage, NY)</BibUnstructured>
+</Citation>
+<Citation ID="CR160">
+<BibArticle>
+<BibAuthorName>
+<Initials>RE</Initials>
+<FamilyName>Sampson</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">3D range sensor via phase shift detection (Insert)</ArticleTitle>
+<JournalTitle>IEEE Computer</JournalTitle>
+<VolumeID>20</VolumeID>
+<IssueID>8</IssueID>
+<FirstPage>23</FirstPage>
+<LastPage>24</LastPage>
+</BibArticle>
+<BibUnstructured>Sampson RE (1987) 3D range sensor via phase shift detection (Insert). IEEE Computer 20(8):23–24</BibUnstructured>
+</Citation>
+<Citation ID="CR161">
+<BibArticle>
+<BibAuthorName>
+<Initials>O</Initials>
+<FamilyName>Sasaki</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Okazaki</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Sinusoidal phase modulating interferometry for surface profile measurement. And Analysis of measurement accuracy in sinusoidal phase modulating interferometry</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>25</VolumeID>
+<IssueID>18</IssueID>
+<FirstPage>3137</FirstPage>
+<LastPage>3140</LastPage>
+</BibArticle>
+<BibUnstructured>Sasaki O, Okazaki H (1986) Sinusoidal phase modulating interferometry for surface profile measurement. And Analysis of measurement accuracy in sinusoidal phase modulating interferometry. Applied Optics 25(18):3137–3140,3152–3158</BibUnstructured>
+</Citation>
+<Citation ID="CR162">
+<BibArticle>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Sato</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Kitagawa</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Fujita</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Shape measurement of curved objects using multiple-slit ray projection</ArticleTitle>
+<JournalTitle>IEEE Transactions Pattern Analysis Machine Intelligence PAMI-4</JournalTitle>
+<VolumeID>6</VolumeID>
+<FirstPage>641</FirstPage>
+<LastPage>649</LastPage>
+</BibArticle>
+<BibUnstructured>Sato Y, Kitagawa H, Fujita H (1982) Shape measurement of curved objects using multiple-slit ray projection. IEEE Transactions Pattern Analysis Machine Intelligence PAMI-4, 6:641–649</BibUnstructured>
+</Citation>
+<Citation ID="CR163">
+<BibArticle>
+<BibAuthorName>
+<Initials>K</Initials>
+<FamilyName>Sato</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Inokuchi</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">3D surface measurement by space encoding range imaging</ArticleTitle>
+<JournalTitle>Journal of Robotic Systems</JournalTitle>
+<VolumeID>2</VolumeID>
+<IssueID>1</IssueID>
+<FirstPage>27</FirstPage>
+<LastPage>39</LastPage>
+</BibArticle>
+<BibUnstructured>Sato K, Inokuchi S (1985) 3D surface measurement by space encoding range imaging. Journal of Robotic Systems 2(1):27–39</BibUnstructured>
+</Citation>
+<Citation ID="CR164">
+<BibArticle>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Schewe</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>W</Initials>
+<FamilyName>Forstner</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">The program PALM for automatic line and surface measurement using image matching techniques</ArticleTitle>
+<JournalTitle>Proceedings Symposium International Society for Photogrammetry and Remote Sensing</JournalTitle>
+<VolumeID>26</VolumeID>
+<FirstPage>608</FirstPage>
+<LastPage>622</LastPage>
+</BibArticle>
+<BibUnstructured>Schewe H, Forstner W (1986) The program PALM for automatic line and surface measurement using image matching techniques. Proceedings Symposium International Society for Photogrammetry and Remote Sensing, Vol. 26, Part 3/2:608–622</BibUnstructured>
+</Citation>
+<Citation ID="CR165">
+<BibUnstructured>Schlag JF, Sanderson AC, Neumann CP, Wimberly FC (1983) Implementation of automatic focusing algorithms for a computer vision system with camera control. CMU-RI-TR-83-14</BibUnstructured>
+</Citation>
+<Citation ID="CR166">
+<BibUnstructured>Schmitt F, Maitre H, Clainchard A, Lopez-Krahm J (1985) Acquisition and representation of real object surface data. SPIE Proceedings Biostereometrics Conf., Vol. 602</BibUnstructured>
+</Citation>
+<Citation ID="CR167">
+<BibArticle>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Schmitt</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>B</Initials>
+<FamilyName>Barsky</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>W</Initials>
+<FamilyName>Du</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">An adaptive subdivision method for surface-fitting from sampled data</ArticleTitle>
+<JournalTitle>Computer Graphics</JournalTitle>
+<VolumeID>20</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>179</FirstPage>
+<LastPage>188</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1145/15922.15906</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Schmitt F, Barsky B, Du W (1986) An adaptive subdivision method for surface-fitting from sampled data. Computer Graphics 20(4):179–188</BibUnstructured>
+</Citation>
+<Citation ID="CR168">
+<BibBook>
+<BibAuthorName>
+<Initials>W</Initials>
+<FamilyName>Schuman</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Dubas</FamilyName>
+</BibAuthorName>
+<Year>1979</Year>
+<BookTitle>Holographic Interferometry</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+</BibBook>
+<BibUnstructured>Schuman W, Dubas M (1979) Holographic Interferometry. Springer-Verlag, Berlin</BibUnstructured>
+</Citation>
+<Citation ID="CR169">
+<BibChapter>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Schwartz</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ChapterTitle Language="En">Structured light sensors for 3D robot vision</ChapterTitle>
+<BookTitle>Robotics Research Report No. 8</BookTitle>
+<PublisherName>Courant Institute of Mathematical Sciences, New York University</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Schwartz J (1983) Structured light sensors for 3D robot vision. Robotics Research Report No. 8, Courant Institute of Mathematical Sciences, New York University, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR170">
+<BibArticle>
+<BibAuthorName>
+<Initials>CA</Initials>
+<FamilyName>Sciammarella</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">The moire method-A review</ArticleTitle>
+<JournalTitle>Exp. Mech.</JournalTitle>
+<VolumeID>22</VolumeID>
+<FirstPage>418</FirstPage>
+<LastPage>433</LastPage>
+</BibArticle>
+<BibUnstructured>Sciammarella CA (1982) The moire method-A review. Exp. Mech. 22:418–433</BibUnstructured>
+</Citation>
+<Citation ID="CR171">
+<BibUnstructured>SELCOM (1987) Optocator product information. Valdese, NC, US; Partille, Sweden; Krefeld, West Germany</BibUnstructured>
+</Citation>
+<Citation ID="CR172">
+<BibUnstructured>Servo-Robot (1987) Product information. Boucherville, Quebec, Canada</BibUnstructured>
+</Citation>
+<Citation ID="CR173">
+<BibArticle>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Shirai</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<NoInitials/>
+<FamilyName>Suwa</FamilyName>
+</BibAuthorName>
+<Year>1972</Year>
+<ArticleTitle Language="En">Recognition of polyhedra with a range finder</ArticleTitle>
+<JournalTitle>Pattern Recognition</JournalTitle>
+<VolumeID>4</VolumeID>
+<FirstPage>243</FirstPage>
+<LastPage>250</LastPage>
+</BibArticle>
+<BibUnstructured>Shirai Y, Suwa (1972) Recognition of polyhedra with a range finder, Pattern Recognition 4:243–250</BibUnstructured>
+</Citation>
+<Citation ID="CR174">
+<BibUnstructured>Silvaggi C, Luk F, North W (1986) Position/dimension by structured light. Experimental Techniques: 22–25. doi: <ExternalRef><RefSource>10.1111/j.1747-1567.1986.tb00325.x</RefSource><RefTarget TargetType="DOI" Address="10.1111/j.1747-1567.1986.tb00325.x"/></ExternalRef>.</BibUnstructured>
+</Citation>
+<Citation ID="CR175">
+<BibBook>
+<BibAuthorName>
+<Initials>MI</Initials>
+<FamilyName>Skolnick</FamilyName>
+</BibAuthorName>
+<Year>1962</Year>
+<BookTitle>Introduction to Radar Systems</BookTitle>
+<PublisherName>McGraw-Hill</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Skolnick MI (1962) Introduction to Radar Systems. McGraw-Hill, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR176">
+<BibBook>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Slevogt</FamilyName>
+</BibAuthorName>
+<Year>1974</Year>
+<BookTitle>Technische Optik</BookTitle>
+<PublisherName>Walter de Gruyter</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+<FirstPage>55</FirstPage>
+<LastPage>57</LastPage>
+</BibBook>
+<BibUnstructured>Slevogt H (1974) Technische Optik. Walter de Gruyter, Berlin, pp 55–57</BibUnstructured>
+</Citation>
+<Citation ID="CR177">
+<BibArticle>
+<BibAuthorName>
+<Initials>RC</Initials>
+<FamilyName>Smith</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Cheeseman</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">On the representation and estimation of spatial uncertainty</ArticleTitle>
+<JournalTitle>International Journal of Robotics Res.</JournalTitle>
+<VolumeID>5</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>56</FirstPage>
+<LastPage>68</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1177/027836498600500404</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Smith RC, Cheeseman P (1987) On the representation and estimation of spatial uncertainty. International Journal of Robotics Res. 5(4):56–68</BibUnstructured>
+</Citation>
+<Citation ID="CR178">
+<BibUnstructured>Solid Photography, Inc. (1977) (now Robotic Vision Systems, Inc. (RVSI), Hauppage, NY)</BibUnstructured>
+</Citation>
+<Citation ID="CR179">
+<BibArticle>
+<BibAuthorName>
+<Initials>V</Initials>
+<FamilyName>Srinivasan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>HC</Initials>
+<FamilyName>Liu</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Halioua</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Automated phase measuring profilometry: A phase-mapping approach</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>185</FirstPage>
+<LastPage>188</LastPage>
+</BibArticle>
+<BibUnstructured>Srinivasan V, Liu HC, Halioua M (1985) Automated phase measuring profilometry: A phase-mapping approach. Applied Optics 24(2):185–188</BibUnstructured>
+</Citation>
+<Citation ID="CR180">
+<BibUnstructured>Stockman G, Hu G (1986) Sensing 3D surface patches using a projected grid. Proceedings Computer Vision Pattern Recognition Conference: 602–607</BibUnstructured>
+</Citation>
+<Citation ID="CR181">
+<BibArticle>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Strand</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">Optical three-dimensional sensing</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>l</IssueID>
+<FirstPage>33</FirstPage>
+<LastPage>40</LastPage>
+</BibArticle>
+<BibUnstructured>Strand T (1983) Optical three-dimensional sensing. Optical Engineering 24(l):33–40</BibUnstructured>
+</Citation>
+<Citation ID="CR182">
+<BibArticle>
+<BibAuthorName>
+<Initials>DJ</Initials>
+<FamilyName>Svetkoff</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Towards a high resolution, video rate, 3D sensor for machine vision</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>216</FirstPage>
+<LastPage>226</LastPage>
+</BibArticle>
+<BibUnstructured>Svetkoff DJ (Oct. 1986) Towards a high resolution, video rate, 3D sensor for machine vision. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision, 728:216–226</BibUnstructured>
+</Citation>
+<Citation ID="CR183">
+<BibArticle>
+<BibAuthorName>
+<Initials>DJ</Initials>
+<FamilyName>Svetkoff</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>PF</Initials>
+<FamilyName>Leonard</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RE</Initials>
+<FamilyName>Sampson</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RC</Initials>
+<FamilyName>Jain</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Techniques for real-time feature extraction using range information</ArticleTitle>
+<JournalTitle>Proceedings SPIE-Intelligent Robotics and Computer Vision</JournalTitle>
+<VolumeID>521</VolumeID>
+<FirstPage>302</FirstPage>
+<LastPage>309</LastPage>
+</BibArticle>
+<BibUnstructured>Svetkoff DJ, Leonard PF, Sampson RE, Jain RC (1984) Techniques for real-time feature extraction using range information. Proceedings SPIE-Intelligent Robotics and Computer Vision 521:302–309</BibUnstructured>
+</Citation>
+<Citation ID="CR184">
+<BibArticle>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Talbot</FamilyName>
+</BibAuthorName>
+<Year>1836</Year>
+<ArticleTitle Language="En">Facts relating to optical science No. IV</ArticleTitle>
+<JournalTitle>Phil. Mag.</JournalTitle>
+<VolumeID>9</VolumeID>
+<FirstPage>401</FirstPage>
+<LastPage>407</LastPage>
+</BibArticle>
+<BibUnstructured>Talbot H (1836) Facts relating to optical science No. IV. Phil. Mag. 9:401–407</BibUnstructured>
+</Citation>
+<Citation ID="CR185">
+<BibUnstructured>Technical Arts Corp (1987) Product Literature. Redmond, WA</BibUnstructured>
+</Citation>
+<Citation ID="CR186">
+<BibArticle>
+<BibAuthorName>
+<Initials>MC</Initials>
+<FamilyName>Teich</FamilyName>
+</BibAuthorName>
+<Year>1968</Year>
+<ArticleTitle Language="En">Infrared heterodyne detection</ArticleTitle>
+<JournalTitle>Proceedings IEEE</JournalTitle>
+<VolumeID>56</VolumeID>
+<IssueID>l</IssueID>
+<FirstPage>37</FirstPage>
+<LastPage>46</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/PROC.1968.6137</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Teich MC (1968) Infrared heterodyne detection. Proceedings IEEE 56(l):37–46</BibUnstructured>
+</Citation>
+<Citation ID="CR187">
+<BibChapter>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Tenenbaum</FamilyName>
+</BibAuthorName>
+<Year>1970</Year>
+<ChapterTitle Language="En">Accommodation in computer vision</ChapterTitle>
+<BookTitle>Ph.D. dissertation</BookTitle>
+<PublisherName>Stanford University</PublisherName>
+<PublisherLocation>Stanford, CA</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Tenenbaum J (1970) Accommodation in computer vision. Ph.D. dissertation, Stanford University, Stanford, CA</BibUnstructured>
+</Citation>
+<Citation ID="CR188">
+<BibArticle>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Terras</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Detection of phase in modulated optical signals subject to ideal Rayleigh fading</ArticleTitle>
+<JournalTitle>Journal of Optical Society of America A</JournalTitle>
+<VolumeID>3</VolumeID>
+<IssueID>11</IssueID>
+<FirstPage>1816</FirstPage>
+<LastPage>1825</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/JOSAA.3.001816</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Terras R (1986) Detection of phase in modulated optical signals subject to ideal Rayleigh fading. Journal of Optical Society of America A 3(11):1816–1825</BibUnstructured>
+</Citation>
+<Citation ID="CR189">
+<BibArticle>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Thalmann</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Dandliker</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Holographic contouring using electronic phase measurement</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>930</FirstPage>
+<LastPage>935</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973605</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Thalmann R, Dandliker R (1985) Holographic contouring using electronic phase measurement. Optical Engineering 24(6):930–935</BibUnstructured>
+</Citation>
+<Citation ID="CR190">
+<BibBook>
+<BibAuthorName>
+<Initials>PS</Initials>
+<FamilyName>Theocaris</FamilyName>
+</BibAuthorName>
+<Year>1969</Year>
+<BookTitle>Moire fringes in strain analysis</BookTitle>
+<PublisherName>Pergamon Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Theocaris PS (1969) Moire fringes in strain analysis. Pergamon Press, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR191">
+<BibArticle>
+<BibAuthorName>
+<Initials>BA</Initials>
+<FamilyName>Tozer</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Glanville</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AL</Initials>
+<FamilyName>Gordon</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>MJ</Initials>
+<FamilyName>Little</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JM</Initials>
+<FamilyName>Webster</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>DG</Initials>
+<FamilyName>Wright</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Holography applied to inspection and measurement in an industrial environment</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>746</FirstPage>
+<LastPage>753</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973570</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Tozer BA, Glanville R, Gordon AL, Little MJ, Webster JM, Wright DG (1985) Holography applied to inspection and measurement in an industrial environment. Optical Engineering 24(5):746–753</BibUnstructured>
+</Citation>
+<Citation ID="CR192">
+<BibUnstructured>Tsai R (1986) An efficient and accurate camera calibration technique for 3D machine vision. Proceedings Computer Vision Pattern Recognition Conference IEEE-CS:364–374</BibUnstructured>
+</Citation>
+<Citation ID="CR193">
+<BibBook>
+<BibAuthorName>
+<Initials>CM</Initials>
+<FamilyName>Vest</FamilyName>
+</BibAuthorName>
+<Year>1979</Year>
+<BookTitle>Holographic interferometry</BookTitle>
+<PublisherName>Wiley</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+<Occurrence Type="DOI">
+<Handle>10.1063/1.2995245</Handle>
+</Occurrence>
+</BibBook>
+<BibUnstructured>Vest CM (1979) Holographic interferometry. Wiley, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR194">
+<BibArticle>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Vuylsteke</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Oosterlinck</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">3D perception with a single binary coded illumination pattern</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>195</FirstPage>
+<LastPage>202</LastPage>
+</BibArticle>
+<BibUnstructured>Vuylsteke P, Oosterlinck A (1986) 3D perception with a single binary coded illumination pattern. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision, 728:195–202</BibUnstructured>
+</Citation>
+<Citation ID="CR195">
+<BibArticle>
+<BibAuthorName>
+<Initials>JW</Initials>
+<FamilyName>Wagner</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Heterodyne holographic interferometry for high-resolution 3D sensing</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>173</FirstPage>
+<LastPage>182</LastPage>
+</BibArticle>
+<BibUnstructured>Wagner JW (1986) Heterodyne holographic interferometry for high-resolution 3D sensing. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision, 728:173–182</BibUnstructured>
+</Citation>
+<Citation ID="CR196">
+<BibUnstructured>Wagner JF (June 1987) Sensors for dimensional measurement. Proceedings Vision'87 Conference, pp 13-1-13-18</BibUnstructured>
+</Citation>
+<Citation ID="CR197">
+<BibArticle>
+<BibAuthorName>
+<Initials>JY</Initials>
+<FamilyName>Wang</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Detection efficiency of coherent optical radar</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>23</VolumeID>
+<IssueID>19</IssueID>
+<FirstPage>3421</FirstPage>
+<LastPage>3427</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/AO.23.003421</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Wang JY (1984) Detection efficiency of coherent optical radar. Applied Optics 23(19):3421–3427</BibUnstructured>
+</Citation>
+<Citation ID="CR198">
+<BibArticle>
+<BibAuthorName>
+<Initials>JY</Initials>
+<FamilyName>Wang</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>BJ</Initials>
+<FamilyName>Bartholomew</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>ML</Initials>
+<FamilyName>Streiff</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>EF</Initials>
+<FamilyName>Starr</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Imaging CO<Subscript>2</Subscript> radar field tests</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>23</VolumeID>
+<IssueID>15</IssueID>
+<FirstPage>2565</FirstPage>
+<LastPage>2571</LastPage>
+</BibArticle>
+<BibUnstructured>Wang JY, Bartholomew BJ, Streiff ML, Starr EF (1984) Imaging CO<Subscript>2</Subscript> radar field tests. Applied Optics 23(15):2565–2571</BibUnstructured>
+</Citation>
+<Citation ID="CR199">
+<BibArticle>
+<BibAuthorName>
+<Initials>JY</Initials>
+<FamilyName>Wang</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Lidar signal fluctuations caused by beam translation and scan</ArticleTitle>
+<JournalTitle>Applied Optics</JournalTitle>
+<VolumeID>25</VolumeID>
+<IssueID>17</IssueID>
+<FirstPage>2878</FirstPage>
+<LastPage>2885</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/AO.25.002878</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Wang JY (1986) Lidar signal fluctuations caused by beam translation and scan. Applied Optics 25(17):2878–2885</BibUnstructured>
+</Citation>
+<Citation ID="CR200">
+<BibUnstructured>Wang YE, Mitiche A, Aggarwal JK (1985) Inferring local surface orientation with the aid of grid coding. IEEE Workshop on Computer Vision: Representation and Control: pp 96–104</BibUnstructured>
+</Citation>
+<Citation ID="CR201">
+<BibChapter>
+<BibAuthorName>
+<Initials>D</Initials>
+<FamilyName>Wei</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Gini</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ChapterTitle Language="En">The use of taper light beam for object recognition</ChapterTitle>
+<BibEditorName>
+<Initials>Robot</Initials>
+<FamilyName>Vision</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>R.</Initials>
+<FamilyName>Pugh</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>IFS Publications</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Wei D, Gini M (1983) The use of taper light beam for object recognition. In: Robot Vision, R. Pugh (Ed.), IFS Publications, Springer-Verlag, Berlin</BibUnstructured>
+</Citation>
+<Citation ID="CR202">
+<BibArticle>
+<BibAuthorName>
+<Initials>PM</Initials>
+<FamilyName>Will</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>KS</Initials>
+<FamilyName>Pennington</FamilyName>
+</BibAuthorName>
+<Year>1972</Year>
+<ArticleTitle Language="En">Grid coding: a novel technique for image processing</ArticleTitle>
+<JournalTitle>Proceedings IEEE</JournalTitle>
+<VolumeID>60</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>669</FirstPage>
+<LastPage>680</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/PROC.1972.8726</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Will PM, Pennington KS (1972) Grid coding: a novel technique for image processing. Proceedings IEEE 60(6):669–680</BibUnstructured>
+</Citation>
+<Citation ID="CR203">
+<BibArticle>
+<BibAuthorName>
+<Initials>JT</Initials>
+<FamilyName>Winthrop</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CR</Initials>
+<FamilyName>Worthington</FamilyName>
+</BibAuthorName>
+<Year>1965</Year>
+<ArticleTitle Language="En">Theory of fresnel images I. Plane periodic objects in monochromatic light</ArticleTitle>
+<JournalTitle>Journal of the Optical Society of America</JournalTitle>
+<VolumeID>55</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>373</FirstPage>
+<LastPage>381</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/JOSA.55.000373</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Winthrop JT, Worthington CR (1965) Theory of fresnel images I. Plane periodic objects in monochromatic light. Journal of the Optical Society of America 55(4):373–381</BibUnstructured>
+</Citation>
+<Citation ID="CR204">
+<BibArticle>
+<BibAuthorName>
+<Initials>RF</Initials>
+<FamilyName>Wuerker</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>DA</Initials>
+<FamilyName>Hill</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Holographic microscopy</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>3</IssueID>
+<FirstPage>480</FirstPage>
+<LastPage>484</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973511</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Wuerker RF, Hill DA (1985) Holographic microscopy. Optical Engineering 24(3):480–484</BibUnstructured>
+</Citation>
+<Citation ID="CR205">
+<BibUnstructured>Yamamoto H, Sato K, Inokuchi S (1986) Range imaging system based on binary image accumulation. Proceedings International Conference on Pattern Recognition IEEE:233–235</BibUnstructured>
+</Citation>
+<Citation ID="CR206">
+<BibArticle>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Yatagai</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Idesawa</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Yamaashi</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Suzuki</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Interactive fringe analysis system: Applications to moire contourogram and interferogram</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>21</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>901</FirstPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973001</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Yatagai T, Idesawa M, Yamaashi Y, Suzuki M (1982) Interactive fringe analysis system: Applications to moire contourogram and interferogram. Optical Engineering 21(5):901</BibUnstructured>
+</Citation>
+<Citation ID="CR207">
+<BibArticle>
+<BibAuthorName>
+<Initials>KK</Initials>
+<FamilyName>Yeung</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>PD</Initials>
+<FamilyName>Lawrence</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">A low-cost 3D vision system using space-encoded spot projections</ArticleTitle>
+<JournalTitle>Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision</JournalTitle>
+<VolumeID>728</VolumeID>
+<FirstPage>160</FirstPage>
+<LastPage>172</LastPage>
+</BibArticle>
+<BibUnstructured>Yeung KK, Lawrence PD (1986) A low-cost 3D vision system using space-encoded spot projections. Proceedings SPIE Conference on Optics, Illumination, and Image Sensing for Machine Vision, 728:160–172</BibUnstructured>
+</Citation>
+<Citation ID="CR208">
+<BibUnstructured>Zuk DM, Dell'Eva ML (1983) Three-dimensional vision system for the adaptive suspension vehicle. Final Report No. 170400-3-F, ERIM, DARPA 4468, Defense Supply Service-Washington</BibUnstructured>
+</Citation>
+</Bibliography>
+</ArticleBackmatter>
+</Article>
+</Issue>
+</Volume>
+</Journal>
+</Publisher>

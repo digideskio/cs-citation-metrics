@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>The Chinese Society of Oceanography</PublisherName>
+    <PublisherLocation>Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>13131</JournalID>
+      <JournalPrintISSN>0253-505X</JournalPrintISSN>
+      <JournalElectronicISSN>1869-1099</JournalElectronicISSN>
+      <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Oceanol. Sin.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Earth Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Engineering Fluid Dynamics</JournalSubject>
+        <JournalSubject Type="Secondary">Ecology</JournalSubject>
+        <JournalSubject Type="Secondary">Climate Change</JournalSubject>
+        <JournalSubject Type="Secondary">Oceanography</JournalSubject>
+        <JournalSubject Type="Secondary">Marine &amp; Freshwater Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Environmental Chemistry</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>31</VolumeIDStart>
+        <VolumeIDEnd>31</VolumeIDEnd>
+        <VolumeIssueCount>6</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>15</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>4</Month>
+              <Day>13</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>3</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13131-012-0187-y" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>187</ArticleID>
+            <ArticleDOI>10.1007/s13131-012-0187-y</ArticleDOI>
+            <ArticleSequenceNumber>2</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Reconstructing the upper ocean thermal profiles using one-dimensional numerical model</ArticleTitle>
+            <ArticleFirstPage>9</ArticleFirstPage>
+            <ArticleLastPage>15</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+              </Received>
+              <Accepted>
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2 Aff3" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Zhenhua</GivenName>
+                  <FamilyName>Lin</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>linzhenhuaouc@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Dongliang</GivenName>
+                  <FamilyName>Zhao</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jinbao</GivenName>
+                  <FamilyName>Song</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Institute of Oceanology</OrgDivision>
+                <OrgName>Chinese Academy of Sciences</OrgName>
+                <OrgAddress>
+                  <City>Qingdao</City>
+                  <Postcode>266071</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Key Laboratory of Chinese Academy of Sciences for Ocean Circulation and Waves (KLOCAW), Institute of Oceanology</OrgDivision>
+                <OrgName>Chinese Academy of Sciences</OrgName>
+                <OrgAddress>
+                  <City>Qingdao</City>
+                  <Postcode>266071</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>College of Physical and Environment Oceanography</OrgDivision>
+                <OrgName>Ocean University of China</OrgName>
+                <OrgAddress>
+                  <City>Qingdao</City>
+                  <Postcode>266100</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>The observation data for 5 d at a station in the South China Sea is presented. After brief analysis of the wind speed, air temperature from the ship-borne meteorological instruments and temperature and salinity profiles from the CTD (conductivity, temperature, depth recorder) data, the authors find that the CTD casts are too sparse for us to understand the diurnal evolution of the thermal structure in the upper ocean. A one-dimensional (1D) numerical code based on Mellor-Yamada turbulence closure model is used to reconstruct the upper ocean thermal structure, utilizing the atmospheric forcing data from ship-borne weather station. The simulation results show good agreement with the observational data; the significance of breaking waves is also briefly discussed. The evolution of turbulence kinetic energy (TKE) and the contribution from shear production and buoyancy production are discussed respectively. Finally, several possible factors which might influence the numerical results are briefly analyzed.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>thermal profile</Keyword>
+              <Keyword>one-dimensional numerical model</Keyword>
+              <Keyword>upper ocean</Keyword>
+              <Keyword>turbulence kinetic energy</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Foundation item: The National Basic Research Program of China under contract Nos 2011CB403501 and 2009CB421201; the National Natural Science Foundation of China under contract Nos 41176016 and 41076007.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/13131_2012_Article_187.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K. E.</Initials>
+                    <FamilyName>Brainerd</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. C.</Initials>
+                    <FamilyName>Gregg</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Diurnal restratification and turbulence in the oceanic surface mixed layer: 1. Observations</ArticleTitle>
+                  <JournalTitle>J Geophys Res</JournalTitle>
+                  <VolumeID>98</VolumeID>
+                  <FirstPage>22645</FirstPage>
+                  <LastPage>22656</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/93JC02297</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Brainerd K E, Gregg M C. 1993. Diurnal restratification and turbulence in the oceanic surface mixed layer: 1. Observations. J Geophys Res, 98: 22645–22656</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Burchard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Karsten</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Comparative analysis of four second-moment turbulence closure models for the oceanic mixed layer</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>1943</FirstPage>
+                  <LastPage>1968</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(2001)031&lt;1943:CAOFSM&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Burchard H, Bolding Karsten. 2001. Comparative analysis of four second-moment turbulence closure models for the oceanic mixed layer. J Phys Oceanogr, 31: 1943–1968</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Burchard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O.</Initials>
+                    <FamilyName>Petersen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T. P.</Initials>
+                    <FamilyName>Rippeth</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Comparing the performance of the Mellor-Yamada and the <Emphasis Type="Italic">κ - ω</Emphasis> two-equation turbulence models</ArticleTitle>
+                  <JournalTitle>J Geophys Res</JournalTitle>
+                  <VolumeID>103</VolumeID>
+                  <IssueID>C5</IssueID>
+                  <FirstPage>10543</FirstPage>
+                  <LastPage>10554</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/98JC00261</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Burchard H, Petersen O, Rippeth T P. 1998. Comparing the performance of the Mellor-Yamada and the <Emphasis Type="Italic">κ - ω</Emphasis> two-equation turbulence models. J Geophys Res, 103(C5): 10543–10554</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D. R.</Initials>
+                    <FamilyName>Caldwell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.-C.</Initials>
+                    <FamilyName>Lien</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. N.</Initials>
+                    <FamilyName>Moum</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Turbulence decay and restratification in the equatorial ocean surface layer following nighttime convection</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>1120</FirstPage>
+                  <LastPage>1132</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1997)027&lt;1120:TDARIT&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Caldwell D R, Lien R-C, Moum J N, et al. 1997. Turbulence decay and restratification in the equatorial ocean surface layer following nighttime convection. J Phys Oceanogr, 27: 1120–1132</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Craig Peter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Banner Michael</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Modeling wave-enhanced turbulence in the ocean surface layer</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>2546</FirstPage>
+                  <LastPage>2559</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1994)024&lt;2546:MWETIT&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Craig Peter D, Banner Michael L. 1994. Modeling wave-enhanced turbulence in the ocean surface layer. J Phys Oceanogr, 24: 2546–2559</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R. E.</Initials>
+                    <FamilyName>Davis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Szoeke</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Niiler</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">Variability in the upper ocean during MILE: Part II. Modeling the mixed layer response</ArticleTitle>
+                  <JournalTitle>Deep-Sea Research: Part A</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <IssueID>12</IssueID>
+                  <FirstPage>1453</FirstPage>
+                  <LastPage>1475</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0198-0149(81)90092-3</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Davis R E, de Szoeke R, Niiler P. 1981. Variability in the upper ocean during MILE: Part II. Modeling the mixed layer response. Deep-Sea Research: Part A, 28(12): 1453–1475</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V. E.</Initials>
+                    <FamilyName>Delnore</FamilyName>
+                  </BibAuthorName>
+                  <Year>1972</Year>
+                  <ArticleTitle Language="En">Diurnal variations of temperature and energy budget for the ocean mixed layer during BOMEX</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <FirstPage>239</FirstPage>
+                  <LastPage>247</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1972)002&lt;0239:DVOTAE&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Delnore V E. 1972. Diurnal variations of temperature and energy budget for the ocean mixed layer during BOMEX. J Phys Oceanogr, 2: 239–247</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K. L.</Initials>
+                    <FamilyName>Denman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1973</Year>
+                  <ArticleTitle Language="En">A time-dependent model of the upper ocean</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>173</FirstPage>
+                  <LastPage>184</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1973)003&lt;0173:ATDMOT&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Denman K L. 1973. A time-dependent model of the upper ocean. J Phys Oceanogr, 3: 173–184</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E. J.</Initials>
+                    <FamilyName>Hopfinger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P. F.</Initials>
+                    <FamilyName>Linden</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">Formation of thermoclines in zero-mean-shear turbulence subjected to a stabilizing buoyancy flux</ArticleTitle>
+                  <JournalTitle>J Fluid Mech</JournalTitle>
+                  <VolumeID>114</VolumeID>
+                  <FirstPage>157</FirstPage>
+                  <LastPage>173</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1017/S0022112082000081</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hopfinger E J, Linden P F. 1982. Formation of thermoclines in zero-mean-shear turbulence subjected to a stabilizing buoyancy flux. J Fluid Mech, 114: 157–173</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L. H.</Initials>
+                    <FamilyName>Kantha</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. R.</Initials>
+                    <FamilyName>Long</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Turbulent mixing with stabilizing surface buoyancy flux</ArticleTitle>
+                  <JournalTitle>Phys Fluids</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <FirstPage>2142</FirstPage>
+                  <LastPage>2143</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.862870</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kantha L H, Long R R. 1980. Turbulent mixing with stabilizing surface buoyancy flux. Phys Fluids, 23: 2142–2143</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <BibUnstructured>Kraus E B. 1988. Merits and demerits of different approaches to mixed layer modelling. In: Nihoul J C J, Jamart B M, eds. Small-Scale Turbulence and Mixing in the Ocean. Elsevier, 37–50</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E. B.</Initials>
+                    <FamilyName>Kraus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. S.</Initials>
+                    <FamilyName>Turner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1967</Year>
+                  <ArticleTitle Language="En">A one-dimensional model of the seasonal thermocline: II. The general theory and its consequences</ArticleTitle>
+                  <JournalTitle>Tellus</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>98</FirstPage>
+                  <LastPage>106</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.2153-3490.1967.tb01462.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kraus E B, Turner J S. 1967. A one-dimensional model of the seasonal thermocline: II. The general theory and its consequences. Tellus, 19: 98–106</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N. V.</Initials>
+                    <FamilyName>Kudryavtsev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. V.</Initials>
+                    <FamilyName>Soloviev</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Slippery nearsurface layer of the ocean arising due to daytime solar heating</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>617</FirstPage>
+                  <LastPage>628</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1990)020&lt;0617:SNSLOT&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kudryavtsev N V, Soloviev A V. 1990. Slippery nearsurface layer of the ocean arising due to daytime solar heating. J Phys Oceanogr, 20: 617–628</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G. L.</Initials>
+                    <FamilyName>Mellor</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Yamada</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">Development of a turbulence closure model for geophysical fluid problems</ArticleTitle>
+                  <JournalTitle>Rev Geophys</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>851</FirstPage>
+                  <LastPage>875</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/RG020i004p00851</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mellor G L, Yamada T. 1982. Development of a turbulence closure model for geophysical fluid problems. Rev Geophys, 20(4): 851–875</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Noh</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Dynamics of diurnal thermocline formation in the oceanic mixed layer</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>2183</FirstPage>
+                  <LastPage>2195</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1996)026&lt;2183:DODTFI&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Noh Y. 1996. Dynamics of diurnal thermocline formation in the oceanic mixed layer. J Phys Oceanogr, 26: 2183–2195</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Noh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H. J. S.</Initials>
+                    <FamilyName>Fernando</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">A numerical study on the formation of a thermocline in shear-free turbulence</ArticleTitle>
+                  <JournalTitle>Phys Fluids</JournalTitle>
+                  <VolumeID>3A</VolumeID>
+                  <FirstPage>422</FirstPage>
+                  <LastPage>426</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1063/1.858098</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Noh Y, Fernando H J S. 1991. A numerical study on the formation of a thermocline in shear-free turbulence. Phys Fluids, 3A: 422–426</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Noh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Gahyun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Siegfried</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Formation of a diurnal thermocline in the ocean mixed layer simulated by LES</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>1244</FirstPage>
+                  <LastPage>1257</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/2008JPO4032.1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Noh Yign, Goh Gahyun, Raasch Siegfried, et al. 2009. Formation of a diurnal thermocline in the ocean mixed layer simulated by LES. J Phys Oceanogr, 39: 1244–1257</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Noh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. R.</Initials>
+                    <FamilyName>Long</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Turbulent mixing in a rotating, stratified fluid</ArticleTitle>
+                  <JournalTitle>Geophys Astrophys Fluid Dyn</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <FirstPage>125</FirstPage>
+                  <LastPage>143</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/03091929008208925</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Noh Y, Long R R. 1990. Turbulent mixing in a rotating, stratified fluid. Geophys Astrophys Fluid Dyn, 53: 125–143</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. F.</Initials>
+                    <FamilyName>Price</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. A.</Initials>
+                    <FamilyName>Weller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Pinkel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">Diurnal cycling: observations and models of the upper ocean response to diurnal heating, cooling, and wind mixing</ArticleTitle>
+                  <JournalTitle>J Geophys Res</JournalTitle>
+                  <VolumeID>91</VolumeID>
+                  <IssueID>C7</IssueID>
+                  <FirstPage>8411</FirstPage>
+                  <LastPage>8427</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/JC091iC07p08411</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Price J F, Weller R A, Pinkel R. 1986. Diurnal cycling: observations and models of the upper ocean response to diurnal heating, cooling, and wind mixing. J Geophys Res, 91(C7): 8411–8427</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Stommel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Saunders</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Simmons</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1969</Year>
+                  <ArticleTitle Language="En">Observation of the diurnal thermocline</ArticleTitle>
+                  <JournalTitle>Deep-Sea Res</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>269</FirstPage>
+                  <LastPage>284</LastPage>
+                </BibArticle>
+                <BibUnstructured>Stommel H, Saunders K, Simmons W, et al. 1969. Observation of the diurnal thermocline. Deep-Sea Res, 16: 269–284</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Q.</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Guan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Jinbao.</Initials>
+                    <FamilyName>Song</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Wave breaking on turbulent energy budget in the ocean surface mixed layer</ArticleTitle>
+                  <JournalTitle>Chinese Journal of Oceanology and Limnology</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>9</FirstPage>
+                  <LastPage>13</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00343-008-0009-4</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sun Qun, Guan Changlong, Song Jinbao. 2008. Wave breaking on turbulent energy budget in the ocean surface mixed layer. Chinese Journal of Oceanology and Limnology, 26(1): 9–13</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Umlauf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Burchard</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A generic length-scale equation for geophysical turbulence models</ArticleTitle>
+                  <JournalTitle>J Mar Res</JournalTitle>
+                  <VolumeID>61</VolumeID>
+                  <FirstPage>235</FirstPage>
+                  <LastPage>265</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1357/002224003322005087</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Umlauf L, Burchard H. 2003. A generic length-scale equation for geophysical turbulence models. J Mar Res, 61: 235–265</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Umlauf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Burchard</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Second-order turbulence closure models for geophysical boundary layers: a review of recent work</ArticleTitle>
+                  <JournalTitle>Cont Shelf Res</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <FirstPage>795</FirstPage>
+                  <LastPage>827</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.csr.2004.08.004</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Umlauf L, Burchard H. 2005. Second-order turbulence closure models for geophysical boundary layers: a review of recent work. Cont Shelf Res, 25: 795–827</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. D.</Initials>
+                    <FamilyName>Woods</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Barkmann</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">The response of the upper ocean to solar heating: I. The mixed layer</ArticleTitle>
+                  <JournalTitle>Quart J Roy Meteor Soc</JournalTitle>
+                  <VolumeID>112</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>27</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/qj.49711247102</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Woods J D, Barkmann W. 1986. The response of the upper ocean to solar heating: I. The mixed layer. Quart J Roy Meteor Soc, 112: 1–27</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+</PublisherInfo>
+<Journal>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>138</JournalID>
+<JournalPrintISSN>0932-8092</JournalPrintISSN>
+<JournalElectronicISSN>1432-1769</JournalElectronicISSN>
+<JournalTitle>Machine Vision and Applications</JournalTitle>
+<JournalSubTitle>An International Journal</JournalSubTitle>
+<JournalAbbreviatedTitle>Machine Vis. Apps.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing</JournalSubject>
+        <JournalSubject Type="Secondary">Communications Engineering, Networks</JournalSubject>
+      </JournalSubjectGroup>
+</JournalInfo>
+<Volume>
+<VolumeInfo VolumeType="Regular" TocLevels="0">
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<Issue IssueType="Regular">
+<IssueInfo TocLevels="0">
+<IssueIDStart>3</IssueIDStart>
+<IssueIDEnd>3</IssueIDEnd>
+<IssueArticleCount>7</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<DateString>1988</DateString>
+<Year>1988</Year>
+<Month>9</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>Springer-Verlag</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<Article ID="Art2">
+<ArticleInfo Language="En" ArticleType="OriginalPaper" NumberingStyle="Unnumbered" TocLevels="0" ContainsESM="No">
+<ArticleID>BF01213003</ArticleID>
+<ArticleDOI>10.1007/BF01213003</ArticleDOI>
+<ArticleSequenceNumber>2</ArticleSequenceNumber>
+<ArticleTitle Language="En">Ash line control</ArticleTitle>
+<ArticleFirstPage>163</ArticleFirstPage>
+<ArticleLastPage>168</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>2005</Year>
+<Month>2</Month>
+<Day>8</Day>
+</RegistrationDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>Springer-Verlag</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+<ArticleContext>
+<JournalID>138</JournalID>
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<IssueIDStart>3</IssueIDStart>
+<IssueIDEnd>3</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<ArticleHeader>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Ola</GivenName>
+<FamilyName>Dahl</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Lars</GivenName>
+<FamilyName>Nielsen</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgDivision>Department of Automatic Control</OrgDivision>
+<OrgName>Lund Institute of Technology</OrgName>
+<OrgAddress>
+<Postbox>Box 118</Postbox>
+<Postcode>S-221 00</Postcode>
+<City>Lund</City>
+<Country>Sweden</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<Abstract ID="Abs1" Language="En">
+<Heading>Abstract</Heading>
+<Para>For efficient firing in sloping grate bark furnaces, it is important to control the ash line position on the grate. The ash line is the border between burning fuel and fuel which is burned out (ash). Here, the problem of detecting the ash line with an image processing system is treated. The presentation of trend curves to the operator is of special interest. The process is slow and trend curves provide a memory that will assist the operator to improve the manual control of the process. In future development it may be possible to close the loop. An algorithm for detection of the ash line is presented. It is an optimization method where the position of the ash line is computed by maximizing a criterion. The criterion is tailored for the application and maximized by dynamic programming. The goal has been to obtain an algorithm suitable for implementation on a small personal computer. The algorithm has been tested on images taken from a videotape, showing the interior of an industrial bark furnace. Experimental results show that the algorithm can be used for the generation of trend curves.</Para>
+</Abstract>
+<KeywordGroup Language="En">
+<Heading>Key words</Heading>
+<Keyword>image processing</Keyword>
+<Keyword>ash line</Keyword>
+<Keyword>trend curves</Keyword>
+<Keyword>dynamic programming</Keyword>
+</KeywordGroup>
+</ArticleHeader>
+<BodyRef FileRef="BodyRef/PDF/138_2005_Article_BF01213003.pdf" TargetType="PDF"/>
+<ArticleBackmatter>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<BibBook>
+<BibAuthorName>
+<Initials>DH</Initials>
+<FamilyName>Ballard</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CM</Initials>
+<FamilyName>Brown</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<BookTitle>Computer vision</BookTitle>
+<PublisherName>Prentice-Hall, Inc.</PublisherName>
+<PublisherLocation>Englewood Cliffs, New Jersey</PublisherLocation>
+<FirstPage>137</FirstPage>
+<LastPage>143</LastPage>
+</BibBook>
+<BibUnstructured>Ballard, DH and Brown, CM (1982) Computer vision, Prentice-Hall, Inc., Englewood Cliffs, New Jersey, pp 137–143</BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<BibChapter>
+<BibAuthorName>
+<Initials>O</Initials>
+<FamilyName>Dahl</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ChapterTitle Language="En">Image processing techniques for ash line detection</ChapterTitle>
+<BookTitle>Masters thesis CODEN: LUTFD2/TFRT-5328</BookTitle>
+<PublisherName>Department of Automatic Control, Lund Institute of Technology</PublisherName>
+<PublisherLocation>Lund, Sweden</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Dahl, O (1985) Image processing techniques for ash line detection, Masters thesis CODEN: LUTFD2/TFRT-5328, Department of Automatic Control, Lund Institute of Technology, Lund, Sweden</BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<BibUnstructured>Dahl, O and Nielsen, L (1986) Ash line control, 1st IFAC Workshop on Digital Image Processing in Industrial Applications, Vision Control, Helsinki, Finland, June 10–12, 1986</BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<BibChapter>
+<BibAuthorName>
+<Initials>L</Initials>
+<FamilyName>Nielsen</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ChapterTitle Language="En">Simplifications in visual servoing</ChapterTitle>
+<BookTitle>PhD thesis CODEN: LUTFD2/TFRT-1027</BookTitle>
+<PublisherName>Department of Automatic Control, Lund Institute of Technology</PublisherName>
+<PublisherLocation>Lund, Sweden</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Nielsen, L (1985) Simplifications in visual servoing, PhD thesis CODEN: LUTFD2/TFRT-1027, Department of Automatic Control, Lund Institute of Technology, Lund, Sweden</BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<BibUnstructured>Nielsen, L (1986) A visual servo, 1st IFAC Workshop on Digital Image Processing in Industrial Applications, Vision Control, Helsinki, Finland, June 10–12, 1986</BibUnstructured>
+</Citation>
+<Citation ID="CR6">
+<BibUnstructured>Nielsen, L (1988) Automated guidance of vehicles using vision and projective invariant marking, To appear in Automatica, March 1988</BibUnstructured>
+</Citation>
+<Citation ID="CR7">
+<BibBook>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Rosenfeld</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AC</Initials>
+<FamilyName>Kak</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<BookTitle>Digital picture processing</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Rosenfeld, A and Kak, AC (1982) Digital picture processing, Academic Press, New York</BibUnstructured>
+</Citation>
+</Bibliography>
+</ArticleBackmatter>
+</Article>
+</Issue>
+</Volume>
+</Journal>
+</Publisher>

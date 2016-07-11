@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>The Chinese Society for Metals</PublisherName>
+    <PublisherLocation>Heidelberg</PublisherLocation>
+    <PublisherImprintName>The Chinese Society for Metals, co-published with Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>40195</JournalID>
+      <JournalPrintISSN>1006-7191</JournalPrintISSN>
+      <JournalElectronicISSN>2194-1289</JournalElectronicISSN>
+      <JournalTitle>Acta Metallurgica Sinica (English Letters)</JournalTitle>
+      <JournalAbbreviatedTitle>ACTA METALL SIN</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCZ" Type="Primary">Material Science</JournalSubject>
+        <JournalSubject Code="SCZ16000" Priority="1" Type="Secondary">Metallic Materials</JournalSubject>
+        <JournalSubject Code="SCC11020" Priority="2" Type="Secondary">Spectroscopy/Spectrometry</JournalSubject>
+        <JournalSubject Code="SCC19020" Priority="3" Type="Secondary">Organometallic Chemistry</JournalSubject>
+        <JournalSubject Code="SCZ15000" Priority="4" Type="Secondary">Tribology, Corrosion and Coatings</JournalSubject>
+        <JournalSubject Code="SCZ14000" Priority="5" Type="Secondary">Nanotechnology</JournalSubject>
+        <JournalSubject Code="SCZ17000" Priority="6" Type="Secondary">Characterization and Evaluation of Materials</JournalSubject>
+        <SubjectCollection Code="SC5">Chemistry and Materials Science</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>26</VolumeIDStart>
+        <VolumeIDEnd>26</VolumeIDEnd>
+        <VolumeIssueCount>6</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>20</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2013</Year>
+              <Month>5</Month>
+              <Day>15</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2013</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2013</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Chinese Society for Metals and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2013</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s40195-012-0175-4" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>175</ArticleID>
+            <ArticleDOI>10.1007/s40195-012-0175-4</ArticleDOI>
+            <ArticleSequenceNumber>6</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Simulation of metal transfer in GMAW based on FLUENT</ArticleTitle>
+            <ArticleFirstPage>265</ArticleFirstPage>
+            <ArticleLastPage>270</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+              </Received>
+              <Revised>
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>9</Day>
+              </Revised>
+              <OnlineDate>
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Chinese Society for Metals and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2013</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1175">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Xueping</GivenName>
+                  <FamilyName>Ding</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1175">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Huan</GivenName>
+                  <FamilyName>Li</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1175" CorrespondingAffiliationID="Aff1175">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Lijun</GivenName>
+                  <FamilyName>Yang</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>+ 86 22 27406261</Phone>
+                  <Fax>+86 022 27404724</Fax>
+                  <Email>yljabc@tju.edu.cn</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2175">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ying</GivenName>
+                  <FamilyName>Gao</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1175">
+                <OrgDivision>Tianjin Key Laboratory of Advanced Joining Technology</OrgDivision>
+                <OrgName>Tianjin University</OrgName>
+                <OrgAddress>
+                  <City>Tianjin</City>
+                  <Postcode>300072</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2175">
+                <OrgDivision>Tianjin Key Laboratory of High Speed Cutting and Precision Machining</OrgDivision>
+                <OrgName>Tianjin University of Technology and Education</OrgName>
+                <OrgAddress>
+                  <City>Tianjin</City>
+                  <Postcode>300222</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>A new numerical approach is presented, which is used to simulate the dynamic process of metal transfer. The process of metal transfer in gas metal arc welding is simulated based on FLUENT. A two-dimensional axisymmetric numerical model is developed using volume of fluid method and the distributions of physical quantities including pressure, current density, electric potential in the droplet are investigated. For improving the veracity of the simulated results and decreasing the effect of the uncertain surface tension coefficient on the simulated results, the relationship between the welding current and surface tension coefficient is modified by analysis of regression. Meanwhile for testing the accuracy of simulated results, the welding experiments are performed and the high-speed photography system is used to record the real process of metal transfer. The results show that the simulated results are in reasonably good agreement with the experimental ones.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key Words</Heading>
+              <Keyword>Metal transfer</Keyword>
+              <Keyword>FLUENT</Keyword>
+              <Keyword>Dynamic simulation</Keyword>
+              <Keyword>High-speed photography</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/40195_2012_Article_175.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>[1]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Scotti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Ponomarev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Lucas</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Mater. Process. Technol.</JournalTitle>
+                  <VolumeID>212</VolumeID>
+                  <FirstPage>1406</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jmatprotec.2012.01.021</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC38Xkt1Ors70%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. Scotti, V. Ponomarev and W. Lucas, J. Mater. Process. Technol. <Emphasis Type="Bold">212</Emphasis> (2012) 1406.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>[2]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YS</Initials>
+                    <FamilyName>Kim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Eagar</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Weld. J.</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>269</FirstPage>
+                </BibArticle>
+                <BibUnstructured>Y.S. Kim and T.W. Eagar, Weld. J. <Emphasis Type="Bold">72</Emphasis> (1993) 269.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>[3]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SK</Initials>
+                    <FamilyName>Choi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JY</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Yoo</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Weld. J.</JournalTitle>
+                  <VolumeID>80</VolumeID>
+                  <FirstPage>239</FirstPage>
+                </BibArticle>
+                <BibUnstructured>S.K. Choi, J.Y. Lee and C.D. Yoo, Weld. J. <Emphasis Type="Bold">80</Emphasis> (2001) 239.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>[4]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Arif</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Yoo</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. D</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>195503</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0022-3727/41/19/195503</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>N. Arif, J.H. Lee, and C.D. Yoo, J. Phys. D <Emphasis Type="Bold">41</Emphasis> (2008) 195503.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>[5]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Arif</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Yoo</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. D</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>035504</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0022-3727/42/3/035504</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>N. Arif, J.H. Lee, and C.D. Yoo, J. Phys. D <Emphasis Type="Bold">42</Emphasis> (2009) 035504.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>[6]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Choi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Yoo</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. D</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>2658</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0022-3727/34/17/313</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXmvV2msLg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J.H. Choi, J. Lee, and C.D. Yoo, J. Phys. D <Emphasis Type="Bold">34</Emphasis> (2001) 2658.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>[7]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Jones</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Eagar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Lang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. D</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>107</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0022-3727/31/1/014</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXlsVCrtw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>L.A. Jones, T.W. Eagar and J.H. Lang, J. Phys. D <Emphasis Type="Bold">31</Emphasis> (1998) 107.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>[8]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CS</Initials>
+                    <FamilyName>Wu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SK</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Comput. Mater. Sci.</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>147</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.commatsci.2004.02.002</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C.S. Wu, M.A. Chen and S.K. Li, Comput. Mater. Sci. <Emphasis Type="Bold">31</Emphasis> (2004) 147.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>[9]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CS</Initials>
+                    <FamilyName>Wu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SK</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YM</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Sci. Technol. Weld. Join.</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>10</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1179/174329306X131848</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M.A. Chen, C.S. Wu, S.K. Li and Y.M. Zhang, Sci. Technol. Weld. Join. <Emphasis Type="Bold">12</Emphasis> (2007) 10.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>[10]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Ersoy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Kannatey-Asibu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SJ</Initials>
+                    <FamilyName>Hu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Manuf. Sci. Eng.-Trans. ASME</JournalTitle>
+                  <VolumeID>130</VolumeID>
+                  <FirstPage>061009</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1115/1.3006317</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>U. Ersoy, E. Kannatey-Asibu, S.J. Hu, J. Manuf. Sci. Eng.-Trans. ASME <Emphasis Type="Bold">130</Emphasis> (2008) 061009.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>[11]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SW</Initials>
+                    <FamilyName>Simpson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Sci. Technol. Weld. Join.</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>262</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1179/136217109X406901</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3cXht1Khurk%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S.W. Simpson, Sci. Technol. Weld. Join. <Emphasis Type="Bold">14</Emphasis> (2009) 262.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>[12]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>ZH</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Liao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HL</Initials>
+                    <FamilyName>Tsai</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Appl. Phys.</JournalTitle>
+                  <VolumeID>107</VolumeID>
+                  <FirstPage>044902</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.3291121</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Z.H. Rao, S.M. Liao and H.L. Tsai, J. Appl. Phys. <Emphasis Type="Bold">107</Emphasis> (2010) 044902.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>[13]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BYB</Initials>
+                    <FamilyName>Yudodibroto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MJM</Initials>
+                    <FamilyName>Hermans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Hirata</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Ouden</FamilyName>
+                    <Particle>den</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>IM</Initials>
+                    <FamilyName>Richardson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Sci. Technol. Weld. Join.</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>308</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1179/174329306X101409</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>B.Y.B. Yudodibroto, M.J.M. Hermans, Y. Hirata, G. den Ouden and I.M. Richardson, Sci. Technol. Weld. Join. <Emphasis Type="Bold">11</Emphasis> (2006) 308.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>[14]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SK</Initials>
+                    <FamilyName>Choi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Yoo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y-S</Initials>
+                    <FamilyName>Kim</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. D</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>207</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0022-3727/31/2/006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXmvVWlsw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S.K. Choi, C.D. Yoo and Y.-S. Kim, J. Phys. D <Emphasis Type="Bold">31</Emphasis> (1998) 207.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>[15]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Haidar</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. D</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>1233</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0022-3727/31/10/015</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXjsV2gtrw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. Haidar, J. Phys. D <Emphasis Type="Bold">31</Emphasis> (1998) 1233.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>[16]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Hu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HL</Initials>
+                    <FamilyName>Tsai</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. D</JournalTitle>
+                  <VolumeID>100</VolumeID>
+                  <FirstPage>053304</FirstPage>
+                </BibArticle>
+                <BibUnstructured>J. Hu and H.L. Tsai, J. Phys. D <Emphasis Type="Bold">100</Emphasis> (2006) 053304.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>[17]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Hu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HL</Initials>
+                    <FamilyName>Tsai</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Heat Transf.-Trans. ASME</JournalTitle>
+                  <VolumeID>129</VolumeID>
+                  <FirstPage>1025</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1115/1.2724847</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2sXpsFajtL4%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. Hu and H.L. Tsai, J. Heat Transf.-Trans. ASME <Emphasis Type="Bold">129</Emphasis> (2007) 1025.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>[18]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WK</Initials>
+                    <FamilyName>Hou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SJ</Initials>
+                    <FamilyName>Hu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Kannatey-Asibu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WW</Initials>
+                    <FamilyName>Schultz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PC</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. D</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <FirstPage>1143</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0022-3727/36/9/313</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXjvFOksbc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>F. Wang, W.K. Hou, S.J. Hu, E. Kannatey-Asibu, W.W. Schultz and P.C. Wang, J. Phys. D <Emphasis Type="Bold">36</Emphasis> (2003) 1143.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>[19]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>HG</Initials>
+                    <FamilyName>Fan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Kovacevic</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. D</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>2929</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0022-3727/31/20/029</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXnt1yjsLY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>H.G. Fan and R. Kovacevic, J. Phys. D <Emphasis Type="Bold">31</Emphasis> (1998) 2929.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>[20]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CS</Initials>
+                    <FamilyName>Wu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Lian</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Acta Metall. Sin.</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>1227</FirstPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXhtFajsLnN</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M.A. Chen, C.S. Wu and R. Lian, Acta Metall. Sin. <Emphasis Type="Bold">40</Emphasis> (2004) 1227 (in Chinese).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>[21]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Haidar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Lowke</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Phys. D</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>2951</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0022-3727/29/12/003</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK28Xns1aiurs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. Haidar and J.J. Lowke, J. Phys. D <Emphasis Type="Bold">29</Emphasis> (1996) 2951.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>[22]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TP</Initials>
+                    <FamilyName>Quinn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Szanto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Gilad</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Shai</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Sci. Technol. Weld. Join.</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>113</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1179/174329305X29492</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T.P. Quinn, M. Szanto, I. Gilad and I. Shai, Sci. Technol. Weld. Join. <Emphasis Type="Bold">10</Emphasis> (2005) 113.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>[23]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Xu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Hu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HL</Initials>
+                    <FamilyName>Tsai</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Int. J. Heat. Mass. Trans.</JournalTitle>
+                  <VolumeID>52</VolumeID>
+                  <FirstPage>1709</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijheatmasstransfer.2008.09.018</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD1MXhslygtro%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>G. Xu, J. Hu and H.L. Tsai, Int. J. Heat. Mass. Trans. <Emphasis Type="Bold">52</Emphasis> (2009) 1709.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>[24]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PG</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YM</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Metall. Mater. Trans. B</JournalTitle>
+                  <VolumeID>34B</VolumeID>
+                  <FirstPage>345</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11663-003-0080-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXksFGltL4%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>G. Wang, P.G. Huang, and Y.M. Zhang, Metall. Mater. Trans. B <Emphasis Type="Bold">34B</Emphasis> (2003) 345.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>[25]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>ZH</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Zhou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HL</Initials>
+                    <FamilyName>Tsai</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Int. J. Heat. Mass. Trans.</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>6651</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijheatmasstransfer.2012.06.074</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Z.H. Rao, J. Zhou and H.L. Tsai, Int. J. Heat. Mass. Trans. <Emphasis Type="Bold">55</Emphasis> (2012) 6651.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>[26]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Praveen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Kang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PKDV</Initials>
+                    <FamilyName>Yarlagadda</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Mater. Process. Technol.</JournalTitle>
+                  <VolumeID>201</VolumeID>
+                  <FirstPage>502</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jmatprotec.2007.11.226</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD1cXkslKisL8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>P. Praveen, M.J. Kang, P.K.D.V. Yarlagadda, J. Mater. Process. Technol. <Emphasis Type="Bold">201</Emphasis> (2008) 502.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>[27]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Semenov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Demchenko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Krivtsun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Reisgen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Mokrov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zabirov</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Model. Simul. Mater. Sci. Eng.</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>045003</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0965-0393/20/4/045003</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>O. Semenov, V. Demchenko, I. Krivtsun, U. Reisgen, O. Mokrov and A. Zabirov, Model. Simul. Mater. Sci. Eng. <Emphasis Type="Bold">20</Emphasis> (2012) 045003.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>[28]</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>JF</Initials>
+                    <FamilyName>Lancaster</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <BookTitle>The Physics of Welding</BookTitle>
+                  <PublisherName>Pergamon Press</PublisherName>
+                  <PublisherLocation>Oxford, England</PublisherLocation>
+                  <FirstPage>213</FirstPage>
+                </BibBook>
+                <BibUnstructured>J.F. Lancaster, The Physics of Welding, Pergamon Press, Oxford, England, 1983, p.213.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>[29]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CW</Initials>
+                    <FamilyName>Hirt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BD</Initials>
+                    <FamilyName>Nichols</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>J. Comput. Phys.</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>201</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0021-9991(81)90145-5</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C.W. Hirt and B.D. Nichols, J. Comput. Phys. <Emphasis Type="Bold">39</Emphasis> (1981) 201.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>[30]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Kadota</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Hirata</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <NoArticleTitle/>
+                  <JournalTitle>Weld. World.</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>50</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF03321320</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3MXhtlyjsb%2FP</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>K. Kadota and Y. Hirata, Weld. World. <Emphasis Type="Bold">55</Emphasis> (2011) 50.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,77 @@
+#Author: Neyaz Ahmad
+package PeerReview::openReturnFileData;
+use Exporter;
+our @ISA = qw(Exporter);
+our @EXPORT = qw(openFile writeFileData);
+my $boolValue = "True";
+#==================================================================================================================================
+sub errorFunction{
+  $boolValue = "False";
+  my $fileData = "";
+  return(\$fileData, $boolValue);
+}
+#==================================================================================================================================
+sub openFile{
+  my $filePath = shift;
+  my $fileData = "";
+  open(INFILE, "< $filePath") || &errorFunction;
+  undef $/;
+  $fileData = <INFILE>;
+  close(INFILE);
+  return(\$fileData, $boolValue);
+}
+#==================================================================================================================================
+sub writeFileData{
+  my $filePath=shift;
+  my $writeData=shift;
+  open(OUTFILE, "> $filePath") || return "False";
+  # binmode(OUTFILE, ":utf8");
+  print OUTFILE ${$writeData};
+  close(OUTFILE);
+  return $boolValue;
+}
+#==================================================================================================================================
+return 1;
+# # Author: Neyaz Ahmad
+# package PeerReview::openReturnFileData;
+# my $boolValue="True";
+# #==================================================================================================================================
+# sub openFile{
+#   my $filePath=shift;
+#   my $fileData="";
+#   eval{
+#     open(INFILE, "< $filePath") || die "Could not open for reading file\n";
+#     undef $/;
+#     $fileData=<INFILE>;
+#     close(INFILE);
+#   };
+#   if ($@){
+#     #use Win32;
+#     #Win32::MsgBox("Error in Opening file ($filePath). Please make sure that file is present.");
+#     print "\nError in Opening file ($filePath). Please make sure that file is present.\n";
+#     $boolValue="False";
+#     exit;
+#   }
+#   return (\$fileData, $boolValue);
+# }
+# #==================================================================================================================================
+# sub writeFileData{
+#   my $filePath=shift;
+#   my $writeData=shift;
+#   eval{
+#     open(OUTFILE, "> $filePath") || die "Could not open for write file: $!";
+#     # binmode(OUTFILE, ":utf8");
+#     print OUTFILE ${$writeData};
+#     close(OUTFILE);
+#   };
+#   if ($@){
+#     #use Win32;
+#     #Win32::MsgBox("Error in Writing file ($filePath). Please make sure that file is present.");
+#     print "Error in Writing file ($filePath). Please make sure that file is present.\n";
+#     $boolValue="False";
+#     exit;
+#   }
+#   return $boolValue;
+# }
+# #==================================================================================================================================
+# return 1;

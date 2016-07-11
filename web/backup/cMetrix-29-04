@@ -1,0 +1,290 @@
+#!/usr/bin/perl
+
+#============================================================================================================
+#Author: Neyaz Ahmad
+#Version=1.0
+#perl /etc/EXT/Citation_Metrics/web/cMetrix get -v -M GET /
+#perl /etc/EXT/Citation_Metrics/web/cMetrix get -v -M POST /eProofing?"Input_Type=XML&Key=IN4mJl11HTB3hvSdjTRGNS6gzychYyk9WvbSBCdfhkI&Input_File=/etc/EXT/Citation_Metrics/Input.105_2014_3530_Article.xml"
+
+#perl /etc/EXT/Citation_Metrics/web/cMetrix get -v -M POST /Status?"Token=3780e99a-fc2c-54e5-2c31-417f945c1792"
+
+ 
+#perl c:/Apache/htdocs/CitationMetrix/cMetrix.pl cgi
+#http://10.113.5.197:8080/cMetrix/eProofing
+#http://10.113.5.197:8080/cMetrix
+#============================================================================================================
+
+BEGIN{
+    $scriptLocation=$0;
+    if($scriptLocation!~/[\/\\]/){
+	use Cwd;
+	my $pwd = getcwd;
+	$pwd=~s/\//\//;
+	$scriptLocation="$pwd"."\/"."$scriptLocation";
+    }elsif($scriptLocation=~/^\.\/([^\/\\]+?)$/){
+	use Cwd;
+	my $pwd = getcwd;
+	$pwd=~s/\//\//;
+	$scriptLocation=~s/^\.\///;
+	$scriptLocation="$pwd"."\/"."$scriptLocation";
+    }
+    $scriptLocation=~s/\/([^\/\\]+?)$//;
+    my $moduleLocation=$scriptLocation;
+    $moduleLocation=~s/(^.*\/|^)([^\/\\]+?)$/$1Modules/;
+    unshift(@INC, "$moduleLocation");
+}
+
+use DateTime;
+our $currentTime=&GetDateTime;
+
+my $configLocation=$scriptLocation;
+$configLocation=~s/(^.*\/|^)([^\/\\]+?)$/$1Config\/app\.config/;
+
+
+my $Uuid_Token="";
+
+use Mojolicious::Lite;
+use Data::Dumper;
+use DBI;
+use UuidToken;
+use Net::RabbitFoot;
+
+
+##Get app.config file and retrun $config Hash   [syntax: $$config{"web.Upload_Location"}]
+use GetConfig;
+
+my $config=&get_config($configLocation);
+
+#_____________________________________________________________________________________________
+
+
+##Client Test
+get '/' => sub{
+  shift->render(template => 'client');
+};
+
+
+##Main Web Service
+post '/:Service_Type' => sub{
+  my $self=shift;
+
+  my %params=(Service_Type =>'', Input_Type=>'', Input_File=>'', File_Name=>'', DOI=>'',Key=>'', Status=>'', Token=>'');
+  foreach my $param (keys %params){
+      $params{$param} = $self->param("$param") if(defined $self->param("$param"));
+      #print "$param: $params{$param}\n";
+  }
+
+  # my $Service_Type= $self->param('Service_Type');
+  # my $Input_Type= $self->param('Input_Type');
+  # my $Input_File= $self->param('Input_File');
+  # my $DOI= $self->param('DOI');
+  # my $Key= $self->param('Key');
+  # my $Status= $self->param('Status');
+  # my $Token= $self->param('Token');
+  my $File_Name="";
+
+#----------
+  if($params{Service_Type}=~/^eProofing|DDS$/){
+
+      if($params{Service_Type}=~/^eProofing$/){
+	  eval {$params{File_Name} = $params{Input_File}->filename;}; warn $@ if $@;
+      }
+
+      unless ($params{Key}){
+	  $self->render(json => {status => "error", data => { message => "No API Key found"}});
+	  return undef;
+      }
+      unless ($config->{'ApiKey.user1'} eq $params{Key}){
+	  $self->render(json => {status => "error", data => { message => "No Valid API Key"}});
+	  return undef;
+      }
+      
+      unless ($params{Input_Type}){
+	  $self->render(json => {status => "error", data => { message => "No Input_Type define"}});
+	  return undef;
+      }
+      unless ($params{Input_Type}=~/xml|doi/i){
+	  $self->render(json => {status => "error", data => { message => "Invalid Input_Type"}});
+	  return undef;
+      }
+      
+      unless ($params{Input_File}){
+	  $self->render(json => {status => "error", data => { message => "No Input_File define"}});
+	  return undef;
+      }
+      unless ($params{File_Name}){
+        $self->render(json => {status => "error", data => { message => "No Input_File found"}});
+        return undef;
+      }
+      unless ($params{File_Name}=~/\.(xml|XML)$/){
+        $self->render(json => {status => "error", data => { message => "No xml file"}});
+        return undef;
+      }
+    
+ 
+  }elsif($params{Service_Type}=~/^Status$/){
+      unless ($params{Token}){
+	  $self->render(json => {status => "error", data => { message => "No Token found"}});
+	  return undef;
+      }
+  }else{
+      $self->render(json => {status => "error", data => { message => "No Service_Type found"}});
+      return undef;
+  }
+#------
+
+  if($params{Service_Type}=~/^eProofing|DDS$/){
+
+      $Uuid_Token=&Generate_Token;
+
+      $File_Name=&File_Upload($self, $config->{'web.Upload_Location'}, $Uuid_Token);
+   
+      &Save_Token($Uuid_Token, $File_Name);
+      
+      &Process_Queue($self, $File_Name);
+      $self->render(json => {status => "success", data => { token => "$Uuid_Token",  message => "Job in queue"}});
+
+  }elsif($params{Service_Type}=~/^Status$/){
+
+      my  $TokenStatus=&Check_Status($params{Token});
+      
+      if($$TokenStatus{RowCount} ne 0){
+	  if($$TokenStatus{Comments} eq "complited"){
+	      $self->render(json => {status => "success", data => { token => "$params{Token}", file => "$$TokenStatus{InputParameter}",  message => "Download File"}});
+	  }else{
+	      $self->render(json => {status => "success", data => { token => "$params{Token}", file => "$$TokenStatus{InputParameter}",  message => "$$TokenStatus{Comments}"}});
+	  }
+      }else{
+	  $self->render(json => {status => "error", data => { token => "$params{Token}", message => "No Token found"}});
+      }
+      
+  }
+
+};
+app->start;
+
+#========================================================================================================
+sub File_Upload{
+  my ($self, $upload_Location, $Uuid_Token)=@_;
+
+  # Check file size
+  return $self->render(json => {status => "error", data => { message => "File is too big"}})
+    if $self->req->is_limit_exceeded;
+
+  #Make Upload Dir
+  $upload_Location="$upload_Location\/$Uuid_Token";
+  eval{
+      if(!-e "$upload_Location"){
+	  mkdir $upload_Location;
+      }
+  }; warn $@ if $@;
+
+  # Process uploaded file
+  my $Input_File = $self->param('Input_File');
+
+  my $File_Name="";
+  eval {
+       $File_Name = $Input_File->filename;
+      my $upload = $self->req->upload('Input_File');
+      $upload->move_to("$upload_Location/$File_Name");
+      
+  }; warn $@ if $@;
+
+  return $File_Name;
+}
+#========================================================================================================
+sub Save_Token{
+    my $Uuid_Token=shift;
+    my $File_Name=shift;
+
+    my $dbh = dbConnect();
+   eval {
+       my $stmt = qq(INSERT INTO Citation_DB.RequestManager (TokenID,Start_Time,SMStatusID,InputParameter,comments)
+      VALUES ("$Uuid_Token", "$currentTime", "1", "$File_Name", "Job in queue"));
+       my $rv = $dbh->do($stmt) or die $DBI::errstr;
+   }; warn $@ if $@;
+    
+    $dbh->disconnect();
+}
+
+#========================================================================================================
+
+sub Check_Status{
+    my $Token=shift;
+    my %TokenStatus=();
+    
+    my $dbh = dbConnect();
+
+    eval {
+	my $sth = $dbh->prepare("SELECT * FROM Citation_DB.RequestManager where TokenId = \'\Q$Token\E\'");
+	$sth->execute() or die $DBI::errstr;
+	$TokenStatus{RowCount} = $sth->rows;
+	
+	if($TokenStatus{RowCount} ne 0){
+	    while (my @row = $sth->fetchrow_array()) {
+		#ID, TokenID, Start_Time, End_Time, SMStatusID, InputParameter, Comments
+		foreach(@row){
+		    $TokenStatus{"ID"}=$row[0];
+		    $TokenStatus{"TokenID"}=$row[1];
+		    $TokenStatus{"Start_Time"}=$row[2];
+		    $TokenStatus{"End_Time"}=$row[3];
+		    $TokenStatus{"SMStatusID"}=$row[4];
+		    $TokenStatus{"InputParameter"}=$row[5];
+		    $TokenStatus{"Comments"}=$row[6];
+		}
+	    }
+	}
+    }; warn $@ if $@;
+    
+    $dbh->disconnect();
+
+    return \%TokenStatus;
+}
+
+#===============================================
+sub Responce_Token{
+
+}
+
+#========================================================================================================
+sub Process_Queue{
+
+    my $self=shift;
+    my $File_Name=shift;
+ 
+    my $conn = Net::RabbitFoot->new()->load_xml_spec()->connect(
+	host => $config->{'RabbitMQ.host'},
+	port => $config->{'RabbitMQ.port'},
+	user => $config->{'RabbitMQ.user'},
+	pass => $config->{'RabbitMQ.pass'},
+	vhost => $config->{'RabbitMQ.vhost'},
+	);
+
+    my $chan = $conn->open_channel();
+
+    $chan->declare_queue(
+	queue => 'task_queue',
+	durable => 1,
+	);
+    
+    my $msg = join(' ', $File_Name) || "No File";
+    
+    $chan->publish(
+	exchange => '',
+	routing_key => 'task_queue',
+	body => $msg,
+	);
+    
+    $conn->close();
+}
+
+#========================================================================================================
+sub dbConnect {
+     my $dsn          = "DBI".":"."$config->{'Database.dbtype'}".":"."$config->{'Database.dbname'}";
+     my $db_user_name = "$config->{'Database.user_name'}";
+     my $db_password  = "$config->{'Database.password'}";
+     my $dbh = DBI->connect($dsn, $db_user_name, $db_password, { RaiseError => 1 })
+                       or die ("cannot connect to DB: $DBI::errstr\n");
+    return $dbh;
+}
+

@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+   <PublisherInfo>
+      <PublisherName>Springer Japan</PublisherName>
+      <PublisherLocation>Japan</PublisherLocation>
+   </PublisherInfo>
+   <Journal OutputMedium="Online">
+      <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+         <JournalID>10047</JournalID>
+         <JournalPrintISSN>1434-7229</JournalPrintISSN>
+         <JournalElectronicISSN>1619-0904</JournalElectronicISSN>
+         <JournalTitle>Journal of Artificial Organs</JournalTitle>
+         <JournalSubTitle>The Official Journal of the Japanese Society for Artificial Organs</JournalSubTitle>
+         <JournalAbbreviatedTitle>J Artif Organs</JournalAbbreviatedTitle>
+         <JournalSubjectGroup>
+            <JournalSubject Type="Primary">Medicine &amp; Public Health</JournalSubject>
+            <JournalSubject Type="Secondary">Hepatology </JournalSubject>
+            <JournalSubject Type="Secondary">Nephrology </JournalSubject>
+            <JournalSubject Type="Secondary">Orthopedics </JournalSubject>
+            <JournalSubject Type="Secondary">Biomedical Engineering</JournalSubject>
+            <JournalSubject Type="Secondary">Cardiac Surgery </JournalSubject>
+            <JournalSubject Type="Secondary">Surgery </JournalSubject>
+         </JournalSubjectGroup>
+      </JournalInfo>
+      <Volume OutputMedium="All">
+         <VolumeInfo TocLevels="0" VolumeType="Regular">
+            <VolumeIDStart>11</VolumeIDStart>
+            <VolumeIDEnd>11</VolumeIDEnd>
+            <VolumeIssueCount>4</VolumeIssueCount>
+         </VolumeInfo>
+         <Issue IssueType="Regular" OutputMedium="Online">
+            <IssueInfo IssueType="Regular" TocLevels="0">
+               <IssueIDStart>4</IssueIDStart>
+               <IssueIDEnd>4</IssueIDEnd>
+               <IssueArticleCount>12</IssueArticleCount>
+               <IssueHistory>
+                  <OnlineDate>
+                     <Year>2008</Year>
+                     <Month>12</Month>
+                     <Day>17</Day>
+                  </OnlineDate>
+                  <CoverDate>
+                     <Year>2008</Year>
+                     <Month>12</Month>
+                  </CoverDate>
+                  <PricelistYear>2008</PricelistYear>
+               </IssueHistory>
+               <IssueCopyright>
+                  <CopyrightHolderName>The Japanese Society for Artificial Organs</CopyrightHolderName>
+                  <CopyrightYear>2008</CopyrightYear>
+               </IssueCopyright>
+            </IssueInfo>
+            <Article ID="s10047-008-0434-3" OutputMedium="All">
+               <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+                  <ArticleID>434</ArticleID>
+                  <ArticleDOI>10.1007/s10047-008-0434-3</ArticleDOI>
+                  <ArticleSequenceNumber>4</ArticleSequenceNumber>
+                  <ArticleTitle Language="En">A nonpulsatile total artificial heart with 1/R control</ArticleTitle>
+                  <ArticleCategory>Original Article</ArticleCategory>
+                  <ArticleFirstPage>191</ArticleFirstPage>
+                  <ArticleLastPage>200</ArticleLastPage>
+                  <ArticleHistory>
+                     <RegistrationDate>
+                        <Year>2008</Year>
+                        <Month>12</Month>
+                        <Day>16</Day>
+                     </RegistrationDate>
+                     <Received>
+                        <Year>2008</Year>
+                        <Month>3</Month>
+                        <Day>6</Day>
+                     </Received>
+                     <Accepted>
+                        <Year>2008</Year>
+                        <Month>9</Month>
+                        <Day>24</Day>
+                     </Accepted>
+                     <OnlineDate>
+                        <Year>2008</Year>
+                        <Month>12</Month>
+                        <Day>17</Day>
+                     </OnlineDate>
+                  </ArticleHistory>
+                  <ArticleCopyright>
+                     <CopyrightHolderName>The Japanese Society for Artificial Organs</CopyrightHolderName>
+                     <CopyrightYear>2008</CopyrightYear>
+                  </ArticleCopyright>
+                  <ArticleGrants Type="Regular">
+                     <MetadataGrant Grant="OpenAccess"/>
+                     <AbstractGrant Grant="OpenAccess"/>
+                     <BodyPDFGrant Grant="Restricted"/>
+                     <BodyHTMLGrant Grant="Restricted"/>
+                     <BibliographyGrant Grant="Restricted"/>
+                     <ESMGrant Grant="Restricted"/>
+                  </ArticleGrants>
+               </ArticleInfo>
+               <ArticleHeader>
+                  <AuthorGroup>
+                     <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Yusuke</GivenName>
+                           <FamilyName>Abe</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Phone>+81-3-5841-3562</Phone>
+                           <Fax>+81-3-3811-3693</Fax>
+                           <Email>abe@bme.rcast.u-tokyo.ac.jp</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff2">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Itsuro</GivenName>
+                           <FamilyName>Saito</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Takashi</GivenName>
+                           <FamilyName>Isoyama</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff2">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Hidekazu</GivenName>
+                           <FamilyName>Miura</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Wei</GivenName>
+                           <FamilyName>Shi</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Sachiko</GivenName>
+                           <FamilyName>Yamaguchi</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Yusuke</GivenName>
+                           <FamilyName>Inoue</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff2">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Hidemoto</GivenName>
+                           <FamilyName>Nakagawa</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff3">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Minoru</GivenName>
+                           <FamilyName>Ono</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff4">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Ayumi</GivenName>
+                           <FamilyName>Kishi</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Toshiya</GivenName>
+                           <FamilyName>Ono</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Akimasa</GivenName>
+                           <FamilyName>Kouno</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff2">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Tsuneo</GivenName>
+                           <FamilyName>Chinzei</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff5">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Kou</GivenName>
+                           <FamilyName>Imachi</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Affiliation ID="Aff1">
+                        <OrgDivision>Department of Biomedical Engineering, Graduate School of Medicine</OrgDivision>
+                        <OrgName>The University of Tokyo</OrgName>
+                        <OrgAddress>
+                           <Street>7-3-1 Hongo, Bunkyo-ku</Street>
+                           <City>Tokyo</City>
+                           <Postcode>113-0033</Postcode>
+                           <Country Code="JP">Japan</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff2">
+                        <OrgDivision>Nakagawa Research Center for Advanced Science and Technology</OrgDivision>
+                        <OrgName>The University of Tokyo</OrgName>
+                        <OrgAddress>
+                           <City>Tokyo</City>
+                           <Country Code="JP">Japan</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff3">
+                        <OrgDivision>Department of Cardiovascular Surgery, Graduate School of Medicine</OrgDivision>
+                        <OrgName>The University of Tokyo</OrgName>
+                        <OrgAddress>
+                           <City>Tokyo</City>
+                           <Country Code="JP">Japan</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff4">
+                        <OrgDivision>Graduate School of Medical Science</OrgDivision>
+                        <OrgName>Kitasato University</OrgName>
+                        <OrgAddress>
+                           <City>Sagamihara</City>
+                           <Country Code="JP">Japan</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff5">
+                        <OrgName>Tohoku University Biomedical Engineering Organization</OrgName>
+                        <OrgAddress>
+                           <City>Sendai</City>
+                           <Country Code="JP">Japan</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                  </AuthorGroup>
+                  <Abstract ID="Abs1" Language="En">
+                     <Heading>Abstract</Heading>
+                     <Para>A total artificial heart (TAH) using continuous flow pumps is promising for size reduction of the device; however, the role of pulsatility in TAHs has been a subject of great debate. Additionally, it is unclear whether, in a nonpulsatile TAH, a physiological control method such as 1/R control can keep the experimental animal in good condition. To realize a nonpulsatile TAH with 1/R control, the artificial valves were removed from undulation pump total artificial hearts (UPTAHs), which can produce both pulsatile and nonpulsatile flows using a single device. The UPTAHs were implanted into 18 goats, and 4 goats survived for more than 1 month. Three weeks of long-term nonpulsatile TAH operation could be tested in the goat that survived for 72 days, and it was proved that 1/R control is possible not only with a pulsatile TAH but also with a nonpulsatile TAH. The general condition of the goat and its organ function did not change on the application of nonpulsatile mode. Cardiac output and arterial pressure changed with the condition of the goat in pulsatile and also in nonpulsatile modes, and the changes seemed almost identical. However, the sucking effect of the atria was very significant in nonpulsatile mode, resulting in hemolysis. Therefore, nonpulsatile TAHs under 1/R control are considered to be inadequate unless some pulsatility can be introduced to avoid fatal sucking effects and to ensure sufficient inflow. During nonpulsatile operation, regular fluctuations were sometimes found in the aortic pressure, and these were caused by the periodic sucking effect in the left atrium that was possibly influenced by respiratory changes.</Para>
+                  </Abstract>
+                  <KeywordGroup Language="En">
+                     <Heading>Key words</Heading>
+                     <Keyword>Nonpulsatile</Keyword>
+                     <Keyword>Total artificial heart</Keyword>
+                     <Keyword>Undulation pump</Keyword>
+                     <Keyword>1/R control</Keyword>
+                     <Keyword>Fluctuation</Keyword>
+                  </KeywordGroup>
+               </ArticleHeader>
+               <BodyRef TargetType="OnlinePDF" FileRef="BodyRef/PDF/10047_2008_Article_434.pdf"/>
+               <ArticleBackmatter>
+                  <Bibliography ID="Bib1">
+                     <Heading>References</Heading>
+                     <Citation ID="CR1">
+                        <CitationNumber>1.</CitationNumber>
+                        <BibChapter>
+                           <BibAuthorName>
+                              <Initials>I.</Initials>
+                              <FamilyName>Fujimasa</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imachi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>M.</Initials>
+                              <FamilyName>Nakajima</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Mabuchi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Tsukagoshi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A.</Initials>
+                              <FamilyName>Kouno</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Ono</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>N.</Initials>
+                              <FamilyName>Takido</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Motomura</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Chinzei</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Abe</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Atsumi</FamilyName>
+                           </BibAuthorName>
+                           <Year>1986</Year>
+                           <ChapterTitle Language="En">Pathophysiological study of a total artificial heart in a goat that survived for 344 days</ChapterTitle>
+                           <BibEditorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Nose</FamilyName>
+                           </BibEditorName>
+                           <BibEditorName>
+                              <Initials>C.</Initials>
+                              <FamilyName>Kjellstrand</FamilyName>
+                           </BibEditorName>
+                           <BibEditorName>
+                              <Initials>P.</Initials>
+                              <FamilyName>Ivanovich</FamilyName>
+                           </BibEditorName>
+                           <Eds/>
+                           <BookTitle>Progress in artificial organs — 1985</BookTitle>
+                           <PublisherName>ISAO Press</PublisherName>
+                           <PublisherLocation>Cleveland</PublisherLocation>
+                           <FirstPage>345</FirstPage>
+                           <LastPage>353</LastPage>
+                        </BibChapter>
+                        <BibUnstructured>Fujimasa I, Imachi K, Nakajima M, Mabuchi K, Tsukagoshi S, Kouno A, Ono T, Takido N, Motomura K, Chinzei T, Abe Y, Atsumi K. Pathophysiological study of a total artificial heart in a goat that survived for 344 days. In: Nose Y, Kjellstrand C, Ivanovich P (eds) Progress in artificial organs — 1985. Cleveland: ISAO Press, 1986;345–353</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR2">
+                        <CitationNumber>2.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>E.</Initials>
+                              <FamilyName>Hennig</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>C.</Initials>
+                              <FamilyName>Grosse-Siestrup</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>W.</Initials>
+                              <FamilyName>Krautzberger</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Kless</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>E.S.</Initials>
+                              <FamilyName>Bucherl</FamilyName>
+                           </BibAuthorName>
+                           <Year>1978</Year>
+                           <ArticleTitle Language="En">The relationship of cardiac output and venous pressure in long-surviving calves with total artificial hearts</ArticleTitle>
+                           <JournalTitle>Trans Am Soc Artif Intern Organs</JournalTitle>
+                           <VolumeID>24</VolumeID>
+                           <FirstPage>616</FirstPage>
+                           <LastPage>623</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>102063</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:CSaD2MjivFc%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Hennig E, Grosse-Siestrup C, Krautzberger W, Kless H, Bucherl ES. The relationship of cardiac output and venous pressure in long-surviving calves with total artificial hearts. Trans Am Soc Artif Intern Organs 1978;24:616–623</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR3">
+                        <CitationNumber>3.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Takatani</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Harasaki</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Koike</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>I.</Initials>
+                              <FamilyName>Yada</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>R.</Initials>
+                              <FamilyName>Yozu</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>L.</Initials>
+                              <FamilyName>Fujimoto</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Murabayashi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>G.</Initials>
+                              <FamilyName>Jacobs</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>R.</Initials>
+                              <FamilyName>Kiraly</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Nose</FamilyName>
+                           </BibAuthorName>
+                           <Year>1982</Year>
+                           <ArticleTitle Language="En">Optimum control mode for a total artificial heart</ArticleTitle>
+                           <JournalTitle>Trans Am Soc Artif Intern Organs</JournalTitle>
+                           <VolumeID>28</VolumeID>
+                           <FirstPage>148</FirstPage>
+                           <LastPage>153</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>7164232</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:BiyC2cjltFM%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Takatani S, Harasaki H, Koike S, Yada I, Yozu R, Fujimoto L, Murabayashi S, Jacobs G, Kiraly R, Nose Y. Optimum control mode for a total artificial heart. Trans Am Soc Artif Intern Organs 1982;28:148–153</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR4">
+                        <CitationNumber>4.</CitationNumber>
+                        <BibChapter>
+                           <BibAuthorName>
+                              <Initials>J.</Initials>
+                              <FamilyName>Vasku</FamilyName>
+                           </BibAuthorName>
+                           <Year>1992</Year>
+                           <ChapterTitle Language="En">Perspectives of total artificial heart research as a valuable modelling system for general physiology and pathophysiology</ChapterTitle>
+                           <BibEditorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Akutsu</FamilyName>
+                           </BibEditorName>
+                           <BibEditorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Koyanagi</FamilyName>
+                           </BibEditorName>
+                           <Eds/>
+                           <BookTitle>Heart replacement — artificial heart 4</BookTitle>
+                           <PublisherName>Springer-Verlag</PublisherName>
+                           <PublisherLocation>Tokyo</PublisherLocation>
+                           <FirstPage>161</FirstPage>
+                           <LastPage>171</LastPage>
+                        </BibChapter>
+                        <BibUnstructured>Vasku J. Perspectives of total artificial heart research as a valuable modelling system for general physiology and pathophysiology. In: Akutsu T, Koyanagi H (eds) Heart replacement — artificial heart 4. Tokyo: Springer-Verlag, 1992;161–171</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR5">
+                        <CitationNumber>5.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>A.J.</Initials>
+                              <FamilyName>Snyder</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>G.</Initials>
+                              <FamilyName>Rosenberg</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>J.</Initials>
+                              <FamilyName>Reibson</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>J.H.</Initials>
+                              <FamilyName>Donachy</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>G.A.</Initials>
+                              <FamilyName>Prophet</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>J.</Initials>
+                              <FamilyName>Arena</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>B.</Initials>
+                              <FamilyName>Daily</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>McGary</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>O.</Initials>
+                              <FamilyName>Kawaguchi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>R.</Initials>
+                              <FamilyName>Quinn</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>W.S.</Initials>
+                              <FamilyName>Pierce</FamilyName>
+                           </BibAuthorName>
+                           <Year>1992</Year>
+                           <ArticleTitle Language="En">An electrically powered total artificial heart; over 1 year survival in the calf</ArticleTitle>
+                           <JournalTitle>ASAIO J</JournalTitle>
+                           <VolumeID>38</VolumeID>
+                           <FirstPage>M707</FirstPage>
+                           <LastPage>712</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>1457954</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1097/00002480-199207000-00130</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:ByyD1M7ktVc%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Snyder AJ, Rosenberg G, Reibson J, Donachy JH, Prophet GA, Arena J, Daily B, McGary S, Kawaguchi O, Quinn R, Pierce WS. An electrically powered total artificial heart; over 1 year survival in the calf. ASAIO J 1992;38:M707–712</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR6">
+                        <CitationNumber>6.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Abe</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Chinzei</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Mabuchi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A.J.</Initials>
+                              <FamilyName>Snyder</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Isoyama</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imanishi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Yonezawa</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Matsuura</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A.</Initials>
+                              <FamilyName>Kouno</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Ono</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Atsumi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>I.</Initials>
+                              <FamilyName>Fujimasa</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imachi</FamilyName>
+                           </BibAuthorName>
+                           <Year>1998</Year>
+                           <ArticleTitle Language="En">Physiological control of a total artificial heart: conductance- and arterial pressure-based control</ArticleTitle>
+                           <JournalTitle>J Appl Physiol</JournalTitle>
+                           <VolumeID>84</VolumeID>
+                           <FirstPage>868</FirstPage>
+                           <LastPage>876</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>9480945</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:DyaK1c7kvFyhug%3D%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Abe Y, Chinzei T, Mabuchi K, Snyder AJ, Isoyama T, Imanishi K, Yonezawa T, Matsuura H, Kouno A, Ono T, Atsumi K, Fujimasa I, Imachi K. Physiological control of a total artificial heart: conductance- and arterial pressure-based control. J Appl Physiol 1998;84:868–876</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR7">
+                        <CitationNumber>7.</CitationNumber>
+                        <BibChapter>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Abe</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Chinzei</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Mabuchi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Isoyama</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Baba</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Matsuura</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A.</Initials>
+                              <FamilyName>Kouno</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Ono</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Mochizuki</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Y.P.</Initials>
+                              <FamilyName>Sun</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imanishi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Atsumi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>I.</Initials>
+                              <FamilyName>Fujimasa</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imachi</FamilyName>
+                           </BibAuthorName>
+                           <Year>1998</Year>
+                           <ChapterTitle Language="En">Over 500 days of survival of a total artificial heart goat with 1/R control</ChapterTitle>
+                           <BibEditorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Akutsu</FamilyName>
+                           </BibEditorName>
+                           <BibEditorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Koyanagi</FamilyName>
+                           </BibEditorName>
+                           <Eds/>
+                           <BookTitle>Heart replacement — artificial heart 6</BookTitle>
+                           <PublisherName>Springer-Verlag</PublisherName>
+                           <PublisherLocation>Tokyo</PublisherLocation>
+                           <FirstPage>34</FirstPage>
+                           <LastPage>40</LastPage>
+                        </BibChapter>
+                        <BibUnstructured>Abe Y, Chinzei T, Mabuchi K, Isoyama T, Baba K, Matsuura H, Kouno A, Ono T, Mochizuki S, Sun YP, Imanishi K, Atsumi K, Fujimasa I, Imachi K. Over 500 days of survival of a total artificial heart goat with 1/R control. In: Akutsu T, Koyanagi H (eds) Heart replacement — artificial heart 6. Tokyo: Springer-Verlag, 1998;34–40</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR8">
+                        <CitationNumber>8.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>O.H.</Initials>
+                              <FamilyName>Frazier</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>N.A.</Initials>
+                              <FamilyName>Shah</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.J.</Initials>
+                              <FamilyName>Myers</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.D.</Initials>
+                              <FamilyName>Robertson</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>I.D.</Initials>
+                              <FamilyName>Gregoric</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>R.</Initials>
+                              <FamilyName>Delgado</FamilyName>
+                           </BibAuthorName>
+                           <Year>2004</Year>
+                           <ArticleTitle Language="En">Use of the Flowmaker (Jarvik 2000) left ventricular assist device for destination therapy and bridging to transplantation</ArticleTitle>
+                           <JournalTitle>Cardiology</JournalTitle>
+                           <VolumeID>101</VolumeID>
+                           <FirstPage>111</FirstPage>
+                           <LastPage>116</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>14988632</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1159/000075991</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:DC%2BD2c%2FpslGgsA%3D%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Frazier OH, Shah NA, Myers TJ, Robertson KD, Gregoric ID, Delgado R. Use of the Flowmaker (Jarvik 2000) left ventricular assist device for destination therapy and bridging to transplantation. Cardiology 2004;101:111–116</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR9">
+                        <CitationNumber>9.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>T.R.</Initials>
+                              <FamilyName>Maher</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.C.</Initials>
+                              <FamilyName>Butler</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>V.L.</Initials>
+                              <FamilyName>Poirier</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>D.B.</Initials>
+                              <FamilyName>Gernes</FamilyName>
+                           </BibAuthorName>
+                           <Year>2001</Year>
+                           <ArticleTitle Language="En">HeartMate left ventricular assist devices: a multigeneration of implanted blood pumps</ArticleTitle>
+                           <JournalTitle>Artif Organs</JournalTitle>
+                           <VolumeID>25</VolumeID>
+                           <FirstPage>422</FirstPage>
+                           <LastPage>426</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>11403676</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1046/j.1525-1594.2001.06756.x</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:DC%2BD3MzjsF2mtw%3D%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Maher TR, Butler KC, Poirier VL, Gernes DB. HeartMate left ventricular assist devices: a multigeneration of implanted blood pumps. Artif Organs 2001;25:422–426</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR10">
+                        <CitationNumber>10.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>M.K.</Initials>
+                              <FamilyName>Chung</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>N.</Initials>
+                              <FamilyName>Zhang</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>G.D.</Initials>
+                              <FamilyName>Tansley</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Qian</FamilyName>
+                           </BibAuthorName>
+                           <Year>2004</Year>
+                           <ArticleTitle Language="En">Experimental determination of dynamic characteristics of the VentrAssist implantable rotary blood pump</ArticleTitle>
+                           <JournalTitle>Artif Organs</JournalTitle>
+                           <VolumeID>28</VolumeID>
+                           <FirstPage>1089</FirstPage>
+                           <LastPage>1094</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>15554937</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1111/j.1525-1594.2004.07348.x</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Chung MK, Zhang N, Tansley GD, Qian Y. Experimental determination of dynamic characteristics of the VentrAssist implantable rotary blood pump. Artif Organs 2004;28:1089–1094</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR11">
+                        <CitationNumber>11.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>C.</Initials>
+                              <FamilyName>Nojiri</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Kijima</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>J.</Initials>
+                              <FamilyName>Maekawa</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Horiuchi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Kido</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Sugiyama</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Mori</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>N.</Initials>
+                              <FamilyName>Sugiura</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Asada</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>W.</Initials>
+                              <FamilyName>Umemura</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Ozaki</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>M.</Initials>
+                              <FamilyName>Suzuki</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Akamatsu</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Westaby</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Katsumata</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Saito</FamilyName>
+                           </BibAuthorName>
+                           <Year>2001</Year>
+                           <ArticleTitle Language="En">Development status of Terumo implantable left ventricular assist system</ArticleTitle>
+                           <JournalTitle>Artif Organs</JournalTitle>
+                           <VolumeID>25</VolumeID>
+                           <FirstPage>411</FirstPage>
+                           <LastPage>413</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>11403674</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1046/j.1525-1594.2001.025005411.x</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:DC%2BD3MzjsF2msQ%3D%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Nojiri C, Kijima T, Maekawa J, Horiuchi K, Kido T, Sugiyama T, Mori T, Sugiura N, Asada T, Umemura W, Ozaki T, Suzuki M, Akamatsu T, Westaby S, Katsumata T, Saito S. Development status of Terumo implantable left ventricular assist system. Artif Organs 2001;25:411–413</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR12">
+                        <CitationNumber>12.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Yamazaki</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Kihara</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Akimoto</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>O.</Initials>
+                              <FamilyName>Tagusari</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A.</Initials>
+                              <FamilyName>Kawai</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>M.</Initials>
+                              <FamilyName>Umezu</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>J.</Initials>
+                              <FamilyName>Tomioka</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>R.L.</Initials>
+                              <FamilyName>Kormos</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>B.P.</Initials>
+                              <FamilyName>Griffith</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Kurosawa</FamilyName>
+                           </BibAuthorName>
+                           <Year>2002</Year>
+                           <ArticleTitle Language="En">EVAHEART: an implantable centrifugal blood pump for long-term circulatory support</ArticleTitle>
+                           <JournalTitle>Jpn J Thorac Cardiovasc Surg</JournalTitle>
+                           <VolumeID>50</VolumeID>
+                           <FirstPage>461</FirstPage>
+                           <LastPage>465</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>12478865</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1007/BF02919636</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Yamazaki K, Kihara S, Akimoto T, Tagusari O, Kawai A, Umezu M, Tomioka J, Kormos RL, Griffith BP, Kurosawa H. EVAHEART: an implantable centrifugal blood pump for long-term circulatory support. Jpn J Thorac Cardiovasc Surg 2002;50:461–465</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR13">
+                        <CitationNumber>13.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>A.</Initials>
+                              <FamilyName>Baba</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>P.</Initials>
+                              <FamilyName>Dobsak</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>I.</Initials>
+                              <FamilyName>Saito</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Isoyama</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Takiura</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Abe</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Chinzei</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>J.</Initials>
+                              <FamilyName>Vasku</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imachi</FamilyName>
+                           </BibAuthorName>
+                           <Year>2004</Year>
+                           <ArticleTitle Language="En">Microcirculation of the bulbar conjunctiva in the goat implanted with a total artificial heart: effects of pulsatile and nonpulsatile flow</ArticleTitle>
+                           <JournalTitle>ASAIO J</JournalTitle>
+                           <VolumeID>50</VolumeID>
+                           <FirstPage>321</FirstPage>
+                           <LastPage>327</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>15307541</Handle>
+                           </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1097/01.MAT.0000129320.57362.db</Handle>
+</Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Baba A, Dobsak P, Saito I, Isoyama T, Takiura K, Abe Y, Chinzei T, Vasku J, Imachi K. Microcirculation of the bulbar conjunctiva in the goat implanted with a total artificial heart: effects of pulsatile and nonpulsatile flow. ASAIO J 2004;50:321–327</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR14">
+                        <CitationNumber>14.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>L.R.</Initials>
+                              <FamilyName>Golding</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>G.</Initials>
+                              <FamilyName>Jacobs</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Murakami</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Takatani</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>F.</Initials>
+                              <FamilyName>Valdes</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Harasaki</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Nose</FamilyName>
+                           </BibAuthorName>
+                           <Year>1980</Year>
+                           <ArticleTitle Language="En">Chronic nonpulsatile blood flow in an alive, awake animal: 34-day survival</ArticleTitle>
+                           <JournalTitle>ASAIO Trans</JournalTitle>
+                           <VolumeID>26</VolumeID>
+                           <FirstPage>251</FirstPage>
+                           <LastPage>255</LastPage>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:Bi6B38jksVM%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Golding LR, Jacobs G, Murakami T, Takatani S, Valdes F, Harasaki H, Nose Y. Chronic nonpulsatile blood flow in an alive, awake animal: 34-day survival. ASAIO Trans 1980;26:251–255</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR15">
+                        <CitationNumber>15.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>O.H.</Initials>
+                              <FamilyName>Frazier</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>E.</Initials>
+                              <FamilyName>Tuzun</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>W.E.</Initials>
+                              <FamilyName>Cohn</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>J.L.</Initials>
+                              <FamilyName>Conger</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.A.</Initials>
+                              <FamilyName>Kadipasaoglu</FamilyName>
+                           </BibAuthorName>
+                           <Year>2006</Year>
+                           <ArticleTitle Language="En">Total heart replacement using dual intracorporeal continuous-flow pumps in a chronic bovine model: a feasibility study</ArticleTitle>
+                           <JournalTitle>ASAIO J</JournalTitle>
+                           <VolumeID>52</VolumeID>
+                           <FirstPage>145</FirstPage>
+                           <LastPage>149</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>16557099</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1097/01.mat.0000196827.61241.07</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:DC%2BD283kslWltw%3D%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Frazier OH, Tuzun E, Cohn WE, Conger JL, Kadipasaoglu KA. Total heart replacement using dual intracorporeal continuous-flow pumps in a chronic bovine model: a feasibility study. ASAIO J 2006;52:145–149</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR16">
+                        <CitationNumber>16.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Abe</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Chinzei</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Isoyama</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Ono</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Mabuchi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imanishi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A.</Initials>
+                              <FamilyName>Kouno</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Atsumi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>I.</Initials>
+                              <FamilyName>Fujimasa</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imachi</FamilyName>
+                           </BibAuthorName>
+                           <Year>1995</Year>
+                           <ArticleTitle Language="En">Basic study to develop the undulation pump for practical use: antithrombogenicity, hemolysis, and flow patterns inside the pump</ArticleTitle>
+                           <JournalTitle>Artif Organs</JournalTitle>
+                           <VolumeID>19</VolumeID>
+                           <FirstPage>691</FirstPage>
+                           <LastPage>693</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>8572975</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1111/j.1525-1594.1995.tb02404.x</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:BymC2s%2FpvVY%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Abe Y, Chinzei T, Isoyama T, Ono T, Mabuchi K, Imanishi K, Kouno A, Atsumi K, Fujimasa I, Imachi K. Basic study to develop the undulation pump for practical use: antithrombogenicity, hemolysis, and flow patterns inside the pump. Artif Organs 1995;19:691–693</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR17">
+                        <CitationNumber>17.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Abe</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Chinzei</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Isoyama</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Ono</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Mochizuki</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Mabuchi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Baba</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Matsuura</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Y.P.</Initials>
+                              <FamilyName>Sun</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Kouno</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Atsumi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>I.</Initials>
+                              <FamilyName>Fujimasa</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imachi</FamilyName>
+                           </BibAuthorName>
+                           <Year>1997</Year>
+                           <ArticleTitle Language="En">Development of the undulation pump total artificial heart</ArticleTitle>
+                           <JournalTitle>Artif Organs</JournalTitle>
+                           <VolumeID>21</VolumeID>
+                           <FirstPage>665</FirstPage>
+                           <LastPage>669</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>9212936</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1111/j.1525-1594.1997.tb03719.x</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:ByiA2MnltVQ%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Abe Y, Chinzei T, Isoyama T, Ono T, Mochizuki S, Mabuchi K, Baba K, Matsuura H, Sun YP, Kouno K, Atsumi K, Fujimasa I, Imachi K. Development of the undulation pump total artificial heart. Artif Organs 1997;21:665–669</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR18">
+                        <CitationNumber>18.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Abe</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Isoyama</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>I.</Initials>
+                              <FamilyName>Saito</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Mochizuki</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>M.</Initials>
+                              <FamilyName>Ono</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Nakagawa</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>N.</Initials>
+                              <FamilyName>Taniguchi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>N.</Initials>
+                              <FamilyName>Mitsumune</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A.</Initials>
+                              <FamilyName>Sugino</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>M.</Initials>
+                              <FamilyName>Mitsui</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Takiura</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Ono</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A.</Initials>
+                              <FamilyName>Kouno</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Chinzei</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Takamoto</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imachi</FamilyName>
+                           </BibAuthorName>
+                           <Year>2007</Year>
+                           <ArticleTitle Language="En">Development of mechanical circulatory support device at the university of Tokyo</ArticleTitle>
+                           <JournalTitle>J Artif Organs</JournalTitle>
+                           <VolumeID>10</VolumeID>
+                           <FirstPage>60</FirstPage>
+                           <LastPage>70</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>17574507</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1007/s10047-006-0368-6</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Abe Y, Isoyama T, Saito I, Mochizuki S, Ono M, Nakagawa H, Taniguchi N, Mitsumune N, Sugino A, Mitsui M, Takiura K, Ono T, Kouno A, Chinzei T, Takamoto S, Imachi K. Development of mechanical circulatory support device at the university of Tokyo. J Artif Organs 2007;10:60–70</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR19">
+                        <CitationNumber>19.</CitationNumber>
+                        <BibChapter>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imachi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Mabuchi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Chinzei</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Abe</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Imanishi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Yonezawa</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Nozawa</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Isoyama</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A.</Initials>
+                              <FamilyName>Kouno</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Ono</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Atsumi</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>F.</Initials>
+                              <FamilyName>Iwao</FamilyName>
+                           </BibAuthorName>
+                           <Year>1993</Year>
+                           <ChapterTitle Language="En">The jellyfish valve: a polymer membrane valve for the artificial heart</ChapterTitle>
+                           <BibEditorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Akutsu</FamilyName>
+                           </BibEditorName>
+                           <BibEditorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Koyanagi</FamilyName>
+                           </BibEditorName>
+                           <Eds/>
+                           <BookTitle>Heart replacement — artificial heart 4</BookTitle>
+                           <PublisherName>Springer-Verlag</PublisherName>
+                           <PublisherLocation>Tokyo</PublisherLocation>
+                           <FirstPage>41</FirstPage>
+                           <LastPage>44</LastPage>
+                        </BibChapter>
+                        <BibUnstructured>Imachi K, Mabuchi K, Chinzei T, Abe Y, Imanishi K, Yonezawa T, Nozawa H, Isoyama T, Kouno A, Ono T, Atsumi K, Iwao F. The jellyfish valve: a polymer membrane valve for the artificial heart. In: Akutsu T, Koyanagi H (eds) Heart replacement — artificial heart 4. Tokyo: Springer-Verlag, 1993;41–44</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR20">
+                        <CitationNumber>20.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Nose</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Kawahito</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Nakazawa</FamilyName>
+                           </BibAuthorName>
+                           <Year>1996</Year>
+                           <ArticleTitle Language="En">Can we develop a nonpulsatile permanent rotary blood pump? Yes, we can</ArticleTitle>
+                           <JournalTitle>Artif Organs</JournalTitle>
+                           <VolumeID>20</VolumeID>
+                           <FirstPage>467</FirstPage>
+                           <LastPage>474</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>8817941</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1111/j.1525-1594.1996.tb04466.x</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:BymH3MvpsVQ%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Nose Y, Kawahito K, Nakazawa T. Can we develop a nonpulsatile permanent rotary blood pump? Yes, we can. Artif Organs 1996;20:467–474</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR21">
+                        <CitationNumber>21.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>T.</Initials>
+                              <FamilyName>Tsutui</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Nose</FamilyName>
+                           </BibAuthorName>
+                           <Year>1986</Year>
+                           <ArticleTitle Language="En">Arterial pressure pulsation during nonpulsatile biventricular bypass experiments: possible idioperipheral pulsation</ArticleTitle>
+                           <JournalTitle>Artif Organs</JournalTitle>
+                           <VolumeID>10</VolumeID>
+                           <FirstPage>153</FirstPage>
+                           <LastPage>155</LastPage>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1111/j.1525-1594.1986.tb02534.x</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Tsutui T, Nose Y. Arterial pressure pulsation during nonpulsatile biventricular bypass experiments: possible idioperipheral pulsation. Artif Organs 1986;10:153–155</BibUnstructured>
+                     </Citation>
+                  </Bibliography>
+               </ArticleBackmatter>
+            </Article>
+         </Issue>
+      </Volume>
+   </Journal>
+</Publisher>

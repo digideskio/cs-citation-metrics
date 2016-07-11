@@ -1,0 +1,2893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>6</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art23">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>72475</ArticleID>
+            <ArticleDOI>10.1208/aapsj070248</ArticleDOI>
+            <ArticleSequenceNumber>23</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Population pharmacokinetic studies in pediatrics: Issues in design and analysis</ArticleTitle>
+            <ArticleFirstPage>E475</ArticleFirstPage>
+            <ArticleLastPage>E487</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+              </Received>
+              <Accepted>
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>2</IssueIDStart>
+              <IssueIDEnd>2</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Bernd</GivenName>
+                  <FamilyName>Meibohm</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>(901) 448-1206</Phone>
+                  <Fax>(901) 448-6940</Fax>
+                  <Email>bmeibohm@utmem.edu</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Stephanie</GivenName>
+                  <FamilyName>Läer</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>John</GivenName>
+                  <GivenName>C.</GivenName>
+                  <FamilyName>Panetta</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff4">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jeffrey</GivenName>
+                  <GivenName>S.</GivenName>
+                  <FamilyName>Barrett</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Pharmaceutical Sciences, College of Pharmacy</OrgDivision>
+                <OrgName>The University of Tennessee Health Science Center</OrgName>
+                <OrgAddress>
+                  <Postcode>38163</Postcode>
+                  <City>Memphis</City>
+                  <State>TN</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Clinical Pharmacy and Pharmacotherapy, School of Pharmacy</OrgDivision>
+                <OrgName>Heinrich-Heine University</OrgName>
+                <OrgAddress>
+                  <Postcode>40225</Postcode>
+                  <City>Düsseldorf</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>Department of Pharmaceutical Sciences</OrgDivision>
+                <OrgName>St. Jude Children's Research Hospital</OrgName>
+                <OrgAddress>
+                  <Postcode>38105</Postcode>
+                  <City>Memphis</City>
+                  <State>TN</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff4">
+                <OrgDivision>Laboratory of Applied PK/PD, Clinical Pharmacology and Therapeutics Division</OrgDivision>
+                <OrgName>The Children's Hospital of Philadelphia</OrgName>
+                <OrgAddress>
+                  <Postcode>19104</Postcode>
+                  <City>Philadelphia</City>
+                  <State>PA</State>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>The current review addresses the following 3 frequently encountered challenges in the design and analysis of population pharmacokinetic studies in pediatrics: (1) body size adjustments during the development of pharmacostatistical models, (2) design and validation of limited sampling strategies, and (3) the integration of historical priors in data analysis and trial simulation. Size adjustments with empiric approaches based on body weight or body surface area have frequently proven as a pragmatic tool to overcome large size differences in a pediatric study population. Allometric size adjustments, however, provide a more mechanistic, physiologically based approach that, if used a priori, allows delineation of the effect of size from that of other covariates that show a high degree of collinearity. The frequent lack of dense data sets in pediatric clinical pharmacology because of ethical and logistic constraints in study design can be overcome with the application of D-optimality-based limited sampling schemes in combination with Bayesian and nonlinear mixed-effects modeling approaches. Empirically based dose selection and clinical trial designs for pediatric clinical pharmacology studies can be improved by applying clinical trial simulation techniques, especially if they integrate adult and pediatric in vitro and/or in vivo data as historic priors. Although integration of these concepts and techniques in population pharmacokinetic analyses is not only limited to pediatric research, their application allows researchers to overcome some major hurdles frequently encountered in pharmacokinetic studies in pediatrics and, thus, provides the basis for additional clinical pharmacology research in this previously insufficiently studied fraction of the general population.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>population pharmacokinetics</Keyword>
+              <Keyword>pediatrics</Keyword>
+              <Keyword>body size</Keyword>
+              <Keyword>sparse sampling</Keyword>
+              <Keyword>clinical trial simulation</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: October 5, 2005</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_72475.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TH</Initials>
+                    <FamilyName>Grasela</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Rambeck</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1983</Year>
+                  <ArticleTitle Language="En">Steady-state pharmacokinetics of phenytoin from routinely collected patient data</ArticleTitle>
+                  <JournalTitle>Clin Pharmacokinet</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>355</FirstPage>
+                  <LastPage>364</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6617043</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2165/00003088-198308040-00006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2c%2FgtlSktQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Grasela TH, Sheiner LB, Rambeck B, et al. Steady-state pharmacokinetics of phenytoin from routinely collected patient data.<Emphasis Type="Italic">Clin Pharmacokinet</Emphasis>. 1983;8:355–364.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TH</Initials>
+                    <FamilyName>Grasela</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Donn</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Neonatal population pharmacokinetics of phenobarbital derived from routine clinical data</ArticleTitle>
+                  <JournalTitle>Dev Pharmacol Ther</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>374</FirstPage>
+                  <LastPage>383</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>4075936</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Grasela TH Jr, Donn SM. Neonatal population pharmacokinetics of phenobarbital derived from routine clinical data.<Emphasis Type="Italic">Dev Pharmacol Ther</Emphasis>. 1985;8:374–383.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AW</Initials>
+                    <FamilyName>Kelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AH</Initials>
+                    <FamilyName>Thomson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Whiting</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Estimation of gentamicin elearance and volume of distribution in neonates and young children</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>685</FirstPage>
+                  <LastPage>692</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6508978</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2M%2Fnt1Ojtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kelman AW, Thomson AH, Whiting B, et al. Estimation of gentamicin elearance and volume of distribution in neonates and young children.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 1984;18:685–692.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Roberts</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Rodriguez</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Murphy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Crescenzi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Pediatric drug labeling: improving the safety and efficacy of pediatric therapies</ArticleTitle>
+                  <JournalTitle>JAMA</JournalTitle>
+                  <VolumeID>290</VolumeID>
+                  <FirstPage>905</FirstPage>
+                  <LastPage>911</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12928467</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/jama.290.7.905</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Roberts R, Rodriguez W, Murphy D, Crescenzi T. Pediatric drug labeling: improving the safety and efficacy of pediatric therapies.<Emphasis Type="Italic">JAMA</Emphasis>. 2003;290:905–911.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibBook>
+                  <InstitutionalAuthorName>CDER/FDA</InstitutionalAuthorName>
+                  <Year>1998</Year>
+                  <BookTitle>General Considerations for Pediatric Pharmacokinetic Studies for Drugs and Biological Products—Draft Guidance</BookTitle>
+                  <PublisherName>Food and Drug Administration, Center for Drug Evaluation and Research</PublisherName>
+                  <PublisherLocation>Rockville</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>CDER/FDA. General Considerations for Pediatric Pharmacokinetic Studies for Drugs and Biological Products—Draft Guidance. Rockville: Food and Drug Administration, Center for Drug Evaluation and Research, 1998.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Rajagopalan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MR</Initials>
+                    <FamilyName>Gastonguay</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics of ciprofloxacin in pediatric patients</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>698</FirstPage>
+                  <LastPage>710</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12856383</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXlvFWqs7g%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1177/0091270003254802</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rajagopalan P, Gastonguay MR. Population pharmacokinetics of ciprofloxacin in pediatric patients.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 2003;43:698–710.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Chatelut</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AV</Initials>
+                    <FamilyName>Boddy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Peng</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics of carboplatin in children</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>59</VolumeID>
+                  <FirstPage>436</FirstPage>
+                  <LastPage>443</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8612389</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0009-9236(96)90113-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK28XjtVyrt7o%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chatelut E, Boddy AV, Peng B, et al. Population pharmacokinetics of carboplatin in children.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 1996;59:436–443.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Ludden</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetic modeling: the importance of informative graphics</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>1845</FirstPage>
+                  <LastPage>1855</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8786955</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1016215116835</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK28Xis1yqsQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ette EI, Ludden TM. Population pharmacokinetic modeling: the importance of informative graphics.<Emphasis Type="Italic">Pharm Res</Emphasis>. 1995;12:1845–1855.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Williams</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Fadiran</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FO</Initials>
+                    <FamilyName>Ajayi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LC</Initials>
+                    <FamilyName>Onyiah</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">The process of knowledge discovery from large pharmacokinetic data sets</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>25</FirstPage>
+                  <LastPage>34</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11144991</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/00912700122009809</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXjsFehsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ette EI, Williams P, Fadiran E, Ajayi FO, Onyiah LC. The process of knowledge discovery from large pharmacokinetic data sets.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 2001;41:25–34.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Bonate</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">The effect of collinearity on parameter estimates in nonlinear mixed effect models</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>709</FirstPage>
+                  <LastPage>717</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10350015</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1018828709196</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXjt1yit70%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bonate PL. The effect of collinearity on parameter estimates in nonlinear mixed effect models.<Emphasis Type="Italic">Pharm Res</Emphasis>. 1999;16:709–717.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Gusella</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Toso</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Ferrazzi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ferrari</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Padrini</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Relationships between body composition parameters and fluorouracil pharmacokinetics</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>54</VolumeID>
+                  <FirstPage>131</FirstPage>
+                  <LastPage>139</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12207632</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1365-2125.2002.01598.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XnvVWisrg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gusella M, Toso S, Ferrazzi E, Ferrari M, Padrini R. Relationships between body composition parameters and fluorouracil pharmacokinetics.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 2002;54:131–139.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kanamori</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Takahashi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Echizen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Developmental changes in the liver weight-and body weight-normalized clearance of theophylline, phenytoin and cyclosporine in children</ArticleTitle>
+                  <JournalTitle>Int J Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>485</FirstPage>
+                  <LastPage>492</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12698985</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXit1Sqtw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kanamori M, Takahashi H, Echizen H. Developmental changes in the liver weight-and body weight-normalized clearance of theophylline, phenytoin and cyclosporine in children.<Emphasis Type="Italic">Int J Clin Pharmacol Ther</Emphasis>. 2002;40:485–492.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Green</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">What is the best size descriptor to use for pharmacokinetic studies in the obese?</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>58</VolumeID>
+                  <FirstPage>119</FirstPage>
+                  <LastPage>133</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15255794</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1365-2125.2004.02157.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Green B, Duffull SB. What is the best size descriptor to use for pharmacokinetic studies in the obese?.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 2004;58:119–133.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Mahmood</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Allometric issues in drug development</ArticleTitle>
+                  <JournalTitle>J Pharm Sci</JournalTitle>
+                  <VolumeID>88</VolumeID>
+                  <FirstPage>1101</FirstPage>
+                  <LastPage>1106</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10564055</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/js9902163</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXmtVOmsbk%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mahmood I. Allometric issues in drug development.<Emphasis Type="Italic">J Pharm Sci</Emphasis>. 1999;88:1101–1106.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Bonate</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Howard</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Prospective allometric scaling: does the emperor have clothes?</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>335</FirstPage>
+                  <LastPage>340</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10761158</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/00912700022009017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3c3isVahtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bonate PL, Howard D. Prospective allometric scaling: does the emperor have clothes?.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 2000;40:335–340.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Mahmood</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Interspecies scaling: predicting oral clearance in humans</ArticleTitle>
+                  <JournalTitle>Am J Ther</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>35</FirstPage>
+                  <LastPage>42</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11782818</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00045391-200201000-00008</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mahmood I. Interspecies scaling: predicting oral clearance in humans.<Emphasis Type="Italic">Am J Ther</Emphasis>. 2002;9:35–42.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GB</Initials>
+                    <FamilyName>West</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Brown</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BJ</Initials>
+                    <FamilyName>Enquist</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">The fourth dimension of life: fractal geometry and allometric scaling of organisms</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>284</VolumeID>
+                  <FirstPage>1677</FirstPage>
+                  <LastPage>1679</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10356399</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.284.5420.1677</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXjs1Kitbo%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>West GB, Brown JH, Enquist BJ. The fourth dimension of life: fractal geometry and allometric scaling of organisms.<Emphasis Type="Italic">Science</Emphasis>. 1999;284:1677–1679.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GB</Initials>
+                    <FamilyName>West</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Brown</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BJ</Initials>
+                    <FamilyName>Enquist</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">A general model for the origin of allometric scaling laws in biology</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>276</VolumeID>
+                  <FirstPage>122</FirstPage>
+                  <LastPage>126</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9082983</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.276.5309.122</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXitl2jtro%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>West GB, Brown JH, Enquist BJ. A general model for the origin of allometric scaling laws in biology.<Emphasis Type="Italic">Science</Emphasis>. 1997;276:122–126.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>ER</Initials>
+                    <FamilyName>Weibel</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Physiology: the pitfalls of power laws</ArticleTitle>
+                  <JournalTitle>Nature</JournalTitle>
+                  <VolumeID>417</VolumeID>
+                  <FirstPage>131</FirstPage>
+                  <LastPage>132</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12000943</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/417131a</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XjsVyrtrc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Weibel ER. Physiology: the pitfalls of power laws.<Emphasis Type="Italic">Nature</Emphasis>. 2002;417:131–132.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NH</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">A size standard for pharmacokinetics</ArticleTitle>
+                  <JournalTitle>Clin Pharmacokinet</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>329</FirstPage>
+                  <LastPage>332</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8743333</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK28zjtVKluw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2165/00003088-199630050-00001</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Holford NH. A size standard for pharmacokinetics.<Emphasis Type="Italic">Clin Pharmacokinet</Emphasis>. 1996;30:329–332.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BJ</Initials>
+                    <FamilyName>Anderson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GA</Initials>
+                    <FamilyName>Woollard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NH</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">A model for size and age changes in the pharmacokinetics of paracetamol in neonates, infants and children</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <FirstPage>125</FirstPage>
+                  <LastPage>134</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10930964</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1365-2125.2000.00231.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXmsFamsbY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Anderson BJ, Woollard GA, Holford NH. A model for size and age changes in the pharmacokinetics of paracetamol in neonates, infants and children.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 2000;50:125–134.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Hu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WL</Initials>
+                    <FamilyName>Hayton</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Allometric scaling of xenobiotic clearance: uncertainty versus universality</ArticleTitle>
+                  <JournalTitle>AAPS PharmSci</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>E29</FirstPage>
+                  <LastPage>E29</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12049492</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1208/ps030429</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXptlCmu7o%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hu TM, Hayton WL. Allometric scaling of xenobiotic clearance: uncertainty versus universality.<Emphasis Type="Italic">AAPS PharmSci</Emphasis>. 2001;3:E29.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Boxenbaum</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">Interspecies scaling, allometry, physiological time, and the ground plan of pharmacokinetics</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>201</FirstPage>
+                  <LastPage>227</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7120049</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01062336</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL38Xlt1Sjtbo%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Boxenbaum H. Interspecies scaling, allometry, physiological time, and the ground plan of pharmacokinetics.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1982;10:201–227.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BJ</Initials>
+                    <FamilyName>Anderson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AD</Initials>
+                    <FamilyName>McKee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NH</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Size, myths and the clinical pharmacokinetics of analgesia in paediatric patients</ArticleTitle>
+                  <JournalTitle>Clin Pharmacokinet</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <FirstPage>313</FirstPage>
+                  <LastPage>327</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9391745</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2165/00003088-199733050-00001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c%2FltlagsQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Anderson BJ, McKee AD, Holford NH. Size, myths and the clinical pharmacokinetics of analgesia in paediatric patients.<Emphasis Type="Italic">Clin Pharmacokinet</Emphasis>. 1997;33:313–327.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibUnstructured>Kleiber M. Body size and metabolism.<Emphasis Type="Italic">Hilgardia</Emphasis>. 1932;6315–6353. doi: <ExternalRef><RefSource>10.3733/hilg.v06n11p315</RefSource><RefTarget TargetType="DOI" Address="10.3733/hilg.v06n11p315"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>McMahon</FamilyName>
+                  </BibAuthorName>
+                  <Year>1973</Year>
+                  <ArticleTitle Language="En">Size and shape in biology</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>179</VolumeID>
+                  <FirstPage>1201</FirstPage>
+                  <LastPage>1204</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>4689015</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.179.4079.1201</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaE3s7ivV2rsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>McMahon T. Size and shape in biology.<Emphasis Type="Italic">Science</Emphasis>. 1973;179:1201–1204.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BJ</Initials>
+                    <FamilyName>Anderson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NH</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GA</Initials>
+                    <FamilyName>Woollard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>chan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Paracetamol plasma and cerebrospinal fluid pharmacokinetics in children</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <FirstPage>237</FirstPage>
+                  <LastPage>243</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9764964</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1365-2125.1998.00780.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXmtFKmtLg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Anderson BJ, Holford NH, Woollard GA, chan PL. Paracetamol plasma and cerebrospinal fluid pharmacokinetics in children.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 1998;46:237–243.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibUnstructured>Agutter PS, Wheatley DN. Metabolic scaling: consensus or controversy?<Emphasis Type="Italic">Theor Biol Med Model</Emphasis>. 2004:1–13.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CA</Initials>
+                    <FamilyName>Darveau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RK</Initials>
+                    <FamilyName>Suarez</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RD</Initials>
+                    <FamilyName>Andrews</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PW</Initials>
+                    <FamilyName>Hochachka</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Allometric cascade as a unifying principle of body mass effects on metabolism</ArticleTitle>
+                  <JournalTitle>Nature</JournalTitle>
+                  <VolumeID>417</VolumeID>
+                  <FirstPage>166</FirstPage>
+                  <LastPage>170</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12000958</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/417166a</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XjsVyrtL8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Darveau CA, Suarez RK, Andrews RD, Hochachka PW. Allometric cascade as a unifying principle of body mass effects on metabolism.<Emphasis Type="Italic">Nature</Emphasis>. 2002;417:166–170.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Rodman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic variability in the adolescent: implications of body size and organ function for dosage regimen design</ArticleTitle>
+                  <JournalTitle>J Adolesc Health</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>654</FirstPage>
+                  <LastPage>662</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7696286</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1054-139X(94)90633-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M3htVaruw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rodman JH. Pharmacokinetic variability in the adolescent: implications of body size and organ function for dosage regimen design.<Emphasis Type="Italic">J Adolesc Health</Emphasis>. 1994;15:654–662.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Bailey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Hoffman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DL</Initials>
+                    <FamilyName>Wessel</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">A population pharmacokinetic analysis of milrinone in pediatric patients after cardiac surgery</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>43</FirstPage>
+                  <LastPage>59</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15346851</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/B:JOPA.0000029488.45177.48</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXksVShsbs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bailey JM, Hoffman TM, Wessel DL, et al. A population pharmacokinetic analysis of milrinone in pediatric patients after cardiac surgery.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2004;31:43–59.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Martin-Suarez</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AC</Initials>
+                    <FamilyName>Falcao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Outeda</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics of digoxin in pediatric patients</ArticleTitle>
+                  <JournalTitle>Ther Drug Monit</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>742</FirstPage>
+                  <LastPage>745</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12451291</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00007691-200212000-00010</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XptVSitbs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Martin-Suarez A, Falcao AC, Outeda M, et al. Population pharmacokinetics of digoxin in pediatric patients.<Emphasis Type="Italic">Ther Drug Monit</Emphasis>. 2002;24:742–745.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>HG</Initials>
+                    <FamilyName>Schaefer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Stass</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Wedgwood</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Pharmacokinetics of ciprofloxacin in pediatric cystic fibrosis patients</ArticleTitle>
+                  <JournalTitle>Antimicrob Agents Chemother</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>29</FirstPage>
+                  <LastPage>34</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8787874</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK28XhvFKqtw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schaefer HG, Stass H, Wedgwood J, et al. Pharmacokinetics of ciprofloxacin in pediatric cystic fibrosis patients.<Emphasis Type="Italic">Antimicrob Agents Chemother</Emphasis>. 1996;40:29–34.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>ML</Initials>
+                    <FamilyName>Christensen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RK</Initials>
+                    <FamilyName>Mottern</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JT</Initials>
+                    <FamilyName>Jabbour</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Fuseau</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Pharmacokinetics of sumatriptan nasal spray in children</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>44</VolumeID>
+                  <FirstPage>359</FirstPage>
+                  <LastPage>367</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15051742</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/0091270004263467</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXjtl2hu7Y%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Christensen ML, Mottern RK, Jabbour JT, Fuseau E. Pharmacokinetics of sumatriptan nasal spray in children.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 2004;44:359–367.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibUnstructured>Dubois D, Dubois E. A formula to estimate the approximate surface area if height and weight be known.<Emphasis Type="Italic">Arch Int Med</Emphasis>. 1916;17863–17871.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EA</Initials>
+                    <FamilyName>Gehan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>George</FamilyName>
+                  </BibAuthorName>
+                  <Year>1970</Year>
+                  <ArticleTitle Language="En">Estimation of human body surface area from height and weight</ArticleTitle>
+                  <JournalTitle>Cancer Chemother Rep</JournalTitle>
+                  <VolumeID>54</VolumeID>
+                  <FirstPage>225</FirstPage>
+                  <LastPage>235</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>5527019</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaE387htlCqtQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gehan EA, George SL. Estimation of human body surface area from height and weight.<Emphasis Type="Italic">Cancer Chemother Rep</Emphasis>. 1970;54:225–235.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RD</Initials>
+                    <FamilyName>Mosteller</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Simplified calculation of body-surface area</ArticleTitle>
+                  <JournalTitle>N Engl J Med</JournalTitle>
+                  <VolumeID>317</VolumeID>
+                  <FirstPage>1098</FirstPage>
+                  <LastPage>1098</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3657876</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1c%2FhsVSmtw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mosteller RD. Simplified calculation of body-surface area.<Emphasis Type="Italic">N Engl J Med</Emphasis>. 1987;317:1098.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Shi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Ludden</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AP</Initials>
+                    <FamilyName>Melikian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MR</Initials>
+                    <FamilyName>Gastonguay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PH</Initials>
+                    <FamilyName>Hinderling</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics and pharmacodynamics of sotalol in pediatric patients with supraventricular or ventricular tachyarrhythmia</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>555</FirstPage>
+                  <LastPage>575</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11999292</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1014412521191</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XjsFSrtrg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shi J, Ludden TM, Melikian AP, Gastonguay MR, Hinderling PH. Population pharmacokinetics and pharmacodynamics of sotalol in pediatric patients with supraventricular or ventricular tachyarrhythmia.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2001;28:555–575.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>WM</Initials>
+                    <FamilyName>Sallas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Milosavljev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>D'Souza</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Hossain</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic drug interactions in children taking oxcarbazepine</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>74</VolumeID>
+                  <FirstPage>138</FirstPage>
+                  <LastPage>149</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12891224</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0009-9236(03)00124-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXlvVCrt7s%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sallas WM, Milosavljev S, D'Souza J, Hossain M. Pharmacokinetic drug interactions in children taking oxcarbazepine.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 2003;74:138–149.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Reilly</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Workman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Normalisation of anti-cancer drug dosage using body weight and surface area: is it worthwhile? A review of theoretical and practical considerations</ArticleTitle>
+                  <JournalTitle>Cancer Chemother Pharmacol</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>411</FirstPage>
+                  <LastPage>418</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8258188</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00685883</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c%2FotVOhsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Reilly JJ, Workman P. Normalisation of anti-cancer drug dosage using body weight and surface area: is it worthwhile? A review of theoretical and practical considerations.<Emphasis Type="Italic">Cancer Chemother Pharmacol</Emphasis>. 1993;32:411–418.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Yukawa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Satou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Nonaka</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Pharmacoepidemiologic investigation of clonazepam relative clearance by mixed-effect modeling using routine clinical pharmacokinetic data in Japanese patients</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>81</FirstPage>
+                  <LastPage>88</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11808828</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/0091270002042001009</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XmtVGrtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yukawa E, Satou M, Nonaka T, et al. Pharmacoepidemiologic investigation of clonazepam relative clearance by mixed-effect modeling using routine clinical pharmacokinetic data in Japanese patients.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 2002;42:81–88.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Mandema</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Verotta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Building population pharmacokinetic-pharmacodynamic models. I. Models for covariate effects</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>511</FirstPage>
+                  <LastPage>528</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1287200</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01061469</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3s7msVWhsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mandema JW, Verotta D, Sheiner LB. Building population pharmacokinetic-pharmacodynamic models. I. Models for covariate effects.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1992;20:511–528.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>43.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EV</Initials>
+                    <FamilyName>Capparelli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Englund</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JD</Initials>
+                    <FamilyName>Connor</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics and pharmacodynamics of zidovudine in HIV-infected infants and children</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>133</FirstPage>
+                  <LastPage>140</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12616665</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/0091270002239821</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXht1eqsL8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Capparelli EV, Englund JA, Connor JD, et al. Population pharmacokinetics and pharmacodynamics of zidovudine in HIV-infected infants and children.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 2003;43:133–140.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR44">
+                <CitationNumber>44.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JC</Initials>
+                    <FamilyName>Panetta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LC</Initials>
+                    <FamilyName>Iacono</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PC</Initials>
+                    <FamilyName>Adamson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Stewart</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">The importance of pharmacokinetic limited sampling models for childhood cancer drug development</ArticleTitle>
+                  <JournalTitle>Clin Cancer Res</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>5068</FirstPage>
+                  <LastPage>5077</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14613983</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXovVOgtLc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Panetta JC, Iacono LC, Adamson PC, Stewart CF. The importance of pharmacokinetic limited sampling models for childhood cancer drug development.<Emphasis Type="Italic">Clin Cancer Res</Emphasis>. 2003;9:5068–5077.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR45">
+                <CitationNumber>45.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Desoize</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Marechal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Cattan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Clinical pharmacokinetics of etoposide during 120 hours continuous infusions in solid tumours</ArticleTitle>
+                  <JournalTitle>Br J Cancer</JournalTitle>
+                  <VolumeID>62</VolumeID>
+                  <FirstPage>840</FirstPage>
+                  <LastPage>841</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2245178</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3M%2FlvFShtw%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1038/bjc.1990.390</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Desoize B, Marechal F, Cattan A. Clinical pharmacokinetics of etoposide during 120 hours continuous infusions in solid tumours.<Emphasis Type="Italic">Br J Cancer</Emphasis>. 1990;62:840–841.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR46">
+                <CitationNumber>46.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Kobayashi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Ratain</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Pharmacodynamics and long-term toxicity of etoposide</ArticleTitle>
+                  <JournalTitle>Cancer Chemother Pharmacol</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>S64</FirstPage>
+                  <LastPage>S68</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8070030</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00684866</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kobayashi K, Ratain MJ. Pharmacodynamics and long-term toxicity of etoposide.<Emphasis Type="Italic">Cancer Chemother Pharmacol</Emphasis>. 1994;34(suppl):S64-S68.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR47">
+                <CitationNumber>47.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Minami</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Ratain</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Ando</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Shimokata</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Pharmacodynamic modeling of prolonged administration of etoposide</ArticleTitle>
+                  <JournalTitle>Cancer Chemother Pharmacol</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>61</FirstPage>
+                  <LastPage>66</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8995500</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s002800050538</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXis1Wqu7Y%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Minami H, Ratain MJ, Ando Y, Shimokata K. Pharmacodynamic modeling of prolonged administration of etoposide.<Emphasis Type="Italic">Cancer Chemother Pharmacol</Emphasis>. 1996;39:61–66.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR48">
+                <CitationNumber>48.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MV</Initials>
+                    <FamilyName>Relling</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>McLeod</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Bowman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>VM</Initials>
+                    <FamilyName>Santana</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Etoposide pharmacokinetics and pharmacodynamics after acute and chronic exposure to cisplatin</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>56</VolumeID>
+                  <FirstPage>503</FirstPage>
+                  <LastPage>511</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7955814</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M%2Fktlynug%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/clpt.1994.171</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Relling MV, McLeod H, Bowman L, Santana VM. Etoposide pharmacokinetics and pharmacodynamics after acute and chronic exposure to cisplatin.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 1994;56:503–511.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR49">
+                <CitationNumber>49.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DS</Initials>
+                    <FamilyName>Sonnichsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RC</Initials>
+                    <FamilyName>Ribeiro</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Luo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Mathew</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MV</Initials>
+                    <FamilyName>Relling</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Pharmacokinetics and pharmacodynamics of 21-day continuous oral etoposide in pediatric patients with solid tumors</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>58</VolumeID>
+                  <FirstPage>99</FirstPage>
+                  <LastPage>107</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7628187</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0009-9236(95)90077-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2MXntlKktLw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sonnichsen DS, Ribeiro RC, Luo X, Mathew P, Relling MV. Pharmacokinetics and pharmacodynamics of 21-day continuous oral etoposide in pediatric patients with solid tumors.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 1995;58:99–107.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR50">
+                <CitationNumber>50.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JC</Initials>
+                    <FamilyName>Panetta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Wilkinson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CH</Initials>
+                    <FamilyName>Pui</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MV</Initials>
+                    <FamilyName>Relling</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Limited and optimal sampling strategies for etoposide and etoposide catechol in children with leukemia</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>171</FirstPage>
+                  <LastPage>188</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12361242</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1019755608555</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XmtFShu7w%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Panetta JC, Wilkinson M, Pui CH, Relling MV. Limited and optimal sampling strategies for etoposide and etoposide catechol in children with leukemia.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2002;29:171–188.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR51">
+                <CitationNumber>51.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MN</Initials>
+                    <FamilyName>Kirstein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JC</Initials>
+                    <FamilyName>Panetta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gajjar</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Development of a pharmacokinetic limited sampling model for temozolomide and its active metabolite MTIC</ArticleTitle>
+                  <JournalTitle>Cancer Chemother Pharmacol</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>433</FirstPage>
+                  <LastPage>438</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15818507</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00280-004-0896-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2MXjtVWmtrg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kirstein MN, Panetta JC, Gajjar A, et al. Development of a pharmacokinetic limited sampling model for temozolomide and its active metabolite MTIC.<Emphasis Type="Italic">Cancer Chemother Pharmacol</Emphasis>. 2005;55:433–438.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR52">
+                <CitationNumber>52.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DZ</Initials>
+                    <FamilyName>D'Argenio</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">Optimal sampling times for pharmacokinetic experiments</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>739</FirstPage>
+                  <LastPage>756</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7341758</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01070904</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D'Argenio DZ. Optimal sampling times for pharmacokinetic experiments.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1981;9:739–756.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR53">
+                <CitationNumber>53.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DZ</Initials>
+                    <FamilyName>D'Argenio</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Incorporating prior parameter uncertainty in the design of sampling schedules for pharmacokinetic parameter estimation experiments</ArticleTitle>
+                  <JournalTitle>Math Biosci</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <FirstPage>105</FirstPage>
+                  <LastPage>118</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2134510</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0025-5564(90)90141-K</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D'Argenio DZ. Incorporating prior parameter uncertainty in the design of sampling schedules for pharmacokinetic parameter estimation experiments.<Emphasis Type="Italic">Math Biosci</Emphasis>. 1990;99:105–118.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR54">
+                <CitationNumber>54.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>DZ</Initials>
+                    <FamilyName>D'Argenio</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Schumitzky</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <BookTitle>ADAPT II User's Guide: Pharmacokinetic/Pharmacodynamic Systems Analysis Software</BookTitle>
+                  <PublisherName>Biomedical Simulations Resource</PublisherName>
+                  <PublisherLocation>Los Angeles</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>D'Argenio DZ, Schumitzky A.<Emphasis Type="Italic">ADAPT II User's Guide: Pharmacokinetic/Pharmacodynamic Systems Analysis Software</Emphasis>. Los Angeles: Biomedical Simulations Resource; 1997.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR55">
+                <CitationNumber>55.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Steimer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Mallet</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Golmard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JF</Initials>
+                    <FamilyName>Boisvieux</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Alternative approaches to estimation of population pharmacokinetic parameters: comparison with the nonlinear mixed-effect model</ArticleTitle>
+                  <JournalTitle>Drug Metab Rev</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>265</FirstPage>
+                  <LastPage>292</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6745083</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3109/03602538409015066</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2c3mtFSisA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Steimer JL, Mallet A, Golmard JL, Boisvieux JF. Alternative approaches to estimation of population pharmacokinetic parameters: comparison with the nonlinear mixed-effect model.<Emphasis Type="Italic">Drug Metab Rev</Emphasis>. 1984;15:265–292.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR56">
+                <CitationNumber>56.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Retout</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Mentre</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Development and implementation of the population Fischer information matrix for the evaluation of population pharmacokinetic designs</ArticleTitle>
+                  <JournalTitle>Comput Methods Programs Biomed</JournalTitle>
+                  <VolumeID>65</VolumeID>
+                  <FirstPage>141</FirstPage>
+                  <LastPage>151</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11275334</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0169-2607(00)00117-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3M7os12htA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Retout S, Duffull S, Mentre F. Development and implementation of the population Fischer information matrix for the evaluation of population pharmacokinetic designs.<Emphasis Type="Italic">Comput Methods Programs Biomed</Emphasis>. 2001;65:141–151.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR57">
+                <CitationNumber>57.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">Some suggestions for measuring predictive performance</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>503</FirstPage>
+                  <LastPage>512</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7310648</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01060893</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL38%2FnslGruw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sheiner LB, Beal SL. Some suggestions for measuring predictive performance.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1981;9:503–512.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR58">
+                <CitationNumber>58.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Stewart</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LC</Initials>
+                    <FamilyName>Iacono</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Chintagumpala</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Results of a phase II upfront window of pharmacokinetically guided topotecan in high-risk medulloblastoma and supratentorial primitive neuroectodermal tumor</ArticleTitle>
+                  <JournalTitle>J Clin Oncol</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>3357</FirstPage>
+                  <LastPage>3365</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15310781</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1200/JCO.2004.10.103</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXpsVGrtr8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stewart CF, Iacono LC, Chintagumpala M, et al. Results of a phase II upfront window of pharmacokinetically guided topotecan in high-risk medulloblastoma and supratentorial primitive neuroectodermal tumor.<Emphasis Type="Italic">J Clin Oncol</Emphasis>. 2004;22:3357–3365.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR59">
+                <CitationNumber>59.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>VM</Initials>
+                    <FamilyName>Santana</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WC</Initials>
+                    <FamilyName>Zamboni</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MN</Initials>
+                    <FamilyName>Kirstein</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A pilot study of protracted topotecan dosing using a pharmacokinetically guided dosing approach in children with solid tumors</ArticleTitle>
+                  <JournalTitle>Clin Cancer Res</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>633</FirstPage>
+                  <LastPage>640</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12576429</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXhtVKks7o%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Santana VM, Zamboni WC, Kirstein MN, et al. A pilot study of protracted topotecan dosing using a pharmacokinetically guided dosing approach in children with solid tumors.<Emphasis Type="Italic">Clin Cancer Res</Emphasis>. 2003;9:633–640.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR60">
+                <CitationNumber>60.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>WE</Initials>
+                    <FamilyName>Evans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MV</Initials>
+                    <FamilyName>Relling</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Rodman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WR</Initials>
+                    <FamilyName>Crom</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Boyett</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CH</Initials>
+                    <FamilyName>Pui</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Conventional compared with individualized chemotherapy for childhood acute lymphoblastic leukemia</ArticleTitle>
+                  <JournalTitle>N Engl J Med</JournalTitle>
+                  <VolumeID>338</VolumeID>
+                  <FirstPage>499</FirstPage>
+                  <LastPage>505</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9468466</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1056/NEJM199802193380803</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXhsVGju7s%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Evans WE, Relling MV, Rodman JH, Crom WR, Boyett JM, Pui CH. Conventional compared with individualized chemotherapy for childhood acute lymphoblastic leukemia.<Emphasis Type="Italic">N Engl J Med</Emphasis>. 1998;338:499–505.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR61">
+                <CitationNumber>61.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JT</Initials>
+                    <FamilyName>Wilson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">An update on the therapeutic orphan</ArticleTitle>
+                  <JournalTitle>Pediatrics</JournalTitle>
+                  <VolumeID>104</VolumeID>
+                  <FirstPage>585</FirstPage>
+                  <LastPage>590</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10469794</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1MvgtVyqsw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wilson JT. An update on the therapeutic orphan.<Emphasis Type="Italic">Pediatrics</Emphasis>. 1999;104:585–590.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR62">
+                <CitationNumber>62.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PA</Initials>
+                    <FamilyName>Lockwood</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Cook</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WE</Initials>
+                    <FamilyName>Ewy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JW</Initials>
+                    <FamilyName>Mandema</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">The use of clinical trial simulation to support dose selection: application to development of a new treatment for chronic neuropathic pain</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>1752</FirstPage>
+                  <LastPage>1759</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14661918</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/B:PHAM.0000003371.32474.ee</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXptVCht7s%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lockwood PA, Cook JA, Ewy WE, Mandema JW. The use of clinical trial simulation to support dose selection: application to development of a new treatment for chronic neuropathic pain.<Emphasis Type="Italic">Pharm Res</Emphasis>. 2003;20:1752–1759.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR63">
+                <CitationNumber>63.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Anderson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Bolognese</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DT</Initials>
+                    <FamilyName>Felson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Comparison of rheumatoid arthritis clinical trial outcome measures: a simulation study</ArticleTitle>
+                  <JournalTitle>Arthritis Rheum</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <FirstPage>3031</FirstPage>
+                  <LastPage>3038</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14613263</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/art.11293</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Anderson JJ, Bolognese JA, Felson DT. Comparison of rheumatoid arthritis clinical trial outcome measures: a simulation study.<Emphasis Type="Italic">Arthritis Rheum</Emphasis>. 2003;48:3031–3038.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR64">
+                <CitationNumber>64.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>KS</Initials>
+                    <FamilyName>Blesch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Gieschke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Tsukamoto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BG</Initials>
+                    <FamilyName>Reigner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HU</Initials>
+                    <FamilyName>Burger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Steimer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Clinical pharmacokinetic/pharmacodynamic and physiologically based pharmacokinetic modeling in new drug development: the capecitabine experience</ArticleTitle>
+                  <JournalTitle>Invest New Drugs</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <FirstPage>195</FirstPage>
+                  <LastPage>223</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12889740</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1023525513696</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXjtlant74%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Blesch KS, Gieschke R, Tsukamoto Y, Reigner BG, Burger HU, Steimer JL. Clinical pharmacokinetic/pharmacodynamic and physiologically based pharmacokinetic modeling in new drug development: the capecitabine experience.<Emphasis Type="Italic">Invest New Drugs</Emphasis>. 2003;21:195–223.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR65">
+                <CitationNumber>65.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PF</Initials>
+                    <FamilyName>Thall</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SJ</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Practical model-based dose-finding in phase I clinical trials: methods based on toxicity</ArticleTitle>
+                  <JournalTitle>Int J Gynecol Cancer</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>251</FirstPage>
+                  <LastPage>261</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12801254</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1525-1438.2003.13202.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3s3nsFeitw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Thall PF, Lee SJ. Practical model-based dose-finding in phase I clinical trials: methods based on toxicity.<Emphasis Type="Italic">Int J Gynecol Cancer</Emphasis>. 2003;13:251–261.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR66">
+                <CitationNumber>66.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>FH</Initials>
+                    <FamilyName>Hausheer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kochat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AR</Initials>
+                    <FamilyName>Parker</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">New approaches to drug discovery and development: a mechanism-based approach to pharmaceutical research and its application to BNP7787, a novel chemoprotective agent</ArticleTitle>
+                  <JournalTitle>Cancer Chemother Pharmacol</JournalTitle>
+                  <VolumeID>52</VolumeID>
+                  <FirstPage>1S3</FirstPage>
+                  <LastPage>1S15</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00280-003-0653-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXlt1Oisbk%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hausheer FH, Kochat H, Parker AR, et al. New approaches to drug discovery and development: a mechanism-based approach to pharmaceutical research and its application to BNP7787, a novel chemoprotective agent.<Emphasis Type="Italic">Cancer Chemother Pharmacol</Emphasis>. 2003;52:1S3–1S15.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR67">
+                <CitationNumber>67.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Konski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Sherman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Krahn</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Monte Carlo simulation of a Markov model for a phase III clinical trial evaluating the addition of total androgen suppression (TAS) to radiation versus radiation alone for locally advanced prostate cancer (RTOG 86-10)</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>57</VolumeID>
+                  <FirstPage>S215</FirstPage>
+                  <LastPage>S216</LastPage>
+                </BibArticle>
+                <BibUnstructured>Konski A, Sherman E, Krahn M, et al. Monte Carlo simulation of a Markov model for a phase III clinical trial evaluating the addition of total androgen suppression (TAS) to radiation versus radiation alone for locally advanced prostate cancer (RTOG 86-10).<Emphasis Type="Italic">Int J Radiat Oncol Biol Phys</Emphasis>. 2003;57:S215-S216.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR68">
+                <CitationNumber>68.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Jumbe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Yao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Rovetti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Rossi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AC</Initials>
+                    <FamilyName>Heatherington</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Clinical trial simulation of a 200-microg fixed dose of darbepoetin alfa in chemotherapy-induced anemia</ArticleTitle>
+                  <JournalTitle>Oncology (Huntingt)</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>37</FirstPage>
+                  <LastPage>44</LastPage>
+                </BibArticle>
+                <BibUnstructured>Jumbe N, Yao B, Rovetti R, Rossi G, Heatherington AC. Clinical trial simulation of a 200-microg fixed dose of darbepoetin alfa in chemotherapy-induced anemia.<Emphasis Type="Italic">Oncology (Huntingt)</Emphasis>. 2002;16:37–44.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR69">
+                <CitationNumber>69.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Veyrat-Follet</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Bruno</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Olivares</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GR</Initials>
+                    <FamilyName>Rhodes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Chaikin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Clinical trial simulation of docetaxel in patients with cancer as a tool for dosage optimization</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>68</VolumeID>
+                  <FirstPage>677</FirstPage>
+                  <LastPage>687</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11180028</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1067/mcp.2000.111948</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXht1Sjsbg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Veyrat-Follet C, Bruno R, Olivares R, Rhodes GR, Chaikin P. Clinical trial simulation of docetaxel in patients with cancer as a tool for dosage optimization.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 2000;68:677–687.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR70">
+                <CitationNumber>70.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Nestorov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Graham</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Aarons</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Fuseau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Coates</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Modeling and stimulation for clinical trial design involving a categorical response: a phase II case study with naratriptan</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>1210</FirstPage>
+                  <LastPage>1219</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11587494</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1010943430471</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXnt1ektLw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nestorov I, Graham G, Duffull S, Aarons L, Fuseau E, Coates P. Modeling and stimulation for clinical trial design involving a categorical response: a phase II case study with naratriptan.<Emphasis Type="Italic">Pharm Res</Emphasis>. 2001;18:1210–1219.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR71">
+                <CitationNumber>71.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Chabaud</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Girard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Nony</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Boissel</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Clinical trial simulation using therapeutic effect modeling: application to ivabradine efficacy in patients with angina pectoris</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>339</FirstPage>
+                  <LastPage>363</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12518708</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1020953107162</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XotlKmsLk%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chabaud S, Girard P, Nony P, Boissel JP. Clinical trial simulation using therapeutic effect modeling: application to ivabradine efficacy in patients with angina pectoris.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2002;29:339–363.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR72">
+                <CitationNumber>72.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NH</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HC</Initials>
+                    <FamilyName>Kimko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Monteleone</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CC</Initials>
+                    <FamilyName>Peck</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Simulation of clinical trials</ArticleTitle>
+                  <JournalTitle>Annu Rev Pharmacol Toxicol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>209</FirstPage>
+                  <LastPage>234</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10836134</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1146/annurev.pharmtox.40.1.209</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXjs1yhsLw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Holford NH, Kimko HC, Monteleone JP, Peck CC. Simulation of clinical trials.<Emphasis Type="Italic">Annu Rev Pharmacol Toxicol</Emphasis>. 2000;40:209–234.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR73">
+                <CitationNumber>73.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Ludden</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Balanced designs in longitudinal population pharmacokinetic studies</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <FirstPage>417</FirstPage>
+                  <LastPage>423</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9602953</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXjsVShtL8%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1002/j.1552-4604.1998.tb04446.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ette EI, Sun H, Ludden TM. Balanced designs in longitudinal population pharmacokinetic studies.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 1998;38:417–423.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR74">
+                <CitationNumber>74.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EI</Initials>
+                    <FamilyName>Ette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Ludden</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Ignorability and parameter estimation in longitudinal pharmacokinetic studies</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <FirstPage>221</FirstPage>
+                  <LastPage>226</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9549660</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXisV2ltrw%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1002/j.1552-4604.1998.tb04419.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ette EI, Sun H, Ludden TM. Ignorability and parameter estimation in longitudinal pharmacokinetic studies.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 1998;38:221–226.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR75">
+                <CitationNumber>75.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MM</Initials>
+                    <FamilyName>Fernandez de Gatta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Tamayo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Garcia</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">Prediction of imipramine serum levels in enuretic children by a Bayesian method: comparison with two other conventional dosing methods</ArticleTitle>
+                  <JournalTitle>Ther Drug Monit</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>637</FirstPage>
+                  <LastPage>641</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2595743</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00007691-198911000-00004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3c%2FosFarsQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fernandez de Gatta MM, Tamayo M, Garcia MJ, et al. Prediction of imipramine serum levels in enuretic children by a Bayesian method: comparison with two other conventional dosing methods.<Emphasis Type="Italic">Ther Drug Monit</Emphasis>. 1989;11:637–641.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR76">
+                <CitationNumber>76.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Kraus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CM</Initials>
+                    <FamilyName>Dusik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KA</Initials>
+                    <FamilyName>Rodvold</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MM</Initials>
+                    <FamilyName>Campbell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SA</Initials>
+                    <FamilyName>Kecskes</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Bayesian forecasting of gentamicin pharmacokinetics in pediatric intensive care unit patients</ArticleTitle>
+                  <JournalTitle>Pediatr Infect Dis J</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>713</FirstPage>
+                  <LastPage>718</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8414796</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c%2FitFWmtA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00006454-199309000-00002</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kraus DM, Dusik CM, Rodvold KA, Campbell MM, Kecskes SA. Bayesian forecasting of gentamicin pharmacokinetics in pediatric intensive care unit patients.<Emphasis Type="Italic">Pediatr Infect Dis J</Emphasis>. 1993;12:713–718.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR77">
+                <CitationNumber>77.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Desoky</FamilyName>
+                    <Particle>el</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MH</Initials>
+                    <FamilyName>Ghazal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Mohamed</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Klotz</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Disposition of intravenous theophylline in asthmatic children: Bayesian approach vs direct pharmacokinetic calculations</ArticleTitle>
+                  <JournalTitle>Jpn J Pharmacol</JournalTitle>
+                  <VolumeID>75</VolumeID>
+                  <FirstPage>13</FirstPage>
+                  <LastPage>20</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9334881</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1254/jjp.75.13</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>el Desoky E, Ghazal MH, Mohamed MA, Klotz U. Disposition of intravenous theophylline in asthmatic children: Bayesian approach vs direct pharmacokinetic calculations.<Emphasis Type="Italic">Jpn J Pharmacol</Emphasis>. 1997;75:13–20.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR78">
+                <CitationNumber>78.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Lares-Asseff</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Lugo-Goytia</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MG</Initials>
+                    <FamilyName>Perez-Guille</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Flores-Perez</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Juarez-Olguin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Raquel Moreno</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Cefuroxime Bayesian pharmacokinetics in severely ill septic children</ArticleTitle>
+                  <JournalTitle>Rev Invest Clin</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <FirstPage>311</FirstPage>
+                  <LastPage>316</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9830319</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1M%2FkvVSisw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lares-Asseff I, Lugo-Goytia G, Perez-Guille MG, Flores-Perez J, Juarez-Olguin H, Raquel Moreno MA. Cefuroxime Bayesian pharmacokinetics in severely ill septic children.<Emphasis Type="Italic">Rev Invest Clin</Emphasis>. 1998;50:311–316.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR79">
+                <CitationNumber>79.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Lares-Asseff</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Lugo-Goytia</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MG</Initials>
+                    <FamilyName>Perez-Guille</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Bayesian prediction of chloramphenicol blood levels in children with sepsis and malnutrition</ArticleTitle>
+                  <JournalTitle>Rev Invest Clin</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <FirstPage>159</FirstPage>
+                  <LastPage>165</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10466006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1MzpsFGjsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lares-Asseff I, Lugo-Goytia G, Perez-Guille MG, et al. Bayesian prediction of chloramphenicol blood levels in children with sepsis and malnutrition.<Emphasis Type="Italic">Rev Invest Clin</Emphasis>. 1999;51:159–165.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR80">
+                <CitationNumber>80.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RE</Initials>
+                    <FamilyName>Wrishko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Levine</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Khoo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Abbott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Hamilton</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Vancomycin pharmacokinetics and Bayesian estimation in pediatric patients</ArticleTitle>
+                  <JournalTitle>Ther Drug Monit</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>522</FirstPage>
+                  <LastPage>531</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11034256</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00007691-200010000-00004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXnt1Kmsbs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wrishko RE, Levine M, Khoo D, Abbott P, Hamilton D. Vancomycin pharmacokinetics and Bayesian estimation in pediatric patients.<Emphasis Type="Italic">Ther Drug Monit</Emphasis>. 2000;22:522–531.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR81">
+                <CitationNumber>81.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Bressolle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gouby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Martinez</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics of amikacin in critically ill patients</ArticleTitle>
+                  <JournalTitle>Antimicrob Agents Chemother</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>1682</FirstPage>
+                  <LastPage>1689</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8807062</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK28XktVaksb4%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bressolle F, Gouby A, Martinez JM, et al. Population pharmacokinetics of amikacin in critically ill patients.<Emphasis Type="Italic">Antimicrob Agents Chemother</Emphasis>. 1996;40:1682–1689.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR82">
+                <CitationNumber>82.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Barrett</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Gibiansky</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RD</Initials>
+                    <FamilyName>Hull</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Population pharmacodynamics in patients receiving tinzaparin for the prevention and treatment of deep vein thrombosis</ArticleTitle>
+                  <JournalTitle>Int J Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>431</FirstPage>
+                  <LastPage>446</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11680668</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XlsVagsQ%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.5414/CPP39431</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Barrett JS, Gibiansky E, Hull RD, et al. Population pharmacodynamics in patients receiving tinzaparin for the prevention and treatment of deep vein thrombosis.<Emphasis Type="Italic">Int J Clin Pharmacol Ther</Emphasis>. 2001;39:431–446.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR83">
+                <CitationNumber>83.</CitationNumber>
+                <BibUnstructured>Andrew MV, Mitchell DJ, Barrett JS, Hainer JW. Design aspects of dose-finding trials in pediatric patients with severe TE: Tinzaparin pediatric study [abstract].<Emphasis Type="Italic">Thromb Heamostasis</Emphasis>. 2001;86.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR84">
+                <CitationNumber>84.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>MR</Initials>
+                    <FamilyName>Gastonguay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Gibiansky</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Gibiansky</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Barrett</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ChapterTitle Language="En">Optimizing a Bayesian dose-adjustment scheme for a pediatric trial: a simulation study</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>HC</Initials>
+                    <FamilyName>Kimko</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Simulation for Designing Clinical Trials</BookTitle>
+                  <PublisherName>Marcel Dekker</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>369</FirstPage>
+                  <LastPage>390</LastPage>
+                </BibChapter>
+                <BibUnstructured>Gastonguay MR, Gibiansky E, Gibiansky L, Barrett JS. Optimizing a Bayesian dose-adjustment scheme for a pediatric trial: a simulation study. In: Kimko HC, Duffull SB, eds.<Emphasis Type="Italic">Simulation for Designing Clinical Trials</Emphasis>. New York: Marcel Dekker; 2002;369–390.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR85">
+                <CitationNumber>85.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Willis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CE</Initials>
+                    <FamilyName>Staatz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SE</Initials>
+                    <FamilyName>Tett</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Bayesian forcasting and prediction of tacrolimus concentrations in pediatric liver and adult renal transplant recipients</ArticleTitle>
+                  <JournalTitle>Ther Drug Monit</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <FirstPage>158</FirstPage>
+                  <LastPage>166</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12657909</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00007691-200304000-00004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXitlKit7Y%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Willis C, Staatz CE, Tett SE. Bayesian forcasting and prediction of tacrolimus concentrations in pediatric liver and adult renal transplant recipients.<Emphasis Type="Italic">Ther Drug Monit</Emphasis>. 2003;25:158–166.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR86">
+                <CitationNumber>86.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SN</Initials>
+                    <FamilyName>Wildt</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Hoog</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AA</Initials>
+                    <FamilyName>Vinks</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Giesen</FamilyName>
+                    <Particle>van der</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JN</Initials>
+                    <FamilyName>Anker</FamilyName>
+                    <Particle>van den</Particle>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics and metabolism of midazolam in pediatric intensive care patients</ArticleTitle>
+                  <JournalTitle>Crit Care Med</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>1952</FirstPage>
+                  <LastPage>1958</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12847388</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/01.ccm.0000084806.15352.da</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXlsVymsro%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>de Wildt SN, de Hoog M, Vinks AA, van der Giesen E, van den Anker JN. Population pharmacokinetics and metabolism of midazolam in pediatric intensive care patients.<Emphasis Type="Italic">Crit Care Med</Emphasis>. 2003;31:1952–1958.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR87">
+                <CitationNumber>87.</CitationNumber>
+                <BibBook>
+                  <InstitutionalAuthorName>CDER/FDA</InstitutionalAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>Innovation and Stagnation: Challenge and Opportunity on the Critical Path to New Medicinal Products</BookTitle>
+                  <PublisherName>Food and Drug administration, Center for Drug Evaluation and Research</PublisherName>
+                  <PublisherLocation>Rockville, MD</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>
+                  <Emphasis Type="Italic">CDER/FDA</Emphasis>.<Emphasis Type="Italic">Innovation and Stagnation: Challenge and Opportunity on the Critical Path to New Medicinal Products</Emphasis>. Rockville, MD: Food and Drug administration, Center for Drug Evaluation and Research, 2004.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR88">
+                <CitationNumber>88.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GJ</Initials>
+                    <FamilyName>Schwartz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GB</Initials>
+                    <FamilyName>Haycock</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Spitzer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1976</Year>
+                  <ArticleTitle Language="En">Plasma creatinine and urea concentration in children: normal values for age and sex</ArticleTitle>
+                  <JournalTitle>J Pediatr</JournalTitle>
+                  <VolumeID>88</VolumeID>
+                  <FirstPage>828</FirstPage>
+                  <LastPage>830</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1271147</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0022-3476(76)81125-0</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE28XktVeitbw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schwartz GJ, Haycock GB, Spitzer A. Plasma creatinine and urea concentration in children: normal values for age and sex.<Emphasis Type="Italic">J Pediatr</Emphasis>. 1976;88:828–830.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,2090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer International Publishing</PublisherName>
+    <PublisherLocation>Cham</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer.com</PublisherURL>
+  </PublisherInfo>
+  <Book Language="En" OutputMedium="All">
+    <BookInfo BookProductType="Professional book" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="3" NumberingStyle="ChapterContent" OutputMedium="All" TocLevels="0">
+      <BookID>978-3-319-21293-7</BookID>
+      <BookTitle>Modern Stroke Rehabilitation through e-Health-based Entertainment</BookTitle>
+      <BookDOI>10.1007/978-3-319-21293-7</BookDOI>
+      <BookTitleID>327370</BookTitleID>
+      <BookPrintISBN>978-3-319-21292-0</BookPrintISBN>
+      <BookElectronicISBN>978-3-319-21293-7</BookElectronicISBN>
+      <BookEdition>1st ed. 2016</BookEdition>
+      <BookChapterCount>10</BookChapterCount>
+      <BookCopyright>
+        <CopyrightHolderName>Springer International Publishing Switzerland</CopyrightHolderName>
+        <CopyrightYear>2016</CopyrightYear>
+        <CopyrightStandardText Language="En">This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed.</CopyrightStandardText>
+      </BookCopyright>
+      <BookSubjectGroup>
+        <BookSubject Code="SCT" Type="Primary">Engineering</BookSubject>
+        <BookSubject Code="SCT2700X" Priority="1" Type="Secondary">Biomedical Engineering</BookSubject>
+        <BookSubject Code="SCT24068" Priority="2" Type="Secondary">Circuits and Systems</BookSubject>
+        <BookSubject Code="SCH55006" Priority="3" Type="Secondary">Rehabilitation</BookSubject>
+        <BookSubject Code="SCH27002" Priority="4" Type="Secondary">Public Health</BookSubject>
+        <BookSubject Code="SCI18059" Priority="5" Type="Secondary">Multimedia Information Systems</BookSubject>
+        <SubjectCollection Code="SUCO11647">Engineering</SubjectCollection>
+      </BookSubjectGroup>
+      <BookstoreLocation>Electrical Engineering</BookstoreLocation>
+    </BookInfo>
+    <BookHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Emmanouela</GivenName>
+            <FamilyName>Vogiatzaki</FamilyName>
+          </EditorName>
+          <Contact>
+            <Email>emmanouela@rfsat.com</Email>
+          </Contact>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Artur</GivenName>
+            <FamilyName>Krukowski</FamilyName>
+          </EditorName>
+          <Contact>
+            <Email>krukowa@intracom-telecom.com</Email>
+          </Contact>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgDivision>(RFSAT) Ltd</OrgDivision>
+          <OrgName>Research for Science, Art and Technology</OrgName>
+          <OrgAddress>
+            <City>Sheffield</City>
+            <Country>United Kingdom</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Intracom S. A. Telecom Solutions</OrgName>
+          <OrgAddress>
+            <City>Peania</City>
+            <Country>Greece</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </BookHeader>
+    <Chapter ID="b978-3-319-21293-7_6" Language="En" OutputMedium="All">
+      <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" Language="En" NumberingDepth="3" NumberingStyle="ChapterContent" OutputMedium="All" TocLevels="0">
+        <ChapterID>6</ChapterID>
+        <ChapterNumber>Chapter 6</ChapterNumber>
+        <ChapterDOI>10.1007/978-3-319-21293-7_6</ChapterDOI>
+        <ChapterSequenceNumber>6</ChapterSequenceNumber>
+        <ChapterTitle Language="En">Kinect-Based Approach to Upper Limb Rehabilitation</ChapterTitle>
+        <ChapterFirstPage>169</ChapterFirstPage>
+        <ChapterLastPage>193</ChapterLastPage>
+        <ChapterCopyright>
+          <CopyrightHolderName>Springer International Publishing Switzerland</CopyrightHolderName>
+          <CopyrightYear>2016</CopyrightYear>
+        </ChapterCopyright>
+        <ChapterHistory>
+          <RegistrationDate>
+            <Year>2015</Year>
+            <Month>6</Month>
+            <Day>11</Day>
+          </RegistrationDate>
+        </ChapterHistory>
+        <ChapterContext>
+          <BookID>978-3-319-21293-7</BookID>
+          <BookTitle>Modern Stroke Rehabilitation through e-Health-based Entertainment</BookTitle>
+        </ChapterContext>
+      </ChapterInfo>
+      <ChapterHeader>
+        <AuthorGroup>
+          <Author AffiliationIDS="Aff3" CorrespondingAffiliationID="Aff3">
+            <AuthorName DisplayOrder="Western">
+              <GivenName>Holger</GivenName>
+              <FamilyName>Jost</FamilyName>
+            </AuthorName>
+            <Contact>
+              <Email>jost@cs.uni-potsdam.de</Email>
+            </Contact>
+          </Author>
+          <Affiliation ID="Aff3">
+            <OrgName>University of Potsdam</OrgName>
+            <OrgAddress>
+              <City>Potsdam</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+        </AuthorGroup>
+        <Abstract ID="Abs1" Language="En" OutputMedium="All">
+          <Heading>Abstract</Heading>
+          <Para ID="Par1">In this chapter, rehabilitation training is analyzed concerning the possible representation where real-time assessment of correct execution has the highest priority. In order to ensure proper execution of rehabilitation training, real-time feedback to the patients needs to be provided. As a first step in this task, the efficient means to process measured data to generate this feedback will be investigated and realized. Since rehabilitation exercises are sequences of body part movements, there exists a causal knowledge related to exercise movements. The complex relationship between body parts shall be represented by Answer Set Programming (ASP) allowing us to perform causal reasoning.</Para>
+          <Para ID="Par2">This chapter also discusses the tool used to create individualized training sequences or exercises for stroke rehabilitation patients with respect to design decisions, general architecture, usage, and adjustability.</Para>
+          <Para ID="Par3">The tool provides an interface to the depth sensor used to capture a patient and evaluates exercises via an interface to an ASP solver for causal reasoning. Additionally, the application offers a graphical user interface (GUI) as well as a general interface for the integration of the tool into the StrokeBack framework.</Para>
+          <Para ID="Par4">Furthermore, the steps a physical therapist has to perform to create a new training sequence or to create a compensation movement schema in cooperation with a stroke rehabilitation patient are explained and a detailed description on how compensations are handled in ASP is given.</Para>
+        </Abstract>
+      </ChapterHeader>
+      <Body>
+        <Section1 ID="Sec1">
+          <Heading>Sensors for Exercise Supervision</Heading>
+          <Para ID="Par5">The StrokeBack project means to provide a system for stroke patients in a post rehabilitation phase. The systems purpose is to support the patient in his daily exercises and thereby help the patient to improve on her/his fine motor function skills even without the supervision by a therapist.</Para>
+          <Para ID="Par6">In the patient’s home environment, the training in the post rehabilitation phase is supported by two approaches. The first approach facilitates the use of body-worn sensors. The group of sensors worn on the body is called Body Area Network (BAN) and monitors the patient’s progress by analyzing the activities of daily living. The second approach consists of a training place in the home environment. This home-use system allows a computer-assisted supervision of the patient’s exercises and progress. The exercises performed at this training place in the patient’s home are monitored by sensors. A real-time analysis of the patient’s performance can provide the patient with direct feedback. This feedback may give new impulses to the patient’s motivation to improve her/his motor skills.</Para>
+          <Para ID="Par7">When monitoring the exercises performed by the patient with a sensor or a set of sensors, changes in the environment of the real world are mapped to sets of data. A model of the exercise which is performed in the real world is needed in order to interpret the data and subsequently making assumptions on the correctness of said exercise.</Para>
+          <Para ID="Par8">The representation of a training or exercise depends largely on the method chosen to monitor the exercise. Each type of sensor is able to monitor a fragment of the real world and therefore the sensor type chosen to observe the patient has a great influence on the accurateness of measurements. The sensors commonly used for observing motion depend on visual feedback (e.g., camera security systems). The advantages are clear: the observation of an exercise with a camera is a non-intrusive method. The stroke patient does not have to bother with straps, belts, or other means of fixation. Especially in the home environment, stroke patients may not be able to use fine motor skills necessary to fasten a belt due to the affection of the body without the help of another person.</Para>
+          <Para ID="Par9">Depth sensors like Microsoft Kinect are camera-like sensors that supply an image with depth information. Choosing depth sensors to monitor rehabilitation training has some consequences on the representation of exercises. The abilities and restrictions of depth sensors are summarized shortly below.</Para>
+          <Para ID="Par10">In the recent years, cameras with depth information became cheaper and more advanced with their use as modern video game controllers (e.g., Nintendo Wii, Microsoft Kinect). Compared to a conventional photographic camera, a depth sensor can provide either single point in three-dimensional space or an entire point cloud. This point cloud can be used to create a three-dimensional image of the world.</Para>
+          <Para ID="Par11">Two different approaches can be applied when using a depth sensor. It may be useful to either use raw data from the depth sensor, or utilize existing algorithms for pre-processing the raw data in order to monitor an exercise.</Para>
+          <Para ID="Par12">The raw data of a depth sensor delivers a three-dimensional view of an exercise from a single viewpoint.</Para>
+          <Para ID="Par13">The raw data of a depth sensor can be used, if the detection of an object or body part turns out to be too difficult to handle in real time or the intended use is not covered by available algorithms.</Para>
+          <Para ID="Par14">The data stream of the depth sensor can be used in every way imaginable. The depth measurements can be manipulated and objects can be identified by applying algorithms. The only constraint is the performance of the algorithm. The performance should allow for a real-time feedback.</Para>
+          <Para ID="Par15">The producers of depth sensors and other developers provide tool and libraries with existing algorithms to detect entire human bodies, hands, other parts of the human body, or objects in the data supplied by the sensor.</Para>
+          <Para ID="Par16">When detecting a human body the libraries mentioned above, an abstraction of the body, a skeleton, is projected in three-dimensional space. This skeleton resembles a stick figure, but in three-dimensional space. Depending on the library used, the number of body joints in the skeleton varies. Development kits are provided by Microsoft with Kinect for Windows [<CitationRef CitationID="CR1">1</CitationRef>]. Another software development kit comes from OpenNI [<CitationRef CitationID="CR2">2</CitationRef>].</Para>
+          <Para ID="Par17">The use of depth sensors has some requirements to the environment. Depth sensors measure the distance to the environment in the field of view of the camera by emitting electromagnetic radiation (usually infra-red light) and capturing the reflected radiation in a sensor. Therefore, a few environmental circumstances may interfere with the process. The existence of direct sunlight, reflective surfaces, and objects blocking the view may have a mild or severe influence on the accurateness of the measurements.</Para>
+          <Para ID="Par18">Depth sensors are often designed to work with ambient light. As the sun emits radiation across most of the electromagnetic spectrum, the impact of direct sunlight on a depth sensor results in inaccurate data. Reflective surfaces and mirrors may also lead to inaccurate data as they can give the impression of a larger distance. Finally, objects may block the view behind said object. Even arms blocking a person’s upper body may induce a problem when not properly handled by an algorithm (Fig. <InternalRef RefID="Fig1">6.1</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig1">
+              <Caption Language="En">
+                <CaptionNumber>Fig. 6.1</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>The output of a depth sensor visualized in a two-dimensional picture. A person is sitting in front of the sensor. Some parts are registered to be space occluded by objects</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO1">
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_6_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </MediaObject>
+            </Figure>
+</Para>
+        </Section1>
+        <Section1 ID="Sec2">
+          <Heading>Representation of Exercises</Heading>
+          <Para ID="Par19">When describing the representation of exercises, it has to be differentiated between fine grained movements and more basic movements involving arms. When performing exercise that makes use of the fine motor skills of a patient, sensors may not be capable of capturing every delicate motion. Therefore, a model of the exercise has to be conceived which incorporates the basic movement in a simple manner. When using gross motor skills, the depiction of the exercise can be more sophisticated. In both cases, the number of exercises that may be wrongly recognized as having been carried out incorrectly has to be minimized. In the same fashion, exercises that are inadvertently identified as having been performed correctly should be minimized as well. By minimizing both false negatives and false positives, two goals can be achieved.</Para>
+          <Para ID="Par20">First, false positives distort the actual performance of a patient. Second, false negatives can be very frustrating for the patient. When performing a training in the right way but failing nonetheless, the patient may lose her/his interest in exercising.</Para>
+          <Para ID="Par21">In the following sections, the different approaches to represent basic and more sophisticated movements are presented.</Para>
+          <Section2 ID="Sec3">
+            <Heading>Basic Movements</Heading>
+            <Para ID="Par22">Very basic movements can be represented by basic techniques that check for the distance of a section of the camera’s field of view. The distance could be tested for either just one point or an area. The area’s shape depends on the exercise. This approach can also be used to detect objects without identifying them.</Para>
+            <Para ID="Par23">Every exercise is defined by a starting position and an ending position. In a training session, movements are often repeated. The motion from the starting position, across ending position, and back to the starting position could be repeated for a number of times.</Para>
+            <Para ID="Par24">An example for such an exercise would be the training of the dorsiflexion against gravity. In this exercise, the patient’s forearm is resting on a wedge-shaped cushion. The wrist is positioned on the top edge of the wedge. In this position, the palm can be moved upwards and downwards. With the camera having a direct view on the palm of the hand, the exercise can be checked by considering the distance to the nearest object above the cushion.</Para>
+            <Para ID="Par25">Another approach is needed for more sophisticated movements, i.e., involving multiple body joints.</Para>
+          </Section2>
+          <Section2 ID="Sec4">
+            <Heading>Sophisticated Movements</Heading>
+            <Para ID="Par26">Sophisticated movements cannot simply be inferred from the raw data of a depth sensor. The data needs to be processed intelligently before interpreting it. For most of the body movements, it is advisable to use a library like Kinect for Windows or OpenNI that is able to detect a human body in the point cloud given by a depth sensor. The body or parts of the body are projected onto a stick figure, a skeleton, in three-dimensional space. This skeleton is not to be confused with the anatomical skeleton in the human body. The skeleton does not differentiate between ell and radius, the bones in the forearm. There is just one edge between wrist and elbow. The number of body joints detected by a skeleton detection algorithm depends on the library that is used (Fig. <InternalRef RefID="Fig2">6.2</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig2">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 6.2</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>The body joints detected by a skeleton detection algorithm from Microsoft. The <Emphasis Type="Italic">dots</Emphasis> indicate the detected joints</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO2">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_6_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par27">An exercise consists of a starting position and an ending position. The movement between these positions is a record of snapshots. In order to make the recordings comparable to later exercises, a few modifications are made. The absolute positions of the limbs have to be softened to be comparable. This is done by converting the edges between the body joints into vectors. Through simple vector conversion, some improvements to the data can be made. By extracting the alignment of the patient’s upper body towards the camera, the vectors can be rotated around the vertical axis. This may be useful, if the patient is turned slightly to the left side or the right side.</Para>
+            <Para ID="Par28">Every human being has her/his own trademarks when moving around. Therefore, exercises are fitted specifically for each person.</Para>
+            <Para ID="Par29">The accuracy of the motion could be improved when recording the exercise multiple times. But this raises a few problems. As the patient will improve his performance over time, the exercise has to be recorded again to incorporate the improvements. Recording an exercise for 30 times in a row may annoy the patient. Other techniques have to be used to reduce the number of supervised recording sessions.</Para>
+            <Para ID="Par30">In summary, exercises are represented as a sequence of vectors. The vectors indicate the direction of the edges between body joints. The body joints are an abstraction of the skeleton of the human body captured by a depth sensor.</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec5">
+          <Heading>Evaluation of Exercises</Heading>
+          <Para ID="Par31">The evaluation of basic movements using distance is quite simple. When using a point as a reference, the evaluation involves just one checking of the distance. When using a geometric shape one could either use the arithmetic mean of the points in the area or another kind of average. A weighted mean could focus on certain point of the area chosen for evaluating the training.<Equation ID="Equa">
+              <MediaObject>
+                <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_Equa.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </MediaObject>
+              <EquationSource Format="MATHML">
+                <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <mrow>
+                    <mfrac>
+                      <mrow>
+                        <munderover>
+                          <mstyle displaystyle="true" mathsize="14">
+                            <mo>∑</mo>
+                          </mstyle>
+                          <mrow>
+                            <mi>i</mi>
+                            <mo>=</mo>
+                            <mn>1</mn>
+                          </mrow>
+                          <mi>n</mi>
+                        </munderover>
+                        <msub>
+                          <mi>w</mi>
+                          <mi>i</mi>
+                        </msub>
+                        <msub>
+                          <mi>x</mi>
+                          <mi>i</mi>
+                        </msub>
+                      </mrow>
+                      <mrow>
+                        <munderover>
+                          <mstyle displaystyle="true" mathsize="14">
+                            <mo>∑</mo>
+                          </mstyle>
+                          <mrow>
+                            <mi>i</mi>
+                            <mo>=</mo>
+                            <mn>1</mn>
+                          </mrow>
+                          <mi>n</mi>
+                        </munderover>
+                        <msub>
+                          <mi>w</mi>
+                          <mi>i</mi>
+                        </msub>
+                      </mrow>
+                    </mfrac>
+                    <mo>=</mo>
+                    <mfrac>
+                      <mrow>
+                        <msub>
+                          <mi>w</mi>
+                          <mn>1</mn>
+                        </msub>
+                        <msub>
+                          <mi>x</mi>
+                          <mn>1</mn>
+                        </msub>
+                        <mo>+</mo>
+                        <msub>
+                          <mi>w</mi>
+                          <mn>2</mn>
+                        </msub>
+                        <msub>
+                          <mi>x</mi>
+                          <mn>2</mn>
+                        </msub>
+                        <mo>+</mo>
+                        <mo>⋯</mo>
+                        <mo>+</mo>
+                        <msub>
+                          <mi>w</mi>
+                          <mi>n</mi>
+                        </msub>
+                        <msub>
+                          <mi>x</mi>
+                          <mi>n</mi>
+                        </msub>
+                      </mrow>
+                      <mrow>
+                        <msub>
+                          <mi>w</mi>
+                          <mn>1</mn>
+                        </msub>
+                        <mo>+</mo>
+                        <msub>
+                          <mi>w</mi>
+                          <mn>2</mn>
+                        </msub>
+                        <mo>+</mo>
+                        <mo>⋯</mo>
+                        <mo>+</mo>
+                        <msub>
+                          <mi>w</mi>
+                          <mi>n</mi>
+                        </msub>
+                      </mrow>
+                    </mfrac>
+                  </mrow>
+                </math>
+              </EquationSource>
+              <EquationSource Format="TEX"><![CDATA[
+$$ \frac{{\displaystyle \sum}_{i=1}^n{w}_i{x}_i}{{\displaystyle \sum}_{i=1}^n{w}_i}=\frac{w_1{x}_1+{w}_2{x}_2+\cdots +{w}_n{x}_n}{w_1+{w}_2+\cdots +{w}_n} $$
+]]></EquationSource>
+            </Equation>
+</Para>
+          <Para ID="Par32">In an area with <Emphasis Type="Italic">n</Emphasis> points, the point <Emphasis Type="Italic">x</Emphasis>
+<Subscript>
+              <Emphasis Type="Italic">i</Emphasis>
+            </Subscript> exists for all <Emphasis Type="Italic">i</Emphasis>. Every <Emphasis Type="Italic">x</Emphasis>
+<Subscript>
+              <Emphasis Type="Italic">i</Emphasis>
+            </Subscript> has a weight <Emphasis Type="Italic">w</Emphasis>
+<Subscript>
+              <Emphasis Type="Italic">i</Emphasis>
+            </Subscript>.</Para>
+          <Para ID="Par33">When dealing with a more sophisticated exercise involving multiple body limbs, another approach is needed. With the skeleton detection algorithms multiple goals are desirable. Primarily, the correctness of the exercise in general is a goal. Secondly, the lookout for indications of compensations made by the patient is desired.</Para>
+          <Section2 ID="Sec6">
+            <Heading>Correctness of an Exercise</Heading>
+            <Para ID="Par34">In general, a recorded exercise is compared to current online data when performing an exercise. As every movement differs from another, a threshold for successfully performing the exercise is allowed.</Para>
+            <Para ID="Par35">An abstract skeleton is identified by a skeleton detection algorithm and divided in vectors connecting the body joints (see Fig. <InternalRef RefID="Fig4">6.4</InternalRef>). Each of the vectors is separately compared to the previously recorded exercise. This has two advantages. The conversion to vectors eliminates the need for the patient to sit at the exact same spot every time. Furthermore, a failed performance can be attributed to one of the vectors and hold as a basis for further analyses.</Para>
+            <Para ID="Par36">The vectors are compared by calculating the angles between them. A threshold determines how accurate angle has to be and thus how accurate the exercise has to be performed.</Para>
+            <Para ID="Par37">Further mechanisms allow for performing the exercise faster or slower. In some cases it may be possible that the patient does hesitant or jerky movements in either the wrong or right way. The evaluation allows for multiple states of progress. Therefore, such deviating moves are possible up to a certain degree.</Para>
+            <Para ID="Par38">The correctness of an exercise is determined by a state machine with various rules (see Fig. <InternalRef RefID="Fig3">6.3</InternalRef>). This state machine is triggered when a patient is either in the starting position or in the ending position of a recorded exercise. Both positions mark the most important pieces of information. The starting point is obviously the beginning of the exercise, but the end position may indicate a fully performed exercise that has not been properly detected. This could happen for a variety of reasons like an abnormal skeleton detection.<Figure Category="Standard" Float="Yes" ID="Fig3">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 6.3</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>The simplified state machine for an exercise. Each <Emphasis Type="Italic">box</Emphasis> represents a state or a series of states. An exercise starts in the state start and ends with either the invalid state or finished state</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO3">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_6_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par39">The rules of the state machine allow more than one state being active at the same time. This increases the robustness of the detection because smooth movements may not be expected from stroke patients. State transitions allow starting position, monitoring progress, small movements in the wrong direction, temporarily remaining in a fixed position, failing an exercise, and finished exercise.</Para>
+            <Para ID="Par40">The progress of an exercise is matched with the recorded exercise. If a recorded exercise consists of <Emphasis Type="Italic">N</Emphasis> snapshots, the progress is tracked in <Emphasis Type="Italic">N</Emphasis> steps with 1 being the starting position and <Emphasis Type="Italic">N</Emphasis> being the end position. Movements in the wrong direction may be possible by trembling. This is caught by considering more than one progress state. Short pauses are covered as well. Failing a number of positions does not necessarily mean for the exercise to fail overall. Reaching the end position can indicate a successfully performed exercise.</Para>
+            <Para ID="Par41">The state machine is maintained for all vectors involved in the training. Figure <InternalRef RefID="Fig4">6.4</InternalRef> shows all body parts of the upper body. The individual state machines for each vector are interlinked to give an estimation of the patient’s performance. Either the exercise has been performed or it has been partially performed. In the latter case, the last position in compliance with the training is identified. The percentage of success can be calculated and used to evaluate the performance further.<Figure Category="Standard" Float="Yes" ID="Fig4">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 6.4</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>The vectors of the upper body created for exercise evaluation are represented as <Emphasis Type="Italic">arrows</Emphasis>. The <Emphasis Type="Italic">dots</Emphasis> represent the body joints detected by a skeleton detection</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO4">
+                  <ImageObject Color="BlackWhite" FileRef="MediaObjects/327370_1_En_6_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par42">Additionally, typical movements or gestures are identified to give a direct feedback as the patient may not be aware of the fact that he is doing something wrong. These compensations are monitored separately.</Para>
+          </Section2>
+          <Section2 ID="Sec7">
+            <Heading>Compensations</Heading>
+            <Para ID="Par43">Compensations are gestures or movements that are done automatically to compensate for a lack of fine motor skills. Avoiding compensations is part of the rehabilitation process of stroke patients.</Para>
+            <Para ID="Par44">When detecting compensations one is looking out for some indications. Basis for detecting a compensation in this model of an exercise are the compensations associated with the exercise, the recorded exercise, the behavior of the stroke unaffected side, and a reason why an exercise failed.</Para>
+            <Para ID="Par45">Exercises chosen are in most cases already linked to specific types of compensation. Therefore, this can be considered as an important input when trying to detect compensations on the fly. A previously recorded exercise under the supervision of a therapist serves as a basis for any derivations from the intended movements. The supervised recording means the patient’s best performance. The behavior of the unaffected side may also indicate compensations when a detection on the affected side fails for some reason. For example, the ipsilateral and contralateral flexion of the torso may be indicated in both sides of the body.</Para>
+            <Para ID="Par46">When performing an exercise, like extending an arm, the exercise may fail. By comparing the recorded exercise with the performance, a conclusion could be made on the vector and its direction. All these factors can be brought together in a logical causal context. This is done by using a rich declarative language approach called <Emphasis Type="Italic">Answer Set Programming</Emphasis> (ASP).</Para>
+            <Para ID="Par47">The knowledge representation and reasoning system allows for describing a problem in logical and easy way. This permits quick changes without a lot of costs. An optimized universal solving process resolves consequences and constraints until a solution, an answer set, has been found. Additionally, the maximization or minimization of certain aspects allows for a solution tailored towards the needs of a patient.</Para>
+            <Para ID="Par48">The complexity of the compensation reasoning has to be matched to the requirement of real-time feedback in the StrokeBack system. The average response time of the underlying reasoning system depends on the number and cross correlation of compensation features. The system used in the StrokeBack project weights up the performance against the complexity of tasks.</Para>
+            <Para ID="Par49">The detection of compensations is performed by a declarative programming oriented towards search problems. As an outgrowth of research on the use of non-monotonic reasoning in knowledge representation, it is particularly useful in knowledge-intensive applications [<CitationRef CitationID="CR3">3</CitationRef>]. The knowledge base is developed in cooperation with therapists. Background information like typical compensations in an exercise, mean to spot a compensation, and cross-correlations between compensations serve as a base for the reasoning. Compensations are often tied to certain exercises, e.g., the elevation of the scapula can be seen on the stroke affected side when lifting an object with the affected arm. The description of the compensation is also based on the representation model of the body. When comparing the shoulder vector of an elevated scapula with the reference vector of straight shoulders, a difference in the vertical axis is recognized. This deviation is monitored over time and a differentiation between an elevation and a protraction of the shoulder is estimated. All rules are provided with a weight depending on the exercise. For example, when lifting an object straight into the air, a protraction of the scapula may be more likely than a rotation of the body, although both scapula protraction and body rotation have a similar appearance in the representation model. In both cases, the shoulder of the affected side is pushed towards the front. Furthermore, compensations like elevation of the scapula and the lateral flexion towards the unaffected side are occurring together when lifting an object. When detecting interrelated compensations, the accuracy of the compensation diagnosis is increased. Adjusting the weights in consultation with the therapist increases the accuracy further.</Para>
+            <Para ID="Par50">The knowledge base and rules developed in cooperation with therapists are merged with the output of the performed exercise. A universe of all possible diagnoses is created. The problem is transformed into a search problem with the goal to find the most accurate compensation diagnosis. This also includes a perfect execution without any kind of compensation. An optimized search algorithm with learning abilities reasons on the underlying data. The search tree is pruned by conflict-driven clause learning (CDCL). See [<CitationRef CitationID="CR4">4</CitationRef>] and [<CitationRef CitationID="CR5">5</CitationRef>] for more details. The answer set is found by making a decision on the depth-first search. The clauses (<Emphasis Type="Italic">nogoods</Emphasis>) leading to a dead end in the search space are stored and the algorithm jumps back to the last decision level. The learned <Emphasis Type="Italic">nogoods</Emphasis> prevent the search algorithm to making same mistakes again. Clause learning can lead to n learned clauses with n being the number of atoms in a logic program. Rules consist of one or more atoms. The worst case size of learned clauses therefore is <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">n</Emphasis>). Different decision methods and variations of the algorithm influence the runtime of the search. A real-time compensation detection is therefore feasible.</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec8">
+          <Heading>The Exercise Design Tool</Heading>
+          <Para ID="Par51">The general purpose of the exercise design tool is to support physical therapists to design individual exercises for stroke rehabilitation patients. It also acts as an interface to a versatile answer set solving system which permits the real-time evaluation of these exercises. Furthermore, the tool should be easily integrated into the whole StrokeBack system.</Para>
+          <Para ID="Par52">In principle, the exercise design tool’s graphical user interface is not needed when the tool is fully integrated into an environment. The tool can be configured via TCP socket messages only. But a graphical user interface proved very useful in the prototyping process.</Para>
+          <Para ID="Par53">A physical therapist needs a simple to use tool which is nonetheless empowers her or him to design exercises for individual patients. Not only a movement of the upper body should be captured and compared to previously performed exercises, but also it should be able to detect different movements at the same time. The explicit description of a posture which should be avoided may be necessary.</Para>
+          <Para ID="Par54">Another aspect of the exercise design tool is the interface to the tools of the Potsdam Answer Set Solving Collection (<Emphasis Type="Italic">Potassco</Emphasis>) [<CitationRef CitationID="CR6">6</CitationRef>]. ASP and answer set solving is used to evaluate exercises. Thus, a tight integration is desirable.</Para>
+          <Para ID="Par55">Furthermore, the tool should easily integrate into the StrokeBack system. On the contrary, it should work on its own to permit testing the exercise evaluation via ASP. Therefore, at least two means of control may be necessary to implement: a graphical user interface for testing and a library to enable the tool’s features to other programs. It is important that the required versatility and flexibility is reflected in the tool’s architecture.</Para>
+          <Para ID="Par56">This section discusses the tool’s key features, hardware and software requirements, design decisions and interfaces. Additionally, a method to make the comparison of movements less difficult is presented in detail. And last but not least, the steps necessary to design an exercise are explained.</Para>
+          <Para ID="Par57">The tool’s general purpose is to capture and evaluate exercises performed by stroke rehabilitation patients. The tool captures the upper body of a person sitting in front of the depth sensor, e.g., the Microsoft Kinect. The evaluation of the exercise is done using ASP. An answer set solver is called repeatedly with updated data to allow for real-time feedback.</Para>
+          <Para ID="Par58">An exercise may consist of one or more movements of the upper body’s limbs. Each movement may result in a different output, e.g., the explicit recording of movements which should not be performed by the stroke rehabilitation patient is possible.</Para>
+          <Para ID="Par59">The design tool should offer certain key features to fulfill the requirements of a physical therapist as well as the requirements given by the environment or other applications. Thus, the tool should allow displaying the depth sensor image, recording movements performed in front of the depth sensor, selecting one or more movements which should be recognized, saving and loading previously recorded movements, selecting the joints of the upper body which are important for the exercise, selecting the answer set program used to evaluate the exercise, repeatedly calling an answer set solver to display real-time feedback, changing the frequency of depth sensor to increase performance, writing a log file to permit investigation of previously performed exercises, adjusting the preciseness of the exercise evaluation, displaying individualized output for an exercise, stopping the sensor’s data stream to save power and cool down sensor, and controlling the depth sensor’s tilt motor if necessary.</Para>
+          <Para ID="Par60">The identified key features had influence on the design of the graphical user interface as well as the general architecture of the tool.</Para>
+          <Para ID="Par61">The fundamental principle of the tool is to provide a versatile interface for physical therapists as well as other applications. Therefore, the tool supports a range of input and control means. The tool allows the use of a graphical interface, start parameters, and also offers a whole interface library which allows the input and output via other applications.</Para>
+          <Para ID="Par62">A graphical user interface enables the user use all the features of the tool with simple mouse clicks and keyboard input. Start parameters permit the user to automatize the process of evaluating exercises. The joints chosen for the exercise, the answer set program used for evaluation, and so forth can be configured when starting the program by using the predefined start parameters. With each start of the program, the parameters can be configured to fit the exercise which should be evaluated.</Para>
+          <Para ID="Par63">The start parameters can be used to start the design tool without the graphical user interface. In this case, the fully operational design tool will run in the background and can be controlled by another application. In order to do this, a interface library was created. This library supports all functionality of the design tool, e.g., recording a movement, saving and loading movements, and selecting evaluation programs. The interface library can be used to either implement another graphical user interface or to fully incorporate the design tool’s features into another application.</Para>
+          <Para ID="Par64">The tool can either be restarted for each exercise or run once and configured for each exercise on-the-fly. Having the possibility of running the tool in background over a longer period of time, the necessity to turn off the depth sensor may come in handy to prevent overheating the sensor or consuming too much power. Therefore, the decision was made to include means to turn on and turn off the data stream of the sensor.</Para>
+          <Para ID="Par65">The answer set solver is called repeatedly to incorporate incoming data from the depth sensor on-the-fly. Therefore, the incoming data from the depth sensor is transformed to permit a more flexible comparison of movements. The process used to convert the coordinates is described later.</Para>
+          <Para ID="Par66">Depth sensors are able to detect more than one person in front of the sensor. In order to simplify the identification of the person who is performing the exercise, the decision was made to work with the person closest to the center of the sensor image. The sensor will have a fixed position. The person in the center of the image is most likely the stroke rehabilitation patient and not an intervening physical therapist or someone else. In the graphical user interface, the person identified for capturing movements is marked with a red dot.</Para>
+          <Section2 ID="Sec9">
+            <Heading>Architecture</Heading>
+            <Para ID="Par67">When taking the design decisions and key features into account, the tool’s architecture can be planned. The tool’s architecture is depicted in Fig. <InternalRef RefID="Fig5">6.5</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig5">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 6.5</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>The architecture of the exercise design tool</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO5">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_6_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par68">The system uses Microsoft Kinect or rather a Kinect library to control the depth sensor, i.e., Microsoft Kinect. The tool provides the means to record movements, save and load movements, select the programs used for exercise evaluation et cetera. The GUI is the primary input and output method. A control interface which uses the provided interface library can be used as an alternative. This control interface is implemented as a TCP socket in the final prototype. The socket connection is vital for the integration of the exercise design tool into the StrokeBack architecture. The file system which is managed by the Operating System is used to store recorded exercises as well as the program encodings used for exercise evaluation. The program encodings are used by the answer set solver which is called repeatedly to return a live feedback to the tool. This feedback is interpreted by the tool and can be displayed in the graphical user interface or a control interface which uses the already mentioned interface library.</Para>
+            <Para ID="Par69">Not shown in the figure is the mean to display messages on the screen which can be displayed over other software like games. The messages can be individualized and are triggered by successful or unsuccessful events, e.g., a successfully performed exercise, a failed exercise, or compensation detected by the software. This functionality was added to allow for fast prototyping. The messages displayed in the overlay can also be transmitted via the TCP socket.</Para>
+          </Section2>
+          <Section2 ID="Sec10">
+            <Heading>Coordinate Conversion</Heading>
+            <Para ID="Par70">In order to easily compare an exercise with a recorded one, coordinates are converted to a unified coordinate system. The conversion allows for the deviation of the patient’s absolute position as well as the deviation of the patient’s angle towards the depth sensor (compare Fig. <InternalRef RefID="Fig6">6.6</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig6">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 6.6</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Relative position and angle towards the depth sensor. In (<Emphasis Type="Bold">a</Emphasis>) a person sits in front of the sensor, in (<Emphasis Type="Bold">b</Emphasis>) the person is shifted slightly to the right, and in (<Emphasis Type="Bold">c</Emphasis>) the person’s upper body is rotated</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO6">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_6_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par71">The Kinect or a Kinect library respectively delivers a simplified bone structure to represent a person in front of the depth sensor (see Fig. <InternalRef RefID="Fig4">6.4</InternalRef>). The direction of the coordinate system’s axes is depicted in Fig. <InternalRef RefID="Fig7">6.7</InternalRef>. The <Emphasis Type="Italic">x</Emphasis>-axis represents the horizontal planer, the <Emphasis Type="Italic">y</Emphasis>-axis represents the vertical plane, and the <Emphasis Type="Italic">z</Emphasis>-axis represents the depth.<Figure Category="Standard" Float="Yes" ID="Fig7">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 6.7</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>The coordinate system of the Microsoft Kinect</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO7">
+                  <ImageObject Color="BlackWhite" FileRef="MediaObjects/327370_1_En_6_Fig7_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par72">A vector reaching from the left to the right shoulder joint is created. This vector is used to calculate the angle <Emphasis Type="Italic">φ</Emphasis> between this vector v and the <Emphasis Type="Italic">x</Emphasis>-axis of the depth sensor.<Equation ID="Equb">
+                <MediaObject>
+                  <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_Equb.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+                <EquationSource Format="MATHML">
+                  <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <mrow>
+                      <mi>φ</mi>
+                      <mo>=</mo>
+                      <msup>
+                        <mrow>
+                          <mi>cos</mi>
+                        </mrow>
+                        <mrow>
+                          <mo>−</mo>
+                          <mn>1</mn>
+                        </mrow>
+                      </msup>
+                      <mfrac>
+                        <mrow>
+                          <mover accent="true">
+                            <mi>v</mi>
+                            <mo>→</mo>
+                          </mover>
+                          <mo>⋅</mo>
+                          <mover accent="true">
+                            <mrow>
+                              <msub>
+                                <mi>e</mi>
+                                <mn>1</mn>
+                              </msub>
+                            </mrow>
+                            <mo stretchy="true">→</mo>
+                          </mover>
+                        </mrow>
+                        <mrow>
+                          <mrow>
+                            <mo>|</mo>
+                            <mrow>
+                              <mrow>
+                                <mo>|</mo>
+                                <mover accent="true">
+                                  <mi>v</mi>
+                                  <mo>→</mo>
+                                </mover>
+                                <mo>|</mo>
+                              </mrow>
+                            </mrow>
+                            <mo>|</mo>
+                          </mrow>
+                        </mrow>
+                      </mfrac>
+                    </mrow>
+                  </math>
+                </EquationSource>
+                <EquationSource Format="TEX"><![CDATA[
+$$ \varphi ={ \cos}^{-1}\frac{\overrightarrow{v}\cdot \overrightarrow{e_1}}{\left|\left|\overrightarrow{v}\right|\right|} $$
+]]></EquationSource>
+              </Equation>
+</Para>
+            <Para ID="Par73">Therefore, unit vector <InlineEquation ID="IEq1">
+                <InlineMediaObject>
+                  <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </InlineMediaObject>
+                <EquationSource Format="MATHML">
+                  <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <mrow>
+                      <mover accent="true">
+                        <mrow>
+                          <msub>
+                            <mi>e</mi>
+                            <mn>1</mn>
+                          </msub>
+                        </mrow>
+                        <mo stretchy="true">→</mo>
+                      </mover>
+                    </mrow>
+                  </math>
+                </EquationSource>
+                <EquationSource Format="TEX"><![CDATA[
+$$ \overrightarrow{e_1} $$
+]]></EquationSource>
+              </InlineEquation> is used.<Equation ID="Equc">
+                <MediaObject>
+                  <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_Equc.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+                <EquationSource Format="MATHML">
+                  <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <mrow>
+                      <mover accent="true">
+                        <mrow>
+                          <msub>
+                            <mi>e</mi>
+                            <mn>1</mn>
+                          </msub>
+                        </mrow>
+                        <mo stretchy="true">→</mo>
+                      </mover>
+                      <mo>=</mo>
+                      <mrow>
+                        <mo>(</mo>
+                        <mrow>
+                          <mtable>
+                            <mtr>
+                              <mtd>
+                                <mn>1</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>0</mn>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mn>0</mn>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mrow>
+                        <mo>)</mo>
+                      </mrow>
+                    </mrow>
+                  </math>
+                </EquationSource>
+                <EquationSource Format="TEX"><![CDATA[
+$$ \overrightarrow{e_1}=\left(\begin{array}{c}1\\ {}0\\ {}0\end{array}\right) $$
+]]></EquationSource>
+              </Equation>
+</Para>
+            <Para ID="Par74">Additionally, all body joints are rotated around the <Emphasis Type="Italic">y</Emphasis>-axis. Vector <InlineEquation ID="IEq2">
+                <InlineMediaObject>
+                  <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </InlineMediaObject>
+                <EquationSource Format="MATHML">
+                  <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <mover accent="true">
+                      <mi>v</mi>
+                      <mo>→</mo>
+                    </mover>
+                  </math>
+                </EquationSource>
+                <EquationSource Format="TEX"><![CDATA[
+$$ \overrightarrow{v} $$
+]]></EquationSource>
+              </InlineEquation> is transformed to the vector <InlineEquation ID="IEq3">
+                <InlineMediaObject>
+                  <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </InlineMediaObject>
+                <EquationSource Format="MATHML">
+                  <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <mrow>
+                      <mover accent="true">
+                        <mrow>
+                          <msub>
+                            <mi>v</mi>
+                            <mi>r</mi>
+                          </msub>
+                        </mrow>
+                        <mo stretchy="true">→</mo>
+                      </mover>
+                    </mrow>
+                  </math>
+                </EquationSource>
+                <EquationSource Format="TEX"><![CDATA[
+$$ \overrightarrow{v_r} $$
+]]></EquationSource>
+              </InlineEquation>.<Equation ID="Equd">
+                <MediaObject>
+                  <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_Equd.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+                <EquationSource Format="MATHML">
+                  <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <mrow>
+                      <mover accent="true">
+                        <mrow>
+                          <msub>
+                            <mi>v</mi>
+                            <mi>r</mi>
+                          </msub>
+                        </mrow>
+                        <mo stretchy="true">→</mo>
+                      </mover>
+                      <mo>=</mo>
+                      <mrow>
+                        <mo>(</mo>
+                        <mrow>
+                          <mtable>
+                            <mtr>
+                              <mtd>
+                                <mrow>
+                                  <msub>
+                                    <mi>v</mi>
+                                    <mi>x</mi>
+                                  </msub>
+                                  <mo>⋅</mo>
+                                  <mi>cos</mi>
+                                  <mi>φ</mi>
+                                  <mo>+</mo>
+                                  <msub>
+                                    <mi>v</mi>
+                                    <mi>z</mi>
+                                  </msub>
+                                  <mo>⋅</mo>
+                                  <mi>sin</mi>
+                                  <mi>φ</mi>
+                                </mrow>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mrow>
+                                  <msub>
+                                    <mi>v</mi>
+                                    <mi>y</mi>
+                                  </msub>
+                                </mrow>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mrow>
+                                  <msub>
+                                    <mi>v</mi>
+                                    <mi>x</mi>
+                                  </msub>
+                                  <mo>⋅</mo>
+                                  <mo>−</mo>
+                                  <mi>sin</mi>
+                                  <mi>φ</mi>
+                                  <mo>+</mo>
+                                  <msub>
+                                    <mi>v</mi>
+                                    <mi>z</mi>
+                                  </msub>
+                                  <mo>⋅</mo>
+                                  <mi>cos</mi>
+                                  <mi>φ</mi>
+                                </mrow>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mrow>
+                        <mo>)</mo>
+                      </mrow>
+                    </mrow>
+                  </math>
+                </EquationSource>
+                <EquationSource Format="TEX"><![CDATA[
+$$ \overrightarrow{v_r}=\left(\begin{array}{c}{v}_x\cdot \cos \varphi +{v}_z\cdot \sin \varphi \\ {}{v}_y\\ {}{v}_x\cdot - \sin \varphi +{v}_z\cdot \cos \varphi \end{array}\right) $$
+]]></EquationSource>
+              </Equation>
+<Equation ID="Eque">
+                <MediaObject>
+                  <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_Eque.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+                <EquationSource Format="MATHML">
+                  <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <mrow>
+                      <mover accent="true">
+                        <mi>v</mi>
+                        <mo>→</mo>
+                      </mover>
+                      <mo>=</mo>
+                      <mrow>
+                        <mo>(</mo>
+                        <mrow>
+                          <mtable>
+                            <mtr>
+                              <mtd>
+                                <mrow>
+                                  <msub>
+                                    <mi>v</mi>
+                                    <mi>x</mi>
+                                  </msub>
+                                </mrow>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mrow>
+                                  <msub>
+                                    <mi>v</mi>
+                                    <mi>y</mi>
+                                  </msub>
+                                </mrow>
+                              </mtd>
+                            </mtr>
+                            <mtr>
+                              <mtd>
+                                <mrow>
+                                  <msub>
+                                    <mi>v</mi>
+                                    <mi>z</mi>
+                                  </msub>
+                                </mrow>
+                              </mtd>
+                            </mtr>
+                          </mtable>
+                        </mrow>
+                        <mo>)</mo>
+                      </mrow>
+                    </mrow>
+                  </math>
+                </EquationSource>
+                <EquationSource Format="TEX"><![CDATA[
+$$ \overrightarrow{v}=\left(\begin{array}{c}{v}_x\\ {}{v}_y\\ {}{v}_z\end{array}\right) $$
+]]></EquationSource>
+              </Equation>
+</Para>
+            <Para ID="Par75">Furthermore, a vector reaching from the center of the coordinate system to the joint representing the shoulder center is calculated. This vector is subtracted from everybody joint delivered by the Kinect library. This is done to collapse the shoulder center joint and origin of the coordinate system.</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec11">
+          <Heading>Designing an Exercise</Heading>
+          <Para ID="Par76">In this section, the steps a therapist has to perform to design a new exercise with the exercise design tool are explained. The same steps could be performed using the commands provided by the interface library. Assume that the stroke rehabilitation patient should perform an exercise with her/his affected left arm. The exercise consists of lifting the arm to a certain degree after the arm had rested on the desktop. The exercise is performed in front of the sensor.</Para>
+          <Para ID="Par77">At first, the therapist starts the design tool and checks whether or not the patient is recognized by the depth sensor. Because the patient will take more than 2 s to raise her/his arm, the recording frequency can be lowered to 10 Hz. The therapist also assigns a name to the exercise (see Fig. <InternalRef RefID="Fig8">6.8</InternalRef>). In the StrokeBack system, the name is composed automatically. The therapist does not have to bother about picking a name. Subsequently, the therapist selects the left side to be monitored (see Fig. <InternalRef RefID="Fig9">6.9</InternalRef>). The preparations for the recording are finished with this step.<Figure Category="Standard" Float="Yes" ID="Fig8">
+              <Caption Language="En">
+                <CaptionNumber>Fig. 6.8</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>The GUI of the exercise design tool. A skeleton is superposed onto the person in front of Kinect. The <Emphasis Type="Italic">dot</Emphasis> on a torso indicates person being recognized as the one performing the exercise</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO8">
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_6_Fig8_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </MediaObject>
+            </Figure>
+<Figure Category="Standard" Float="Yes" ID="Fig9">
+              <Caption Language="En">
+                <CaptionNumber>Fig. 6.9</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>Vectors representing the upper body of a patient can be selected in the GUI</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO9">
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_6_Fig9_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </MediaObject>
+            </Figure>
+</Para>
+          <Para ID="Par78">The physical therapist asks the patient to rest her/his arm on the desktop. The therapist starts the recording by pressing on the button labeled <Emphasis Type="Italic">Start Recording</Emphasis> and gives a sign to the patient to start performing the exercise which was agreed upon. The patient raises the arm under the instructions of the physical therapist. When the patient has reached the desired height, the therapist can stop the recording by pressing the same button. If the movement has not been performed properly, the recording process is repeated until the physical therapist is satisfied with the patient’s performance. The exercise has been successfully designed.</Para>
+          <Para ID="Par79">The therapist may also check the record by initiating an exercise evaluation by pressing the button labeled <Emphasis Type="Italic">Start Test Mode</Emphasis>. When the movement is successfully recognized, the exercise can be repeated without the supervision of the therapist. If not, the therapist has the possibility to increase the derivation allowed when performing the exercise. There are multiple means to adjust the settings for exercises (see Fig. <InternalRef RefID="Fig10">6.10</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig10">
+              <Caption Language="En">
+                <CaptionNumber>Fig. 6.10</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>Various settings for exercises and compensation detection in the GUI</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO10">
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_6_Fig10_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </MediaObject>
+            </Figure>
+</Para>
+          <Para ID="Par80">Two variables can be adjusted to fit an exercise to a patient’s condition. The variable <Emphasis Type="Italic">angle</Emphasis> adjusts the allowed derivation from the originally recorded exercise. As the upper body is represented as vectors, the derivation from the recorded exercise can be given as an angle between any two vectors involved in the exercise. An exercise not necessarily fails when the derivation from the original recorded exercises is too high. Some movements made by the patient as well as measurement errors by the sensor should not fail the exercise. Some patients are allowed to vary their movements more than others. Therefore, the therapist can adjust the variable <Emphasis Type="Italic">cDuration</Emphasis>. This variable defines the maximal duration for stronger derivations. This variable is also used when detecting compensation movements.</Para>
+          <Section2 ID="Sec12">
+            <Heading>Adjusting for Compensation</Heading>
+            <Para ID="Par81">The exercise design tool was developed to also detect compensation movements made by stroke rehabilitation patients. The list of compensations includes contralateral and ipsilateral flexion, scapula protraction, scapula elevation, and the flexion of the torso.</Para>
+            <Para ID="Par82">With approaching new technology, other compensations could be added to the list of compensations supported by the prototype in the future.</Para>
+            <Para ID="Par83">Assume that a patient is training her/his fine motor skills in front of the Kinect. For each exercise the therapist is able to save a reference of the upper body. This reference represents a near ideal position in which the patient should perform the given exercise. The setup for such an exercise can be automatically configured by the StrokeBack system. In the graphical user interface, this can also be achieved by setting up a name, selecting the involved body vectors, and clicking the button labeled <Emphasis Type="Italic">Set Referenc</Emphasis>e (see Figs. <InternalRef RefID="Fig8">6.8</InternalRef> and <InternalRef RefID="Fig9">6.9</InternalRef>). The process is very similar to the designing of an exercise. The variables in Fig. <InternalRef RefID="Fig10">6.10</InternalRef> can be set up for the specific needs and posture of a patient.</Para>
+            <Para ID="Par84">Every single type of compensation can be activated or deactivated for an exercise. If a compensation is actively surveyed, the therapist has the option to extend or restrict the movement until a compensation is detected.</Para>
+            <Para ID="Par85">The variable <Emphasis Type="Italic">scapula elevation</Emphasis> determines the angle allowed to derivate from the original reference. When the variable is set to <Emphasis Type="Italic">500</Emphasis> and the shoulder is lifted higher than 5°, a compensation may be present. In the same fashion, the variable <Emphasis Type="Italic">scapula protraction</Emphasis> can be used to determine the allowed derivation when pushing the shoulder forward. The variable <Emphasis Type="Italic">ipsilateral flexion</Emphasis> (or <Emphasis Type="Italic">contralateral flexion</Emphasis>) determines the allowed derivation when leaning towards the stroke affected side (or away from the affected side respectively). To measure the flexion of the torso, a little trick is needed. As the Microsoft skeleton detection algorithm only provides unreliable data for the spine (compare Fig. <InternalRef RefID="Fig4">6.4</InternalRef>), the distance between patient and sensor is used as an approximate comparison value. The variable <Emphasis Type="Italic">cDistance</Emphasis> is used to represent the derivation from the original posture in centimeters.</Para>
+            <Para ID="Par86">Similar to the use when designing a regular exercise, the variable <Emphasis Type="Italic">cDuration</Emphasis> can be used to give a rough estimate how long a comparison has to show until it is noted or even shown to the patient via a screen message. This message can be appeared over other software like games.</Para>
+          </Section2>
+          <Section2 ID="Sec13">
+            <Heading>Compensations and ASP</Heading>
+            <Para ID="Par87">The detection of compensations as well as the evaluation of rehabilitation exercises with the exercise design tool is done with ASP.</Para>
+            <Para ID="Par88">ASP is a declarative programming paradigm which is based on the stable model semantics first introduced by [<CitationRef CitationID="CR7">7</CitationRef>]. ASP is oriented towards difficult, primarily NP-hard search problems [<CitationRef CitationID="CR3">3</CitationRef>] but can be used to solve various problems beyond knowledge representation and reasoning [<CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>].</Para>
+            <Section3 ID="Sec14">
+              <Heading>Theoretical Background</Heading>
+              <Para ID="Par89">
+<InlineEquation ID="IEq121">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq121.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi mathvariant="script">P</mi>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ \mathcal{P} $$
+]]></EquationSource>
+                </InlineEquation> is a set of <Emphasis Type="Italic">predicate</Emphasis> symbols (e.g., <Emphasis Type="Italic">p</Emphasis>, <Emphasis Type="Italic">q</Emphasis>, <Emphasis Type="Italic">r</Emphasis>), <InlineEquation ID="IEq5">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi mathvariant="script">C</mi>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ \mathcal{C} $$
+]]></EquationSource>
+                </InlineEquation> is a set of <Emphasis Type="Italic">constant</Emphasis> symbols (e.g., <Emphasis Type="Italic">f</Emphasis>, <Emphasis Type="Italic">g</Emphasis>, <Emphasis Type="Italic">h</Emphasis>), and <InlineEquation ID="IEq6">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi mathvariant="script">V</mi>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ \mathcal{V} $$
+]]></EquationSource>
+                </InlineEquation> is a set of <Emphasis Type="Italic">variable</Emphasis> symbols (e.g., <Emphasis Type="Italic">a</Emphasis>, <Emphasis Type="Italic">b</Emphasis>, <Emphasis Type="Italic">c</Emphasis>). It is assumed that the sets <InlineEquation ID="IEq122">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq122.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi mathvariant="script">P</mi>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ \mathcal{P} $$
+]]></EquationSource>
+                </InlineEquation>, <InlineEquation ID="IEq8">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi mathvariant="script">C</mi>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ \mathcal{C} $$
+]]></EquationSource>
+                </InlineEquation>, and <InlineEquation ID="IEq9">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi mathvariant="script">V</mi>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ \mathcal{V} $$
+]]></EquationSource>
+                </InlineEquation> are disjoint. The members of <InlineEquation ID="IEq10">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi mathvariant="script">C</mi>
+                        <mo>∪</mo>
+                        <mi mathvariant="script">V</mi>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ \mathcal{C}\cup \mathcal{V} $$
+]]></EquationSource>
+                </InlineEquation> are <Emphasis Type="Italic">terms</Emphasis>. Given a predicate <InlineEquation ID="IEq11">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>p</mi>
+                        <mo>∈</mo>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ p\in $$
+]]></EquationSource>
+                </InlineEquation> of arity <Emphasis Type="Italic">n</Emphasis>, also denoted as <Emphasis Type="Italic">p</Emphasis>/<Emphasis Type="Italic">n</Emphasis>, along with terms <InlineEquation ID="IEq12">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <msub>
+                          <mi>t</mi>
+                          <mn>1</mn>
+                        </msub>
+                        <mo>,</mo>
+                        <mo>⋯</mo>
+                        <mo>,</mo>
+                        <msub>
+                          <mi>t</mi>
+                          <mi>n</mi>
+                        </msub>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ {t}_1,\cdots, {t}_n $$
+]]></EquationSource>
+                </InlineEquation>, <Emphasis Type="Italic">p</Emphasis>(<Emphasis Type="Italic">t</Emphasis>
+<Subscript>1</Subscript>,.., <Emphasis Type="Italic">t</Emphasis>
+<Subscript>
+                  <Emphasis Type="Italic">n</Emphasis>
+                </Subscript>) is an <Emphasis Type="Italic">atom</Emphasis> over <Emphasis Type="Italic">p</Emphasis>/<Emphasis Type="Italic">n</Emphasis>.</Para>
+              <Para ID="Par90">A (propositional normal) logic program <Emphasis Type="Italic">P</Emphasis> over <InlineEquation ID="IEq13">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mrow>
+                          <mo>(</mo>
+                          <mrow>
+                            <mi mathvariant="normal">,</mi>
+                            <mi mathvariant="script">C</mi>
+                            <mi mathvariant="normal">,</mi>
+                            <mi mathvariant="script">V</mi>
+                          </mrow>
+                          <mo>)</mo>
+                        </mrow>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ \left(,\mathcal{C},\mathcal{V}\right) $$
+]]></EquationSource>
+                </InlineEquation> is a finite set of rules of the form<Equation ID="Equf">
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_Equf.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <msub>
+                          <mi>p</mi>
+                          <mn>0</mn>
+                        </msub>
+                        <mo>←</mo>
+                        <msub>
+                          <mi>p</mi>
+                          <mn>1</mn>
+                        </msub>
+                        <mo>,</mo>
+                        <mo>⋯</mo>
+                        <mo>,</mo>
+                        <msub>
+                          <mi>p</mi>
+                          <mi>m</mi>
+                        </msub>
+                        <mo>,</mo>
+                        <mi>n</mi>
+                        <mi>o</mi>
+                        <mi>t</mi>
+                        <mspace width="0.25em"/>
+                        <msub>
+                          <mi>p</mi>
+                          <mrow>
+                            <mi>m</mi>
+                            <mo>+</mo>
+                            <mn>1</mn>
+                          </mrow>
+                        </msub>
+                        <mo>,</mo>
+                        <mo>⋯</mo>
+                        <mo>,</mo>
+                        <mspace width="0.25em"/>
+                        <mi>n</mi>
+                        <mi>o</mi>
+                        <mi>t</mi>
+                        <mspace width="0.25em"/>
+                        <msub>
+                          <mi>p</mi>
+                          <mi>n</mi>
+                        </msub>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ {p}_0\leftarrow {p}_1,\cdots, {p}_m, not\;{p}_{m+1},\cdots,\;not\;{p}_n $$
+]]></EquationSource>
+                </Equation>where <InlineEquation ID="IEq14">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mn>0</mn>
+                        <mo>≤</mo>
+                        <mi>m</mi>
+                        <mo>≤</mo>
+                        <mi>n</mi>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ 0\le m\le n $$
+]]></EquationSource>
+                </InlineEquation> and <Emphasis Type="Italic">p</Emphasis>
+<Subscript>0</Subscript>, <Emphasis Type="Italic">p</Emphasis>
+<Subscript>1</Subscript>, …, <Emphasis Type="Italic">p</Emphasis>
+<Subscript>
+                  <Emphasis Type="Italic">n</Emphasis>
+                </Subscript> are atoms. A <Emphasis Type="Italic">literal</Emphasis> is an atom <Emphasis Type="Italic">q</Emphasis> or its negation <Emphasis Type="Italic">not q</Emphasis>. For a rule <Emphasis Type="Italic">r</Emphasis>, let <InlineEquation ID="IEq15">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>h</mi>
+                        <mi>e</mi>
+                        <mi>a</mi>
+                        <mi>d</mi>
+                        <mrow>
+                          <mo>(</mo>
+                          <mi>r</mi>
+                          <mo>)</mo>
+                        </mrow>
+                        <mo>=</mo>
+                        <msub>
+                          <mi>p</mi>
+                          <mn>0</mn>
+                        </msub>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ head(r)={p}_0 $$
+]]></EquationSource>
+                </InlineEquation> be the head of <Emphasis Type="Italic">r</Emphasis> and <InlineEquation ID="IEq16">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>b</mi>
+                        <mi>o</mi>
+                        <mi>d</mi>
+                        <mi>y</mi>
+                        <mrow>
+                          <mo>(</mo>
+                          <mi>r</mi>
+                          <mo>)</mo>
+                        </mrow>
+                        <mo>=</mo>
+                        <mrow>
+                          <mo>{</mo>
+                          <mrow>
+                            <msub>
+                              <mi>p</mi>
+                              <mn>1</mn>
+                            </msub>
+                            <mo>,</mo>
+                            <mo>…</mo>
+                            <mo>,</mo>
+                            <msub>
+                              <mi>p</mi>
+                              <mi>m</mi>
+                            </msub>
+                            <mo>,</mo>
+                            <mi>n</mi>
+                            <mi>o</mi>
+                            <mi>t</mi>
+                            <mspace width="0.25em"/>
+                            <msub>
+                              <mi>p</mi>
+                              <mrow>
+                                <mi>m</mi>
+                                <mo>+</mo>
+                                <mn>1</mn>
+                              </mrow>
+                            </msub>
+                            <mo>,</mo>
+                            <mo>…</mo>
+                            <mo>,</mo>
+                            <mi>n</mi>
+                            <mi>o</mi>
+                            <mi>t</mi>
+                            <mspace width="0.25em"/>
+                            <msub>
+                              <mi>p</mi>
+                              <mi>n</mi>
+                            </msub>
+                          </mrow>
+                          <mo>}</mo>
+                        </mrow>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ body(r)=\left\{{p}_1,\dots, {p}_m, not\;{p}_{m+1},\dots, not\;{p}_n\right\} $$
+]]></EquationSource>
+                </InlineEquation> be the body of <Emphasis Type="Italic">r</Emphasis>. The set of positive body atoms of <Emphasis Type="Italic">r</Emphasis> is <InlineEquation ID="IEq17">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>b</mi>
+                        <mi>o</mi>
+                        <mi>d</mi>
+                        <mi>y</mi>
+                        <msup>
+                          <mrow>
+                            <mrow>
+                              <mo>(</mo>
+                              <mi>r</mi>
+                              <mo>)</mo>
+                            </mrow>
+                          </mrow>
+                          <mo>+</mo>
+                        </msup>
+                        <mo>=</mo>
+                        <mrow>
+                          <mo>{</mo>
+                          <mrow>
+                            <msub>
+                              <mi>p</mi>
+                              <mn>1</mn>
+                            </msub>
+                            <mi mathvariant="normal">,,</mi>
+                            <mo>…</mo>
+                            <mi mathvariant="normal">,,</mi>
+                            <mspace width="0.25em"/>
+                            <msub>
+                              <mi>p</mi>
+                              <mi>m</mi>
+                            </msub>
+                          </mrow>
+                          <mo>}</mo>
+                        </mrow>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ body{(r)}^{+}=\left\{{p}_1,,\dots,,\;{p}_m\right\} $$
+]]></EquationSource>
+                </InlineEquation> and the set of negative body atoms of <Emphasis Type="Italic">r</Emphasis> is <InlineEquation ID="IEq18">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>b</mi>
+                        <mi>o</mi>
+                        <mi>d</mi>
+                        <mi>y</mi>
+                        <msup>
+                          <mrow>
+                            <mrow>
+                              <mo>(</mo>
+                              <mi>r</mi>
+                              <mo>)</mo>
+                            </mrow>
+                          </mrow>
+                          <mo>−</mo>
+                        </msup>
+                        <mo>=</mo>
+                        <mrow>
+                          <mo>{</mo>
+                          <mrow>
+                            <msub>
+                              <mi>p</mi>
+                              <mrow>
+                                <mi>m</mi>
+                                <mo>+</mo>
+                                <mn>1</mn>
+                              </mrow>
+                            </msub>
+                            <mi mathvariant="normal">,,</mi>
+                            <mo>…</mo>
+                            <mi mathvariant="normal">,, </mi>
+                            <msub>
+                              <mi>p</mi>
+                              <mi>n</mi>
+                            </msub>
+                          </mrow>
+                          <mo>}</mo>
+                        </mrow>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ body{(r)}^{-}=\left\{{p}_{m+1},,\dots,,\ {p}_n\right\} $$
+]]></EquationSource>
+                </InlineEquation>. If <InlineEquation ID="IEq19">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>b</mi>
+                        <mi>o</mi>
+                        <mi>d</mi>
+                        <mi>y</mi>
+                        <mrow>
+                          <mo>(</mo>
+                          <mi>r</mi>
+                          <mo>)</mo>
+                        </mrow>
+                        <mo>=</mo>
+                        <mo>∅</mo>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ body(r)=\varnothing $$
+]]></EquationSource>
+                </InlineEquation>, r is also called a <Emphasis Type="Italic">fact</Emphasis>.</Para>
+              <Para ID="Par91">A logic program <Emphasis Type="Italic">P</Emphasis> is called a <Emphasis Type="Italic">positive program</Emphasis> if atoms occur only positively in all bodies, i.e., <InlineEquation ID="IEq20">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>b</mi>
+                        <mi>o</mi>
+                        <mi>d</mi>
+                        <mi>y</mi>
+                        <msup>
+                          <mrow>
+                            <mrow>
+                              <mo>(</mo>
+                              <mi>r</mi>
+                              <mo>)</mo>
+                            </mrow>
+                          </mrow>
+                          <mo>−</mo>
+                        </msup>
+                        <mo>=</mo>
+                        <mo>∅</mo>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ body{(r)}^{-}=\varnothing $$
+]]></EquationSource>
+                </InlineEquation> holds for all rules <InlineEquation ID="IEq21">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>r</mi>
+                        <mo>∈</mo>
+                        <mi>P</mi>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ r\in P $$
+]]></EquationSource>
+                </InlineEquation>.</Para>
+              <Para ID="Par92">A set <InlineEquation ID="IEq22">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>X</mi>
+                        <mo>∈</mo>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ X\in $$
+]]></EquationSource>
+                </InlineEquation> of atoms is a <Emphasis Type="Italic">model</Emphasis> of a logic program <Emphasis Type="Italic">P</Emphasis>, if <InlineEquation ID="IEq23">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq23.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>h</mi>
+                        <mi>e</mi>
+                        <mi>a</mi>
+                        <mi>d</mi>
+                        <mrow>
+                          <mo>(</mo>
+                          <mi>r</mi>
+                          <mo>)</mo>
+                        </mrow>
+                        <mo>∈</mo>
+                        <mi>X</mi>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ head(r)\in X $$
+]]></EquationSource>
+                </InlineEquation>, <InlineEquation ID="IEq24">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq24.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>b</mi>
+                        <mi>o</mi>
+                        <mi>d</mi>
+                        <mi>y</mi>
+                        <msup>
+                          <mrow>
+                            <mrow>
+                              <mo>(</mo>
+                              <mi>r</mi>
+                              <mo>)</mo>
+                            </mrow>
+                          </mrow>
+                          <mo>+</mo>
+                        </msup>
+                        <mo>⊈</mo>
+                        <mi>X</mi>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ body{(r)}^{+}\nsubseteq X $$
+]]></EquationSource>
+                </InlineEquation>, or <InlineEquation ID="IEq25">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq25.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>b</mi>
+                        <mi>o</mi>
+                        <mi>d</mi>
+                        <mi>y</mi>
+                        <msup>
+                          <mrow>
+                            <mrow>
+                              <mo>(</mo>
+                              <mi>r</mi>
+                              <mo>)</mo>
+                            </mrow>
+                          </mrow>
+                          <mo>−</mo>
+                        </msup>
+                        <mo>∩</mo>
+                        <mi>X</mi>
+                        <mo>=</mo>
+                        <mo>∅</mo>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ body{(r)}^{-}\cap X=\varnothing $$
+]]></EquationSource>
+                </InlineEquation> holds for every <InlineEquation ID="IEq26">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq26.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>r</mi>
+                        <mo>∈</mo>
+                        <mi>P</mi>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ r\in P $$
+]]></EquationSource>
+                </InlineEquation>. In ASP, the semantics of <Emphasis Type="Italic">P</Emphasis> is given by its answer sets [<CitationRef CitationID="CR7">7</CitationRef>]. The reduct <Emphasis Type="Italic">P</Emphasis>
+<Superscript>
+                  <Emphasis Type="Italic">X</Emphasis>
+                </Superscript> of <Emphasis Type="Italic">P</Emphasis> relative to <Emphasis Type="Italic">X</Emphasis> is defined by <InlineEquation ID="IEq27">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq27.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>P</mi>
+                        <mo>=</mo>
+                        <mrow>
+                          <mo>{</mo>
+                          <mrow>
+                            <mi>h</mi>
+                            <mi>e</mi>
+                            <mi>a</mi>
+                            <mi>d</mi>
+                            <mrow>
+                              <mo>(</mo>
+                              <mi>r</mi>
+                              <mo>)</mo>
+                            </mrow>
+                            <mo>←</mo>
+                            <mi>b</mi>
+                            <mi>o</mi>
+                            <mi>d</mi>
+                            <mi>y</mi>
+                            <msup>
+                              <mrow>
+                                <mrow>
+                                  <mo>(</mo>
+                                  <mi>r</mi>
+                                  <mo>)</mo>
+                                </mrow>
+                              </mrow>
+                              <mo>+</mo>
+                            </msup>
+                            <mo>|</mo>
+                            <mi>r</mi>
+                            <mo>∈</mo>
+                            <mi>P</mi>
+                            <mo>,</mo>
+                            <mspace width="0.25em"/>
+                            <mi>b</mi>
+                            <mi>o</mi>
+                            <mi>d</mi>
+                            <mi>y</mi>
+                            <msup>
+                              <mrow>
+                                <mrow>
+                                  <mo>(</mo>
+                                  <mi>r</mi>
+                                  <mo>)</mo>
+                                </mrow>
+                              </mrow>
+                              <mo>−</mo>
+                            </msup>
+                            <mo>∩</mo>
+                            <mi>X</mi>
+                            <mo>=</mo>
+                            <mo>∅</mo>
+                          </mrow>
+                          <mo>}</mo>
+                        </mrow>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ P=\left\{ head(r)\leftarrow body{(r)}^{+}\Big|r\in P,\; body{(r)}^{-}\cap X=\varnothing \right\} $$
+]]></EquationSource>
+                </InlineEquation>. <Emphasis Type="Italic">X</Emphasis> is an answer set of <Emphasis Type="Italic">P</Emphasis>, if <Emphasis Type="Italic">X</Emphasis> itself is the <InlineEquation ID="IEq28">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_IEq28.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mo>⊆</mo>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ \subseteq $$
+]]></EquationSource>
+                </InlineEquation>-minimal model of <Emphasis Type="Italic">P</Emphasis>
+<Superscript>
+                  <Emphasis Type="Italic">X</Emphasis>
+                </Superscript>. Note that any answer set of <Emphasis Type="Italic">P</Emphasis> is a model of <Emphasis Type="Italic">P</Emphasis> as well, while the converse does not hold in general [<CitationRef CitationID="CR8">8</CitationRef>].</Para>
+            </Section3>
+            <Section3 ID="Sec15">
+              <Heading>ASP Tools</Heading>
+              <Para ID="Par93">Getting the answer sets of a normal logic program with variables is usually done in two steps: <Emphasis Type="Italic">grounding</Emphasis> and <Emphasis Type="Italic">solving</Emphasis>. A program that transforms normal logic programs with variables into normal logic programs without variables is called <Emphasis Type="Italic">grounder</Emphasis>. A program that finds the answer sets of such programs is called <Emphasis Type="Italic">solver</Emphasis>.</Para>
+              <Para ID="Par94">The Potsdam Answer Set Solving Collection (Potassco) [<CitationRef CitationID="CR6">6</CitationRef>] provides among other things both grounder and solver. The grounder is called <Emphasis Type="Italic">gringo</Emphasis>, the solver is called <Emphasis Type="Italic">clasp</Emphasis>. The exercise design tool uses <Emphasis Type="Italic">gringo 4</Emphasis> and <Emphasis Type="Italic">clasp 3</Emphasis> respectively. The output of <Emphasis Type="Italic">gringo</Emphasis> is piped into <Emphasis Type="Italic">clasp</Emphasis> and the answer sets are parsed by the exercise design tool.</Para>
+            </Section3>
+            <Section3 ID="Sec16">
+              <Heading>Encoding</Heading>
+              <Para ID="Par95">In this section, the encoding of a logic program is discussed. The following logic program is encoded in the <Emphasis Type="Italic">gringo 4</Emphasis> input format and is used to detect compensation movements in stroke rehabilitation patients. Besides the encoding below, the program requires additional facts. The exercise design tool converts the data provided by the Kinect into vectors (compare Fig. <InternalRef RefID="Fig4">6.4</InternalRef>). The data uses the format<Equation ID="Equg">
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_Equg.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>d</mi>
+                        <mi>a</mi>
+                        <mi>t</mi>
+                        <mi>a</mi>
+                        <mrow>
+                          <mo>(</mo>
+                          <mrow>
+                            <mi>J</mi>
+                            <mi>o</mi>
+                            <mi>i</mi>
+                            <mi>n</mi>
+                            <mi>t</mi>
+                            <mo>,</mo>
+                            <mrow>
+                              <mo>(</mo>
+                              <mrow>
+                                <mi>X</mi>
+                                <mo>,</mo>
+                                <mi>Y</mi>
+                                <mo>,</mo>
+                                <mi>Z</mi>
+                              </mrow>
+                              <mo>)</mo>
+                            </mrow>
+                            <mo>,</mo>
+                            <mi>T</mi>
+                            <mi>i</mi>
+                            <mi>m</mi>
+                            <mi>e</mi>
+                          </mrow>
+                          <mo>)</mo>
+                        </mrow>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ data\left( Joint,\left(X,Y,Z\right), Time\right) $$
+]]></EquationSource>
+                </Equation>where <Emphasis Type="Italic">Joint</Emphasis> identifies the single vectors involved in the compensation detection. The vectors which are provided is configured through the exercise design tool. For compensation detection, the vectors <Emphasis Type="Italic">collarleft</Emphasis> and <Emphasis Type="Italic">collarright</Emphasis> are always used. When checking for torso flexion, the vector <Emphasis Type="Italic">distance</Emphasis> is also used. The second term is the vector data with the individual values for each axis <Emphasis Type="Italic">X</Emphasis>, <Emphasis Type="Italic">Y</Emphasis>, and <Emphasis Type="Italic">Z</Emphasis>. The term <Emphasis Type="Italic">Time</Emphasis> identifies the order of the incoming time points. 15 time points sum up to a second. Different joint vectors can have the same value to identify the exact same point in time.</Para>
+              <Para ID="Par96">Additionally, a reference for each vector is given by<Equation ID="Equh">
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="327370_1_En_6_Chapter_Equh.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML">
+                    <math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>r</mi>
+                        <mi>e</mi>
+                        <mi>f</mi>
+                        <mi>e</mi>
+                        <mi>r</mi>
+                        <mi>e</mi>
+                        <mi>n</mi>
+                        <mi>c</mi>
+                        <mi>e</mi>
+                        <mrow>
+                          <mo>(</mo>
+                          <mrow>
+                            <mi>J</mi>
+                            <mi>o</mi>
+                            <mi>i</mi>
+                            <mi>n</mi>
+                            <mi>t</mi>
+                            <mo>,</mo>
+                            <mrow>
+                              <mo>(</mo>
+                              <mrow>
+                                <mi>X</mi>
+                                <mo>,</mo>
+                                <mi>Y</mi>
+                                <mo>,</mo>
+                                <mi>Z</mi>
+                              </mrow>
+                              <mo>)</mo>
+                            </mrow>
+                          </mrow>
+                          <mo>)</mo>
+                        </mrow>
+                        <mo>.</mo>
+                      </mrow>
+                    </math>
+                  </EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ reference\left( Joint,\left(X,Y,Z\right)\right). $$
+]]></EquationSource>
+                </Equation>
+</Para>
+              <Para ID="Par97">The reference is used for comparing the current derivation from the ideal posture. The term <Emphasis Type="Italic">Joint</Emphasis> identifies the joint vector, e.g., <Emphasis Type="Italic">distance</Emphasis>. The second term provides the values of the vector.</Para>
+              <Para ID="Par98">Other facts are given as well, depending on the compensations selected for detection. Assume that the compensations <Emphasis Type="Italic">ipsilateral flexion</Emphasis>, <Emphasis Type="Italic">scapula elevation</Emphasis>, and <Emphasis Type="Italic">scapula protraction</Emphasis> are to be surveyed. Therefore, the facts</Para>
+              <Para ID="Par99">
+                <Emphasis FontCategory="NonProportional">lookfor("ipsilateral flexion").</Emphasis>
+              </Para>
+              <Para ID="Par100">
+                <Emphasis FontCategory="NonProportional">lookfor("scapula elevation").</Emphasis>
+              </Para>
+              <Para ID="Par101">
+                <Emphasis FontCategory="NonProportional">lookfor("scapula protraction").</Emphasis>
+              </Para>
+              <Para ID="Par102">are added to the logic program. In order to correctly identify the side of the body affected by the stroke, the fact</Para>
+              <Para ID="Par103">
+                <Emphasis FontCategory="NonProportional">affected(left).</Emphasis>
+              </Para>
+              <Para ID="Par104">or</Para>
+              <Para ID="Par105">
+                <Emphasis FontCategory="NonProportional">affected(right).</Emphasis>
+              </Para>
+              <Para ID="Par106">are added to the logic program.</Para>
+              <Para ID="Par107">The <Emphasis Type="Italic">gringo 4</Emphasis> input format allows the definition of constant symbols. The constant symbols for the exercise are defined as follows.</Para>
+              <Para ID="Par108">
+                <Emphasis FontCategory="NonProportional">#const ipsilateralflexion = 500.</Emphasis>
+              </Para>
+              <Para ID="Par109">
+                <Emphasis FontCategory="NonProportional">#const scapulaelevation = 500.</Emphasis>
+              </Para>
+              <Para ID="Par110">
+                <Emphasis FontCategory="NonProportional">#const scapulaprotraction = 500.</Emphasis>
+              </Para>
+              <Para ID="Par111">
+                <Emphasis FontCategory="NonProportional">#const cduration = 30.</Emphasis>
+              </Para>
+              <Para ID="Par112">The critical angle for each compensation is set to 5°. When defining the value 30 to the constant <Emphasis Type="Italic">cduration</Emphasis>, the time needed for a compensation to be registered is set to two seconds and the check is set at 15 Hz.</Para>
+              <Para ID="Par113">Three auxiliary predicates are used in logic program. Using predicates with a reduced arity reduces the search space for the solver and reduces processor load.</Para>
+              <Para ID="Par114" Type="Programcode">
+                <Emphasis FontCategory="NonProportional">reference(Joint,V) :- reference(_,Joint,V).</Emphasis>
+              </Para>
+              <Para ID="Par115">
+                <Emphasis FontCategory="NonProportional">joint(Joint) :- reference(Joint,_).</Emphasis>
+              </Para>
+              <Para ID="Par116">
+                <Emphasis FontCategory="NonProportional">time(Time) :- data(_,_,Time).</Emphasis>
+              </Para>
+              <Para ID="Par117">For each joint vector and each time point, the derivation from the ideal posture is calculated. The logic program uses simple functions written in the programming language LUA [<CitationRef CitationID="CR10">10</CitationRef>]. The function @ <Emphasis Type="Italic">angle</Emphasis>/6 returns the angle between to vectors, the function @ <Emphasis Type="Italic">comp</Emphasis>/6 returns an estimate direction to which the shoulder was shifted, e.g., <Emphasis Type="Italic">up</Emphasis>, <Emphasis Type="Italic">down</Emphasis>, <Emphasis Type="Italic">front</Emphasis>, and <Emphasis Type="Italic">upfront</Emphasis>.</Para>
+              <Para ID="Par118">
+                <Emphasis FontCategory="NonProportional">angle_diff(Joint,Angle,Prog,Time) :- data(Joint,(X1,Y1,Z1),Time),</Emphasis>
+              </Para>
+              <Para ID="Par119">
+                                                                                            <Emphasis FontCategory="NonProportional">Joint != distance,</Emphasis>
+</Para>
+              <Para ID="Par120">
+                                                                                            <Emphasis FontCategory="NonProportional">reference(Joint,(</Emphasis> <Emphasis FontCategory="NonProportional" Type="Italic">X</Emphasis> <Emphasis FontCategory="NonProportional">2							,Y2,Z2)),</Emphasis>
+</Para>
+              <Para ID="Par121">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle = @ angle						(X1,Y1,Z1,</Emphasis> <Emphasis FontCategory="NonProportional" Type="Italic">X</Emphasis> <Emphasis FontCategory="NonProportional">2,Y2,Z2),</Emphasis>
+</Para>
+              <Para ID="Par122">
+                                                                                            <Emphasis FontCategory="NonProportional">Prog = @comp						(X1,Y1,Z1,</Emphasis> <Emphasis FontCategory="NonProportional" Type="Italic">X</Emphasis> <Emphasis FontCategory="NonProportional">2,Y2,Z2),</Emphasis>
+</Para>
+              <Para ID="Par123">
+                                                                                            <Emphasis FontCategory="NonProportional">time(Time).</Emphasis>
+</Para>
+              <Para ID="Par124">The <Emphasis Type="Italic">torso flexion</Emphasis> is handled different from the other compensation movements. The distance between the reference and the current distance of the torso from the Kinect is calculated by the LUA function @ <Emphasis Type="Italic">distance</Emphasis>/2. This is done for every time point if the <Emphasis Type="Italic">torso flexion</Emphasis> is one of the selected compensation movements. When the calculated distance is greater than the constant <Emphasis Type="Italic">cdistance</Emphasis>, it is likely that a compensation is performed by the patient.</Para>
+              <Para ID="Par125">
+                <Emphasis FontCategory="NonProportional">poss_comp("torso flexion",Time) :- data(distance,(X1,Y1,Z1),Time),</Emphasis>
+              </Para>
+              <Para ID="Par126">
+                                                                                            <Emphasis FontCategory="NonProportional">reference(distance,(</Emphasis> <Emphasis FontCategory="NonProportional" Type="Italic">X</Emphasis> <Emphasis FontCategory="NonProportional">2,Y2,Z2)),</Emphasis>
+</Para>
+              <Para ID="Par127">
+                                                                                            <Emphasis FontCategory="NonProportional">Dis = @distance(Z2,Z1),</Emphasis>
+</Para>
+              <Para ID="Par128">
+                                                                                            <Emphasis FontCategory="NonProportional">Dis &gt; cdistance,</Emphasis>
+</Para>
+              <Para ID="Par129">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("torso flexion").</Emphasis>
+</Para>
+              <Para ID="Par130">All other types of compensation are handled in similar fashion. For each time point it is checked if the previously calculated angle to reference exceeds the corresponding constant set up earlier. This is checked for both sides of the body which may be affected by the stroke and different directions in which the shoulder could be shifted. The shoulder might be pushed upwards to indicate a <Emphasis Type="Italic">scapula elevation</Emphasis> but it also might be pushed slightly towards the front when appearing together with a <Emphasis Type="Italic">scapula protraction</Emphasis>. Different rules cover all possible cases.</Para>
+              <Para ID="Par131">
+                <Emphasis FontCategory="NonProportional">poss_comp("scapula elevation",Time) :- angle_diff(collar						left,Angle,"up",Time),</Emphasis>
+              </Para>
+              <Para ID="Par132">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; scapulaelevation,</Emphasis>
+</Para>
+              <Para ID="Par133">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(left),</Emphasis>
+</Para>
+              <Para ID="Par134">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("scapula elevation").</Emphasis>
+</Para>
+              <Para ID="Par135">
+                <Emphasis FontCategory="NonProportional">poss_comp("scapula elevation",Time) :- angle_diff(collar						left,Angle,						"upfront",Time),</Emphasis>
+              </Para>
+              <Para ID="Par136">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; scapulaelevation,</Emphasis>
+</Para>
+              <Para ID="Par137">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(left),</Emphasis>
+</Para>
+              <Para ID="Par138">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("scapula elevation").</Emphasis>
+</Para>
+              <Para ID="Par139">
+                <Emphasis FontCategory="NonProportional">poss_comp("scapula elevation",Time) :- angle_diff(collarright,					   Angle,"up",Time),</Emphasis>
+              </Para>
+              <Para ID="Par140">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; scapulaelevation,</Emphasis>
+</Para>
+              <Para ID="Par141">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(right),</Emphasis>
+</Para>
+              <Para ID="Par142">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("scapula elevation").</Emphasis>
+</Para>
+              <Para ID="Par143">
+                <Emphasis FontCategory="NonProportional">poss_comp("scapula elevation",Time) :- angle_diff(collarright,					   Angle,"upfront",Time),</Emphasis>
+              </Para>
+              <Para ID="Par144">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; scapulaelevation,</Emphasis>
+</Para>
+              <Para ID="Par145">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(right),</Emphasis>
+</Para>
+              <Para ID="Par146">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("scapula elevation").</Emphasis>
+</Para>
+              <Para ID="Par148">
+                <Emphasis FontCategory="NonProportional">poss_comp("scapula protraction",Time) :- angle_diff(collarleft,					   Angle,"front",Time),</Emphasis>
+              </Para>
+              <Para ID="Par149">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; scapulaprotraction,</Emphasis>
+</Para>
+              <Para ID="Par150">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(left),</Emphasis>
+</Para>
+              <Para ID="Par151">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("scapula protraction").</Emphasis>
+</Para>
+              <Para ID="Par152">
+                <Emphasis FontCategory="NonProportional">poss_comp("scapula protraction",Time) :- angle_diff(collarleft,					   Angle,"upfront",Time),</Emphasis>
+              </Para>
+              <Para ID="Par153">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; scapulaprotraction,</Emphasis>
+</Para>
+              <Para ID="Par154">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(left),</Emphasis>
+</Para>
+              <Para ID="Par155">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("scapula protraction").</Emphasis>
+</Para>
+              <Para ID="Par156">
+                <Emphasis FontCategory="NonProportional">poss_comp("scapula protraction",Time) :- angle_diff(collarright,					   Angle,"front",Time),</Emphasis>
+              </Para>
+              <Para ID="Par157">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; scapulaprotraction,</Emphasis>
+</Para>
+              <Para ID="Par158">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(right),</Emphasis>
+</Para>
+              <Para ID="Par159">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("scapula protraction").</Emphasis>
+</Para>
+              <Para ID="Par160">
+                <Emphasis FontCategory="NonProportional">poss_comp("scapula protraction",Time) :- angle_diff(collarright,					   Angle,"upfront",Time),</Emphasis>
+              </Para>
+              <Para ID="Par161">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; scapulaprotraction,</Emphasis>
+</Para>
+              <Para ID="Par162">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(right),</Emphasis>
+</Para>
+              <Para ID="Par163">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("scapula protraction").</Emphasis>
+</Para>
+              <Para ID="Par165">
+                <Emphasis FontCategory="NonProportional">poss_comp("ipsilateral flexion",Time) :- angle_diff(collarleft,					   Angle,"down",Time),</Emphasis>
+              </Para>
+              <Para ID="Par166">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; ipsilateralflexion,</Emphasis>
+</Para>
+              <Para ID="Par167">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(left),</Emphasis>
+</Para>
+              <Para ID="Par168">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("ipsilateral flexion").</Emphasis>
+</Para>
+              <Para ID="Par169">
+                <Emphasis FontCategory="NonProportional">poss_comp("ipsilateral flexion",Time) :- angle_diff(collarright,					   Angle,"down",Time),</Emphasis>
+              </Para>
+              <Para ID="Par170">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; ipsilateralflexion,</Emphasis>
+</Para>
+              <Para ID="Par171">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(right),</Emphasis>
+</Para>
+              <Para ID="Par172">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("ipsilateral flexion").</Emphasis>
+</Para>
+              <Para ID="Par174">
+                <Emphasis FontCategory="NonProportional">poss_comp("contralateral flexion", Time) :- angle_diff(collarright,					   Angle,"down",Time),</Emphasis>
+              </Para>
+              <Para ID="Par175">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; contralateralflexion,</Emphasis>
+</Para>
+              <Para ID="Par176">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(left),</Emphasis>
+</Para>
+              <Para ID="Par177">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("contralateral flexion").</Emphasis>
+</Para>
+              <Para ID="Par178">
+                <Emphasis FontCategory="NonProportional">poss_comp("contralateral flexion", Time) :- angle_diff(collarleft,					   Angle,"down",Time),</Emphasis>
+              </Para>
+              <Para ID="Par179">
+                                                                                            <Emphasis FontCategory="NonProportional">Angle &gt; contralateralflexion,</Emphasis>
+</Para>
+              <Para ID="Par180">
+                                                                                            <Emphasis FontCategory="NonProportional">affected(right),</Emphasis>
+</Para>
+              <Para ID="Par181">
+                                                                                            <Emphasis FontCategory="NonProportional">lookfor("contralateral flexion").</Emphasis>
+</Para>
+              <Para ID="Par182">Another auxiliary predicate is used to count the number of consecutive time point where the same type of compensation is registered.</Para>
+              <Para ID="Par183">
+                <Emphasis FontCategory="NonProportional">poss_comp(Comp,Time,1) :- poss_comp(Comp,Time),</Emphasis>
+              </Para>
+              <Para ID="Par184">
+                                                                       <Emphasis FontCategory="NonProportional">not poss_comp(Comp,Time-1),</Emphasis>
+</Para>
+              <Para ID="Par185">
+                                                                       <Emphasis FontCategory="NonProportional">time(Time).</Emphasis>
+</Para>
+              <Para ID="Par186">
+                <Emphasis FontCategory="NonProportional">poss_comp(Comp,Time,N+1) :- poss_comp(Comp,Time),</Emphasis>
+              </Para>
+              <Para ID="Par187">
+                                                                       <Emphasis FontCategory="NonProportional">poss_comp(Comp,Time-1,N),</Emphasis>
+</Para>
+              <Para ID="Par188">
+                                                                       <Emphasis FontCategory="NonProportional">time(Time).</Emphasis>
+</Para>
+              <Para ID="Par189">If the number of consecutively detected compensation derivations exceeds the constant <Emphasis Type="Italic">cduration</Emphasis>, the compensation is given as detected.</Para>
+              <Para ID="Par190">
+                <Emphasis FontCategory="NonProportional">comp(Comp) :- poss_comp(Comp,Time,N),</Emphasis>
+              </Para>
+              <Para ID="Par191">
+                                    <Emphasis FontCategory="NonProportional">time(Time),</Emphasis>
+</Para>
+              <Para ID="Par192">
+                                    <Emphasis FontCategory="NonProportional">N &gt;= cduration.</Emphasis>
+</Para>
+              <Para ID="Par193">Predicates names starting with an underscore indicate commands to the exercise design tool. Whenever one or more compensations were detected, the accumulated data is dropped to reduce processor load.</Para>
+              <Para ID="Par194">
+                <Emphasis FontCategory="NonProportional">_restart :- comp("scapula elevation").</Emphasis>
+              </Para>
+              <Para ID="Par195">
+                <Emphasis FontCategory="NonProportional">_restart :- comp("scapula protraction").</Emphasis>
+              </Para>
+              <Para ID="Par196">
+                <Emphasis FontCategory="NonProportional">_restart :- comp("ipsilateral flexion").</Emphasis>
+              </Para>
+              <Para ID="Par197">
+                <Emphasis FontCategory="NonProportional">_restart :- comp("contralateral flexion").</Emphasis>
+              </Para>
+              <Para ID="Par198">
+                <Emphasis FontCategory="NonProportional">_restart :- comp("torso flexion").</Emphasis>
+              </Para>
+              <Para ID="Par199">The cumulated data is also wiped whenever 8 s have passed without detecting a compensation. This is done to guarantee the real-time processing.</Para>
+              <Para ID="Par200">
+                <Emphasis FontCategory="NonProportional">_restart :- time(120).</Emphasis>
+              </Para>
+              <Para ID="Par201">If the fact</Para>
+              <Para ID="Par202">
+                <Emphasis FontCategory="NonProportional">comp_messages.</Emphasis>
+              </Para>
+              <Para ID="Par203">is added to the logic program, a message can be displayed in an overlay over another software. For each compensation a message can be defined in the predicate <Emphasis Type="Italic">alert</Emphasis>/2. The atom <Emphasis Type="Italic">Message</Emphasis> is then handled by the exercise compensation tool.</Para>
+              <Para ID="Par204" Type="Programcode">
+                <Emphasis FontCategory="NonProportional">_message(5,Message) :- comp("scapula elevation"),</Emphasis>
+              </Para>
+              <Para ID="Par205" Type="Programcode">
+                <Emphasis FontCategory="NonProportional">not comp("scapula protraction"),</Emphasis>
+              </Para>
+              <Para ID="Par206">
+                                                                                            <Emphasis FontCategory="NonProportional">comp_messages,</Emphasis>
+</Para>
+              <Para ID="Par207">
+                                                                                            <Emphasis FontCategory="NonProportional">alert("scapula elevation",Message).</Emphasis>
+</Para>
+              <Para ID="Par208">
+                                                                                            <Emphasis FontCategory="NonProportional">_message(5,Message) :- comp("scapula protraction"),</Emphasis>
+</Para>
+              <Para ID="Par209">
+                                                                                            <Emphasis FontCategory="NonProportional">not comp("scapula elevation"),</Emphasis>
+</Para>
+              <Para ID="Par210">
+                                                                                            <Emphasis FontCategory="NonProportional">comp_messages,</Emphasis>
+</Para>
+              <Para ID="Par211">
+                                                                                            <Emphasis FontCategory="NonProportional">alert("scapula protraction",Message).</Emphasis>
+</Para>
+              <Para ID="Par212">
+                                                                                            <Emphasis FontCategory="NonProportional">_message(5,Message) :- comp("scapula elevation"),</Emphasis>
+</Para>
+              <Para ID="Par213">
+                                                                                            <Emphasis FontCategory="NonProportional">comp("scapula protraction"),</Emphasis>
+</Para>
+              <Para ID="Par214">
+                                                                                            <Emphasis FontCategory="NonProportional">comp_messages,</Emphasis>
+</Para>
+              <Para ID="Par215">
+                                                                                            <Emphasis FontCategory="NonProportional">alert("elevation and protraction",Message).</Emphasis>
+</Para>
+              <Para ID="Par216">
+                                                                                            <Emphasis FontCategory="NonProportional">_message(5,Message) :- comp("ipsilateral flexion"),</Emphasis>
+</Para>
+              <Para ID="Par217">
+                                                                                            <Emphasis FontCategory="NonProportional">comp_messages,</Emphasis>
+</Para>
+              <Para ID="Par218">
+                                                                                            <Emphasis FontCategory="NonProportional">alert("ipsilateral flexion",Message).</Emphasis>
+</Para>
+              <Para ID="Par219">
+                <Emphasis FontCategory="NonProportional">_message(5,Message) :- comp("contralateral flexion"),</Emphasis>
+              </Para>
+              <Para ID="Par220">
+                                                                                            <Emphasis FontCategory="NonProportional">comp_messages,</Emphasis>
+</Para>
+              <Para ID="Par221">
+                                                                                            <Emphasis FontCategory="NonProportional">alert("contralateral flexion",Message).</Emphasis>
+</Para>
+              <Para ID="Par222">
+                <Emphasis FontCategory="NonProportional">_message(5,Message) :- comp("torso flexion"),</Emphasis>
+              </Para>
+              <Para ID="Par223">
+                                                                                            <Emphasis FontCategory="NonProportional">comp_messages,</Emphasis>
+</Para>
+              <Para ID="Par224">
+                                                                                            <Emphasis FontCategory="NonProportional">alert("torso flexion",Message).</Emphasis>
+</Para>
+              <Para ID="Par225">Below you can find an example of how messages directed towards the patient may look like.</Para>
+              <Para ID="Par226">
+                <Emphasis FontCategory="NonProportional">alert("torso flexion","Do not bend forward!").</Emphasis>
+              </Para>
+              <Para ID="Par227">
+                <Emphasis FontCategory="NonProportional">alert("scapula elevation","Lower your shoulder!").</Emphasis>
+              </Para>
+              <Para ID="Par228">
+                <Emphasis FontCategory="NonProportional">alert("scapula elevation","Do not push shoulder forward!").</Emphasis>
+              </Para>
+              <Para ID="Par229">
+                <Emphasis FontCategory="NonProportional">alert("elevation and protraction","Lower your shoulder and do not push it forward!").</Emphasis>
+              </Para>
+              <Para ID="Par230">
+                <Emphasis FontCategory="NonProportional">alert("ipsilateral flexion","Do not lean towards your arm!").</Emphasis>
+              </Para>
+              <Para ID="Par231">
+                <Emphasis FontCategory="NonProportional">alert("contralateral flexion","Do not bend away from your arm!").</Emphasis>
+              </Para>
+              <Para ID="Par232">Additionally, noninvasive messages can be displayed in the graphical user interface of the exercise design tool. In this case, only the name of the detected compensation is displayed for 2 s. The text is also colored red.</Para>
+              <Para ID="Par233">
+                <Emphasis FontCategory="NonProportional">_print(2,2,"red","scapula elevation") :- comp("scapula elevation"), not comp("scapula protraction").</Emphasis>
+              </Para>
+              <Para ID="Par234">
+                <Emphasis FontCategory="NonProportional">_print(2,2,"red","scapula protraction") :- comp("scapula pro						traction"), not comp						("scapula elevation").</Emphasis>
+              </Para>
+              <Para ID="Par235">
+                <Emphasis FontCategory="NonProportional">_print(2,2,"red","scapula elevation and protraction") :- comp("scapula 							elevation"), 							comp("scapula 						     protraction").</Emphasis>
+              </Para>
+              <Para ID="Par236">
+                <Emphasis FontCategory="NonProportional">_print(2,2,"red","ipsilateral flexion") :- comp("ipsilateral flexion").</Emphasis>
+              </Para>
+              <Para ID="Par237">
+                <Emphasis FontCategory="NonProportional">_print(2,2,"red","contralateral flexion") :- comp("contralateral flexion").</Emphasis>
+              </Para>
+              <Para ID="Par238">
+                <Emphasis FontCategory="NonProportional">_print(2,2,"red","torso flexion") :- comp("torso flexion").</Emphasis>
+              </Para>
+              <Para ID="Par239">In order to have a more direct feedback, the vectors of the skeleton model can be colored red when a <Emphasis Type="Italic">scapula elevation</Emphasis> or <Emphasis Type="Italic">scapula protraction</Emphasis> has been detected.</Para>
+              <Para ID="Par240">
+                <Emphasis FontCategory="NonProportional">_jointcolor("collarleft","red",2) :- comp("scapula elevation"),</Emphasis>
+              </Para>
+              <Para ID="Par241">
+                <Emphasis FontCategory="NonProportional">affected(left).</Emphasis>
+              </Para>
+              <Para ID="Par242">
+                <Emphasis FontCategory="NonProportional">_jointcolor("collarright","red",2) :- comp("scapula elevation"),</Emphasis>
+              </Para>
+              <Para ID="Par243">
+                <Emphasis FontCategory="NonProportional">affected(right).</Emphasis>
+              </Para>
+              <Para ID="Par244">
+                <Emphasis FontCategory="NonProportional">_jointcolor("collarleft","red",2) :- comp("scapula protraction"),</Emphasis>
+              </Para>
+              <Para ID="Par245">
+                <Emphasis FontCategory="NonProportional">affected(left).</Emphasis>
+              </Para>
+              <Para ID="Par246">
+                <Emphasis FontCategory="NonProportional">_jointcolor("collarright","red",2) :- comp("scapula protraction"),</Emphasis>
+              </Para>
+              <Para ID="Par247">
+                <Emphasis FontCategory="NonProportional">affected(right).</Emphasis>
+              </Para>
+              <Para ID="Par248">The exercise design tool creates a XML file. This file contains the number of compensations detected for each type. An atom _<Emphasis Type="Italic">xmlelement</Emphasis>/1 increases the count for the given string. This is done for each compensation but could also be used for other purposes.</Para>
+              <Para ID="Par249">
+                <Emphasis FontCategory="NonProportional">_xmlelement("TorsoFlexion") :- comp("torso flexion").</Emphasis>
+              </Para>
+              <Para ID="Par250">
+                <Emphasis FontCategory="NonProportional">_xmlelement("ScapulaElevation") :- comp("scapula elevation").</Emphasis>
+              </Para>
+              <Para ID="Par251">
+                <Emphasis FontCategory="NonProportional">_xmlelement("ScapulaProtraction") :- comp("scapula protraction").</Emphasis>
+              </Para>
+              <Para ID="Par252">
+                <Emphasis FontCategory="NonProportional">_xmlelement("IpsilateralFlexion") :- comp("ipsilateral flexion").</Emphasis>
+              </Para>
+              <Para ID="Par253">
+                <Emphasis FontCategory="NonProportional">_xmlelement("ContralateralFlexion") :- n"contralateral flexion").</Emphasis>
+              </Para>
+              <Para ID="Par254">The whole encoding is processed 15 times a second and provides real-time feedback for the exercise design tool.</Para>
+            </Section3>
+          </Section2>
+        </Section1>
+      </Body>
+      <BodyRef FileRef="978-3-319-21293-7_Chapter_6.pdf" OutputMedium="Online" PDFType="Typeset" TargetType="OnlinePDF"/>
+      <ChapterBackmatter>
+        <Bibliography ID="Bib1">
+          <Heading>References</Heading>
+          <Citation ID="CR1">
+            <CitationNumber>1.</CitationNumber>
+            <BibUnstructured>Microsoft Kinect for Windows, <ExternalRef>
+                <RefSource>http://www.microsoft.com/en-us/kinectforwindows</RefSource>
+                <RefTarget Address="http://www.microsoft.com/en-us/kinectforwindows" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR2">
+            <CitationNumber>2.</CitationNumber>
+            <BibUnstructured>OpenNI at StructureIO, <ExternalRef>
+                <RefSource>http://structure.io/openni</RefSource>
+                <RefTarget Address="http://structure.io/openni" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR3">
+            <CitationNumber>3.</CitationNumber>
+            <BibUnstructured>V. Lifschitz, What is answer set programming? in <Emphasis Type="Italic">Proceedings of AAAI 08</Emphasis>, 2008, pp. 1594–1597</BibUnstructured>
+          </Citation>
+          <Citation ID="CR4">
+            <CitationNumber>4.</CitationNumber>
+            <BibUnstructured>M. Gebser, B. Kaufmann, A. Neumann, T. Schaub, clasp: a conflict-driven answer set solver, in <Emphasis Type="Italic">Proceedings of the Ninth International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR’07), LNAI.</Emphasis> ed. by C. Baral, G. Brewka, J. Schlipf, vol 4483 (Springer, 2007), pp. 260–265</BibUnstructured>
+          </Citation>
+          <Citation ID="CR5">
+            <CitationNumber>5.</CitationNumber>
+            <BibUnstructured>M. Gebser, B. Kaufmann, T. Schaub, The conflict-driven answer set solver clasp: progress report, in <Emphasis Type="Italic">Proceedings of the Tenth International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR’09),</Emphasis> LNAI. ed. by E. Erdem, F. Lin, T. Schaub, vol 5753 (Springer, 2009), pp. 509–514</BibUnstructured>
+          </Citation>
+          <Citation ID="CR6">
+            <CitationNumber>6.</CitationNumber>
+            <BibUnstructured>Potsdam answer set solving collection (Potassco), <ExternalRef>
+                <RefSource>http://potassco.sourceforge.net</RefSource>
+                <RefTarget Address="http://potassco.sourceforge.net" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR7">
+            <CitationNumber>7.</CitationNumber>
+            <BibUnstructured>M. Gelfond, V. Lifschitz, The stable model semantics for logic programming, in <Emphasis Type="Italic">Proceedings of the Fifth International Conference on Logic Programming (ICLP)</Emphasis>, Seattle, 1988, pp. 1070–1080</BibUnstructured>
+          </Citation>
+          <Citation ID="CR8">
+            <CitationNumber>8.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Gebser</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>B</Initials>
+                <FamilyName>Kaufmann</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>T</Initials>
+                <FamilyName>Schaub</FamilyName>
+              </BibAuthorName>
+              <Year>2012</Year>
+              <ArticleTitle Language="En">Conflict-driven answer set solving: from theory to practice</ArticleTitle>
+              <JournalTitle>Artif. Intell.</JournalTitle>
+              <VolumeID>187–188</VolumeID>
+              <FirstPage>52</FirstPage>
+              <LastPage>89</LastPage>
+              <Occurrence Type="AMSID">
+                <Handle>2917538</Handle>
+              </Occurrence>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/j.artint.2012.04.001</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>M. Gebser, B. Kaufmann, T. Schaub, Conflict-driven answer set solving: from theory to practice. Artif. Intell. <Emphasis Type="Bold">187–188</Emphasis>, 52–89 (2012)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR9">
+            <CitationNumber>9.</CitationNumber>
+            <BibUnstructured>M. Gebser, R. Kaminski, B. Kaufmann, T. Schaub, Answer set solving in practice, in <Emphasis Type="Italic">Synthesis Lectures on Artificial Intelligence and Machine Learning</Emphasis> (Morgan and Claypool, 2012)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR10">
+            <CitationNumber>10.</CitationNumber>
+            <BibUnstructured>LUA programming language, <ExternalRef>
+                <RefSource>http://www.lua.org</RefSource>
+                <RefTarget Address="http://www.lua.org" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+        </Bibliography>
+      </ChapterBackmatter>
+    </Chapter>
+  </Book>
+</Publisher>

@@ -1,0 +1,2115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <JournalSubject Type="Secondary">Computer Science, general</JournalSubject>
+        <JournalSubject Type="Secondary">Information Storage and Retrieval</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <SubjectCollection Code="Computer Science">SC6</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>1</VolumeIDStart>
+        <VolumeIDEnd>1</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>4</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>9</Month>
+              <Day>18</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2012</Year>
+              <Month>9</Month>
+              <Day>17</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>10</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-012-0004-6" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>4</ArticleID>
+            <ArticleDOI>10.1007/s13735-012-0004-6</ArticleDOI>
+            <ArticleSequenceNumber>3</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Optical music recognition: state-of-the-art and open issues</ArticleTitle>
+            <ArticleCategory>Trends and Surveys</ArticleCategory>
+            <ArticleFirstPage>173</ArticleFirstPage>
+            <ArticleLastPage>190</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+              </Received>
+              <Revised>
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+              </Revised>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ana</GivenName>
+                  <FamilyName>Rebelo</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>arebelo@inescporto.pt</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ichiro</GivenName>
+                  <FamilyName>Fujinaga</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>ich@music.mcgill.ca</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Filipe</GivenName>
+                  <FamilyName>Paszkiewicz</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>filipe.asp@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Andre</GivenName>
+                  <GivenName>R.</GivenName>
+                  <GivenName>S.</GivenName>
+                  <FamilyName>Marcal</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>andre.marcal@fc.up.pt</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Carlos</GivenName>
+                  <FamilyName>Guedes</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>carlosguedes@mac.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jaime</GivenName>
+                  <GivenName>S.</GivenName>
+                  <FamilyName>Cardoso</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>jaime.cardoso@inescporto.pt</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>FEUP</OrgDivision>
+                <OrgName>INESC Porto</OrgName>
+                <OrgAddress>
+                  <City>Porto</City>
+                  <Country Code="PT">Portugal</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Schulich School of Music</OrgDivision>
+                <OrgName>McGill University</OrgName>
+                <OrgAddress>
+                  <City>Montreal</City>
+                  <Country Code="CA">Canada</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgName>FCUP, CICGE</OrgName>
+                <OrgAddress>
+                  <City>Porto</City>
+                  <Country Code="PT">Portugal</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para>For centuries, music has been shared and remembered by two traditions: aural transmission and in the form of written documents normally called musical scores. Many of these scores exist in the form of unpublished manuscripts and hence they are in danger of being lost through the normal ravages of time. To preserve the music some form of typesetting or, ideally, a computer system that can automatically decode the symbolic images and create new scores is required. Programs analogous to optical character recognition systems called optical music recognition (OMR) systems have been under intensive development for many years. However, the results to date are far from ideal. Each of the proposed methods emphasizes different properties and therefore makes it difficult to effectively evaluate its competitive advantages. This article provides an overview of the literature concerning the automatic analysis of images of printed and handwritten musical scores. For self-containment and for the benefit of the reader, an introduction to OMR processing systems precedes the literature overview. The following study presents a reference scheme for any researcher wanting to compare new OMR algorithms against well-known ones.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Computer music</Keyword>
+              <Keyword>Image processing</Keyword>
+              <Keyword>Machine learning</Keyword>
+              <Keyword>Music performance</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>The musical score is the primary artifact for the transmission of musical expression for non-aural traditions. Over the centuries, musical scores have evolved dramatically in both symbolic content and quality of presentation. The appearance of musical typographical systems in the late nineteenth century and, more recently, the emergence of very sophisticated computer music manuscript editing and page-layout systems illustrate the continuous absorption of new technologies into systems for the creation of musical scores and parts. Until quite recently, most composers of all genres—film, theater, concert, sacred music—continued to use the traditional “pen and paper” finding manual input to be the most efficient. Early computer music typesetting software developed in the 1970s and 1980s produced excellent output but was awkward to use. Even the introduction of data entry from musical keyboard (MIDI piano for example) provided only a partial solution to the rather slow keyboard and mouse GUIs. There are many scores and parts still being “hand written”. Thus, the demand for a robust and accurate optical music recognition (OMR) system remains.</Para>
+              <Para>Digitization has been commonly used as a possible tool for preservation, offering easy duplications, distribution, and digital processing. However, a machine-readable symbolic format from the music scores is needed to facilitate operations such as search, retrieval, and analysis. The manual transcription of music scores into an appropriate digital format is very time consuming. The development of general image processing methods for object recognition has contributed to the development of several important algorithms for OMR. These algorithms have been central to the development of systems to recognize and encode music symbols for a direct transformation of sheet music into a machine-readable symbolic format.</Para>
+              <Para>The research field of OMR began with Pruslin [<CitationRef CitationID="CR75">75</CitationRef>] and Prerau [<CitationRef CitationID="CR73">73</CitationRef>] and, since then, has undergone much important advancements. Several surveys and summaries have been presented to the scientific community: Kassler [<CitationRef CitationID="CR53">53</CitationRef>] reviewed two of the first dissertations on OMR, Blostein and Baird [<CitationRef CitationID="CR9">9</CitationRef>] published an overview of OMR systems developed between 1966 and 1992, Bainbridge and Bell [<CitationRef CitationID="CR3">3</CitationRef>] published a generic framework for OMR (subsequently adopted by many researchers in this field), and both Homenda [<CitationRef CitationID="CR47">47</CitationRef>] and Rebelo et al. [<CitationRef CitationID="CR83">83</CitationRef>] presented pattern recognition studies applied to music notation. Jones et al. [<CitationRef CitationID="CR51">51</CitationRef>] presented a study in music imaging, which included digitalization, recognition, and restoration and also provided a well-detailed list of hardware and software in OMR together with an evaluation of three OMR systems.</Para>
+              <Para>Access to low-cost flat-bed digitizers during the late 1980s contributed to an expansion of OMR research activities. Several commercial OMR software have appeared, but none with a satisfactory performance in terms of precision and robustness, in particular for handwritten music scores [<CitationRef CitationID="CR6">6</CitationRef>]. Until now, even the most advanced recognition products including Notescan in Nightingale,<Footnote ID="Fn1">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://www.ngale.com/.</RefSource>
+                      <RefTarget Address="http://www.ngale.com/." TargetType="URL"/>
+                    </ExternalRef>
+                  </Para>
+                </Footnote> Midiscan in Finale,<Footnote ID="Fn2">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://www.finalemusic.com/.</RefSource>
+                      <RefTarget Address="http://www.finalemusic.com/." TargetType="URL"/>
+                    </ExternalRef>
+                  </Para>
+                </Footnote> Photoscore in Sibelius<Footnote ID="Fn3">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://www.neuratron.com/photoscore.htm.</RefSource>
+                      <RefTarget Address="http://www.neuratron.com/photoscore.htm." TargetType="URL"/>
+                    </ExternalRef>
+                  </Para>
+                </Footnote> and others such as Smartscore,<Footnote ID="Fn4">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://www.musitek.com/.</RefSource>
+                      <RefTarget Address="http://www.musitek.com/." TargetType="URL"/>
+                    </ExternalRef>
+                  </Para>
+                </Footnote> and Sharpeye<Footnote ID="Fn5">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://www.music-scanning.com/.</RefSource>
+                      <RefTarget Address="http://www.music-scanning.com/." TargetType="URL"/>
+                    </ExternalRef>
+                  </Para>
+                </Footnote> cannot identify all musical symbols. Furthermore, these products are focused primarily on recognition of typeset and printed music documents and while they can produce quite good results for these documents, they do not perform very well with hand-written music. The bi-dimensional structure of musical notation revealed by the presence of the staff lines alongside the existence of several combined symbols organized around the noteheads poses a high level of complexity in the OMR task.</Para>
+              <Para>In this paper, we survey the relevant methods and models in the literature for the optical recognition of musical scores. We address only offline methods (page-based imaging approaches), although the current proliferation of small electronic devices with increasing computation power, such as tablets, smartphones, may increase the interest in online methods, these are out of the scope of this paper. In Sect. <InternalRef RefID="Sec2">1.1</InternalRef> of this introductory section a description of a typical architecture of an OMR system is given. Section <InternalRef RefID="Sec3">1.2</InternalRef>, which addresses the principal properties of the music symbols, completes this introduction. The image preprocessing stage is addressed in Sect. <InternalRef RefID="Sec4">2</InternalRef>. Several procedures are usually applied to the input image to increase the performance of the subsequent steps. In Sects. <InternalRef RefID="Sec7">3</InternalRef> and <InternalRef RefID="Sec8">4</InternalRef>, a study of the state of the art for the music symbol detection and recognition is presented. Algorithms for detection and removal of staff lines are also presented. An overview of the works done in the fields of musical notation construction and final representation of the music document is made in Sect. <InternalRef RefID="Sec9">5</InternalRef>. Existing standard datasets and performance evaluation protocols are presented in Sect. <InternalRef RefID="Sec11">6</InternalRef>. Section <InternalRef RefID="Sec12">7</InternalRef> states the open issues in handwritten music scores and the future trends in the OMR using this type of scores. Section <InternalRef RefID="Sec17">8</InternalRef> concludes this paper.</Para>
+              <Section2 ID="Sec2">
+                <Heading>OMR architecture</Heading>
+                <Para>Breaking down the problem of transforming a music score into a graphical music-publishing file in simpler operations is a common but complex task. This is consensual among most authors that work in the field. In this paper we use the framework outlined in [<CitationRef CitationID="CR83">83</CitationRef>].</Para>
+                <Para>The main objectives of an OMR system are the recognition, the representation and the storage of musical scores in a machine-readable format. An OMR program should thus be able to recognize the musical content and make the semantic analysis of each musical symbol of a music work. In the end, all the musical information should be saved in an output format that is easily readable by a computer.</Para>
+                <Para>A typical framework for the automatic recognition of a set of music sheets encompasses four main stages (see Fig. <InternalRef RefID="Fig1">1</InternalRef>):<OrderedList>
+                    <ListItem>
+                      <ItemNumber>1.</ItemNumber>
+                      <ItemContent>
+                        <Para>image preprocessing; </Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>2.</ItemNumber>
+                      <ItemContent>
+                        <Para>recognition of musical symbols; </Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>3.</ItemNumber>
+                      <ItemContent>
+                        <Para>reconstruction of the musical information in order to build a logical description of musical notation; and </Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>4.</ItemNumber>
+                      <ItemContent>
+                        <Para>construction of a musical notation model to be represented as a symbolic description of the musical sheet. </Para>
+                      </ItemContent>
+                    </ListItem>
+                  </OrderedList>
+                  <Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Typical architecture of an OMR processing system</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>For each of the stages described above, different methods exist to perform the respective task.</Para>
+                <Para>In the image preprocessing stage, several techniques—e.g., enhancement, binarization, noise removal, blurring, de-skewing—can be applied to the music score to make the recognition process more robust and efficient. The reference lengths staff line thickness (staffline_height) and vertical line distance within the same staff (staffspace_height) are often computed, providing the basic scale for relative size comparisons (Fig. <InternalRef RefID="Fig5">5</InternalRef>).</Para>
+                <Para>The output of the image preprocessing stage constitutes the input for the next stage, the recognition of musical symbols. This is typically further subdivided into three parts: (1) staff line detection and removal, to obtain an image containing only the musical symbols; (2) symbol primitive segmentation; and (3) symbol recognition. In this last stage the classifiers usually receive raw pixels as input features. However, some works also consider higher-level features, such as information about the connected components or the orientation of the symbol.</Para>
+                <Para>Classifiers are built by taking a set of labeled examples of music symbols and randomly split them into training and test sets. The best parameterization for each model is normally found based on a cross validation scheme conducted on the training set.</Para>
+                <Para>The third and fourth stages (musical notation reconstruction and final representation construction) can be intrinsically intertwined. In the stage of musical notation reconstruction, the symbol primitives are merged to form musical symbols. In this step, graphical and syntactic rules are used to introduce context information to validate and solve ambiguities from the previous module (music symbol recognition). Detected symbols are interpreted and assigned a musical meaning. In the fourth and final stages (final representation construction), a format of musical description is created with the previously produced information. The system output is a graphical music-publishing file, like MIDI or MusicXML.</Para>
+                <Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Music notation</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="2">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Symbols</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Description</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Figa_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Staff: An arrangement of parallel lines, together with the spaces between them</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Figb_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Treble, Alto, and Bass clef: The first symbols that appear at the beginning of every music staff and tell us which note is found on each line or space</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Figc_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Sharp, Flat and Natural: The signs that are placed before the note to designate changes in sounding pitch</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Figd_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Beams: Used to connect notes in note-groups; they demonstrate the metrical and the rhythmic divisions</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Fige_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Staccato, Staccatissimo, Dynamic, Tenuto, Marcato, Stopped note, Harmonic and Fermata: Symbols for special or exaggerated stress upon any beat, or portion of a beat</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Figf_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Quarter, Half, Eighth, Sixteenth, Thirty-second and Sixty-fourth notes: The Quarter note (closed notehead) and Half note (open notehead) symbols indicate a pitch and the relative time duration of the musical sound. Flags (e.g. Eighth note) are employed to indicate the relative time values of the notes with closed noteheads</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Figg_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Quarter, Eighth, Sixteenth, Thirty-second and Sixty-fourth rests: These indicate the exact duration of silence in the music; each note value has its corresponding rest sign; the written position of a rest between two barlines is determined by its location in the meter</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Figh_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Ties and Slurs: Ties are a notational device used to prolong the time valueof a written note into the following beat. The tie appears to beidentical to slur, however, while tie almost touches the notehead center, the slur is set somewhat above or below the notehead. Ties are normally employed to join the time value of two notes of identical pitch; Slurs affect note-groupsas entities indicating that the two notes are to be played in one physical stroke, without a break between them</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Figi_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Mordent and Turn: Ornaments symbols that modify the pitch pattern of individual notes</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Para>Some authors use several algorithms to perform different tasks in each stage, such as using an algorithm for detecting noteheads and a different one for detecting the stems. For example, Byrd and Schindele [<CitationRef CitationID="CR13">13</CitationRef>] and Knopke and Byrd [<CitationRef CitationID="CR55">55</CitationRef>] use a voting system with a comparison algorithm to merge the best features of several OMR algorithms to produce better results.</Para>
+              </Section2>
+              <Section2 ID="Sec3">
+                <Heading>Properties of the musical symbols</Heading>
+                <Para>Music notation emerged from the combined and prolonged efforts of many musicians. They all hoped to express the essence of their musical ideas by written symbols [<CitationRef CitationID="CR80">80</CitationRef>]. Music notation is a kind of alphabet, shaped by a general consensus of opinion, used to express ways of interpreting a musical passage. It is the visual manifestation of interrelated properties of musical sound such as pitch, dynamics, time, and timbre. Symbols indicating the choice of tones, their duration, and the way they are performed are important because they form this written language that we call music notation [<CitationRef CitationID="CR81">81</CitationRef>]. In Table <InternalRef RefID="Tab1">1</InternalRef>, we present some common Western music notation symbols.</Para>
+                <Para>Improvements and variations in existing symbols, or the creation on new ones, came about as it was found necessary to introduce a new instrumental technique, expression or articulation. New musical symbols are still being introduced in modern music scores, to specify a certain technique or gesture. Other symbols, especially those that emerged from extended techniques, are already accepted and known by many musicians (e.g. microtonal notation) but are still not available in common music notation (CMN) software. Musical notation is thus very extensive if we consider all the existing possibilities and their variations.</Para>
+                <Para>Moreover, the wider variability of the objects (in size and shape), found on handwritten music scores, makes the operation of music symbol extraction one of the most complex and difficult in an OMR system. Publishing variability in handwritten scores is illustrated in Fig. <InternalRef RefID="Fig2">2</InternalRef>. In this example, we can see that for the same clef symbol and beam symbol we may have different thicknesses and shapes.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Variability in handwritten music scores</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO11">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Some examples of music scores used in the state-of-art algorithms. <Emphasis Type="Bold">a</Emphasis> From Rebelo [<CitationRef CitationID="CR81">81</CitationRef>,  Fig. 4.4a]</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO12">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_4_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec4">
+              <Heading>Image preprocessing</Heading>
+              <Para>The music scores processed by the state-of-art algorithms, described in the following sections, are mostly written in a standard modern notation (from the twentieth century). However, there are also some methods proposed for sixteenth and seventeenth century printed music. Figure <InternalRef RefID="Fig3">3</InternalRef> shows typical music scores used for the development and testing of algorithms in the scientific literature. In most of the proposed works, the music sheets were scanned at a resolution of 300  dpi [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR26">26</CitationRef>, <CitationRef CitationID="CR35">35</CitationRef>, <CitationRef CitationID="CR37">37</CitationRef>, <CitationRef CitationID="CR45">45</CitationRef>, <CitationRef CitationID="CR55">55</CitationRef>, <CitationRef CitationID="CR64">64</CitationRef>, <CitationRef CitationID="CR83">83</CitationRef>, <CitationRef CitationID="CR89">89</CitationRef>]. Other resolutions were also considered: 600 dpi [<CitationRef CitationID="CR56">56</CitationRef>, <CitationRef CitationID="CR87">87</CitationRef>] or 400 dpi [<CitationRef CitationID="CR76">76</CitationRef>, <CitationRef CitationID="CR96">96</CitationRef>]. No studies have been carried out to evaluate the dependency of the proposed methods on other resolution values, thus restricting the quality of the objects presented in the music scores, and consequently the performance of all OMR algorithms.</Para>
+              <Para>In digital image processing, as in all signal processing systems, different techniques can be applied to the input, making it ready for the detection steps. The motivation is to obtain a more robust and efficient recognition process. Enhancement [<CitationRef CitationID="CR45">45</CitationRef>], binarization (e.g. [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR35">35</CitationRef>, <CitationRef CitationID="CR41">41</CitationRef>, <CitationRef CitationID="CR43">43</CitationRef>, <CitationRef CitationID="CR45">45</CitationRef>, <CitationRef CitationID="CR64">64</CitationRef>, <CitationRef CitationID="CR98">98</CitationRef>]), noise removal (e.g. [<CitationRef CitationID="CR41">41</CitationRef>, <CitationRef CitationID="CR45">45</CitationRef>, <CitationRef CitationID="CR96">96</CitationRef>, <CitationRef CitationID="CR98">98</CitationRef>]), blurring [<CitationRef CitationID="CR45">45</CitationRef>], de-skewing (e.g. [<CitationRef CitationID="CR35">35</CitationRef>, <CitationRef CitationID="CR41">41</CitationRef>, <CitationRef CitationID="CR45">45</CitationRef>, <CitationRef CitationID="CR64">64</CitationRef>, <CitationRef CitationID="CR98">98</CitationRef>]), and morphological operations [<CitationRef CitationID="CR45">45</CitationRef>] are the most common techniques for preprocessing music scores.</Para>
+              <Section2 ID="Sec5">
+                <Heading>Binarization</Heading>
+                <Para>Almost all OMR systems start with a binarization process. This means that the digitalized image must be analyzed to determine what is useful (the objects, being the music symbols and staves) and what is not (the background, noise). To make binarization an automatic process, many algorithms have been proposed in the past, with different success rates, depending on the problem at hand. Binarization has the big virtue in OMR of facilitating the following tasks by reducing the amount of information they need to process. In turn, this results in higher computational efficiency (more important in the past than nowadays) and eases the design of models to tackle the OMR task. It has been easier to propose algorithm for line detection, symbol segmentation, and recognition in binary images than in grayscale or color images. This approach is also supported by the typical binary nature of music scores. Usually, the author does not aim to portray information in the color; it is more a consequence of the writing or of the digitalization process. However, since binarization often introduces artifacts, it is not clear the advantages of binarization in the complete OMR process.</Para>
+                <Para>Burgoyne et al. [<CitationRef CitationID="CR12">12</CitationRef>] and Pugin et al. [<CitationRef CitationID="CR77">77</CitationRef>] presented a comparative evaluation of image binarization algorithms applied to sixteenth-century music scores. Both works used Aruspix, a software application for OMR which provides symbol-level recall and precision rate to measure the performance of different binarization procedures. In [<CitationRef CitationID="CR12">12</CitationRef>] they worked with a set of 8,000 images. The best result was obtained with the Brink and Pendock [<CitationRef CitationID="CR10">10</CitationRef>]’s method. The adaptive algorithm with the highest ranking was Gatos et al. [<CitationRef CitationID="CR42">42</CitationRef>]. Nonetheless, the binarization of the music score still needs attention with researchers invariably using standard binarization procedures, such as the Otsu’s method (e.g. [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR45">45</CitationRef>, <CitationRef CitationID="CR76">76</CitationRef>, <CitationRef CitationID="CR83">83</CitationRef>]). The development of binarization methods specific to music scores potentially shows performances that are better than the generic counterparts’, and leverages the performance of subsequent operations [<CitationRef CitationID="CR72">72</CitationRef>].</Para>
+                <Para>The fine-grained categorization of existing techniques presented in Fig. <InternalRef RefID="Fig4">4</InternalRef> follows the survey in [<CitationRef CitationID="CR92">92</CitationRef>], where the classes were chosen according to the information extracted from the image pixels. Despite this labeling the categories are essentially organized into two main topics: global and adaptive thresholds.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Landscape of automated thresholding methods. From Pinto et al. [<CitationRef CitationID="CR72">72</CitationRef>,  Fig. 1]</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO13">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_4_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Global thresholding methods apply one threshold to the entire image. Ng and Boyle [<CitationRef CitationID="CR66">66</CitationRef>] and Ng et al. [<CitationRef CitationID="CR68">68</CitationRef>] have adopted the technique developed by Ridler and Calvard [<CitationRef CitationID="CR86">86</CitationRef>]. This iterative method achieves the final threshold through an average of two sample means (<InlineEquation ID="IEq1">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$T = (\mu _\mathrm{ b}+\mu _\mathrm{ f})/2$$]]></EquationSource>
+                  </InlineEquation>). Initially, a global threshold value is selected for the entire image and then a mean is computed for the background pixels (<InlineEquation ID="IEq2">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mu _\mathrm{ b}$$]]></EquationSource>
+                  </InlineEquation>) and for the foreground pixels (<InlineEquation ID="IEq3">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mu _\mathrm{ f}$$]]></EquationSource>
+                  </InlineEquation>). The process is repeated based on the new threshold computed from <InlineEquation ID="IEq4">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mu _\mathrm{ b}$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq5">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mu _\mathrm{ f}$$]]></EquationSource>
+                  </InlineEquation>, until the threshold value does not change any more. According to [<CitationRef CitationID="CR101">101</CitationRef>, <CitationRef CitationID="CR102">102</CitationRef>], Otsu’s procedure is ranked as the best and the fastest of these methods [<CitationRef CitationID="CR70">70</CitationRef>]. In the OMR field, several research works have used this technique [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR45">45</CitationRef>, <CitationRef CitationID="CR76">76</CitationRef>, <CitationRef CitationID="CR83">83</CitationRef>, <CitationRef CitationID="CR98">98</CitationRef>].</Para>
+                <Para>In adaptive binarization methods, a threshold is assigned to each pixel using local information from the image. Consequently, the global thresholding techniques can extract objects from uniform backgrounds at a high speed, whereas the local thresholding methods can eliminate dynamic backgrounds although with a longer processing time. One of the most used methods is Niblack [<CitationRef CitationID="CR69">69</CitationRef>]’s method which uses the mean and the standard deviation of the pixel’s vicinity as local information for the threshold decision. The research work carried out by [<CitationRef CitationID="CR36">36</CitationRef>, <CitationRef CitationID="CR37">37</CitationRef>, <CitationRef CitationID="CR96">96</CitationRef>] applied this technique to their OMR procedures.</Para>
+                <Para>Only recently the domain knowledge has been used at the binarization stage in the OMR area. The work presented in [<CitationRef CitationID="CR72">72</CitationRef>] proposes a new binarization method which not only uses the raw pixel information, but also considers the image content. The process extracts content-related information from the grayscale image, the staff line thickness (staff- line_height), and the vertical line distance within the same staff (staffspace_height), to guide the binarization procedure. The binarization algorithm was designed to maximize the number of pairs of consecutive runs summing staffline_height + staffspace_height. The authors suggest that this maximization increases the quality of the binarized lines and consequently the subsequent operations in the OMR system.</Para>
+                <Para>Until now Pinto et al. [<CitationRef CitationID="CR72">72</CitationRef>] seems to be the only threshold method that uses content of gray-level images of music scores deliberately to perform the binarization.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Reference lengths</Heading>
+                <Para>In the presence of a binary image most OMR algorithms rely on an estimation of the staff line thickness and the distance that separates two consecutive staff lines—see Fig. <InternalRef RefID="Fig5">5</InternalRef>.</Para>
+                <Para>Further processing can be performed based on these values and be independent of some predetermined magic numbers. The use of fixed threshold numbers, as found in other areas, causes systems to become inflexible, making it more difficult for them to adapt to new and unexpected situations.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>The characteristic page dimensions of staffline_height and staffspace_height. From Cardoso and Rebelo [<CitationRef CitationID="CR17">17</CitationRef>]</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO14">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig6">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Example of an image where the estimation of staffline_height and staffspace_height by vertical runs fails. From Cardoso and Rebelo [<CitationRef CitationID="CR17">17</CitationRef>,  Fig. 2]</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO15">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_4_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>The well-known run-length encoding (RLE), which is a very simple form of data compression in which runs of data are represented as a single data value and count, is often used to determine these reference values (e.g. [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR26">26</CitationRef>, <CitationRef CitationID="CR32">32</CitationRef>, <CitationRef CitationID="CR41">41</CitationRef>, <CitationRef CitationID="CR89">89</CitationRef>]) —the other technique can be found in [<CitationRef CitationID="CR98">98</CitationRef>]. In a binary image, used here as input for the recognition process, there are only two values: one and zero. In such a case, the RLC is even more compact, because only the lengths of the runs are needed. For example, the sequence {1 1 0 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 1 1 1 0 0 1 1 1 1 1 1} can be coded as 2, 1, 3, 2, 4, 2, 4, 1, 5, 2, 6, assuming that 1 starts a sequence (if a sequence starts with a 0, the length of zero would be used). By encoding each column of a digitized score using RLE, the most common black-run represents the staffline_height and the most common white-run represents the staffspace_height.</Para>
+                <Para>Nonetheless, there are music scores with high levels of noise, not only because of the low quality of the original paper in which it is written, but also because of the artifacts introduced during digitalization and binarization. These aspects make the results unsatisfactory, impairing the quality of subsequent operations. Figure <InternalRef RefID="Fig6">6</InternalRef> illustrates this problem. For this music score, we have pale staff lines that broke up during binarization providing the conventional estimation staffline_height = 1 and staffspace_height = 1 (the true values are staffline_height = 5 and staffspace_height = 19).</Para>
+                <Para>The work suggested by Cardoso and Rebelo [<CitationRef CitationID="CR17">17</CitationRef>], which encouraged the work proposed in [<CitationRef CitationID="CR72">72</CitationRef>], presents a more robust estimation of the sum of staffline_height and staffspace_height by finding the most common sum of two consecutive vertical runs (either black run followed by white run or the reverse). The process is illustrated in Fig. <InternalRef RefID="Fig7">7</InternalRef>.</Para>
+                <Para>In this manner, to reliably estimate staffline_height and staffspace_height values, the algorithm starts by computing the 2D histogram of the pairs of consecutive vertical runs and afterwards it selects the most common pair for which the sum of the runs equals staffline_height + staffspace_height.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig7">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 7</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Illustration of the estimation of the reference value staffline_height and staffspace_height using a single column. From Pinto et al. [<CitationRef CitationID="CR72">72</CitationRef>,  Fig. 2]</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO16">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_4_Fig7_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7">
+              <Heading>Staff line detection and removal</Heading>
+              <Para>Staff line detection and removal are fundamental stages in many OMR systems. The reason to detect and remove the staff lines lies on the need to isolate the musical symbols for a more efficient and correct detection of each symbol present in the score. Notwithstanding, there are authors who suggested algorithms without the need to remove the staff lines [<CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR45">45</CitationRef>, <CitationRef CitationID="CR58">58</CitationRef>, <CitationRef CitationID="CR68">68</CitationRef>, <CitationRef CitationID="CR76">76</CitationRef>, <CitationRef CitationID="CR93">93</CitationRef>]. In here, the decision is between simplification to facilitate the following tasks with the risk of introducing noise. For instance, symbols are often broken in this process, or bits of lines that are not removed are interpreted as part of symbols or new symbols. The issue will always be related to the preservation of as much information as possible for the next task, with the risk of increasing computational demand and the difficulty of modeling the data.</Para>
+              <Para>Staff detection is complicated due to a variety of reasons. Although the task of detecting and removing staff lines is completed fairly accurately in some OMR systems, it still represents a challenge. The distorted staff lines are a common problem in both printed and handwritten scores. The staff lines are often not straight or horizontal (due to wrinkles or poor digitization) and in some cases hardly parallel to each other. Moreover, most of these works are old, which means that the quality of the paper and ink has decreased severely. Another interesting setting is the common modern case where music notation is handwritten on paper with preprinted staff lines.</Para>
+              <Para>The simplest approach consists of finding local maxima on the horizontal projection of the black pixels of the image [<CitationRef CitationID="CR41">41</CitationRef>, <CitationRef CitationID="CR79">79</CitationRef>]. Assuming straight and horizontal lines, these local maxima represent line positions. Several horizontal projections can be made with different image rotation angles, keeping the image where the local maximum is higher. This eliminates the assumption that the lines are always horizontal. Miyao and Nakano [<CitationRef CitationID="CR62">62</CitationRef>] use Hough Transform to detect staff lines. An alternative strategy for identifying staff lines is to use vertical scan lines [<CitationRef CitationID="CR18">18</CitationRef>]. This process is based on a line adjacency graph (LAG). LAG searches for potential sections of lines: sections that satisfy criteria related to aspect ratio, connectedness, and curvature. More recent works present a sophisticated use of projection techniques combined to improve the basic approach [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR89">89</CitationRef>].</Para>
+              <Para>Fujinaga [<CitationRef CitationID="CR41">41</CitationRef>] incorporates a set of image processing techniques in the algorithm, including run-length coding (RLC), connected-component analysis, and projections. After applying the RLC to find the thickness of staff lines and the space between the staff lines, any vertical black run that is more than twice the staff line height is removed from the original. Then, the connected components are scanned to eliminate any component whose width is less than the staff space height. After a global de-skewing, taller components, such as slurs and dynamic wedges are removed.</Para>
+              <Para>Other techniques for finding staff lines include the grouping of vertical columns based on their spacing, thickness, and vertical position on the image [<CitationRef CitationID="CR85">85</CitationRef>], rule-based classification of thin horizontal line segments [<CitationRef CitationID="CR60">60</CitationRef>], and line tracing [<CitationRef CitationID="CR73">73</CitationRef>, <CitationRef CitationID="CR88">88</CitationRef>, <CitationRef CitationID="CR98">98</CitationRef>]. The methods proposed in [<CitationRef CitationID="CR63">63</CitationRef>, <CitationRef CitationID="CR95">95</CitationRef>] operate on a set of <Emphasis Type="Italic">staff segments</Emphasis>, with methods for linking two segments horizontally and vertically and merging two overlapped segments. Dutta et al. [<CitationRef CitationID="CR32">32</CitationRef>] proposed a similar but simpler procedure than previous ones. The authors considered a staff line segment as an horizontal connection of vertical black runs with uniform height and validating it using neighboring properties. The work by Dalitz et al. [<CitationRef CitationID="CR26">26</CitationRef>] is an improvement on the methods of [<CitationRef CitationID="CR63">63</CitationRef>, <CitationRef CitationID="CR95">95</CitationRef>].</Para>
+              <Para>In spite of the variety of methods available for staff lines detection, they all have some limitations. In particular, lines with some curvature or discontinuities are inadequately resolved. The dash detector [<CitationRef CitationID="CR57">57</CitationRef>] is one of a few works that try to handle discontinuities. The dash detector is an algorithm that searches the image, pixel by pixel, finding black pixel regions that it classifies as stains or dashes. Then, it tries to unite the dashes to create lines.</Para>
+              <Para>A common problem to all the aforementioned techniques is that they try to build staff lines from local information, without properly incorporating global information in the detection process. None of the methods tries to define a reasonable process from the intrinsic properties of staff lines, namely the fact that they are the only extensive black objects on the music score. Usually, the most interesting techniques arise when one defines the detection process as the result of optimizing some global function. In [<CitationRef CitationID="CR16">16</CitationRef>], the authors proposed a graph-theoretic framework where the staff line is the result of a global optimization problem. The new staff line detection algorithm suggests using the image as a graph, where the staff lines result as connected paths between the two lateral margins of the image. A staff line can be considered a connected path from the left side to the right side of the music score. As staff lines are almost the only extensive black objects on the music score, the path to look for is the shortest path between the two margins if paths (almost) entirely through black pixels are favored. The performance was experimentally supported on two test sets adopted for the qualitative evaluation of the proposed method: the test set of 32 synthetic scores from [<CitationRef CitationID="CR26">26</CitationRef>], where several known deformations were applied, and a set of 40 real handwritten scores, with ground truth obtained manually.</Para>
+            </Section1>
+            <Section1 ID="Sec8">
+              <Heading>Symbol segmentation and recognition</Heading>
+              <Para>The extraction of music symbols is the operation following the staff line detection and removal. The segmentation process consists of locating and isolating the musical objects to identify them. In this stage, the major problems in obtaining individual meaningful objects are caused by printing and digitalization, as well as paper degradation over time. The complexity of this operation concerns not only the distortions inherent to staff lines, but also broken and overlapping symbols, differences in sizes, and shapes and zones of high density of symbols. The segmentation and classification process has been the object of study in the research community (e.g. [<CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR20">20</CitationRef>, <CitationRef CitationID="CR89">89</CitationRef>, <CitationRef CitationID="CR100">100</CitationRef>]).</Para>
+              <Para>The most usual approach for symbol segmentation is a hierarchical decomposition of the music image. A music sheet is first analyzed and split by staffs and then the elementary graphic symbols are extracted: noteheads, rests, dots, stems, flags, etc. (e.g. [<CitationRef CitationID="CR20">20</CitationRef>, <CitationRef CitationID="CR31">31</CitationRef>, <CitationRef CitationID="CR45">45</CitationRef>, <CitationRef CitationID="CR62">62</CitationRef>, <CitationRef CitationID="CR66">66</CitationRef>, <CitationRef CitationID="CR83">83</CitationRef>, <CitationRef CitationID="CR85">85</CitationRef>, <CitationRef CitationID="CR98">98</CitationRef>]). Although in some approaches [<CitationRef CitationID="CR83">83</CitationRef>] noteheads are joined with stems and also with flags for the classification phase, in the segmentation step these symbols are considered to be separate objects. In this manner, different methods use equivalent concepts for primitive symbols.</Para>
+              <Para>Usually, the primitive segmentation step is made along with the classification task [<CitationRef CitationID="CR89">89</CitationRef>, <CitationRef CitationID="CR100">100</CitationRef>]; however, there are exceptions [<CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR41">41</CitationRef>]. Mahoney [<CitationRef CitationID="CR60">60</CitationRef>] builds a set of candidates to one or more symbol types and then uses descriptors to select the matching candidates. Carter [<CitationRef CitationID="CR18">18</CitationRef>] and Dan [<CitationRef CitationID="CR28">28</CitationRef>] use a LAG to extract symbols. The objects resulting from this operation are classified according to the bounding box size, the number, and organization of their constituent sections. Reed and Parker [<CitationRef CitationID="CR85">85</CitationRef>] also uses LAGs to detect lines and curves. However, accidentals, rests and clefs are detected by a character profile method, which is a function that measures the perpendicular distance of the object’s contour to reference axis, and noteheads are recognized by template matching. Other authors have chosen to apply projections to detect primitive symbols [<CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR41">41</CitationRef>, <CitationRef CitationID="CR74">74</CitationRef>]. The recognition is done using features extracted from the projection profiles. In [<CitationRef CitationID="CR41">41</CitationRef>], the k-nearest neighbor rule is used in the classification phase, while neural networks is the classifier selected in [<CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR62">62</CitationRef>, <CitationRef CitationID="CR66">66</CitationRef>]. Choudhury et al. [<CitationRef CitationID="CR20">20</CitationRef>] proposed the extraction of symbol features, such as width, height, area, number of holes, and low-order central moments, whereas Taubman [<CitationRef CitationID="CR99">99</CitationRef>] preferred to extract standard moments, centralized moments, normalized moments, and Hu moments. Both systems classify the music primitives using the <Emphasis Type="Italic">k</Emphasis>-nearest neighbor method.</Para>
+              <Para>Randriamahefa et al. [<CitationRef CitationID="CR79">79</CitationRef>] proposed a structural method based on the construction of graphs for each symbol. These are isolated using a region-growing method and thinning. In [<CitationRef CitationID="CR89">89</CitationRef>] a fuzzy model supported on a robust symbol detection and template matching was developed. This method is set to deal with uncertainty, flexibility, and fuzziness at the level of the symbol. The segmentation process is addressed in two steps: individual analysis of musical symbols and fuzzy model. In the first step, the vertical segments are detected by a region-growing method and template matching. The beams are then detected by a region-growing algorithm and a modified Hough Transform. The remaining symbols are extracted again by template matching. As a result of this first step, three recognition hypotheses occur, and the fuzzy model is then used to make a consistent decision.</Para>
+              <Para>Other techniques for extracting and classifying musical symbols include rule-based systems to represent the musical information, a collection of processing modules that communicate by a common working memory [<CitationRef CitationID="CR88">88</CitationRef>] and pixel tracking with template matching [<CitationRef CitationID="CR100">100</CitationRef>]. Toyama et al. [<CitationRef CitationID="CR100">100</CitationRef>] check for coherence in the primitive symbols detected by estimating overlapping positions. This evaluation is carried out using music writing rules. Coüasnon [<CitationRef CitationID="CR21">21</CitationRef>, <CitationRef CitationID="CR23">23</CitationRef>] proposed a recognition process entirely controlled by grammar which formalizes the musical knowledge. Bainbridge [<CitationRef CitationID="CR2">2</CitationRef>] uses PRIMitive Expression LAnguage (PRI-MELA) language, which was created for the CANTerbury OMR (CANTOR) system, to recognize primitive objects. In [<CitationRef CitationID="CR85">85</CitationRef>] the segmentation process involves three stages: line and curves detection by LAGs, accidentals, rests, and clefs detection by a character profile method and noteheads recognition by template matching. Fornés et al. [<CitationRef CitationID="CR34">34</CitationRef>] proposed a classifier procedure for handwritten symbols using the Adaboost method with a blurred shape model descriptor.</Para>
+              <Para>It is worth mentioning that in some works, we assist to a new line of approaches that avoid the prior segmentation phase in favor of methods that simultaneously segment and recognize. In  [<CitationRef CitationID="CR76">76</CitationRef>, <CitationRef CitationID="CR78">78</CitationRef>] the segmentation task is based on Hidden Markov models (HMMs). This process performs segmentation and classification simultaneously. The extraction of features directly from the image frames has advantages. Particularly, it avoids the need to segment and track the objects of interest, a process with a high degree of difficulty and prone to errors. However, this work applied this technique only in very simple scores, that is, scores without slurs or more than one symbol in the same column and staff.</Para>
+              <Para>In [<CitationRef CitationID="CR68">68</CitationRef>] a framework based on a mathematical morphological approach commonly used in document imaging is proposed. The authors applied a skeletonization technique with an edge detection algorithm and a stroke direction operation to segment the music score. Goecke [<CitationRef CitationID="CR45">45</CitationRef>] applies template matching to extract musical symbols. In [<CitationRef CitationID="CR99">99</CitationRef>] the symbols are recognized using statistical moments. This way, the proposed OMR system is trained with strokes of musical symbols and a statistical moment is calculated for each one of them; the class for an unknown symbol is assigned based on the closest match. In [<CitationRef CitationID="CR35">35</CitationRef>] the authors start by using median filters with a vertical structuring element to detect vertical lines. Then they apply a morphological opening using an elliptical structuring element to detect noteheads. The bar lines are detected considering its height and the absence of noteheads in its extremities. Clef symbols are extracted using Zernike moments and Zoning, which code shapes based on the statistical distribution of points. Although a good performance was verified in the detection of these specific symbols, the authors did not extract the other symbols that were also present on a music score and are indispensable for a complete optical music recognition. In [<CitationRef CitationID="CR83">83</CitationRef>] the segmentation of the objects is based on an hierarchical decomposition of a music image. A music sheet is first analyzed and split by staffs. Subsequently, the connected components are identified. To extract only the symbols with appropriate size, the connected components detected in the previous step are selected. Since a bounding box of a connected component can contain multiple connected components, care is taken to avoid duplicate detections or failure to detect any connected component. In the end, all music symbols are extracted based on their shape. In [<CitationRef CitationID="CR98">98</CitationRef>] the symbols are extracted using a connected component process and small elements are removed based on their size and position on the score. The classifiers adopted were the <Emphasis Type="Italic">k</Emphasis>NN, the Mahalanobis distance, and the Fisher discriminant.</Para>
+              <Para>Some studies were conducted in the music symbols classification phase, more precisely the comparison of results between different recognition algorithms. Homenda and Luckner [<CitationRef CitationID="CR48">48</CitationRef>] studied decision trees and clustering methods. The symbols were distorted by noise, printing defects, different fonts, skew and curvature of scanning. The study starts with the extraction of some symbols features. Five classes of music symbols were considered. Each class had 300 symbols extracted from 90 scores. This investigation encompassed two different classification approaches: classification with and without rejection. In the later case, every symbol belongs to one of the given classes, while in the classification with rejection, not every symbol belongs to a class. Thus, the classifier should decide if the symbol belongs to a given class or if it is an extraneous symbol and should not be classified. Rebelo et al. [<CitationRef CitationID="CR83">83</CitationRef>] carried out an investigation on four classification methods, namely support vector machines (SVMs), neural networks (NNs), nearest neighbor (<Emphasis Type="Italic">k</Emphasis>NN) and Hidden Markov Models. The performances of these methods were compared using both real and synthetic scores. The real scores consisted of a set of 50 handwritten scores from 5 different musicians, previously binarized. The synthetic data set included 18 scores (considered to be ideal) from different publishers to which known deformations have been applied: rotation and curvature. In total, 288 images were generated from the 18 original scores. The full set of training patterns extracted from the database of scores was augmented with replicas of the existing patterns, transformed according to the elastic deformation technique [<CitationRef CitationID="CR50">50</CitationRef>]. Such transformations tried to introduce robustness in the prediction regarding the known variability of symbols. Fourteen classes were considered with a total of 3,222 handwritten music symbols and 2,521 printed music symbols. In the classification, the SVMs, NNs, and <Emphasis Type="Italic">k</Emphasis>NN received raw pixels as input features (a 400 feature vector, resulting from a <InlineEquation ID="IEq6">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$20\times 20$$]]></EquationSource>
+                </InlineEquation> pixel image); the HMM received higher-level features, such as information about the connected components in a <InlineEquation ID="IEq7">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$30\times 150$$]]></EquationSource>
+                </InlineEquation> pixel window. The SVMs attained the best performance while the HMMs had the worse result. The use of elastic deformations did not improve the performance of the classifiers. Three explanations for this outcome were suggested: the distortions created were not the most appropriate, the data set of symbols was already diverse, or the adopted features were not proper for this kind of variation.</Para>
+              <Para>A more recent procedure for pattern recognition is the use of classifiers with a reject option [<CitationRef CitationID="CR25">25</CitationRef>, <CitationRef CitationID="CR46">46</CitationRef>, <CitationRef CitationID="CR94">94</CitationRef>]. The method integrates a confidence measure in the classification model to reject uncertain patterns, namely broken and touching symbols. The advantage of this approach is the minimization of misclassification errors in the sense that it chooses not to classify certain symbols (which are then manually processed).</Para>
+              <Para>Lyrics recognition is also an important issue in the OMR field, since lyrics make the music document even more complex. In [<CitationRef CitationID="CR11">11</CitationRef>] techniques for lyric editor and lyric lines extraction were developed. After staff lines removal, the authors computed baselines for both lyrics and notes, stressing that baselines for lyrics would be highly curved and undulating. The baselines are extracted based on local minima of the connected components of the foreground pixels. This technique was tested on a set of 40 images from the Digital Image Archive of Medieval Music. In [<CitationRef CitationID="CR44">44</CitationRef>] an overview of existing solutions to recognize the lyrics in Christian music sheets is described. The authors stress the importance of associating the lyrics with notes and melodic parts to provide more information to the recognition process. Resolutions for page segmentation, character recognition, and final representation of symbols are presented.</Para>
+              <Para>Despite the number of techniques already available in the literature, research on improving symbol segmentation and recognition is still important and necessary. All OMR systems depend on this step.</Para>
+            </Section1>
+            <Section1 ID="Sec9">
+              <Heading>Musical notation construction and final representation</Heading>
+              <Para>The final stage in a music notation construction engine is to extract the musical semantics from the graphically recognized shapes and store them in a musical data structure. Essentially, this involves combining the graphically recognized musical features with the staff systems to produce a musical data structure representing the meaning of the scanned image. This is accomplished by interpreting the spatial relationships between the detected primitives found in the score. If we are dealing with optical character recognition (OCR) this is a simple task, because the layout is predominantly one-dimensional. However, in music recognition, the layout is much more complex. The music is essentially two dimensional, with pitch represented vertically and time horizontally. Consequently, positional information is extremely important. The same graphical shape can mean different things in different situations. For instance, to determine if a curved line between two notes is a slur or a tie, it is necessary to consider the pitch of the two notes. Moreover, musical rules involve a large number of symbols that can be spatially far from each other in the score.</Para>
+              <Para>Several research works have suggested the introduction of the musical context in the OMR process by a formalization of musical knowledge using a grammar (e.g. [<CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR73">73</CitationRef>, <CitationRef CitationID="CR74">74</CitationRef>, <CitationRef CitationID="CR85">85</CitationRef>]). The grammar rules can play an important role in music creation. They specify how the primitives are processed, how a valid musical event should be made, and even how graphical shapes should be segmented. Andronico and Ciampa [<CitationRef CitationID="CR1">1</CitationRef>] and Prerau [<CitationRef CitationID="CR74">74</CitationRef>] were pioneers in this area. One of Fujinaga’s first works focused on the characterization of music notation by means of a <Emphasis Type="Italic">context-free</Emphasis> and <InlineEquation ID="IEq8">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$LL(k)$$]]></EquationSource>
+                </InlineEquation> grammar. Coüasnon [<CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>] also based their works on a grammar, which is essentially a description of the relations between the graphical objects and a parser, which is the introduction of musical context with syntactic or semantic information. The author claims that this approach will reduce the risk of generating errors imposed during the symbols extraction, using only very local information. The proposed grammar is implemented in <InlineEquation ID="IEq9">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\lambda $$]]></EquationSource>
+                </InlineEquation>Prolog, a higher dialect of Prolog with more expressive power, with semantic attributes connected to <InlineEquation ID="IEq10">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$C$$]]></EquationSource>
+                </InlineEquation> libraries for pattern recognition and decomposition. The grammar is directly implemented in <InlineEquation ID="IEq11">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\lambda $$]]></EquationSource>
+                </InlineEquation>Prolog using definite clause grammars (DCG’s) techniques. It has two levels of parsing: a graphical one corresponding to the physical level and a syntactic one corresponding to the logical level. The parser structure is a list composed of segments (non-labeled) and connected components, which do not necessarily represent a symbol. The first step of the parser is the labeling process and the second is the error detection. Both operations are supported by the context introduced in the grammar. However, no statistical results are available for this system.</Para>
+              <Para>Bainbridge [<CitationRef CitationID="CR2">2</CitationRef>] also implemented a grammar-based approach using DCG’s to specify the relationships between the recognized musical shapes. This work describes the CANTOR system, which has been designed to be as general as possible by allowing the user to define the rules that describe the music notation. Consequently, the system is readily adaptable to different publishing styles in CMN. The authors argue that their method overcame the complexity imposed in the parser development operation proposed in [<CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>]. CANTOR avoids such drawbacks by using a <Emphasis Type="Italic">bag</Emphasis>
+                <Footnote ID="Fn6">
+                  <Para>A bag is a one-dimensional data structure which is a cross between a list and a set; it is implemented in Prolog as a predicate that extracts elements from a list, with unrestricted backtracking.</Para>
+                </Footnote> of tokens instead of using a <Emphasis Type="Italic">list</Emphasis> of tokens. For instance, instead of getting a unique next symbol, the grammar can “request” a token, e.g. a notehead, from the bag, and if its position does not fit in with the current musical feature that is being parsed, then the grammar can backtrack and request the “next” notehead from the bag. To deal with complexity time, the process uses derivation trees of the assembled musical features during the parse execution. In a more recent work Bainbridge and Bell [<CitationRef CitationID="CR4">4</CitationRef>] incorporated a basic graph in CANTOR system according to each musical feature’s position <InlineEquation ID="IEq12">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_4_Article_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$(x, y)$$]]></EquationSource>
+                </InlineEquation>. The result is a lattice-like structure of musical feature nodes that are linked horizontally and vertically. This final structure is the musical interpretation of the scanned image. Consequently, additional routines can be incorporated in the system to convert this graph into audio application files (such as MIDI and CSound) or music editor application files (such as Tilia or NIFF).</Para>
+              <Para>Prerau [<CitationRef CitationID="CR73">73</CitationRef>] makes a distinction between notational grammars and higher-level grammars for music. While notation grammars allow the computer to recognize important music relationships between the symbols, the higher-level grammars deal with phrases and larger units of music.</Para>
+              <Para>Other techniques to construct the musical notation are based on fusion of musical rules and heuristics (e.g. [<CitationRef CitationID="CR28">28</CitationRef>, <CitationRef CitationID="CR31">31</CitationRef>, <CitationRef CitationID="CR68">68</CitationRef>, <CitationRef CitationID="CR89">89</CitationRef>]) and common parts on the row and column histograms for each pair of symbols [<CitationRef CitationID="CR98">98</CitationRef>]. Rossant and Bloch [<CitationRef CitationID="CR89">89</CitationRef>] proposed an OMR system with two stages: detection of the isolated objects and computation of hypotheses, both using low-level preprocessing, and final correct decision based on high-level processing which includes contextual information and music writing rules. In the graphical consistency (low-level processing) stage, the purpose is to compute the compatibility degree between each object and all the surrounding objects, according to their classes. The graphical rules used by the authors were<UnorderedList Mark="Dash">
+                  <ItemContent>
+                    <Para>Accidentals and notehead: an accidental is placed before a notehead and at same height. </Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>Noteheads and dots: the dot is placed after or above a notehead in a variable distance. </Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>Between any other pair of symbols: they cannot overlap. </Para>
+                  </ItemContent>
+                </UnorderedList>In the syntactic consistency (high-level processing) stage, the aim is to introduce rules related to tonality, accidentals, and meter. Here, the key signature is a relevant parameter. This group of symbols is placed in the score as an ordered sequence of accidentals placed just after the clef. In the end, the score meter (number of beats per bar) is checked. In [<CitationRef CitationID="CR65">65</CitationRef>, <CitationRef CitationID="CR67">67</CitationRef>, <CitationRef CitationID="CR68">68</CitationRef>] the process is also based on a low- and high-level approaches to recognize music scores. Once again, the reconstruction of primitives is done using basic musical syntax. Therefore, extensive heuristics and musical rules are applied to reconfirm the recognition. After this operation, the correct detection of key and time signature becomes crucial. They provide a global information about the music score that can be used to detect and correct possible recognition errors. The developed system also incorporates a module to output the result into a expMIDI (expressive MIDI) format. This was an attempt to surmount the limitations of MIDI for expressive symbols and other notations details, such as slurs and beaming information.</Para>
+              <Para>More research works produced in the past use abductive constraint logic programming (ACLP) [<CitationRef CitationID="CR33">33</CitationRef>] and sorted lists that connect all inter-related symbols [<CitationRef CitationID="CR20">20</CitationRef>]. In [<CitationRef CitationID="CR33">33</CitationRef>] an ACLP system, which integrates into a single framework abductive logic programming (ALP) and constraint logic programming (CLP), is proposed. This system allows feedback between the high-level phase (musical symbols interpretation) and the low-level phase (musical symbols recognition). The recognition module is carried out through object feature analysis and graphical primitive analysis, while the interpretation module is composed of music notation rules to reconstruct the music semantics. The system output is a graphical music-publishing file, like MIDI. No practical results are known for this architecture’s implementation.</Para>
+              <Para>Other procedures try to automatically synchronize sheet music scanned with a corresponding CD audio recording [<CitationRef CitationID="CR27">27</CitationRef>, <CitationRef CitationID="CR38">38</CitationRef>, <CitationRef CitationID="CR56">56</CitationRef>] using a matching between OMR algorithms and digital signal processing. Based on an automated mapping procedure, the authors identify scanned pages of music score by means of a given audio collection. Both scanned score and audio recording are turned into a common mid-level representation—chroma-based features, where the <Emphasis Type="Italic">chroma</Emphasis> corresponds to the 12 traditional pitch classes of the equal-tempered scale—whose sequences are time-aligned using algorithms based on dynamic time warping (DTW). In the end, a combination of this alignment with OMR results is performed to connect spatial positions within audio recording to regions within scanned images.</Para>
+              <Section2 ID="Sec10">
+                <Heading>Summary</Heading>
+                <Para>Most notation systems make it possible to import and export the final representation of a musical score for MIDI. However, several other music encoding formats for music have been developed over the years—see Table <InternalRef RefID="Tab2">2</InternalRef>. The used OMR systems are non-adaptive and consequently they do not improve their performance through usage. Studies have been carried out to overcome this limitation by merging multiple OMR systems [<CitationRef CitationID="CR13">13</CitationRef>, <CitationRef CitationID="CR55">55</CitationRef>]. Nonetheless, this remains a challenge. Furthermore, the results of the most OMR systems are only for the recognition of printed music scores. This is the major gap in state-of-the-art frameworks. With the exception for PhotoScore, which works with handwritten scores, most of them fail when the input image is highly degraded such as photocopies or documents with low-quality paper. The work developed in [<CitationRef CitationID="CR14">14</CitationRef>] is the beginning of a web-based system that will provide broad access to a wide <Emphasis Type="Italic">corpus</Emphasis> of handwritten unpublished music encoded in digital format. The system includes an OMR engine integrated with an archiving system and a user-friendly interface for searching, browsing, and editing. The output of digitized scores is stored in MusicXML which is a recent and expanding music interchange format designed for notation, analysis, retrieval, and performance applications.</Para>
+                <Table Float="Yes" ID="Tab2">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>The most relevant OMR software and programs</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="2">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Software and program</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Output file</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="center" colname="c1">
+                          <SimplePara>SmartScore<Superscript>a</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Finale, MIDI, NIFF, PDF</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="center" colname="c1">
+                          <SimplePara>SharpEye<Superscript>b</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>MIDI, MusicXML, NIFF</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="center" colname="c1">
+                          <SimplePara>PhotoScore<Superscript>c</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>MIDI, MusicXML, NIFF, PhotoScore, WAVE</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="center" colname="c1">
+                          <SimplePara>Capella-Scan<Superscript>d</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Capella, MIDI, MusicXML</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="center" colname="c1">
+                          <SimplePara>ScoreMaker<Superscript>e</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>MusicXML</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="center" colname="c1">
+                          <SimplePara>Vivaldi Scan<Superscript>f</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Vivaldi, XML, MIDI</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="center" colname="c1">
+                          <SimplePara>Audiveris<Superscript>g</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>MusicXML</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="center" colname="c1">
+                          <SimplePara>Gamera<Superscript>h</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>XML files</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                  <tfooter>
+                    <SimplePara>
+                      <Superscript>a</Superscript>
+                      <ExternalRef>
+                        <RefSource>http://www.musitek.com/</RefSource>
+                        <RefTarget Address="http://www.musitek.com/" TargetType="URL"/>
+                      </ExternalRef>
+                    </SimplePara>
+                    <SimplePara>
+                      <Superscript>b</Superscript>
+                      <ExternalRef>
+                        <RefSource>http://www.music-scanning.com/</RefSource>
+                        <RefTarget Address="http://www.music-scanning.com/" TargetType="URL"/>
+                      </ExternalRef>
+                    </SimplePara>
+                    <SimplePara>
+                      <Superscript>c</Superscript>
+                      <ExternalRef>
+                        <RefSource>http://www.neuratron.com/photoscore.htm</RefSource>
+                        <RefTarget Address="http://www.neuratron.com/photoscore.htm" TargetType="URL"/>
+                      </ExternalRef>
+                    </SimplePara>
+                    <SimplePara>
+                      <Superscript>d</Superscript>
+                      <ExternalRef>
+                        <RefSource>http://www.capella-software.com/capella-scan.cfm</RefSource>
+                        <RefTarget Address="http://www.capella-software.com/capella-scan.cfm" TargetType="URL"/>
+                      </ExternalRef>
+                    </SimplePara>
+                    <SimplePara>
+                      <Superscript>e</Superscript>
+                      <ExternalRef>
+                        <RefSource>http://www.music-notation.info/en/software/SCOREMAKER.html</RefSource>
+                        <RefTarget Address="http://www.music-notation.info/en/software/SCOREMAKER.html" TargetType="URL"/>
+                      </ExternalRef>
+                    </SimplePara>
+                    <SimplePara>
+                      <Superscript>f</Superscript>
+                      <ExternalRef>
+                        <RefSource>http://www.vivaldistudio.com/Eng/VivaldiScan.asp</RefSource>
+                        <RefTarget Address="http://www.vivaldistudio.com/Eng/VivaldiScan.asp" TargetType="URL"/>
+                      </ExternalRef>
+                    </SimplePara>
+                    <SimplePara>
+                      <Superscript>g</Superscript>
+                      <ExternalRef>
+                        <RefSource>http://audiveris.kenai.com/</RefSource>
+                        <RefTarget Address="http://audiveris.kenai.com/" TargetType="URL"/>
+                      </ExternalRef>
+                    </SimplePara>
+                    <SimplePara>
+                      <Superscript>h</Superscript>
+                      <ExternalRef>
+                        <RefSource>http://gamera.informatik.hsnr.de/</RefSource>
+                        <RefTarget Address="http://gamera.informatik.hsnr.de/" TargetType="URL"/>
+                      </ExternalRef>
+                    </SimplePara>
+                  </tfooter>
+                </Table>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec11">
+              <Heading>Available datasets and performance evaluation</Heading>
+              <Para>There are some available datasets that can be used by OMR researchers to test the different steps of an OMR processing system. Pinto et al. [<CitationRef CitationID="CR72">72</CitationRef>] made available the code and the database<Footnote ID="Fn7">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://www.inescporto.pt/~jsc/ReproducibleResearch.html.</RefSource>
+                      <RefTarget Address="http://www.inescporto.pt/~jsc/ReproducibleResearch.html." TargetType="URL"/>
+                    </ExternalRef>
+                  </Para>
+                </Footnote> they created to estimate the results of binarization procedures in the preprocessing stage. This database is composed of 65 handwritten scores, from 6 different authors. All the scores in the dataset were reduced to gray-level information. An average value for the best possible global threshold for each image was obtained using five different people. A subset of 10 scores was manually segmented to be used as ground truth for the evaluation procedure.<Footnote ID="Fn8">
+                  <Para>The process to create ground-truths is to binarize images by hand, cleaning all the noise and background, making sure nothing more than the objects remains. This process is extremely time-consuming and for this reason only 10 scores were chosen from the entire dataset.</Para>
+                </Footnote> For global thresholding processes, the authors chose three different measures: difference from reference threshold (DRT); misclassification error (ME); and comparison between results of staff finder algorithms applied to each binarized image. For the adaptive binarization, two new error rates were included: the missed object pixel rate and the false object pixel, dealing with loss in object pixels and excess noise, respectively.</Para>
+              <Para>Three datasets are accessible to evaluate the algorithms for staff line detection and removal: the Synthetic Score Database by Christoph Dalitz,<Footnote ID="Fn9">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://music-staves.sourceforge.net</RefSource>
+                      <RefTarget Address="http://music-staves.sourceforge.net" TargetType="URL"/>
+                    </ExternalRef>.</Para>
+                </Footnote> the CVC-MUSCIMA Database by Alicia FornTs<Footnote ID="Fn10">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://www.cvc.uab.es/cvcmuscima/.</RefSource>
+                      <RefTarget Address="http://www.cvc.uab.es/cvcmuscima/." TargetType="URL"/>
+                    </ExternalRef>
+                  </Para>
+                </Footnote> and the Handwritten Score Database by Jaime Cardoso<Footnote ID="Fn11">
+                  <Para>The database is available upon request to the authors.</Para>
+                </Footnote>[<CitationRef CitationID="CR16">16</CitationRef>]. The first consists of 32 ideal music scores where different deformations were applied covering a wide range of music types and music fonts. The deformations and the ground truth information for these syntactic images are accessible through the MusicStaves toolkit from the Generalized Algorithms and Methods for Enhancement and Restoration of Archives (Gamera) framework.<Footnote ID="Fn12">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://gamera.sourceforge.net</RefSource>
+                      <RefTarget Address="http://gamera.sourceforge.net" TargetType="URL"/>
+                    </ExternalRef>.</Para>
+                </Footnote> Dalitz et al. [<CitationRef CitationID="CR26">26</CitationRef>] put their database available together with their source code. Three error metrics based on individual pixels, staff-segment regions, and staff interruption location were created to measure the performance of the algorithms for staff line removal. The CVC-MUSCIMA Database contains 1,000 music sheets of the same 20 music scores which were written by 50 different musicians, using the same pen and the same kind of music paper with printed staff lines. The images of this database were distorted using the algorithms from Dalitz et al. [<CitationRef CitationID="CR26">26</CitationRef>]. In total, the dataset has 12000 images with ground truth for the staff removal task and for writer identification. The database created by Cardoso comprises 50 real scores with real positions of the staff lines and music symbols obtained manually.</Para>
+              <Para>Two datasets are available to train a classifier for the music symbols recognition step. Desaedeleer [<CitationRef CitationID="CR30">30</CitationRef>],<Footnote ID="Fn13">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://sourceforge.net/projects/openomr/</RefSource>
+                      <RefTarget Address="http://sourceforge.net/projects/openomr/" TargetType="URL"/>
+                    </ExternalRef>.</Para>
+                </Footnote> in his open source project to perform OMR, has created 15 classes of printed music symbols with a total of 725 objects. Rebelo et al. [<CitationRef CitationID="CR83">83</CitationRef>] have created a dataset with 14 classes of printed and handwritten music symbols, each of them with 2,521 and 3,222 symbols, respectively.<Footnote ID="Fn14">
+                  <Para>The database is available upon request to the authors.</Para>
+                </Footnote>
+              </Para>
+              <Para>
+                <Figure Category="Standard" Float="Yes" ID="Fig8">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 8</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Summary of the most used techniques in an OMR system</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO17">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_4_Fig8_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>As already mentioned in this article, there are several commercial OMR systems available<Footnote ID="Fn15">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://www.informatics.indiana.edu/donbyrd/OMRSystemsTable.html.</RefSource>
+                      <RefTarget Address="http://www.informatics.indiana.edu/donbyrd/OMRSystemsTable.html." TargetType="URL"/>
+                    </ExternalRef>
+                  </Para>
+                </Footnote> and their recognition accuracy, as claimed by the distributor, is about 90% [<CitationRef CitationID="CR6">6</CitationRef>, <CitationRef CitationID="CR51">51</CitationRef>]. However, this is not a reliable value. It is not specified what music score database were used and how this value was estimated. The measurement and comparison in terms of performance of different OMR algorithms is an issue that has already been widely considered and discussed (e.g. [<CitationRef CitationID="CR6">6</CitationRef>, <CitationRef CitationID="CR51">51</CitationRef>, <CitationRef CitationID="CR61">61</CitationRef>, <CitationRef CitationID="CR97">97</CitationRef>]). As referred in [<CitationRef CitationID="CR6">6</CitationRef>] the meaning of music recognition depends on the goal in mind. For instance, some applications aim to produce an audio record from a music score through document analysis, while others only want to transcode a score into interchange data formats. These different objectives hinder the creation of a common methodology to compare the results of an OMR process. Having a way of quantifying the achievement of OMR systems would be truly significant for the scientific community. On the one hand, by knowing the OMR’s accuracy rate, we can predict production costs and make decisions on the whole recognition process. On the other hand, quantitative measures bring progress to the OMR field, thus making it a reference for researchers [<CitationRef CitationID="CR6">6</CitationRef>].</Para>
+              <Para>Jones et al. [<CitationRef CitationID="CR51">51</CitationRef>] address several important shortcomings to take into consideration when comparing different OMR systems: (1) each available commercial OMR systems has its own output interface —for instance, PhotoScore works with Sibelius, a music notation software—becoming very difficult to assess the performance of the OMR system alone, (2) the input images are not exactly the same, having differences in input format, resolution and image-depth, (3) the input and output have different format representations—for instance <Emphasis Type="Italic">.mus</Emphasis> format is used in the Finale software and not in Sibelius software, and (4) the differences in the results can be induced by semantic errors. In order to measure the performance of the OMR systems, Jones et al. [<CitationRef CitationID="CR51">51</CitationRef>] also suggest an evaluation approach with the following aspects: (1) a standard dataset for OMR or a set of standard terminology is needed to objectively and automatically evaluate the entire music score recognition system, (2) a definition of a set of rules and metrics, encompassing the key points to be considered in the evaluation process, and (3) the definition of different ratios for each kind of error.</Para>
+              <Para>Similarly, Bellini et al. [<CitationRef CitationID="CR6">6</CitationRef>] proposed two assessment models focused on basic and composite symbols to measure the results of the OMR algorithms. The motivation for these models was the result of opinions from copyists and OMR system builders. The former give much importance to details such as changes in primitive symbols or annotation symbols. The latter, in contrast with the copyists, give more relevance to the capability of the system to recognize the most frequently used objects. The authors defined a set of metrics to count the recognized, missed, and confused music symbols to reach the recognition rate of basic symbols. Furthermore, since a proper identification of a primitive symbol does not mean that its composition is correct, the characterization of the relationships with other symbols is also analyzed. Therefore, a set of metrics has been defined to count categories of recognized, faulty, and missed composite symbols.</Para>
+              <Para>Szwoch [<CitationRef CitationID="CR97">97</CitationRef>] proposed a strategy to evaluate the result of an OMR process based on the comparison of MusicXML files from the music scores. One of the shortcomings of this methodology is in the output format of the application. Even though MusicXML is becoming more and more a standard music interchange format, it is not yet used in all music recognition software. Another concern is related to the comparison between the MusicXML files. The same score can be correctly represented by different MusicXML codes, making the one-to-one comparison difficult. Miyao and Haralick [<CitationRef CitationID="CR61">61</CitationRef>] proposed data formats for primitive symbols, music symbols, and hierarchical score representations. The authors stress that when using these specific configurations the researchers can objectively and automatically measure the symbol extraction results and the final music output from an OMR application. Hence, the primitive symbols must include the size and position for each element, the music symbols must have the possible combinations of primitive symbols, and the hierarchical score representation must include the music interpretation. Notwithstanding, this is a difficult approach for comparisons between OMR software since the most of them will not allow the implementation of these models in their algorithms.</Para>
+            </Section1>
+            <Section1 ID="Sec12">
+              <Heading>Open issues and future trends</Heading>
+              <Para>This paper surveyed several techniques currently available in the OMR field. Figure <InternalRef RefID="Fig8">8</InternalRef> summarizes the various approaches used in each stage of an OMR system. The most important open issues are related to<UnorderedList Mark="Bullet">
+                  <ItemContent>
+                    <Para>the lack of robust methodologies to recognize handwritten music scores, </Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>a web-based system providing broad access to a wide corpus of handwritten unpublished music encoded in digital format, </Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>a master music dataset with different deformations to test different OMR systems, </Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>and a framework with appropriate metrics to measure the accuracy of different OMR systems. </Para>
+                  </ItemContent>
+                </UnorderedList>
+              </Para>
+              <Section2 ID="Sec13">
+                <Heading>Future trends</Heading>
+                <Para>This present survey unveiled three challenges that should be addressed in future work on OMR as applied to manuscript scores: preprocessing, staff detection and removal, and music symbols segmentation and recognition.</Para>
+                <Section3 ID="Sec14">
+                  <Heading>Preprocessing</Heading>
+                  <Para>This is one of the first steps in an OMR system. Hence, it is potentially responsible for generating errors that can propagate to the next steps on the system. Several binarization methods often produce breaks in staff connections, making the detection of staff lines harder. These methods also increase the quantity of noise significantly (see Fig. <InternalRef RefID="Fig6">6</InternalRef> in Sect. <InternalRef RefID="Sec4">2</InternalRef>). Back-to-front interference, poor paper quality or non-uniform lighting causes these problems. A solution was proposed in [<CitationRef CitationID="CR72">72</CitationRef>] (BLIST). Performing a binarization process using prior knowledge about the content of the document can ensure better results, because this kind of procedure conserves the information that is important to OMR. Moreover, the work proposed in [<CitationRef CitationID="CR17">17</CitationRef>] encourages further research in using gray-level images rather than using binary images. Similarly, new possibilities exist for music score segmentation by exploiting the differences in the intensity of gray pixels of the ink and the intensity of gray pixels of the paper.</Para>
+                </Section3>
+                <Section3 ID="Sec15">
+                  <Heading>Staff detection and removal</Heading>
+                  <Para>Some of the state-of-the-art algorithms are capable of performing staff line detection and removal with a good degree of success. Cardoso et al. [<CitationRef CitationID="CR16">16</CitationRef>] present a technique to overcome the existing problems in the staff lines of the music scores, by suggesting a graph-theoretic framework (see end of Sect. <InternalRef RefID="Sec7">3</InternalRef>). The promising results promote the utilization and development of this technique for staff line detection and removal in gray-level images. In order to test the various methodologies in this step the authors suggest to the researchers the participation in the staff line removal competition which in 2011 was promoted by International Conference on Document Analysis and Recognition (ICDAR).<Footnote ID="Fn16">
+                      <Para>
+                        <ExternalRef>
+                          <RefSource>http://www.cvc.uab.es/cvcmuscima/competition/</RefSource>
+                          <RefTarget Address="http://www.cvc.uab.es/cvcmuscima/competition/" TargetType="URL"/>
+                        </ExternalRef>.</Para>
+                    </Footnote>
+                  </Para>
+                </Section3>
+                <Section3 ID="Sec16">
+                  <Heading>Music symbols segmentation and recognition</Heading>
+                  <Para>A musical document has a bidimensional structure in which staff lines are superimposed with several combined symbols organized around the noteheads. This imposes a high level of complexity in the music symbols segmentation which becomes even more challenging in handwritten music scores due to the wider variability of the objects. For printed music documents, a good methodology was proposed in [<CitationRef CitationID="CR89">89</CitationRef>]. The algorithm architecture consists in detecting the isolated objects and computing recognition hypotheses for each of the symbols. A final decision about the object is taken based on contextual information and music writing rules. Rebelo et al. [<CitationRef CitationID="CR84">84</CitationRef>] are implementing this propitious technique for handwritten music scores. The authors proposed to use the natural existing dependency between music symbols to extract them. For instance, beams connect eighth notes or smaller rhythmic values and accidentals are placed before a notehead and at the same height. As a future trend, they discuss the importance of using global constraints to improve the results in the extraction of symbols. Errors associated with missing symbols, symbol confusion, and falsely detected symbols can be mitigated, e.g., by querying if the detected symbols’ durations amount to the value of the time signature on each bar. The inclusion of prior knowledge of syntactic and semantic musical rules may help the extraction of the handwritten music symbols and consequently it can also lead to better results in the future.</Para>
+                  <Para>An important issue that could also be addressed is the role of the user in the process. An automatic OMR system capable of recognizing handwritten music scores with high robustness and precision seems to be a goal difficult to achieve. Hence, interactive OMR systems may be a realistic and practical solution to this problem. MacMillan et al. [<CitationRef CitationID="CR59">59</CitationRef>] adopted a learning-based approach in which the process improves its results through experts users. The same idea of active learning was suggested by Fujinaga [<CitationRef CitationID="CR40">40</CitationRef>] in which a method to learn new music symbols and handwritten music notations based on the combination of a <Emphasis Type="Italic">k</Emphasis>-nearest neighbor classifier with a genetic algorithm was proposed.</Para>
+                  <Para>An interesting application of OMR concerns to online recognition, which allows an automatic conversion of text as it is written on a special digital device. Taking into consideration the current proliferation of small electronic devices with increasing computation power, such as tablets and smartphones, it may be usefully the exploration of such features applied on OMR. Besides, composers prefer the creativity which can only be entirely achieved without restrictions. This implies total freedom of use, not only of OMR softwares, but also paper where they can write their music. Hence, algorithms for OMR are still necessary.</Para>
+                </Section3>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec17">
+              <Heading>Conclusion</Heading>
+              <Para>Over the past decades, substantial research was done in the development of systems that are able to optically recognize and understand musical scores. An overview through the number of articles produced during the past 40 years in the field of optical music recognition makes us aware of the clear increase in research in this area. The progress in the field spans many areas of computer science: from image processing to graphic representation; from pattern recognition to knowledge representation; from probabilistic encodings to error detection and correction. OMR is thus an important and complex field where knowledge from several fields intersects.</Para>
+              <Para>An effective and robust OMR system for printed and handwritten music scores can provide several advantages to the scientific community: (1) an automated and time-saving input method to transform paper-based music scores into a machine-readable symbolic format for several music softwares, (2) enable translations, for instance to Braille notations, (3) better access to music, (4) new functionalities and capabilities with interactive multimedia technologies, for instance association of scores and video excerpts, (5) playback, musical analysis, reprinting, editing, and digital archiving, and (6) preservation of cultural heritage [<CitationRef CitationID="CR51">51</CitationRef>].</Para>
+              <Para>In this article, we presented a survey on several techniques employed in OMR that can be used in processing printed and handwritten music scores. We also presented an evaluation of current state-of-the-art algorithms as applied to handwritten scores. The challenges faced by OMR systems dedicated to handwritten music scores were identified, and some approaches for improving such systems were presented and suggested for future development. This survey thus aims to be a reference scheme for any researcher wanting to compare new OMR algorithms against well-known ones and provide guidelines for further development in the field.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_Article_4.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_4_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <Heading>Acknowledgments</Heading>
+              <SimplePara>This work was partially supported by Fundação para a Ciência e a Tecnologia (FCT) - Portugal through project SFRH/BD/60359/2009. The authors would like to thank Bruce Pennycook from the University of Texas at Austin for his helpful comments on the pre-final version of this text.</SimplePara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>Andronico A, Ciampa A (1995) On automatic pattern recognition and acquisition of printed music, 1982. In: Coüasnon B, Camillerapp J (eds) A way to separate knowledge from program in structured document analysis: application to optical music recognition. International conference on document analysis and recognition, pp 1092–1097</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>Bainbridge D (1997) An extensible optical music recognition system. In: Proceedings of the nineteenth Australasian computer science conference, pp 308–317</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Bainbridge</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Bell</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">The challenge of optical music recognition</ArticleTitle>
+                  <JournalTitle>Comput Hum</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>95</FirstPage>
+                  <LastPage>121</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1002485918032</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bainbridge D, Bell T (2001) The challenge of optical music recognition. Comput Hum 35(2):95–121</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Bainbridge</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Bell</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A music notation construction engine for optical music recognition</ArticleTitle>
+                  <JournalTitle>Softw Pract Exp</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>173</FirstPage>
+                  <LastPage>200</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1010.68968</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/spe.502</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bainbridge D, Bell T (2003) A music notation construction engine for optical music recognition. Softw Pract Exp 33(2):173–200</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Bellini P, Bruno I, Nesi P (2001) Optical music sheet segmentation. In: Proceedings of the first international conference on web delivering of music, pp 183–190</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Bellini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Bruno</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Nesi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Assessing optical music recognition tools</ArticleTitle>
+                  <JournalTitle>Comput Music J</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>68</FirstPage>
+                  <LastPage>93</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1162/comj.2007.31.1.68</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bellini P, Bruno I, Nesi P (2007) Assessing optical music recognition tools. Comput Music J 31:68–93</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Bellini P, Bruno I, Nesi P (2008) Optical music recognition: architecture and algorithms. In: Interactive multimedia music technologies. IGI Global, Hershey, pp 80–110</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>Bernsen J (2005) Dynamic thresholding of grey-level images, 1986. In: Bieniecki W, Grabowski S (eds) Multi-pass approach to adaptive thresholding based image segmentation. In: Proceedings of the 8th international IEEE conference CADSM</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Blostein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HS</Initials>
+                    <FamilyName>Baird</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ChapterTitle Language="En">A critical survey of music image analysis</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>HS</Initials>
+                    <FamilyName>Baird</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Bunke</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Yamamoto</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Structured document image analysis</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Berlin</PublisherLocation>
+                  <FirstPage>405</FirstPage>
+                  <LastPage>434</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-642-77281-8_19</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Blostein D, Baird HS (1992) A critical survey of music image analysis. In: Baird HS, Bunke H, Yamamoto K (eds) Structured document image analysis. Springer, Berlin, pp 405–434</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AD</Initials>
+                    <FamilyName>Brink</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NE</Initials>
+                    <FamilyName>Pendock</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Minimum cross-entropy threshold selection</ArticleTitle>
+                  <JournalTitle>Pattern Recognit</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>179</FirstPage>
+                  <LastPage>188</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0031-3203(95)00066-6</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Brink AD, Pendock NE (1996) Minimum cross-entropy threshold selection. Pattern Recognit 29(1):179–188</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Burgoyne JA, Ouyang Y, Himmelman T, Devaney J, Pugin L, Fujinaga I (2009) Lyric extraction and recognition on digital images of early music sources. In: Proceedings of the 10th International Society for Music, information retrieval, pp 723–727</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Burgoyne JA, Pugin L, Eustace G, Fujinaga I (2007) A comparative survey of image binarisation algorithms for optical recognition on degraded musical sources. In: Proceedings of the 8th International Society for Music, information retrieval, pp 509–512</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Byrd D, Schindele M (2006) Prospects for improving OMR with multiple recognizers. In: Proceedings of the 7th International Society for Music, information retrieval, pp 41–47</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Capela A, Cardoso JS, Rebelo A, Guedes C (2008) Integrated recognition system for music scores. In: Proceedings of the international computer music conference</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>Cardoso JS, Capela A, Rebelo A, Guedes C (2008) A connected path approach for staff detection on a music score. In: Proceedings of the 15th IEEE international conference on image processing, pp 1005–1008. doi:<ExternalRef><RefSource>10.1109/ICIP.2008.4711927</RefSource><RefTarget Address="10.1109/ICIP.2008.4711927" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Cardoso</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Capela</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Rebelo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Guedes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JF</Initials>
+                    <FamilyName>Pinto da Costa</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Staff detection with stable paths</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>1134</FirstPage>
+                  <LastPage>1139</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2009.34</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cardoso JS, Capela A, Rebelo A, Guedes C, Pinto da Costa JF (2009) Staff detection with stable paths. IEEE Trans Pattern Anal Mach Intell 31(6):1134–1139</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>Cardoso JS, Rebelo A (2010) Robust staffline thickness and distance estimation in binary and gray-level music scores. In: Proceedings of The twentieth international conference on pattern recognition, pp 1856–1859. doi:<ExternalRef><RefSource>10.1109/ICPR.2010.458</RefSource><RefTarget Address="10.1109/ICPR.2010.458" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>NP</Initials>
+                    <FamilyName>Carter</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ChapterTitle Language="En">Automatic recognition of printed music in the context of electronic publishing, 1989. A critical survey of music image analysis</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Blostein</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Baird</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Structured document image analysis</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>405</FirstPage>
+                  <LastPage>434</LastPage>
+                </BibChapter>
+                <BibUnstructured>Carter NP (1992) Automatic recognition of printed music in the context of electronic publishing, 1989. A critical survey of music image analysis. In: Blostein D, Baird H (eds) Structured document image analysis. Springer, Heidelberg, pp 405–434</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Q</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Q</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Heng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Xia</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">A double-threshold image binarization method based on edge detector</ArticleTitle>
+                  <JournalTitle>Pattern Recognit</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>1254</FirstPage>
+                  <LastPage>1267</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patcog.2007.09.007</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chen Q, Sun Q, Heng P, Xia D (2008) A double-threshold image binarization method based on edge detector. Pattern Recognit 41(4):1254–1267</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibUnstructured>Choudhury G, Droetboom M, DiLauro T, Fujinaga I, Harrington B (2000) Optical music recognition system within a large-scale digitization project. In: Proceedings of the International Society for Music information retrieval</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibUnstructured>Coüasnon B (1996) Segmentation et reconnaissance de documents guidTes par la connaissance a priori: application aux partitions musicales. PhD thesis, Universit de Rennes</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Coüasnon B, Brisset P, Stephan I (1995) Using logic programming languages for optical music recognition. In: Proceedings of the third international conference on the practical application of prolog, pp 115–134</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibUnstructured>Coüasnon B, Camillerapp J (1993) Using grammars to segment and recognize music scores. In: Proceedings of DAS-94: international association for pattern recognition workshop on document analysis systems, pp 15–27</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibUnstructured>Coüasnon B, Camillerapp J (1995) A way to separate knowledge from program in structured document analysis: application to optical music recognition. In: Proceedings of the third international conference on document analysis and recognition, pp 1092–1097</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibUnstructured>Dalitz C (2009) Reject options and confidence measures for knn classifiers. In: Dalitz C (ed) Schriftenreihe des Fachbereichs Elektrotechnik und Informatik Hochschule Niederrhein, vol 8. Shaker Verlag, Maastricht, pp 16–38</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Dalitz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Droettboom</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Czerwinski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Fujigana</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">A comparative study of staff removal algorithms</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>753</FirstPage>
+                  <LastPage>766</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2007.70749</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dalitz C, Droettboom M, Czerwinski B, Fujigana I (2008) A comparative study of staff removal algorithms. IEEE Trans Pattern Anal Mach Intell 30:753–766</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibUnstructured>Damm D, Fremerey C, Kurth F, Müller M, Clausen M (2008) Multimodal presentation and browsing of music. In: Proceedings of the 10th international conference on multimodal interfaces. ACM, pp 205–208</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibUnstructured>Dan L (1996) Final year project report automatic optical music recognition, technical report</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MP</Initials>
+                    <FamilyName>de Albuquerque</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>IA</Initials>
+                    <FamilyName>Esquef</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AR</Initials>
+                    <FamilyName>Gesualdi Mello</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Image thresholding using tsallis entropy</ArticleTitle>
+                  <JournalTitle>Pattern Recognit Lett</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <IssueID>9</IssueID>
+                  <FirstPage>1059</FirstPage>
+                  <LastPage>1065</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patrec.2004.03.003</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>de Albuquerque MP, Esquef IA, Gesualdi Mello AR (2004) Image thresholding using tsallis entropy. Pattern Recognit Lett 25(9):1059–1065</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibUnstructured>Desaedeleer AF (2006) Reading sheet music. Master’s thesis, Imperial College London, Technology and Medicine, University of London</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibUnstructured>Droettboom M, Fujinaga I, MacMillan K (2002) Optical music interpretation. In: Proceedings of the joint IAPR international workshop on structural, syntactic, and statistical pattern recognition. Springer, Berlin, pp 378–386</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibUnstructured>Dutta A, Pal U, Fornés A, Lladós J (2010) An efficient staff removal approach from printed musical documents. In: Proceedings of the 20th international conference on pattern recognition. IEEE Computer Society, pp 1965–1968</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibUnstructured>Ferrand M, Leite JA, Cardoso A (1999) Hypothetical reasoning: an application to optical music recognition. In: Proceedings of the Appia-Gulp-Prode’99 joint conference on declarative programming, pp 367–381</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibUnstructured>Fornés A, Escalera S, Lladós J, Sánchez G, Radeva P, Pujol O (2007) Handwritten symbol recognition by a boosted blurred shape model with error correction. In: Proceedings of the 3rd Iberian conference on pattern recognition and image analysis, part I. Springer, Berlin, pp 13–21</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Fornés</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Sánchez</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ChapterTitle Language="En">Primitive segmentation in old handwritten music scores</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Llads</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Graphics recognition. Ten years review and future perspectives. Lecture notes in computer science, vol 3926</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation> Berlin</PublisherLocation>
+                  <FirstPage>279</FirstPage>
+                  <LastPage>290</LastPage>
+                </BibChapter>
+                <BibUnstructured>Fornés A, Sánchez G (2005) Primitive segmentation in old handwritten music scores. In: Liu W, Llads J (eds) Graphics recognition. Ten years review and future perspectives. Lecture notes in computer science, vol 3926. Springer, Berlin, pp 279–290</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibUnstructured>Fornés A, Lladós J, Sánchez G, Bunke H (2008) Writer identification in old handwritten music scores. In: Proceedings of the 2008 the eighth IAPR international workshop on document analysis systems. IEEE Computer Society, pp 347–353</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibUnstructured>Fornés A, Lladós J, Sánchez G, Bunke H (2009) On the use of textural features for writer identification in old handwritten music scores. In: Proceedings of the 2009 10th international conference on document analysis and recognition. IEEE Computer Society, pp 996–1000</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibUnstructured>Fremerey C, Müller M, Kurth F, Clausen M (2008) Automatic mapping of scanned sheet music to audio recordings. In: Proceedings of the 9th International Society for Music, information retrieval, pp 413–418</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Friel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Molchanov</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">A new thresholding technique based on random sets</ArticleTitle>
+                  <JournalTitle>Pattern Recognit</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <IssueID>9</IssueID>
+                  <FirstPage>1507</FirstPage>
+                  <LastPage>1517</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0031-3203(99)00017-5</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Friel N, Molchanov I (1999) A new thresholding technique based on random sets. Pattern Recognit 32(9):1507–1517</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibUnstructured>Fujinaga I (1996) Exemplar-based learning in adaptive optical music recognition system. In: Proceedings of the international computer music conference, pp 55–60</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibUnstructured>Fujinaga I (2004) Staff detection and removal. In: George S (ed) Visual perception of music notation: on-line and off-line recognition. Idea Group Inc., Hershey, pp 1–39</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibUnstructured>Gatos B, Pratikakis I, Perantonis SJ (2004) An adaptive binarisation technique for low quality historical documents. In: Document analysis systems VI. Lecture notes in computer science, vol 3163. Springer, Berlin, pp 102–113</BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>43.</CitationNumber>
+                <BibUnstructured>Genfang C, Wenjun Z, Qiuqiu W (2009) Pick-up the musical information from digital musical score based on mathematical morphology and music notation. In: Proceedings of the 2009 first international workshop on education technology and computer science. IEEE Computer Society, pp 1141–1144</BibUnstructured>
+              </Citation>
+              <Citation ID="CR44">
+                <CitationNumber>44.</CitationNumber>
+                <BibUnstructured>George S (2004) Lyric recognition and christian music. In: George S (ed) Visual perception of music notation: on-line and off-line recognition. Idea Group Inc., Hershey, pp 198–225</BibUnstructured>
+              </Citation>
+              <Citation ID="CR45">
+                <CitationNumber>45.</CitationNumber>
+                <BibUnstructured>Goecke R (2003) Building a system for writer identification on handwritten music scores. In: Proceedings of the IASTED international conference on signal processing, pattern recognition, and applications. Acta Press, Anaheim, pp 205–255</BibUnstructured>
+              </Citation>
+              <Citation ID="CR46">
+                <CitationNumber>46.</CitationNumber>
+                <BibUnstructured>Grandvalet Y, Rakotomamonjy A, Keshet J, Canu S (2008) Support vector machines with a reject option. In: Koller D, Schuurmans D, Bengio Y, Bottou L (eds) Advances in neural information processing systems. MIT Press, Cambridge, pp 537–544</BibUnstructured>
+              </Citation>
+              <Citation ID="CR47">
+                <CitationNumber>47.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Homenda</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ChapterTitle Language="En">Optical music recognition: the case study of pattern recognition</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kurzynski</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Puchala</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Wozniak</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>A</Initials>
+                    <FamilyName>zolnierek</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Computer recognition systems. Advances in soft computing, Vol 30</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>835</FirstPage>
+                  <LastPage>842</LastPage>
+                </BibChapter>
+                <BibUnstructured>Homenda W (2005) Optical music recognition: the case study of pattern recognition. In: Kurzynski M, Puchala E, Wozniak M, zolnierek A (eds) Computer recognition systems. Advances in soft computing, vol 30. Springer, Heidelberg, pp 835–842</BibUnstructured>
+              </Citation>
+              <Citation ID="CR48">
+                <CitationNumber>48.</CitationNumber>
+                <BibUnstructured>Homenda W, Luckner M (2006) Automatic knowledge acquisition: recognizing music notation with methods of centroids and classifications trees. In: Proceedings of the international joint conference on neural networks, pp 3382–3388</BibUnstructured>
+              </Citation>
+              <Citation ID="CR49">
+                <CitationNumber>49.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LK</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MJJ</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Image thresholding by minimizing the measures of fuzziness</ArticleTitle>
+                  <JournalTitle>Pattern Recognit</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>41</FirstPage>
+                  <LastPage>51</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0031-3203(94)E0043-K</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Huang LK, Wang MJJ (1995) Image thresholding by minimizing the measures of fuzziness. Pattern Recognit 28(1):41–51</BibUnstructured>
+              </Citation>
+              <Citation ID="CR50">
+                <CitationNumber>50.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AK</Initials>
+                    <FamilyName>Jain</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Zongker</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Representation and recognition of handwritten digits using deformable templates</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>12</IssueID>
+                  <FirstPage>1386</FirstPage>
+                  <LastPage>1391</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/34.643899</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jain AK, Zongker D (1997) Representation and recognition of handwritten digits using deformable templates. IEEE Trans Pattern Anal Mach Intell 19(12):1386–1391</BibUnstructured>
+              </Citation>
+              <Citation ID="CR51">
+                <CitationNumber>51.</CitationNumber>
+                <BibUnstructured>Jones G, Ong B, Bruno I, Ng K (2008) Optical music imaging: music document digitisation, recognition, evaluation, and restoration. In: Interactive multimedia music technologies. IGI Global, Hershey, pp 50–79</BibUnstructured>
+              </Citation>
+              <Citation ID="CR52">
+                <CitationNumber>52.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Kapur</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Sahoo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Wong</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">A new method for gray-level picture thresholding using the entropy of the histogram</ArticleTitle>
+                  <JournalTitle>Comput Vis Graph Image Process</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>273</FirstPage>
+                  <LastPage>285</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0734-189X(85)90125-2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kapur J, Sahoo P, Wong A (1985) A new method for gray-level picture thresholding using the entropy of the histogram. Comput Vis Graph Image Process 29(3):273–285</BibUnstructured>
+              </Citation>
+              <Citation ID="CR53">
+                <CitationNumber>53.</CitationNumber>
+                <BibUnstructured>Kassler M (2009) Optical character recognition of printed music: a review of two dissertations, 1972. In: Vrist B (ed) Optical music recognition for structural information from high-quality scanned music, technical report</BibUnstructured>
+              </Citation>
+              <Citation ID="CR54">
+                <CitationNumber>54.</CitationNumber>
+                <BibUnstructured>Khashman A, Sekeroglu B (2007) A novel thresholding method for text separation and document enhancement. In: Proceedings of the 11th panhellenic conference on informatics</BibUnstructured>
+              </Citation>
+              <Citation ID="CR55">
+                <CitationNumber>55.</CitationNumber>
+                <BibUnstructured>Knopke I, Byrd D (2007) Towards musicdiff: a foundation for improved optical music recognition using multiple recognizers. In: Proceedings of the 8th International Society for Music, information retrieval, pp 123–124</BibUnstructured>
+              </Citation>
+              <Citation ID="CR56">
+                <CitationNumber>56.</CitationNumber>
+                <BibUnstructured>Kurth F, Müller M, Fremerey C, Chang Y, Clausen M (2007) Automated synchronization of scanned sheet music with audio recordings. In: Proceedings of the 8th International Society for Music, information retrieval, pp 261–266</BibUnstructured>
+              </Citation>
+              <Citation ID="CR57">
+                <CitationNumber>57.</CitationNumber>
+                <BibUnstructured>Leplumey I, Camillerapp J, Lorette G (1993) A robust detector for music staves. In: Proceedings of the international conference on document analysis and recognition, pp 902–905</BibUnstructured>
+              </Citation>
+              <Citation ID="CR58">
+                <CitationNumber>58.</CitationNumber>
+                <BibUnstructured>Luth N (2002) Automatic identification of music notations. In: Proceedings of the first international symposium on cyber worlds. IEEE Computer Society, pp 203–210</BibUnstructured>
+              </Citation>
+              <Citation ID="CR59">
+                <CitationNumber>59.</CitationNumber>
+                <BibUnstructured>MacMillan K, Droettboom M, Fujinaga I (2002) Gamera: optical music recognition in a new shell. In Proceedings of the international computer music conference, pp 482–485</BibUnstructured>
+              </Citation>
+              <Citation ID="CR60">
+                <CitationNumber>60.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>JV</Initials>
+                    <FamilyName>Mahoney</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ChapterTitle Language="En">Automatic analysis of music score images, 1982. A critical survey of music image analysis</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Blostein</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Baird</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Structured document image analysis</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>405</FirstPage>
+                  <LastPage>434</LastPage>
+                </BibChapter>
+                <BibUnstructured>Mahoney JV (1992) Automatic analysis of music score images, 1982. A critical survey of music image analysis. In: Blostein D, Baird H (eds) Structured document image analysis. Springer, Heidelberg, pp 405–434</BibUnstructured>
+              </Citation>
+              <Citation ID="CR61">
+                <CitationNumber>61.</CitationNumber>
+                <BibUnstructured>Miyao H, Haralick RM (2000) Format of ground truth data used in the evaluation of the results of an optical music recognition system. In: IAPR workshop on document analysis systems, pp 497–506</BibUnstructured>
+              </Citation>
+              <Citation ID="CR62">
+                <CitationNumber>62.</CitationNumber>
+                <BibUnstructured>Miyao H, Nakano Y (1996) Note symbol extraction for printed piano scores using neural networks. IEICE Trans Inform Syst E79-D:548–554. ISSN: 0916–8532</BibUnstructured>
+              </Citation>
+              <Citation ID="CR63">
+                <CitationNumber>63.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Miyao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Okamoto</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Stave extraction for printed music scores using DP matching</ArticleTitle>
+                  <JournalTitle>J Adv Comput Intell Intell Inform</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>208</FirstPage>
+                  <LastPage>215</LastPage>
+                </BibArticle>
+                <BibUnstructured>Miyao H, Okamoto M (2004) Stave extraction for printed music scores using DP matching. J Adv Comput Intell Intell Inform 8:208–215</BibUnstructured>
+              </Citation>
+              <Citation ID="CR64">
+                <CitationNumber>64.</CitationNumber>
+                <BibUnstructured>Ng K (2004a) Optical music analysis for printed music score and handwritten manuscript. In: George S (ed) Visual perception of music notation: on-line and off-line recognition. Idea Group Inc., Hershey, pp 1–39</BibUnstructured>
+              </Citation>
+              <Citation ID="CR65">
+                <CitationNumber>65.</CitationNumber>
+                <BibUnstructured>Ng K (2004b) Optical music analysis for printed music score and handwritten music manuscript. In: George S (ed) Visual perception of music notation: on-line and off-line recognition. Idea Group Inc., Hershey, pp 108–127</BibUnstructured>
+              </Citation>
+              <Citation ID="CR66">
+                <CitationNumber>66.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Ng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Boyle</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Recognition and reconstruction of primitives in music scores</ArticleTitle>
+                  <JournalTitle>Image Vis Comput</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>39</FirstPage>
+                  <LastPage>46</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0262-8856(95)01038-6</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ng K, Boyle R (1996) Recognition and reconstruction of primitives in music scores. Image Vis Comput 14(1):39–46</BibUnstructured>
+              </Citation>
+              <Citation ID="CR67">
+                <CitationNumber>67.</CitationNumber>
+                <BibUnstructured>Ng K, Boyle R, Cooper D (1995) Domain knowledge enhancement of optical music score recognition, technical report</BibUnstructured>
+              </Citation>
+              <Citation ID="CR68">
+                <CitationNumber>68.</CitationNumber>
+                <BibUnstructured>Ng K, Cooper D, Stefani E, Boyle R, Bailey N (1999) Embracing the composer: optical recognition of handwritten manuscripts. In: Proceedings of the international computer music conference, pp 500–503</BibUnstructured>
+              </Citation>
+              <Citation ID="CR69">
+                <CitationNumber>69.</CitationNumber>
+                <BibUnstructured>Niblack W (2003) An introduction to digital image processing, 1986. Comparison of some thresholding algorithms for text/background segmentation in difficult document images. In: Leedham G, Yan C, Takru K , Tan J, Mian L (eds) Proceedings of the seventh international conference on document analysis and recognition, pp 859–864</BibUnstructured>
+              </Citation>
+              <Citation ID="CR70">
+                <CitationNumber>70.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Otsu</FamilyName>
+                  </BibAuthorName>
+                  <Year>1979</Year>
+                  <ArticleTitle Language="En">A threshold selection method from gray-level histograms</ArticleTitle>
+                  <JournalTitle>IEEE Trans Syst Man Cybern</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>62</FirstPage>
+                  <LastPage>66</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>558673</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TSMC.1979.4310076</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Otsu N (1979) A threshold selection method from gray-level histograms. IEEE Trans Syst Man Cybern 9(1):62–66</BibUnstructured>
+              </Citation>
+              <Citation ID="CR71">
+                <CitationNumber>71.</CitationNumber>
+                <BibUnstructured>Pal N, Pal S (2004) Entropic thresholding, 1989. In: Sezgin M, Sankur B (eds) Survey over image thresholding techniques and quantitative performance evaluation. J Electron Imaging 13(1):146–165</BibUnstructured>
+              </Citation>
+              <Citation ID="CR72">
+                <CitationNumber>72.</CitationNumber>
+                <BibUnstructured>Pinto T, Rebelo A, Giraldi G, Cardoso JS (2011) Music score binarization based on domain knowledge. In: Pattern recognition and image analysis. Lecture notes in computer science, vol 6669. Springer, Heidelberg, pp 700–708</BibUnstructured>
+              </Citation>
+              <Citation ID="CR73">
+                <CitationNumber>73.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Prerau</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ChapterTitle Language="En">Computer pattern recognition of standard engraved music notation, 1970. A critical survey of music image analysis</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Blostein</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Baird</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Structured document image analysis</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>405</FirstPage>
+                  <LastPage>434</LastPage>
+                </BibChapter>
+                <BibUnstructured>Prerau D (1992) Computer pattern recognition of standard engraved music notation, 1970. A critical survey of music image analysis. In: Blostein D, Baird H (eds) Structured document image analysis. Springer, Heidelberg, pp 405–434</BibUnstructured>
+              </Citation>
+              <Citation ID="CR74">
+                <CitationNumber>74.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Prerau</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ChapterTitle Language="En">Optical music recognition using projections, 1988. A critical survey of music image analysis</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Blostein</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Baird</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Structured document image analysis</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation> Heidelberg</PublisherLocation>
+                  <FirstPage>405</FirstPage>
+                  <LastPage>434</LastPage>
+                </BibChapter>
+                <BibUnstructured>Prerau D (1992) Optical music recognition using projections, 1988. A critical survey of music image analysis. In: Blostein D, Baird H (eds) Structured document image analysis. Springer, Heidelberg, pp 405–434</BibUnstructured>
+              </Citation>
+              <Citation ID="CR75">
+                <CitationNumber>75.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Pruslin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ChapterTitle Language="En">Automatic recognition of sheet music, 1966. A critical survey of music image analysis</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Blostein</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Baird</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Structured document image analysis</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>405</FirstPage>
+                  <LastPage>434</LastPage>
+                </BibChapter>
+                <BibUnstructured>Pruslin D (1992) Automatic recognition of sheet music, 1966. A critical survey of music image analysis. In: Blostein D, Baird H (eds) Structured document image analysis. Springer, Heidelberg, pp 405–434</BibUnstructured>
+              </Citation>
+              <Citation ID="CR76">
+                <CitationNumber>76.</CitationNumber>
+                <BibUnstructured>Pugin L (2006) Optical music recognition of early typographic prints using Hidden Markov models. In: Proceedings of the International Society for Music, information retrieval, pp 53–56</BibUnstructured>
+              </Citation>
+              <Citation ID="CR77">
+                <CitationNumber>77.</CitationNumber>
+                <BibUnstructured>Pugin L, Burgoyne J, Fujinaga I (2007a) Goal-directed evaluation for the improvement of optical music recognition on early music prints. In: Proceedings of the 7th ACM/IEEE-CS joint conference on digital libraries. ACM, pp 303–304</BibUnstructured>
+              </Citation>
+              <Citation ID="CR78">
+                <CitationNumber>78.</CitationNumber>
+                <BibUnstructured>Pugin L, Burgoyne JA, Fujinaga I (2007b) MAP adaptation to improve optical music recognition of early music documents using Hidden Markov models. In: Proceedings of the 8th International Society for Music, information retrieval, pp 513–516</BibUnstructured>
+              </Citation>
+              <Citation ID="CR79">
+                <CitationNumber>79.</CitationNumber>
+                <BibUnstructured>Randriamahefa R, Cocquerez JP, Fluhr C, Pepin F, Philipp S (1993) Printed music recognition. In: Proceedings of the second international conference on document analysis and recognition, pp 898–901</BibUnstructured>
+              </Citation>
+              <Citation ID="CR80">
+                <CitationNumber>80.</CitationNumber>
+                <BibUnstructured>Read G (1969) Music notation: a manual of modern practice, 2 edn. Taplinger, New York. ISBN: 0-8008-5459-4</BibUnstructured>
+              </Citation>
+              <Citation ID="CR81">
+                <CitationNumber>81.</CitationNumber>
+                <BibUnstructured>Rebelo A (2008) New methodologies torwads an automatic optical recognition of handwritten musical scores. Master’s thesis, School of Sciences, University of Porto</BibUnstructured>
+              </Citation>
+              <Citation ID="CR82">
+                <CitationNumber>82.</CitationNumber>
+                <BibUnstructured>Rebelo A, Capela A, Pinto da Costa JF, Guedes C, Carrapatoso E, Cardoso JS (2007) A shortest path approach for staff line detection. In: Proceedings of the third international conference on automated production of cross media content for multi-channel, distribution, pp 79–85. doi:<ExternalRef><RefSource>10.1109/AXMEDIS.2007.16</RefSource><RefTarget Address="10.1109/AXMEDIS.2007.16" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR83">
+                <CitationNumber>83.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Rebelo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Capela</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Cardoso</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Optical recognition of music symbols: a comparative study</ArticleTitle>
+                  <JournalTitle>Int J Document Anal Recognit</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>19</FirstPage>
+                  <LastPage>31</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10032-009-0100-1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rebelo A, Capela G, Cardoso JS (2010) Optical recognition of music symbols: a comparative study. Int J Document Anal Recognit 13:19–31</BibUnstructured>
+              </Citation>
+              <Citation ID="CR84">
+                <CitationNumber>84.</CitationNumber>
+                <BibUnstructured>Rebelo A, Paszkiewicz F, Guedes C, Marcal A, Cardoso JS (2011) A method for music symbols extraction based on musical rules. In: Bridges: mathematical connections in art, music, and science, pp 81–88</BibUnstructured>
+              </Citation>
+              <Citation ID="CR85">
+                <CitationNumber>85.</CitationNumber>
+                <BibUnstructured>Reed KT, Parker JR (1996) Automatic computer recognition of printed music. In: Proceedings of the 13th international conference on pattern recognition, vol 3, pp 803–807. doi:<ExternalRef><RefSource>10.1109/ICPR.1996.547279</RefSource><RefTarget Address="10.1109/ICPR.1996.547279" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR86">
+                <CitationNumber>86.</CitationNumber>
+                <BibUnstructured>Ridler T, Calvard S (1995) Picture thresholding using an iterative selection method, 1978. In: Venkateswarlu N (ed) Implementation of some image thresholding algorithms on a connection machine-200. Pattern Recognit Lett 16(7):759–768</BibUnstructured>
+              </Citation>
+              <Citation ID="CR87">
+                <CitationNumber>87.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Riley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Fujinaga</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Recommended best practices for digital image capture of musical scores</ArticleTitle>
+                  <JournalTitle>OCLC Syst Serv</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>62</FirstPage>
+                  <LastPage>69</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1108/10650750310481784</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Riley J, Fujinaga I (2003) Recommended best practices for digital image capture of musical scores. OCLC Syst Serv 19(2):62–69</BibUnstructured>
+              </Citation>
+              <Citation ID="CR88">
+                <CitationNumber>88.</CitationNumber>
+                <BibUnstructured>Roach JW, Tatem JE (1992) Using domain knowledge in low-level visual processing to interpret handwritten music: an experiment, 1988. A critical survey of music image analysis. In: Blostein D, Baird H (eds) Structured document image analysis. Springer, Heidelberg, pp 405–434</BibUnstructured>
+              </Citation>
+              <Citation ID="CR89">
+                <CitationNumber>89.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Rossant</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Bloch</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Robust and adaptive OMR system including fuzzy modeling, fusion of musical rules, and possible error detection</ArticleTitle>
+                  <JournalTitle>EURASIP J Appl Signal Process</JournalTitle>
+                  <VolumeID>2007</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>160</FirstPage>
+<Occurrence Type="DOI">
+<Handle>10.1155/2007/81541</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rossant F, Bloch I (2007) Robust and adaptive OMR system including fuzzy modeling, fusion of musical rules, and possible error detection. EURASIP J Appl Signal Process 2007(1):160</BibUnstructured>
+              </Citation>
+              <Citation ID="CR90">
+                <CitationNumber>90.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Sahoo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Wilkins</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Yeager</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Threshold selection using renyi’s entropy</ArticleTitle>
+                  <JournalTitle>Pattern Recognit</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>71</FirstPage>
+                  <LastPage>84</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1121.94302</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0031-3203(96)00065-9</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sahoo P, Wilkins C, Yeager J (1997) Threshold selection using renyi’s entropy. Pattern Recognit 30(1):71–84</BibUnstructured>
+              </Citation>
+              <Citation ID="CR91">
+                <CitationNumber>91.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sezan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">A peak detection algorithm and its application to histogram-based image data reduction</ArticleTitle>
+                  <JournalTitle>Graph Models Image Process</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>47</FirstPage>
+                  <LastPage>59</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0734-189X(85)90150-1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sezan M (1985) A peak detection algorithm and its application to histogram-based image data reduction. Graph Models Image Process 29:47–59</BibUnstructured>
+              </Citation>
+              <Citation ID="CR92">
+                <CitationNumber>92.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sezgin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Sankur</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Survey over image thresholding techniques and quantitative performance evaluation</ArticleTitle>
+                  <JournalTitle>J Electron Imaging</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>146</FirstPage>
+                  <LastPage>165</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1117/1.1631315</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sezgin M, Sankur B (2004) Survey over image thresholding techniques and quantitative performance evaluation. J Electron Imaging 13(1):146–165</BibUnstructured>
+              </Citation>
+              <Citation ID="CR93">
+                <CitationNumber>93.</CitationNumber>
+                <BibUnstructured>Sheridan S, George S (2004) Defacing music score for improved recognition. In: Abraham G, Rubinstein BIP (eds) Proceedings of the second Australian undergraduate students’ computing conference. Australian undergraduate students’ computing conference, pp 1–7</BibUnstructured>
+              </Citation>
+              <Citation ID="CR94">
+                <CitationNumber>94.</CitationNumber>
+                <BibUnstructured>Sousa R, Mora B, Cardoso JS (2009) An ordinal data method for the classification with reject option. In: Proceedings of the eighth international conference on machine learning and applications, pp 746–750. doi:<ExternalRef><RefSource>10.1109/ICMLA.2009.11</RefSource><RefTarget Address="10.1109/ICMLA.2009.11" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR95">
+                <CitationNumber>95.</CitationNumber>
+                <BibUnstructured>Szwoch M (2005) A robust detector for distorted music staves. In: Computer analysis of images and patterns. Lecture notes in computer science. Springer, Berlin, pp 701–708</BibUnstructured>
+              </Citation>
+              <Citation ID="CR96">
+                <CitationNumber>96.</CitationNumber>
+                <BibUnstructured>Szwoch M (2007) Guido: a musical score recognition system. In: Proceedings of the ninth international conference on document analysis and recognition, vol 2. IEEE Computer Society, pp 809–813</BibUnstructured>
+              </Citation>
+              <Citation ID="CR97">
+                <CitationNumber>97.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Szwoch</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ChapterTitle Language="En">Using musicxml to evaluate accuracy of omr systems</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Stapleton</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Howse</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Diagrammatic representation and inference. Lecture notes in computer science, vol 5223</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Berlin</PublisherLocation>
+                  <FirstPage>419</FirstPage>
+                  <LastPage>422</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-540-87730-1_53</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Szwoch M (2008) Using musicxml to evaluate accuracy of omr systems. In: Stapleton G, Howse J, Lee J (eds) Diagrammatic representation and inference. Lecture notes in computer science, vol 5223. Springer, Berlin, pp 419–422</BibUnstructured>
+              </Citation>
+              <Citation ID="CR98">
+                <CitationNumber>98.</CitationNumber>
+                <BibUnstructured>Tardón LJ, Sammartino S, Barbancho I, Gómez V, Oliver A (2009) Optical music recognition for scores written in white mensural notation. EURASIP J Image Video Process. Article ID: 843401. ISSN: 1687–5176</BibUnstructured>
+              </Citation>
+              <Citation ID="CR99">
+                <CitationNumber>99.</CitationNumber>
+                <BibUnstructured>Taubman G (2005) Musichand: a handwritten music recognition system, technical report</BibUnstructured>
+              </Citation>
+              <Citation ID="CR100">
+                <CitationNumber>100.</CitationNumber>
+                <BibUnstructured>Toyama F, Shoji K, Miyamichi J (2006) Symbol recognition of printed piano scores with touching symbols. In: Proceedings of the international conference on pattern recognition. IEEE Computer Society, pp 480–483</BibUnstructured>
+              </Citation>
+              <Citation ID="CR101">
+                <CitationNumber>101.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Trier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Jain</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Goal-directed evaluation of binarization methods</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>12</IssueID>
+                  <FirstPage>1191</FirstPage>
+                  <LastPage>1201</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/34.476511</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Trier O, Jain A (1995) Goal-directed evaluation of binarization methods. IEEE Trans Pattern Anal Mach Intell 17(12):1191–1201</BibUnstructured>
+              </Citation>
+              <Citation ID="CR102">
+                <CitationNumber>102.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Trier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Taxt</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Evaluation of binarization methods for document images</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>312</FirstPage>
+                  <LastPage>315</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/34.368197</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Trier O, Taxt T (1995) Evaluation of binarization methods for document images. IEEE Trans Pattern Anal Mach Intell 17(3):312–315</BibUnstructured>
+              </Citation>
+              <Citation ID="CR103">
+                <CitationNumber>103.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D-M</Initials>
+                    <FamilyName>Tsai</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">A fast thresholding selection procedure for multimodal and unimodal histograms</ArticleTitle>
+                  <JournalTitle>Pattern Recognit Lett</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>653</FirstPage>
+                  <LastPage>666</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0167-8655(95)80011-H</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tsai D-M (1995) A fast thresholding selection procedure for multimodal and unimodal histograms. Pattern Recognit Lett 16(6):653–666</BibUnstructured>
+              </Citation>
+              <Citation ID="CR104">
+                <CitationNumber>104.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Yanowitz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Bruckstein</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">A new method for image segmentation</ArticleTitle>
+                  <JournalTitle>Comput Vis Graph Image Process</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>82</FirstPage>
+                  <LastPage>95</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0734-189X(89)80017-9</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yanowitz S, Bruckstein A (1989) A new method for image segmentation. Comput Vis Graph Image Process 46(1):82–95</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

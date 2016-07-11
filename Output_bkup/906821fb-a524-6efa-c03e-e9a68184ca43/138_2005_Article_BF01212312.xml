@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+</PublisherInfo>
+<Journal>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>138</JournalID>
+<JournalPrintISSN>0932-8092</JournalPrintISSN>
+<JournalElectronicISSN>1432-1769</JournalElectronicISSN>
+<JournalTitle>Machine Vision and Applications</JournalTitle>
+<JournalSubTitle>An International Journal</JournalSubTitle>
+<JournalAbbreviatedTitle>Machine Vis. Apps.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing</JournalSubject>
+        <JournalSubject Type="Secondary">Communications Engineering, Networks</JournalSubject>
+      </JournalSubjectGroup>
+</JournalInfo>
+<Volume>
+<VolumeInfo VolumeType="Regular" TocLevels="0">
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<Issue IssueType="Regular">
+<IssueInfo TocLevels="0">
+<IssueIDStart>1</IssueIDStart>
+<IssueIDEnd>1</IssueIDEnd>
+<IssueArticleCount>6</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<DateString>1988</DateString>
+<Year>1988</Year>
+<Month>3</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<Article ID="Art5">
+<ArticleInfo Language="En" ArticleType="OriginalPaper" NumberingStyle="Unnumbered" TocLevels="0" ContainsESM="No">
+<ArticleID>BF01212312</ArticleID>
+<ArticleDOI>10.1007/BF01212312</ArticleDOI>
+<ArticleSequenceNumber>5</ArticleSequenceNumber>
+<ArticleTitle Language="En">Interactive and automatic image recognition system</ArticleTitle>
+<ArticleFirstPage>59</ArticleFirstPage>
+<ArticleLastPage>69</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>2005</Year>
+<Month>2</Month>
+<Day>8</Day>
+</RegistrationDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+<ArticleContext>
+<JournalID>138</JournalID>
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<IssueIDStart>1</IssueIDStart>
+<IssueIDEnd>1</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<ArticleHeader>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Fumiaki</GivenName>
+<FamilyName>Tomita</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgName>Electrotechnical Laboratory</OrgName>
+<OrgAddress>
+<Street>1-1-4 Umezono, Tsukuba-shi</Street>
+<Postcode>305</Postcode>
+<City>Ibaraki</City>
+<Country>Japan</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<Abstract ID="Abs1" Language="En">
+<Heading>Abstract</Heading>
+<Para>We have developed a vision system which learns to recognize many kinds of two-dimensional objects in many kinds of images. Image processing program modules are classified based on functions in the library. First, the user can teach the system the way to recognize objects in the image interactively testing the effectiveness of each program by trial and error. The system stores what it learns in the long-term memory called<Emphasis Type="Italic">model</Emphasis>. The model is improved by analyzing training images in the same way. Once the model is completed, the system can automatically analyze images in the same category and recognize the expected objects in a top-down way driven by the model. Since a model is built for images in each category, the system can recognize various kinds of images simply by retrieving the corresponding models.</Para>
+</Abstract>
+<KeywordGroup Language="En">
+<Heading>Key words</Heading>
+<Keyword>image processing</Keyword>
+<Keyword>machine learning</Keyword>
+<Keyword>matching</Keyword>
+<Keyword>modeling</Keyword>
+<Keyword>object recognition</Keyword>
+</KeywordGroup>
+</ArticleHeader>
+<BodyRef FileRef="BodyRef/PDF/138_2005_Article_BF01212312.pdf" TargetType="PDF"/>
+<ArticleBackmatter>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<BibChapter>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Matsuyama</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ChapterTitle Language="En">Expert systems for image processing: An overview</ChapterTitle>
+<BibEditorName>
+<Initials>IT</Initials>
+<FamilyName>Young</FamilyName>
+</BibEditorName>
+<Eds/>
+<Etal/>
+<BookTitle>Signal processing III</BookTitle>
+<PublisherName>Elsevier</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+<FirstPage>869</FirstPage>
+<LastPage>872</LastPage>
+</BibChapter>
+<BibUnstructured>Matsuyama T (1986) Expert systems for image processing: An overview. In: IT Young et al. (Eds.), Signal processing III. Elsevier, New York, 869–872</BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<BibUnstructured>Michalski RS et al. (1983) Machine learning Tioga</BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<BibBook>
+<BibAuthorName>
+<Initials>RG</Initials>
+<FamilyName>Ramsey</FamilyName>
+</BibAuthorName>
+<Year>1981</Year>
+<BookTitle>Neuroradiology with computed tomography</BookTitle>
+<PublisherName>Saunders</PublisherName>
+<PublisherLocation>Philadelphia</PublisherLocation>
+</BibBook>
+<BibUnstructured>Ramsey RG (1981) Neuroradiology with computed tomography. Saunders, Philadelphia</BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<BibArticle>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Tamura</FamilyName>
+</BibAuthorName>
+<Etal/>
+<Year>1983</Year>
+<ArticleTitle Language="En">Design and implementation of SPI-DER-A transportable image processing software package</ArticleTitle>
+<JournalTitle>Computer Graphics and Image Processing</JournalTitle>
+<VolumeID>2</VolumeID>
+<IssueID>23</IssueID>
+<FirstPage>273</FirstPage>
+<LastPage>294</LastPage>
+</BibArticle>
+<BibUnstructured>Tamura H et al. (1983) Design and implementation of SPI-DER-A transportable image processing software package. Computer Graphics and Image Processing, 2, 23, 273–294</BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<BibUnstructured>Tomita F (1981) Hierarchical description of textures. Proceedings of the 7th International Joint Conference on Artificial Intelligence, 728–733</BibUnstructured>
+</Citation>
+<Citation ID="CR6">
+<BibChapter>
+<BibAuthorName>
+<Initials>PH</Initials>
+<FamilyName>Winston</FamilyName>
+</BibAuthorName>
+<Year>1975</Year>
+<ChapterTitle Language="En">Learning structure descriptions from Examples</ChapterTitle>
+<BibEditorName>
+<Initials>PH</Initials>
+<FamilyName>Winston</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>The psychology of computer vision</BookTitle>
+<PublisherName>McGraw Hill</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+<FirstPage>157</FirstPage>
+<LastPage>210</LastPage>
+</BibChapter>
+<BibUnstructured>Winston PH (1975) Learning structure descriptions from Examples. In: PH Winston (Ed.), The psychology of computer vision. McGraw Hill, New York, 157–210</BibUnstructured>
+</Citation>
+</Bibliography>
+</ArticleBackmatter>
+</Article>
+</Issue>
+</Volume>
+</Journal>
+</Publisher>

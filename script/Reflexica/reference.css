@@ -1,0 +1,113 @@
+		<style>
+
+
+
+
+
+
+body {background: white;font-size: 150%;margin-left:15%;margin-right:15%; border: 1px solid green;}
+section, {display: block; font-family:"Palatino Linotype", Palatino, serif;line-height: 2;}
+
+
+			.pk-notepad{
+				background:white;
+				color: #555555;
+				padding:20px 30px 30px;
+				margin-left:16em;
+				margin-top:3em;
+			}
+			.pk-notepad .head .title{
+				color:#CD0000;
+				font-size:40px;
+				font-weight:bold;
+
+			}
+			.pk-notepad .head .date{
+				float:right;
+				margin-top:20px;
+				color:#999
+			}
+			.pk-notepad .head .download{
+				float:center;
+				margin-top:20px;
+				color:#999
+			}
+
+			.pk-notepad .body{
+				border:1px solid #DEDEDE;
+				border-radius:5px; /* css3 */
+				-moz-border-radius:5px; /* mozilla */
+				-webkit-border-radius:5px; /* webkit browsers eg. safari, chrome */
+				-khtml-border-radius:5px; /* KDE Konqueror web browser */
+				-o-border-radius:5px; /* opera */
+			}
+
+			.pk-notepad .body ul{padding:0;
+				display:table;
+				width:100%;
+				margin:0;
+			}
+			.pk-notepad .body ul li{
+				display:table-row;
+				list-style-type:none;
+				border-bottom:1px dotted #DEDEDE;
+				padding:5px 0px;
+				font-size:18px;
+				font-family:courier,monospace;
+				font-size: 22px;
+			}
+			.pk-notepad .body ul li:last-child .column{border-bottom:0;}
+			.pk-notepad .body ul li a{color:#555555;}
+			.pk-notepad .body ul li:hover{
+				background-color: #f0f0f0;
+				color:#000;
+				-webkit-transition: all 0.2s;
+				-moz-transition:    all 0.2s;
+				-ms-transition:     all 0.2s;
+				-o-transition:      all 0.2s;
+			}
+			.pk-notepad .body .row{display:table-row;}
+			.pk-notepad .body .column{
+				display:table-cell;
+				border-bottom:1px dotted #CCCCCC;
+				padding:10px 0;
+			}
+			.pk-notepad .body .paddingLeft{
+				width:30px;
+				text-align:right;
+				padding-right:5px;
+				padding-left:5px;
+			}
+			.pk-notepad .body .margin{
+				border-left:1px solid #FFAA9F;
+				border-right:1px solid #FFAA9F;
+				width:1px;
+				font-size:3px;
+			}
+			.pk-notepad .body .content{
+				text-align:left;
+				padding-left:15px;
+				padding-right:15px;
+			}
+
+.position
+{
+	position: fixed;
+	display:block;
+	float:left;
+	background:blue;
+	color:white;
+	font-weight:bold;
+	top: 2%;
+	width: 15em;
+	padding:5px 5px 5px;
+	margin-top: 7em;
+	margin-bottom: 0em;
+	border:1px solid #FFAA9F;
+
+
+}
+
+}
+
+		</style>

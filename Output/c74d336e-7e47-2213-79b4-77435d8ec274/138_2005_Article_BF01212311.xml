@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+</PublisherInfo>
+<Journal>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>138</JournalID>
+<JournalPrintISSN>0932-8092</JournalPrintISSN>
+<JournalElectronicISSN>1432-1769</JournalElectronicISSN>
+<JournalTitle>Machine Vision and Applications</JournalTitle>
+<JournalSubTitle>An International Journal</JournalSubTitle>
+<JournalAbbreviatedTitle>Machine Vis. Apps.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing</JournalSubject>
+        <JournalSubject Type="Secondary">Communications Engineering, Networks</JournalSubject>
+      </JournalSubjectGroup>
+</JournalInfo>
+<Volume>
+<VolumeInfo VolumeType="Regular" TocLevels="0">
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<Issue IssueType="Regular">
+<IssueInfo TocLevels="0">
+<IssueIDStart>1</IssueIDStart>
+<IssueIDEnd>1</IssueIDEnd>
+<IssueArticleCount>6</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<DateString>1988</DateString>
+<Year>1988</Year>
+<Month>3</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<Article ID="Art4">
+<ArticleInfo Language="En" ArticleType="OriginalPaper" NumberingStyle="Unnumbered" TocLevels="0" ContainsESM="No">
+<ArticleID>BF01212311</ArticleID>
+<ArticleDOI>10.1007/BF01212311</ArticleDOI>
+<ArticleSequenceNumber>4</ArticleSequenceNumber>
+<ArticleTitle Language="En">3-D imaging systems and high-speed processing for robot control</ArticleTitle>
+<ArticleFirstPage>41</ArticleFirstPage>
+<ArticleLastPage>57</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>2005</Year>
+<Month>2</Month>
+<Day>8</Day>
+</RegistrationDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+<ArticleContext>
+<JournalID>138</JournalID>
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<IssueIDStart>1</IssueIDStart>
+<IssueIDEnd>1</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<ArticleHeader>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Robert</GivenName>
+<GivenName>M.</GivenName>
+<FamilyName>Lougheed</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Robert</GivenName>
+<GivenName>E.</GivenName>
+<FamilyName>Sampson</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgDivision>Image Processing Systems Division</OrgDivision>
+<OrgName>Environmental Research Institute of Michigan (ERIM)</OrgName>
+<OrgAddress>
+<Postbox>P.O. Box 8618</Postbox>
+<Postcode>48107</Postcode>
+<City>Ann Arbor</City>
+<State>MI</State>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<Abstract ID="Abs1" Language="En">
+<Heading>Abstract</Heading>
+<Para>Bin picking by a robot in real time requires the performance of a series of tasks that are beyond the capabilities of commercially available state-of-the-art robotic systems. In this paper, a laser-ranging sensor for real-time robot control is described. This sensor is incorporated into a robot system that has been applied to the bin-picking or random-parts problem. This system contains new technological components that have been developed recently at the Environmental Research Institute of Michigan (ERIM). These components (the 3-D imaging scanner and a recirculating cellular-array pipeline processor) make generalized real-time robot vision a practical and viable technology. This paper describes these components and their implementation in a typical real-time robot vision system application.</Para>
+</Abstract>
+<KeywordGroup Language="En">
+<Heading>Key words</Heading>
+<Keyword>image processing</Keyword>
+<Keyword>3-D sensor</Keyword>
+<Keyword>bin picking</Keyword>
+<Keyword>robot vision</Keyword>
+</KeywordGroup>
+</ArticleHeader>
+<BodyRef FileRef="BodyRef/PDF/138_2005_Article_BF01212311.pdf" TargetType="PDF"/>
+<ArticleBackmatter>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<BibArticle>
+<BibAuthorName>
+<Initials>MD</Initials>
+<FamilyName>Altschuler</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JL</Initials>
+<FamilyName>Posdamer</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Frieder</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>BR</Initials>
+<FamilyName>Altschuler</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Taboada</FamilyName>
+</BibAuthorName>
+<Year>1981</Year>
+<ArticleTitle Language="En">The numerical stereo camera</ArticleTitle>
+<JournalTitle>Proceedings of the SPIE Conference on 3-D Machine Perception</JournalTitle>
+<VolumeID>283</VolumeID>
+<FirstPage>15</FirstPage>
+<LastPage>24</LastPage>
+</BibArticle>
+<BibUnstructured>Altschuler MD, Posdamer JL, Frieder G, Altschuler BR, Taboada J (1981) The numerical stereo camera. Proceedings of the SPIE Conference on 3-D Machine Perception (283): 15–24</BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<BibArticle>
+<BibAuthorName>
+<Initials>ST</Initials>
+<FamilyName>Barnard</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>MA</Initials>
+<FamilyName>Fischler</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Computational stereo</ArticleTitle>
+<JournalTitle>ACM Computing Survey</JournalTitle>
+<VolumeID>14</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>553</FirstPage>
+<LastPage>572</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1145/356893.356896</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Barnard ST, Fischler MA (1982) Computational stereo. ACM Computing Survey 14 (4): 553–572</BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<BibArticle>
+<BibAuthorName>
+<Initials>PJ</Initials>
+<FamilyName>Besl</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RC</Initials>
+<FamilyName>Jain</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Three-dimensional object recognition</ArticleTitle>
+<JournalTitle>Computing Surveys</JournalTitle>
+<VolumeID>1</VolumeID>
+<IssueID>17</IssueID>
+<FirstPage>75</FirstPage>
+<LastPage>145</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1145/4078.4081</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Besl PJ, Jain RC (1985) Three-dimensional object recognition. Computing Surveys 1 (17): 75–145</BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<BibArticle>
+<BibAuthorName>
+<Initials>JP</Initials>
+<FamilyName>Boissonnat</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Germain</FamilyName>
+</BibAuthorName>
+<Year>1981</Year>
+<ArticleTitle Language="En">A new approach to the problem of acquiring randomly oriented workpieces out of a bin</ArticleTitle>
+<JournalTitle>Seventh International Joint Conference on Artificial Intelligence</JournalTitle>
+<VolumeID>2</VolumeID>
+<FirstPage>796</FirstPage>
+<LastPage>802</LastPage>
+</BibArticle>
+<BibUnstructured>Boissonnat JP, Germain F (1981) A new approach to the problem of acquiring randomly oriented workpieces out of a bin. Seventh International Joint Conference on Artificial Intelligence 2: 796–802</BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<BibUnstructured>Coleman EN Jr, Sampson RE (1985) Acquisition of randomly oriented workpieces through structure mating. Proceedings of the IEEE on Computer Vision and Pattern Recognition: 350–357</BibUnstructured>
+</Citation>
+<Citation ID="CR6">
+<BibArticle>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Crimmins</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>W</Initials>
+<FamilyName>Brown</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Image algebra and automatic shape recognition</ArticleTitle>
+<JournalTitle>IEEE Transactions on Aerospace and Electronic Systems</JournalTitle>
+<VolumeID>1</VolumeID>
+<IssueID>AES-21</IssueID>
+<FirstPage>60</FirstPage>
+<LastPage>69</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/TAES.1985.310539</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Crimmins T, Brown W (1985) Image algebra and automatic shape recognition. IEEE Transactions on Aerospace and Electronic Systems 1 (AES-21): 60–69</BibUnstructured>
+</Citation>
+<Citation ID="CR7">
+<BibUnstructured>Grimson WEL (1980) A computer implementation of a theory of human stereo vision. Massachusetts Institute of Technology Artificial Intelligence Lab Memo 565</BibUnstructured>
+</Citation>
+<Citation ID="CR8">
+<BibUnstructured>Inokuchi S, Sato K, Matsuda F (1984) Range imaging system for 3-D object recognition. Proceedings of the 7th International Conference on Pattern Recognition: 806–808</BibUnstructured>
+</Citation>
+<Citation ID="CR9">
+<BibArticle>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Lamy</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>C</Initials>
+<FamilyName>Liegeois</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Meyrueis</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">Three-dimensional automated pattern recognition using the Moire technique</ArticleTitle>
+<JournalTitle>Proceedings of the SPIE Conference on Robotics and Industrial Inspection</JournalTitle>
+<VolumeID>360</VolumeID>
+<FirstPage>345</FirstPage>
+<LastPage>351</LastPage>
+</BibArticle>
+<BibUnstructured>Lamy F, Liegeois C, Meyrueis P (1982) Three-dimensional automated pattern recognition using the Moire technique. Proceedings of the SPIE Conference on Robotics and Industrial Inspection (360): 345–351</BibUnstructured>
+</Citation>
+<Citation ID="CR10">
+<BibUnstructured>Lougheed RM (1983) A class of localized, non-linear image filters and an architecture for implementation. Proceedings of the IEEE Workshop on Computer Architecture for Pattern Analysis and Image Database Management-CAPAIDM: 62–67</BibUnstructured>
+</Citation>
+<Citation ID="CR11">
+<BibArticle>
+<BibAuthorName>
+<Initials>RM</Initials>
+<FamilyName>Lougheed</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">A high speed recirculating neighborhood processing architecture</ArticleTitle>
+<JournalTitle>Proceedings of the SPIE Conference on Architectures and Algorithms for Digital Image Processing</JournalTitle>
+<VolumeID>II</VolumeID>
+<IssueID>534</IssueID>
+<FirstPage>22</FirstPage>
+<LastPage>23</LastPage>
+</BibArticle>
+<BibUnstructured>Lougheed RM (1985) A high speed recirculating neighborhood processing architecture. Proceedings of the SPIE Conference on Architectures and Algorithms for Digital Image Processing II (534): 22–23</BibUnstructured>
+</Citation>
+<Citation ID="CR12">
+<BibUnstructured>Lougheed RM, McCubbrey DL (1985) Multi-processor architectures for machine vision and image analysis. Proceedings of the 1984 International Conference on Parallel Processing: 493–497</BibUnstructured>
+</Citation>
+<Citation ID="CR13">
+<BibUnstructured>Lougheed RM, McCubbrey DL, Sternberg SR (1980) Cytocomputers: architectures for parallel image processing. Proceedings of the IEEE Workshop on Picture Data Description and Management: 281–286</BibUnstructured>
+</Citation>
+<Citation ID="CR14">
+<BibArticle>
+<BibAuthorName>
+<Initials>D</Initials>
+<FamilyName>Nitzan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AE</Initials>
+<FamilyName>Brian</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RO</Initials>
+<FamilyName>Duda</FamilyName>
+</BibAuthorName>
+<Year>1977</Year>
+<ArticleTitle Language="En">The measurement and use of registered reflectance and range data in scene analysis</ArticleTitle>
+<JournalTitle>Proceedings of the IEEE</JournalTitle>
+<VolumeID>2</VolumeID>
+<IssueID>65</IssueID>
+<FirstPage>206</FirstPage>
+<LastPage>220</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/PROC.1977.10458</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Nitzan D, Brian AE, Duda RO (1977) The measurement and use of registered reflectance and range data in scene analysis. Proceedings of the IEEE 2 (65): 206–220</BibUnstructured>
+</Citation>
+<Citation ID="CR15">
+<BibUnstructured>O'Brien N, Jain R (1984) Axial motion stereo. Proceedings of the IEEE Workshop on Computer Vision: Representation and Control: 88–94</BibUnstructured>
+</Citation>
+<Citation ID="CR16">
+<BibChapter>
+<BibAuthorName>
+<Initials>RE</Initials>
+<FamilyName>Sampson</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CW</Initials>
+<FamilyName>Swonger</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>PW</Initials>
+<FamilyName>VanAtta</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ChapterTitle Language="En">Real-time 3-dimensional image processing for robotic applications</ChapterTitle>
+<BookTitle>Addendum to Conference Proceedings, Robots 8, Future Considerations (2)</BookTitle>
+<PublisherName>Society of Manufacturing Engineers</PublisherName>
+<PublisherLocation>Dearborn, MI</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Sampson RE, Swonger CW, VanAtta PW (1984) Real-time 3-dimensional image processing for robotic applications. Addendum to Conference Proceedings, Robots 8, Future Considerations (2). Society of Manufacturing Engineers, Dearborn, MI</BibUnstructured>
+</Citation>
+<Citation ID="CR17">
+<BibBook>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Serra</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<BookTitle>Image analysis and mathematical morphology</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>Orlando, FL</PublisherLocation>
+</BibBook>
+<BibUnstructured>Serra J (1982) Image analysis and mathematical morphology. Academic Press, Orlando, FL</BibUnstructured>
+</Citation>
+<Citation ID="CR18">
+<BibChapter>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Sternberg</FamilyName>
+</BibAuthorName>
+<Year>1980</Year>
+<ChapterTitle Language="En">Image algebra</ChapterTitle>
+<BookTitle>ERIM course notes</BookTitle>
+<PublisherName>Environmental Research Institute of Michigan</PublisherName>
+<PublisherLocation>Ann Arbor, MI</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Sternberg S (1980) Image algebra. ERIM course notes. Environmental Research Institute of Michigan, Ann Arbor, MI</BibUnstructured>
+</Citation>
+<Citation ID="CR19">
+<BibArticle>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Yakimovsky</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Cunningham</FamilyName>
+</BibAuthorName>
+<Year>1978</Year>
+<ArticleTitle Language="En">A system for extracting three-dimensional measurements from a stereo pair of TV cameras</ArticleTitle>
+<JournalTitle>Computer Graphics and Image Processing</JournalTitle>
+<VolumeID>7</VolumeID>
+<FirstPage>195</FirstPage>
+<LastPage>210</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1016/0146-664X(78)90112-0</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Yakimovsky Y, Cunningham R (1978) A system for extracting three-dimensional measurements from a stereo pair of TV cameras. Computer Graphics and Image Processing 7: 195–210</BibUnstructured>
+</Citation>
+<Citation ID="CR20">
+<BibBook>
+<BibAuthorName>
+<Initials>DM</Initials>
+<FamilyName>Zuk</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>ML</Initials>
+<FamilyName>Dell'Eva</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<BookTitle>Intelligent task automation</BookTitle>
+<PublisherName>Environmental Research Institute of Michigan</PublisherName>
+<PublisherLocation>Ann Arbor, MI</PublisherLocation>
+</BibBook>
+<BibUnstructured>Zuk DM, Dell'Eva ML (1983) Intelligent task automation. Environmental Research Institute of Michigan, Ann Arbor, MI</BibUnstructured>
+</Citation>
+</Bibliography>
+</ArticleBackmatter>
+</Article>
+</Issue>
+</Volume>
+</Journal>
+</Publisher>

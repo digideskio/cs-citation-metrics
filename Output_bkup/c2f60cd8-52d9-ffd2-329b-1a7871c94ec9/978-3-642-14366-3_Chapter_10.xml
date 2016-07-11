@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Doug</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <City>Lancaster</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <City>Zurich</City>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>Stanford</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <City>Bern</City>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <City>Dortmund</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <State>MA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbrücken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-642-14366-3</BookID>
+        <BookTitle>Biomedical Image Registration</BookTitle>
+        <BookSubTitle>4th International Workshop, WBIR 2010, Lübeck, Germany, July 11-13, 2010. Proceedings</BookSubTitle>
+        <BookVolumeNumber>6204</BookVolumeNumber>
+        <BookSequenceNumber>6204</BookSequenceNumber>
+        <BookDOI>10.1007/978-3-642-14366-3</BookDOI>
+        <BookTitleID>212463</BookTitleID>
+        <BookPrintISBN>978-3-642-14365-6</BookPrintISBN>
+        <BookElectronicISBN>978-3-642-14366-3</BookElectronicISBN>
+        <BookChapterCount>24</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2010</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="I" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="I22021" Priority="1" Type="Secondary">Image Processing and Computer Vision</BookSubject>
+          <BookSubject Code="H28009" Priority="2" Type="Secondary">Health Informatics</BookSubject>
+          <BookSubject Code="H29005" Priority="3" Type="Secondary">Imaging / Radiology</BookSubject>
+          <BookSubject Code="I18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="I2203X" Priority="5" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="L15001" Priority="6" Type="Secondary">Bioinformatics</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>International Workshop on Biomedical Image Registration</ConfSeriesName>
+          <ConfSeriesID Type="Springer">wbir</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">wbir</ConfSeriesID>
+          <ConfEventID Type="Springer">wbir2010</ConfEventID>
+          <ConfEventAbbreviation>WBIR</ConfEventAbbreviation>
+          <ConfNumber>4</ConfNumber>
+          <ConfEventLocation>
+            <City>Lübeck</City>
+            <Country>Germany</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2010</Year>
+            <Month>7</Month>
+            <Day>11</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2010</Year>
+            <Month>7</Month>
+            <Day>13</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Bernd</GivenName>
+              <FamilyName>Fischer</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>fischer@math.uni-luebeck.de</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Benoît</GivenName>
+              <GivenName>M.</GivenName>
+              <FamilyName>Dawant</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>benoit.dawant@vanderbilt.edu</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff18">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Cristian</GivenName>
+              <FamilyName>Lorenz</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>Cristian.Lorenz@Philips.com</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Institute of Mathematics and Image Computing</OrgDivision>
+            <OrgName>University of Lübeck</OrgName>
+            <OrgAddress>
+              <Street>Wallstr. 40</Street>
+              <Postcode>23560</Postcode>
+              <City>Lübeck</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Electrical Engineering and Computer Science</OrgDivision>
+            <OrgName>Vanderbilt University</OrgName>
+            <OrgAddress>
+              <Street>VU Station B 351662</Street>
+              <Postcode>37240-1662</Postcode>
+              <City>Nashville</City>
+              <State>TN</State>
+              <Country>USA</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff18">
+            <OrgName>Philips Research Europe - Hamburg, Sector Medical Imaging Systems</OrgName>
+            <OrgAddress>
+              <Street>Röntgenstr. 24-26</Street>
+              <Postcode>22335</Postcode>
+              <City>Hamburg</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part2">
+        <PartInfo TocLevels="0">
+          <PartID>2</PartID>
+          <PartSequenceNumber>2</PartSequenceNumber>
+          <PartTitle>Poster Session</PartTitle>
+          <PartChapterCount>7</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Biomedical Image Registration</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap10" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>10</ChapterID>
+            <ChapterDOI>10.1007/978-3-642-14366-3_10</ChapterDOI>
+            <ChapterSequenceNumber>10</ChapterSequenceNumber>
+            <ChapterTitle Language="En">Bayesian Estimation of Deformation and Elastic Parameters in Non-rigid Registration</ChapterTitle>
+            <ChapterFirstPage>104</ChapterFirstPage>
+            <ChapterLastPage>115</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2010</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>2</PartID>
+              <BookID>978-3-642-14366-3</BookID>
+              <BookTitle>Biomedical Image Registration</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff19 Aff20">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Petter</GivenName>
+                  <FamilyName>Risholm</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>pettri@ifi.uio.no</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff20">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Eigil</GivenName>
+                  <FamilyName>Samset</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>William</GivenName>
+                  <FamilyName>Wells</FamilyName>
+                  <Suffix>III</Suffix>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff19">
+                <OrgDivision>Harvard Medical School</OrgDivision>
+                <OrgName>Brigham and Women’s Hospital</OrgName>
+                <OrgAddress>
+                  <Country> </Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff20">
+                <OrgDivision>Center of Mathematics for Applications</OrgDivision>
+                <OrgName>University of Oslo</OrgName>
+                <OrgAddress>
+                  <Country> </Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Elastic deformation models are frequently used when solving non-rigid registration problems that are associated with neurosurgical image guidance, however, establishing precise values for the material parameters of brain tissue remains challenging. In this work we include elastography in the registration process by formulating these parameters as unknown random variables with associated priors that may be broad or sharp, depending on the situation.</Para>
+              <Para>A Bayesian registration model is introduced where the deformation probability is formulated by way of Boltzmann’s equation and the linear elastic deformation and similarity energies. The full joint posterior on deformation and elastic random variables is characterized with a Markov Chain Monte Carlo method and can provide useful information beyond the usual “point estimates”; e.g. deformation uncertainty. Hard deformation constraints are easily accommodated in this framework which allows us to constrain the deformation of the brain to the intra-cranial space.</Para>
+              <Para>We describe preliminary experiments with synthetic 3D brain images for which ground truth is known for the elastic and deformation parameters. We compare a model with separate elastic parameters for three compartments (white matter, gray matter, and CSF), to a single compartment model, and show convergence, improved deformation estimates for the three compartment model and that plausible posteriors on the elastic parameters are obtained from the elastography process.</Para>
+            </Abstract>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-642-14366-3_Chapter_10.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Ferrant</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Nabavi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Macq</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Black</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Jolesz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Kikinis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Warfield</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Serial registration of intraoperative mr images of the brain</ArticleTitle>
+                  <JournalTitle>Medical Image Analysis</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>337</FirstPage>
+                  <LastPage>359</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1361-8415(02)00060-9</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ferrant, M., Nabavi, A., Macq, B., Black, P., Jolesz, F., Kikinis, R., Warfield, S.: Serial registration of intraoperative mr images of the brain. Medical Image Analysis 6(4), 337–359 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Hastreiter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Rezk-Salama</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Soza</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Greiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Fahlbusch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O.</Initials>
+                    <FamilyName>Ganslandt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Nimsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Strategies for Brain Shift Evaluation</ArticleTitle>
+                  <JournalTitle>Medical Image Analysis</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>447</FirstPage>
+                  <LastPage>464</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.media.2004.02.001</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hastreiter, P., Rezk-Salama, C., Soza, G., Greiner, G., Fahlbusch, R., Ganslandt, O., Nimsky, C.: Strategies for Brain Shift Evaluation. Medical Image Analysis 8(4), 447–464 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Hartkens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.L.G.</Initials>
+                    <FamilyName>Hill</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.D.</Initials>
+                    <FamilyName>Castellano-Smith</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.J.</Initials>
+                    <FamilyName>Hawkes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.R.</Initials>
+                    <FamilyName>Maurer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.J.</Initials>
+                    <FamilyName>Martin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.A.</Initials>
+                    <FamilyName>Hall</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.L.</Initials>
+                    <FamilyName>Truwit</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Measurement and analysis of brain deformation during neurosurgery</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Med. Imaging</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>82</FirstPage>
+                  <LastPage>92</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TMI.2002.806596</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hartkens, T., Hill, D.L.G., Castellano-Smith, A.D., Hawkes, D.J., Maurer, C.R., Martin, A.J., Hall, W.A., Liu, H., Truwit, C.L.: Measurement and analysis of brain deformation during neurosurgery. IEEE Trans. Med. Imaging 22(1), 82–92 (2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Hagemann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Rohr</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Stiehl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Spetzger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Gilsbach</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Biomechanical modeling of the human head for physically based</ArticleTitle>
+                  <JournalTitle>Nonrigid Image Registration</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <IssueID>10</IssueID>
+                  <FirstPage>875</FirstPage>
+                  <LastPage>884</LastPage>
+                </BibArticle>
+                <BibUnstructured>Hagemann, A., Rohr, K., Stiehl, H., Spetzger, U., Gilsbach, J.: Biomechanical modeling of the human head for physically based. Nonrigid Image Registration 18(10), 875–884 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Rueckert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Sonoda</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I.</Initials>
+                    <FamilyName>Hayes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Hill</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Leach</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Hawkes</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Nonrigid registration using free-form deformations: Application to breast mr images</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Med. Imaging</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>712</FirstPage>
+                  <LastPage>721</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/42.796284</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rueckert, D., Sonoda, L., Hayes, I., Hill, D., Leach, M., Hawkes, D.: Nonrigid registration using free-form deformations: Application to breast mr images. IEEE Trans. Med. Imaging 18(8), 712–721 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.P.</Initials>
+                    <FamilyName>Thirion</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Image matching as a diffusion process: an analogy with Maxwell’s demons</ArticleTitle>
+                  <JournalTitle>Medical Image Analysis</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>243</FirstPage>
+                  <LastPage>260</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1361-8415(98)80022-4</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Thirion, J.P.: Image matching as a diffusion process: an analogy with Maxwell’s demons. Medical Image Analysis 2(3), 243–260 (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O.</Initials>
+                    <FamilyName>Clatz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Delingette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I.F.</Initials>
+                    <FamilyName>Talos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.J.</Initials>
+                    <FamilyName>Golby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Kikinis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.A.</Initials>
+                    <FamilyName>Jolesz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Ayache</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.K.</Initials>
+                    <FamilyName>Warfield</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Robust nonrigid registration to capture brain shift from intraoperative MRI</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Med. Imaging</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <IssueID>11</IssueID>
+                  <FirstPage>1417</FirstPage>
+                  <LastPage>1427</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TMI.2005.856734</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Clatz, O., Delingette, H., Talos, I.F., Golby, A.J., Kikinis, R., Jolesz, F.A., Ayache, N., Warfield, S.K.: Robust nonrigid registration to capture brain shift from intraoperative MRI. IEEE Trans. Med. Imaging 24(11), 1417–1427 (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.I.</Initials>
+                    <FamilyName>Miga</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.W.</Initials>
+                    <FamilyName>Roberts</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.E.</Initials>
+                    <FamilyName>Kennedy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.A.</Initials>
+                    <FamilyName>Platenik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Hartov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.E.</Initials>
+                    <FamilyName>Lunn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.D.</Initials>
+                    <FamilyName>Paulsen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Modeling of retraction and resection for intraoperative updating of images</ArticleTitle>
+                  <JournalTitle>Neurosurgery</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>75</FirstPage>
+                  <LastPage>85</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00006123-200107000-00012</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Miga, M.I., Roberts, D.W., Kennedy, F.E., Platenik, L.A., Hartov, A., Lunn, K.E., Paulsen, K.D.: Modeling of retraction and resection for intraoperative updating of images. Neurosurgery 49(1), 75–85 (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.J.</Initials>
+                    <FamilyName>Ou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.E.</Initials>
+                    <FamilyName>Ong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.E.</Initials>
+                    <FamilyName>Yankeelov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.I.</Initials>
+                    <FamilyName>Miga</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Evaluation of 3d modality-independent elastography for breast imaging: a simulation study</ArticleTitle>
+                  <JournalTitle>Physics in Medicine and Biology</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>147</FirstPage>
+                  <LastPage>163</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0031-9155/53/1/010</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ou, J.J., Ong, R.E., Yankeelov, T.E., Miga, M.I.: Evaluation of 3d modality-independent elastography for breast imaging: a simulation study. Physics in Medicine and Biology 53(1), 147–163 (2008)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Modersitzki</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>Numerical Methods for Image Registration</BookTitle>
+                  <PublisherName>Oxford University Press</PublisherName>
+                  <PublisherLocation>Oxford</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1055.68140</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Modersitzki, J.: Numerical Methods for Image Registration. Oxford University Press, Oxford (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>O.C.</Initials>
+                    <FamilyName>Zienkiewicz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.L.</Initials>
+                    <FamilyName>Taylor</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <BookTitle>The Finite Element Method</BookTitle>
+                  <EditionNumber>5</EditionNumber>
+                  <PublisherName>Butterworth-Heinemann</PublisherName>
+                  <PublisherLocation>Butterworths</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0991.74002</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Zienkiewicz, O.C., Taylor, R.L.: The Finite Element Method, 5th edn. Butterworth-Heinemann, Butterworths (2000)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Gelman, A., Carlin, J.B., Stern, H.S., Rubin, D.B.: Bayesian Data Analysis, 2nd edn. Texts in Statistical Science. Chapman &amp; Hall/CRC (July 2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.L.</Initials>
+                    <FamilyName>Collins</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.P.</Initials>
+                    <FamilyName>Zijdenbos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Kollokian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.G.</Initials>
+                    <FamilyName>Sled</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.J.</Initials>
+                    <FamilyName>Kabani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.J.</Initials>
+                    <FamilyName>Holmes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.C.</Initials>
+                    <FamilyName>Evans</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Design and construction of a realistic digital brain phantom</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Med. Imaging</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>463</FirstPage>
+                  <LastPage>468</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/42.712135</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Collins, D.L., Zijdenbos, A.P., Kollokian, V., Sled, J.G., Kabani, N.J., Holmes, C.J., Evans, A.C.: Design and construction of a realistic digital brain phantom. IEEE Trans. Med. Imaging 17(3), 463–468 (1998)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

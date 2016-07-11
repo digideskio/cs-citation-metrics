@@ -1,0 +1,2042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer London</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalDOI>10.1007/13735.2192-662X</JournalDOI>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCI" Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Code="SCI18059" Priority="1" Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Code="SCI18032" Priority="2" Type="Secondary">Information Storage and Retrieval</JournalSubject>
+        <JournalSubject Code="SCI18040" Priority="3" Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <JournalSubject Code="SCI18030" Priority="4" Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <JournalSubject Code="SCI22021" Priority="5" Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Code="SCI00001" Priority="6" Type="Secondary">Computer Science, general</JournalSubject>
+        <SubjectCollection Code="SC6">Computer Science</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>4</VolumeIDStart>
+        <VolumeIDEnd>4</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueTitle Language="En">Special Issue: Concept Detection with Big Data</IssueTitle>
+          <IssueArticleCount>7</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>20</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>19</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-015-0078-z" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>78</ArticleID>
+            <ArticleDOI>10.1007/s13735-015-0078-z</ArticleDOI>
+            <ArticleSequenceNumber>6</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Large image modality labeling initiative using semi-supervised and optimized clustering</ArticleTitle>
+            <ArticleCategory>Regular Paper</ArticleCategory>
+            <ArticleFirstPage>143</ArticleFirstPage>
+            <ArticleLastPage>151</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+              </Received>
+              <Revised>
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>9</Day>
+              </Revised>
+              <Accepted>
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London (outside the USA)</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1" ID="Au1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Szilárd</GivenName>
+                  <FamilyName>Vajda</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>+13015947111</Phone>
+                  <Email>szilard.vajda@nih.gov</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1" ID="Au2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Daekeun</GivenName>
+                  <FamilyName>You</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1" ID="Au3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Sameer</GivenName>
+                  <FamilyName>Antani</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1" ID="Au4">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>George</GivenName>
+                  <FamilyName>Thoma</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>National Library of Medicine</OrgDivision>
+                <OrgName>National Institutes of Health</OrgName>
+                <OrgAddress>
+                  <City>Maryland</City>
+                  <Country Code="US">USA</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para ID="Par1">Medical image modality detection is a key step for indexing images from biomedical articles. Traditionally, complex supervised classification methods have been used for this. However, they rely on proportionally sized labeled training samples. With the increase in availability of image data it has become increasingly challenging to obtain reasonably accurate manual labels to train classifiers. Toward meeting this shortcoming, we propose a semi-automatic labeling strategy that reduces the human annotator effort. Each image is projected into several feature spaces, and each entry in these spaces is clustered in an unsupervised manner. The cluster centers for each feature representation are then labeled by a human annotator, and the labels propagated through each cluster. To find the optimal cluster numbers for each feature space, a so-called “jump” method is used. The final label of an image is decided by a voting scheme that summarizes the different opinions on the same image provided by the different feature representations. The proposed method is evaluated on ImageCLEFmed2012 data set containing approximately 300,000 images, and showed that annotating <InlineEquation ID="IEq1">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$<$$]]></EquationSource>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mo>&lt;</mo>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                </InlineEquation>1 % of the data is sufficient to label correctly 49.95 % of the images. The method spared approximately 700 h of human annotation labor and associated costs.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Semi-automatic image annotation</Keyword>
+              <Keyword>Medical image modality detection</Keyword>
+              <Keyword>Unsupervised clustering</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para ID="Par2">Modality detection  [<CitationRef CitationID="CR13">13</CitationRef>] is a key step in high-performance biomedical image and article retrieval, as it can considerably reduce the retrieved search space for different image and/or text-based queries. Medical image modalities refer to images representing different organs or body parts captured by X-ray, CT, MRI, Ultrasound, or other image types such as charts, photos, illustrations often encountered in medical literature. For more details w.r.t. the modalities, the reader is referred to the work of Müller et al. [<CitationRef CitationID="CR13">13</CitationRef>], and You et al. [<CitationRef CitationID="CR23">23</CitationRef>].
+</Para>
+              <Para ID="Par3">Traditionally medical documents are represented by keywords, however, visual classification based on image similarities has been in research focus within the last decade. You et al. [<CitationRef CitationID="CR23">23</CitationRef>] showed that text search capabilities combined with visual appearances of different modalities (see Fig. <InternalRef RefID="Fig1">1</InternalRef>) can outperform the capabilities of each modality when applied separately. The textual description is often detected, though unreliably, in the figure caption text, and represented through encoded labels. The artifacts of the textual descriptors when detected, can come from poorly described figures, or in case of multi-panel images (one complex image, containing several subfigures which can come from different sources, modalities, etc.) the text descriptor is extracted from the whole caption often introducing confusions.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Different image modalities appearing in medical literature (images from [<CitationRef CitationID="CR12">12</CitationRef>])</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_78_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para ID="Par4">However, visual descriptors for the image are built for low-level features such as color, texture, etc. These two type of descriptors are commonly used to reliably and automatically detect image modalities [<CitationRef CitationID="CR15">15</CitationRef>], but the underlying classification methods such as support vector machines (SVM), neural networks (NN) and random forest (RF) [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR15">15</CitationRef>] need large annotated training material. For large data collections such an annotation task is a time consuming work, not to mention the expert knowledge necessary to accurately assign labels to the different images.</Para>
+              <Para ID="Par5">This paper proposes a method to reduce the labeling time and costs by integrating concepts from multi-view learning, unsupervised clustering and labels based on consensus or majority vote. The method follows a multi-view approach. Each image is projected in several feature spaces, some are image related [e.g., MPEG-7 features, color and edge directivity descriptor (CEDD), color layout descriptor (CLD)], and a textual representation built as a frequency histogram of the most commonly used terms found in the subsequent image captions. The different feature representations are then clustered in an unsupervised manner using k-means clustering [<CitationRef CitationID="CR5">5</CitationRef>], and only the cluster centers, more precisely the closest images are annotated by a human expert. The different labels are propagated through each cluster. Using unsupervised classification method such as k-means allows to completely control the amount of work to be performed by the annotator. To precisely estimate the optimal number of classes for each feature separately, a so-called “jump” method is included [<CitationRef CitationID="CR20">20</CitationRef>]. The final decision will be provided by a voting scheme, which provides robustness in reliably inferring a label for each item. Due to the almost fully automatic way of label discovery, some noise might be included, but the ultimate goal is not to classify the images but rather to label them, and later on use these admittedly noisy labels to retrain more sophisticated classifiers meant to accurately decide for an image modality.</Para>
+              <Para ID="Par6">The remainder of the paper is organized as follows: Sect. <InternalRef RefID="Sec2">2</InternalRef> gives a brief overview about the different modality recognition attempts along with the semi-automatic labeling strategies found in the literature. Section <InternalRef RefID="Sec5">3</InternalRef> presents the proposed labeling strategy, while Sect. <InternalRef RefID="Sec10">4</InternalRef> is dedicated to the experiments. Finally, Sect. <InternalRef RefID="Sec16">5</InternalRef> provides the conclusions.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Related work</Heading>
+              <Para ID="Par7">The following section gives a brief overview of modality detection. It describes the most prominent visual and textual features used, and presents relevant semi-automatic labeling systems based on active learning.</Para>
+              <Section2 ID="Sec3">
+                <Heading>Modality detection</Heading>
+                <Para ID="Par8">Image modality classification has been one of the main tasks in the medical image classification and retrieval track of ImageCLEF evaluation. ImageCLEF started in 2003 as part of the cross language evaluation forum (CLEF). ImageCLEFmed medical information retrieval track<Footnote ID="Fn1">
+                    <Para ID="Par9">
+                      <ExternalRef>
+                        <RefSource>http://www.imageclef.org</RefSource>
+                        <RefTarget Address="http://www.imageclef.org" TargetType="URL"/>
+                      </ExternalRef>.</Para>
+                  </Footnote> was added to the evaluation in 2004. Modality classification was introduced in the ImageCLEFmed track in 2010. The goal of the task is to detect the modality of the images in the collection using visual, textual, or mixed methods.</Para>
+                <Para ID="Par10">In our ImageCLEFmed2012 participation [<CitationRef CitationID="CR23">23</CitationRef>], we extracted 15 different visual features from the images and textual features from the article citations, figure captions, mentions, and MeSH<Superscript>®</Superscript> terms. Also, class-specific contents such as text strings and polygons (e.g., rectangles in flowcharts, hexagons in chemical diagrams, etc.) are extracted from illustration figures to assist our SVM-based main modality classifiers. Flat (a single multiclass classifier) and hierarchical classification approaches were developed using the features individually or in combination. Our best classification result ranked within the top three groups in the competition. Details of modality classification techniques and results from various participating groups are presented in the proceedings [<CitationRef CitationID="CR12">12</CitationRef>].</Para>
+                <Para ID="Par11">In the literature, we also identified some cutting edge medical image retrieval systems involving modalities, such as Goldminer [<CitationRef CitationID="CR6">6</CitationRef>] or Yottalook [<CitationRef CitationID="CR11">11</CitationRef>], but their action mechanism is completely different from our hybrid method, as they rely only on semantic ontologies (Yottalook), or concepts and keywords (Goldminer), which suppose certain vocabularies such as Medical Subject Heading (MeSH<Superscript>®</Superscript>), SNOMED Clinical Terms (SNOMED CT<Superscript>®</Superscript>) or Unified Medical Language System (UMLS<Superscript>®</Superscript>) developed by U.S. National Library of Medicine. In some cases the image captions are not available or the description is ambiguous (i.e., multi-panel images), therefore, the usage of image features beside the textual description can be helpful to complement the rather powerful text-based search.</Para>
+                <Para ID="Par12">To our knowledge, besides the experiments for medical image modality detection conducted in ImageCLEF, no other work involving both textual and image features can be found in the literature.</Para>
+              </Section2>
+              <Section2 ID="Sec4">
+                <Heading>Active learning</Heading>
+                <Para ID="Par13">Active learning systems [<CitationRef CitationID="CR18">18</CitationRef>] try to reduce the manual labeling work by asking an “oracle” (e.g., a human annotator) to label some unknown (unlabeled) data instances, and based on this knowledge learn to classify the rest of the samples. Usually in these setups there is a huge amount of unlabeled data, and only a limited amount of data available with correct labels or no labeled data at all. The goal is to robustly infer labels for the unknown samples exploiting the limited information available. The labeling process is performed in such a way so as to minimize the cost of the labeling (involvement of a human expert). The known labels must be reliable. To get reliable labels the involvement of the human expert is mandatory; moreover, the annotated samples should be representative for the unlabeled set as typically the new labels are inferred through similarity measures.</Para>
+                <Para ID="Par14">To robustly propagate a concept in multi-view learning, a strategy of using an ensemble of learners is proposed [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>]. Each of these learners has a different opinion (label) on the data, e.g., using different feature representation. Decisions are made by combining the outputs of different learners. A well-known strategy is using a majority vote [<CitationRef CitationID="CR9">9</CitationRef>]. The advantages of incorporating ensembles in semi-supervised learning approaches for robust propagation are, for example, discussed in [<CitationRef CitationID="CR24">24</CitationRef>].</Para>
+                <Para ID="Par15">For handwritten graphical multi-stroke symbols an annotation assistance is proposed by Li et al. [<CitationRef CitationID="CR10">10</CitationRef>], where the annotation of the symbols is reduced to finding sub-graphs in a relation graph built from different segments. In the graph the nodes are the segments and the arcs represent the spatial relationships between them. The authors show that only 58.2 % of the strokes need to be labeled. With respect to the goal of reducing the manual effort in the transcription of historical documents, the work introduced by Toselli et al. in [<CitationRef CitationID="CR21">21</CitationRef>] has a similar goal to ours. However, the principle differs from our approach as in their annotation system a continuous interaction is supposed between the machine and human annotator—going through the text line by line, in our case we involve the annotator only once, and the rest of the process is completely automatic.</Para>
+                <Para ID="Par16">Recently, the work proposed by Vajda et al. [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR22">22</CitationRef>] deals with the same problem in a character recognition scenario, where unlabeled character datasets were labeled using a multi-view system and a majority voting determines about the labels of handwritten characters. In this study, the authors proved that only a few hundred labeled characters are necessary to accurately label several thousands.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec5">
+              <Heading>Method</Heading>
+              <Para ID="Par17">This section describes the proposed labeling method, with a brief introduction of the feature spaces considered in this experiments, as well as the “jump” method—providing an optimal cluster number for each feature space separately.</Para>
+              <Section2 ID="Sec6">
+                <Heading>Feature representations</Heading>
+                <Para ID="Par18">In our previous work for modality detection, 15 different low-level visual features were identified and used [<CitationRef CitationID="CR23">23</CitationRef>], including color features, edge features, texture features, and different combinations of these [<CitationRef CitationID="CR19">19</CitationRef>]. Of these, CEDD and CLD were found to have greatest discriminative power, therefore, were our choices for visual descriptions for the images.</Para>
+                <Para ID="Par19">CEDD [<CitationRef CitationID="CR1">1</CitationRef>] is a low-level feature incorporating texture and color information in a histogram. While the color information is extracted from an HSV color space involving fuzzy-linking histogram, the texture information is quantized based on MPEG-7’s Edge Histogram descriptor [<CitationRef CitationID="CR14">14</CitationRef>] extracted from a preset number of image tiles.</Para>
+                <Para ID="Par20">CLD feature is capturing the spatial distribution of the representative colors on a grid of superimposed region or an image. The feature extraction consist of two parts: representative color selection based on the grid, and discrete cosine transform (DCT) coefficients to be quantized to form a very compact feature descriptor. The feature is highly efficient in fast image searching, and it is resolution invariant [<CitationRef CitationID="CR8">8</CitationRef>].</Para>
+                <Para ID="Par21">For the textual features, mentioned earlier, the image captions were analyzed, and 283 text terms were identified as possible candidates to relevantly describe the content of the images. Different terms were selected by closely analyzing 1000 images from ImageCLEF2013, and include terms such as “computer tomography”, “CT”, “confocal microscopy”, “T1-weighted”, “flowchart”, “photograph”, etc. To end up with 283 terms, a Lucene indexing [<CitationRef CitationID="CR2">2</CitationRef>] was invoked, to eliminate stop words, common terms, etc., and treat as one word having the same root such as “sequence/sequences” or “blot/blotting”.</Para>
+                <Para ID="Par22">For each image the corresponding caption was analyzed, a frequency histogram containing some 283 bins was built, and used as textual descriptor for each images. Such a textual representation when correctly detected, seems to be a powerful descriptor, and usually outperforms the visual descriptors [<CitationRef CitationID="CR23">23</CitationRef>]. Unfortunately, in some other cases the caption is not available or it is ambiguous due to multi-panel images, hence the need for the visual descriptors.
+</Para>
+                <Para ID="Par23">Our primary focus is to annotate the image collection with the least possible human involvement (annotator), therefore, only these three features were considered from the possible fifteen, although the method could profit out of an extended feature set. The odd number of features is motivated by the usage of a voting scheme, i.e., simple majority voting, where greater than 50 % of the voters agree.</Para>
+              </Section2>
+              <Section2 ID="Sec7">
+                <Heading>Method description</Heading>
+                <Para ID="Par24">This section describes the semi-automatic labeling process providing a systematic algorithmic description involving the clustering</Para>
+                <Section3 ID="Sec8">
+                  <Heading>Semi-automatic labeling</Heading>
+                  <Para ID="Par25">The semi-automatic labeling method is based as mentioned earlier on unsupervised clustering. Given an arbitrary unsupervised clustering method such as k-means [<CitationRef CitationID="CR5">5</CitationRef>], self-organizing map (SOM) [<CitationRef CitationID="CR7">7</CitationRef>], growing neural gas (GNG) [<CitationRef CitationID="CR3">3</CitationRef>], the goal is to cluster the data, and identify the different cluster centers, representing the surrounding samples belonging to the same cluster. During the clustering process, these cluster centers are estimated from the data, therefore, the centroids do not represent real data points, but rather some ideal data point which represents the best the neighboring data points. Therefore, instead of selecting the centroid, the closest real data point is selected to serve as cluster representative. The human annotator labels all the cluster representatives by mapping it back to the original image, and each data point from a particular cluster inherits the label (i.e., Photo, Illustration, Ultrasound, X-Ray, CT, etc.) of its representative. Such label propagation allows us to have different views about the same image considering different feature representations. If an image is considered with the same label in different feature spaces, with a voting scheme we can decide for one label or another based on the underlying voting scheme. A system overview depicting the whole process is shown in Fig. <InternalRef RefID="Fig2">2</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 2</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>The semi-automatic labeling process: a system overview</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO2">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_78_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para ID="Par26">The labeling strategy algorithm is presented in pseudo-code (Algorithm 1). Considering a set of patterns <InlineEquation ID="IEq2">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\mathbf x _i$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <msub>
+                            <mi mathvariant="bold">x</mi>
+                            <mi>i</mi>
+                          </msub>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>, <InlineEquation ID="IEq3">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$1 \le i \le N_p$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mn>1</mn>
+                            <mo>≤</mo>
+                            <mi>i</mi>
+                            <mo>≤</mo>
+                            <msub>
+                              <mi>N</mi>
+                              <mi>p</mi>
+                            </msub>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>, which are represented by <InlineEquation ID="IEq4">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$M$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>M</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> set of different features <InlineEquation ID="IEq5">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$F_m$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <msub>
+                            <mi>F</mi>
+                            <mi>m</mi>
+                          </msub>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>, <InlineEquation ID="IEq6">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$1 \le m \le M$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mn>1</mn>
+                            <mo>≤</mo>
+                            <mi>m</mi>
+                            <mo>≤</mo>
+                            <mi>M</mi>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>, the technique provides a deterministic way to label the patterns by minimizing human involvement and, therefore, maximizing the automatic process of clustering <InlineEquation ID="IEq7">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$M$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>M</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> representations of <InlineEquation ID="IEq8">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\mathbf x _i$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <msub>
+                            <mi mathvariant="bold">x</mi>
+                            <mi>i</mi>
+                          </msub>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> using unsupervised clustering strategies with <InlineEquation ID="IEq9">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>K</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> clusters.<Figure Category="Standard" Float="No" ID="Figa">
+                      <MediaObject ID="MO3">
+                        <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2015_78_Figa_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para ID="Par27">For each <InlineEquation ID="IEq33">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq33.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$F_j$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <msub>
+                            <mi>F</mi>
+                            <mi>j</mi>
+                          </msub>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> representation, the points are clustered in <InlineEquation ID="IEq34">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq34.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>k</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> clusters, each cluster being represented by its centroid <InlineEquation ID="IEq35">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq35.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$c_t^{j}$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <msubsup>
+                            <mi>c</mi>
+                            <mi>t</mi>
+                            <mi>j</mi>
+                          </msubsup>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>. As the centroids represent features, they cannot be presented directly to a human expert to determine the corresponding label. Therefore, the closest real data point for any <InlineEquation ID="IEq36">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq36.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$c_t^{j}$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <msubsup>
+                            <mi>c</mi>
+                            <mi>t</mi>
+                            <mi>j</mi>
+                          </msubsup>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> is selected, and each of those original data points is annotated by the human expert. The resulting number of points to label is <InlineEquation ID="IEq37">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq37.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$k \times M$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>k</mi>
+                            <mo>×</mo>
+                            <mi>M</mi>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>: one point for each cluster and each feature representation. Then, for each feature representation, each point inherits a label from its associated cluster. The label corresponding to a data point is obtained by voting. It is determined by the number of winning votes accumulated over the different <InlineEquation ID="IEq38">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq38.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$F_j$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <msub>
+                            <mi>F</mi>
+                            <mi>j</mi>
+                          </msub>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> feature representations [<CitationRef CitationID="CR9">9</CitationRef>]. Two voting approaches are considered: (1) consensus voting, and (2) majority voting. Those points where no consensus (unanimity or simple majority) was reached, to minimize the possibility of error are rejected.</Para>
+                  <Para ID="Par28">While the clustering process could be time consuming, the number of manual annotations is insignificant compared to the number of total data points to be labeled. The more cluster centers are to be labeled, the more precise labels are to be propagated over the data points. To lower human expertise involvement, but still keeping high the annotation accuracy, a certain balance should be maintained between the number of feature sets (<InlineEquation ID="IEq39">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq39.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$M$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>M</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>) and the number of clusters (<InlineEquation ID="IEq40">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq40.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>K</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>) used in the process. To maintain complete control over the number of clusters in our experimental setup, k-means clustering was considered. Even though it is beyond the scope of the current paper SOM, and GNG clustering strategies were also considered as possible clustering method candidates. However, measuring the cluster compactness [<CitationRef CitationID="CR4">4</CitationRef>], we recline only upon the k-means clustering.</Para>
+                </Section3>
+                <Section3 ID="Sec9">
+                  <Heading>Cluster number optimization</Heading>
+                  <Para ID="Par29">To further optimize the process, we conducted a short experiment using the so-called “jump” method, meant to establish the optimal cluster numbers for each feature space. The original method proposed by Sugar and James [<CitationRef CitationID="CR20">20</CitationRef>] provides a systematic analysis to automatically discover the number of clusters for an unknown data collection. They propose an efficient, non-parametric solution involving distortion, a quantity that measures the average distance, per dimension, between each sample of a cluster and its cluster center. We used this method to estimate the optimal number of clusters necessary for each feature space separately in the annotation process.</Para>
+                  <Para ID="Par30">The process can be summarized as follows:<OrderedList>
+                      <ListItem>
+                        <ItemNumber>1.</ItemNumber>
+                        <ItemContent>
+                          <Para ID="Par31">Apply k-means algorithm [<CitationRef CitationID="CR5">5</CitationRef>] to the unknown data, and after each iteration calculate <InlineEquation ID="IEq41">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq41.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$d(k) = \frac{1}{d}\min _{c_1,c_2,\ldots ,c_K}\left\{ \frac{1}{n}\sum _{i=1}^{K}\sum _{i \in k}(x_i-c_k)^T\right. \left. (x_i-c_k)\right\} $$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mrow>
+                                    <mi>d</mi>
+                                    <mrow>
+                                      <mo stretchy="false">(</mo>
+                                      <mi>k</mi>
+                                      <mo stretchy="false">)</mo>
+                                    </mrow>
+                                    <mo>=</mo>
+                                    <mfrac>
+                                      <mn>1</mn>
+                                      <mi>d</mi>
+                                    </mfrac>
+                                    <msub>
+                                      <mo movablelimits="true">min</mo>
+                                      <mrow>
+                                        <msub>
+                                          <mi>c</mi>
+                                          <mn>1</mn>
+                                        </msub>
+                                        <mo>,</mo>
+                                        <msub>
+                                          <mi>c</mi>
+                                          <mn>2</mn>
+                                        </msub>
+                                        <mo>,</mo>
+                                        <mo>…</mo>
+                                        <mo>,</mo>
+                                        <msub>
+                                          <mi>c</mi>
+                                          <mi>K</mi>
+                                        </msub>
+                                      </mrow>
+                                    </msub>
+                                    <mfenced close="" open="{" separators="">
+                                      <mfrac>
+                                        <mn>1</mn>
+                                        <mi>n</mi>
+                                      </mfrac>
+                                      <msubsup>
+                                        <mo>∑</mo>
+                                        <mrow>
+                                          <mi>i</mi>
+                                          <mo>=</mo>
+                                          <mn>1</mn>
+                                        </mrow>
+                                        <mi>K</mi>
+                                      </msubsup>
+                                      <msub>
+                                        <mo>∑</mo>
+                                        <mrow>
+                                          <mi>i</mi>
+                                          <mo>∈</mo>
+                                          <mi>k</mi>
+                                        </mrow>
+                                      </msub>
+                                      <msup>
+                                        <mrow>
+                                          <mo stretchy="false">(</mo>
+                                          <msub>
+                                            <mi>x</mi>
+                                            <mi>i</mi>
+                                          </msub>
+                                          <mo>-</mo>
+                                          <msub>
+                                            <mi>c</mi>
+                                            <mi>k</mi>
+                                          </msub>
+                                          <mo stretchy="false">)</mo>
+                                        </mrow>
+                                        <mi>T</mi>
+                                      </msup>
+                                    </mfenced>
+                                    <mfenced close="}" open="" separators="">
+                                      <mo stretchy="false">(</mo>
+                                      <msub>
+                                        <mi>x</mi>
+                                        <mi>i</mi>
+                                      </msub>
+                                      <mo>-</mo>
+                                      <msub>
+                                        <mi>c</mi>
+                                        <mi>k</mi>
+                                      </msub>
+                                      <mo stretchy="false">)</mo>
+                                    </mfenced>
+                                  </mrow>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation>, where <InlineEquation ID="IEq42">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq42.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$x_i$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <msub>
+                                    <mi>x</mi>
+                                    <mi>i</mi>
+                                  </msub>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation> is the <InlineEquation ID="IEq43">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq43.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$i$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mi>i</mi>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation>th sample belonging to the <InlineEquation ID="IEq44">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq44.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mi>k</mi>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation>th cluster, <InlineEquation ID="IEq45">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq45.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$c_k$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <msub>
+                                    <mi>c</mi>
+                                    <mi>k</mi>
+                                  </msub>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation> is the <InlineEquation ID="IEq46">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq46.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mi>k</mi>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation>th cluster center, <InlineEquation ID="IEq47">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq47.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$n$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mi>n</mi>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation> is the number of samples, while <InlineEquation ID="IEq48">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq48.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$d$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mi>d</mi>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation> is the dimension of the data.</Para>
+                        </ItemContent>
+                      </ListItem>
+                      <ListItem>
+                        <ItemNumber>2.</ItemNumber>
+                        <ItemContent>
+                          <Para ID="Par32">Pick a suitable transformation power <InlineEquation ID="IEq49">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq49.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$Y>0$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mrow>
+                                    <mi>Y</mi>
+                                    <mo>&gt;</mo>
+                                    <mn>0</mn>
+                                  </mrow>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation>. If the clusters are assumed to be generated by a Gaussian process, the theory suggests <InlineEquation ID="IEq50">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq50.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$Y=\frac{d}{2}$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mrow>
+                                    <mi>Y</mi>
+                                    <mo>=</mo>
+                                    <mfrac>
+                                      <mi>d</mi>
+                                      <mn>2</mn>
+                                    </mfrac>
+                                  </mrow>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation>.</Para>
+                        </ItemContent>
+                      </ListItem>
+                      <ListItem>
+                        <ItemNumber>3.</ItemNumber>
+                        <ItemContent>
+                          <Para ID="Par33">Apply the first order forward difference operator to the transformed curve <InlineEquation ID="IEq51">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq51.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$d(k)^{-Y}$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mrow>
+                                    <mi>d</mi>
+                                    <msup>
+                                      <mrow>
+                                        <mo stretchy="false">(</mo>
+                                        <mi>k</mi>
+                                        <mo stretchy="false">)</mo>
+                                      </mrow>
+                                      <mrow>
+                                        <mo>-</mo>
+                                        <mi>Y</mi>
+                                      </mrow>
+                                    </msup>
+                                  </mrow>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation> to get the “jump” statistic <InlineEquation ID="IEq52">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq52.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$J_k=d(k)^{-Y} - d(k-1)^{-Y}$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mrow>
+                                    <msub>
+                                      <mi>J</mi>
+                                      <mi>k</mi>
+                                    </msub>
+                                    <mo>=</mo>
+                                    <mi>d</mi>
+                                    <msup>
+                                      <mrow>
+                                        <mo stretchy="false">(</mo>
+                                        <mi>k</mi>
+                                        <mo stretchy="false">)</mo>
+                                      </mrow>
+                                      <mrow>
+                                        <mo>-</mo>
+                                        <mi>Y</mi>
+                                      </mrow>
+                                    </msup>
+                                    <mo>-</mo>
+                                    <mi>d</mi>
+                                    <msup>
+                                      <mrow>
+                                        <mo stretchy="false">(</mo>
+                                        <mi>k</mi>
+                                        <mo>-</mo>
+                                        <mn>1</mn>
+                                        <mo stretchy="false">)</mo>
+                                      </mrow>
+                                      <mrow>
+                                        <mo>-</mo>
+                                        <mi>Y</mi>
+                                      </mrow>
+                                    </msup>
+                                  </mrow>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation>. For practical reasons <InlineEquation ID="IEq53">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq53.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$d_{0}^{-Y}=0$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mrow>
+                                    <msubsup>
+                                      <mi>d</mi>
+                                      <mrow>
+                                        <mn>0</mn>
+                                      </mrow>
+                                      <mrow>
+                                        <mo>-</mo>
+                                        <mi>Y</mi>
+                                      </mrow>
+                                    </msubsup>
+                                    <mo>=</mo>
+                                    <mn>0</mn>
+                                  </mrow>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation> should be defined.</Para>
+                        </ItemContent>
+                      </ListItem>
+                      <ListItem>
+                        <ItemNumber>4.</ItemNumber>
+                        <ItemContent>
+                          <Para ID="Par34">For the <InlineEquation ID="IEq54">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq54.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mi>k</mi>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation> for which the <InlineEquation ID="IEq55">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq55.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$J_k$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <msub>
+                                    <mi>J</mi>
+                                    <mi>k</mi>
+                                  </msub>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation> is the largest will provide the optimal number for the clusters. The number of clusters <InlineEquation ID="IEq56">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq56.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$C =argmax_{k}\{J_k$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mrow>
+                                    <mi>C</mi>
+                                    <mo>=</mo>
+                                    <mi>a</mi>
+                                    <mi>r</mi>
+                                    <mi>g</mi>
+                                    <mi>m</mi>
+                                    <mi>a</mi>
+                                    <msub>
+                                      <mi>x</mi>
+                                      <mi>k</mi>
+                                    </msub>
+                                    <mrow>
+                                      <mo stretchy="false">{</mo>
+                                    </mrow>
+                                    <msub>
+                                      <mi>J</mi>
+                                      <mi>k</mi>
+                                    </msub>
+                                  </mrow>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation>}.</Para>
+                        </ItemContent>
+                      </ListItem>
+                    </OrderedList>
+                  </Para>
+                </Section3>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec10">
+              <Heading>Evaluation</Heading>
+              <Para ID="Par35">This section is reserved to describe the experimental setup and the results. The first part focuses on the data description, while the second part reports labeling results regarding a large, an unequilibrated image collect, a smaller but equilibrated data collection, the influence of the “jump” method on the clustering, and finally a comparison is discussed.</Para>
+              <Section2 ID="Sec11">
+                <Heading>Data description</Heading>
+                <Para ID="Par36">In our experiments we used the well-known ImageCLEFmed2012<Footnote ID="Fn2">
+                    <Para ID="Par37">
+                      <ExternalRef>
+                        <RefSource>http://www.imageclef.org/2012</RefSource>
+                        <RefTarget Address="http://www.imageclef.org/2012" TargetType="URL"/>
+                      </ExternalRef>.</Para>
+                  </Footnote> image collection. The collection contains over 300,000 biomedical images originating from the open access subset of biomedical articles hosted by PubMed Central<Superscript>®</Superscript> (PMC) repository,<Footnote ID="Fn3">
+                    <Para ID="Par38">
+                      <ExternalRef>
+                        <RefSource>http://www.ncbi.nlm.nih.gov/pmc/</RefSource>
+                        <RefTarget Address="http://www.ncbi.nlm.nih.gov/pmc/" TargetType="URL"/>
+                      </ExternalRef>.</Para>
+                  </Footnote> maintained by the U.S. National Library of Medicine. Each entry in this collection contains the full text of the paper with the adjacent figures. However, for our purpose we considered only the images and the corresponding captions. This dataset do not have any labels available. Based on human visual inspection about 80 % of the images were identified as illustrations (i.e., graphs, charts). For reference purposes, another image collection containing 7195 entries was manually annotated by a human expert.</Para>
+                <Para ID="Par39">Altogether 11 different modalities were identified: AN (angiography), EM (electron microscopy), FM (fluorescence microscopy), Illustration, Mixed (containing mixture of modalities in the same image), Photo, LM (light microscopy), CT (computer tomography), US (ultrasound), MRI (magnetic resonance imaging), and X-ray. An Unknown class was also created to label all the images not fitting the modalities listed above. We considered not to use the more refined classification hierarchy proposed by ImageCLEF (<ExternalRef>
+                    <RefSource>http://www.imageclef.org/2013/medical</RefSource>
+                    <RefTarget Address="http://www.imageclef.org/2013/medical" TargetType="URL"/>
+                  </ExternalRef>), because our main goal is not to identify the exact modality classes, but rather to find so-called meta-classes, which can further be broken down into more granular modality classes using more sophisticated features and supervised classifiers [<CitationRef CitationID="CR23">23</CitationRef>]. This image collection is rather equilibrated, containing almost similar number of samples for each modality class.</Para>
+              </Section2>
+              <Section2 ID="Sec12">
+                <Heading>Experiments</Heading>
+                <Para ID="Par40">This section reports on the results achieved by the proposed semi-automatic labeling method. First, the results achieved by the original method—not involving any optimization on the used cluster numbers—are enumerated, and are followed by the improvements caused by the “jump” method, involving an optimal number of clusters for each feature space. Finally, some time complexity results are mentioned.</Para>
+                <Section3 ID="Sec13">
+                  <Heading>Results without cluster number optimization</Heading>
+                  <Para ID="Par41">There are two reasons why we select only three features (CEDD, CLD, and word frequency) out of the fifteen [<CitationRef CitationID="CR23">23</CitationRef>]. First, these features perform individually. Second, the number of features should be low enough to control the amount of labeling occurring after the clustering process. For the first experiment we considered for the k-means 100, 200 and 300 clusters, respectively. These values, though arbitrary, are a reasonable compromise between clustering the data, and still keeping the amount of annotation work under control. Considering the three different cluster representations, this will end up in labeling 300, 600 and 900 centroids, respectively.</Para>
+                  <Para ID="Par42">Table <InternalRef RefID="Tab1">1</InternalRef> gives a general overview of the results showing the percentage of the data when unanimity (3 votes), simple majority (2 votes), and disagreement is observed between the labels coming from the three different representations clustered previously and labeled by the annotator. Even by increasing the number of clusters (<InlineEquation ID="IEq57">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq57.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>K</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>), the trend is similar, which shows that the discriminative power of the previously mentioned features is in the same range.<Table Float="Yes" ID="Tab1">
+                      <Caption Language="En">
+                        <CaptionNumber>Table 1</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>The percentage of data where there was unanimity, simple majority or disagreement among the labels assigned automatically by the labeling process</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <tgroup cols="4">
+                        <colspec align="left" colname="c1" colnum="1"/>
+                        <colspec align="left" colname="c2" colnum="2"/>
+                        <colspec align="left" colname="c3" colnum="3"/>
+                        <colspec align="left" colname="c4" colnum="4"/>
+                        <thead>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>k-Means</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>Unanim. (%)</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>Simple maj. (%)</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>Disagreement (%)</SimplePara>
+                            </entry>
+                          </row>
+                        </thead>
+                        <tbody>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>
+                                <InlineEquation ID="IEq58">
+                                  <InlineMediaObject>
+                                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq58.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                  </InlineMediaObject>
+                                  <EquationSource Format="TEX"><![CDATA[$$K =$$]]></EquationSource>
+                                  <EquationSource Format="MATHML"><![CDATA[
+                                                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                      <mrow>
+                                        <mi>K</mi>
+                                        <mo>=</mo>
+                                      </mrow>
+                                    </math><![CDATA[
+                                                    ]]></EquationSource>
+                                </InlineEquation> 100</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>59.20</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>31.87</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>8.91</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>
+                                <InlineEquation ID="IEq59">
+                                  <InlineMediaObject>
+                                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq59.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                  </InlineMediaObject>
+                                  <EquationSource Format="TEX"><![CDATA[$$K =$$]]></EquationSource>
+                                  <EquationSource Format="MATHML"><![CDATA[
+                                                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                      <mrow>
+                                        <mi>K</mi>
+                                        <mo>=</mo>
+                                      </mrow>
+                                    </math><![CDATA[
+                                                    ]]></EquationSource>
+                                </InlineEquation> 200</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>59.04</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>31.76</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>9.20</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>
+                                <InlineEquation ID="IEq60">
+                                  <InlineMediaObject>
+                                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq60.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                  </InlineMediaObject>
+                                  <EquationSource Format="TEX"><![CDATA[$$K =$$]]></EquationSource>
+                                  <EquationSource Format="MATHML"><![CDATA[
+                                                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                      <mrow>
+                                        <mi>K</mi>
+                                        <mo>=</mo>
+                                      </mrow>
+                                    </math><![CDATA[
+                                                    ]]></EquationSource>
+                                </InlineEquation> 300</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>61.01</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>30.34</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>8.65</SimplePara>
+                            </entry>
+                          </row>
+                        </tbody>
+                      </tgroup>
+                    </Table>
+                  </Para>
+                  <Para ID="Par43">While the annotation process does the labeling—by assigning a certain modality type to each image—to measure how accurately the semi-automatic annotation performs, a k-nearest neighbor (kNN) classifier is considered. The use of more complex classification methods such as support vector machines (SVM), neural networks (NN), etc., would be a net benefit, but our main goal is not to make a hard decision after the vote, but to use these newly labeled, large image collections to train more complex classifiers, which eventually could lead to higher accuracy. Table <InternalRef RefID="Tab2">2</InternalRef> shows the results using different voting schemes and different neighborhood size. For the kNN classification among the three features the CEDD feature was considered due to its discriminative power among the others. The reference points in this case are the 7195 test samples.<Table Float="Yes" ID="Tab2">
+                      <Caption Language="En">
+                        <CaptionNumber>Table 2</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Labeling accuracy of the 300,000 samples measured on 7245 samples using kNN (<InlineEquation ID="IEq61">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq61.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$k =$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mrow>
+                                    <mi>k</mi>
+                                    <mo>=</mo>
+                                  </mrow>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation> 1, 5 and 11) using those labels where unanimity (3 votes), just simple majority (2 votes) or at least a simple majority (2 or 3 votes) was observed</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <tgroup cols="5">
+                        <colspec align="left" colname="c1" colnum="1"/>
+                        <colspec align="left" colname="c2" colnum="2"/>
+                        <colspec align="left" colname="c3" colnum="3"/>
+                        <colspec align="left" colname="c4" colnum="4"/>
+                        <colspec align="left" colname="c5" colnum="5"/>
+                        <thead>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>k-Means</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>kNN</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>
+                                <InlineEquation ID="IEq62">
+                                  <InlineMediaObject>
+                                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq62.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                  </InlineMediaObject>
+                                  <EquationSource Format="TEX"><![CDATA[$$k =$$]]></EquationSource>
+                                  <EquationSource Format="MATHML"><![CDATA[
+                                                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                      <mrow>
+                                        <mi>k</mi>
+                                        <mo>=</mo>
+                                      </mrow>
+                                    </math><![CDATA[
+                                                    ]]></EquationSource>
+                                </InlineEquation> 1 (%)</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>
+                                <InlineEquation ID="IEq63">
+                                  <InlineMediaObject>
+                                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq63.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                  </InlineMediaObject>
+                                  <EquationSource Format="TEX"><![CDATA[$$k =$$]]></EquationSource>
+                                  <EquationSource Format="MATHML"><![CDATA[
+                                                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                      <mrow>
+                                        <mi>k</mi>
+                                        <mo>=</mo>
+                                      </mrow>
+                                    </math><![CDATA[
+                                                    ]]></EquationSource>
+                                </InlineEquation> 5 (%)</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>
+                                <InlineEquation ID="IEq64">
+                                  <InlineMediaObject>
+                                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq64.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                  </InlineMediaObject>
+                                  <EquationSource Format="TEX"><![CDATA[$$k =$$]]></EquationSource>
+                                  <EquationSource Format="MATHML"><![CDATA[
+                                                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                      <mrow>
+                                        <mi>k</mi>
+                                        <mo>=</mo>
+                                      </mrow>
+                                    </math><![CDATA[
+                                                    ]]></EquationSource>
+                                </InlineEquation> 11 (%)</SimplePara>
+                            </entry>
+                          </row>
+                        </thead>
+                        <tbody>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>
+                                <InlineEquation ID="IEq65">
+                                  <InlineMediaObject>
+                                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq65.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                  </InlineMediaObject>
+                                  <EquationSource Format="TEX"><![CDATA[$$K =$$]]></EquationSource>
+                                  <EquationSource Format="MATHML"><![CDATA[
+                                                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                      <mrow>
+                                        <mi>K</mi>
+                                        <mo>=</mo>
+                                      </mrow>
+                                    </math><![CDATA[
+                                                    ]]></EquationSource>
+                                </InlineEquation> 100</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>3 votes</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>40.00</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>39.36</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>38.12</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1"/>
+                            <entry align="left" colname="c2">
+                              <SimplePara>2 votes</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>45.53</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>46.32</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>46.69</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1"/>
+                            <entry align="left" colname="c2">
+                              <SimplePara>2 or 3 votes</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>46.10</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>47.10</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>47.29</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>
+                                <InlineEquation ID="IEq66">
+                                  <InlineMediaObject>
+                                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq66.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                  </InlineMediaObject>
+                                  <EquationSource Format="TEX"><![CDATA[$$K =$$]]></EquationSource>
+                                  <EquationSource Format="MATHML"><![CDATA[
+                                                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                      <mrow>
+                                        <mi>K</mi>
+                                        <mo>=</mo>
+                                      </mrow>
+                                    </math><![CDATA[
+                                                    ]]></EquationSource>
+                                </InlineEquation> 200</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>3 votes</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>48.14</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>47.55</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>46.73</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1"/>
+                            <entry align="left" colname="c2">
+                              <SimplePara>2 votes</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>43.02</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>43.67</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>44.46</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1"/>
+                            <entry align="left" colname="c2">
+                              <SimplePara>2 or 3 votes</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>44.07</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>45.45</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>45.73</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>
+                                <InlineEquation ID="IEq67">
+                                  <InlineMediaObject>
+                                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq67.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                  </InlineMediaObject>
+                                  <EquationSource Format="TEX"><![CDATA[$$K =$$]]></EquationSource>
+                                  <EquationSource Format="MATHML"><![CDATA[
+                                                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                      <mrow>
+                                        <mi>K</mi>
+                                        <mo>=</mo>
+                                      </mrow>
+                                    </math><![CDATA[
+                                                    ]]></EquationSource>
+                                </InlineEquation> 300</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>3 votes</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>49.95</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>39.36</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>38.12</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1"/>
+                            <entry align="left" colname="c2">
+                              <SimplePara>2 votes</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>47.32</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>48.14</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>47.96</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1"/>
+                            <entry align="left" colname="c2">
+                              <SimplePara>2 or 3 votes</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>48.26</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>49.20</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>49.06</SimplePara>
+                            </entry>
+                          </row>
+                        </tbody>
+                      </tgroup>
+                    </Table>
+                  </Para>
+                  <Para ID="Par44">The type of the vote invoked in the final decision for the label can be considered as a kind of certainty, a confidence measure in the results. If three different “experts” vote for the same label, it is more likely to make the right decision, as it would be in case of just two similar votes. Apparently, the number of clusters does not have huge influence on the results, but a certain minimum number of clusters is necessary to assure that different types of modalities are not clustered together. Considering unanimity vote and large cluster number (<InlineEquation ID="IEq68">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq68.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K =$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>K</mi>
+                            <mo>=</mo>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> 300), the results can go up to 49.95 %. The more cluster centers are involved, the more precise the label inferring process is, hence the voting just boost the scores.</Para>
+                  <Para ID="Par45">For a better understanding of the results, a classwise recognition is also reported in Table <InternalRef RefID="Tab3">3</InternalRef>. The so-called Unknown class serves to gather the images not fitting in any of the other classes. After a thorough analysis of the different cluster labels during the manual labeling, we realized that cluster representatives labeled as X-ray appeared for the CEDD and modality term frequency features only, therefore, none of the X-ray classes got voted. A similar situation was noticed for the US and AN classes too. While during the manual labeling some cluster centers were labeled as Mixed, none of the test samples had been annotated as such, therefore, no data were labeled by the process.</Para>
+                  <Para ID="Par46">As mentioned previously in Sect. <InternalRef RefID="Sec11">4.1</InternalRef>, the analyzed image collection is not balanced. Approximately 80 % of the data belongs to the Illustration class, which highly influences the clustering results, especially the k-means which tends to form uniform clusters. A more balanced data set would produce more representatives clusters, and clusters such as AN, US, X-ray would also be present in some clusters, and the chance to correctly label images belonging to these classes would increase. However, the precondition for a proper clustering also depends on the discriminative power of the feature spaces considered during the partitioning.<Table Float="Yes" ID="Tab3">
+                      <Caption Language="En">
+                        <CaptionNumber>Table 3</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Modality recognition accuracy including the number of recognized and the number of total samples for <InlineEquation ID="IEq69">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq69.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$K =$$]]></EquationSource>
+                              <EquationSource Format="MATHML"><![CDATA[
+                                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                                  <mrow>
+                                    <mi>K</mi>
+                                    <mo>=</mo>
+                                  </mrow>
+                                </math><![CDATA[
+                                            ]]></EquationSource>
+                            </InlineEquation> 300 using 1NN classifier on CEDD features</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <tgroup cols="2">
+                        <colspec align="left" colname="c1" colnum="1"/>
+                        <colspec align="left" colname="c2" colnum="2"/>
+                        <thead>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Modality</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>Accuracy [recognized/total]</SimplePara>
+                            </entry>
+                          </row>
+                        </thead>
+                        <tbody>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>AN</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>0 % [0/268]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>EM</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>32.18 % [28/87]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>FM</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>47.06 % [32/68]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Illustration</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>87.97 % [1353/1538]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>LM</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>68.54 % [1684/2457]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Mix</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>0 % [0/0]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Photo</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>13.00 % [39/300]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>CT</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>46.30 % [332/717]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>US</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>0 % [0/380]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>MRI</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>54.55 % [126/231]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>X-ray</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>0 % [0/1122]</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Unknown</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c2">
+                              <SimplePara>0 % [0/77]</SimplePara>
+                            </entry>
+                          </row>
+                        </tbody>
+                      </tgroup>
+                    </Table>
+                  </Para>
+                  <Para ID="Par47">In the Unknown class, the variability of images is high, which accounts for the low performance achieved during the recognition. The relatively high-performing classes include modalities such as EM, FM, Illustration, LM, Photos and CT. The magnetic resonance imaging (MRI) class also performs rather well. However, this success is due to the discriminative power of the features used to represent the different views. The more compact the clustering, the better the chances to label them correctly; hence higher the chance to get a unanimous vote for each image in particular.</Para>
+                  <Para ID="Par48">The confusion matrix analysis also supports the previous theory. Large confusions can be observed for classes like AN, X-ray, LM, and Photo, as they are confused with the Illustration class. The LM class is often confused with the Photo class as well. The X-ray images are often recognized as being CT or MRI images. While in the first case the artifact is due to the unbalanced nature of the data, as the Illustration class is over-represented in the collection, in the latter case the X-ray, MRI and CT images share many visual similarities, thereby limiting the ability of features to separate such classes.</Para>
+                  <Para ID="Par49">For comparison, we considered the recent work reported by Rahman et al. [<CitationRef CitationID="CR15">15</CitationRef>]. In their experiments, the number of modalities is slightly different, involving 2, 3, 4, 8, 14 classes, respectively. Their best score (63.2 %) outperforms our score, but is to be noted the fact that only for the multimodal setup. 15 different features were involved considering supervised learning necessitating a tremendous amount of labeled data, which we want to avoid.</Para>
+                  <Para ID="Par50">To quantify the quality of our results, we conducted a side experiment involving the 7195 labeled images. We considered these ones as being unlabeled, and we run the labeling algorithm on these images, following the process described in Sect. <InternalRef RefID="Sec5">3</InternalRef>. The images were first clustered, and than the closest samples to the cluster centers were labeled (the label for each sample was known), and the labels were propagated through each cluster. Using unanimity vote, and only 150 annotations (<InlineEquation ID="IEq70">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq70.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K =$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>K</mi>
+                            <mo>=</mo>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> 50), 60.44 % of the labels were correct. For larger <InlineEquation ID="IEq71">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq71.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>K</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> values such as <InlineEquation ID="IEq72">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq72.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K =$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>K</mi>
+                            <mo>=</mo>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> 500, which involve 1500 label assignments the accuracy goes up to 69.26 %, results which outperform even the best scores reported by Rahman et al. [<CitationRef CitationID="CR15">15</CitationRef>]. Similar results are reported by You et al. [<CitationRef CitationID="CR23">23</CitationRef>] involving more features and definitely more accurate labels. However, one fact should be noted, this set is rather balanced, therefore, the k-means clustering can form uniform clusters without being influenced by larger classes, which usually take over during the clustering. In Fig. <InternalRef RefID="Fig4">4</InternalRef> the different results in function of the samples labeled by the expert is reported.<Figure Category="Standard" Float="Yes" ID="Fig3">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 3</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>The results of the “jump” method for different features</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO4">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_78_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                    <Figure Category="Standard" Float="Yes" ID="Fig4">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 4</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Labeling accuracy as a function of the number of annotations for 7245 images (balanced)</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO5">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_78_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                </Section3>
+                <Section3 ID="Sec14">
+                  <Heading>Results with cluster number optimization</Heading>
+                  <Para ID="Par51">Considering the “jump” method, the different <InlineEquation ID="IEq73">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq73.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$d(k)$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>d</mi>
+                            <mo stretchy="false">(</mo>
+                            <mi>k</mi>
+                            <mo stretchy="false">)</mo>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> value trends are reported in Fig. <InternalRef RefID="Fig3">3</InternalRef>. Taking into account the results reported in Table <InternalRef RefID="Tab2">2</InternalRef>, we generated the <InlineEquation ID="IEq74">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq74.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$d(k)$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>d</mi>
+                            <mo stretchy="false">(</mo>
+                            <mi>k</mi>
+                            <mo stretchy="false">)</mo>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> values only for <InlineEquation ID="IEq75">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq75.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$k=1 \ldots 300$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>k</mi>
+                            <mo>=</mo>
+                            <mn>1</mn>
+                            <mo>…</mo>
+                            <mn>300</mn>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>, considering this a compromise between cluster purity and time to perform the k-means for different <InlineEquation ID="IEq76">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq76.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>k</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> values.
+</Para>
+                  <Para ID="Par52">Using the method, we identified the <InlineEquation ID="IEq77">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq77.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$k=140$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>k</mi>
+                            <mo>=</mo>
+                            <mn>140</mn>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> (CLD), <InlineEquation ID="IEq78">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq78.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$k=300$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>k</mi>
+                            <mo>=</mo>
+                            <mn>300</mn>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> (CEDD), and <InlineEquation ID="IEq79">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq79.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$k=130$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>k</mi>
+                            <mo>=</mo>
+                            <mn>130</mn>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> (word frequency) as being the ideal cluster setup that maximizes the difference between two consecutive <InlineEquation ID="IEq80">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq80.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$d(k)$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>d</mi>
+                            <mo stretchy="false">(</mo>
+                            <mi>k</mi>
+                            <mo stretchy="false">)</mo>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> values for the different feature spaces. For input we considered the same 7195 labeled images. However, instead of arbitrarily selecting the cluster numbers, we considered the clustering procedure using the previously mentioned cluster setups. Once the feature spaces were clustered into 140, 300 and 130 clusters, respectively, we propagated the labels through each cluster, and invoked unanimity vote, which improved the previously mentioned scores by 3.52 %, ending up with a labeling accuracy of 72.78 %. This improvement proves that instead of using arbitrary number of clusters in the process, it is worth estimating precisely the most suitable cluster representation which eventually leads to higher accuracy.</Para>
+                </Section3>
+                <Section3 ID="Sec15">
+                  <Heading>Results concerning time complexity</Heading>
+                  <Para ID="Par53">To evaluate the time gain provided by the method, we considered the time spent to annotate the different cluster centers. In total some 1700 images were annotated for the different cluster setups (<InlineEquation ID="IEq81">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq81.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$k=100, 200, 300$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>k</mi>
+                            <mo>=</mo>
+                            <mn>100</mn>
+                            <mo>,</mo>
+                            <mn>200</mn>
+                            <mo>,</mo>
+                            <mn>300</mn>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>). In average 14 minutes was necessary for an expert to label 100 images. Considering the ImageCLEFmed2012 data collection, containing over 300,000 images such an annotation task would take about 700 h for an expert to manually go through the whole collection, not to mention the costs of such a task. Considering our method, this process can be reduced to less than 3 h, involving the unsupervised clustering, the expert labeling of the centroids, and the voting which follows.</Para>
+                </Section3>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec16">
+              <Heading>Conclusion</Heading>
+              <Para ID="Par54">The annotation method proposed in this paper is a generic solution to label large data collections involving limited human expert knowledge. The application into the field of medical image modality is important as nowadays, beside classical text queries more and more visual searches are performed.</Para>
+              <Para ID="Par55">The method is based on multi-view learning, where the images are projected in different feature spaces. For this purpose we considered two visual features, and a textual one based on the caption of the image. The different images projected in different feature spaces are clustered using k-means, and only the cluster centers (closest element to the centroid) are annotated by a human expert. The labels are propagated through each cluster, and the final label for a particular image is assigned based on a voting scheme. To properly estimate the number of clusters used in our experiments, we implemented the “jump” method.</Para>
+              <Para ID="Par56">The experiments conducted on a large medical image collection showed promising results. Out of 300,000 images 149,850 images (49.95 %) were labeled correctly involving only 900 labels provided by the annotator. While labeling the complete data collection by an expert would take some 700 h of work, our method allows the task to be completed in <InlineEquation ID="IEq82">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2015_78_Article_IEq82.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$<$$]]></EquationSource>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mo>&lt;</mo>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                </InlineEquation>3 h, though less accurately. The experiments conducted on a reduced but balanced collection show the huge potential of the method reaching high scores up to 69.26 % accuracy. When instead of considering arbitrary number of clusters, the cluster numbers were estimated in a data-driven manner using the “jump” method, the results for the equilibrated data collection goes up to 72.78 %. These results outperform even the best performances provided by complex, supervised methods which need a considerable amount of training material.</Para>
+              <Para ID="Par57">The ultimate goal of our strategy is not to classify the modalities, but rather to create a large data collection which admittedly will contain noise. With such large collection we hope to train more sophisticated and complex supervised classifiers, which would profit out of the visual and textual features alike. These supervised classification methods with a multitude of labeled samples provided by our method, will produce higher and reliable scores in the medical image modality detection.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2015_Article_78.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2015_78_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <Heading>Acknowledgments</Heading>
+              <SimplePara>This research is supported by the Intramural Research Program of the National Institutes of Health (NIH), National Library of Medicine, and Lister Hill National Center for Biomedical Communications (LHNCBC).</SimplePara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>Chatzichristofis SA, Boutalis YS (2008) Cedd: color and edge directivity descriptor: a compact descriptor for image indexing and retrieval. In: Proceedings of the 6th international conference on computer vision systems, ICVS’08Springer. Berlin, Heidelberg, pp 312–322</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>Foundation AS. <ExternalRef>
+                    <RefSource>http://lucene.apache.org/core/index.html</RefSource>
+                    <RefTarget Address="http://lucene.apache.org/core/index.html" TargetType="URL"/>
+                  </ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Fritzke</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ChapterTitle Language="En">A growing neural gas network learns topologies</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Tesauro</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>DS</Initials>
+                    <FamilyName>Touretzky</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>TK</Initials>
+                    <FamilyName>Leen</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Advances in neural information processing systems</BookTitle>
+                  <NumberInSeries>7</NumberInSeries>
+                  <PublisherName>MIT Press</PublisherName>
+                  <PublisherLocation>Cambridge</PublisherLocation>
+                  <FirstPage>625</FirstPage>
+                  <LastPage>632</LastPage>
+                </BibChapter>
+                <BibUnstructured>Fritzke B (1995) A growing neural gas network learns topologies. In: Tesauro G, Touretzky DS, Leen TK (eds) Advances in neural information processing systems, vol 7. MIT Press, Cambridge, pp 625–632</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>He</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AH</Initials>
+                    <FamilyName>Tan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CL</Initials>
+                    <FamilyName>Tan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SY</Initials>
+                    <FamilyName>Sung</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <BookTitle>On quantitative evaluation of clustering systems</BookTitle>
+                  <PublisherName>Kluwer Academic Publishers</PublisherName>
+                  <PublisherLocation>Boston</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>He J, Tan AH, Tan CL, Sung SY (2003) On quantitative evaluation of clustering systems. Kluwer Academic Publishers, Boston</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AK</Initials>
+                    <FamilyName>Jain</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Data clustering: 50 years beyond k-means</ArticleTitle>
+                  <JournalTitle>Pattern Recogn Lett</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>651</FirstPage>
+                  <LastPage>666</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patrec.2009.09.011</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jain AK (2010) Data clustering: 50 years beyond k-means. Pattern Recogn Lett 31(8):651–666</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CE</Initials>
+                    <FamilyName>Kahn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DL</Initials>
+                    <FamilyName>Rubin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Automated semantic indexing of figure captions to improve radiology image retrieval</ArticleTitle>
+                  <JournalTitle>J Am Med Inform Assoc</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>380</FirstPage>
+                  <LastPage>386</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1197/jamia.M2945</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kahn CE, Rubin DL (2009) Automated semantic indexing of figure captions to improve radiology image retrieval. J Am Med Inform Assoc 16:380–386</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Kohonen T, Schroeder MR, Huang TS (eds) (2001) Self-organizing maps, 3rd edn. Springer-Verlag New York Inc, Secaucus. doi: <ExternalRef><RefSource>10.1007/978-3-642-56927-2</RefSource><RefTarget TargetType="DOI" Address="10.1007/978-3-642-56927-2"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Krishnamachari</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Yamada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Abdel-Mottaleb</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Kasutani</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ChapterTitle Language="En">Multimedia content filtering, browsing, and matching using MPEG-7 compact color descriptors</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Laurini</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Advances in visual information systems</BookTitle>
+                  <SeriesTitle Language="En">Lecture notes in computer science</SeriesTitle>
+                  <NumberInSeries>1929</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Berlin Heidelberg</PublisherLocation>
+                  <FirstPage>200</FirstPage>
+                  <LastPage>211</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/3-540-40053-2_18</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Krishnamachari S, Yamada A, Abdel-Mottaleb M, Kasutani E (2000) Multimedia content filtering, browsing, and matching using MPEG-7 compact color descriptors. In: Laurini R (ed) Advances in visual information systems, vol 1929., Lecture notes in computer scienceSpringer, Berlin Heidelberg, pp 200–211</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>LI</Initials>
+                    <FamilyName>Kuncheva</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>Combining pattern classifiers: methods and algorithms</BookTitle>
+                  <PublisherName>Wiley-Interscience</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/0471660264</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Kuncheva LI (2004) Combining pattern classifiers: methods and algorithms. Wiley-Interscience, New York</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Mouchère</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Viard-Gaudin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">An annotation assistance system using an unsupervised codebook composed of handwritten graphical multi-stroke symbols</ArticleTitle>
+                  <JournalTitle>Pattern Recogn Lett</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>46</FirstPage>
+                  <LastPage>57</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patrec.2012.11.018</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Li J, Mouchère H, Viard-Gaudin C (2014) An annotation assistance system using an unsupervised codebook composed of handwritten graphical multi-stroke symbols. Pattern Recogn Lett 35:46–57</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Montage Healthcare Solutions I, Yottalook. <ExternalRef>
+                    <RefSource>http://www.yottalook.com/</RefSource>
+                    <RefTarget Address="http://www.yottalook.com/" TargetType="URL"/>
+                  </ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Müller H, de Herrera AGS, Kalpathy-Cramer J, Demner-Fushman D, Antani S, Eggel I (2012) Overview of the ImageCLEF 2012 medical image retrieval and classification tasks</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Müller H, Kalpathy-Cramer J, Demner-Fushman D, Antani S (2012) Creating a classification of image types in the medical literature for visual categorization. In: SPIE medical imaging</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Park DK, Jeon YS, Won CS (2000) Efficient use of local edge histogram descriptor. In:Proceedings of the 2000 ACM workshops on multimedia., Multimedia ’00ACM, New York, NY, USA, pp 51–54</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Rahman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>You</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Simpson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SK</Initials>
+                    <FamilyName>Antani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Demner-Fushman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GR</Initials>
+                    <FamilyName>Thoma</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Multimodal biomedical image retrieval using hierarchical classification and modality fusion</ArticleTitle>
+                  <JournalTitle>Int J Multimed Inform Retriev</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>159</FirstPage>
+                  <LastPage>173</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s13735-013-0038-4</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rahman M, You D, Simpson M, Antani SK, Demner-Fushman D, Thoma GR (2013) Multimodal biomedical image retrieval using hierarchical classification and modality fusion. Int J Multimed Inform Retriev 2(3):159–173</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Richarz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Vajda</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Grzeszick</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GA</Initials>
+                    <FamilyName>Fink</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Semi-supervised learning for character recognition in historical archive documents</ArticleTitle>
+                  <JournalTitle>Pattern Recogn</JournalTitle>
+                  <VolumeID>47</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>1011</FirstPage>
+                  <LastPage>1020</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patcog.2013.07.013</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Richarz J, Vajda S, Grzeszick R, Fink GA (2014) Semi-supervised learning for character recognition in historical archive documents. Pattern Recogn 47(3):1011–1020</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Rokach</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <BookTitle>Pattern classification using ensemble methods, series in machine perception and artificial intelligence</BookTitle>
+                  <PublisherName>World Scientific Publishing Company</PublisherName>
+                  <PublisherLocation>Singapore</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Rokach L (2009) Pattern classification using ensemble methods, series in machine perception and artificial intelligence. World Scientific Publishing Company, Singapore</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>Settles B (2009) Active learning literature survey. Tech. Rep. 1648, University of Wisconsin-Madison</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibUnstructured>Simpson MS, Rahman MM, Phadnis S, Apostolova E, Demner-Fushman D, Antani S, Thoma GR (2011) Text and content-based approaches to image modality classification and retrieval for the imageclef 2011 medical retrieval track. In: CLEF (Notebook Papers/Labs/Workshop)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CA</Initials>
+                    <FamilyName>Sugar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GM</Initials>
+                    <FamilyName>James</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Finding the number of clusters in a dataset: an information-theoretic approach</ArticleTitle>
+                  <JournalTitle>J Am Stat Assoc</JournalTitle>
+                  <VolumeID>98</VolumeID>
+                  <IssueID>463</IssueID>
+                  <FirstPage>750</FirstPage>
+                  <LastPage>763</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1198/016214503000000666</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1046.62064</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2012330</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sugar CA, James GM (2003) Finding the number of clusters in a dataset: an information-theoretic approach. J Am Stat Assoc 98(463):750–763</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AH</Initials>
+                    <FamilyName>Toselli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Romero</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Pastor</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Vidal</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Multimodal interactive transcription of text images</ArticleTitle>
+                  <JournalTitle>Pattern Recogn</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>1814</FirstPage>
+                  <LastPage>1825</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patcog.2009.11.019</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1191.68603</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Toselli AH, Romero V, Pastor M, Vidal E (2010) Multimodal interactive transcription of text images. Pattern Recogn 43(5):1814–1825</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Vajda S, Junaidi A, Fink GA (2011) A semi-supervised ensemble learning approach for character labeling with minimal human effort. In: ICDAR, pp 259–263 (2011)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibUnstructured>You D, Rahman MM, Antani S, Demner-Fushman D, Thoma GR (2013) Text- and content-based biomedical image modality classification. In: Proceedings of SPIE medical imaging, pp 86740L–86740L–8. doi: <ExternalRef><RefSource>10.1117/12.2007932</RefSource><RefTarget TargetType="DOI" Address="10.1117/12.2007932"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibUnstructured>Zhou ZH (2009) When semi-supervised learning meets ensemble learning. In: MCS, pp 529–538 (2009)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

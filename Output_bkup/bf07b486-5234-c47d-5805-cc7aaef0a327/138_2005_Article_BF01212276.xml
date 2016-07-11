@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+</PublisherInfo>
+<Journal>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>138</JournalID>
+<JournalPrintISSN>0932-8092</JournalPrintISSN>
+<JournalElectronicISSN>1432-1769</JournalElectronicISSN>
+<JournalTitle>Machine Vision and Applications</JournalTitle>
+<JournalSubTitle>An International Journal</JournalSubTitle>
+<JournalAbbreviatedTitle>Machine Vis. Apps.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing</JournalSubject>
+        <JournalSubject Type="Secondary">Communications Engineering, Networks</JournalSubject>
+      </JournalSubjectGroup>
+</JournalInfo>
+<Volume>
+<VolumeInfo VolumeType="Regular" TocLevels="0">
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<Issue IssueType="Regular">
+<IssueInfo TocLevels="0">
+<IssueIDStart>2</IssueIDStart>
+<IssueIDEnd>2</IssueIDEnd>
+<IssueArticleCount>6</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<DateString>1988</DateString>
+<Year>1988</Year>
+<Month>6</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<Article ID="Art4">
+<ArticleInfo Language="En" ArticleType="OriginalPaper" NumberingStyle="Unnumbered" TocLevels="0" ContainsESM="No">
+<ArticleID>BF01212276</ArticleID>
+<ArticleDOI>10.1007/BF01212276</ArticleDOI>
+<ArticleSequenceNumber>4</ArticleSequenceNumber>
+<ArticleTitle Language="En">Model-based estimation techniques for 3-D reconstruction from projections</ArticleTitle>
+<ArticleFirstPage>115</ArticleFirstPage>
+<ArticleLastPage>126</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>2005</Year>
+<Month>2</Month>
+<Day>8</Day>
+</RegistrationDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+<ArticleContext>
+<JournalID>138</JournalID>
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<IssueIDStart>2</IssueIDStart>
+<IssueIDEnd>2</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<ArticleHeader>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Yoram</GivenName>
+<FamilyName>Bresler</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff2">
+<AuthorName DisplayOrder="Western">
+<GivenName>Jeffrey</GivenName>
+<GivenName>A.</GivenName>
+<FamilyName>Fessler</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff2">
+<AuthorName DisplayOrder="Western">
+<GivenName>Albert</GivenName>
+<FamilyName>Macovski</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgDivision>Coordinated Science Laboratory</OrgDivision>
+<OrgName>University of Illinois at Urbana-Champaign</OrgName>
+<OrgAddress>
+<Postcode>61821</Postcode>
+<City>Urbana</City>
+<State>IL</State>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="Aff2">
+<OrgDivision>Information Systems Laboratory, Department of Electrical Engineering</OrgDivision>
+<OrgName>Stanford University</OrgName>
+<OrgAddress>
+<Postcode>94305</Postcode>
+<City>Stanford</City>
+<State>CA</State>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<Abstract ID="Abs1" Language="En">
+<Heading>Abstract</Heading>
+<Para>A parametric estimation approach to reconstruction from projections with incomplete and very noisy data is described. Embedding prior knowledge about “objects” in the probed domain and about the data acquisition process into stochastic dynamic models, we transform the reconstruction problem into a computationally challenging nonlinear state-estimation problem, where the objects' parametrized descriptions are to be directly estimated from the projection data. This paper is a review in a common framework and a comparative study of two distinct algorithms which were developed recently for the solution of this problem. The first, is an approximate, globally optimal minimum-meansquare-error recursive algorithm. The second is a hierarchical suboptimal Bayesian algorithm. Simulation examples demonstrate accurate reconstructions with as few as four views in a 135∘ sector, at an average signal to noise ratio of 0.6.</Para>
+</Abstract>
+<KeywordGroup Language="En">
+<Heading>Key words</Heading>
+<Keyword>3D tomography</Keyword>
+<Keyword>incomplete projections</Keyword>
+<Keyword>Bayesian estimation</Keyword>
+<Keyword>stochastic modeling</Keyword>
+</KeywordGroup>
+<ArticleNote Type="Misc">
+<SimplePara>This work was supported by the National Institute of Health contract NO1-38045, by the National Science Foundation contract ECS-8213959, and General Electric contract 22-84.</SimplePara>
+</ArticleNote>
+<ArticleNote Type="Misc">
+<SimplePara>Supported by a National Science Foundation Graduate Fellowship.</SimplePara>
+</ArticleNote>
+</ArticleHeader>
+<BodyRef FileRef="BodyRef/PDF/138_2005_Article_BF01212276.pdf" TargetType="PDF"/>
+<ArticleBackmatter>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<BibBook>
+<BibAuthorName>
+<Initials>DH</Initials>
+<FamilyName>Ballard</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CM</Initials>
+<FamilyName>Brown</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<BookTitle>Computer vision</BookTitle>
+<PublisherName>Prentice Hall</PublisherName>
+<PublisherLocation>Englewood Cliffs, NJ</PublisherLocation>
+</BibBook>
+<BibUnstructured>Ballard, DH, Brown CM (1982) Computer vision. Prentice Hall, Englewood Cliffs, NJ</BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<BibUnstructured>Binford TO (1971) Visual perception by computer. IEEE Conf. on Systems and Controls, Miami, FL</BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<BibArticle>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Bloch</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JK</Initials>
+<FamilyName>Udupa</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">Application of computerized tomography to radiation therapy and surgical planning</ArticleTitle>
+<JournalTitle>Proceedings of the IEEE</JournalTitle>
+<VolumeID>71</VolumeID>
+<FirstPage>351</FirstPage>
+<LastPage>355</LastPage>
+</BibArticle>
+<BibUnstructured>Bloch P, Udupa JK (1983) Application of computerized tomography to radiation therapy and surgical planning. Proceedings of the IEEE 71: 351–355</BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<BibUnstructured>Bresler Y (1985) Model based estimation techniques for 3-D reconstruction from projections. Ph.D. Thesis, Department of EE, Stanford University</BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<BibUnstructured>Bresler Y, Kailath T (1987) Tracking of shift and shape parameters. Accepted for publication, IEEE Trans. Aut. Cont.</BibUnstructured>
+</Citation>
+<Citation ID="CR6">
+<BibUnstructured>Bresler Y, Macovski A (1984a) Estimation of 3-D shape of blood vessels from x-ray images. Proceedings of the IEEE Computer Society International Symposium on Medical Images and Icons, Arlington, VA: 251–258</BibUnstructured>
+</Citation>
+<Citation ID="CR7">
+<BibArticle>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Bresler</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Macovski</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">A hierarchical Bayesian approach to reconstruction from projections of a multiple object 3-D scene</ArticleTitle>
+<JournalTitle>Proceedings of the 7th International Conference on Pattern Recognition, Montreal, Canada</JournalTitle>
+<VolumeID>1</VolumeID>
+<FirstPage>455</FirstPage>
+<LastPage>457</LastPage>
+</BibArticle>
+<BibUnstructured>Bresler Y, Macovski A (1984b) A hierarchical Bayesian approach to reconstruction from projections of a multiple object 3-D scene. Proceedings of the 7th International Conference on Pattern Recognition, Montreal, Canada. 1: 455–457</BibUnstructured>
+</Citation>
+<Citation ID="CR8">
+<BibArticle>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Bresler</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Macovski</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">3-D reconstruction from projections with incomplete and noisy data by object Estimation</ArticleTitle>
+<JournalTitle>IEEE Transactions Acoustic Speech Signal Processing</JournalTitle>
+<VolumeID>ASSP-35</VolumeID>
+<FirstPage>1139</FirstPage>
+<LastPage>1152</LastPage>
+</BibArticle>
+<BibUnstructured>Bresler Y, Macovski A (1987) 3-D reconstruction from projections with incomplete and noisy data by object Estimation. IEEE Transactions Acoustic Speech Signal Processing ASSP-35: 1139–1152</BibUnstructured>
+</Citation>
+<Citation ID="CR9">
+<BibBook>
+<BibAuthorName>
+<Initials>DR</Initials>
+<FamilyName>Brillinger</FamilyName>
+</BibAuthorName>
+<Year>1980</Year>
+<BookTitle>Time series<Emphasis Type="Italic">Data analysis and theory</Emphasis>
+</BookTitle>
+<PublisherName>Holden-Day</PublisherName>
+<PublisherLocation>San Francisco</PublisherLocation>
+</BibBook>
+<BibUnstructured>Brillinger DR (1980) Time series<Emphasis Type="Italic">Data analysis and theory</Emphasis>. Holden-Day, San Francisco</BibUnstructured>
+</Citation>
+<Citation ID="CR10">
+<BibBook>
+<BibAuthorName>
+<Initials>SR</Initials>
+<FamilyName>Deans</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<BookTitle>The radon transform and some of its applications</BookTitle>
+<PublisherName>Wiley</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Deans SR (1984) The radon transform and some of its applications. Wiley, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR11">
+<BibArticle>
+<BibAuthorName>
+<Initials>WA</Initials>
+<FamilyName>Edelstein</FamilyName>
+</BibAuthorName>
+<Etal/>
+<Year>1983</Year>
+<ArticleTitle Language="En">Signal, noise, and contrast in NMR imaging</ArticleTitle>
+<JournalTitle>Journal of Computer Assisted Tomography</JournalTitle>
+<VolumeID>7</VolumeID>
+<FirstPage>391</FirstPage>
+<LastPage>401</LastPage>
+</BibArticle>
+<BibUnstructured>Edelstein WA et al (1983) Signal, noise, and contrast in NMR imaging. Journal of Computer Assisted Tomography 7: 391–401</BibUnstructured>
+</Citation>
+<Citation ID="CR12">
+<BibArticle>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Gordon</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>GT</Initials>
+<FamilyName>Herman</FamilyName>
+</BibAuthorName>
+<Year>1974</Year>
+<ArticleTitle Language="En">Three-dimensional reconstruction from projections: A review of algorithms</ArticleTitle>
+<JournalTitle>Int. Rev. Cytol.</JournalTitle>
+<VolumeID>38</VolumeID>
+<FirstPage>111</FirstPage>
+<LastPage>151</LastPage>
+</BibArticle>
+<BibUnstructured>Gordon R, Herman GT (1974) Three-dimensional reconstruction from projections: A review of algorithms. Int. Rev. Cytol. 38: 111–151</BibUnstructured>
+</Citation>
+<Citation ID="CR13">
+<BibArticle>
+<BibAuthorName>
+<Initials>KM</Initials>
+<FamilyName>Hanson</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>GW</Initials>
+<FamilyName>Wecksung</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">Bayesian approach to limited-angle reconstruction in computed tomography</ArticleTitle>
+<JournalTitle>Journal of Optical Society of America</JournalTitle>
+<VolumeID>73</VolumeID>
+<FirstPage>1501</FirstPage>
+<LastPage>1509</LastPage>
+</BibArticle>
+<BibUnstructured>Hanson KM, Wecksung GW (1983) Bayesian approach to limited-angle reconstruction in computed tomography. Journal of Optical Society of America 73: 1501–1509</BibUnstructured>
+</Citation>
+<Citation ID="CR14">
+<BibBook>
+<BibAuthorName>
+<Initials>GT</Initials>
+<FamilyName>Herman</FamilyName>
+</BibAuthorName>
+<Year>1980</Year>
+<BookTitle>Image reconstruction from projections</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Herman GT (1980) Image reconstruction from projections. Academic Press, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR15">
+<BibBook>
+<BibAuthorName>
+<Initials>AH</Initials>
+<FamilyName>Jazwinski</FamilyName>
+</BibAuthorName>
+<Year>1970</Year>
+<BookTitle>Stochastic processes and filtering theory</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Jazwinski AH (1970) Stochastic processes and filtering theory. Academic Press, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR16">
+<BibArticle>
+<BibAuthorName>
+<Initials>AC</Initials>
+<FamilyName>Kak</FamilyName>
+</BibAuthorName>
+<Year>1979</Year>
+<ArticleTitle Language="En">Computerized tomography with X-ray, emission, and ultrasound sources</ArticleTitle>
+<JournalTitle>Proceedings of the IEEE</JournalTitle>
+<VolumeID>67</VolumeID>
+<FirstPage>1245</FirstPage>
+<LastPage>1272</LastPage>
+</BibArticle>
+<BibUnstructured>Kak AC (1979) Computerized tomography with X-ray, emission, and ultrasound sources. Proceedings of the IEEE 67: 1245–1272</BibUnstructured>
+</Citation>
+<Citation ID="CR17">
+<BibArticle>
+<BibAuthorName>
+<Initials>CL</Initials>
+<FamilyName>Morefield</FamilyName>
+</BibAuthorName>
+<Year>1977</Year>
+<ArticleTitle Language="En">Applications of 0-1 Integer Programming to multitarget tracking problems</ArticleTitle>
+<JournalTitle>IEEE Trans Aut. Cont.</JournalTitle>
+<VolumeID>AC-22</VolumeID>
+<FirstPage>302</FirstPage>
+<LastPage>312</LastPage>
+</BibArticle>
+<BibUnstructured>Morefield CL (1977) Applications of 0-1 Integer Programming to multitarget tracking problems. IEEE Trans Aut. Cont. AC-22: 302–312</BibUnstructured>
+</Citation>
+<Citation ID="CR18">
+<BibArticle>
+<BibAuthorName>
+<Initials>W</Initials>
+<FamilyName>Munk</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>C</Initials>
+<FamilyName>Wunsch</FamilyName>
+</BibAuthorName>
+<Year>1979</Year>
+<ArticleTitle Language="En">Ocean acoustic tomography: A scheme for large scale monitoring</ArticleTitle>
+<JournalTitle>Deep Sea Research</JournalTitle>
+<VolumeID>26A</VolumeID>
+<FirstPage>123</FirstPage>
+<LastPage>161</LastPage>
+</BibArticle>
+<BibUnstructured>Munk W, Wunsch C (1979) Ocean acoustic tomography: A scheme for large scale monitoring. Deep Sea Research 26A: 123–161</BibUnstructured>
+</Citation>
+<Citation ID="CR19">
+<BibArticle>
+<BibAuthorName>
+<Initials>AK</Initials>
+<FamilyName>Louis</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Natterer</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">Mathematical problems of computerized tomography</ArticleTitle>
+<JournalTitle>Proceedings of the IEEE</JournalTitle>
+<VolumeID>71</VolumeID>
+<FirstPage>379</FirstPage>
+<LastPage>390</LastPage>
+</BibArticle>
+<BibUnstructured>Louis AK, Natterer F (1983) Mathematical problems of computerized tomography. Proceedings of the IEEE 71: 379–390</BibUnstructured>
+</Citation>
+<Citation ID="CR20">
+<BibBook>
+<BibAuthorName>
+<Initials>NJ</Initials>
+<FamilyName>Nillson</FamilyName>
+</BibAuthorName>
+<Year>1980</Year>
+<BookTitle>Principles of artificial intelligence</BookTitle>
+<PublisherName>Tioga</PublisherName>
+<PublisherLocation>Palo Alto, CA</PublisherLocation>
+</BibBook>
+<BibUnstructured>Nillson NJ (1980) Principles of artificial intelligence. Tioga, Palo Alto, CA</BibUnstructured>
+</Citation>
+<Citation ID="CR21">
+<BibArticle>
+<BibAuthorName>
+<Initials>DG</Initials>
+<FamilyName>Nishimura</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Macovski</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JM</Initials>
+<FamilyName>Pauly</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Magnetic resonance angiography</ArticleTitle>
+<JournalTitle>IEEE Trans. Med. Imag.</JournalTitle>
+<VolumeID>5</VolumeID>
+<IssueID>3</IssueID>
+<FirstPage>140</FirstPage>
+<LastPage>151</LastPage>
+</BibArticle>
+<BibUnstructured>Nishimura DG, Macovski A, Pauly JM (1986) Magnetic resonance angiography. IEEE Trans. Med. Imag. 5(3): 140–151</BibUnstructured>
+</Citation>
+<Citation ID="CR22">
+<BibArticle>
+<BibAuthorName>
+<Initials>DG</Initials>
+<FamilyName>Nishimura</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Macovski</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JM</Initials>
+<FamilyName>Pauly</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>SM</Initials>
+<FamilyName>Conoly</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">MR Angiography by Selective Inversion Recovery</ArticleTitle>
+<JournalTitle>Magnetic Resonance in Medicine</JournalTitle>
+<VolumeID>4</VolumeID>
+<FirstPage>193</FirstPage>
+<LastPage>202</LastPage>
+</BibArticle>
+<BibUnstructured>Nishimura DG, Macovski A, Pauly JM, Conoly SM (1987) MR Angiography by Selective Inversion Recovery. Magnetic Resonance in Medicine, 4: 193–202</BibUnstructured>
+</Citation>
+<Citation ID="CR23">
+<BibUnstructured>Rangayan RM, Gordon R, Dhawan AP (1984) Algorithms for limited-view computer tomography: An annotated bibliography and a challenge. Digest of Topical Meeting on Industrial Applications of Computer Tomography and NMR Imaging Optical Society of America, Hecla Island, Manitoba, Canada (see also Proc. IEEE Int. Conf. on Computers, Sys., and Signal. Proc. Bangalore, India)</BibUnstructured>
+</Citation>
+<Citation ID="CR24">
+<BibArticle>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Rissanen</FamilyName>
+</BibAuthorName>
+<Year>1978</Year>
+<ArticleTitle Language="En">Modeling by shortest data description</ArticleTitle>
+<JournalTitle>Automatica</JournalTitle>
+<VolumeID>14</VolumeID>
+<FirstPage>465</FirstPage>
+<LastPage>471</LastPage>
+</BibArticle>
+<BibUnstructured>Rissanen J (1978) Modeling by shortest data description. Automatica 14: 465–471</BibUnstructured>
+</Citation>
+<Citation ID="CR25">
+<BibArticle>
+<BibAuthorName>
+<Initials>DJ</Initials>
+<FamilyName>Rossi</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AS</Initials>
+<FamilyName>Willsky</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ArticleTitle Language="En">Reconstruction from projections based on detection and estimation of objects</ArticleTitle>
+<JournalTitle>IEEE Transactions on Acoustics, Speech &amp; Signal Processing</JournalTitle>
+<VolumeID>ASSP-32</VolumeID>
+<FirstPage>886</FirstPage>
+<LastPage>906</LastPage>
+</BibArticle>
+<BibUnstructured>Rossi DJ, Willsky AS (1984) Reconstruction from projections based on detection and estimation of objects. IEEE Transactions on Acoustics, Speech &amp; Signal Processing ASSP-32: 886–906</BibUnstructured>
+</Citation>
+<Citation ID="CR26">
+<BibArticle>
+<BibAuthorName>
+<Initials>PG</Initials>
+<FamilyName>Selfridge</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JMS</Initials>
+<FamilyName>Prewitt</FamilyName>
+</BibAuthorName>
+<Year>1981</Year>
+<ArticleTitle Language="En">Organ detection in abdominal computerized tomography scans: Application to the kidney</ArticleTitle>
+<JournalTitle>Computer Graphics and Image Processing</JournalTitle>
+<VolumeID>15</VolumeID>
+<FirstPage>265</FirstPage>
+<LastPage>278</LastPage>
+</BibArticle>
+<BibUnstructured>Selfridge PG, Prewitt JMS (1981) Organ detection in abdominal computerized tomography scans: Application to the kidney. Computer Graphics and Image Processing 15: 265–278</BibUnstructured>
+</Citation>
+<Citation ID="CR27">
+<BibUnstructured>Shmueli K, Brody WR, Macovski A (1981) Estimation of blood vessels boundaries in X-ray images. SPIE Conference on Digital Radiography, Stanford, CA</BibUnstructured>
+</Citation>
+<Citation ID="CR28">
+<BibBook>
+<BibEditorName>
+<Initials>H</Initials>
+<FamilyName>Stark</FamilyName>
+</BibEditorName>
+<Eds/>
+<Year>1987</Year>
+<BookTitle>Image recovery: Theory and application</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>Orlando, FL</PublisherLocation>
+</BibBook>
+<BibUnstructured>Stark H (Ed.) (1987) Image recovery: Theory and application. Academic Press, Orlando, FL</BibUnstructured>
+</Citation>
+<Citation ID="CR29">
+<BibBook>
+<BibAuthorName>
+<Initials>HA</Initials>
+<FamilyName>Taha</FamilyName>
+</BibAuthorName>
+<Year>1975</Year>
+<BookTitle>Integer programming: Theory, applications, and computations</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Taha HA (1975) Integer programming: Theory, applications, and computations. Academic Press, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR30">
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Zakai</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Ziv</FamilyName>
+</BibAuthorName>
+<Year>1969</Year>
+<ArticleTitle Language="En">On the threshold effect in radar range estimation</ArticleTitle>
+<JournalTitle>IEEE Transactions on Information Theory</JournalTitle>
+<VolumeID>IT-15</VolumeID>
+<FirstPage>167</FirstPage>
+<LastPage>170</LastPage>
+</BibArticle>
+<BibUnstructured>Zakai M, Ziv J (1969) On the threshold effect in radar range estimation. IEEE Transactions on Information Theory, IT-15: 167–170</BibUnstructured>
+</Citation>
+<Citation ID="CR31">
+<BibUnstructured>Ziskind I, Wax M (1987) Maximum likelihood localization of multiple sources by alternating maximization. Proc. IEEE International Conference on Acoustics, Speech, Signal Processing, Dallas, TX: 53.6.1-4</BibUnstructured>
+</Citation>
+</Bibliography>
+</ArticleBackmatter>
+</Article>
+</Issue>
+</Volume>
+</Journal>
+</Publisher>

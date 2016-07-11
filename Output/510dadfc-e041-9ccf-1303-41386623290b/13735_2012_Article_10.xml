@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <JournalSubject Type="Secondary">Information Storage and Retrieval</JournalSubject>
+        <JournalSubject Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Type="Secondary">Computer Science, general</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>1</VolumeIDStart>
+        <VolumeIDEnd>1</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>5</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>6</Month>
+              <Day>19</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2012</Year>
+              <Month>6</Month>
+              <Day>18</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-012-0010-8" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>10</ArticleID>
+            <ArticleDOI>10.1007/s13735-012-0010-8</ArticleDOI>
+            <ArticleSequenceNumber>2</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Semantics-based selection of everyday concepts in visual lifelogging</ArticleTitle>
+            <ArticleCategory>Regular Paper</ArticleCategory>
+            <ArticleFirstPage>87</ArticleFirstPage>
+            <ArticleLastPage>101</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+              </Received>
+              <Revised>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+              </Revised>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Peng</GivenName>
+                  <FamilyName>Wang</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>pwang@computing.dci.ie</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Alan</GivenName>
+                  <GivenName>F.</GivenName>
+                  <FamilyName>Smeaton</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>alan.smeaton@dcu.ie</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>CLARITY: Centre for Sensor Web Technologies, School of Computing</OrgDivision>
+                <OrgName>Dublin City University</OrgName>
+                <OrgAddress>
+                  <City>Dublin 9</City>
+                  <Country Code="IE">Ireland</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para> Concept-based indexing, based on identifying various semantic concepts appearing in multimedia, is an attractive option for multimedia retrieval and much research tries to bridge the semantic gap between the media’s low-level features and high-level semantics. Research into concept-based multimedia retrieval has generally focussed on detecting concepts from high-quality media such as broadcast TV or movies, but it is not well addressed in other domains like lifelogging where the original data is captured with poorer quality. We argue that in noisy domains such as lifelogging, the management of data needs to include semantic reasoning in order to deduce a set of concepts to represent lifelog content for applications like searching, browsing or summarization. Using semantic concepts to manage lifelog data relies on the fusion of automatically detected concepts to provide a better understanding of the lifelog data. In this paper, we investigate the selection of semantic concepts for lifelogging which includes reasoning on semantic networks using a density-based approach. In a series of experiments we compare different semantic reasoning approaches and the experimental evaluations we report on lifelog data show the efficacy of our approach.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Concept selection</Keyword>
+              <Keyword>Lifelogging</Keyword>
+              <Keyword>Semantics</Keyword>
+              <Keyword>Everyday concepts</Keyword>
+              <Keyword>Life log</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>This work is supported by Science Foundation Ireland under grant number 07/CE/I1147 (CLARITY CSET) and by the China Scholarship Council (File No. 2008611102)</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>The idea of digitally recording our everyday lives for our own personal and private use is not a new phenomenon. The writing diary has been used to record the experiences of everyday happenings and has been handed down from generation to generation. With the near-pervasive application of computing technology, the form we can use to record our daily experiences is changing. The earliest motivation for automatic generation of personal <Emphasis Type="Italic">digital</Emphasis> archives can be traced back to 1945 when Vannevar Bush expressed his vision [<CitationRef CitationID="CR7">7</CitationRef>] that our lives could be recorded with the help of technology and that access could be made easier to these ‘digital memories’ via the of what became known as hypertext/hypermedia. Automatically generating autobiographies has become more realistic recently with advances in lightweight computing devices and sensors though it is recognized that being able to digitally record everything about our lives does not then imply we have perfect recall of everything from our past or that that is even a good idea [<CitationRef CitationID="CR36">36</CitationRef>]. Mobile devices have low cost and small and lightweight embedded sensors including cameras, GPS, Bluetooth, accelerometers and gyroscopes, etc., which make computing devices portable thus enabling life recording to be done unobtrusively. Lifelogging is the term describing the notion of digitally recording aspects of our daily lives, where the recorded content in multiple media is a reflection of activities which we subsequently use to obtain an insight into our daily lives by browsing, searching, or querying. In some cases the motivation for this is work-related, sometimes it is to record special events, and sometimes it is to record for purposes as yet unknown.</Para>
+              <Para>Conventional content-based methodologies for retrieval of images or video try to map low-level features to high-level semantics without bridging the semantic gap. This approach has limitations because of the lack of coincidence between low-level features and query semantics. This makes concept-based high-level semantic reasoning an attractive option, where concepts are first detected via a mapping from low-level features using generic methods from training data, then fused together to reason or to infer a final set of concepts which may be used as a representation for whatever the application. Progress in the development of semantic concept detection for video can be seen in the annual TRECVid benchmark [<CitationRef CitationID="CR37">37</CitationRef>]. As reported in [<CitationRef CitationID="CR22">22</CitationRef>], automatically detected concepts in the TV news broadcasting domain can already be scaled to 1,000+, for which 101 concepts are defined in [<CitationRef CitationID="CR41">41</CitationRef>] and 834 in [<CitationRef CitationID="CR27">27</CitationRef>]; 491 concepts are detected in [<CitationRef CitationID="CR39">39</CitationRef>], 374 in [<CitationRef CitationID="CR9">9</CitationRef>] and 311 in [<CitationRef CitationID="CR22">22</CitationRef>].</Para>
+              <Para>However, the large effort in building concept detectors in the TV news broadcast domain cannot be applied directly to the domain of retrieval from everyday lifelog activities. Among the above-mentioned semantic concept sets, the Large-Scale Concept Ontology for Multimedia (LSCOM) is the most comprehensive taxonomy developed for standardizing multimedia semantics in the broadcast TV news domain [<CitationRef CitationID="CR27">27</CitationRef>]. As a framework, the LSCOM effort also produced a set of use cases and queries along with a large annotated data set of broadcast news video. However, in the lifelogging domain, many of the LSCOM concepts, for example, weapon, government leader, etc., are never normally encountered. In this paper, we investigate the definition of everyday concepts and their automatic detection from visual lifelogs in order to satisfy the requirements for indexing everyday multimedia lifelogs. We also investigate comprehensive ontological similarities for the lifelogging domain.</Para>
+              <Para>The rest of the paper is organized as follows: in Sect. <InternalRef RefID="Sec2">2</InternalRef>, related work on lifelogging research and automatic concept selection in multimedia retrieval is discussed. In Sect. <InternalRef RefID="Sec3">3</InternalRef>, we select everyday activities in order to construct a semantic concept space for a passive-capture visual lifelogging domain. In Sect. <InternalRef RefID="Sec6">4</InternalRef>, various semantic similarity measures are investigated on two mainstream semantic networks—WordNet and ConceptNet. Our algorithm for semantic density-based concept selection and ranking is discussed in Sect. <InternalRef RefID="Sec9">5</InternalRef>, followed by an evaluation in Sect. <InternalRef RefID="Sec15">7</InternalRef> in a user experiment. Finally, we close the paper with conclusions.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Related work</Heading>
+              <Para>Many digital devices and sensors are now lightweight and computationally efficient, and can be used to capture the heterogenous contexts of wearers as part of automatic lifelogging. In wearable lifelogging, we can capture visual data using head-mounted cameras [<CitationRef CitationID="CR17">17</CitationRef>] or cameras mounted in front of the chest [<CitationRef CitationID="CR35">35</CitationRef>]. Using visual information we can infer contextual information like ‘who’, ‘what’, ‘where’ and ‘when’, and using digital cameras or camera-enabled mobile devices is a very attractive form of lifelogging. Visual lifelogging is the term used to describe both image-based and video-based lifelogging. Within the lifelogging community, cameras are often used as wearable devices to record still images [<CitationRef CitationID="CR35">35</CitationRef>] or videos [<CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR25">25</CitationRef>]. Example visual lifelogging projects are Steve Mann’s WearCam [<CitationRef CitationID="CR24">24</CitationRef>], the DietSense project at UCLA [<CitationRef CitationID="CR31">31</CitationRef>], the WayMarkr project at New York University [<CitationRef CitationID="CR6">6</CitationRef>], the inSense system at MIT [<CitationRef CitationID="CR5">5</CitationRef>] and the SenseCam [<CitationRef CitationID="CR16">16</CitationRef>] developed at Microsoft Research, Cambridge. Though these projects use various mobile devices for digital logging, they have the common feature of using cameras to capture still images or videos, taken from the first person view of the wearers. Camera-embedded mobile phones are employed in both the DietSense and WayMarkr projects for diet monitoring and experience recall, whereas the SenseCam is a sensor-augmented wearable camera designed to capture a digital record of the wearer’s day by recording a series of images and other sensor data. Viewing SenseCam images has been shown recently to be effective in supporting recall of memory from the past for memory-impaired individuals [<CitationRef CitationID="CR35">35</CitationRef>]. Due to its advantages of multimodal context-awareness, lightweight and unobtrusive logging with long battery life, we employ SenseCam shown in Fig. <InternalRef RefID="Fig1">1</InternalRef>, as the visual recording device in our work.</Para>
+              <Para>
+                <Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>The Microsoft SenseCam (<Emphasis Type="Italic">right</Emphasis> as worn by a user)</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>The management of visual lifelogging data such as the SenseCam image streams, should involve semantic indexing and retrieval for which much preliminary work has already been done in other domains such as TV news broadcasting. Concept-based information retrieval has received much interest in the community due to its potential in filling the semantic gap and its semantic reasoning capabilities. In concept-based video retrieval, for example, there are known methods to expand query terms into a range of concepts and user judgments and feedback can be used to reveal correlations between concepts. Subjects can be asked to choose the concepts they think are appropriate for their queries. This kind of approach to searching, however, may be difficult for a user when the semantic “space” of concepts becomes large. Previous work has only tested how users use concepts in retrieval based on a small number of concepts and queries as in work by Christel et al. [<CitationRef CitationID="CR11">11</CitationRef>] for which two collections included 23 queries and 10 concepts together with 24 queries and 17 topics. We also tend to get low inter-annotator agreement, as described by [<CitationRef CitationID="CR11">11</CitationRef>]. Previous work on using semantic concepts explicitly from lifelog data has used the distribution of the occurrence of these semantic concepts to profile an individual’s activities and behavour from a broad, generic viewpoint [<CitationRef CitationID="CR12">12</CitationRef>] and this has used a static and pre-defined set of concepts on which to base this.</Para>
+              <Para>Automatic approaches to selecting appropriate concepts for semantic querying fall into two categories: lexical and statistical [<CitationRef CitationID="CR28">28</CitationRef>]. Lexical approaches leverage the linguistic relationships among semantic concepts in deciding the most related and most useful concepts, whereas statistical approaches apply occurrence patterns from a corpus to reveal concept correlations. Statistical approaches also make use of collection-specific associations driven by the corpus set while lexical approaches depend on global linguistic knowledge.</Para>
+              <Para>Semantic similarity can be used as a measure to rank the relevance of concepts to a given query text and WordNet [<CitationRef CitationID="CR26">26</CitationRef>] is a popular source of the lexical knowledge needed for this. One approach involves selecting concepts based on minimizing the semantic distance between concepts and query terms. WordNet-based semantic similarity between query terms and concepts can be calculated as the weight of concepts using semantic similarity scores and some of the work in the area goes back many years, e.g., [<CitationRef CitationID="CR32">32</CitationRef>, <CitationRef CitationID="CR34">34</CitationRef>]. In more recent work, the Lesk-based similarity measure [<CitationRef CitationID="CR4">4</CitationRef>] is demonstrated as one of the best measures for lexical relatedness and is employed in [<CitationRef CitationID="CR13">13</CitationRef>] for lexical query expansion. WordNet-based concept extraction is also investigated in [<CitationRef CitationID="CR14">14</CitationRef>] to evaluate the effectiveness of high-level concepts used in video retrieval where it achieved results comparable to user-selected query concepts. The issue with concept selection when using a lexicon ontology such as WordNet is that the local similarities across branches are not uniform which could lead to incomparable similarity values obtained from local ontology branches, as argued in [<CitationRef CitationID="CR42">42</CitationRef>]. In work by Snoek [<CitationRef CitationID="CR40">40</CitationRef>], information content is used to calculate similarity in order to deal with the problem of similarity inconsistency caused by non-uniform distances within the WordNet hierarchy.</Para>
+              <Para>A large manual annotation effort in the TRECVid benchmarking activity for video retrieval [<CitationRef CitationID="CR29">29</CitationRef>], and in the LSCOM concept ontology for broadcast TV news [<CitationRef CitationID="CR1">1</CitationRef>], has enabled the analysis of static patterns for video retrieval. The ground truth of hundreds of individual concepts and dozens of query annotations is used in comparing retrieval systems as well as selecting and analyzing the relevant concepts associated with particular queries. More recent work by Wei and Ngo [<CitationRef CitationID="CR42">42</CitationRef>] proposed an ontology-enriched semantic space model to cope with concept selection in a linear space. The ontological space is constructed with a minimal set of concepts and plays the role of a computable platform to define the necessary concept sets used in video search. This linear space guarantees the uniform and consistent comparison of concept scores for query-to-concept mapping [<CitationRef CitationID="CR42">42</CitationRef>].</Para>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Constructing an event semantic space (EES)</Heading>
+              <Para>One of the limitations in building automatic classifiers or concept detectors for images or videos is for them to reveal higher level semantics when they detect multiple concepts with high correlations. Since the concepts involved in lifelogging cover aspects of our daily lives and thus the range of concepts is very broad, interpreting lifelogging events thus demands a strategy which helps to select the most appropriate combination of concepts for event representation rather than just all possible concepts. We now elaborate the construction of a semantic space reflecting everyday event semantics.</Para>
+              <Section2 ID="Sec4">
+                <Heading>Everyday activities: exploring and selecting</Heading>
+                <Para>Patterns of everyday activities are investigated in areas such as occupational therapy and diet monitoring to improve physical and mental health by understanding how we use our time in various activities. Several investigations and surveys have shown that most of our time is spent on activities such as sleeping and resting (34%), domestic activities (13%), TV/radio/music/computers (11%), eating and drinking (9%), which collectively count for nearly 70% of the time in a typical day.</Para>
+                <Para>In [<CitationRef CitationID="CR19">19</CitationRef>], the most frequently occurring everyday activities are explored to rate their level of enjoyment when people experience these activities. 16 activities are investigated and ordered decreasingly by their enjoyment rating. The impact of everyday activities on our feelings of enjoyment also affect our health, which makes these activities important in an analysis of well-being and lifelogging. Similar patterns of activity are also shown in [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR10">10</CitationRef>] with sleep being the most dominant activity followed by housework, watching TV, employment/study, etc., [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR3">3</CitationRef>] also show that the distribution of activities varies with age group. However, some activities achieve high agreement in participation among all subjects investigated for activities such as sleeping, eating and drinking, personal care, travel, etc.</Para>
+                <Para>In constructing an event semantic space for modelling activities, we select our target activities from those with the following criteria:<UnorderedList Mark="Bullet"><ItemContent><Para><Emphasis Type="Italic">Time dominance</Emphasis> A small number of activities occupy a large amount of our time and analysis of these activities could maximize the analysis of the relationship between time spent and our well-being.</Para></ItemContent><ItemContent><Para><Emphasis Type="Italic">Generality</Emphasis> Even though the time spent on activities varies from age group to age group, there are some activities that are engaged in by all age groups. The selection of activities with high group agreement will increase the generality of our activity analysis.</Para></ItemContent><ItemContent><Para><Emphasis Type="Italic">High frequency</Emphasis> It is important to select the activities which have enough sample data so that we can build automatic classifiers.</Para></ItemContent></UnorderedList>
+                </Para>
+                <Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Target activities for our lifelogging work</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="3">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>3</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Eating</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Drinking</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Cooking</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>6</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Clean/tidy/wash</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Washing clothes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Using computer</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>9</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Watching TV</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Child care</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Food shopping</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>10</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>11</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>12</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>General shopping</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Bar/pub</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Using phone</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>13</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>14</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>15</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Reading</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Cycling</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Pet care</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>16</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>17</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>18</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Going to cinema</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Driving</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Taking bus</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>19</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>20</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>21</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Walking</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Meeting</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Presentation_give</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>22</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>23</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Presentation_listen</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Talking</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3"/>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Para>With these criteria in mind, we selected the activities listed in Table <InternalRef RefID="Tab1">1</InternalRef> as targets:</Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Topic-related concepts</Heading>
+                <Para>How to decide the set of concepts related to the event topics above is the focus of our work. In state-of-the-art everyday concept detection and validation [<CitationRef CitationID="CR8">8</CitationRef>], concepts are suggested by several SenseCam users after they have gone through and studied several days of their own lifelogged events. Then, being more familiar with their own lifestyles through reviewing their own lifelogs, concepts are discussed and filtered with the added criterion that the concept can be detected with satisfactory accuracy. During this procedure, concepts are not selected in a way that considers the related event topics so concepts may be selected that might not be helpful in interpreting specific event semantics. In addition, some concepts which might be helpful in recognizing and interpreting a specific event type may be ignored in the selection procedure. This limits the performance of event detection and semantic interpretation especially when particular concepts relevant to the event are missed. Given the fact that concept detection is always noisy, the situation is compounded when a non-relevant concept is selected to be used in a query, which will reduce the performance by incurring high noise in the query step.</Para>
+                <Para>To find a set of candidate concepts related to each of the activities described in Sect. <InternalRef RefID="Sec4">3.1</InternalRef>, we carried out user experiments on concept selection where candidate concepts related to each of the activities above were pooled based on user investigation. Although individuals may have different contexts and personal characteristics, there is a common understanding of concepts that is already socially agreed and allows people to communicate about these according to [<CitationRef CitationID="CR20">20</CitationRef>] and [<CitationRef CitationID="CR18">18</CitationRef>]. This makes it reliable for users to choose suitable concepts relevant to activities. User experiments were carried out to discover candidate concepts which potentially have high correlation with activity semantics and details of the experimental methodology will be described in Sect. <InternalRef RefID="Sec16">7.1</InternalRef>.</Para>
+                <Para>The user experiments gave us a set of candidate concepts with regard to the activities we explored in Sect. <InternalRef RefID="Sec4">3.1</InternalRef>. These concepts were used to construct an event-based semantic space for every activity and the concept space was expanded by each concept as one dimension. Events are represented by groups of images which have their own concepts. We propose a novel semantic density-based concept selection algorithm to find the most useful concepts in the following sections because we believe that existing algorithms are not a good match for the particular problems of detecting the most appropriate semantic concepts for lifelog events.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec6">
+              <Heading>Investigating ESS concept relationships</Heading>
+              <Para>An ontology is used to represent the concepts and concept relations within a domain. Usually ontologies are considered as graphs, where nodes represent concepts and edges represent relations between concepts and in this way the ontology structure captures the semantics for the domain. Ontology-based similarity or relatedness measures can exploit the ontology structure or additional information to quantify the likeness or correlation between two concepts.</Para>
+              <Section2 ID="Sec7">
+                <Heading>Lexical similarity based on taxonomy</Heading>
+                <Para>Concepts are clustered according to their distribution in the semantic space. With a lack of features or coordinates in this semantic space, concepts can only be clustered in terms of their ontology relationships between each other. As a popular English lexical ontology, WordNet [<CitationRef CitationID="CR26">26</CitationRef>] is widely used as a semantic knowledge base. Synsets are the basic elements in WordNet representing the senses of words. The current version (3.0) of WordNet contains 155,327 words grouped into 117,597 synsets. The <Emphasis Type="Italic">is-a</Emphasis> relationship is modeled as hypernymy in WordNet where one concept is more general than another. Hyponymy represents the characteristic that one concept is more specific than another. The meronym or holonymy connection is the semantics representing a <Emphasis Type="Italic">part-of</Emphasis> relationship. This comprehensive coverage and explicit representation of concept relationships make WordNet useful in analyzing the concept relationships within the semantic spaces in our work.</Para>
+                <Para>Semantic similarity has been explored in previous research to define a matrix for concept relationship analysis. Rada [<CitationRef CitationID="CR30">30</CitationRef>] was first to develop the basis for edge-based measures for concept similarity by defining the distance in a semantic network as the length of the shortest path between the two concept nodes. Richardson and Smeaton [<CitationRef CitationID="CR34">34</CitationRef>] further refined the similarity measures. The Hirst and St-Onge [<CitationRef CitationID="CR15">15</CitationRef>] similarity measure, takes path direction into account and the idea is that the concepts are semantically close if their WordNet synsets are connected by a short path which does not change direction too often. Another similarity definition is proposed in [<CitationRef CitationID="CR43">43</CitationRef>] by Wu and Palmer for verb similarity calculation since most work is built upon noun concepts, and applied in machine translation. This was extended by Leacock and Chodorow [<CitationRef CitationID="CR21">21</CitationRef>] also as a path-based similarity measure which determines similarity with regard to the maximum depth of the taxonomy.</Para>
+                <Para>Semantic similarity based on information content is also an important component of lexical relationship analysis. This approach relies on the hypothesis that the more information two concepts share, the more similarity they have. The informativeness of a concept is quantified by the notion of its Information Content (IC), which is calculated based on the occurrence probability of concepts in a given corpus. IC is obtained by negative likelihood of encountering a concept in a given corpus [<CitationRef CitationID="CR32">32</CitationRef>]. The basic intuition of using negative likelihood assumes that the more likely a concept appears in a corpus the less information it conveys.</Para>
+                <Para>Based on the IC formula, a concept will contain less information if the probability of its occurrence in a corpus is high. The advantage of using information content is that once given a properly constructed corpus, information content can be adapted in different domains because information content is included in a statistical way according to occurrences of the concept, its sub-concepts and subsumers.</Para>
+                <Para>In [<CitationRef CitationID="CR33">33</CitationRef>], Resnik applied information content to calculating semantic similarity using Most Specific Common Abstract [<InlineEquation ID="IEq1"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$msca(c_{1},c_{2})$$]]></EquationSource></InlineEquation>] as the amount of information that concepts <InlineEquation ID="IEq2"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_1$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq3"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_2$$]]></EquationSource></InlineEquation> have in common. In this approach, only the <Emphasis Type="Italic">is-a</Emphasis> relationship is used because only the information of the subsuming concept of the two concepts being compared, is used. In [<CitationRef CitationID="CR38">38</CitationRef>], this similarity measurement is also employed by Quigley and Smeaton to compute word–word similarity in image caption retrieval.</Para>
+              </Section2>
+              <Section2 ID="Sec8">
+                <Heading>Contextual ontological similarity and relatedness</Heading>
+                <Para>WordNet is a small ontology of primarily taxonomic semantic relations. ConceptNet extended WordNet to include a richer set of relations appropriate to concept-level nodes [<CitationRef CitationID="CR23">23</CitationRef>]. In the version of ConceptNet we use, the relational ontology consists of 20 relation types falling into categories like K-lines, Things, Agents, Event, Spatial, Causal, Functional and Affective.</Para>
+                <Para>In ConceptNet, all concepts are linked with the above-mentioned relations which can reflect the correlations between concepts. We apply a link-based relatedness measure to maximize the concept relations in measuring concept correlation. This differs from WordNet which uses mainly taxonomic relationships, while ConceptNet employs more context relationships. While WordNet similarities only consider subsumption relations to assess how two objects are alike lexically, relatedness takes into account a broader range of relations which can be measured using ConceptNet.</Para>
+                <Para>The relations between concepts reflect the semantic correlation between two concepts. We assume that semantic relations are transitive so the more related two concepts are, the shorter the paths they will have. The relatedness between two concepts varies inversely with the length of the shortest path between the two concepts. Conceptual relatedness is a monotonically decreasing function of path distance. Our approach takes into account the length of paths between two concepts. In ConceptNet, because the edges between concepts are directional, we combine the length of the path between concept <InlineEquation ID="IEq4"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{1}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq5"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{2}$$]]></EquationSource></InlineEquation> as well as path between <InlineEquation ID="IEq6"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{2}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq7"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{1}$$]]></EquationSource></InlineEquation>. The similarity between two concepts is defined as:<Equation ID="Equ1"><EquationNumber>1</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} S_{CN}(c_{1},c_{2})=\text{ max}(\text{ AS}(c_{1},c_{2}),\text{ AS}(c_{2},c_{1})) \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq8"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\text{ AS}(c_{1},c_{2})$$]]></EquationSource></InlineEquation> represents the activation score of <InlineEquation ID="IEq9"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{2}$$]]></EquationSource></InlineEquation> starting from <InlineEquation ID="IEq10"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{1}$$]]></EquationSource></InlineEquation>, and vice versa. Activation score is computed by spreading activation in ConceptNet to find the most similar concepts with regard to a starting concept. The starting concept is initialized with activation score 1.0 and then the nodes connected with the starting concept with one link path, two link paths, etc., are activated. The activation score of connected node <InlineEquation ID="IEq11"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$b$$]]></EquationSource></InlineEquation> with original node <InlineEquation ID="IEq12"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$a$$]]></EquationSource></InlineEquation> is defined as:<Equation ID="Equ2"><EquationNumber>2</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \text{ AS}(a,b)=\sum _{c\in \mathrm{ Neighbor}(b)}{\text{ AS}(a,c)\times d \times w(c,b)} \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq13"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d$$]]></EquationSource></InlineEquation> is a distance discount (<InlineEquation ID="IEq14"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d<1$$]]></EquationSource></InlineEquation>) to give the concepts far from the original concept a lower weight and <InlineEquation ID="IEq15"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w(c,b)$$]]></EquationSource></InlineEquation> is the relation weight of the link from <InlineEquation ID="IEq16"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource></InlineEquation> to <InlineEquation ID="IEq17"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$b$$]]></EquationSource></InlineEquation>. In this paper, we apply the same relation weight for activation scores. For any given concept <InlineEquation ID="IEq18"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$b$$]]></EquationSource></InlineEquation>, the activation score related to <InlineEquation ID="IEq19"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$a$$]]></EquationSource></InlineEquation> is the sum of scores of all nodes connected to it.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec9">
+              <Heading>Concept selection based on semantic density</Heading>
+              <Para>Our measure of semantic density relies directly on the semantic distance between concepts. If the distance measured between concepts is small, then the concepts have high density. The semantic distance is used as a measure by which concepts are clustered to represent event semantics. In our semantic topic-related concept selection, we deal with the research question by means of identifying the similarity between concepts as a linguistic problem. Processing consists of text pre-processing which consists of tokenization, POS tagging and stopword removal, and this is followed by word similarity and phrase similarity calculations which we now describe.</Para>
+              <Section2 ID="Sec10">
+                <Heading>Conjunctive concept similarity</Heading>
+                <Para>In traditional text-based retrieval, a document or query is represented as a vector of term weights which are used in similarity comparison. The term “<Emphasis Type="Italic">vector</Emphasis>” can be regarded as a new and distinct compound concept and the concept reflected by a document is best described by ANDing the concepts represented by its index terms [<CitationRef CitationID="CR30">30</CitationRef>], which facilitates documents being treated as conjunctive concepts.</Para>
+                <Para>When concepts have several disjunctive meanings in WordNet synsets, we apply ‘disjunctive minimum’ [<CitationRef CitationID="CR30">30</CitationRef>] to obtain the similarity between the two concepts. That is, when a concept has alternative synsets because it is polysemous, we calculate the minimum conceptual distance between the synsets and the other concept as the final distance between the two concepts. Assume that we have two concepts <InlineEquation ID="IEq20"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{1}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq21"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{2}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq22"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{1}$$]]></EquationSource></InlineEquation> has three disjunctive synsets <InlineEquation ID="IEq23"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq23.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${syn_{1}, syn_{2}, syn_{3}}$$]]></EquationSource></InlineEquation>. In terms of ‘disjunctive minimum’, the conceptual distance between <InlineEquation ID="IEq24"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq24.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{1}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq25"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq25.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{2}$$]]></EquationSource></InlineEquation> will be given by:<Equation ID="Equ3"><EquationNumber>3</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} d(c_{1},c_{2})=\text{ min} \left[ d(syn_{1},c_{2}),d(syn_{2},c_{2}),d(syn_{3},c_{2}) \right] \end{aligned}$$]]></EquationSource></Equation>In calculating conjunctive concept similarity, we take into account all elementary concepts in the conjunctive concept. We regard the comparison of the similarity of two conjunctive concepts as finding the best assignment for a bipartite graph. On both sides of the bipartite graph, the nodes represent elementary concepts. As with solving the best matching problem, we apply the Hungarian algorithm to decide the maximum similarity matching between the two conjunctive concepts. An alternative to the computationally expensive Hungarian algorithm is to perform conjunctive concept similarity, defined as [<CitationRef CitationID="CR38">38</CitationRef>]:<Equation ID="Equ4"><EquationNumber>4</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \text{ sim}(c_{1},c_{2})= \frac{1}{M\cdot N}\sum _{i=1}^{M}\sum _{j=1}^{N}\text{ sim}(e_{i},f_{j}) \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq26"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq26.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{1}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq27"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq27.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{2}$$]]></EquationSource></InlineEquation> are the compound concepts being compared and <InlineEquation ID="IEq28"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq28.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$e_{i}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq29"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq29.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$f_{j}$$]]></EquationSource></InlineEquation> are elementary concepts for <InlineEquation ID="IEq30"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq30.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{1}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq31"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq31.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{2}$$]]></EquationSource></InlineEquation>, respectively. In this formula, the sum of pairwise elementary concept similarities is normalized by the product of the length of conjunctive concepts to reduce the bias of the number of elementary concepts [<CitationRef CitationID="CR30">30</CitationRef>]. Some other approaches to conjunctive concept similarity calculation can also be found in [<CitationRef CitationID="CR38">38</CitationRef>].</Para>
+              </Section2>
+              <Section2 ID="Sec11">
+                <Heading>Density-based concept selection</Heading>
+                <Para>In the concept set, each concept represents a semantic entity in the semantic space and the pairwise relationship between 2 concepts can be determined by their semantic similarity, represented as an <InlineEquation ID="IEq32"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq32.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$n \times n$$]]></EquationSource></InlineEquation> symmetric matrix, <InlineEquation ID="IEq33"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq33.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$M$$]]></EquationSource></InlineEquation>. The most similar concept group can represent a subspace in the semantic space within which the concepts have high co-occurrence correlations.</Para>
+                <Para>Principle Component Analysis (PCA) is a useful tool in pattern recognition in high-dimensional spaces to reduce the number of dimensions without losing much of the information represented by the data. Although PCA can ensure the orthogonality of the bases, the representation of original data in terms of <Emphasis Type="Italic">feature vectors</Emphasis> is difficult to interpret and embed with semantics, a point made by Wei and Ngo in [<CitationRef CitationID="CR42">42</CitationRef>]. However, subsets of concepts which are clusters in semantic space represent specific domain semantics which should be as disjoint as possible to be selected as the bases in semantic space. Therefore, the number of clusters, that is also the number of bases selected by clustering, should be consistent with the number of <Emphasis Type="Italic">feature vectors</Emphasis> selected by PCA.</Para>
+                <Para>We apply PCA to help find the most appropriate number of clusters in density-based concept selection. The total number of clusters is decided by considering the inconsistency coefficient and PCA. In hierarchical clustering, the inconsistency coefficient was used to decide the appropriate number of clusters in the dendrogram. The inconsistency coefficient is defined to compare the height of a link in a cluster hierarchy with the average height of links below it and can be used to identify groups of concepts which are densely packed in certain areas of the cluster dendrogram.</Para>
+                <Para>To demonstrate how our approach works, we take ConceptNet contextual similarity as an example, as described in Sect. <InternalRef RefID="Sec8">4.2</InternalRef>. Figures <InternalRef RefID="Fig2">2</InternalRef> and <InternalRef RefID="Fig3">3</InternalRef> are both demonstrated using the typical concept set (85 concepts) which we investigate in Sect. <InternalRef RefID="Sec18">7.3</InternalRef>. In Fig. <InternalRef RefID="Fig2">2</InternalRef> (in green), the number of clusters formed when inconsistent values are less than a specified inconsistency coefficient is shown. According to PCA, the cumulative energy content for the top <InlineEquation ID="IEq34"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq34.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource></InlineEquation> Eigenvectors is shown in Fig. <InternalRef RefID="Fig2">2</InternalRef> (in blue). As described above, the number of orthogonal vectors represent disjoint semantics in the semantic space and we strive to group as many similar concepts as possible. The trade-off between PCA inconsistency coefficient is used to find a proper number of clusters for agglomerative algorithm. As shown in Fig. <InternalRef RefID="Fig2">2</InternalRef>, the intersection of PCA (blue) and inconsistency coefficient (green) curves is selected to decide the number of clusters. The number of clusters at the trade-off point can still keep the cumulative energy higher than 90% while the inconsistent coefficient is at a relatively low level.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Number of clusters</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO6">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Relationship dendrogram for concepts</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO7">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>A dendrogram generated by hierarchical clustering is illustrated in Fig. <InternalRef RefID="Fig3">3</InternalRef>. In the dendrogram, semantically related concepts are linked together within a cluster. For example, ‘food’, ‘table’, ‘people’, ‘drink’ and ‘plate’ are grouped together, from which we see that these are more related to the activity ‘eating’ (shown as a dashed circle in Fig. <InternalRef RefID="Fig3">3</InternalRef>). More examples in Fig. <InternalRef RefID="Fig3">3</InternalRef>, such as ‘milk’, ‘water’, ‘cup’ are clustered for ‘drinking’ while ‘sky’, ‘path’, ‘tree’, ‘road sign’ and ‘road’ are clustered for ‘walking’. The semantic clustering facilitates the selection of topic-related concepts. As a concept, a given topic is also an instance which can be clustered in the concept space. Therefore, the concepts within the same cluster of a given topic are the concept candidates.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec12">
+              <Heading>Leveraging similarity for concept ranking</Heading>
+              <Para>In the previous section, we described a method for selecting candidate concepts in similarity matching based on clustering concepts in a semantic space. Although the selected concepts have high correlation with the given activity topic, there may still be other concepts missing which might be related to the topic. This is because the clustering algorithm only considers the local distance in the semantic space. Since the selected concepts have high semantic correlation with the given topic, they can be used as seeds in finding other related concepts. To leverage concept similarity in a global view, we employed the random walk model.</Para>
+              <Section2 ID="Sec13">
+                <Heading>Concept similarity model</Heading>
+                <Para>Random walk is a widely used algorithm which uses links in a network to calculate global importance scores for objects which are connected in the network. It allows us to compute the probability of a random walker being located in each vertex performed as a discrete Markov chain characterized by a transition probability matrix. We model concept similarity as a graph <InlineEquation ID="IEq35"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq35.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$G=(C,E)$$]]></EquationSource></InlineEquation>, where <InlineEquation ID="IEq36"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq36.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$V$$]]></EquationSource></InlineEquation> is the concept set and <InlineEquation ID="IEq37"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq37.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$E$$]]></EquationSource></InlineEquation> is a set of edges that link concepts. Each edge is assigned a given similarity value describing the probability that a random walker jumps among the concepts. As shown in Fig. <InternalRef RefID="Fig4">4</InternalRef>, concept sets and given topics can both be viewed as vertices in the graph, connected by similarity links. In last section, the concepts very similar to the given topic are selected as candidates, shown as the shaded concepts in Fig. <InternalRef RefID="Fig4">4</InternalRef>. However, the concepts which are similar to candidate concepts but have no direct similarity link with the given topic, are ignored. The random walk model ranks the concepts with candidate concepts as seeds from a global similarity view.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Concept similarity link</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO8">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec14">
+                <Heading>Similarity rank</Heading>
+                <Para>Here, we consider the process as a Markov chain where the states are concepts and transitions are similarity links between them. A random walker will start with a prior probability and surf on the graph, following similarity links. The similarity random walk is based on mutual reinforcement of concepts, that is, the score for a concept relative to a given topic influences, and is influenced by, the score of other concepts. We formulate the calculation of the score for <InlineEquation ID="IEq38"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq38.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{i}$$]]></EquationSource></InlineEquation> as:<Equation ID="Equ5"><EquationNumber>5</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} x(c_{i})=\sum _{j=1}^{n} \text{ Sim}_{ij}\; x(c_{j}) \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq39"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq39.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\text{ Sim}_{ij}$$]]></EquationSource></InlineEquation> is a normalized similarity value between <InlineEquation ID="IEq40"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq40.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{i}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq41"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq41.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{j}$$]]></EquationSource></InlineEquation>. Following the PageRank algorithm, we update the score of concepts by:<Equation ID="Equ6"><EquationNumber>6</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \left( \begin{array}{c} x_1\\ \vdots \\ x_n \end{array} \right)= \alpha \left( \begin{array}{ccc} \text{ Sim}_{11}&\ldots&\text{ Sim}_{1n}\\ \vdots&\ddots&\vdots \\ \text{ Sim}_{n1}&\ldots&\text{ Sim}_{nn} \end{array} \right) \left( \begin{array}{c} x_1\\ \vdots \\ x_n \end{array} \right)+(1-\alpha ) \left( \begin{array}{c} d_1\\ \vdots \\ d_n \end{array} \right) \nonumber \\ \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq42"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq42.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$(d_1 \cdots d_n)^\mathrm{ T}$$]]></EquationSource></InlineEquation> is a prior score vector, and <InlineEquation ID="IEq43"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq43.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha $$]]></EquationSource></InlineEquation> is a decay factor. The equation can be formalized in a compact matrix form as:<Equation ID="Equ7"><EquationNumber>7</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathbf{ x} =\alpha \mathbf{ T} \mathbf{ x} +(1-\alpha )\mathbf{ d} \end{aligned}$$]]></EquationSource></Equation>In this formula, <InlineEquation ID="IEq44"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq44.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ x} $$]]></EquationSource></InlineEquation> stands for the score vector and <Emphasis Type="Bold">T</Emphasis> is the similarity matrix with the sum of each column normalized to 1. For each concept <InlineEquation ID="IEq45"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq45.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c_{i}$$]]></EquationSource></InlineEquation>, there is <InlineEquation ID="IEq46"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq46.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$x_{i}=\sum\nolimits _{j=1}^{n} \alpha \cdot \text{ Sim}_{ij}x_{j}+(1-\alpha ) \cdot d_{i}$$]]></EquationSource></InlineEquation> for the score. To solve (<InternalRef RefID="Equ7">7</InternalRef>), we convert it to:<Equation ID="Equ8"><EquationNumber>8</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathbf{ x} =\alpha (\mathbf{ T} +(1-\alpha )/\alpha \cdot \mathbf{ d} \cdot \mathbf{ 1} )\mathbf{ x} \end{aligned}$$]]></EquationSource></Equation>If we assume <InlineEquation ID="IEq47"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq47.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ A} =\alpha (\mathbf{ T} +(1-\alpha )/\alpha \cdot \mathbf{ d} \cdot \mathbf{ 1} )$$]]></EquationSource></InlineEquation>, then <InlineEquation ID="IEq48"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq48.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ x} $$]]></EquationSource></InlineEquation> will be the Eigenvector of <InlineEquation ID="IEq49"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq49.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ A} $$]]></EquationSource></InlineEquation>. Although this leads to a direct solution for the formula, the iterative calculation converges fast enough and is usually employed. In our work, the iteration starts with <InlineEquation ID="IEq50"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq50.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ x} $$]]></EquationSource></InlineEquation> initialized as <InlineEquation ID="IEq51"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq51.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ 0} $$]]></EquationSource></InlineEquation>.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec15">
+              <Heading>Experiments and evaluation</Heading>
+              <Section2 ID="Sec16">
+                <Heading>User experiment</Heading>
+                <Para>Our experiments start with a user investigation to determine a set of possible concepts for interpreting lifelog events. Respondents are chosen from among the researchers in our own lab, most of whom work in computer science and some also log their everyday lives with the SenseCam so the group are sympathetic to, and familiar with, the idea of indexing visual content by semantic concepts. In total, 13 of our respondents then took part in our initial user experiment, 9 male and 4 female, whose ages are all in the range 20–40 years. About half of the participants (7 in 13) are in the age group of 26–30 while 3 are in 21–25 and another 3 are over 30. There are 8 participants who are familiar with SenseCam and have worn it for various periods. Five participants carry out research using SenseCam and are engaged in different tasks like visualization, concept detection, medical therapy, etc. The demographic information for our participants is shown in Table <InternalRef RefID="Tab2">2</InternalRef>.</Para>
+                <Table Float="Yes" ID="Tab2">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Demographic information of participants</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="5">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>User</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Gender</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Age</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Ever used SenseCam?</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Working on SenseCam</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Male</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26–30</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Female</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>21–25</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Male</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>36–40</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Male</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26–30</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Male</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26–30</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Male</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26–30</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Female</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26–30</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Male</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26–30</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Male</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>31–35</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>10</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Male</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>21–25</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>11</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Female</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>21–25</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Yes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>12</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Female</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26–30</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>13</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Male</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>31–35</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>No</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Para>Participants were shown SenseCam images for samples of activities and were then surveyed on their understanding of images of SenseCam activity as well as the concepts occurring in those SenseCam images. The experiment was organized into three phases, namely, study, phrase and rating. In the study phase, target activities were first described to respondents to make them familiar with the activity concepts. Exemplar image streams for each activity were shown to the group and they were then asked to inspect the SenseCam images. In the pooling stage, participants were asked to go through images collected individually to list the possible concepts they thought might be helpful in order to retrieve the activities. The aim of the second phase is to determine a large concept set that might be helpful in analyzing SenseCam images in order to detect activities. In the final rating phase, the number of subjects who thought a concept was relevant to the given activity is calculated, for all target activities. The higher the number of “votes” each concept gets and the greatest agreement among all subjects, the more importance we give to the concept for that activity.</Para>
+                <Para>In the pooling stage, subjects were asked to list as many concepts associated with each event topic while inspecting SenseCam images through controlled browsing. Note that the pooled event topics are all from the everyday activities we investigated in Sect. <InternalRef RefID="Sec4">3.1</InternalRef>, as shown in Table <InternalRef RefID="Tab1">1</InternalRef>. To provide cues for participants to find appropriate concepts, SenseCam images depicting different activities were shown. In our later experiment on evaluating concept selection in Sect. <InternalRef RefID="Sec19">7.4</InternalRef>, we use the concept set obtained from this user experiment. The concepts investigated include 171 concepts in total.</Para>
+              </Section2>
+              <Section2 ID="Sec17">
+                <Heading>Experimental evaluation: methodology</Heading>
+                <Para>To evaluate our concept selection algorithm, the user experiment acts as the “oracle” result. In the user experiment, the ranked concepts are analyzed to determine the set of agreed ones, decided unanimously for the evaluation. Benchmarks are introduced to evaluate the algorithms from different performance points of views. These viewpoints are group consistency, set agreement and rank correlation [<CitationRef CitationID="CR18">18</CitationRef>].</Para>
+                <Para>In order to assess the generated clustering, we define <Emphasis Type="Italic">group consistency</Emphasis> to measure the degree of semantically related concepts to be clustered. When two related concepts are grouped in the same cluster by our algorithm, this should give a positive contribution to the overall consistency value, otherwise, a negative contribution should be given to overall consistency. To determine whether two concepts should be grouped together is a subjective decision hence the results of human experiments are used as an oracle evaluation. We formalize the notion of human judgement on concept group consistency as a binary function <InlineEquation ID="IEq52"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq52.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$O$$]]></EquationSource></InlineEquation>:<Equation ID="Equ9"><EquationNumber>9</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} O(c_{i},c_{j}) = \left\{ \begin{array}{l@{\quad }l} 1&\text{ if}\; c_{i} \text{ and}\; c_{j} \text{ are} \text{ under} \text{ the} \text{ same} \text{ topic}\\ 0&\text{ if}\; c_{i} \text{ and}\; c_{j} \text{ not} \text{ under} \text{ the} \text{ same} \text{ topic}\\ \end{array} \right. \end{aligned}$$]]></EquationSource></Equation>Similarly, we define another binary function <InlineEquation ID="IEq53"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq53.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$G$$]]></EquationSource></InlineEquation> to reflect the grouping result of two concepts by clustering as:<Equation ID="Equ10"><EquationNumber>10</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} G(c_{i},c_{j}) = \left\{ \begin{array}{l@{\quad }l} 1&\text{ if}\; c_{i} \text{ and}\; c_{j} \text{ are} \text{ in} \text{ the} \text{ same} \text{ cluster}\\ 0&\text{ if}\; c_{i} \text{ and}\; c_{j} \text{ not} \text{ in} \text{ the} \text{ same} \text{ cluster}\\ \end{array} \right. \end{aligned}$$]]></EquationSource></Equation>Note that these two binary functions are both symmetric which means <InlineEquation ID="IEq54"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq54.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$O(c_{i},c_{j})=O(c_{j},c_{i})$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq55"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq55.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$G(c_{i},c_{j})= G(c_{j},c_{i})$$]]></EquationSource></InlineEquation>. Generating a set <InlineEquation ID="IEq56"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq56.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ C} $$]]></EquationSource></InlineEquation> of ordered pairs <InlineEquation ID="IEq57"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq57.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ C} =\{(c_{i},c_{j}), 1 \le i,j\le |C| , i\ne j \}$$]]></EquationSource></InlineEquation> from concept set <InlineEquation ID="IEq58"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq58.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C$$]]></EquationSource></InlineEquation>, the overall group consistency for <InlineEquation ID="IEq59"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq59.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C$$]]></EquationSource></InlineEquation> is defined based on these two functions and is formalized as:<Equation ID="Equ11"><EquationNumber>11</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \text{ GC}=\frac{|\mathcal{ C} |-\sum _{(c_{i},c_{j})\in \mathcal{ C} }{\text{ IC}(O,G,c_{i},c_{j})}}{|\mathcal{ C} |} \end{aligned}$$]]></EquationSource></Equation>where<Equation ID="Equ12"><EquationNumber>12</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \text{ IC}(O,G,c_{i},c_{j})=\left\{ \begin{array}{l@{\quad }l} 1&\text{ if}\; O(c_{i},c_{j})\ne G(c_{i},c_{j})\\ 0&\text{ if}\; O(c_{i},c_{j})=G(c_{i},c_{j})\\ \end{array} \right. \end{aligned}$$]]></EquationSource></Equation>Group consistency reflects the performance of similarity-based clustering in the form of a pairwise grouping result. The ratio is computed as the fraction of the pairs for which the semantic clustering algorithm gives the same output as the user experiment. If there are no cases in which semantic clustering mis-groups a concept pair, <InlineEquation ID="IEq60"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq60.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$GC$$]]></EquationSource></InlineEquation> is equal to 1. Conversely, <InlineEquation ID="IEq61"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq61.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$GC$$]]></EquationSource></InlineEquation> is equal to 0 when no concept pairs are correctly grouped.</Para>
+                <Para><Emphasis Type="Italic">Set agreement is used to compare two concept sets without considering the ranking measurement. It defines the positive proportion of specific agreement between two sets</Emphasis> [<CitationRef CitationID="CR18">18</CitationRef>]. <Emphasis Type="Italic">The score of set agreement is equal to 1 when the two sets</Emphasis><InlineEquation ID="IEq62"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq62.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_{1}=C_{2}$$]]></EquationSource></InlineEquation>, <Emphasis Type="Italic">and 0 when</Emphasis><InlineEquation ID="IEq63"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq63.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_{1} \bigcap C_{2}=\phi $$]]></EquationSource></InlineEquation>.</Para>
+                <Para>Rank correlation is used to study the relationships between different rankings on the same concept set. We employ Spearman’s ranking correlation coefficient to measure the final output. According to the definition, the score is equal to 1 when agreement between the two rankings are the same, and -1 when one ranking is the reverse of the other.</Para>
+              </Section2>
+              <Section2 ID="Sec18">
+                <Heading>Evaluation setup</Heading>
+                <Para>We recruited 13 persons in our user experiment for concept recommendation. Diverse concepts were suggested by our subjects as shown in Fig. <InternalRef RefID="Fig5">5</InternalRef> showing that the number of concepts increases significantly when less agreement is achieved, from 13 votes to 2 votes. We ignore concepts with only 1 vote because one subject’s suggestion means very little in terms of a common understanding of concept selection.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Concept number versus agreement</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO17">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig6">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Distribution of concepts</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO18">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>We initially concentrate on a smaller concept set in which concepts are selected with <InlineEquation ID="IEq65"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq65.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$agreeement\ge 50\%$$]]></EquationSource></InlineEquation>. When too few concepts are selected for a topic, more concepts with a smaller agreement will also selected in order to make each topic have at least 5 concepts. In this concept set, there are a total of 85 concepts.</Para>
+                <Para>To test the robustness of different similarity measures used in our density-based concept selection, we also carried out experiments on a larger concept set with less agreement among users (<InlineEquation ID="IEq66"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq66.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$vote\ge 2$$]]></EquationSource></InlineEquation>), forming a broader set of 171 concepts. The distribution of all 171 concepts across activities is depicted in Fig. <InternalRef RefID="Fig6">6</InternalRef> with most activities having between 10 and 20 concepts, the overall average being 15. Among all activities, ‘Cooking’ has more relevant concepts selected as more visual concepts are involved and are helpful to identify the activity, such as various kitchen items and food which are very specific. Activities like ‘Using phone’, ‘Reading’, ‘Pet care’ and ‘Going to cinema’ tend to have relatively similar images within one single event sample, therefore have less concepts recommended.</Para>
+                <Para>To measure semantic similarity, we employed both taxonomic similarity and contextual similarity as discussed in Sect. <InternalRef RefID="Sec6">4</InternalRef> using the ontologies of WordNet and ConceptNet, respectively. For taxonomic similarity, we also compared five mainstream similarity measures, those of <InlineEquation ID="IEq67"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq67.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Wu$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq68"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq68.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Palmer$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq69"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq69.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Leacock$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq70"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq70.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Chodorow$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq71"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq71.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Resnik$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq72"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq72.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Jiang$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq73"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq73.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Conrath$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq74"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq74.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Lin$$]]></EquationSource></InlineEquation> all of which were introduced and described earlier. Contextual similarity is obtained by spreading activation through ConceptNet links. After normalizing by textual processing, the word–word semantic similarity is first calculated and then combined to get phrase-level similarity for conjunctive concepts composed of multi-words.</Para>
+                <Para>Concept–concept similarity and topic–concept similarity are both used in our density-based concept selection algorithm to cluster the most similar concepts in the same clusters with corresponding event topics. The output concepts from hierarchical clustering are first analyzed to show the diversity of result concepts by different semantic similarity measures. The average number of concepts selected per event topic is depicted in Fig. <InternalRef RefID="Fig7">7</InternalRef>. Though there is not much difference in the average number of concepts per topic, <InlineEquation ID="IEq75"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq75.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Lin$$]]></EquationSource></InlineEquation> selected more concepts (5.0) compared to <InlineEquation ID="IEq76"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq76.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Jiang$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq77"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq77.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Conrath$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq78"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq78.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> which both select 2.6 and 2.5 concepts per topic, respectively.</Para>
+              </Section2>
+              <Section2 ID="Sec19">
+                <Heading>Result of evaluation</Heading>
+                <Para>Our results are assessed to compare the performance of applications of the two ontologies, WordNet and ConceptNet, for semantic density-based concept selection in the lifelogging domain. Our density-based concept selection and re-ranking algorithm involves several steps including similarity calculation, agglomerative clustering, similarity ranking and so on, therefore we evaluate our results in manifolded ways.</Para>
+                <Section3 ID="Sec20">
+                  <Heading>Evaluating the clustering algorithm</Heading>
+                  <Para>We first apply clustering to group semantically related concepts based on similarity measurement. Group consistency is calculated for each ontology to assess the clustering performance of our agglomerative algorithm in capturing the semantic relationships in everyday life events. The comparison of all above referred ontological measures are shown in Fig. <InternalRef RefID="Fig8">8</InternalRef>.</Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig7">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 7</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Concept number per topic</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO19">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig7_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig8">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 8</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Group consistency comparison</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO20">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig8_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>The assessment is first carried out on a small concept set (85 concepts) as shown by blue bars in Fig. <InternalRef RefID="Fig8">8</InternalRef> and as we can see, ConceptNet-based similarity shows more consistency compared to the other similarity measures. Using the same concept set and agglomerative clustering algorithm, this indicates that the similarity values returned by our spreading activation from ConceptNet do reflect the semantics of everyday activities. We increased the testing concept set by using the larger concept set (171 concepts) shown by red bars and found that <InlineEquation ID="IEq79"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq79.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> still outperforms the other similarity sources.</Para>
+                  <Para>In the larger concept set, the semantic similarity calculation is also performed first for these 171 concepts and topics followed by an hierarchical clustering algorithm. Output concepts are compared on a topic basis against the ground truth from the user experiment. Comparison is done on <Emphasis Type="Italic">Set Agreement</Emphasis> and <Emphasis Type="Italic">Rank Correlation</Emphasis> to evaluate the performance of different similarity measures. Because topics are not uniform in assessing performance, we do not average results over all topics. The results of our density-based everyday concept selection are presented in Figs. <InternalRef RefID="Fig9">9</InternalRef> and <InternalRef RefID="Fig10">10</InternalRef>. The performance of similarity measures is compared in Fig. <InternalRef RefID="Fig9">9</InternalRef> using <Emphasis Type="Italic">Set Agreement</Emphasis> where we find ConceptNet-based concept selection has the highest median value and better quartile scores than WordNet-based measures. Among WordNet-based similarities, <InlineEquation ID="IEq80"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq80.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Leacock$$]]></EquationSource></InlineEquation> performs best on <Emphasis Type="Italic">Set Agreement</Emphasis> but does not show advantages on <Emphasis Type="Italic">Rank Correlation</Emphasis> as shown in Fig. <InternalRef RefID="Fig10">10</InternalRef>.</Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig9">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 9</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Comparison based on set agreement</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO21">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig9_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>ConceptNet-based concept selection results in the highest median and quartile scores on <Emphasis Type="Italic">Rank Correlation</Emphasis> while <InlineEquation ID="IEq81"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq81.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Jiang$$]]></EquationSource></InlineEquation> has the best performance among WordNet-based similarities, but is outperformed by <InlineEquation ID="IEq82"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq82.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation>. We conclude that ConceptNet-based similarity performs best not only on the concepts selected (as implied by <Emphasis Type="Italic">Set Agreement</Emphasis>), but also on the ranking of these concepts (as implied by <Emphasis Type="Italic">Rank Correlation</Emphasis>). The contextual ontology is thus more suitable in everyday concept selection for the lifelogging domain.</Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig10">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 10</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Comparison of rank correlation</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO22">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig10_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig11">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 11</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Comparison of pairwise orderedness (small set)</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO23">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig11_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                </Section3>
+                <Section3 ID="Sec21">
+                  <Heading>Similarity ranking assessment</Heading>
+                  <Para>Similar to group consistency, we define pairwise orderedness to evaluate ranking performance of our algorithm, as the following formula:<Equation ID="Equ13"><EquationNumber>13</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \text{ PO}=\frac{|\mathcal{ C} |-\sum _{(c_{i},c_{j})\in \mathcal{ C} }{\text{ IC}(O,R,c_{i},c_{j})}}{|\mathcal{ C} |} \end{aligned}$$]]></EquationSource></Equation>where<Equation ID="Equ14"><EquationNumber>14</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_Equ14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\text{ IC}(O,R,c_{i},c_{j})\nonumber \\&\quad =\left\{ \begin{array}{l@{\quad }l} 1&\text{ if}\; R(c_{i})\ge R(c_{j})\;\&\;O(c_{i})<O(c_{j})\\ 1&\text{ if}\; R(c_{i})\le R(c_{j})\;\&\;O(c_{i})>O(c_{j})\\ 0&\text{ otherwise}\\ \end{array} \right. \end{aligned}$$]]></EquationSource></Equation>
+                    <InlineEquation ID="IEq83"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq83.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$O(c) = 1$$]]></EquationSource></InlineEquation> if concept <InlineEquation ID="IEq84"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq84.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource></InlineEquation> is selected as a ground truth concept in the user experiment, otherwise, <InlineEquation ID="IEq85"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq85.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$O(c) = 0$$]]></EquationSource></InlineEquation>. <InlineEquation ID="IEq86"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq86.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$R(c)$$]]></EquationSource></InlineEquation> is the final score for concept <InlineEquation ID="IEq87"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq87.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource></InlineEquation> returned by the similarity ranking.</Para>
+                  <Para>A comparison of ontology similarities using pairwise orderedness is shown in Fig. <InternalRef RefID="Fig11">11</InternalRef> on the small concept set (85 concepts). <InlineEquation ID="IEq88"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq88.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> similarity outperforms the other measures in most cases for which the curve of <InlineEquation ID="IEq89"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq89.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> (CN) is above all the other curves (activities before ‘cook’). There are only four cases in which <InlineEquation ID="IEq90"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq90.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> shows worse performance than WordNet-based similarity measures, namely, ‘cook’, ‘listen to presentation’, ‘general shopping’ and ‘presentation’. We also analyzed the poor performance of <InlineEquation ID="IEq91"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq91.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> on these activity types. For ‘listen to presentation’ and ‘presentation’, <InlineEquation ID="IEq92"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq92.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> did not perform well due to the lack of context information for the concept ‘presentation’. By looking up the ontology structure of ConceptNet, we find only two concepts that are contextually connected to ‘presentation’ with high correlation, ‘fail to get information across’ and ‘at conference’ and connected with ‘presentation’ by relationships ‘CapableOf’ and ‘LocationOf’, respectively. Thus, it is hard to quantify related concepts in our concept set with a high similarity weight. In our experiment, ‘general shopping’ is introduced as a very general concept for which even humans find hard to decide the most related concepts.</Para>
+                  <Para>An evaluation on pairwise orderedness is also carried out on the larger 171 concept. The comparison shows a similar result to Fig. <InternalRef RefID="Fig11">11</InternalRef>. ConceptNet-based semantic similarity still performs better than other similarity measures in most cases. In only three cases, <InlineEquation ID="IEq93"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq93.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> does not perform as well as WordNet-based similarities, those three cases being ‘cook’, ‘presentation’ and ‘general shopping’. The reason for poor performance can be explained in the same way as when we were using the small concept set. Note that in the ‘cook’ topic, more procedures such as ‘washing’, ‘peeling potatoes’, ‘stir frying’, to name a few, are involved. The contextual diversity also makes it difficult for <InlineEquation ID="IEq94"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq94.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> to return the contextual similarity correctly.</Para>
+                  <Para>Ranked concepts based on semantic similarity are also compared using metrics of <Emphasis Type="Italic">Set Agreement</Emphasis> and <Emphasis Type="Italic">Rank Correlation</Emphasis>. To simplify the comparison, we perform an evaluation on the smaller concept set with the selection on the top-5 and top-10 concepts returned by the similarity rank algorithm. The performance of different semantic similarity measurements are shown, respectively, in Figs. <InternalRef RefID="Fig12">12</InternalRef> and <InternalRef RefID="Fig13">13</InternalRef>.</Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig12">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 12</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Comparison for top-5 ranked concepts (smaller concept set)</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO26">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig12_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>As we can see from Fig. <InternalRef RefID="Fig12">12</InternalRef>, the advantage of using <InlineEquation ID="IEq95"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq95.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> is more obvious as we select more concepts after similarity rank compared to very few concept seeds selected by clustering. In Fig. <InternalRef RefID="Fig12">12</InternalRef>, the ConceptNet-based algorithm outperforms the others not only in <Emphasis Type="Italic">Set Agreement</Emphasis> but also in <Emphasis Type="Italic">Rank Correlation</Emphasis>. The advantages of <InlineEquation ID="IEq96"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq96.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> when top-10 concepts are selected as depicted in Fig. <InternalRef RefID="Fig13">13</InternalRef> show the robustness of our similarity rank algorithm which propagates the similarity network and gives higher weights to more relevant concepts based on the seeds selected by the clustering algorithm.</Para>
+                  <Para>
+                    <Figure Category="Standard" Float="Yes" ID="Fig13">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 13</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Comparison for top-10 ranked concepts (smaller concept set)</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO27">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_10_Fig13_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                </Section3>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec22">
+              <Heading>Conclusion</Heading>
+              <Para>This paper investigates digital recording of everyday activities, known as visual lifelogging, and elaborates the of target activities for semantic analysis. A density-based approach to selecting semantic concepts is introduced to exploit and leverage concept similarity as reasoned from underlying ontologies. Suggested concepts are then re-ranked with candidate concepts selected by agglomerative clustering, used as seeds. In this paper, semantic reasoning on prevalent lexical and contextual ontologies are also discussed.</Para>
+              <Para>The efficacy of our concept selection algorithm is shown in the way we select and rank concepts used to represent everyday lifelogging activities, from a global view. We conclude that candidate concepts selected by clustering depend on grouping consistency. Usually, the similarity measures which correctly reflect semantic relationships between concepts can obtain better group consistency, as demonstrated by the good performance of <InlineEquation ID="IEq97"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq97.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> similarity in lifelogging. The best performance of contextual similarity obtained from spreading activation on ConceptNet shows that contextual similarity is more suitable in reflecting semantics of everyday concepts in the lifelogging domain. <InlineEquation ID="IEq98"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_10_Article_IEq98.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ConceptNet$$]]></EquationSource></InlineEquation> similarity better reflects the relationship of everyday activities and concepts because they are more contextually relevant in the lifelogging domain.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_Article_10.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_10_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured><ExternalRef><RefSource>http://lastlaugh.inf.cs.cmu.edu/lscom/</RefSource><RefTarget Address="http://lastlaugh.inf.cs.cmu.edu/lscom/" TargetType="URL"/></ExternalRef>. Accessed 26 Nov 2011</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured><ExternalRef><RefSource>http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=7038&amp;more=y</RefSource><RefTarget Address="http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=7038&amp;more=y" TargetType="URL"/></ExternalRef>. Accessed 6 Sep 2010</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured><ExternalRef><RefSource>http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=9497&amp;pos=&amp;colrank=1&amp;rank=272</RefSource><RefTarget Address="http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=9497&amp;pos=&amp;colrank=1&amp;rank=272" TargetType="URL"/></ExternalRef>. Accessed 6 Sep 2010</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>Banerjee S, Pedersen T (2002) An adapted Lesk algorithm for word sense disambiguation using WordNet. In: CICLing ’02: Proceedings of the third international conference on computational linguistics and intelligent text processing. Springer, London, pp 136–145</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Blum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AS</Initials>
+                    <FamilyName>Pentland</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Tröster</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">InSense: interest-based life logging</ArticleTitle>
+                  <JournalTitle>IEEE Multimed</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>40</FirstPage>
+                  <LastPage>48</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/MMUL.2006.87</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Blum M, Pentland AS, Tröster G (2006) InSense: interest-based life logging. IEEE Multimed 13(4):40–48</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Bukhin M, DelGaudio M (2006) WayMarkr: acquiring perspective through continuous documentation. In: MUM ’06: Proceedings of the 5th international conference on mobile and ubiquitous multimedia, ACM, New York, USA, NY, p 9</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Bush V (1945) As we may think. The Atlantic Monthly</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Byrne</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AR</Initials>
+                    <FamilyName>Doherty</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CGM</Initials>
+                    <FamilyName>Snoek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GJF</Initials>
+                    <FamilyName>Jones</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AF</Initials>
+                    <FamilyName>Smeaton</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Everyday concept detection in visual lifelogs: validation, relationships and trends</ArticleTitle>
+                  <JournalTitle>Multimed Tools Appl</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>119</FirstPage>
+                  <LastPage>144</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11042-009-0403-8</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Byrne D, Doherty AR, Snoek CGM, Jones GJF, Smeaton AF (2010) Everyday concept detection in visual lifelogs: validation, relationships and trends. Multimed Tools Appl 49(1):119–144</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Chang SF, Hsu W, Jiang W, Kennedy L, Xu D, Yanagawa A, Zavesky E (2006) Evaluating the impact of 374 visual-based LSCOM concept detectors on automatic search. In: Proceedings of the 4th TRECVid workshop, USA, Gaithersburg</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Chilvers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Corr</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Hayley</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Investigation into the occupational lives of healthy older people through their use of time</ArticleTitle>
+                  <JournalTitle>Aust Occup Ther J</JournalTitle>
+                  <VolumeID>57</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>24</FirstPage>
+                  <LastPage>33</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1440-1630.2009.00845.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chilvers R, Corr S, Hayley S (2010) Investigation into the occupational lives of healthy older people through their use of time. Aust Occup Ther J 57(1):24–33</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Christel MG, Hauptmann AG (2005) The use and utility of high-level semantic features in video retrieval. In: CIVR ’05: Proceedings of the international conference on video retrieval, Ireland, Dublin, pp 134–144</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AR</Initials>
+                    <FamilyName>Doherty</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Caprani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>O’Conaire</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Kalnikaite</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Gurrin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NE</Initials>
+                    <FamilyName>O’Connor</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AF</Initials>
+                    <FamilyName>Smeaton</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Passively recognising human activities through lifelogging</ArticleTitle>
+                  <JournalTitle>Comput Hum Behav</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>1948</FirstPage>
+                  <LastPage>1958</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.chb.2011.05.002</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Doherty AR, Caprani N, O’Conaire C, Kalnikaite V, Gurrin C, O’Connor NE, Smeaton AF (2011) Passively recognising human activities through lifelogging. Comput Hum Behav 27(5):1948–1958</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Haubold A, Natsev A, Naphade M (2006) Semantic multimedia retrieval using lexical query expansion and model-based reranking. IEEE international conference on multimedia and expo, pp 1761– 1764. doi:<ExternalRef><RefSource>10.1109/ICME.2006.262892</RefSource><RefTarget Address="10.1109/ICME.2006.262892" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Hauff C, Aly R, Hiemstra D (2007) The effectiveness of concept based search for video retrieval. In: Workshop information retrieval (FGIR 2007), Halle-Wittenberg, Germany, pp 205–212</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>Hirst G, St-Onge D (1998) Lexical chains as representation of context for the detection and correction malapropisms. In: Fellbaum C (ed) WordNet: an electronic lexical database. MIT Press, Cambridge, MA</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>Hodges S, Williams L, Berry E, Izadi S, Srinivasan J, Butler A, Smyth G, Kapur N, Wood K (2006) Sense Cam: a retrospective memory aid. In: Proceedings of 8th international conference on Ubicomp, Orange County, CA, USA, pp 177–193</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>Hori T, Aizawa K (2003) Context-based video retrieval system for the life-log applications. In: Proceedings of the 5th ACM SIGMM international workshop on multimedia information retrieval, MIR ’03, ACM, New York, USA, NY, pp 31–38</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>Huurnink B, Hofmann K, de Rijke M (2008) Assessing concept selection for video retrieval. In: MIR ’08: Proceeding of the 1st ACM international conference on multimedia information retrieval, ACM, New York, NY, USA, pp 459–466</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Kahneman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AB</Initials>
+                    <FamilyName>Krueger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DA</Initials>
+                    <FamilyName>Schkade</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Schwarz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AA</Initials>
+                    <FamilyName>Stone</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">A survey method for characterizing daily life experience: the day reconstruction method</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>306</VolumeID>
+                  <IssueID>5702</IssueID>
+                  <FirstPage>1776</FirstPage>
+                  <LastPage> 1780</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.1103572</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kahneman D, Krueger AB, Schkade DA, Schwarz N, Stone AA (2004) A survey method for characterizing daily life experience: the day reconstruction method. Science 306(5702):1776– 1780</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibUnstructured>Lakoff G (1990) Women, fire, and dangerous things. University of Chicago Press, Chicago</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibUnstructured>Leacock C, Chodorow M (1998) Combining local context and WordNet similarity for word sense identification. In: Fellbaum C (ed) WordNet: an electronic lexical, database. MIT Press, Cambridge, MA, pp 265–283</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Li X, Wang D, Li J, Zhang B (2007) Video search in concept subspace: a text-like paradigm. In: Proceedings of the 6th ACM international conference on image and video retrieval, CIVR ’07, ACM, New York, NY, USA, pp 603–610</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibUnstructured>Liu H, Singh P (2004) Commonsense reasoning in and over natural language. In: Proceedings of the 8th international conference on knowledge-based intelligent information and engineering systems, Springer, Wellington, New Zealand</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Mann</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Wearable computing: a first step toward personal imaging</ArticleTitle>
+                  <JournalTitle>Computer</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>25</FirstPage>
+                  <LastPage>32</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/2.566147</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mann S (1997) Wearable computing: a first step toward personal imaging. Computer 30(2):25–32</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibUnstructured>Mann S, Fung J, Aimone C, Sehgal A, Chen D (2005) Designing EyeTap digital eyeglasses for continuous lifelong capture and sharing of personal experiences. In: Proceedings of CHI 2005 conference on computer human interaction. ACM Press, Portland, Oregon, USA</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GA</Initials>
+                    <FamilyName>Miller</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">WordNet: a lexical database for English</ArticleTitle>
+                  <JournalTitle> Commun ACM</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <IssueID>11</IssueID>
+                  <FirstPage>39</FirstPage>
+                  <LastPage>41</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/219717.219748</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Miller GA (1995) WordNet: a lexical database for English. Commun ACM 38(11):39–41</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Naphade</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Smith</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Tesic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SF</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Hsu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Kennedy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Hauptmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Curtis</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Large-scale concept ontology for multimedia</ArticleTitle>
+                  <JournalTitle>IEEE Multimed</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>86</FirstPage>
+                  <LastPage>91</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/MMUL.2006.63</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Naphade M, Smith JR, Tesic J, Chang SF, Hsu W, Kennedy L, Hauptmann A, Curtis J (2006) Large-scale concept ontology for multimedia. IEEE Multimed 13(3):86–91</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibUnstructured>Natsev AP, Haubold A, Tesic J, Xie L, Yan R (2007) Semantic concept-based query expansion and re-ranking for multimedia retrieval. In: MULTIMEDIA ’07: Proceedings of the 15th international conference on multimedia, ACM, New York, NY, USA, pp 991–1000</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibUnstructured>Over P, Ianeva T, Kraaij W, Smeaton AF (2005) TRECVid 2005—an overview. In: Proceedings of TRECVid</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Rada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Mili</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Bicknell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Blettner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">Development and application of a metric on semantic nets</ArticleTitle>
+                  <JournalTitle>IEEE Trans Syst Man Cybern</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>17</FirstPage>
+                  <LastPage>30</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/21.24528</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rada R, Mili H, Bicknell E, Blettner M (1989) Development and application of a metric on semantic nets. IEEE Trans Syst Man Cybern 19(1):17–30</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibUnstructured>Reddy S, Parker A, Hyman J, Burke J, Estrin D, Hansen M (2007) Image browsing, processing, and clustering for participatory sensing: lessons from a dietsense prototype. In: EmNets’07: Proceedings of the 4th workshop on embedded networked sensors, ACM Press, Cork, Ireland, pp 13–17</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibUnstructured>Resnik P (1995) Using information content to evaluate semantic similarity in a taxonomy. In: Proceedings of the 14th international joint conference on artificial intelligence, Morgan Kaufmann, San Francisco, CA, USA, pp 448–453</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Resnik</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Semantic similarity in a taxonomy: an information-based measure and its application to problems of ambiguity in natural language</ArticleTitle>
+                  <JournalTitle>J Artif Intell Res</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>95</FirstPage>
+                  <LastPage>130</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0924.68155</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Resnik P (1999) Semantic similarity in a taxonomy: an information-based measure and its application to problems of ambiguity in natural language. J Artif Intell Res 11:95–130</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibUnstructured>Richardson R, Smeaton AF (1995) Using WordNet in a knowledge-based approach to information retrieval. Tech Rep CA-0395, Dublin City University</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibUnstructured>Sellen A, Fogg A, Aitken M, Hodges S, Rother C, Wood K (2007) Do life-logging technologies support memory for the past? An experimental study using Sense Cam. In: Proceedings of CHI 2007, ACM Press, New York, NY, USA, pp 81–90</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Sellen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Whittaker</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Beyond total capture: a constructive critique of lifelogging</ArticleTitle>
+                  <JournalTitle>Commun ACM</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>70</FirstPage>
+                  <LastPage>77</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/1735223.1735243</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sellen AJ, Whittaker S (2010) Beyond total capture: a constructive critique of lifelogging. Commun ACM 53(5):70–77</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>AF</Initials>
+                    <FamilyName>Smeaton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Over</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Kraaij</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ChapterTitle Language="En">High-level feature detection from video in TRECVid: a 5-year retrospective of achievements</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Divakaran</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Multimedia content analysis, theory and applications</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Berlin</PublisherLocation>
+                  <FirstPage>151</FirstPage>
+                  <LastPage>174</LastPage>
+                </BibChapter>
+                <BibUnstructured>Smeaton AF, Over P, Kraaij W (2009) High-level feature detection from video in TRECVid: a 5-year retrospective of achievements. In: Divakaran A (ed) Multimedia content analysis, theory and applications. Springer, Berlin, pp 151–174</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibUnstructured>Smeaton AF, Quigley I (1996) Experiments on using semantic distances between words in image caption retrieval. In: Proceedings of the 19th annual international ACM SIGIR conference on research and development in information retrieval, SIGIR ’96, ACM, New York, NY, USA, pp 174–180</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibUnstructured>Snoek CGM, van Gemert JC, Gevers T, Huurnink B, Koelma DC, van Liempt M, de Rooij O, van de Sande KEA, Seinstra FJ, Smeulders AWM, Thean AHC, Veenman CJ, Worring M (2006) The MediaMill TRECVid 2006 semantic video search engine. In: Proceedings of the 4th TRECVid workshop, Gaithersburg, USA</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CGM</Initials>
+                    <FamilyName>Snoek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Huurnink</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Hollink</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Rijke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Schreiber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Worring</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Adding semantics to detectors for video retrieval</ArticleTitle>
+                  <JournalTitle>IEEE Trans Multimed</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>975</FirstPage>
+                  <LastPage>986</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TMM.2007.900156</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Snoek CGM, Huurnink B, Hollink L, Rijke MD, Schreiber G, Worring M (2007) Adding semantics to detectors for video retrieval. IEEE Trans Multimed 9(5):975–986</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibUnstructured>Snoek CGM, Worring M, van Gemert JC, Geusebroek JM, Smeulders AWM (2006) The challenge problem for automated detection of 101 semantic concepts in multimedia. In: Proceedings of the 14th annual ACM international conference on multimedia, MULTIMEDIA ’06, ACM, New York, NY, USA, pp 421–430</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibUnstructured>Wei XY, Ngo CW (2007) Ontology-enriched semantic space for video search. In: MULTIMEDIA ’07: Proceedings of the 15th international conference on multimedia, ACM, New York, NY, USA, pp 981–990 </BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>43.</CitationNumber>
+                <BibUnstructured>Wu Z, Palmer M (1994) Verb semantics and lexical selection. In: Proceedings of the 32nd annual meeting on Association for Computational Linguistics, Stroudsburg, PA, USA, pp 133–138</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10255</JournalID>
+      <JournalPrintISSN>0168-9673</JournalPrintISSN>
+      <JournalElectronicISSN>1618-3932</JournalElectronicISSN>
+      <JournalTitle>Acta Mathematicae Applicatae Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Mathematicae Applicatae Sinica</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Math Applications in Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Mathematical and Computational Physics</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>14</VolumeIDStart>
+        <VolumeIDEnd>14</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>1998</Year>
+              <Month>10</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Science Press</CopyrightHolderName>
+            <CopyrightYear>1998</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art12">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>BF02683827</ArticleID>
+            <ArticleDOI>10.1007/BF02683827</ArticleDOI>
+            <ArticleSequenceNumber>12</ArticleSequenceNumber>
+            <ArticleTitle Language="En">A variation on the block Arnoldi method for large unsymmetric matrix eigenproblems</ArticleTitle>
+            <ArticleFirstPage>425</ArticleFirstPage>
+            <ArticleLastPage>432</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>1996</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+              </Received>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Science Press</CopyrightHolderName>
+              <CopyrightYear>1998</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>10255</JournalID>
+              <VolumeIDStart>14</VolumeIDStart>
+              <VolumeIDEnd>14</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jia</GivenName>
+                  <FamilyName>Zhongxiao</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Applied Mathematics</OrgDivision>
+                <OrgName>Dalian University of Technology</OrgName>
+                <OrgAddress>
+                  <Postcode>116024</Postcode>
+                  <City>Dalian</City>
+                  <Country>China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>The approximate eigenvectors or Ritz vectors obtained by the block Arnoldi method may converge very slowly and even fail to converge even if the approximate eigenvalues do. In order to improve the quality of the Ritz vectors, a modified strategy is proposed such that new approximate eigenvectors are certain combinations of the Ritz vectors and the<Emphasis Type="Italic">wasted (m+1)</Emphasis> th block basis vector and their corresponding residual norms are minimized in a certain sense. They can be cheaply computed by solving a few small<Emphasis Type="Italic">p</Emphasis>-dimensional minimization problems. The resulting modified<Emphasis Type="Italic">m</Emphasis>-step block Arnoldi method is better than the standard<Emphasis Type="Italic">m</Emphasis>-step one in theory and cheaper than the standard (<Emphasis Type="Italic">m</Emphasis>+1)-step one. Based on this strategy, a modified<Emphasis Type="Italic">m</Emphasis>-step iterative block Arnoldi algorithm is presented. Numerical experiments are reported to show that the modified<Emphasis Type="Italic">m</Emphasis>-step algorithm is often considerably more efficient than the standard (<Emphasis Type="Italic">m</Emphasis>+1)-step iterative one.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>Large unsymmetric</Keyword>
+              <Keyword>block Arnoldi process</Keyword>
+              <Keyword>block Arnoldi method</Keyword>
+              <Keyword>Ritz value</Keyword>
+              <Keyword>Ritz vector</Keyword>
+              <Keyword>modified approximate eigenvector</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>This project is supported by the China State Major Key Project for Basic Researches, the National Natural Science Foundation of China, the Doctoral Program of the China State Education Commission, the Foundation of Returning Scholars of China and the Natural Science Foundation of Liaoning Province.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef TargetType="OnlinePDF" FileRef="BodyRef/PDF/10255_2007_Article_BF02683827.pdf"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>[1]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.E.</Initials>
+                    <FamilyName>Arnoldi</FamilyName>
+                  </BibAuthorName>
+                  <Year>1951</Year>
+                  <ArticleTitle Language="En">The Principle of Minimized Iterations in the Solution of the Matrix Eigenvalue Problem</ArticleTitle>
+                  <JournalTitle>Quart. Appl. Math.</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>17</FirstPage>
+                  <LastPage>29</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0042.12801</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>42792</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>W.E. Arnoldi. The Principle of Minimized Iterations in the Solution of the Matrix Eigenvalue Problem.<Emphasis Type="Italic">Quart. Appl. Math.</Emphasis>, 1951, 9: 17–29.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>[2]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Saad</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Variations on Arnoldi's Method for Computing Eigenelements of Large Unsymmetric Matrices</ArticleTitle>
+                  <JournalTitle>Linear Algebra Appl.</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>269</FirstPage>
+                  <LastPage>295</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0456.65017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0024-3795(80)90169-X</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>591435</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Y. Saad. Variations on Arnoldi's Method for Computing Eigenelements of Large Unsymmetric Matrices.<Emphasis Type="Italic">Linear Algebra Appl.</Emphasis>, 1980, 34: 269–295.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>[3]</CitationNumber>
+                <BibUnstructured>Z. Jia. Generalized Block Lanczos Methods for Large Unsymmetric Eigenproblems.<Emphasis Type="Italic">Numer. Math.</Emphasis>, to appear in 1998.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>[4]</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>Jia</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <BookTitle>Some Numerical Methods for Large Unsymmetric Eigenproblems</BookTitle>
+                  <PublisherName>Math. Dept., Univ. of Bielefeld</PublisherName>
+                  <PublisherLocation>Germany</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0828.65036</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Z. Jia. Some Numerical Methods for Large Unsymmetric Eigenproblems. Ph.D. thesis, Math. Dept., Univ. of Bielefeld, Germany, 1994.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>[5]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Sadkane</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">A Block Arnoldi-Chebyshev Method for Computing the Leading Eigenpairs of Large Sparse Unsymmetric Matrices</ArticleTitle>
+                  <JournalTitle>Numer. Math.</JournalTitle>
+                  <VolumeID>64</VolumeID>
+                  <FirstPage>181</FirstPage>
+                  <LastPage>193</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0791.65020</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01388686</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1199284</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Sadkane. A Block Arnoldi-Chebyshev Method for Computing the Leading Eigenpairs of Large Sparse Unsymmetric Matrices.<Emphasis Type="Italic">Numer. Math.</Emphasis>, 1993, 64: 181–193.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>[6]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Sadkane</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Block Arnoldi and Davidson Methods for Unsymmetric Large Eigenvalue Problems</ArticleTitle>
+                  <JournalTitle>Numer. Math.</JournalTitle>
+                  <VolumeID>64</VolumeID>
+                  <FirstPage>195</FirstPage>
+                  <LastPage>211</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0791.65021</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01388687</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1199285</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Sadkane. Block Arnoldi and Davidson Methods for Unsymmetric Large Eigenvalue Problems.<Emphasis Type="Italic">Numer. Math.</Emphasis>, 1993, 64: 195–211.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>[7]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>Jia</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">The Convergence of Generalized Lanczos Methods for Large Unsymmetric Eigenproblems</ArticleTitle>
+                  <JournalTitle>SIAM J. Matrix Anal. Appl.</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>843</FirstPage>
+                  <LastPage>862</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0834.65021</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/S0895479893246753</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1337649</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Z. Jia. The Convergence of Generalized Lanczos Methods for Large Unsymmetric Eigenproblems.<Emphasis Type="Italic">SIAM J. Matrix Anal. Appl.</Emphasis>, 1995, 16: 843–862.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>[8]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>Jia</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">A Block Incomplete Orthogonalization Method for Large Nonsymmetric Eigenproblems</ArticleTitle>
+                  <JournalTitle>BIT</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>516</FirstPage>
+                  <LastPage>539</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0844.65026</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01739824</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1431346</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Z. Jia. A Block Incomplete Orthogonalization Method for Large Nonsymmetric Eigenproblems.<Emphasis Type="Italic">BIT</Emphasis>, 1995, 35: 516–539.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>[9]</CitationNumber>
+                <BibUnstructured>Z. Jia. Arnoldi Type Algorithms for Large Unsymmetric Multiple Eigenvalue Problems.<Emphasis Type="Italic">J. Comput. Math.</Emphasis>, to appear in 1998.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>[10]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>Jia</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Refined Iterative Algorithms Based on Arnoldi's Process for Large Unsymmetric Eigenproblems</ArticleTitle>
+                  <JournalTitle>Linear Algebra Appl.</JournalTitle>
+                  <VolumeID>259</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>23</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0877.65018</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0024-3795(96)00238-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1450527</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Z. Jia. Refined Iterative Algorithms Based on Arnoldi's Process for Large Unsymmetric Eigenproblems.<Emphasis Type="Italic">Linear Algebra Appl.</Emphasis>, 1997, 259: 1–23.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>[11]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>Jia</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">A Refined Iterative Algorithm Based on the Block Arnoldi Process for Large Unsymmetric Eigenproblems</ArticleTitle>
+                  <JournalTitle>Linear Algebra Appl.</JournalTitle>
+                  <VolumeID>270</VolumeID>
+                  <FirstPage>171</FirstPage>
+                  <LastPage>189</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0896.65035</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0024-3795(97)00023-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1484080</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Z. Jia. A Refined Iterative Algorithm Based on the Block Arnoldi Process for Large Unsymmetric Eigenproblems.<Emphasis Type="Italic">Linear Algebra Appl.</Emphasis>, 1998, 270: 171–189.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>[12]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Ruhe</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Rational Krylov Algorithms for Nonsymmetric Eigenvalue Problems. II: Matrix Pairs</ArticleTitle>
+                  <JournalTitle>Linear Algebra Appl.</JournalTitle>
+                  <VolumeID>197/198</VolumeID>
+                  <FirstPage>283</FirstPage>
+                  <LastPage>296</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0024-3795(94)90492-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1275619</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. Ruhe. Rational Krylov Algorithms for Nonsymmetric Eigenvalue Problems. II: Matrix Pairs.<Emphasis Type="Italic">Linear Algebra Appl.</Emphasis>, 1994, 197/198: 283–296.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>[13]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Ruhe</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">The Rational Krylov Algorithm for Nonsymmetric Eigenvalue Problems. III: Complex Shifts for Real Matrices</ArticleTitle>
+                  <JournalTitle>BIT</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>165</FirstPage>
+                  <LastPage>176</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0810.65032</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01935024</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1429696</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. Ruhe. The Rational Krylov Algorithm for Nonsymmetric Eigenvalue Problems. III: Complex Shifts for Real Matrices.<Emphasis Type="Italic">BIT</Emphasis>, 1994, 34: 165–176.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>[14]</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Saad</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <ChapterTitle Language="En">Projection Methods for Solving Large Sparse Eigenvalue Problems</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Kågström</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Ruhe</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Matrix Pencils</BookTitle>
+                  <PublisherName>Springer-Verlag</PublisherName>
+                  <PublisherLocation>Berlin</PublisherLocation>
+                  <FirstPage>121</FirstPage>
+                  <LastPage>144</LastPage>
+                </BibChapter>
+                <BibUnstructured>Y. Saad. Projection Methods for Solving Large Sparse Eigenvalue Problems, in Matrix Pencils. Ed. by B. Kågström and A. Ruhe, Springer-Verlag, Berlin, 1983, 121–144.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>[15]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Saad</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Chebyshev Acceleration Techniques for Solving Nonsymmetric Eigenvalue Problems</ArticleTitle>
+                  <JournalTitle>Math. Comput.</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>567</FirstPage>
+                  <LastPage>588</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0539.65013</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2007602</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>736453</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Y. Saad. Chebyshev Acceleration Techniques for Solving Nonsymmetric Eigenvalue Problems.<Emphasis Type="Italic">Math. Comput.</Emphasis>, 1984, 42: 567–588.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>[16]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Saad</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">Numerical Solution of Large Nonsymmetric Eigenvalue Problems</ArticleTitle>
+                  <JournalTitle>Computer Phy. Communications</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <FirstPage>71</FirstPage>
+                  <LastPage>90</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0798.65053</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0010-4655(89)90149-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1004697</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Y. Saad. Numerical Solution of Large Nonsymmetric Eigenvalue Problems.<Emphasis Type="Italic">Computer Phy. Communications</Emphasis>, 1989, 53: 71–90.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>[17]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.C.</Initials>
+                    <FamilyName>Sorensen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Implicit Application of Polynomial Filters in a<Emphasis Type="Italic">k</Emphasis>-step Arnoldi Method</ArticleTitle>
+                  <JournalTitle>SIAM J. Matrix Anal. Appl.</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>357</FirstPage>
+                  <LastPage>385</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0763.65025</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/0613025</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1146670</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D.C. Sorensen. Implicit Application of Polynomial Filters in a<Emphasis Type="Italic">k</Emphasis>-step Arnoldi Method.<Emphasis Type="Italic">SIAM J. Matrix Anal. Appl.</Emphasis>, 1992, 13: 357–385.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>[18]</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Chatelin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Godet-Thobie</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ChapterTitle Language="En">Stability Analysis in Aeronautical Industries</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Durand</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>F.E.</Initials>
+                    <FamilyName>Dabaghi</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Proceedings of the 2nd Symposium on High Performance Computing</BookTitle>
+                  <PublisherName>Elsevier/North-Holland</PublisherName>
+                  <PublisherLocation>Amsterdam</PublisherLocation>
+                  <FirstPage>415</FirstPage>
+                  <LastPage>422</LastPage>
+                </BibChapter>
+                <BibUnstructured>F. Chatelin and S. Godet-Thobie. Stability Analysis in Aeronautical Industries. In Proceedings of the 2nd Symposium on High Performance Computing, ed. by M. Durand and F.E. Dabaghi, Elsevier/North-Holland, Amsterdam, 1991, 415–422.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

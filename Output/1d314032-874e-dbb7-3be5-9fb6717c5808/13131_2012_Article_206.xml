@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>The Chinese Society of Oceanography</PublisherName>
+    <PublisherLocation>Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>13131</JournalID>
+      <JournalPrintISSN>0253-505X</JournalPrintISSN>
+      <JournalElectronicISSN>1869-1099</JournalElectronicISSN>
+      <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Oceanol. Sin.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Earth Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Environmental Chemistry</JournalSubject>
+        <JournalSubject Type="Secondary">Oceanography</JournalSubject>
+        <JournalSubject Type="Secondary">Engineering Fluid Dynamics</JournalSubject>
+        <JournalSubject Type="Secondary">Marine &amp; Freshwater Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Ecology</JournalSubject>
+        <JournalSubject Type="Secondary">Climate Change</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>31</VolumeIDStart>
+        <VolumeIDEnd>31</VolumeIDEnd>
+        <VolumeIssueCount>6</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>6</Month>
+              <Day>17</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>5</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13131-012-0206-z" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>206</ArticleID>
+            <ArticleDOI>10.1007/s13131-012-0206-z</ArticleDOI>
+            <ArticleSequenceNumber>6</ArticleSequenceNumber>
+            <ArticleTitle Language="En">A semiempirical algorithm for SAR wave height retrieval and its validation using Envisat ASAR wave mode data</ArticleTitle>
+            <ArticleFirstPage>59</ArticleFirstPage>
+            <ArticleLastPage>66</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+              </Received>
+              <Accepted>
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>He</GivenName>
+                  <FamilyName>Wang</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>wanghe08@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jianhua</GivenName>
+                  <FamilyName>Zhu</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jingsong</GivenName>
+                  <FamilyName>Yang</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Chaoying</GivenName>
+                  <FamilyName>Shi</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>National Ocean Technology Center</OrgDivision>
+                <OrgName>State Oceanic Administration</OrgName>
+                <OrgAddress>
+                  <City>Tianjin</City>
+                  <Postcode>300112</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>State Key Laboratory of Satellite Ocean Environment Dynamics, Second Institute of Oceanography</OrgDivision>
+                <OrgName>State Oceanic Administration</OrgName>
+                <OrgAddress>
+                  <City>Hangzhou</City>
+                  <Postcode>310012</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>National Center of Ocean Standard and Metrology</OrgDivision>
+                <OrgName>State Oceanic Administration</OrgName>
+                <OrgAddress>
+                  <City>Tianjin</City>
+                  <Postcode>300112</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Many synthetic aperture radar (SAR) wave height retrieval algorithms have been developed. However, the wave height retrievals from most existing methods either depend on other input as the first guess or are restricted to the long wave regime. A semiempirical algorithm is presented, which has the objective to estimate the wave height from SAR imagery without any prior knowledge. The proposed novel algorithm was developed based on the theoretical SAR ocean wave imaging mechanism and the empirical relation between two types of wave period. The dependency of the proposed model on radar incident and wave direction was analyzed. For Envisat advanced synthetic aperture radar (ASAR) wave mode data, the model can be reduced to the simple form with two input parameters, i.e., the cutoff wavelength and peak wavelength of ocean wave, which can be retrieved from SAR imagery without any prior knowledge of wind or wave. Using Envisat ASAR wave mode data and the collocated buoy measurements from NDBC, the semiempirical algorithm is validated and compared with the Envisat ASAR level 2 products. The root-mean-square-error (RMSE) and scatter index (SI) in respect to the in situ measurements are 0.52 m and 19% respectively. Validation results indicate that, for Envisat ASAR wave mode data, the proposed method works well.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>significant wave height</Keyword>
+              <Keyword>SAR</Keyword>
+              <Keyword>retrieval</Keyword>
+              <Keyword>validation</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Foundation item: The Ocean Science Youth Fund of State Oceanic Administration of China under contract No.2010418; the fund of State Administration for Science, Technology and Industry for National Defense; and the Open Fund of State Key Laboratory of Satellite Ocean Environment Dynamics, Second Institute of Oceanography, State Oceanic Administration of China under contract No.SOED1010.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/13131_2012_Article_206.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Alpers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Ross</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Rufenach</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">On the detectability of ocean surface waves by real and synthetic aperture radar</ArticleTitle>
+                  <JournalTitle>Journal of Geophysical Research</JournalTitle>
+                  <VolumeID>86</VolumeID>
+                  <FirstPage>6481</FirstPage>
+                  <LastPage>6498</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/JC086iC07p06481</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Alpers W, Ross D, Rufenach C. 1981. On the detectability of ocean surface waves by real and synthetic aperture radar. Journal of Geophysical Research, 86: 6481–6498</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Collard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Ardhuin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Chapron</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Extraction of coastal ocean wave fields from SAR images</ArticleTitle>
+                  <JournalTitle>IEEE Journal of Oceanic Engineering</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>526</FirstPage>
+                  <LastPage>533</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/JOE.2005.857503</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Collard F, Ardhuin F, Chapron B. 2005. Extraction of coastal ocean wave fields from SAR images. IEEE Journal of Oceanic Engineering, 30: 526–533</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M. A.</Initials>
+                    <FamilyName>Donelan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Hamilton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W. H.</Initials>
+                    <FamilyName>Hui</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Directional spectra of wind-generated waves</ArticleTitle>
+                  <JournalTitle>Philosophical Transactions of the Royal Society of</JournalTitle>
+                  <VolumeID>315</VolumeID>
+                  <FirstPage>509</FirstPage>
+                  <LastPage>562</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1098/rsta.1985.0054</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Donelan M A, Hamilton J, Hui W H. 1985. Directional spectra of wind-generated waves. Philosophical Transactions of the Royal Society of London,315: 509–562</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Brüning</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">An improved algorithm for the retrieval of ocean wave spectra from synthetic aperture radar image spectra</ArticleTitle>
+                  <JournalTitle>Journal of Geophysical Research</JournalTitle>
+                  <VolumeID>101</VolumeID>
+                  <FirstPage>16615</FirstPage>
+                  <LastPage>16629</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/96JC00798</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hasselmann S, Brüning C, Hasselmann K, et al. 1996. An improved algorithm for the retrieval of ocean wave spectra from synthetic aperture radar image spectra. Journal of Geophysical Research, 101: 16615–16629</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Hasselmann</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">On the nonlinear mapping of an ocean wave spectrum into a synthetic aperture radar image spectrum and its inversion</ArticleTitle>
+                  <JournalTitle>Journal of Geophysical Research</JournalTitle>
+                  <VolumeID>96</VolumeID>
+                  <FirstPage>10713</FirstPage>
+                  <LastPage>10729</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/91JC00302</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hasselmann K, Hasselmann S. 1991. On the nonlinear mapping of an ocean wave spectrum into a synthetic aperture radar image spectrum and its inversion. Journal of Geophysical Research, 96: 10713–10729</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Hua</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Fan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Lu</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">An empirical relation between sea wave spectrum peak period and zero-crossing period</ArticleTitle>
+                  <JournalTitle>Advances in Marine Science(in Chinese)</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>16</FirstPage>
+                  <LastPage>22</LastPage>
+                </BibArticle>
+                <BibUnstructured>Hua Feng, Fan Bin, Lu Yan, et al. 2004. An empirical relation between sea wave spectrum peak period and zero-crossing period. Advances in Marine Science(in Chinese), 22: 16–22</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Johnsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Engen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Chapron</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ChapterTitle Language="En">The ASAR wave mode: Level 1 and 2 algorithms and products</ChapterTitle>
+                  <BookTitle>Proceedings of the ENVISAT Calibration Review</BookTitle>
+                  <PublisherName>ESA Publications Division</PublisherName>
+                  <PublisherLocation>Noordwijk, Netherland</PublisherLocation>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>8</LastPage>
+                </BibChapter>
+                <BibUnstructured>Johnsen H, Engen G, Chapron B, et al. 2002. The ASAR wave mode: Level 1 and 2 algorithms and products. Proceedings of the ENVISAT Calibration Review. Noordwijk, Netherland: ESA Publications Division, 1–8</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Kerbaol</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Chapron</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P. W.</Initials>
+                    <FamilyName>Vachon</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Analysis of ERS-1/2 synthetic aperture radar wave mode imagettes</ArticleTitle>
+                  <JournalTitle>Journal of Geophysical Research</JournalTitle>
+                  <VolumeID>103</VolumeID>
+                  <FirstPage>7833</FirstPage>
+                  <LastPage>7846</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/97JC01579</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kerbaol V, Chapron B, Vachon P W. 1998. Analysis of ERS-1/2 synthetic aperture radar wave mode imagettes. Journal of Geophysical Research, 103: 7833–7846</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>H. E.</Initials>
+                    <FamilyName>Krogstad</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ChapterTitle Language="En">The directional wave spectrum</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Hauser</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>K. K.</Initials>
+                    <FamilyName>Kahma</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>H. E.</Initials>
+                    <FamilyName>Krogstad</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Measuring and Analyzing the Directional Spectra of Ocean Waves</BookTitle>
+                  <PublisherName>EU Publications Office</PublisherName>
+                  <PublisherLocation>Luxembourg</PublisherLocation>
+                  <FirstPage>15</FirstPage>
+                  <LastPage>54</LastPage>
+                </BibChapter>
+                <BibUnstructured>Krogstad H E. 2003. The directional wave spectrum. In: Hauser D, Kahma K K, Krogstad H E, eds. Measuring and Analyzing the Directional Spectra of Ocean Waves. Luxembourg: EU Publications Office, 15–54</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H. E.</Initials>
+                    <FamilyName>Krogstad</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S. F.</Initials>
+                    <FamilyName>Barstow</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Satellite wave measurement for coastal engineering applications</ArticleTitle>
+                  <JournalTitle>Coastal Engineering</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <FirstPage>283</FirstPage>
+                  <LastPage>307</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0378-3839(99)00030-7</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Krogstad H E, Barstow S F. 1999. Satellite wave measurement for coastal engineering applications. Coastal Engineering, 37: 283–307</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>König</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Schulz-Stellenfleth</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Validation and intercomparison of ocean wave spectra inversion schemes using ASAR wave mode data</ArticleTitle>
+                  <JournalTitle>International Journal of Remote Sensing</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>4969</FirstPage>
+                  <LastPage>4993</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/01431161.2010.485222</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Li Xiaoming, König T, Schulz-Stellenfleth J, et al. 2010. VValidation and intercomparison of ocean wave spectra inversion schemes using ASAR wave mode data. International Journal of Remote Sensing, 31: 4969–4993</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Lehner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Bruns</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Ocean wave integral parameter measurements using Envisat ASAR wave mode data</ArticleTitle>
+                  <JournalTitle>IEEE Transactions on Geoscience and Remote Sensing</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <FirstPage>155</FirstPage>
+                  <LastPage>174</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TGRS.2010.2052364</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Li Xiaoming, Lehner S, Bruns T. 2011. Ocean wave integral parameter measurements using Envisat ASAR wave mode data. IEEE Transactions on Geoscience and Remote Sensing, 49: 155–174</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>M. S.</Initials>
+                    <FamilyName>Longuet-Higgins</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D. E.</Initials>
+                    <FamilyName>Cartwright</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N. D.</Initials>
+                    <FamilyName>Smith</FamilyName>
+                  </BibAuthorName>
+                  <Year>1963</Year>
+                  <ChapterTitle Language="En">Observations of the directional spectrum of sea waves using the motions of a floating buoy</ChapterTitle>
+                  <BookTitle>Ocean Wave Spectra</BookTitle>
+                  <PublisherName>Prentice-Hall International Inc</PublisherName>
+                  <PublisherLocation>London</PublisherLocation>
+                  <FirstPage>111</FirstPage>
+                  <LastPage>132</LastPage>
+                </BibChapter>
+                <BibUnstructured>Longuet-Higgins M S, Cartwright D E, Smith N D. 1963. Observations of the directional spectrum of sea waves using the motions of a floating buoy. Ocean Wave Spectra. London: Prentice-Hall International Inc, 111–132</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D. R.</Initials>
+                    <FamilyName>Lyzenga</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Unconstrained inversion of wave height spectra from SAR images</ArticleTitle>
+                  <JournalTitle>IEEE Transactions on Geoscience and Remote Sensing</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>261</FirstPage>
+                  <LastPage>270</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/36.992783</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lyzenga D R. 2002. Unconstrained inversion of wave height spectra from SAR images. IEEE Transactions on Geoscience and Remote Sensing, 40: 261–270</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Mastenbroek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C. F.</Initials>
+                    <FamilyName>Valk</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">A semiparametric algorithm to retrieve ocean wave spectra from synthetic aperture radar</ArticleTitle>
+                  <JournalTitle>Journal of Geophysical Research</JournalTitle>
+                  <VolumeID>105</VolumeID>
+                  <FirstPage>3497</FirstPage>
+                  <LastPage>3516</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/1999JC900282</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mastenbroek C, de Valk C F. 2000. A semiparametric algorithm to retrieve ocean wave spectra from synthetic aperture radar. Journal of Geophysical Research, 105: 3497–3516</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Schulz-Stellenfleth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>König</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Lehner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">An empirical approach for the retrieval of integral ocean wave parameters from synthetic aperture radar data</ArticleTitle>
+                  <JournalTitle>Journal of Geophysical Research</JournalTitle>
+                  <VolumeID>112</VolumeID>
+                  <FirstPage>C03019</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2006JC003970</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schulz-Stellenfleth J, König T, Lehner S. 2007. An empirical approach for the retrieval of integral ocean wave parameters from synthetic aperture radar data. Journal of Geophysical Research, 112: C03019, doi:10.1029/2006JC003970</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Schulz-Stellenfleth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Lehner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Hoja</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">A parametric scheme for the retrieval of two-dimensional ocean wave spectra from synthetic aperture radar look cross spectra</ArticleTitle>
+                  <JournalTitle>Journal of Geophysical Research</JournalTitle>
+                  <VolumeID>110</VolumeID>
+                  <FirstPage>C05004</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2004JC002822</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schulz-Stellenfleth J, Lehner S, Hoja D. 2005. A parametric scheme for the retrieval of two-dimensional ocean wave spectra from synthetic aperture radar look cross spectra. Journal of Geophysical Research, 110: C05004, doi:10.1029/2004JC002822</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Kawamura</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Retrieval of surface wave parameters from SAR images and their validation in the coastal seas around Japan</ArticleTitle>
+                  <JournalTitle>Journal of Oceanography</JournalTitle>
+                  <VolumeID>65</VolumeID>
+                  <FirstPage>567</FirstPage>
+                  <LastPage>577</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10872-009-0048-2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sun Jian, Kawamura H. 2009. Retrieval of surface wave parameters from SAR images and their validation in the coastal seas around Japan. Journal of Oceanography, 65: 567–577</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <BibUnstructured>Wang He. 2008. SAR ocean wave simulation and inversion from Envisat ASAR data [dissertation]. Hangzhou: Second Institute of Oceanography, State Oceanic Administration, 48–78</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <BibUnstructured>Yang Jingsong, Wang He, Zhang Rong, et al. 2008. Unconstrained ocean wave spectra retrieval from SAR SLC imagery. 6th (2008) Asia-Pacific Remote Sensing Symposium, Noumea, New Caledonia, 7154, Bellingham, USA: International Society for Optical Engineering, doi:10.1117/12.804858</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

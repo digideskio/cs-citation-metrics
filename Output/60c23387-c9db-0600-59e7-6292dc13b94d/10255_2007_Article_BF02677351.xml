@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10255</JournalID>
+      <JournalPrintISSN>0168-9673</JournalPrintISSN>
+      <JournalElectronicISSN>1618-3932</JournalElectronicISSN>
+      <JournalTitle>Acta Mathematicae Applicatae Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Mathematicae Applicatae Sinica</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Math Applications in Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Mathematical and Computational Physics</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>14</VolumeIDStart>
+        <VolumeIDEnd>14</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>15</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>1998</Year>
+              <Month>1</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Science Press</CopyrightHolderName>
+            <CopyrightYear>1998</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art10">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>BF02677351</ArticleID>
+            <ArticleDOI>10.1007/BF02677351</ArticleDOI>
+            <ArticleSequenceNumber>10</ArticleSequenceNumber>
+            <ArticleTitle Language="En">A 17/10-approximation algorithm for<Emphasis Type="Italic">k</Emphasis>-bounded space on-line variable-sized bin packing</ArticleTitle>
+            <ArticleFirstPage>74</ArticleFirstPage>
+            <ArticleLastPage>79</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>1994</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+              </Received>
+              <Revised>
+                <Year>1996</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+              </Revised>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Science Press</CopyrightHolderName>
+              <CopyrightYear>1998</CopyrightYear>
+            </ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+            <ArticleContext>
+              <JournalID>10255</JournalID>
+              <VolumeIDStart>14</VolumeIDStart>
+              <VolumeIDEnd>14</VolumeIDEnd>
+              <IssueIDStart>1</IssueIDStart>
+              <IssueIDEnd>1</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Zhang</GivenName>
+                  <FamilyName>Guochuan</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Institute of Advanced Mathematics</OrgDivision>
+                <OrgName>Zhejiang University</OrgName>
+                <OrgAddress>
+                  <Postcode>310027</Postcode>
+                  <City>Hangzhou</City>
+                  <Country>China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>A version of the<Emphasis Type="Italic">k</Emphasis>-bounded space on-line bin packing problem, where a fixed collection of bin sizes is allowed, is considered. By packing large items into appropriate bins and closing appropriate bins, we can derive an algorithm with worst-case performance bound 1.7 for<Emphasis Type="Italic">k</Emphasis>≥3.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>Bin packing</Keyword>
+              <Keyword>on-line algorithm</Keyword>
+              <Keyword>worst-case analysis</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>This research is supported by the Science Foundation under State Education Committee of China.</SimplePara>
+            </ArticleNote>
+            <ArticleNote Type="Misc">
+              <SimplePara>The earlier version was done in Institute of Applied Mathematics, Academia Sinica.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10255_2007_Article_BF02677351.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>[1]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.K.</Initials>
+                    <FamilyName>Friesen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.A.</Initials>
+                    <FamilyName>Langston</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">Variable Sized Bin Packing</ArticleTitle>
+                  <JournalTitle>SIAM J. on Comput.</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>222</FirstPage>
+                  <LastPage>229</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0589.68036</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/0215016</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D.K. Friesen and M.A. Langston. Variable Sized Bin Packing.<Emphasis Type="Italic">SIAM J. on Comput.</Emphasis>, 1986, 15: 222–229.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>[2]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N.G.</Initials>
+                    <FamilyName>Kinnersley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.A.</Initials>
+                    <FamilyName>Langston</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988/89</Year>
+                  <ArticleTitle Language="En">On-line Variable-Sized Bin Packing</ArticleTitle>
+                  <JournalTitle>Discrete Applied Mathematics</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>143</FirstPage>
+                  <LastPage>148</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0166-218X(88)90089-3</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>N.G. Kinnersley and M.A. Langston. On-line Variable-Sized Bin Packing.<Emphasis Type="Italic">Discrete Applied Mathematics</Emphasis>, 1988/89, 22:143–148.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>[3]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Csirik</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">An On-Line Algorithm for Variable-Sized Bin Packing</ArticleTitle>
+                  <JournalTitle>Acta Informatica</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>697</FirstPage>
+                  <LastPage>709</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0689.68047</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00289157</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. Csirik. An On-Line Algorithm for Variable-Sized Bin Packing.<Emphasis Type="Italic">Acta Informatica</Emphasis>, 1989, 26: 697–709.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>[4]</CitationNumber>
+                <BibUnstructured>J. Csirik and D.S. Johnson. Bounded Space On-Line Bin Packing: Best is Better than First. The Proceedings of 2nd Annual ACM-SIAM Symposium on Discrete Algorithms, 1991, 309–319.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>[5]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Mao</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Tight Worst-Case Performance Bounds For Next-<Emphasis Type="Italic">K</Emphasis>-Fit Bin Packing</ArticleTitle>
+                  <JournalTitle>SIAM J. on Comput.</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>46</FirstPage>
+                  <LastPage>56</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/0222004</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>W. Mao. Tight Worst-Case Performance Bounds For Next-<Emphasis Type="Italic">K</Emphasis>-Fit Bin Packing.<Emphasis Type="Italic">SIAM J. on Comput.</Emphasis>, 1993, 22: 46–56.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>[6]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Mao</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Best-<Emphasis Type="Italic">K</Emphasis>-Fit Bin Packing</ArticleTitle>
+                  <JournalTitle>Computing</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <FirstPage>265</FirstPage>
+                  <LastPage>270</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0776.68059</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF02243816</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>W. Mao. Best-<Emphasis Type="Italic">K</Emphasis>-Fit Bin Packing.<Emphasis Type="Italic">Computing</Emphasis>,1993, 50: 265–270.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>[7]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Yue</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Tight Performance Bound of<Emphasis Type="Italic">AFB</Emphasis>
+                    <Subscript>k</Subscript> Bin Packing</ArticleTitle>
+                  <JournalTitle>Acta Math. Appl. Sinica</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>443</FirstPage>
+                  <LastPage>446</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0900.68223</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF02009554</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>G. Zhang and M. Yue. Tight Performance Bound of<Emphasis Type="Italic">AFB</Emphasis>
+                  <Subscript>k</Subscript> Bin Packing.<Emphasis Type="Italic">Acta Math. Appl. Sinica</Emphasis>, 1997, 13(4): 443–446.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>[8]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Worst-Case Analysis of the<Emphasis Type="Italic">FFH</Emphasis> Algorithm for On-Line Variable-Sized Bin Packing</ArticleTitle>
+                  <JournalTitle>Computing</JournalTitle>
+                  <VolumeID>56</VolumeID>
+                  <FirstPage>165</FirstPage>
+                  <LastPage>172</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0843.90060</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF02309343</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>G. Zhang. Worst-Case Analysis of the<Emphasis Type="Italic">FFH</Emphasis> Algorithm for On-Line Variable-Sized Bin Packing.<Emphasis Type="Italic">Computing</Emphasis>, 1996, 56: 165–172.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>[9]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.S.</Initials>
+                    <FamilyName>Johnson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Demers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.D.</Initials>
+                    <FamilyName>Ullman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.R.</Initials>
+                    <FamilyName>Garey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.L.</Initials>
+                    <FamilyName>Graham</FamilyName>
+                  </BibAuthorName>
+                  <Year>1974</Year>
+                  <ArticleTitle Language="En">Worst-Case Performance Bounds for Simple One-dimensional Packing Algorithms</ArticleTitle>
+                  <JournalTitle>SIAM J. on Comput.</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>299</FirstPage>
+                  <LastPage>325</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/0203025</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D.S. Johnson, A. Demers, J.D. Ullman, M.R. Garey and R.L. Graham. Worst-Case Performance Bounds for Simple One-dimensional Packing Algorithms.<Emphasis Type="Italic">SIAM J. on Comput.</Emphasis>, 1974, 3: 299–325.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>[10]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Burkard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">
+                    <Emphasis Type="Italic">K</Emphasis>-bound Space On-line Variable-sized Bin Packing</ArticleTitle>
+                  <JournalTitle>Acta Cybernetica</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>63</FirstPage>
+                  <LastPage>76</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0886.05044</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. Burkard and G. Zhang.<Emphasis Type="Italic">K</Emphasis>-bound Space On-line Variable-sized Bin Packing.<Emphasis Type="Italic">Acta Cybernetica</Emphasis>, 1997, 13: 63–76.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

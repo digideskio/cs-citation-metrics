@@ -1,0 +1,2507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>9</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art13">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>73609</ArticleID>
+            <ArticleDOI>10.1208/aapsj070363</ArticleDOI>
+            <ArticleSequenceNumber>13</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Pharmacokinetic-pharmacodynamic modeling in the data analysis and interpretation of drug-induced QT/QTc prolongation</ArticleTitle>
+            <ArticleFirstPage>E609</ArticleFirstPage>
+            <ArticleLastPage>E624</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+              </Received>
+              <Accepted>
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>3</IssueIDStart>
+              <IssueIDEnd>3</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Vladimir</GivenName>
+                  <FamilyName>Piotrovsky</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>+32 14 60 5463</Phone>
+                  <Fax>+32 14 60 5834</Fax>
+                  <Email>vpiotrov@prdbe.jnj.com</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Advanced Modeling &amp; Simulation</OrgDivision>
+                <OrgName>J&amp;J Pharmaceutical Research &amp; Development</OrgName>
+                <OrgAddress>
+                  <Street>Turnhoutseweg 30</Street>
+                  <Postcode>B-2340</Postcode>
+                  <City>Beerse</City>
+                  <Country>Belgium</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>In this review, factors affecting the QT interval and the methods that are currently in use in the analysis of drug effects on the QT interval duration are overviewed with the emphasis on (population) pharmacokinetic-pharmacodynamic (PK-PD) modeling. Among which the heart rate (HR) and the circadian rhythm are most important since they may interfere with the drug effect and need to be taken into account in the data analysis. The HR effect or the RR interval (the distance between 2 consecutive R peaks) effect is commonly eliminated before any further analysis, and many formulae have been suggested to correct QT intervals for changes in RR intervals. The most often used are Bazett and Fridericia formulae introduced in 1920. They are both based on the power function and differ in the exponent parameter. However, both assume the same exponent for different individuals. More recent findings do not confirm this assumption, and individualized correction is necessary to avoid under- or overcorrection that may lead to artificial observations of drug-induced QT interval prolongation. Despite the fact that circadian rhythm in QT and QTc intervals is a well-documented phenomenon, it is usually overlooked when drug effects are evaluated. This may result in a false-positive outcome of the analysis as the QTc peak due to the circadian rhythm may coincide with the peak of the drug plasma concentration. In view of these effects interfering with a potential drug effect on the QTc interval and having in mind low precision of QT interval measurements, a preferable way to evaluate the drug effect is to apply a population PK-PD modeling. In the literature, however, there are only a few publications in which population PK-PD modeling is applied to QT interval prolongation data, and they all refer to antiarrhythmic agents. In this review, after the most important sources of variability are outlined, a comprehensive population PK-PD model is presented that incorporates an individualized QT interval correction, a circadian rhythm in the individually corrected QT intervals, and a drug effect. The model application is illustrated using real data obtained with 2 compounds differing in their QT interval prolongation potential. The usefulness of combining data of several studies is stressed. Finally, the standard approach based on the raw observations and formal statistics, as described in the Preliminary Concept paper of the International Conference on Harmonization, is briefly compared with the method based on population PK-PD modeling, and the advantages of the latter are outlined.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>cardiovascular safety of drugs</Keyword>
+              <Keyword>QT/QTc prolongation caused by drugs</Keyword>
+              <Keyword>concentration-response relationship</Keyword>
+              <Keyword>pharmacokinetic-pharmacodynamic modeling</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: October 24, 2005</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_73609.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Ponti</FamilyName>
+                    <Particle>De</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Poluzzi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Montanaro</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">QT-interval prolongation by non-cardiac drugs: lessons to be learned from recent experience</ArticleTitle>
+                  <JournalTitle>Eur J Clin Pharmacol</JournalTitle>
+                  <VolumeID>56</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>18</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10853872</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s002280050714</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>De Ponti F, Poluzzi E, Montanaro N. QT-interval prolongation by non-cardiac drugs: lessons to be learned from recent experience.<Emphasis Type="Italic">Eur J Clin Pharmacol</Emphasis>. 2000;56:1–18.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Camm</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Evaluation of drug-induced QT interval prolongation: implications for drug approval and labelling</ArticleTitle>
+                  <JournalTitle>Drug Saf</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>323</FirstPage>
+                  <LastPage>351</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11419561</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2165/00002018-200124050-00001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXjvVakt7g%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Malik M, Camm AJ. Evaluation of drug-induced QT interval prolongation: implications for drug approval and labelling.<Emphasis Type="Italic">Drug Saf</Emphasis>. 2001;24:323–351.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Fenichel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Antzelevitch</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Independent Academic Task Force. Drug-induced torsades de pointes and implications for drug development</ArticleTitle>
+                  <JournalTitle>J Cardiovasc Electrophysiol</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>475</FirstPage>
+                  <LastPage>495</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15090000</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1540-8167.2004.03534.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fenichel RR, Malik M, Antzelevitch C, et al. Independent Academic Task Force. Drug-induced torsades de pointes and implications for drug development.<Emphasis Type="Italic">J Cardiovasc Electrophysiol</Emphasis>. 2004;15:475–495.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Thomas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JG</Initials>
+                    <FamilyName>Maconochie</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Fletcher</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">The dilemma of the prolonged QT interval in early drug studies</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>77</FirstPage>
+                  <LastPage>81</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8838432</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK28vjsFGntA%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1111/j.1365-2125.1996.tb00163.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Thomas M, Maconochie JG, Fletcher E. The dilemma of the prolonged QT interval in early drug studies.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 1996;41:77–81.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Shah</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Drug-induced QT dispersion: does it predict the risk of torsade de pointes?</ArticleTitle>
+                  <JournalTitle>J Electrocardiol</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <FirstPage>10</FirstPage>
+                  <LastPage>18</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15660342</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jelectrocard.2004.09.001</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shah RR. Drug-induced QT dispersion: does it predict the risk of torsade de pointes?.<Emphasis Type="Italic">J Electrocardiol</Emphasis>. 2005;38:10–18.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Algra</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JG</Initials>
+                    <FamilyName>Tijssen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Roelandt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Pool</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Lubsen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">QTc prolongation measured by standard 12-lead electrocardiography is an independent risk factor for sudden death due to cardiac arrest</ArticleTitle>
+                  <JournalTitle>Circulation</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <FirstPage>1888</FirstPage>
+                  <LastPage>1894</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2040041</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3M3kvFChug%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1161/01.CIR.83.6.1888</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Algra A, Tijssen JG, Roelandt JR, Pool J, Lubsen J. QTc prolongation measured by standard 12-lead electrocardiography is an independent risk factor for sudden death due to cardiac arrest.<Emphasis Type="Italic">Circulation</Emphasis>. 1991;83:1888–1894.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MC</Initials>
+                    <FamilyName>Bruyne</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AW</Initials>
+                    <FamilyName>Hoes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Kors</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Hofman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Bemmel</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DE</Initials>
+                    <FamilyName>Grobbee</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Prolonged QT interval predicts cardiac and all-cause mortality in the elderly. The Rotterdam Study</ArticleTitle>
+                  <JournalTitle>Eur Heart J</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>278</FirstPage>
+                  <LastPage>284</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10099922</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1053/euhj.1998.1276</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>de Bruyne MC, Hoes AW, Kors JA, Hofman A, van Bemmel JH, Grobbee DE. Prolonged QT interval predicts cardiac and all-cause mortality in the elderly. The Rotterdam Study.<Emphasis Type="Italic">Eur Heart J</Emphasis>. 1999;20:278–284.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Elming</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Holm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Jun</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">The prognostic value of the QT interval and QT interval dispersion in all-cause and cardiac mortality and morbidity in a population of Danish citizens</ArticleTitle>
+                  <JournalTitle>Eur Heart J</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>1391</FirstPage>
+                  <LastPage>1400</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9792266</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1053/euhj.1998.1094</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1M%2Fgs1OmsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Elming H, Holm E, Jun L, et al. The prognostic value of the QT interval and QT interval dispersion in all-cause and cardiac mortality and morbidity in a population of Danish citizens.<Emphasis Type="Italic">Eur Heart J</Emphasis>. 1998;19:1391–1400.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>International Conference on Harmonization (ICH). The clinical evaluation of QT/QTc interval prolongation and proarrythmic potential for non-atiarrhythmic drugs. Preliminary Concept Paper Draft 4. Food and Drug Administration Web site. Available at: http://www.fda.gov/ cder/guidance/6378dft.htm. Accessed June 10, 2004.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Nagy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>DeMeersman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Gallagher</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">QTc interval (cardiac repolarisation): lengthening after meals</ArticleTitle>
+                  <JournalTitle>Obes Res</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>531</FirstPage>
+                  <LastPage>537</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9449136</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c7htVKqtA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nagy D, DeMeersman R, Gallagher D, et al. QTc interval (cardiac repolarisation): lengthening after meals.<Emphasis Type="Italic">Obes Res</Emphasis>. 1997;5:531–537.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Stramba-Badiale</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EH</Initials>
+                    <FamilyName>Locati</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Martinelli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Courville</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PJ</Initials>
+                    <FamilyName>Schwartz</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Gender and the relationship between ventricular repolarisation and cardiac cycle length during 24-hour Holter recordings</ArticleTitle>
+                  <JournalTitle>Eur Heart J</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>1000</FirstPage>
+                  <LastPage>1006</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9183593</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2szis1OksA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stramba-Badiale M, Locati EH, Martinelli A, Courville J, Schwartz PJ. Gender and the relationship between ventricular repolarisation and cardiac cycle length during 24-hour Holter recordings.<Emphasis Type="Italic">Eur Heart J</Emphasis>. 1997;18:1000–1006.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Bonate</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ChapterTitle Language="En">Assessment of QTc interval prolongation in a phase 1 study using Monte Carlo simulation</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kimko</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Duffull</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Simulation in Clinical Trials</BookTitle>
+                  <PublisherName>Marcel Dekker</PublisherName>
+                  <PublisherLocation>New York, NY</PublisherLocation>
+                  <FirstPage>353</FirstPage>
+                  <LastPage>367</LastPage>
+                </BibChapter>
+                <BibUnstructured>Bonate PL. Assessment of QTc interval prolongation in a phase 1 study using Monte Carlo simulation. In: Kimko H, Duffull, S, eds.<Emphasis Type="Italic">Simulation in Clinical Trials</Emphasis>. New York, NY: Marcel Dekker, 2003:353–367.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Anthony</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Male/female differences in pharmacology: safety issues with QT-prolonging drugs</ArticleTitle>
+                  <JournalTitle>J Womens Health</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>47</FirstPage>
+                  <LastPage>52</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1089/jwh.2005.14.47</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Anthony M. Male/female differences in pharmacology: safety issues with QT-prolonging drugs.<Emphasis Type="Italic">J Womens Health</Emphasis>. 2005;14:47–52.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Carella</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Mantz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DR</Initials>
+                    <FamilyName>Rovner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>VV</Initials>
+                    <FamilyName>Gossain</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Bouknight</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GS</Initials>
+                    <FamilyName>Ferenchick</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Obesity, adiposity, and lengthening of the QT interval: improvement after loss</ArticleTitle>
+                  <JournalTitle>Int J Obes Relat Metab Disord</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>938</FirstPage>
+                  <LastPage>942</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8910099</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s%2Fms1Kiug%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Carella MJ, Mantz SL, Rovner DR, Gossain VV, Bouknight RR, Ferenchick GS. Obesity, adiposity, and lengthening of the QT interval: improvement after loss.<Emphasis Type="Italic">Int J Obes Relat Metab Disord</Emphasis>. 1996;20:938–942.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>El-Gamal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Gallagher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Nawras</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Effects of obesity on QT, RR, and QTc intervals</ArticleTitle>
+                  <JournalTitle>Am J Cardiol</JournalTitle>
+                  <VolumeID>75</VolumeID>
+                  <FirstPage>956</FirstPage>
+                  <LastPage>959</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7733014</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0002-9149(99)80700-0</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M3ltVKrsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>El-Gamal A, Gallagher D, Nawras A, et al. Effects of obesity on QT, RR, and QTc intervals.<Emphasis Type="Italic">Am J Cardiol</Emphasis>. 1995;75:956–959.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MR</Initials>
+                    <FamilyName>Franz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Swerdlow</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Liem</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Schaefer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Cycle length dependence of human action potential duration in vivo: effects of single extrastimuli, sudden sustained rate acceleration and deceleration, and different steady-state frequencies</ArticleTitle>
+                  <JournalTitle>J Clin Invest</JournalTitle>
+                  <VolumeID>82</VolumeID>
+                  <FirstPage>972</FirstPage>
+                  <LastPage>979</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3417875</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1172/JCI113706</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1czjtFCisw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Franz MR, Swerdlow CD, Liem LB, Schaefer J. Cycle length dependence of human action potential duration in vivo: effects of single extrastimuli, sudden sustained rate acceleration and deceleration, and different steady-state frequencies.<Emphasis Type="Italic">J Clin Invest</Emphasis>. 1988;82:972–979.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CP</Initials>
+                    <FamilyName>Lau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AR</Initials>
+                    <FamilyName>Freeman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SJ</Initials>
+                    <FamilyName>Fleming</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Camm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DE</Initials>
+                    <FamilyName>Ward</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Hysteresis of the ventricular paced QT interval in response to abrupt changes in pacing rate</ArticleTitle>
+                  <JournalTitle>Cardiovasc Res</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>67</FirstPage>
+                  <LastPage>72</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3167930</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/cvr/22.1.67</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1M%2Fgt12ntA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lau CP, Freeman AR, Fleming SJ, Malik M, Camm AJ, Ward DE. Hysteresis of the ventricular paced QT interval in response to abrupt changes in pacing rate.<Emphasis Type="Italic">Cardiovasc Res</Emphasis>. 1988;22:67–72.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Problems of heart rate correction in assessment of drug-induced QT interval prolongation</ArticleTitle>
+                  <JournalTitle>J Cardiovasc Electrophysiol</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>411</FirstPage>
+                  <LastPage>420</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11332559</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1540-8167.2001.00411.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3MrgsFSrtA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Malik M. Problems of heart rate correction in assessment of drug-induced QT interval prolongation.<Emphasis Type="Italic">J Cardiovasc Electrophysiol</Emphasis>. 2001;12:411–420.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Funck-Brentano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Jaillon</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Rate-corrected QT interval: techniques and limitations</ArticleTitle>
+                  <JournalTitle>Am J Cardiol</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>17B</FirstPage>
+                  <LastPage>22B</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8256750</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0002-9149(93)90035-B</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c%2FnvV2hug%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Funck-Brentano C, Jaillon P. Rate-corrected QT interval: techniques and limitations.<Emphasis Type="Italic">Am J Cardiol</Emphasis>. 1993;72:17B-22B.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>VK</Initials>
+                    <FamilyName>Piotrovsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Population pharmacodynamic and pharmacokinetic modeling via mixed effects</ArticleTitle>
+                  <JournalTitle>Curr Opin Drug Discov Devel</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>314</FirstPage>
+                  <LastPage>330</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXktl2ntrY%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19649865</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Piotrovsky VK. Population pharmacodynamic and pharmacokinetic modeling via mixed effects.<Emphasis Type="Italic">Curr Opin Drug Discov Devel</Emphasis>. 2000;3:314–330.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Derendorf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LJ</Initials>
+                    <FamilyName>Lesko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Chaikin</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic/pharmacodynamic modeling in drug research and development</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>1399</FirstPage>
+                  <LastPage>1418</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11185661</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXovVSitbY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Derendorf H, Lesko LJ, Chaikin P, et al. Pharmacokinetic/pharmacodynamic modeling in drug research and development.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 2000;40:1399–1418.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>HC</Initials>
+                    <FamilyName>Bazett</FamilyName>
+                  </BibAuthorName>
+                  <Year>1920</Year>
+                  <ArticleTitle Language="En">An analysis of the time relations of electrocardiograms</ArticleTitle>
+                  <JournalTitle>Heart</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <FirstPage>353</FirstPage>
+                  <LastPage>370</LastPage>
+                </BibArticle>
+                <BibUnstructured>Bazett HC. An analysis of the time relations of electrocardiograms.<Emphasis Type="Italic">Heart</Emphasis>. 1920;7:353–370.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LS</Initials>
+                    <FamilyName>Fridericia</FamilyName>
+                  </BibAuthorName>
+                  <Year>1920</Year>
+                  <ArticleTitle Language="De">Die systolendauer im elektrokardiogramm bei normalen Menchen und bei Herzkranken</ArticleTitle>
+                  <JournalTitle>Acta Med Scand</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <FirstPage>469</FirstPage>
+                  <LastPage>486</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.0954-6820.1920.tb18266.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fridericia LS. Die systolendauer im elektrokardiogramm bei normalen Menchen und bei Herzkranken.<Emphasis Type="Italic">Acta Med Scand</Emphasis>. 1920;53:469–486.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Sagie</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MG</Initials>
+                    <FamilyName>Larson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RJ</Initials>
+                    <FamilyName>Goldberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Bengtson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Levy</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">An improved method for adjusting the QT interval for heart rate (the Framingham heart study)</ArticleTitle>
+                  <JournalTitle>Am J Cardiol</JournalTitle>
+                  <VolumeID>70</VolumeID>
+                  <FirstPage>797</FirstPage>
+                  <LastPage>801</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1519533</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0002-9149(92)90562-D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK38zptFeqsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sagie A, Larson MG, Goldberg RJ, Bengtson JR, Levy D. An improved method for adjusting the QT interval for heart rate (the Framingham heart study).<Emphasis Type="Italic">Am J Cardiol</Emphasis>. 1992;70:797–801.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Hnatkova</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">“Optimum” formulae for heart rate correction of the QT interval</ArticleTitle>
+                  <JournalTitle>Pacing Clin Electrophysiol</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>1683</FirstPage>
+                  <LastPage>1687</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10598974</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1540-8159.1999.tb00390.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3c%2Fms1SgsQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hnatkova K, Malik M. “Optimum” formulae for heart rate correction of the QT interval.<Emphasis Type="Italic">Pacing Clin Electrophysiol</Emphasis>. 1999;22:1683–1687.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>VN</Initials>
+                    <FamilyName>Batchvarov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Ghuran</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Smetana</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">QT-RR relationship in healthy subjects exhibits substantial intersubject variability and high intrasubject stability</ArticleTitle>
+                  <JournalTitle>Am J Physiol Heart Circ Physiol</JournalTitle>
+                  <VolumeID>282</VolumeID>
+                  <FirstPage>H2356</FirstPage>
+                  <LastPage>H2363</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12003846</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38Xks12nt7Y%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1152/ajpheart.00860.2001</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Batchvarov VN, Ghuran A, Smetana P, et al. QT-RR relationship in healthy subjects exhibits substantial intersubject variability and high intrasubject stability.<Emphasis Type="Italic">Am J Physiol Heart Circ Physiol</Emphasis>. 2002;282:H2356-H2363.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RL</Initials>
+                    <FamilyName>Galeazzi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LZ</Initials>
+                    <FamilyName>Benet</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1976</Year>
+                  <ArticleTitle Language="En">Relationship between the pharmacokinetics and pharmacodynamics of procainamide</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>278</FirstPage>
+                  <LastPage>289</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>954350</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE28XlsFeks7k%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1002/cpt1976203278</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Galeazzi RL, Benet LZ, Sheiner LB. Relationship between the pharmacokinetics and pharmacodynamics of procainamide.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 1976;20:278–289.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Bryson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Whiting</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Lawrence</FamilyName>
+                  </BibAuthorName>
+                  <Year>1978</Year>
+                  <ArticleTitle Language="En">Disopyramide serum and pharmacologic effect kinetics applied to the assessment of bioavailability</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>409</FirstPage>
+                  <LastPage>419</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>728284</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE1MXmtFWlsA%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1111/j.1365-2125.1978.tb04605.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bryson SM, Whiting B, Lawrence JR. Disopyramide serum and pharmacologic effect kinetics applied to the assessment of bioavailability.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 1978;6:409–419.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Whiting</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NH</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Quantitative analysis of the disopyramide concentration-effect relationship</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>67</FirstPage>
+                  <LastPage>75</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7356895</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL3cXhsVSgur4%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1111/j.1365-2125.1980.tb04799.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Whiting B, Holford NH, Sheiner LB. Quantitative analysis of the disopyramide concentration-effect relationship.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 1980;9:67–75.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Desai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Desta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Flockhart</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Variability of heart rate correction methods for the QT interval</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>511</FirstPage>
+                  <LastPage>517</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12814443</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1365-2125.2003.01791.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXlvFait74%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Desai M, Li L, Desta Z, Malik M, Flockhart D. Variability of heart rate correction methods for the QT interval.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 2003;55:511–517.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibUnstructured>Piotrovsky VK, Van Peer A. Cardiovascular safety data analysis via mixed-effects modelling [Abstract]. Population Approach Group in Europe (PAGE) 9th Meeting, Salamanca, Spain, June 2000. Abstract P8. Available at: http://www.page-meeting.org/default. asp?id=20&amp;keuze=abstract-view&amp;goto=abstracts&amp;orderby=author&amp; abstract_id=108. Accessed September 30, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Beal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <BookTitle>NONMEM User’s Guides (I–VIII)</BookTitle>
+                  <PublisherName>UCSF NONMEM Project Group</PublisherName>
+                  <PublisherLocation>San Francisco, CA</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Beal SL, Sheiner LB.<Emphasis Type="Italic">NONMEM User’s Guides (I–VIII)</Emphasis>. San Francisco, CA: UCSF NONMEM Project Group; 1998.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Desai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Desta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Flockhart</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">QT analysis: a complex answer to a simple problem</ArticleTitle>
+                  <JournalTitle>Stat Med</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <FirstPage>2625</FirstPage>
+                  <LastPage>2643</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15316947</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/sim.1863</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Li L, Desai M, Desta Z, Flockhart D. QT analysis: a complex answer to a simple problem.<Emphasis Type="Italic">Stat Med</Emphasis>. 2004;23:2625–2643.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">The imprecision in heart rate correction may lead to artificial observations of drug induced QT interval changes</ArticleTitle>
+                  <JournalTitle>Pacing Clin Electrophysiol</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <FirstPage>209</FirstPage>
+                  <LastPage>216</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11915990</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1460-9592.2002.00209.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Malik M. The imprecision in heart rate correction may lead to artificial observations of drug induced QT interval changes.<Emphasis Type="Italic">Pacing Clin Electrophysiol</Emphasis>. 2002;25:209–216.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Hnatkova</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Batchvarov</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Differences between study-specific and subject-specific heart rate corrections of the QT interval in investigations of drug induced QTc prolongation</ArticleTitle>
+                  <JournalTitle>Pacing Clin Electrophysiol</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>791</FirstPage>
+                  <LastPage>800</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15189536</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1540-8159.2004.00530.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Malik M, Hnatkova K, Batchvarov V. Differences between study-specific and subject-specific heart rate corrections of the QT interval in investigations of drug induced QTc prolongation.<Emphasis Type="Italic">Pacing Clin Electrophysiol</Emphasis>. 2004;27:791–800.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Minematsu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Ohtani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sato</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Iga</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic/pharmacodynamic analysis of tacrolimus-induced QT prolongation in guinea pigs</ArticleTitle>
+                  <JournalTitle>Biol Pharm Bull</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>1341</FirstPage>
+                  <LastPage>1346</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10746167</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXitlWm</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1248/bpb.22.1341</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Minematsu T, Ohtani H, Sato H, Iga T. Pharmacokinetic/pharmacodynamic analysis of tacrolimus-induced QT prolongation in guinea pigs.<Emphasis Type="Italic">Biol Pharm Bull</Emphasis>. 1999;22:1341–1346.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Minematsu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Ohtani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Yamada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Sawada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sato</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Iga</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Quantitative relationship between myocardial concentration of tacrolimus and QT prolongation in guinea pigs: pharmacokinetic/pharmacodynamic model incorporating a site of adverse effect</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>533</FirstPage>
+                  <LastPage>554</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11999291</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1014460404352</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XjsFSrtrs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Minematsu T, Ohtani H, Yamada Y, Sawada Y, Sato H, Iga T. Quantitative relationship between myocardial concentration of tacrolimus and QT prolongation in guinea pigs: pharmacokinetic/pharmacodynamic model incorporating a site of adverse effect.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2001;28:533–554.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Ohtani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sato</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Iga</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kotaki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Sawada</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic-pharmacodynamic analysis of the arrhythmogenic potency of a novel antiallergic agent, ebastine, in rats</ArticleTitle>
+                  <JournalTitle>Biopharm Drug Dispos</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>101</FirstPage>
+                  <LastPage>106</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10206325</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/(SICI)1099-081X(199903)20:2&lt;101::AID-BDD160&gt;3.0.CO;2-L</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXhsFals7c%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ohtani H, Sato H, Iga T, Kotaki H, Sawada Y. Pharmacokinetic-pharmacodynamic analysis of the arrhythmogenic potency of a novel antiallergic agent, ebastine, in rats.<Emphasis Type="Italic">Biopharm Drug Dispos</Emphasis>. 1999;20:101–106.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Ohtami</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Hanada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Yamamoto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Sawada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Iga</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic-pharmacodynamic analysis of the electrocardiographic effects of terfenadine and quinidine in rats</ArticleTitle>
+                  <JournalTitle>Biol Pharm Bull</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>1189</FirstPage>
+                  <LastPage>1196</LastPage>
+                </BibArticle>
+                <BibUnstructured>Ohtami H, Hanada E, Yamamoto K, Sawada Y, Iga T. Pharmacokinetic-pharmacodynamic analysis of the electrocardiographic effects of terfenadine and quinidine in rats.<Emphasis Type="Italic">Biol Pharm Bull</Emphasis>. 1996;19:1189–1196.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Hanada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Ohtami</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kotaki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Sawada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sato</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Iga</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Pharmacodynamic analysis of the electrocardiographic interaction between disopyramide and erythromycin in rats</ArticleTitle>
+                  <JournalTitle>J Pharm Sci</JournalTitle>
+                  <VolumeID>88</VolumeID>
+                  <FirstPage>234</FirstPage>
+                  <LastPage>240</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9950644</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/js980256r</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXotFChtb8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hanada E, Ohtami H, Kotaki H, Sawada Y, Sato H, Iga T. Pharmacodynamic analysis of the electrocardiographic interaction between disopyramide and erythromycin in rats.<Emphasis Type="Italic">J Pharm Sci</Emphasis>. 1999;88:234–240.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Kharidia</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ND</Initials>
+                    <FamilyName>Eddington</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Application of computer-assisted radiotelemetry in the pharmacokinetic and pharmacodynamic modeling of procainamide and N-acetylprocainamide</ArticleTitle>
+                  <JournalTitle>J Pharm Sci</JournalTitle>
+                  <VolumeID>85</VolumeID>
+                  <FirstPage>595</FirstPage>
+                  <LastPage>599</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8773955</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/js950473h</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK28XivVCks7o%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kharidia J, Eddington ND. Application of computer-assisted radiotelemetry in the pharmacokinetic and pharmacodynamic modeling of procainamide and N-acetylprocainamide.<Emphasis Type="Italic">J Pharm Sci</Emphasis>. 1996;85:595–599.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Thibonnier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NHG</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RA</Initials>
+                    <FamilyName>Upton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Blume</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RL</Initials>
+                    <FamilyName>Williams</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic-pharmacodynamic analysis of unbound disopyramide directly measured in serial plasma samples in man</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>559</FirstPage>
+                  <LastPage>574</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6398364</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01059552</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL2MXitFCmurc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Thibonnier M, Holford NHG, Upton RA, Blume CD, Williams RL. Pharmacokinetic-pharmacodynamic analysis of unbound disopyramide directly measured in serial plasma samples in man.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1984;12:559–574.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>43.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NH</Initials>
+                    <FamilyName>Holford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PE</Initials>
+                    <FamilyName>Coates</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Guentert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Riegelman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LB</Initials>
+                    <FamilyName>Sheiner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">The effect of quinidine and its metabolites on the electrocardiogram and systolic time intervals: concentration-effect relationships</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>187</FirstPage>
+                  <LastPage>195</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7213522</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL3MXitVakt7o%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1111/j.1365-2125.1981.tb01123.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Holford NH, Coates PE, Guentert TW, Riegelman S, Sheiner LB. The effect of quinidine and its metabolites on the electrocardiogram and systolic time intervals: concentration-effect relationships.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 1981;11:187–195.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR44">
+                <CitationNumber>44.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AA</Initials>
+                    <FamilyName>Piergies</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TI</Initials>
+                    <FamilyName>Ruo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EM</Initials>
+                    <FamilyName>Jansyn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Belknap</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Atkinson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Effect kinetics of N-acetylprocainamide-induced QT interval prolongation</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>107</FirstPage>
+                  <LastPage>112</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2439251</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2s3ksFaltQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/clpt.1987.117</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Piergies AA, Jr, Ruo TI, Jr, Jansyn EM, Jr, Belknap SM, Jr, Atkinson AJ, Jr. Effect kinetics of N-acetylprocainamide-induced QT interval prolongation.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 1987;42:107–112.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR45">
+                <CitationNumber>45.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Lima</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Boudoulas</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Stereoselective effects of disopyramide enantiomers in humans</ArticleTitle>
+                  <JournalTitle>J Cardiovasc Pharmacol</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>594</FirstPage>
+                  <LastPage>600</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2439842</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00005344-198705000-00014</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL2sXktFOhsbY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lima JJ, Boudoulas H. Stereoselective effects of disopyramide enantiomers in humans.<Emphasis Type="Italic">J Cardiovasc Pharmacol</Emphasis>. 1987;9:594–600.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR46">
+                <CitationNumber>46.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Karbwang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TME</Initials>
+                    <FamilyName>Davis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Looareesuwan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Molunto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Bunnag</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NJ</Initials>
+                    <FamilyName>White</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">A comparison of the pharmacokinetic and pharmacodynamic properties of quinine and quinidine in healthy Thai males</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>265</FirstPage>
+                  <LastPage>271</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8471402</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK3sXitVCltLw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Karbwang J, Davis TME, Looareesuwan S, Molunto P, Bunnag D, White NJ. A comparison of the pharmacokinetic and pharmacodynamic properties of quinine and quinidine in healthy Thai males.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 1993;35:265–271.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR47">
+                <CitationNumber>47.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Uematsu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kanamaru</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Nakashima</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Comparative pharmacokinetic and pharmacodynamic properties of oral and intravenous (+)-sotalol in healthy volunteers</ArticleTitle>
+                  <JournalTitle>J Pharm Pharmacol</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <FirstPage>600</FirstPage>
+                  <LastPage>605</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7996391</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2cXlt1Cqsrk%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1111/j.2042-7158.1994.tb03865.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Uematsu T, Kanamaru M, Nakashima M. Comparative pharmacokinetic and pharmacodynamic properties of oral and intravenous (+)-sotalol in healthy volunteers.<Emphasis Type="Italic">J Pharm Pharmacol</Emphasis>. 1994;46:600–605.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR48">
+                <CitationNumber>48.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Shi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Lasser</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Koziol</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PH</Initials>
+                    <FamilyName>Hinderling</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Kinetics and dynamics of sematilide</ArticleTitle>
+                  <JournalTitle>Ther Drug Monit</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>437</FirstPage>
+                  <LastPage>444</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8585104</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00007691-199510000-00001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2MXosl2qsLs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shi J, Lasser T, Koziol T, Hinderling PH. Kinetics and dynamics of sematilide.<Emphasis Type="Italic">Ther Drug Monit</Emphasis>. 1995;17:437–444.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR49">
+                <CitationNumber>49.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Coz</FamilyName>
+                    <Particle>Le</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Funck-Brentano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Morell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MM</Initials>
+                    <FamilyName>Ghadanfar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Jaillon</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic and pharmacodynamic modeling of the effects of oral and intravenous administrations of dofetilide on ventricular repolarization</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>57</VolumeID>
+                  <FirstPage>533</FirstPage>
+                  <LastPage>542</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7768076</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0009-9236(95)90038-1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Le Coz F, Funck-Brentano C, Morell T, Ghadanfar MM, Jaillon P. Pharmacokinetic and pharmacodynamic modeling of the effects of oral and intravenous administrations of dofetilide on ventricular repolarization.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 1995;57:533–542.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR50">
+                <CitationNumber>50.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Saul</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Ross</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MS</Initials>
+                    <FamilyName>Schaffer</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Pharmacokinetics and pharmacodynamics of sotalol in a pediatric population with supraventricular and ventricular tachyarrhythmia</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>69</VolumeID>
+                  <FirstPage>145</FirstPage>
+                  <LastPage>157</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11240979</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1067/mcp.2001.113795</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXislylsb8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Saul JP, Ross B, Schaffer MS, et al. Pharmacokinetics and pharmacodynamics of sotalol in a pediatric population with supraventricular and ventricular tachyarrhythmia.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 2001;69:145–157.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR51">
+                <CitationNumber>51.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Shi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TM</Initials>
+                    <FamilyName>Ludden</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AP</Initials>
+                    <FamilyName>Melikian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MR</Initials>
+                    <FamilyName>Gastonguay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PH</Initials>
+                    <FamilyName>Hinderling</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Population pharmacokinetics and pharmacodynamics of sotalol in pediatric patients with supraventricular or ventricular tachyarrhythmia</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>555</FirstPage>
+                  <LastPage>575</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11999292</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1014412521191</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XjsFSrtrg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shi J, Ludden TM, Melikian AP, Gastonguay MR, Hinderling PH. Population pharmacokinetics and pharmacodynamics of sotalol in pediatric patients with supraventricular or ventricular tachyarrhythmia.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2001;28:555–575.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR52">
+                <CitationNumber>52.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Phillips</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TH</Initials>
+                    <FamilyName>Grasela</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Agnew</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EA</Initials>
+                    <FamilyName>Ludwig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GA</Initials>
+                    <FamilyName>Thompson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">A population pharmacokinetic-pharmacodynamic analysis and model validation of azimilide</ArticleTitle>
+                  <JournalTitle>Clin Pharmacol Ther</JournalTitle>
+                  <VolumeID>70</VolumeID>
+                  <FirstPage>370</FirstPage>
+                  <LastPage>383</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11673753</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXpt1WrtL0%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1016/S0009-9236(01)56650-3</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Phillips L, Grasela TH, Agnew JR, Ludwig EA, Thompson GA. A population pharmacokinetic-pharmacodynamic analysis and model validation of azimilide.<Emphasis Type="Italic">Clin Pharmacol Ther</Emphasis>. 2001;70:370–383.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR53">
+                <CitationNumber>53.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Corey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Al-Khalidi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Brezovic</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Azimilide pharmacokinetics and pharmacodynamics upon multiple oral dosing</ArticleTitle>
+                  <JournalTitle>Biopharm Drug Dispos</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>59</FirstPage>
+                  <LastPage>68</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10206320</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/(SICI)1099-081X(199903)20:2&lt;59::AID-BDD155&gt;3.0.CO;2-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXhsFamu7c%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Corey A, Al-Khalidi H, Brezovic C, et al. Azimilide pharmacokinetics and pharmacodynamics upon multiple oral dosing.<Emphasis Type="Italic">Biopharm Drug Dispos</Emphasis>. 1999;20:59–68.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR54">
+                <CitationNumber>54.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Corey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Agnew</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Brum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Parekh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Valentine</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Williams</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Pharmacokinetics and pharmacodynamics following intravenous doses of azimilide dihydrochloride</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>1263</FirstPage>
+                  <LastPage>1271</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10586392</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/00912709922012079</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXisVarsQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Corey A, Agnew J, Brum J, Parekh N, Valentine S, Williams M. Pharmacokinetics and pharmacodynamics following intravenous doses of azimilide dihydrochloride.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 1999;39:1263–1271.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR55">
+                <CitationNumber>55.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Brynne</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>McNay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HG</Initials>
+                    <FamilyName>Schaefer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Swedberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CG</Initials>
+                    <FamilyName>Wiltse</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MO</Initials>
+                    <FamilyName>Karlsson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Pharmacodynamic models for the cardiovascular effects of moxonidine in patients with congestive heart failure</ArticleTitle>
+                  <JournalTitle>Br J Clin Pharmacol</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <FirstPage>35</FirstPage>
+                  <LastPage>43</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11167663</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1365-2125.2001.01320.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXhtF2hu74%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Brynne L, McNay JL, Schaefer HG, Swedberg K, Wiltse CG, Karlsson MO. Pharmacodynamic models for the cardiovascular effects of moxonidine in patients with congestive heart failure.<Emphasis Type="Italic">Br J Clin Pharmacol</Emphasis>. 2001;51:35–43.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR56">
+                <CitationNumber>56.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Seyfert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Wendt</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Circadian rhythm of QT- and QTc-intervals in diabetics and hypertensives</ArticleTitle>
+                  <JournalTitle>Z Kardiol</JournalTitle>
+                  <VolumeID>92</VolumeID>
+                  <FirstPage>384</FirstPage>
+                  <LastPage>386</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12966830</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00392-003-0936-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3svis1Ortw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Seyfert H, Wendt T. Circadian rhythm of QT- and QTc-intervals in diabetics and hypertensives.<Emphasis Type="Italic">Z Kardiol</Emphasis>. 2003;92:384–386.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR57">
+                <CitationNumber>57.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Bonnemeier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>UKH</Initials>
+                    <FamilyName>Wiegand</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Braasch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Brandes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Richardt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Potratz</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Circadian profile of QT interval and QT interval variability in 172 healthy volunteers</ArticleTitle>
+                  <JournalTitle>Pacing Clin Electrophysiol</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>377</FirstPage>
+                  <LastPage>382</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12687849</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1460-9592.2003.00053.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bonnemeier H, Wiegand UKH, Braasch W, Brandes A, Richardt G, Potratz J. Circadian profile of QT interval and QT interval variability in 172 healthy volunteers.<Emphasis Type="Italic">Pacing Clin Electrophysiol</Emphasis>. 2003;26:377–382.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR58">
+                <CitationNumber>58.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>VK</Initials>
+                    <FamilyName>Yeragani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Pohl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>VC</Initials>
+                    <FamilyName>Jampala</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Balon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Kay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Igel</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Effect of posture and isoproterenol on beat-to-beat heart rate and QT variability</ArticleTitle>
+                  <JournalTitle>Neuropsychobiology</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>113</FirstPage>
+                  <LastPage>123</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10754424</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1159/000026642</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3c3hvFCkuw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yeragani VK, Pohl R, Jampala VC, Balon R, Kay J, Igel G. Effect of posture and isoproterenol on beat-to-beat heart rate and QT variability.<Emphasis Type="Italic">Neuropsychobiology</Emphasis>. 2000;41:113–123.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR59">
+                <CitationNumber>59.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>VK</Initials>
+                    <FamilyName>Yeragani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Pohl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Balon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>VC</Initials>
+                    <FamilyName>Jampala</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Jayaraman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Twentyfour-hour QT interval variability: increased QT variability during sleep in patients with panic disorder</ArticleTitle>
+                  <JournalTitle>Neuropsychobiology</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>6</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12207139</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1159/000063568</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yeragani VK, Pohl R, Balon R, Jampala VC, Jayaraman A. Twentyfour-hour QT interval variability: increased QT variability during sleep in patients with panic disorder.<Emphasis Type="Italic">Neuropsychobiology</Emphasis>. 2002;46:1–6.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR60">
+                <CitationNumber>60.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Ong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Sarma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Venkataraman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SR</Initials>
+                    <FamilyName>Levin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BN</Initials>
+                    <FamilyName>Singh</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Circadian rhythmicity of heart rate and QTc interval in diabetic autonomic neuropathy: implications for the mechanism of sudden death</ArticleTitle>
+                  <JournalTitle>Am Heart J</JournalTitle>
+                  <VolumeID>125</VolumeID>
+                  <FirstPage>744</FirstPage>
+                  <LastPage>752</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8438703</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0002-8703(93)90166-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3s7nsFaqtA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ong JJ, Sarma JS, Venkataraman K, Levin SR, Singh BN. Circadian rhythmicity of heart rate and QTc interval in diabetic autonomic neuropathy: implications for the mechanism of sudden death.<Emphasis Type="Italic">Am Heart J</Emphasis>. 1993;125:744–752.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR61">
+                <CitationNumber>61.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>HJ</Initials>
+                    <FamilyName>Koch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Raschka</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Banzer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Diurnal variation of ECG intervals and R or T amplitudes in healthy malesubjects assessed by means of spectral and cosinor analysis</ArticleTitle>
+                  <JournalTitle>Jpn Heart J</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>45</FirstPage>
+                  <LastPage>53</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10370396</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1536/jhj.40.45</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1M3pvVGgtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Koch HJ, Raschka C, Banzer W. Diurnal variation of ECG intervals and R or T amplitudes in healthy malesubjects assessed by means of spectral and cosinor analysis.<Emphasis Type="Italic">Jpn Heart J</Emphasis>. 1999;40:45–53.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR62">
+                <CitationNumber>62.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Morganroth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Brown</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Critz</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Variability of the QTc interval: impact on defining drug effect and low-frequency cardiac event</ArticleTitle>
+                  <JournalTitle>Am J Cardiol</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>26B</FirstPage>
+                  <LastPage>31B</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8256752</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0002-9149(93)90037-D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c%2FnvV2gsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Morganroth J, Brown AM, Critz S, et al. Variability of the QTc interval: impact on defining drug effect and low-frequency cardiac event.<Emphasis Type="Italic">Am J Cardiol</Emphasis>. 1993;72:26B-31B.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR63">
+                <CitationNumber>63.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Molnar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Weiss</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FA</Initials>
+                    <FamilyName>Ehlert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JE</Initials>
+                    <FamilyName>Rosenthal</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Diurnal pattern of QTc interval: how long is prolonged? Possible relation to circadian triggers of cardiovascular events</ArticleTitle>
+                  <JournalTitle>J Am Coll Cardiol</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>76</FirstPage>
+                  <LastPage>83</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8522713</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0735-1097(95)00426-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK287itFSqsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Molnar J, Zhang F, Weiss J, Ehlert FA, Rosenthal JE. Diurnal pattern of QTc interval: how long is prolonged? Possible relation to circadian triggers of cardiovascular events.<Emphasis Type="Italic">J Am Coll Cardiol</Emphasis>. 1996;27:76–83.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR64">
+                <CitationNumber>64.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Neyroud</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Maison-Blanche</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Denjoy</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Diagnostic performance of QT interval variables from 24-h electrocardiography in the long QT syndrome</ArticleTitle>
+                  <JournalTitle>Eur Heart J</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>158</FirstPage>
+                  <LastPage>165</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9503190</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1053/euhj.1997.0730</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c7mtl2hsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Neyroud N, Maison-Blanche P, Denjoy I, et al. Diagnostic performance of QT interval variables from 24-h electrocardiography in the long QT syndrome.<Emphasis Type="Italic">Eur Heart J</Emphasis>. 1998;19:158–165.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR65">
+                <CitationNumber>65.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Gang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X-H</Initials>
+                    <FamilyName>Guo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Reardon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Hnatkova</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Camm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Circadian variation of the QT interval in patients with sudden cardiac death after myocardial infarction</ArticleTitle>
+                  <JournalTitle>Am J Cardiol</JournalTitle>
+                  <VolumeID>81</VolumeID>
+                  <FirstPage>950</FirstPage>
+                  <LastPage>956</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0002-9149(98)00071-X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gang Y, Guo X-H, Reardon M, Hnatkova K, Camm AJ, Malik M. Circadian variation of the QT interval in patients with sudden cardiac death after myocardial infarction.<Emphasis Type="Italic">Am J Cardiol</Emphasis>. 1998;81:950–956.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR66">
+                <CitationNumber>66.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Smetana</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Batchvarov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Hnatkova</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Camm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Malik</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Circadian rhythm of the corrected QT interval: impact of different heart rate correction models</ArticleTitle>
+                  <JournalTitle>Pacing Clin Electrophysiol</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>383</FirstPage>
+                  <LastPage>386</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12687850</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1460-9592.2003.00054.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Smetana P, Batchvarov V, Hnatkova K, Camm AJ, Malik M. Circadian rhythm of the corrected QT interval: impact of different heart rate correction models.<Emphasis Type="Italic">Pacing Clin Electrophysiol</Emphasis>. 2003;26:383–386.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR67">
+                <CitationNumber>67.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Nelson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YL</Initials>
+                    <FamilyName>Tong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JK</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Halberg</FamilyName>
+                  </BibAuthorName>
+                  <Year>1979</Year>
+                  <ArticleTitle Language="En">Methods for cosinorrhythmometry</ArticleTitle>
+                  <JournalTitle>Chronobiologia</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>305</FirstPage>
+                  <LastPage>323</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>548245</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL3c3isVWntQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nelson W, Tong YL, Lee JK, Halberg F. Methods for cosinorrhythmometry.<Emphasis Type="Italic">Chronobiologia</Emphasis>. 1979;6:305–323.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR68">
+                <CitationNumber>68.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Prins</FamilyName>
+                    <Particle>De</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Hequet</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ChapterTitle Language="En">Data processing in chronobiological studies</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Touiton</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Haus</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Biologic Rhythms in Clinical and Laboratory Medicine</BookTitle>
+                  <PublisherName>Springer Verlag</PublisherName>
+                  <PublisherLocation>Berlin, Germany</PublisherLocation>
+                  <FirstPage>90</FirstPage>
+                  <LastPage>112</LastPage>
+                </BibChapter>
+                <BibUnstructured>De Prins J, Hequet B. Data processing in chronobiological studies. In: Touiton Y, Haus E, eds.<Emphasis Type="Italic">Biologic Rhythms in Clinical and Laboratory Medicine</Emphasis>. Berlin, Germany, Springer Verlag; 1992:90–112.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR69">
+                <CitationNumber>69.</CitationNumber>
+                <BibUnstructured>Piotrovsky VK. Population PK-PD analysis of cardiovascular effects of non-cardiovascular drugs with the emphasis on QT prolongation. Population Approach Group in Europe (PAGE) 12th Meeting, Verona, Italy, June 2003. Available at: http://www.page-meeting. org/default.asp?id=23&amp;keuze=abstract-view&amp;goto=abstracts&amp; orderby=author&amp;abstract_id=427. Accessed September 30, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR70">
+                <CitationNumber>70.</CitationNumber>
+                <BibUnstructured>Wade JR, Karlsson MO. Combining PK and PD data during population PK/PD analysis [Abstract]. Population Approach Group in Europe (PAGE) 8th Meeting, Saintes, France, June 1999. Available at: http://www.page-meeting.org/default.asp?id=19&amp;keuze=abstract-view &amp;goto=abstracts&amp;orderby=author&amp;abstract_id=139. Accessed September 30, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR71">
+                <CitationNumber>71.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Morganroth</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">A definitive or thorough phase 1 QT ECG trial as a requirement for drug safety assessment</ArticleTitle>
+                  <JournalTitle>J Electrocardiol</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <FirstPage>25</FirstPage>
+                  <LastPage>29</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>15132366</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jelectrocard.2003.11.004</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Morganroth J. A definitive or thorough phase 1 QT ECG trial as a requirement for drug safety assessment.<Emphasis Type="Italic">J Electrocardiol</Emphasis>. 2004;37:25–29.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR72">
+                <CitationNumber>72.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Bonate</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Russell</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Assessment of QTc prolongation for non-cardiac-related drugs from a drug development perspective</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>349</FirstPage>
+                  <LastPage>358</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10197293</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/00912709922007912</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXjtl2htLs%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bonate PL, Russell T. Assessment of QTc prolongation for non-cardiac-related drugs from a drug development perspective.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 1999;39:349–358.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR73">
+                <CitationNumber>73.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Bonate</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Rank power of metrics used to assess QTc interval prolongation by clinical trial simulation</ArticleTitle>
+                  <JournalTitle>J Clin Pharmacol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>468</FirstPage>
+                  <LastPage>474</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10806599</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/00912700022009233</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3c3ms1GlsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bonate PL. Rank power of metrics used to assess QTc interval prolongation by clinical trial simulation.<Emphasis Type="Italic">J Clin Pharmacol</Emphasis>. 2000;40:468–474.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

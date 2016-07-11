@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <JournalSubject Type="Secondary">Information Storage and Retrieval</JournalSubject>
+        <JournalSubject Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Type="Secondary">Computer Science, general</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>1</VolumeIDStart>
+        <VolumeIDEnd>1</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>5</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>6</Month>
+              <Day>19</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2012</Year>
+              <Month>6</Month>
+              <Day>18</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-012-0011-7" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>11</ArticleID>
+            <ArticleDOI>10.1007/s13735-012-0011-7</ArticleDOI>
+            <ArticleSequenceNumber>3</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">An efficient framework for location-based scene matching in image databases</ArticleTitle>
+            <ArticleCategory>Regular Paper</ArticleCategory>
+            <ArticleFirstPage>103</ArticleFirstPage>
+            <ArticleLastPage>114</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+              </Received>
+              <Revised>
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+              </Revised>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>15</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Xu</GivenName>
+                  <FamilyName>Chen</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>xhen@umich.edu</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Madirakshi</GivenName>
+                  <FamilyName>Das</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>madirakshi.das@kodak.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Alexander</GivenName>
+                  <FamilyName>Loui</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>alexander.loui@kodak.com</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of EECS</OrgDivision>
+                <OrgName>University of Michigan</OrgName>
+                <OrgAddress>
+                  <City>Ann Arbor</City>
+                  <Country Code="US">USA</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Kodak Research Lab</OrgDivision>
+                <OrgName>Eastman Kodak Company</OrgName>
+                <OrgAddress>
+                  <City>Rochester</City>
+                  <Country Code="US">USA</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para>SIFT-based methods have been widely used for scene matching of photos taken at particular locations or places of interest. These methods are typically very time consuming due to the large number and high dimensionality of features used, making them unfeasible for use in consumer image collections containing a large number of images where computational power is limited and a fast response is desired. Considerable computational savings can be realized if images containing signature elements of particular locations can be automatically identified from the large number of images and only these representative images used for scene matching. We propose an efficient framework incorporating a set of discriminative image features that effectively enables us to select representative images for fast location-based scene matching. These image features are used for classifying images into good or bad candidates for scene matching, using different classification approaches. Furthermore, the image features created from our framework can facilitate the process of using sub-images for location-based scene matching with SIFT features. The experimental results demonstrate the effectiveness of our approach compared with the traditional SIFT-, PCA-SIFT-, and SURF-based approaches by reducing the computational time by an order of magnitude.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Scene matching</Keyword>
+              <Keyword>SIFT</Keyword>
+              <Keyword>Clustering</Keyword>
+              <Keyword>Image search and retrieval</Keyword>
+              <Keyword>Face detection</Keyword>
+              <Keyword>Occlusion</Keyword>
+              <Keyword>Blur</Keyword>
+              <Keyword>Classification</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>Scene matching refers to the process of matching a region in one image with the corresponding region in another image where both image regions are part of the same scene. Since most digital media currently being captured and the billions of earlier digital images taken before the availability of GPS lack detailed location information, scene matching plays an important role in determining location information. In the absence of GPS information, the location at which a photograph was captured can be described in terms of the stationary background [<CitationRef CitationID="CR5">5</CitationRef>]. Earlier work on scene matching involved computing correlation between images [<CitationRef CitationID="CR8">8</CitationRef>], local invariant features [<CitationRef CitationID="CR20">20</CitationRef>], and spatial intensity gradients of the images [<CitationRef CitationID="CR16">16</CitationRef>]. In [<CitationRef CitationID="CR20">20</CitationRef>], Schaffalitzky et al. present an effective approach for matching shots that are images of the same 3D scene in a film. The wide baseline method represents each frame by a set of viewpoint invariant local features. However, in addition to being very computationally intensive, these methods cannot handle the large variations in scale, lighting, and pose encountered in consumer images.</Para>
+              <Para>More recently, there has been a lot of work on matching feature-rich complex scenes using scale-invariant features (SIFT) [<CitationRef CitationID="CR15">15</CitationRef>] and faster feature extractions such as PCA-SIFT and Speeded Up Robust Features (SURF) [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR11">11</CitationRef>]. Furthermore, semantic information has been considered in scene matching [<CitationRef CitationID="CR13">13</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>, <CitationRef CitationID="CR23">23</CitationRef>]. In the work [<CitationRef CitationID="CR19">19</CitationRef>], a combination of <Emphasis Type="Italic">query-by-visual-example</Emphasis> (QBVE) and <Emphasis Type="Italic">semantic retrieval</Emphasis> (SR) has been adopted for image retrieval, where images are labeled with respect to a vocabulary of visual concepts, as is customary in SR. In [<CitationRef CitationID="CR23">23</CitationRef>], a color SIFT descriptor for scene matching is proposed to explore the invariant properties and distinctiveness with respect to photometric transformations. In [<CitationRef CitationID="CR18">18</CitationRef>], Quattoni and Torralba proposed a prototype that can successfully combine both local and global discriminative information. However, these techniques have been mainly used to match and register the entire scene for every image, which is a time-consuming process when a large image database is involved. To avoid comparing each pair of images in the database to detect scene matches, a method for selecting a few representative images that can be matched reliably based on their image characteristics is very desirable.</Para>
+              <Para>The criteria used for choosing representative images from a group of images (or a keyframe from a segment of video) are often tied to image quality [<CitationRef CitationID="CR12">12</CitationRef>] and the best similarity with other images in the group. The main difference between our work and Ke et al. [<CitationRef CitationID="CR12">12</CitationRef>] is that the work in [<CitationRef CitationID="CR12">12</CitationRef>] mainly focuses on the determination of the quality of photos, while our work addresses the challenging problem of selection of good images for the purpose of scene matching. Practically, a good-quality photo may not be the best candidate for scene matching. For instance, photos that contain large homogenous regions such as water, grass, and sky could be of high quality but they are usually poor for scene matching since they lack specific features that could determine the locations. Also, photographs of people, which constitute a large portion of consumer image databases, are not good candidates for scene matching if the people in the picture are occluding the background, or if the background is plain, whereas these characteristics usually result in a good quality portrait. Also, the complexity of various scenes limits the usefulness of applying traditional scene matching with SIFT features directly. These factors motivated our effort to produce an effective framework for fast selection of good candidate images for location-based scene matching.</Para>
+              <Para>In this work, we address these issues by proposing an efficient framework that explores image features that evaluate images in terms of their value for scene matching in consumer image collections. The proposed framework identifies images with good matching opportunities for SIFT and SIFT-like features. Typically, good images for this application contain distinctive elements with complex edge structures. Since our goal is computational savings, the selection process needs to be extremely fast when compared with the scene matching task, and our image features are designed following this criterion. These image features are incorporated into the framework for selecting representative images appropriate for the scene matching task. Further reduction in computation time is achieved by extracting sub-images containing regions of interest for scene matching. As far as we know, this is the first time that a generalized framework for selection of representative images for consumer image collection is proposed, which is motivated by the appropriateness of the images for scene matching.</Para>
+              <Para>The rest of the paper is organized as follows: in Sect. <InternalRef RefID="Sec2">2</InternalRef>, we present a framework for selection of representative images. In Sect. <InternalRef RefID="Sec3">3</InternalRef>, we investigate the feature representation for our framework. Given the extracted features, in Sect. <InternalRef RefID="Sec7">4</InternalRef> we discuss the classification algorithms relying on the extracted features. The comparison of the performance of our approach with traditional approaches is demonstrated in Sect. <InternalRef RefID="Sec11">5</InternalRef>. We give a brief summary and conclusion in Sect. <InternalRef RefID="Sec15">6</InternalRef>.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Our framework</Heading>
+              <Para>A large number of images in consumer image collections are not suitable for scene matching. Earlier work on consumer collections [<CitationRef CitationID="CR5">5</CitationRef>] observed that only about 10% of the images present in co-located events can actually be matched using scene matching techniques. The main reasons for this are (1) The background elements that can be used for matching images captured at the same location are mostly occluded by the people in the images. (2) The images are blurry due to focusing problems or camera and/or object motion, resulting in failure of SIFT feature point detection. (3) The images contain few meaningful edges and specific objects, e.g., images with natural scenes, or generic objects such as cabinets and furniture common to many locations. Our goal is to select the best candidate images for successful SIFT-based scene matching, while eliminating the images with the above-mentioned problems.</Para>
+              <Para>An event clustering algorithm described in [<CitationRef CitationID="CR14">14</CitationRef>] is used to segment a user’s collection into events and sub-events using temporal and color histogram information, where events are very likely to have been captured at the same location because of their temporal proximity. Our approach to selecting the best images for SIFT-based scene matching can be applied to select a few representative images from each event, thus greatly reducing the number of images that need to be matched in the collection.</Para>
+              <Para>We formulate the problem of selecting representative images as a fast binary classification problem—the separation of good representative images from unsuitable images in consumer image collections, using features that can discriminate between the two classes. This allows us to filter out a large fraction of the images in a collection, resulting in a framework in which scene matching can be performed efficiently. Figure <InternalRef RefID="Fig1">1</InternalRef> shows a block diagram of our approach. The output of our method is a shortlist of images that are suitable for SIFT-based scene matching, and sub-image regions corresponding to these images where scene matching should be performed.</Para>
+              <Para>
+                <Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Block diagram of our framework</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_11_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Relevant feature extraction</Heading>
+              <Para>This section describes the main features we have developed to distinguish between good candidate images for scene matching and other images in the collection.</Para>
+              <Section2 ID="Sec4">
+                <Heading>Occlusion extent</Heading>
+                <Para>Based on evidence gathered from a large number of consumer images, it can be seen that the occlusion of objects of interest due to the presence of people is an important factor in determining whether the image is a good candidate image for scene matching. Obviously, the higher the extent of the occlusion, the smaller the probability that the image can be matched with other images from the same scene by using unique objects present in the scene. Typically, a large fraction of consumer images contain people. To measure the occlusion extent, we determine the approximate positions of people in the images using face detection. Specifically, we estimate the position of people from the position and size of the facial circle (the center and the radius) output by a face detector. We use the face detection algorithm by Jones et al. [<CitationRef CitationID="CR9">9</CitationRef>] due to its faster implementation, utilizing integral images and a cascade of classifiers. It should be noted that human detection approaches that could yield higher accuracy in detecting people in images in some domains, while they may not achieve the speed of [<CitationRef CitationID="CR9">9</CitationRef>]. However, for consumer image collections, in many cases the torsos are occluded by other people or objects in the scene, while the faces are most likely unobstructed in the photos. Therefore, the face detector has better detection performance as compared with human detectors in our application. We rely on bagging [<CitationRef CitationID="CR2">2</CitationRef>] to reduce the false detection and improve the accuracy of face detection. Particularly, in three runs of the detector using different parameters, if the detection results satisfy <InlineEquation ID="IEq1"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$|x(i)-x(j)|<5, |y(i)-y(j)|<5, |r(i)-r(j)|<5$$]]></EquationSource></InlineEquation>, where <InlineEquation ID="IEq2"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$i,j=1,2,3$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq3"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$i\ne j,x(i),y(i)$$]]></EquationSource></InlineEquation> are the coordinates of the center of the face, and <InlineEquation ID="IEq4"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$r(i)$$]]></EquationSource></InlineEquation> is the radius of the circle, we consider the detection to be correct. We choose the regions with the highest vote as the regions where faces are detected. Subsequently, we estimate the area of the regions of the human body by making reasonable assumptions that (1) the width of the shoulder is approximately twice as long as the width of the head and (2) the length of the occluding part of the body in the image is approximately four times as long as the length of the head. We obtain these priors by averaging the results over 3,000 images with different postures of people, including standing and sitting.</Para>
+                <Para>We compute the occlusion extent <InlineEquation ID="IEq5"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$k_1$$]]></EquationSource></InlineEquation> as<Equation ID="Equ1"><EquationNumber>1</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} {k_{1}}={\frac{P}{Q}}, \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq6"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P$$]]></EquationSource></InlineEquation> is the total number of occluded pixels and <InlineEquation ID="IEq7"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Q$$]]></EquationSource></InlineEquation> is the total number of pixels in the image. Figure <InternalRef RefID="Fig2">2</InternalRef> illustrates the occlusion extent for some sample consumer images. It should be noted that there could be some situations where people are overlapping with each other, which could make our estimates slightly larger than the true value. However, from the experimental results, it does not have much influence on our classification results. Furthermore, this problem can be solved by first sorting the human face by <InlineEquation ID="IEq8"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$x$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq9"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$y$$]]></EquationSource></InlineEquation> coordinates and then determining the overlap regions of adjacent human faces.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Visual illustration of occlusion extent for some example images from consumer collections</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Compactness of edges</Heading>
+                <Para>The success of scene matching is highly dependent on the presence of spatially compact regions with dense edge structures corresponding to unique objects in the image. Therefore, we propose a feature that estimates the number of regions of interest for scene matching in any candidate image. The larger the number of such regions contained in the image, the higher the probability that the image is a good candidate for scene matching. In this paper, we consider the edge information [<CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>] as the most salient information for determining regions of interest for scene matching. This choice enables a fast implementation—the edge clustering method has also been shown to be an efficient method for fast object detection [<CitationRef CitationID="CR4">4</CitationRef>]. In this work, we evaluate the number of possible regions of interest by first clustering the edges spatially and then computing the variance of each cluster. If the variance of each cluster is smaller than a threshold, we consider the cluster to be a region of interest. The steps in this process are shown in Fig. <InternalRef RefID="Fig4">4</InternalRef>. Since the edges of textured regions such as grass are usually not compact enough (such as in Fig. <InternalRef RefID="Fig3">3</InternalRef>a), these regions can be filtered out by thresholding based on the variance of the cluster.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Visual illustration of the regions of interest for scene matching estimated in some example images from consumer collections</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO4">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Steps in the extraction of compactness of edges feature</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO5">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_11_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>To remove the small variations in pixel values and false edges due to illumination differences and textured regions, we pre-process the images with Gaussian filters to smooth the images. Subsequently, Canny detectors are applied to the smoothed images. We subtract the edges contributed by people in the images from the total edge map by combining the results from face detection and people detection discussed earlier. By doing this, it is more likely that the remaining edges are mostly from non-people objects in the image.</Para>
+                <Para>Once we obtain the edge map for objects in the image, we utilize hierarchical clustering [<CitationRef CitationID="CR10">10</CitationRef>], where agglomerative methods proceed by a series of fusions of the <InlineEquation ID="IEq10"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$n$$]]></EquationSource></InlineEquation> sub-block of edges into objects where each of the sub-block of edges is of size 3<InlineEquation ID="IEq11"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\times $$]]></EquationSource></InlineEquation>3. This method can handle the uncertain number of regions in the images (unlike K-means clustering [<CitationRef CitationID="CR6">6</CitationRef>] where the number of regions need to be pre-specified). The detailed hierarchical clustering algorithm is as follows:<OrderedList><ListItem><ItemNumber>1.</ItemNumber><ItemContent><Para>Initialize <InlineEquation ID="IEq12"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c=n,D_i=\{x_i\}$$]]></EquationSource></InlineEquation> where <InlineEquation ID="IEq13"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource></InlineEquation> is the current number of clusters, <InlineEquation ID="IEq14"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$n$$]]></EquationSource></InlineEquation> is the number of sub-block of edges, <InlineEquation ID="IEq15"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D_i$$]]></EquationSource></InlineEquation> represents the <InlineEquation ID="IEq16"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$i$$]]></EquationSource></InlineEquation>th cluster and <InlineEquation ID="IEq17"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$x_i$$]]></EquationSource></InlineEquation> represents the <InlineEquation ID="IEq18"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$i$$]]></EquationSource></InlineEquation>th sample which belongs to the cluster <InlineEquation ID="IEq19"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D_i$$]]></EquationSource></InlineEquation>.</Para></ItemContent></ListItem><ListItem><ItemNumber>2.</ItemNumber><ItemContent><Para>Decrease <InlineEquation ID="IEq20"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource></InlineEquation> by 1 through finding nearest clusters, say, <InlineEquation ID="IEq21"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D_i$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq22"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D_j$$]]></EquationSource></InlineEquation>, merge <InlineEquation ID="IEq23"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq23.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D_i$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq24"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq24.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D_j$$]]></EquationSource></InlineEquation>.</Para></ItemContent></ListItem><ListItem><ItemNumber>3.</ItemNumber><ItemContent><Para>Repeat Step 2 until the distance between nearest clusters <InlineEquation ID="IEq25"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq25.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_{mean}(D_i,D_j)=\Vert m_i-m_j\Vert $$]]></EquationSource></InlineEquation> (where <InlineEquation ID="IEq26"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq26.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$m_i$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq27"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq27.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$m_j$$]]></EquationSource></InlineEquation> are mean value vectors for the clusters <InlineEquation ID="IEq28"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq28.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D_i$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq29"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq29.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D_j$$]]></EquationSource></InlineEquation>) is larger than the threshold of the average distance between objects in images learned from the training dataset, which is about one fourth of the length of the image. Return the current number of clusters and the corresponding clusters c, for regions of interest.</Para></ItemContent></ListItem></OrderedList>We compute the feature compactness of edges, <InlineEquation ID="IEq30"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq30.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$k_2$$]]></EquationSource></InlineEquation>, as the number of estimated regions of interest, which is defined explicitly as<Equation ID="Equ2"><EquationNumber>2</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} k_2= | c : \mathbf{ Var} (c) < threshold|, \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq31"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq31.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource></InlineEquation> is the number of clusters detected by hierarchical clustering, the outside <InlineEquation ID="IEq32"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq32.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$||$$]]></EquationSource></InlineEquation> denotes cardinality, and <InlineEquation ID="IEq33"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq33.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ Var} (c)$$]]></EquationSource></InlineEquation> represents the variance of the cluster <InlineEquation ID="IEq34"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq34.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource></InlineEquation>. As shown in Fig. <InternalRef RefID="Fig3">3</InternalRef> (where regions of interest are highlighted with bounding boxes), in most of the cases, our method based on compactness of edges can identify regions of interest that are relevant for scene matching. For instance, in Fig. <InternalRef RefID="Fig3">3</InternalRef>a, where a person is featured against a grassy background, we correctly determine that there is no specific region fitting our matching needs. In Fig. <InternalRef RefID="Fig3">3</InternalRef>c, there are two regions identified: table and basket. In Fig. <InternalRef RefID="Fig3">3</InternalRef>d, although the background is complicated, the use of our feature enables us to eliminate the false positives and correctly identify that there are no regions of interest in this image. The objects that are present (flowers, lake, vegetation) are not suitable for SIFT-based scene matching. These objects are filtered out at different steps of our method. The strength of edges from flowers is weak and they are removed during the preprocessing stage when smoothing with Gaussian filters. The variances of the edge locations for the fence, lake or trees are larger than the threshold. Therefore, they are also removed in the process of computing the compactness of edges feature.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Steps in the extraction of the blur extent feature</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO7">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_11_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Blur extent</Heading>
+                <Para>Some of the consumer images are of poor quality due to lack of focus and motion blur, and not suitable as candidate images for scene matching. As we know, edges can be generally classified into four types: Dirac-structure, Astep-structure, Gstep-structure, and Roof-structure. We rely on the approach described in Tong et al. [<CitationRef CitationID="CR22">22</CitationRef>] to determine the blur extent of images. Typically, if the blur occurs, both of the Gstep-structure and Roof-structure tend to lose their sharpness as described in [<CitationRef CitationID="CR22">22</CitationRef>]. Figure <InternalRef RefID="Fig5">5</InternalRef> shows the steps in determining the types of edges. The detailed steps are provided as follows:<OrderedList><ListItem><ItemNumber>1.</ItemNumber><ItemContent><Para>Perform Harr wavelet transform to the original image with decomposition level 3, which results in a hierarchical pyramid structure.</Para></ItemContent></ListItem><ListItem><ItemNumber>2.</ItemNumber><ItemContent><Para>Construct the edge map in each scale by <Equation ID="Equ3"><EquationNumber>3</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} Emap_{i}(m,n)=\sqrt{LH_i^2+HL_i^2+HH_i^2}, \end{aligned}$$]]></EquationSource></Equation> where <InlineEquation ID="IEq35"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq35.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$i=1,2,3;m$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq36"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq36.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$n$$]]></EquationSource></InlineEquation> are the coordinates of rows and columns in the edge map.</Para></ItemContent></ListItem><ListItem><ItemNumber>3.</ItemNumber><ItemContent><Para>Partition the edge maps and find local maxima in each window, with window sizes of <InlineEquation ID="IEq37"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq37.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2\times 2, 4\times 4$$]]></EquationSource></InlineEquation>, and <InlineEquation ID="IEq38"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq38.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$8\times 8$$]]></EquationSource></InlineEquation>, respectively.</Para></ItemContent></ListItem><ListItem><ItemNumber>4.</ItemNumber><ItemContent><Para>We denote the results from step (3) as <InlineEquation ID="IEq39"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq39.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$E_{max_i} (i=1,2,3)$$]]></EquationSource></InlineEquation>. We compute the percentage of Gstep-structure and Roof-structure edges to describe the blur extent. Typically, if <InlineEquation ID="IEq40"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq40.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$E_{max_1}(m,n)>threshold$$]]></EquationSource></InlineEquation> or <InlineEquation ID="IEq41"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq41.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$E_{max_2}(m,n)>threshold$$]]></EquationSource></InlineEquation> or <InlineEquation ID="IEq42"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq42.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$E_{max_3}(m,n)>threshold$$]]></EquationSource></InlineEquation>, the edge at <InlineEquation ID="IEq43"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq43.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$(m,n)$$]]></EquationSource></InlineEquation> is a Dirac-structure or Astep-structure edge.</Para></ItemContent></ListItem><ListItem><ItemNumber>5.</ItemNumber><ItemContent><Para>If <InlineEquation ID="IEq44"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq44.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$E_{max_1}(m,n)<E_{max_2}(m,n)<E_{max_3}(m,n), (m,n)$$]]></EquationSource></InlineEquation> has a Roof-structure or Gstep-structure edge. If <InlineEquation ID="IEq45"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq45.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$E_{max_2}(m,n)>E_{max_1}(m,n)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq46"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq46.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$E_{max_2}(m,n)> E_{max_3}(m,n), (m,n)$$]]></EquationSource></InlineEquation> has a Roof- structure edge.</Para></ItemContent></ListItem></OrderedList>The blur extent <InlineEquation ID="IEq47"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq47.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$k_3$$]]></EquationSource></InlineEquation> is computed as<Equation ID="Equ4"><EquationNumber>4</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} k_3=\frac{N_1}{N_2}, \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq48"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq48.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N_1$$]]></EquationSource></InlineEquation> denotes the sum of the number of Gstep-structure and Roof-structure edges, <InlineEquation ID="IEq49"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq49.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N_2$$]]></EquationSource></InlineEquation> denotes the total number of edges. Figure <InternalRef RefID="Fig6">6</InternalRef> provides visual illustration of the blur extent for some example images from consumer image collections. Figure <InternalRef RefID="Fig6">6</InternalRef>a and b show blur caused by camera motion, where the proposed method computes a blur extent of 0.75 and 0.77, respectively. For two out-of-focus, blurred images shown in Fig. <InternalRef RefID="Fig6">6</InternalRef>c and d, the proposed method also effectively computed the blur extent as 0.90 and 0.92, respectively.</Para>
+                <Para>There are other features that could further improve the accuracy of selections, such as contrast, brightness, color histogram, and the camera focal length. However, the overall improvement is not very significant since these affect only a small portion of images. For example, brightness is important when the pictures are taken during the night. Therefore, in our experiments, we mainly present results using the three most discriminative features described in detail in this section.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig6">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Visual illustration of the blur extent for some example images from consumer collections</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO10">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7">
+              <Heading>Classification algorithms</Heading>
+              <Para>We explore a number of classification strategies for grouping images into two categories—good candidates for scene matching and poor candidates for scene matching—based on the features we have described in the previous section.</Para>
+              <Section2 ID="Sec8">
+                <Heading>Naive Bayesian framework</Heading>
+                <Para>Given the list of features, <InlineEquation ID="IEq50"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq50.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource></InlineEquation>, one way of integrating them into one unified framework is to use the naive Bayesian framework [<CitationRef CitationID="CR12">12</CitationRef>]. Let us assume we consider the first three most discriminative features (it can be easily extended to the case of utilizing more features). The overall quality metric according to Bayes rule is defined as<Equation ID="Equ5"><EquationNumber>5</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} k_{all}&= \frac{P(good|k_1,k_2,k_3)}{P(bad|k_1,k_2,k_3)}\nonumber \\&= \frac{P(k_1,k_2,k_3|good)P(good)}{P(k_1,k_2,k_3|bad)P(bad)}. \end{aligned}$$]]></EquationSource></Equation>Assuming independence of the features given the class,<Equation ID="Equ6"><EquationNumber>6</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} k_{all}=\frac{P(k_1|good)P(k_2|good)P(k_3|good)P(good)}{P(k_1|bad)P(k_2|bad)P(k_3|bad)P(bad)}. \end{aligned}$$]]></EquationSource></Equation>We can choose equal numbers of good and bad candidate images, so that <InlineEquation ID="IEq51"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq51.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(good)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq52"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq52.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(bad)$$]]></EquationSource></InlineEquation> can be dropped from the equations.</Para>
+              </Section2>
+              <Section2 ID="Sec9">
+                <Heading>Adaptive boosting classifier</Heading>
+                <Para>The goal of boosting is to improve the accuracy of any given learning algorithm. In boosting, a classifier is first created that has greater-than-average accuracy on the training dataset, and then new component classifiers are added to form an ensemble whose joint decision rule has arbitrarily high accuracy on the training set. In such a case, the classification performance is said to have been “boosted”. There are a number of variations on basic boosting. The most popular, AdaBoost (from “adaptive boosting” [<CitationRef CitationID="CR21">21</CitationRef>]), can also be effectively used in our problem since AdaBoost is adaptive in the sense that it allows the designer to continue adding weak learners until some desired low training error has been achieved. In AdaBoost, each training pattern receives a weight that determines its probability of being selected for a training set for an individual component classifier. If a training pattern is accurately classified, then its chance of being used again in a subsequent component classifier is reduced. On the contrary, if the pattern is not accurately classified, then its chance of being used again is raised. The major steps of the AdaBoost algorithm are outlined as follows:<OrderedList><ListItem><ItemNumber>1.</ItemNumber><ItemContent><Para>We begin by initializing <InlineEquation ID="IEq53"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq53.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D=\{x^{1}, y_1, \ldots , x^{n}, y_n\}$$]]></EquationSource></InlineEquation> where <InlineEquation ID="IEq54"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq54.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$x^{i}$$]]></EquationSource></InlineEquation> are patterns and <InlineEquation ID="IEq55"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq55.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$y_n$$]]></EquationSource></InlineEquation> are their labels in <InlineEquation ID="IEq56"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq56.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D$$]]></EquationSource></InlineEquation>, the maximum number of iterations <InlineEquation ID="IEq57"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq57.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$k_{max}$$]]></EquationSource></InlineEquation>, and the weights <InlineEquation ID="IEq58"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq58.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$W_1(i)=1/n, \forall i=1,\ldots ,n$$]]></EquationSource></InlineEquation>.</Para></ItemContent></ListItem><ListItem><ItemNumber>2.</ItemNumber><ItemContent><Para>In each iteration, we train weak learner <InlineEquation ID="IEq59"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq59.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_k$$]]></EquationSource></InlineEquation> using <InlineEquation ID="IEq60"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq60.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D$$]]></EquationSource></InlineEquation> sampled according to <InlineEquation ID="IEq61"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq61.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$W_k(i)$$]]></EquationSource></InlineEquation>. If we denote <InlineEquation ID="IEq62"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq62.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$E_k$$]]></EquationSource></InlineEquation> as the training error of <Emphasis Type="Italic">C</Emphasis>
+                          <Subscript><Emphasis Type="Italic">k</Emphasis></Subscript> measured on <InlineEquation ID="IEq64"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq64.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D$$]]></EquationSource></InlineEquation> using <InlineEquation ID="IEq65"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq65.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$W_k(i)$$]]></EquationSource></InlineEquation>, the updated weight is determined by <Equation ID="Equ7"><EquationNumber>7</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \begin{aligned}&W_{k+1}(i)=\frac{W_{k}(i)}{Z_{k}}\times e^{-\alpha _{k}},\\& \qquad if\, h_k(x^{i})=y_i (Correctly Classified)\\&W_{k+1}(i)=\frac{W_{k}(i)}{Z_{k}}\times e^{\alpha _{k}},\\&\qquad if\, h_k(x^{i})\ne y_i (Incorrectly Classified), \end{aligned} \end{aligned}$$]]></EquationSource></Equation>
+                        </Para></ItemContent></ListItem></OrderedList>where the error for classifier <InlineEquation ID="IEq66"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq66.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_k$$]]></EquationSource></InlineEquation> is determined with respect to the distribution <InlineEquation ID="IEq67"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq67.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$W_k(i)$$]]></EquationSource></InlineEquation> on which it was trained. <InlineEquation ID="IEq68"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq68.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Z_k$$]]></EquationSource></InlineEquation> is a normalizing constant computed to ensure that <InlineEquation ID="IEq69"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq69.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$W_k(i)$$]]></EquationSource></InlineEquation> represents a true distribution and <InlineEquation ID="IEq70"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq70.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$h_k(x^i)$$]]></EquationSource></InlineEquation> is the category label (+1 or <InlineEquation ID="IEq71"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq71.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$-1$$]]></EquationSource></InlineEquation>) given to pattern <InlineEquation ID="IEq72"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq72.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$x^i$$]]></EquationSource></InlineEquation> by component classifier <InlineEquation ID="IEq73"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq73.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_k$$]]></EquationSource></InlineEquation>. The final classification decision of <InlineEquation ID="IEq74"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq74.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$x^i$$]]></EquationSource></InlineEquation> is based on a discriminant function that is merely the weighted sums of the outputs given by the component classifiers:<Equation ID="Equ8"><EquationNumber>8</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} g(x)=\left[\sum \limits _{k=1}^{k_{max}}\alpha _{k} h_{k}(x)\right]. \end{aligned}$$]]></EquationSource></Equation>The classification decision for this binary case is then <InlineEquation ID="IEq75"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq75.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$sgn[g(x)]$$]]></EquationSource></InlineEquation>, where the sign function is defined as <InlineEquation ID="IEq76"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq76.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$sgn[g(x)]=-1$$]]></EquationSource></InlineEquation>, when <InlineEquation ID="IEq77"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq77.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$g(x)<0,sgn[g(x)]=1$$]]></EquationSource></InlineEquation> when <InlineEquation ID="IEq78"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq78.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$g(x)>0$$]]></EquationSource></InlineEquation>. AdaBoost provides a good way for us to assign proper weights to these different features. In our case, it is entirely possible that the image that has less occlusion is heavily blurred. The weak classifiers used are constructed from single features using a Bayesian classifier based on a unitary Gaussian model. Figure <InternalRef RefID="Fig7">7</InternalRef> shows the performance when using AdaBoost with two and three features. It can be seen from Fig. <InternalRef RefID="Fig7">7</InternalRef> that by incorporating more features, the classification based on the AdaBoost algorithm is able to improve the classification accuracy significantly.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig7">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 7</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Classification error with AdaBoost relying on two features (occlusion and blur extent) and three features (occlusion, blur extent, and compactness of edges)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO15">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig7_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig8">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 8</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Comparison of classification accuracy with single feature for indoor and outdoor event</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO16">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig8_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec10">
+                <Heading>Classification tree-based approach</Heading>
+                <Para>Another classifier that can be used in this problem is a rule-based classification tree [<CitationRef CitationID="CR3">3</CitationRef>]. We adapt the widely used CART (classification and regression trees) method. CART provides a general framework that can be instantiated in various ways to produce different decision trees. The fundamental principle underlying tree creation is that decisions that lead to a simple, compact tree with few nodes is preferred. Therefore, we seek a property query <InlineEquation ID="IEq79"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq79.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T$$]]></EquationSource></InlineEquation> at each node that makes the data reaching the immediate descendent nodes as “pure” as possible. There are various mathematical measures of impurity; in this paper we define the impurity as the entropy impurity (information impurity):<Equation ID="Equ9"><EquationNumber>9</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} i(N)=-\sum \limits _{j} P(\omega _j)\log _2 P(\omega _j), \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq80"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq80.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(\omega _j)$$]]></EquationSource></InlineEquation> is the fraction of patterns at node <InlineEquation ID="IEq81"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq81.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource></InlineEquation> that are in category <InlineEquation ID="IEq82"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq82.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\omega _j$$]]></EquationSource></InlineEquation>. By the property of entropy, if all the patterns are of the same category, the impurity is 0. Given a partial tree down to node <InlineEquation ID="IEq83"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq83.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource></InlineEquation>, we choose the value for the property test <InlineEquation ID="IEq84"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq84.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T$$]]></EquationSource></InlineEquation>, which decreases the impurity as much as possible. The decrease in impurity is defined by<Equation ID="Equ10"><EquationNumber>10</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \Delta i(N)= i(N)-P_{L}i(N_{L})-(1-P_{L})i(N_{R}), \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq85"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq85.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N_{L}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq86"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq86.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N_{R}$$]]></EquationSource></InlineEquation> are the left and right descendent nodes, <InlineEquation ID="IEq87"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq87.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$i(N_{L})$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq88"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq88.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$i(N_{R})$$]]></EquationSource></InlineEquation> are their impurities, and <InlineEquation ID="IEq89"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq89.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P_{L}$$]]></EquationSource></InlineEquation> is the fraction of patterns at node <InlineEquation ID="IEq90"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq90.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource></InlineEquation> that will go to <InlineEquation ID="IEq91"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq91.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N_{L}$$]]></EquationSource></InlineEquation> when property query <InlineEquation ID="IEq92"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq92.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T$$]]></EquationSource></InlineEquation> is used. Therefore, the “best” query value <InlineEquation ID="IEq93"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq93.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$s$$]]></EquationSource></InlineEquation> is the choice for <InlineEquation ID="IEq94"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq94.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T$$]]></EquationSource></InlineEquation> that maximizes <InlineEquation ID="IEq95"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq95.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\Delta i(T)$$]]></EquationSource></InlineEquation>. For simplicity, in this paper, we generally restrict our discussion to the monothetic tree where each query is based on a single property. Figure <InternalRef RefID="Fig8">8</InternalRef> shows the relative strengths of the features when applied to indoor and outdoor images. It is not surprising that the occlusion extent plays the most important role for indoor events (as shown in Fig. <InternalRef RefID="Fig8">8</InternalRef>). For outdoor events, blur extent dominates over other features, which can be mainly attributed to moving objects in the outdoor events. Figure <InternalRef RefID="Fig9">9</InternalRef> shows the structure of the classification tree constructed based on experiments using 2,200 images. The thresholds in Fig. <InternalRef RefID="Fig9">9</InternalRef> are determined by maximization of the drop in impurity. Therefore, this method can save significant computational time by eliminating bad candidates early while maintaining high classification accuracy.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig9">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 9</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Classification tree used for identifying good candidate images for scene matching</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO19">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig9_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec11">
+              <Heading>Experimental results</Heading>
+              <Section2 ID="Sec12">
+                <Heading>Selection of ground truth</Heading>
+                <Para>We collected the training and test data by using the software described in [<CitationRef CitationID="CR5">5</CitationRef>], which performs the core step of determining whether there is a scene match between two images. The matching is based on SIFT features, subject to a set of constraints that reduce false matches. Positive examples for our application are images that match at least one other image captured at the same scene, and negative examples are images that could not be matched to any other image from the same scene as the negative example. We selected 3,000 positive example images (images producing matches) and 3,000 negative example images (images that could not be matched with other images). The testing database contains images from consumer collections, mainly depicting different people-based activities such as family get-togethers, playing ballgames, etc., where there are around 35% blurred images and around 80% images with complex edges from people or unique objects such as building, or pictures on the wall. For the testing stage, fivefold cross validation is used. For each test, 20% of the images are used as test images and the other 80% serve as training images. In the naive Bayesian framework, we assume each feature has a Gaussian distribution and the mean and variance can be computed during the training stage.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig10">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 10</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Comparison of the classification accuracy of naive Bayesian classifier, adaptive boosting, and classification tree for the combination of different features</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO20">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig10_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec13">
+                <Heading>Simulation results and comparison</Heading>
+                <Para>Figure <InternalRef RefID="Fig10">10</InternalRef> shows the classification performance with the naive Bayesian classifier, adaptive boosting, and classification tree for the combination of the three features. From Fig. <InternalRef RefID="Fig10">10</InternalRef>, it can be seen that the AdaBoost algorithm with Bayesian classifiers provides the best performance when the prior information is known. When specific prior information about the appropriate form of classifier is lacking, the tree-based approach can yield classifiers with accuracy comparable to other methods. Figure <InternalRef RefID="Fig11">11</InternalRef> shows the precision and recall curves for the matching process, where the blue curve is the result of matching using all the images and the red curve represents the matching result with our method. Figure <InternalRef RefID="Fig12">12</InternalRef> provides visual illustrations of the SIFT-based scene-matching results using selected good representative images with our system, which demonstrates the effectiveness of our approach. Figure <InternalRef RefID="Fig13">13</InternalRef> shows more examples of good representative images with the proposed approaches. In the 25 good representative images chosen by our system, only 2 are false positives. The ones with bounding boxes in Fig. <InternalRef RefID="Fig13">13</InternalRef> are false positives. These false positives are mainly due to the presence of non-frontal faces, since the face detector is not very effective in this situation. We also show some of the images that are not suitable for scene matching with SIFT features in Fig. <InternalRef RefID="Fig14">14</InternalRef>. All of them are classified as bad candidates by our algorithm.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig11">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 11</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Precision and recall curves for the matching process using all images (blue), and using the selected good candidate images with the proposed AdaBoost classifier</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO21">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig11_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig12">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 12</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Examples of successful scene matching with our selected candidate images</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO22">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig12_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig13">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 13</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Good representative images for fast scene matching with SIFT features, with false positives labeled</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO23">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig13_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig14">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 14</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Some of the images that are not suitable for fast scene matching with SIFT features, detected by our algorithm</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO24">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig14_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>The distribution of good and bad candidate images among different scene classes using the classification tree, naive Bayesian classifier, and AdaBoost classifiers, respectively</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="5">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Event classes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>BeachFun</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Graduation</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Wedding</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Birthday party</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Percentage of good images</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>3%/5%/5%</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>7%/8%/7%</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>11%/16%/15%</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>9%/11%/9%</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Event classes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Urban tour</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>YardPark</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Family time</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Dining</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Percentage of good images</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>26%/30%/27%</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>16%/19%/18%</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>9%/11%/11%</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>19%/21%/21%</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Table Float="Yes" ID="Tab2">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Comparison of search time and matching accuracy for traditional methods and our methods</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="5">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Total time (s)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Selection time (s)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Matching time (s)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Accuracy (%)</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>SIFT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>
+                            <InlineEquation ID="IEq96">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq96.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$7.425\times 10^{4}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>
+                            <InlineEquation ID="IEq97">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq97.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$7.425\times 10^{4}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>75.2</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>PCA-SIFT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>
+                            <InlineEquation ID="IEq98">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq98.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$4.35\times 10^{4}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>
+                            <InlineEquation ID="IEq99">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq99.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$4.35\times 10^{4}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>72.5</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>SURF</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>
+                            <InlineEquation ID="IEq100">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq100.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$2.37\times 10^{4}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>
+                            <InlineEquation ID="IEq101">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq101.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$2.37\times 10^{4}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>68.3</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>SIFT with modified matching process [<CitationRef CitationID="CR5">5</CitationRef>]</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>
+                            <InlineEquation ID="IEq102">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq102.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$1.56\times 10^{4}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>
+                            <InlineEquation ID="IEq103">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq103.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$1.56\times 10^{4}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>79.7</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Classification Tree+SIFT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>1,288.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>732.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>556.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>85.9</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Bayesian Classifier+SIFT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>2,536.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1,952.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>583.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>83.5</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>AdaBoost+SIFT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>2,876.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>2,234.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>641.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>92.6</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Para>In Table <InternalRef RefID="Tab1">1</InternalRef>, we show the distribution of good and bad candidate images among the different scene classes using the classification tree, naive Bayesian classifier, and AdaBoost for classification, respectively. As shown in Table <InternalRef RefID="Tab1">1</InternalRef>, the scene “BeachFun” has the largest percentage of bad images for matching purposes since it contains large areas of water. We compare the performance of our framework with SIFT [<CitationRef CitationID="CR15">15</CitationRef>], PCA-SIFT [<CitationRef CitationID="CR11">11</CitationRef>], and SURF [<CitationRef CitationID="CR1">1</CitationRef>] in terms of computational time. Like SIFT, PCA-SIFT [<CitationRef CitationID="CR11">11</CitationRef>] descriptors encode the salient aspects of the image gradient in the feature point’s neighborhood. Instead of using SIFT’s smoothed weighted histograms, PCA-SIFT applies Principal Components Analysis (PCA) to the normalized gradient patch. It is demonstrated that the PCA-based local descriptors are more distinctive, more robust to image deformations, and more than the standard SIFT representation. SURF (Speeded Up Robust Features) [<CitationRef CitationID="CR1">1</CitationRef>] is a faster performing scale- and rotation-invariant interest point detector and descriptor. SURF approximates or even outperforms previously proposed schemes with respect to repeatability, distinctiveness, and robustness, yet can be computed and compared much faster, which is achieved by (1) relying on integral images for image convolutions; (2) building on the strengths of the leading existing detectors and descriptors (using a Hessian matrix-based measure for the detector, and a distribution-based descriptor); and (3) simplifying these methods to the essential steps.</Para>
+                <Para>Table <InternalRef RefID="Tab2">2</InternalRef> shows the experimental results for finding scene matches for a collection of 3,000 images covering 46 events from consumer image collections. The precision and recall curves are evaluated in Fig. <InternalRef RefID="Fig15">15</InternalRef> with the proposed methods and other methods (SIFT, PCA-SIFT and SURF), where we demonstrate that the proposed methods significantly outperform other methods. We decompose the total computational time <InlineEquation ID="IEq106"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq106.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_{total}$$]]></EquationSource></InlineEquation> of our methods into two terms:<Equation ID="Equ11"><EquationNumber>11</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_Equ11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} T_{total}=T_{select}+T_{match}, \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq107"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq107.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_{select}$$]]></EquationSource></InlineEquation> denotes the computational time of selecting good candidates and <InlineEquation ID="IEq108"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq108.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_{match}$$]]></EquationSource></InlineEquation> denotes the computational time of SIFT matching of selected images. We utilize the software developed in [<CitationRef CitationID="CR5">5</CitationRef>] to evaluate the performance of this method using actual consumer images where using a novel clustering algorithm with intelligent filtering steps, consumer images with cluttered background and common objects can be matched effectively. The details for the software can be found in [<CitationRef CitationID="CR5">5</CitationRef>].</Para>
+                <Para>In Table <InternalRef RefID="Tab2">2</InternalRef>, the first three rows are the computational time and accuracy with the traditional approaches such as SIFT, PCA-SIFT, and SURF. The fourth row represents the computational time and accuracy obtained using SIFT with the modified matching process described in [<CitationRef CitationID="CR5">5</CitationRef>]. The last three rows are the computational time and accuracy with our selection strategy using different classification methods. With the classification tree, 376 representative images are selected out of the 3,000 images, 457 representative images are selected using naive Bayesian classifiers, and 429 representative images are selected using AdaBoost, which corresponds to an average reduction 86, 82, and 83% in SIFT features, respectively. It can be seen that our approach can save computational time by an order of magnitude for scene matching. Compared with the result using modified matching process [<CitationRef CitationID="CR5">5</CitationRef>], the proposed approach achieves significant improvement which can be mainly attributed to the selection of representative images. Moreover, the proposed approach can achieve high accuracy with average precision 92.6% in matching with AdaBoost, which is significantly better than using SIFT (75.2%), PCA-SIFT (72.5%), SURF (68.3%), and the modified matching process [<CitationRef CitationID="CR5">5</CitationRef>] (79.7%), where we compute the classification accuracy by comparing the selected good candidates to the ground truth (example images that produced correct scene matches). Since human segments are deleted from the good matching candidates before the actual SIFT matching, the matching time reduction of the methods utilizing the proposed pre-processing comes from two source: (1) reduced number of matching candidate, and (2) reduced amount of image pixels after human deleted. In the experiment, we identified that 78% of time savings comes from the reduced number of candidates to be matched, and 22% of the time savings comes from the reduced number of image pixels remaining after deleting the pixels corresponding to humans in the image.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig15">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 15</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Comparison of precision and recall curves for traditional methods and our methods</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO26">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig15_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec14">
+                <Heading>Further speed improvements using sub-images</Heading>
+                <Para>In order to further speed up the process of scene matching, we propose to use sub-images for scene matching as the last step of the proposed algorithm. Since the computational time of SIFT feature matching depends on the size of the input images, down-sampling could be one way to further speed up the scene matching with SIFT features. However, down-sampling might affect the quality of the images and therefore performance accuracy cannot be guaranteed. Here we propose to use the idea of sub-images for scene matching with SIFT features. If we could use only a portion of the image that contains the most important information for scene matching, we could reduce the search space and further reduce the computational time for scene matching. However, in practice, not every candidate is suitable for segmentation into sub-images. For example, images with features that are spatially concentrated tend to be easier to segment. On the contrary, images with the features that are distributed may not be easy to segment. The computational savings due to the use of sub-images is reported separately since the extent of savings is data dependant. We propose the following scheme to evaluate whether an image is suitable for segmentation or not:<OrderedList><ListItem><ItemNumber>1.</ItemNumber><ItemContent><Para>Once we obtain the edge map from the Canny detector from the previous feature extraction process, we compute the histogram of the edges in each image horizontally and vertically. In each dimension, we use <InlineEquation ID="IEq109"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq109.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N=20$$]]></EquationSource></InlineEquation> bins for computing the histogram, where the horizontal or vertical axis of the histogram represents the value of the summation of edge map in rows or columns.</Para></ItemContent></ListItem><ListItem><ItemNumber>2.</ItemNumber><ItemContent><Para>For each image, we record the size of the smallest window that covers 80% edges from 20 bins both horizontally and vertically. We denote them as <InlineEquation ID="IEq110"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq110.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L_1$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq111"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq111.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L_2$$]]></EquationSource></InlineEquation>.</Para></ItemContent></ListItem><ListItem><ItemNumber>3.</ItemNumber><ItemContent><Para>We compute <InlineEquation ID="IEq112"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq112.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L=L_1L_2$$]]></EquationSource></InlineEquation> and sort <InlineEquation ID="IEq113"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq113.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L$$]]></EquationSource></InlineEquation> for all of the images. We select the images that satisfy <InlineEquation ID="IEq114"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq114.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L<L_0$$]]></EquationSource></InlineEquation> and consider them suitable for segmentation into sub-images, where <InlineEquation ID="IEq115"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq115.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L_0$$]]></EquationSource></InlineEquation> is the threshold and <InlineEquation ID="IEq116"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq116.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L_0$$]]></EquationSource></InlineEquation> is set to be 80 in the experiment due to its best performance.</Para></ItemContent></ListItem></OrderedList>If an image is good for segmentation, we use the bounding box (computed from step 3) to split the image into sub-images after removal of human regions in the image. Otherwise, we use the whole image for scene matching. We further measure the accuracy of scene matching by the total number of corresponding feature point matches. The accuracy is a number between 0 and 1, which is computed as the ratio between the number of corresponding feature points using sub-images and the number of corresponding feature points when using the entire images. From our experiments, the value of threshold <InlineEquation ID="IEq117"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_11_Article_IEq117.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L_0$$]]></EquationSource></InlineEquation> selected is quite important in determining computational time. If the threshold is too large, the computational time savings will be insignificant. If the threshold is too small, the accuracy of scene matching will decrease due to loss of meaningful features.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig16">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 16</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Selecting a suitable sub-image for speeding up scene matching: <Emphasis Type="Bold">a</Emphasis> Segmentation of the image covering 80% edges. <Emphasis Type="Bold">b</Emphasis> Edge map by Canny edge detector. <Emphasis Type="Bold">c</Emphasis> Vertical edge histogram of the image. <Emphasis Type="Bold">d</Emphasis> Horizontal edge histogram of the image</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO27">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig16_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Table Float="Yes" ID="Tab3">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Tradeoff between accuracy, time savings, and the reduction in the number of SIFT features when using sub-images for scene matching</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="11">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <colspec align="left" colname="c6" colnum="6"/>
+                    <colspec align="left" colname="c7" colnum="7"/>
+                    <colspec align="left" colname="c8" colnum="8"/>
+                    <colspec align="left" colname="c9" colnum="9"/>
+                    <colspec align="left" colname="c10" colnum="10"/>
+                    <colspec align="left" colname="c11" colnum="11"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Threshold</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>35</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>40</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>45</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>50</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>55</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>60</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>65</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>70</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>75</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11">
+                          <SimplePara>80</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Accuracy</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>0.75</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.78</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.803</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0.827</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>0.851</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>0.857</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>0.863</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>0.892</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>0.91</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11">
+                          <SimplePara>0.946</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Time savings (%)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>36</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>34.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>31.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>29.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>26.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>24.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>22.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>21.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>18.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11">
+                          <SimplePara>16.7</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Reduction in no. of features (%)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>23</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>20.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>17.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>15.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>13.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>11.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>10.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>9.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>8.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11">
+                          <SimplePara>8.2</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Para>We experimentally determine the threshold and then use the sub-images for scene matching to further reduce the computational time. Figure <InternalRef RefID="Fig16">16</InternalRef> shows an example of a sub-image selected from an image considered suitable for segmentation, where Fig. <InternalRef RefID="Fig16">16</InternalRef> provides the edge map by Canny edge detector, and Fig. <InternalRef RefID="Fig16">16</InternalRef>c and d illustrates the vertical and horizontal edge histograms of the image, respectively. Table <InternalRef RefID="Tab3">3</InternalRef> demonstrates the tradeoff between accuracy, time savings, and the percentage in the number of SIFT features using sub-images for scene matching with different thresholds. The time taken for segmentation has been included in the computational time. The AdaBoost classifier is used to determine good candidate images. segmentation with a threshold of 80 provides better accuracy (0.946) than using the whole image (0.926) as shown in Table <InternalRef RefID="Tab3">3</InternalRef>. Therefore, we select 80 as the threshold in our experiments, and we find that using a single sub-image with this threshold could further save about 16.7% the computational time in processing our database of 3,000 images when compared with using the entire images for scene matching. Meanwhile, it still maintains high matching accuracy. We show two examples of using sub-images for scene matching in Fig. <InternalRef RefID="Fig17">17</InternalRef>.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec15">
+              <Heading>Conclusion</Heading>
+              <Para>In this paper, we present an efficient framework for selecting good candidate images for scene matching using SIFT- like features. We propose a set of discriminative image features that are relevant to successful scene matching including occlusion extent, compactness of edges, and blur extent. The AdaBoost algorithm based on Bayesian classifiers and the classification tree method are proposed to integrate these features, creating a binary classifier to determine if an image is a good or bad candidate for scene matching. When prior information about distribution of images is known, the AdaBoost algorithm tends to provide better performance. When the prior information is lacking, the classification based on a tree structure is able to yield comparable performance. The proposed approach is an order of magnitude faster than scene matching using the traditional approach of comparing images pair-wise on large consumer image databases. Further improvement in speed is achieved when scene matching is performed on sub-images extracted from images that contain compact regions of interest.</Para>
+              <Para>The experimental results demonstrate the superiority of our approach in terms of saving significant computational time while achieving high accuracy. Future work, designed to further improve the accuracy of selection of candidate images, will focus on detection of non-frontal faces for better accuracy of feature computation and the use of event information to guide the choice of candidate images.</Para>
+              <Para>
+                <Figure Category="Standard" Float="Yes" ID="Fig17">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 17</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Examples of using sub-images for scene matching with AdaBoost+SIFT</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO28">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_11_Fig17_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_Article_11.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_11_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Bay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Ess</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Tuytelaars</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LV</Initials>
+                    <FamilyName>Gool</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Surf: speeded up robust features</ArticleTitle>
+                  <JournalTitle>Comput Vis Image Understand (CVIU)</JournalTitle>
+                  <VolumeID>110</VolumeID>
+                  <FirstPage>346</FirstPage>
+                  <LastPage>359</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cviu.2007.09.014</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bay H, Ess A, Tuytelaars T, Gool LV (2008) Surf: speeded up robust features. Comput Vis Image Understand (CVIU) 110:346–359</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Breiman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Bagging predictors</ArticleTitle>
+                  <JournalTitle>Mach Learn</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>123</FirstPage>
+                  <LastPage>140</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1425957</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0858.68080</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1007/BF00058655</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Breiman L (1996) Bagging predictors. Mach Learn 24:123–140</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Chou</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Optimal partitioning for classfication and regression tree</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>340</FirstPage>
+                  <LastPage>354</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/34.88569</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chou P (1991) Optimal partitioning for classfication and regression tree. IEEE Trans Pattern Anal Mach Intell 13:340–354</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Cui</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Zhou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Qu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Wong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Geometry-based edge clustering for graph visualization</ArticleTitle>
+                  <JournalTitle>IEEE Trans Vis Comput Graph</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>1277</FirstPage>
+                  <LastPage>1284</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TVCG.2008.135</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cui W, Zhou H, Qu H, Wong P, Li X (2008) Geometry-based edge clustering for graph visualization. IEEE Trans Vis Comput Graph 14:1277–1284</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Das M, Farmer J, Gallagher A, Loui A (2008) Event-based location matching for consumer image collections. In: Proceedings of the international conference on image and video retreival (CIVR). doi: <ExternalRef><RefSource>10.1145/1386352.1386397</RefSource><RefTarget TargetType="DOI" Address="10.1145/1386352.1386397"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Duda RO, Hart PE, Stork DG (2001) Pattern classification. Wiley, New York</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Gao J, Yang J (2001) An adaptive algorithm for text detection from natural scenes. In: Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Hall</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Davies</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Casey</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">The selection of critical subsets for signal, image and scene matching</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>313</FirstPage>
+                  <LastPage>322</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.1980.4767030</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hall E, Davies D, Casey M (1980) The selection of critical subsets for signal, image and scene matching. IEEE Trans Pattern Anal Mach Intell 2(4):313–322</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Jones M, Viola P (2003) Face recognition using boosted local features. In: Proceedings of the IEEE conference on computer vision</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Karypis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Han</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Kumar</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Chameleon: hierarchical clustering using dynamic modeling</ArticleTitle>
+                  <JournalTitle>IEEE Comp</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>68</FirstPage>
+                  <LastPage>75</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/2.781637</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Karypis G, Han E, Kumar V (1999) Chameleon: hierarchical clustering using dynamic modeling. IEEE Comp 32:68–75</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Ke Y, Sukthankar R (2004) Pca-sift: a more distinctive representation for local image descriptors. In: Proceedings of the IEEE conference on computer vision and, pattern recognition</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Ke Y, Tang X, Jing F (2006) The design of high-level features for photo quality assessment. In: Proceedings of the IEEE conference on computer vision and, pattern recognition</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Li L, Su H, Xing E, Fei-Fei L (2010) Object bank: a high-level image representation for scene classification and semantic feature sparsification. In: Proceedings of the neural information processing systems (NIPS) </BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Loui A, Savakis A (2003) Automated event clustering and quality screening of consumer pictures for digital albuming. In: Proceedings of the IEEE transactions on multimedia. doi: <ExternalRef><RefSource>10.1109/TMM.2003.814723</RefSource><RefTarget TargetType="DOI" Address="10.1109/TMM.2003.814723"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Lowe</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Distinctive image features from scale invariant features</ArticleTitle>
+                  <JournalTitle>Int J Comput Vis</JournalTitle>
+                  <VolumeID>60</VolumeID>
+                  <FirstPage>91</FirstPage>
+                  <LastPage>110</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/B:VISI.0000029664.99615.94</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lowe D (2004) Distinctive image features from scale invariant features. Int J Comput Vis 60:91–110</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>Lucas BD, Kanade T (1981) An iterative image registration technique with an application to stereo vision. In: Proceedings of the imaging understanding workshop, pp 120–131</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>Maire M, Arbelaez P, Fowlkes C, Malik J (2008) Using contours to detect and localize junctions in natural images. In: Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR). doi: <ExternalRef><RefSource>10.1109/CVPR.2008.4587420</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2008.4587420"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>Quattoni A, Torralba A (2009) Recognizing indoor scenes. In: Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR). doi: <ExternalRef><RefSource>10.1109/CVPR.2009.5206537</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2009.5206537"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Rasiwasia</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PL</Initials>
+                    <FamilyName>Moreno</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Vasconcelos</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Bridging the gap: query by semantic example</ArticleTitle>
+                  <JournalTitle>IEEE Trans Multimed</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>923</FirstPage>
+                  <LastPage>938</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TMM.2007.900138</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rasiwasia N, Moreno PL, Vasconcelos N (2007) Bridging the gap: query by semantic example. IEEE Trans Multimed 9:923–938</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Schaffalitzky</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zisserman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Automated location matching in movies</ArticleTitle>
+                  <JournalTitle>Comput Vis Image Understand Spec Isssue Video Retr Summ</JournalTitle>
+                  <VolumeID>92</VolumeID>
+                  <FirstPage>236</FirstPage>
+                  <LastPage>264</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cviu.2003.06.008</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schaffalitzky F, Zisserman A (2003) Automated location matching in movies. Comput Vis Image Understand Spec Isssue Video Retr Summ 92:236–264</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RE</Initials>
+                    <FamilyName>Schapire</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Singer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Improving boosting algorithms using confidence-rated predictions</ArticleTitle>
+                  <JournalTitle>Mach Learn</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <FirstPage>297</FirstPage>
+                  <LastPage>336</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0945.68194</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1007614523901</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schapire RE, Singer Y (1999) Improving boosting algorithms using confidence-rated predictions. Mach Learn 37:297–336</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Tong H, Li M, Zhang H, Zhang C (2004) Blur detection for digital images using wavelet transform. In: Proceedings of the IEEE international conference on multimedia and expo (ICME)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibUnstructured>van de Sande KEA, Gevers T, Snoek CGM (2008) Evaluation of color descriptors for object and scene recognition. In: Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR). doi: <ExternalRef><RefSource>10.1109/CVPR.2008.4587658</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2008.4587658"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibUnstructured>Wong R (1978) Sequential scene matching using edge features. In: Proceedings of the IEEE transactions on aerospace and electronic systems, vol 14. doi: <ExternalRef><RefSource>10.1109/TAES.1978.308586</RefSource><RefTarget TargetType="DOI" Address="10.1109/TAES.1978.308586"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

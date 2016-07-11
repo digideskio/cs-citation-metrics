@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10255</JournalID>
+      <JournalPrintISSN>0168-9673</JournalPrintISSN>
+      <JournalElectronicISSN>1618-3932</JournalElectronicISSN>
+      <JournalTitle>Acta Mathematicae Applicatae Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Mathematicae Applicatae Sinica</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Math Applications in Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Mathematical and Computational Physics</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>14</VolumeIDStart>
+        <VolumeIDEnd>14</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>1998</Year>
+              <Month>10</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Science Press</CopyrightHolderName>
+            <CopyrightYear>1998</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art11">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>BF02683826</ArticleID>
+            <ArticleDOI>10.1007/BF02683826</ArticleDOI>
+            <ArticleSequenceNumber>11</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Assessment of local influence on Cox’s proportional hazards model</ArticleTitle>
+            <ArticleFirstPage>414</ArticleFirstPage>
+            <ArticleLastPage>424</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>1995</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+              </Received>
+              <Revised>
+                <Year>1997</Year>
+                <Month>3</Month>
+                <Day>18</Day>
+              </Revised>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Science Press</CopyrightHolderName>
+              <CopyrightYear>1998</CopyrightYear>
+            </ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+            <ArticleContext>
+              <JournalID>10255</JournalID>
+              <VolumeIDStart>14</VolumeIDStart>
+              <VolumeIDEnd>14</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jiang</GivenName>
+                  <FamilyName>Jiancheng</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Wu</GivenName>
+                  <FamilyName>Xizhi</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Probability and Statistics</OrgDivision>
+                <OrgName>Peking University</OrgName>
+                <OrgAddress>
+                  <Postcode>100871</Postcode>
+                  <City>Beijing</City>
+                  <Country>China</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Mathematics</OrgDivision>
+                <OrgName>Nankai University</OrgName>
+                <OrgAddress>
+                  <Postcode>300071</Postcode>
+                  <City>Tianjing</City>
+                  <Country>China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>The second order approach of local influence (see [15]) is developed and applied to Cox’s proportional hazards model, and compared with Cook's local influence approach (see [6] and [13]) which was used in this model. To study local influence, we perturb not only all cases simultaneously, but also cases individually to obtain “direction curvature” in direction<Emphasis Type="Italic">l</Emphasis> and “curvature” for single case. Some examples are used to illustrate these methods.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>Curvature</Keyword>
+              <Keyword>local influence</Keyword>
+              <Keyword>censoring</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>This work is supported by the Youth Science Foundation of Peking University and a research grant from State Educational Committee</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10255_2007_Article_BF02683826.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>[1]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Arjas</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">A Graphical Method for Assessing Goodness of Fit in Cox's Proportional Hazards Model</ArticleTitle>
+                  <JournalTitle>J. Am. Statist. Ass.</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <FirstPage>204</FirstPage>
+                  <LastPage>212</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2288942</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>E. Arjas. A Graphical Method for Assessing Goodness of Fit in Cox's Proportional Hazards Model.<Emphasis Type="Italic">J. Am. Statist. Ass.</Emphasis>, 1988, 83: 204–212.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>[2]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.M.</Initials>
+                    <FamilyName>Bates</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.G.</Initials>
+                    <FamilyName>Watts</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Relative Curvature Measures of Nonlinearity (with discussion)</ArticleTitle>
+                  <JournalTitle>J. R. Statist. Soc. (Series B)</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>25</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0455.62028</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D.M. Bates and D.G. Watts. Relative Curvature Measures of Nonlinearity (with discussion).<Emphasis Type="Italic">J. R. Statist. Soc.</Emphasis> (Series B), 1980, 42: 1–25.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>[3]</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>D.M.</Initials>
+                    <FamilyName>Bates</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.G.</Initials>
+                    <FamilyName>Watts</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <BookTitle>Nonlinear Regression Analysis and Its Application</BookTitle>
+                  <PublisherName>Wiley</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>D.M. Bates and D.G. Watts. Nonlinear Regression Analysis and Its Application. Wiley, New York, 1988.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>[4]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.C.</Initials>
+                    <FamilyName>Cain</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.T.</Initials>
+                    <FamilyName>Lange</FamilyName>
+                  </BibAuthorName>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Approximate Case Influence for the Proportional Hazards Regression Model with Censored Data</ArticleTitle>
+                  <JournalTitle>Biometrics</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>493</FirstPage>
+                  <LastPage>499</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2531402</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>K.C. Cain and N.T. Lange. Approximate Case Influence for the Proportional Hazards Regression Model with Censored Data.<Emphasis Type="Italic">Biometrics</Emphasis>, 1984, 40: 493–499.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>[5]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.H.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.C.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Diagnostic Plots in Cox's Regression Model</ArticleTitle>
+                  <JournalTitle>Biometrics</JournalTitle>
+                  <VolumeID>47</VolumeID>
+                  <FirstPage>841</FirstPage>
+                  <LastPage>850</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0729.62561</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2532643</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C.H. Chen and P.C. Wang. Diagnostic Plots in Cox's Regression Model.<Emphasis Type="Italic">Biometrics</Emphasis>, 1991, 47: 841–850.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>[6]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.D.</Initials>
+                    <FamilyName>Cook</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">Assessment of Local Influence (with discussion)</ArticleTitle>
+                  <JournalTitle>J. R. Statist. Soc. (Series B)</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <FirstPage>133</FirstPage>
+                  <LastPage>169</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0608.62041</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R.D. Cook. Assessment of Local Influence (with discussion).<Emphasis Type="Italic">J. R. Statist. Soc.</Emphasis> (Series B), 1986, 48: 133–169.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>[7]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.R.</Initials>
+                    <FamilyName>Cox</FamilyName>
+                  </BibAuthorName>
+                  <Year>1974</Year>
+                  <ArticleTitle Language="En">Partial Likelihood</ArticleTitle>
+                  <JournalTitle>Biometrika</JournalTitle>
+                  <VolumeID>62</VolumeID>
+                  <FirstPage>269</FirstPage>
+                  <LastPage>276</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/biomet/62.2.269</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D.R. Cox. Partial Likelihood.<Emphasis Type="Italic">Biometrika</Emphasis>, 1974, 62: 269–276.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>[8]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Efron</FamilyName>
+                  </BibAuthorName>
+                  <Year>1977</Year>
+                  <ArticleTitle Language="En">Efficiency of Cox's Likelihood Function for Censored Data</ArticleTitle>
+                  <JournalTitle>J. Am. Statist. Ass.</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>557</FirstPage>
+                  <LastPage>565</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0373.62020</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2286217</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>B. Efron. Efficiency of Cox's Likelihood Function for Censored Data.<Emphasis Type="Italic">J. Am. Statist. Ass.</Emphasis>, 1977, 72: 557–565.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>[9]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.A.</Initials>
+                    <FamilyName>Escobar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.Q.</Initials>
+                    <FamilyName>Meeker</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Assessing Influence in Regression Analysis with Censored Data</ArticleTitle>
+                  <JournalTitle>Biometrics</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <FirstPage>507</FirstPage>
+                  <LastPage>528</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0825.62838</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2532306</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>L.A. Escobar and W.Q. Meeker. Assessing Influence in Regression Analysis with Censored Data.<Emphasis Type="Italic">Biometrics</Emphasis>, 1992, 48: 507–528.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>[10]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.C.</Initials>
+                    <FamilyName>Jiang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Diagnostics on Cox's Proportional Hazards Model</ArticleTitle>
+                  <JournalTitle>Acta Sci. Nat., Nankai University</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>79</FirstPage>
+                  <LastPage>88</LastPage>
+                  <BibComments>(in Chinese)</BibComments>
+                </BibArticle>
+                <BibUnstructured>J.C. Jiang. Diagnostics on Cox's Proportional Hazards Model.<Emphasis Type="Italic">Acta Sci. Nat., Nankai University</Emphasis>, 1993, (4): 79–88 (in Chinese).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>[11]</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J.F.</Initials>
+                    <FamilyName>Lawless</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <BookTitle>Statistical Models and Methods for Lifetime Data</BookTitle>
+                  <PublisherName>Wiley</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0541.62081</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>J.F. Lawless, Statistical Models and Methods for Lifetime Data. Wiley, New York, 1982.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>[12]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Peto</FamilyName>
+                  </BibAuthorName>
+                  <Year>1972</Year>
+                  <ArticleTitle Language="En">Discussion on Professor Cox's Paper</ArticleTitle>
+                  <JournalTitle>J.R. Statist. Soc. (Series B)</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>205</FirstPage>
+                  <LastPage>207</LastPage>
+                </BibArticle>
+                <BibUnstructured>R. Peto. Discussion on Professor Cox's Paper.<Emphasis Type="Italic">J.R. Statist. Soc.</Emphasis> (Series B), 1972, 34: 205–207.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>[13]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.N.</Initials>
+                    <FamilyName>Pettitt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I.</Initials>
+                    <FamilyName>Bin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <NoInitials/>
+                    <FamilyName>Daud</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">Case-weighted Measures of Influence for Proportional Hazards Regression</ArticleTitle>
+                  <JournalTitle>Appl. Statist.</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <FirstPage>51</FirstPage>
+                  <LastPage>67</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2347680</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A.N. Pettitt and I. BIN. Daud. Case-weighted Measures of Influence for Proportional Hazards Regression.<Emphasis Type="Italic">Appl. Statist.</Emphasis>, 1989, 38:51–67.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>[14]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Reid</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Crépeau</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Influence Functions for Proportional Hazards Regression</ArticleTitle>
+                  <JournalTitle>Biometrika</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>9</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/biomet/72.1.1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>N. Reid and H. Crépeau. Influence Functions for Proportional Hazards Regression.<Emphasis Type="Italic">Biometrika</Emphasis>, 1985, 72: 1–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>[15]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>X.Z.</Initials>
+                    <FamilyName>Wu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>Luo</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Second Order Approach to Local Influence</ArticleTitle>
+                  <JournalTitle>J. R. Statist. Soc. (Series B)</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>929</FirstPage>
+                  <LastPage>936</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0798.62032</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>X.Z. Wu and Z. Luo. Second Order Approach to Local Influence.<Emphasis Type="Italic">J. R. Statist. Soc.</Emphasis> (Series B), 1993, 55: 929–936.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

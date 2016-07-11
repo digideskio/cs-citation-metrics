@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+</PublisherInfo>
+<Journal>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>138</JournalID>
+<JournalPrintISSN>0932-8092</JournalPrintISSN>
+<JournalElectronicISSN>1432-1769</JournalElectronicISSN>
+<JournalTitle>Machine Vision and Applications</JournalTitle>
+<JournalSubTitle>An International Journal</JournalSubTitle>
+<JournalAbbreviatedTitle>Machine Vis. Apps.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing</JournalSubject>
+        <JournalSubject Type="Secondary">Communications Engineering, Networks</JournalSubject>
+      </JournalSubjectGroup>
+</JournalInfo>
+<Volume>
+<VolumeInfo VolumeType="Regular" TocLevels="0">
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<Issue IssueType="Regular">
+<IssueInfo TocLevels="0">
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+<IssueArticleCount>4</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<DateString>1988</DateString>
+<Year>1988</Year>
+<Month>12</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<Article ID="Art2">
+<ArticleInfo Language="En" ArticleType="OriginalPaper" NumberingStyle="Unnumbered" TocLevels="0" ContainsESM="No">
+<ArticleID>BF01212361</ArticleID>
+<ArticleDOI>10.1007/BF01212361</ArticleDOI>
+<ArticleSequenceNumber>2</ArticleSequenceNumber>
+<ArticleTitle Language="En">Dynamic monocular machine vision</ArticleTitle>
+<ArticleFirstPage>223</ArticleFirstPage>
+<ArticleLastPage>240</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>2005</Year>
+<Month>2</Month>
+<Day>8</Day>
+</RegistrationDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+<ArticleContext>
+<JournalID>138</JournalID>
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<ArticleHeader>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+<AuthorName DisplayOrder="Western">
+<Prefix>Prof.</Prefix>
+<GivenName>Ernst</GivenName>
+<GivenName>Dieter</GivenName>
+<FamilyName>Dickmanns</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Volker</GivenName>
+<FamilyName>Graefe</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgDivision>Steuer-und Regelungstechnik</OrgDivision>
+<OrgName>Universität der Bundeswehr München, Fakultät für Luft- und Raumfahrttechnik, Institut Für Systemdynamik und Flugmechanik</OrgName>
+<OrgAddress>
+<Street>Werner-Heisen-berg-Weg 39</Street>
+<Postcode>D-8014</Postcode>
+<City>Neubiberg</City>
+<Country>West Germany</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<Abstract ID="Abs1" Language="En">
+<Heading>Abstract</Heading>
+<Para>A new approach to real-time machine vision in dynamic scenes is presented based on special hardware and methods for feature extraction and information processing. Using integral spatio-temporal models, it by-passes the nonunique inversion of the perspective projection by applying recursive least squares filtering. By prediction error feedback methods similar to those used in modern control theory, all spatial state variables including the velocity components are estimated. Only the last image of the sequence needs to be evaluated, thereby alleviating the real-time image sequence processing task.</Para>
+</Abstract>
+<KeywordGroup Language="En">
+<Heading>Keywords</Heading>
+<Keyword>4-D machine vision</Keyword>
+<Keyword>real-time image sequence processing</Keyword>
+<Keyword>automatic visual motion control</Keyword>
+<Keyword>vehicle guidance</Keyword>
+</KeywordGroup>
+<ArticleNote Type="Misc">
+<SimplePara>This research has been partially supported by the German Federal Ministry of Research and Technology (BMFT), the Deutsche Forschungsgemeinschaft (DFG), the Daimler-Benz AG, and by Messerschmitt-Bölkow-Blohm GmbH (MBB).</SimplePara>
+</ArticleNote>
+</ArticleHeader>
+<BodyRef FileRef="BodyRef/PDF/138_2005_Article_BF01212361.pdf" TargetType="PDF"/>
+<ArticleBackmatter>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<BibBook>
+<BibAuthorName>
+<Initials>GJ</Initials>
+<FamilyName>Bierman</FamilyName>
+</BibAuthorName>
+<Year>1975</Year>
+<BookTitle>Measurement updating using the<Emphasis Type="Italic">U-D</Emphasis> factorization. Proc. IEEE Control and Decision Conf.</BookTitle>
+<PublisherName>Houston</PublisherName>
+<PublisherLocation>Texas</PublisherLocation>
+<FirstPage>337</FirstPage>
+<LastPage>346</LastPage>
+</BibBook>
+<BibUnstructured>Bierman GJ (1975) Measurement updating using the<Emphasis Type="Italic">U-D</Emphasis> factorization. Proc. IEEE Control and Decision Conf., Houston, Texas, pp 337–346</BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<BibBook>
+<BibAuthorName>
+<Initials>GJ</Initials>
+<FamilyName>Bierman</FamilyName>
+</BibAuthorName>
+<Year>1977</Year>
+<BookTitle>Factorization methods for discrete sequential estimation</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Bierman GJ (1977) Factorization methods for discrete sequential estimation. Academic Press, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<BibArticle>
+<BibAuthorName>
+<Initials>E</Initials>
+<FamilyName>Bizzi</FamilyName>
+</BibAuthorName>
+<Year>1974</Year>
+<ArticleTitle Language="En">The coordination of eye-head movement</ArticleTitle>
+<JournalTitle>Scientific American</JournalTitle>
+<VolumeID>231</VolumeID>
+<FirstPage>100</FirstPage>
+<LastPage>106</LastPage>
+</BibArticle>
+<BibUnstructured>Bizzi E (1974) The coordination of eye-head movement. Scientific American 231, pp 100–106</BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<BibArticle>
+<BibAuthorName>
+<Initials>TJ</Initials>
+<FamilyName>Broida</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Chellappa</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Estimation of object motion parameters from noisy images</ArticleTitle>
+<JournalTitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</JournalTitle>
+<VolumeID>PAMI-8</VolumeID>
+<IssueID>No. 1</IssueID>
+<FirstPage>90</FirstPage>
+<LastPage>99</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/TPAMI.1986.4767755</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Broida TJ, Chellappa R (1986) Estimation of object motion parameters from noisy images. IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. PAMI-8, No. 1, pp 90–99</BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<BibArticle>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Dichgans</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>E</Initials>
+<FamilyName>Bizzi</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Morasso</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>V</Initials>
+<FamilyName>Tagliasco</FamilyName>
+</BibAuthorName>
+<Year>1973</Year>
+<ArticleTitle Language="En">Mechanisms underlying recovery of eye head coordination following bilateral labyrinthectomy in monkeys</ArticleTitle>
+<JournalTitle>Exp. Brain Res.</JournalTitle>
+<VolumeID>18</VolumeID>
+<FirstPage>548</FirstPage>
+<LastPage>569</LastPage>
+</BibArticle>
+<BibUnstructured>Dichgans J, Bizzi E, Morasso P, Tagliasco V (1973) Mechanisms underlying recovery of eye head coordination following bilateral labyrinthectomy in monkeys. Exp. Brain Res., 18, pp 548–569</BibUnstructured>
+</Citation>
+<Citation ID="CR6">
+<BibUnstructured>Dickmanns ED (1985a) 2D-object recognition and representation using normalized curvature functions. In: Hamza MH (ed) Proc. IASTED Int. Symp. on Robotics and Automation '85. Acta Press, pp 9–13</BibUnstructured>
+</Citation>
+<Citation ID="CR7">
+<BibUnstructured>Dickmanns ED (1985b) Vermessung und Erkennung von Figuren mit linearen Krümmungsmodellen. UniBwM/ LRT/WE 13/FB/85-2</BibUnstructured>
+</Citation>
+<Citation ID="CR8">
+<BibUnstructured>Dickmanns ED (1986) Computer vision in road vehicles-chances and problems. Preprint, ICTS Symposium on Human Factors Technology for Next-Generation Transportation Vehicles, Amalfi, Italy</BibUnstructured>
+</Citation>
+<Citation ID="CR9">
+<BibChapter>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<Year>1988</Year>
+<ChapterTitle Language="En">Object recognition and real-time relative state estimation under egomotion</ChapterTitle>
+<BibEditorName>
+<Initials>AK</Initials>
+<FamilyName>Jain</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Real-Time Object Measurement and Classification</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+<FirstPage>41</FirstPage>
+<LastPage>56</LastPage>
+</BibChapter>
+<BibUnstructured>Dickmanns ED (1988a) Object recognition and real-time relative state estimation under egomotion. In: Jain AK, (ed) Real-Time Object Measurement and Classification. Springer-Verlag, Berlin, pp 41–56</BibUnstructured>
+</Citation>
+<Citation ID="CR10">
+<BibArticle>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<Year>1988</Year>
+<ArticleTitle Language="En">Computer vision for flight vehicles</ArticleTitle>
+<JournalTitle>Zeitschrift für Flugwissenschaft und Weltraumforschung (ZFW)</JournalTitle>
+<VolumeID>12</VolumeID>
+<FirstPage>71</FirstPage>
+<LastPage>79</LastPage>
+</BibArticle>
+<BibUnstructured>Dickmanns ED (1988b) Computer vision for flight vehicles. Zeitschrift für Flugwissenschaft und Weltraumforschung (ZFW) 12, pp 71–79</BibUnstructured>
+</Citation>
+<Citation ID="CR11">
+<BibChapter>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Eberl</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ChapterTitle Language="De">Automatischer Landeanflug durch maschinelles Sehen</ChapterTitle>
+<BookTitle>DGLR-Jahrbuch 1987</BookTitle>
+<PublisherName>Jahrestagung der DGLR</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+<FirstPage>294</FirstPage>
+<LastPage>300</LastPage>
+</BibChapter>
+<BibUnstructured>Dickmanns ED, Eberl G (1987) Automatischer Landeanflug durch maschinelles Sehen. (DGLR-Jahrbuch 1987) Jahrestagung der DGLR, Berlin, pp 294–300</BibUnstructured>
+</Citation>
+<Citation ID="CR12">
+<BibArticle>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>HJ</Initials>
+<FamilyName>Wünsche</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Regelung mittels Rechnersehen</ArticleTitle>
+<JournalTitle>Automatisierungstechnik (at)</JournalTitle>
+<VolumeID>34</VolumeID>
+<IssueID>l</IssueID>
+<FirstPage>16</FirstPage>
+<LastPage>22</LastPage>
+</BibArticle>
+<BibUnstructured>Dickmanns ED, Wünsche HJ (1986a) Regelung mittels Rechnersehen. Automatisierungstechnik (at) 34, l/ 1986, pp 16–22</BibUnstructured>
+</Citation>
+<Citation ID="CR13">
+<BibChapter>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>HJ</Initials>
+<FamilyName>Wünsche</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ChapterTitle Language="En">Satellite rendezvous maneuvers by means of computer vision</ChapterTitle>
+<BookTitle>Jahrestagung DGLR München</BookTitle>
+<PublisherName>DGLR</PublisherName>
+<PublisherLocation>Bonn</PublisherLocation>
+<FirstPage>251</FirstPage>
+<LastPage>259</LastPage>
+</BibChapter>
+<BibUnstructured>Dickmanns ED, Wünsche HJ (1986b) Satellite rendezvous maneuvers by means of computer vision. Jahrestagung DGLR München. Jahrbuch 1986 Bd1, DGLR, Bonn, pp 251–259</BibUnstructured>
+</Citation>
+<Citation ID="CR14">
+<BibChapter>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Zapp</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>KD</Initials>
+<FamilyName>Otto</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ChapterTitle Language="De">Ein Simulationskreis zur Entwicklung einer automatischen Fahrzeugführung mit bildhaften und inertialen Signalen</ChapterTitle>
+<BookTitle>Proc. 2. Symp. Simulationstechnik, Wien, Informatik-Fachberichte 39</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Dickmanns ED, Zapp A, Otto KD (1984) Ein Simulationskreis zur Entwicklung einer automatischen Fahrzeugführung mit bildhaften und inertialen Signalen. Proc. 2. Symp. Simulationstechnik, Wien, Informatik-Fachberichte 39. Springer-Verlag, Berlin</BibUnstructured>
+</Citation>
+<Citation ID="CR15">
+<BibChapter>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Zapp</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ChapterTitle Language="En">Guiding land vehicles along roadways by computer vision</ChapterTitle>
+<BookTitle>Proc. Congres Automatique 1985</BookTitle>
+<PublisherName>AFCET</PublisherName>
+<PublisherLocation>Toulouse</PublisherLocation>
+<FirstPage>233</FirstPage>
+<LastPage>244</LastPage>
+</BibChapter>
+<BibUnstructured>Dickmanns ED, Zapp A (1985) Guiding land vehicles along roadways by computer vision. Proc. Congres Automatique 1985, AFCET, Toulouse, pp 233–244</BibUnstructured>
+</Citation>
+<Citation ID="CR16">
+<BibUnstructured>Dickmanns ED, Zapp A (1986) A Curvature-based scheme for improving road vehicle guidance by computer vision. In: Mobile Robots, SPIE-Proc. Vol. 727, Cambridge, MA, pp 161–168</BibUnstructured>
+</Citation>
+<Citation ID="CR17">
+<BibArticle>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Zapp</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">Autonomous high speed road vehicle guidance by computer vision</ArticleTitle>
+<JournalTitle>10th IFAC-Congress, München</JournalTitle>
+<VolumeID>4</VolumeID>
+<FirstPage>232</FirstPage>
+<LastPage>237</LastPage>
+</BibArticle>
+<BibUnstructured>Dickmanns ED, Zapp A (1987) Autonomous high speed road vehicle guidance by computer vision. Preprint, 10th IFAC-Congress, München, Vol. 4, pp 232–237</BibUnstructured>
+</Citation>
+<Citation ID="CR18">
+<BibBook>
+<BibAuthorName>
+<Initials>MJB</Initials>
+<FamilyName>Duff</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<BookTitle>Intermediate-level image processing</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>London</PublisherLocation>
+</BibBook>
+<BibUnstructured>Duff MJB (1986) Intermediate-level image processing. Academic Press, London</BibUnstructured>
+</Citation>
+<Citation ID="CR19">
+<BibChapter>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Eberl</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ChapterTitle Language="De">Automatischer Landeanflug durch Rechnersehen</ChapterTitle>
+<BookTitle>Dissertation</BookTitle>
+<PublisherName>Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr</PublisherName>
+<PublisherLocation>München</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Eberl G (1987) Automatischer Landeanflug durch Rechnersehen. Dissertation, Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr München</BibUnstructured>
+</Citation>
+<Citation ID="CR20">
+<BibUnstructured>Fichte JG (1792) Versuch einer Kritik aller Offenbarung. Hartung, Königsberg (appeared anonymous at first)</BibUnstructured>
+</Citation>
+<Citation ID="CR21">
+<BibUnstructured>Gennery DB (1981) A feature-based scene matcher. Proceedings 7th International Joint Conference on Artificial Intelligence, pp 667–673</BibUnstructured>
+</Citation>
+<Citation ID="CR22">
+<BibUnstructured>Gennery DB (1982) Tracking known three-dimensional objects. Proceedings American Association for Artificial Intelligence, Pittsburgh, pp 13–17</BibUnstructured>
+</Citation>
+<Citation ID="CR23">
+<BibChapter>
+<BibAuthorName>
+<Initials>V</Initials>
+<FamilyName>Graefe</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ChapterTitle Language="En">A Pre-processor for the real-time interpretation of dynamic scenes</ChapterTitle>
+<BibEditorName>
+<Initials>TS</Initials>
+<FamilyName>Huang</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Image sequence processing and dynamic scene analysis</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+<FirstPage>519</FirstPage>
+<LastPage>531</LastPage>
+</BibChapter>
+<BibUnstructured>Graefe V (1983a) A Pre-processor for the real-time interpretation of dynamic scenes. In: Huang TS (ed) Image sequence processing and dynamic scene analysis. Springer-Verlag, Berlin, pp 519–531</BibUnstructured>
+</Citation>
+<Citation ID="CR24">
+<BibUnstructured>Graefe V (1983b) Ein Bildvorverarbeitungsrechner für die Bewegungssteuerung durch Rechnersehen. In: Kazmierczak H (ed) Mustererkennung 1983, NTG Fachberichte. VDE-Verlag, pp 203–208</BibUnstructured>
+</Citation>
+<Citation ID="CR25">
+<BibUnstructured>Graefe V (1983c) On the representation of moving objects in real-time computer vision systems. In: Tescher AG (ed) Applications of digital image processing VI. Proceedings of the SPIE, Vol. 432, pp 129–132</BibUnstructured>
+</Citation>
+<Citation ID="CR26">
+<BibChapter>
+<BibAuthorName>
+<Initials>V</Initials>
+<FamilyName>Graefe</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<ChapterTitle Language="En">Two multi-processor systems for lowlevel real-time vision</ChapterTitle>
+<BibEditorName>
+<Initials>JM</Initials>
+<FamilyName>Brady</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>LA</Initials>
+<FamilyName>Gerhardt</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>HR</Initials>
+<FamilyName>Davidson</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Robotics and artificial intelligence</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+<FirstPage>301</FirstPage>
+<LastPage>308</LastPage>
+</BibChapter>
+<BibUnstructured>Graefe V (1984) Two multi-processor systems for lowlevel real-time vision. In: Brady JM, Gerhardt LA and Davidson HR (eds) Robotics and artificial intelligence. Springer-Verlag, Berlin, pp 301–308</BibUnstructured>
+</Citation>
+<Citation ID="CR27">
+<BibUnstructured>Graefe V, Kuhnert KD (1987) Low-level vision for advanced mobile robots. In: Martin T (ed) International advanced robotics programme-proceedings of the first workshop on manipulators, sensors and steps towards mobility. Kernforschungszentrum Karlsruhe, KfK 4316, pp 239–246</BibUnstructured>
+</Citation>
+<Citation ID="CR28">
+<BibChapter>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Haas</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ChapterTitle Language="De">Meßwertgewinnung durch Echtzeitauswertung von Bildfolgen</ChapterTitle>
+<BookTitle>Dissertation</BookTitle>
+<PublisherName>Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr</PublisherName>
+<PublisherLocation>München</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Haas G (1982) Meßwertgewinnung durch Echtzeitauswertung von Bildfolgen. Dissertation, Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr München</BibUnstructured>
+</Citation>
+<Citation ID="CR29">
+<BibUnstructured>Haas G, Graefe V (1983) Locating fast-moving objects in TV-images in the presence of motion blur. In: Oosterlinck A and Tescher AG (eds) Applications of digital image processing V. Proceedings of the SPIE, Vol. 397, pp 440–446</BibUnstructured>
+</Citation>
+<Citation ID="CR30">
+<BibChapter>
+<BibAuthorName>
+<Initials>GWF</Initials>
+<FamilyName>Hegel</FamilyName>
+</BibAuthorName>
+<Year>1806</Year>
+<ChapterTitle Language="De">Phänomenologie des Geistes</ChapterTitle>
+<BibEditorName>
+<Initials>H</Initials>
+<FamilyName>Glockner</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Hegel</BookTitle>
+<PublisherName>Sämtliche Werke</PublisherName>
+<PublisherLocation>Stuttgart</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Hegel GWF (1806) Phänomenologie des Geistes. In: Glockner H (ed) Hegel, Sämtliche Werke. Stuttgart, 1927</BibUnstructured>
+</Citation>
+<Citation ID="CR31">
+<BibUnstructured>Kalman RE (1960) A new approach to linear filtering and prediction problems. Trans. ASME, Series D, Journal of Basic Engineering, pp 35–45</BibUnstructured>
+</Citation>
+<Citation ID="CR32">
+<BibUnstructured>Kuhnert KD (1984) Towards the objective evaluation of low level vision operators. In: O'Shea T (ed) ECAI 84, Proceedings of the Sixth European Conference on Artificial Intelligence, Pisa, p 657</BibUnstructured>
+</Citation>
+<Citation ID="CR33">
+<BibChapter>
+<BibAuthorName>
+<Initials>KD</Initials>
+<FamilyName>Kuhnert</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ChapterTitle Language="En">A modeldriven image analysis system for vehicle guidance in real time</ChapterTitle>
+<BibEditorName>
+<Initials>WJ</Initials>
+<FamilyName>Wolfe</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Proceedings of the Second International Electronic Image Week</BookTitle>
+<PublisherName>CESTA</PublisherName>
+<PublisherLocation>Nizza</PublisherLocation>
+<FirstPage>216</FirstPage>
+<LastPage>221</LastPage>
+</BibChapter>
+<BibUnstructured>Kuhnert KD (1986a) A modeldriven image analysis system for vehicle guidance in real time. In: Wolfe WJ (ed) Proceedings of the Second International Electronic Image Week, CESTA, Nizza, pp 216–221</BibUnstructured>
+</Citation>
+<Citation ID="CR34">
+<BibUnstructured>Kuhnert KD (1986b) A vision system for real-time road and object recognition for vehicle guidance. In: Marquino N (ed) Advances in intelligent robotics systems. Proceedings of the SPIE, Vol. 727, Cambridge, MA, pp 267–272</BibUnstructured>
+</Citation>
+<Citation ID="CR35">
+<BibUnstructured>Kuhnert KD (1986c) Comparison of intelligent real-time algorithms for guiding an autonomous vehicle. In: Hertzberger LO (ed) Proceedings of the Conference on Intelligent Autonomous Systems, Amsterdam</BibUnstructured>
+</Citation>
+<Citation ID="CR36">
+<BibChapter>
+<BibAuthorName>
+<Initials>KD</Initials>
+<FamilyName>Kuhnert</FamilyName>
+</BibAuthorName>
+<Year>1988</Year>
+<ChapterTitle Language="De">Zur Echtzeit-Bildfolgenanalyse mit Vorwissen</ChapterTitle>
+<BookTitle>Dissertation</BookTitle>
+<PublisherName>Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr</PublisherName>
+<PublisherLocation>München</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Kuhnert KD (1988) Zur Echtzeit-Bildfolgenanalyse mit Vorwissen. Dissertation, Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr München</BibUnstructured>
+</Citation>
+<Citation ID="CR37">
+<BibChapter>
+<BibAuthorName>
+<Initials>KD</Initials>
+<FamilyName>Kuhnert</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Zapp</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ChapterTitle Language="De">Wissensgesteuerte Bilfolgenauswertung zur automatischen Führung von Straßenfahrzeugen in Echtzeit</ChapterTitle>
+<BibEditorName>
+<Initials>H</Initials>
+<FamilyName>Niemann</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Mustererkennung 1985</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+<FirstPage>102</FirstPage>
+<LastPage>106</LastPage>
+</BibChapter>
+<BibUnstructured>Kuhnert KD, Zapp A (1985) Wissensgesteuerte Bilfolgenauswertung zur automatischen Führung von Straßenfahrzeugen in Echtzeit. In: Niemann H (ed) Mustererkennung 1985. Springer-Verlag, Berlin, pp 102–106</BibUnstructured>
+</Citation>
+<Citation ID="CR38">
+<BibUnstructured>Maybeck PS (1979) Stochastic models, estimation and control, Vol. 1, Academic Press</BibUnstructured>
+</Citation>
+<Citation ID="CR39">
+<BibChapter>
+<BibAuthorName>
+<Initials>HG</Initials>
+<FamilyName>Meissner</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ChapterTitle Language="En">Steuerung dynamischer Systeme aufgrund bildhafter Informationen</ChapterTitle>
+<BookTitle>Dissertation</BookTitle>
+<PublisherName>Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr</PublisherName>
+<PublisherLocation>München</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Meissner HG (1982) Steuerung dynamischer Systeme aufgrund bildhafter Informationen. Dissertation, Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr München</BibUnstructured>
+</Citation>
+<Citation ID="CR40">
+<BibChapter>
+<BibAuthorName>
+<Initials>HG</Initials>
+<FamilyName>Meissner</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ChapterTitle Language="En">Control of an unstable plant by computer vision</ChapterTitle>
+<BibEditorName>
+<Initials>TS</Initials>
+<FamilyName>Huang</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Image sequence processing and dynamic scene analysis</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+<FirstPage>532</FirstPage>
+<LastPage>548</LastPage>
+</BibChapter>
+<BibUnstructured>Meissner HG, Dickmanns ED (1983) Control of an unstable plant by computer vision. In: Huang TS (ed) Image sequence processing and dynamic scene analysis. Springer-Verlag, Berlin, pp 532–548</BibUnstructured>
+</Citation>
+<Citation ID="CR41">
+<BibUnstructured>Mysliwetz B, Dickmanns ED (1986) A vision system with active gaze control for real-time interpretation of well structured dynamic scenes. In: Hertzberger LO (ed) Proceedings of the Conference on Intelligent Autonomous Systems, Amsterdam</BibUnstructured>
+</Citation>
+<Citation ID="CR42">
+<BibChapter>
+<BibAuthorName>
+<Initials>B</Initials>
+<FamilyName>Mysliwetz</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ChapterTitle Language="En">Distributed scene analysis for autonomous road vehicle guidance</ChapterTitle>
+<BookTitle>Proc. SPIE Conf. on Mobile Robots, Vol. 852</BookTitle>
+<PublisherName>Cambridge</PublisherName>
+<PublisherLocation>MA</PublisherLocation>
+<FirstPage>72</FirstPage>
+<LastPage>79</LastPage>
+</BibChapter>
+<BibUnstructured>Mysliwetz B, Dickmanns ED (1987) Distributed scene analysis for autonomous road vehicle guidance. Proc. SPIE Conf. on Mobile Robots, Vol. 852, Cambridge, MA, pp 72–79</BibUnstructured>
+</Citation>
+<Citation ID="CR43">
+<BibChapter>
+<BibAuthorName>
+<Initials>B</Initials>
+<FamilyName>Mysliwetz</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>ED</Initials>
+<FamilyName>Dickmanns</FamilyName>
+</BibAuthorName>
+<Year>1988</Year>
+<ChapterTitle Language="De">Ein verteiltes System zur Echtzeitinterpretation von Straßenszenen für die autonome Fahrzeugführung</ChapterTitle>
+<BibEditorName>
+<Initials>R</Initials>
+<FamilyName>Lauber</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Prozeßrechnersysteme '88. Informatik-Fachberichte 167</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+<FirstPage>664</FirstPage>
+<LastPage>673</LastPage>
+</BibChapter>
+<BibUnstructured>Mysliwetz B, Dickmanns ED (1988) Ein verteiltes System zur Echtzeitinterpretation von Straßenszenen für die autonome Fahrzeugführung. In: Lauber R (ed) Prozeßrechnersysteme '88. Informatik-Fachberichte 167, Springer-Verlag, Berlin, pp 664–673</BibUnstructured>
+</Citation>
+<Citation ID="CR44">
+<BibChapter>
+<BibAuthorName>
+<Initials>HH</Initials>
+<FamilyName>Nagel</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ChapterTitle Language="En">Overview on image sequence analysis</ChapterTitle>
+<BibEditorName>
+<Initials>TS</Initials>
+<FamilyName>Huang</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Image sequence processing and dynamic scene analysis</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+<FirstPage>2</FirstPage>
+<LastPage>39</LastPage>
+</BibChapter>
+<BibUnstructured>Nagel HH (1983) Overview on image sequence analysis. In: Huang TS (ed) Image sequence processing and dynamic scene analysis. Springer-Verlag, Berlin, pp 2–39</BibUnstructured>
+</Citation>
+<Citation ID="CR45">
+<BibBook>
+<BibAuthorName>
+<Initials>KR</Initials>
+<FamilyName>Popper</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JC</Initials>
+<FamilyName>Eccles</FamilyName>
+</BibAuthorName>
+<Year>1977</Year>
+<BookTitle>The self and its brain-an argument for interactionism</BookTitle>
+<PublisherName>Springer International</PublisherName>
+<PublisherLocation>Berlin</PublisherLocation>
+</BibBook>
+<BibUnstructured>Popper KR, Eccles JC (1977) The self and its brain-an argument for interactionism. Springer International, Berlin</BibUnstructured>
+</Citation>
+<Citation ID="CR46">
+<BibChapter>
+<BibAuthorName>
+<Initials>R</Initials>
+<FamilyName>Reddy</FamilyName>
+</BibAuthorName>
+<Year>1978</Year>
+<ChapterTitle Language="En">Pragmatic aspects of machine vision</ChapterTitle>
+<BibEditorName>
+<Initials>A</Initials>
+<FamilyName>Hanson</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>E</Initials>
+<FamilyName>Riseman</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Computer vision systems</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+<FirstPage>89</FirstPage>
+<LastPage>98</LastPage>
+</BibChapter>
+<BibUnstructured>Reddy R (1978) Pragmatic aspects of machine vision. In: Hanson A and Riseman E (eds) Computer vision systems. Academic Press, New York, pp 89–98</BibUnstructured>
+</Citation>
+<Citation ID="CR47">
+<BibUnstructured>Rives, P, Breuil E, Espian B (1986) Recursive estimation of 3D features using optical flow and camera motion. In: Hertzberger LO (ed) Proceedings of the Conference on Intelligent Autonomous Systems, Amsterdam, pp 522–532</BibUnstructured>
+</Citation>
+<Citation ID="CR48">
+<BibUnstructured>Schopenhauer A (1819) Die Welt als Wille und Vorstellung. In: Löhneysen W (ed) Arthur Schopenhauer, Sämtliche Werke. Suhrkamp, Frankfurt a.M., (Nachdruck 1986)</BibUnstructured>
+</Citation>
+<Citation ID="CR49">
+<BibArticle>
+<BibAuthorName>
+<Initials>B</Initials>
+<FamilyName>Strackerjan</FamilyName>
+</BibAuthorName>
+<Year>1975</Year>
+<ArticleTitle Language="De">Theoretische Untersuchungen des dynamischen Lenkverhaltens von Personenkraftwagen</ArticleTitle>
+<JournalTitle>Automobil-Industrie</JournalTitle>
+<VolumeID>3/75</VolumeID>
+<FirstPage>49</FirstPage>
+<LastPage>56</LastPage>
+</BibArticle>
+<BibUnstructured>Strackerjan B (1975) Theoretische Untersuchungen des dynamischen Lenkverhaltens von Personenkraftwagen. Automobil-Industrie 3/75, pp 49–56</BibUnstructured>
+</Citation>
+<Citation ID="CR50">
+<BibChapter>
+<BibAuthorName>
+<Initials>CL</Initials>
+<FamilyName>Thornton</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>GJ</Initials>
+<FamilyName>Bierman</FamilyName>
+</BibAuthorName>
+<Year>1980</Year>
+<ChapterTitle Language="En">
+<Emphasis Type="Italic">UDU</Emphasis>
+<Superscript>
+<Emphasis Type="Italic">T</Emphasis>
+</Superscript> Covariance factorization for Kalman filtering</ChapterTitle>
+<BibEditorName>
+<Initials>CT</Initials>
+<FamilyName>Leondes</FamilyName>
+</BibEditorName>
+<Eds/>
+<BookTitle>Control and dynamic systems, advances in theory and application, Vol. 16</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+<FirstPage>177</FirstPage>
+<LastPage>248</LastPage>
+</BibChapter>
+<BibUnstructured>Thornton CL, Bierman GJ (1980)<Emphasis Type="Italic">UDU</Emphasis>
+<Superscript>
+<Emphasis Type="Italic">T</Emphasis>
+</Superscript> Covariance factorization for Kalman filtering. In: Leondes CT (ed) Control and dynamic systems, advances in theory and application, Vol. 16, Academic Press, New York, pp 177–248</BibUnstructured>
+</Citation>
+<Citation ID="CR51">
+<BibBook>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Vollmer</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<BookTitle>Was können wir wissen? Bd 1: Die Natur der Erkenntnis, Bd 2: Die Erkenntnis der Natur</BookTitle>
+<PublisherName>S. Hirzel Verlag</PublisherName>
+<PublisherLocation>Stuttgart</PublisherLocation>
+</BibBook>
+<BibUnstructured>Vollmer G (1986) Was können wir wissen? Bd 1: Die Natur der Erkenntnis, Bd 2: Die Erkenntnis der Natur. S. Hirzel Verlag, Stuttgart</BibUnstructured>
+</Citation>
+<Citation ID="CR52">
+<BibUnstructured>Wünsche HJ (1983) Verbesserte Regelung eines dynamischen Systems durch Auswertung redundanter Sichtinformation unter Berücksichtigung der Einflüsse verschiedener Zustandsschätzer und Abtastzeiten. Report HSBwM/LRT/WE13a/IB/83-2.</BibUnstructured>
+</Citation>
+<Citation ID="CR53">
+<BibUnstructured>Wünsche HJ (1986) Detection and control of mobile robot motion by real-time computer vision. In: Marquino N (ed) Advances in intelligent robotics systems. Proceedings of the SPIE, Vol. 727, Cambridge, MA, pp 100–109</BibUnstructured>
+</Citation>
+<Citation ID="CR54">
+<BibChapter>
+<BibAuthorName>
+<Initials>HJ</Initials>
+<FamilyName>Wünsche</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ChapterTitle Language="De">Erfassung und Steuerung von Bewegungen durch Rechnersehen</ChapterTitle>
+<BookTitle>Dissertation</BookTitle>
+<PublisherName>Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr</PublisherName>
+<PublisherLocation>München</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Wünsche HJ (1987) Erfassung und Steuerung von Bewegungen durch Rechnersehen. Dissertation, Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr München</BibUnstructured>
+</Citation>
+<Citation ID="CR55">
+<BibBook>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Zapp</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<BookTitle>Automatische Fahrzeugführung mit Sichtrückkopplung; Erste Fahrversuche mit einer Fernsehkamera als Echtbauteil im Simulationskreis</BookTitle>
+<SeriesTitle Language="En">LRT/WE 13/FB/85-1</SeriesTitle>
+<PublisherName>Universität der Bundeswehr</PublisherName>
+<PublisherLocation>München</PublisherLocation>
+</BibBook>
+<BibUnstructured>Zapp A (1985) Automatische Fahrzeugführung mit Sichtrückkopplung; Erste Fahrversuche mit einer Fernsehkamera als Echtbauteil im Simulationskreis. Universität der Bundeswehr München, LRT/WE 13/FB/85-1</BibUnstructured>
+</Citation>
+<Citation ID="CR56">
+<BibChapter>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Zapp</FamilyName>
+</BibAuthorName>
+<Year>1988</Year>
+<ChapterTitle Language="De">Automatische Straßenfahrzeugführung durch Rechnersehen</ChapterTitle>
+<BookTitle>Dissertation</BookTitle>
+<PublisherName>Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr</PublisherName>
+<PublisherLocation>München</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Zapp A (1988) Automatische Straßenfahrzeugführung durch Rechnersehen. Dissertation, Fakultät für Luft- und Raumfahrttechnik der Universität der Bundeswehr München</BibUnstructured>
+</Citation>
+</Bibliography>
+</ArticleBackmatter>
+</Article>
+</Issue>
+</Volume>
+</Journal>
+</Publisher>

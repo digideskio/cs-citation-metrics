@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Dough</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>CA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>MA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbruecken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-540-35461-1</BookID>
+        <BookTitle>Combinatorial Pattern Matching</BookTitle>
+        <BookSubTitle>17th Annual Symposium, CPM 2006, Barcelona, Spain, July 5-7, 2006. Proceedings</BookSubTitle>
+        <BookVolumeNumber>4009</BookVolumeNumber>
+        <BookSequenceNumber>4009</BookSequenceNumber>
+        <BookDOI>10.1007/11780441</BookDOI>
+        <BookTitleID>139689</BookTitleID>
+        <BookPrintISBN>978-3-540-35455-0</BookPrintISBN>
+        <BookElectronicISBN>978-3-540-35461-1</BookElectronicISBN>
+        <BookChapterCount>36</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2006</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="SCI" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="SCI2203X" Priority="1" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="SCI16021" Priority="2" Type="Secondary">Algorithm Analysis and Problem Complexity</BookSubject>
+          <BookSubject Code="SCI21033" Priority="3" Type="Secondary">Document Preparation and Text Processing</BookSubject>
+          <BookSubject Code="SCI18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="SCL15001" Priority="5" Type="Secondary">Bioinformatics</BookSubject>
+          <BookSubject Code="SCI15017" Priority="6" Type="Secondary">Data Structures</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>Annual Symposium on Combinatorial Pattern Matching</ConfSeriesName>
+          <ConfSeriesID Type="Springer">cpm</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">cpm</ConfSeriesID>
+          <ConfEventID Type="Springer">cpm2006</ConfEventID>
+          <ConfEventAbbreviation>CPM</ConfEventAbbreviation>
+          <ConfNumber>17</ConfNumber>
+          <ConfEventLocation>
+            <City>Barcelona</City>
+            <Country>Spain</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>5</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>7</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Moshe</GivenName>
+              <FamilyName>Lewenstein</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>moshe@cs.biu.ac.il</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Gabriel</GivenName>
+              <FamilyName>Valiente</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>valiente@lsi.upc.edu</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Department of Computer Science</OrgDivision>
+            <OrgName>Bar-Ilan University</OrgName>
+            <OrgAddress>
+              <Postcode>52900</Postcode>
+              <City>Ramat-Gan</City>
+              <Country>Israel</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Software</OrgDivision>
+            <OrgName>Technical University of Catalonia</OrgName>
+            <OrgAddress>
+              <Postcode>08034</Postcode>
+              <City>Barcelona</City>
+              <Country>Spain</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part9">
+        <PartInfo TocLevels="0">
+          <PartID>9</PartID>
+          <PartSequenceNumber>9</PartSequenceNumber>
+          <PartTitle>Session 8. Data Compression</PartTitle>
+          <PartChapterCount>4</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Combinatorial Pattern Matching</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap26" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>26</ChapterID>
+            <ChapterDOI>10.1007/11780441_26</ChapterDOI>
+            <ChapterSequenceNumber>26</ChapterSequenceNumber>
+            <ChapterTitle Language="En">A Simpler Analysis of Burrows-Wheeler Based Compression</ChapterTitle>
+            <ChapterFirstPage>282</ChapterFirstPage>
+            <ChapterLastPage>293</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2006</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>9</PartID>
+              <BookID>978-3-540-35461-1</BookID>
+              <BookTitle>Combinatorial Pattern Matching</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Haim</GivenName>
+                  <FamilyName>Kaplan</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>haimk@post.tau.ac.il</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Shir</GivenName>
+                  <FamilyName>Landau</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>landaush@post.tau.ac.il</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Elad</GivenName>
+                  <FamilyName>Verbin</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>eladv@post.tau.ac.il</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff18">
+                <OrgDivision>School of Computer Science</OrgDivision>
+                <OrgName>Tel Aviv University</OrgName>
+                <OrgAddress>
+                  <City>Tel Aviv</City>
+                  <Country>Israel</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para TextBreak="No">In this paper we present a new technique for worst-case analysis of compression algorithms which are based on the Burrows-Wheeler Transform. We deal mainly with the algorithm purposed by Burrows and Wheeler in their first paper on the subject [6], called <Emphasis Type="SmallCaps">bw0</Emphasis>. This algorithm consists of the following three steps: 1) Compute the Burrows-Wheeler transform of the text, 2) Convert the transform into a sequence of integers using the move-to-front algorithm, 3) Encode the integers using Arithmetic code or any order-0 encoding (possibly with run-length encoding).</Para>
+              <Para TextBreak="No">We prove a strong upper bound on the worst-case compression ratio of this algorithm. This bound is significantly better than bounds known to date and is obtained via simple analytical techniques. Specifically, we show that for any input string <Emphasis Type="Italic">s</Emphasis>, and <Emphasis Type="Italic">μ</Emphasis>&gt; 1, the length of the compressed string is bounded by <Emphasis Type="Italic">μ</Emphasis>
+                        <InlineEquation ID="IEq1">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="MediaObjects/978-3-540-35461-1_26_IEq1_HTML.png" Format="PNG" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                </InlineEquation>|<Emphasis Type="Italic">s</Emphasis>| <Emphasis Type="Italic">H</Emphasis>
+                        <Subscript>
+                  <Emphasis Type="Italic">k</Emphasis>
+                </Subscript>(<Emphasis Type="Italic">s</Emphasis>) + log(<Emphasis Type="Italic">ζ</Emphasis>(<Emphasis Type="Italic">μ</Emphasis>)) <InlineEquation ID="IEq2">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="MediaObjects/978-3-540-35461-1_26_IEq2_HTML.png" Format="PNG" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                </InlineEquation>|<Emphasis Type="Italic">s</Emphasis>| + <Emphasis Type="Italic">g</Emphasis>
+                        <Subscript>
+                  <Emphasis Type="Italic">k</Emphasis>
+                </Subscript> where <Emphasis Type="Italic">H</Emphasis>
+                        <Subscript>
+                  <Emphasis Type="Italic">k</Emphasis>
+                </Subscript> is the k-th order empirical entropy, <Emphasis Type="Italic">g</Emphasis>
+                        <Subscript>
+                  <Emphasis Type="Italic">k</Emphasis>
+                </Subscript> is a constant depending only on <Emphasis Type="Italic">k</Emphasis> and on the size of the alphabet, and <InlineEquation ID="IEq3">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="978-3-540-35461-1_26_Chapter_TeX2GIFIEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$\zeta(\mu) = \frac{1}{1^\mu} + \frac{1}{2^\mu} + \ldots $]]></EquationSource>
+                </InlineEquation> is the standard zeta function. As part of the analysis we prove a result on the compressibility of integer sequences, which is of independent interest.</Para>
+              <Para TextBreak="No">Finally, we apply our techniques to prove a worst-case bound on the compression ratio of a compression algorithm based on the Burrows-Wheeler transform followed by distance coding, for which worst-case guarantees have never been given. We prove that the length of the compressed string is bounded by 1.7286 <InlineEquation ID="IEq4">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="MediaObjects/978-3-540-35461-1_26_IEq4_HTML.png" Format="PNG" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                </InlineEquation>|<Emphasis Type="Italic">s</Emphasis>| <Emphasis Type="Italic">H</Emphasis>
+                        <Subscript>
+                  <Emphasis Type="Italic">k</Emphasis>
+                </Subscript>(<Emphasis Type="Italic">s</Emphasis>) + <Emphasis Type="Italic">g</Emphasis>
+                        <Subscript>
+                  <Emphasis Type="Italic">k</Emphasis>
+                </Subscript>. This bound is <Emphasis Type="Italic">better</Emphasis> than the bound we give for <Emphasis Type="SmallCaps">bw0</Emphasis>.</Para>
+            </Abstract>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-540-35461-1_Chapter_26.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>The canterbury corpus, <ExternalRef>
+                    <RefSource>
+                      <Literal>http://corpus.canterbury.ac.nz</Literal>
+                    </RefSource>
+                    <RefTarget Address="http://corpus.canterbury.ac.nz" TargetType="URL"/>
+                  </ExternalRef>
+                        </BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>Abel, J.: Web page about Distance Coding, <ExternalRef>
+                    <RefSource>
+                      <Literal>http://www.data-compression.info/Algorithms/DC/</Literal>
+                    </RefSource>
+                    <RefTarget Address="http://www.data-compression.info/Algorithms/DC/" TargetType="URL"/>
+                  </ExternalRef>
+                        </BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Apostolico</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.S.</Initials>
+                    <FamilyName>Fraenkel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Robust transmission of unbounded strings using fibonacci representations</ArticleTitle>
+                  <JournalTitle>IEEE Transactions on Information Theory</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>238</FirstPage>
+                  <LastPage>245</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TIT.1987.1057284</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>880165</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0626.94007</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Apostolico, A., Fraenkel, A.S.: Robust transmission of unbounded strings using fibonacci representations. IEEE Transactions on Information Theory 33(2), 238–245 (1987)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.L.</Initials>
+                    <FamilyName>Bentley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.D.</Initials>
+                    <FamilyName>Sleator</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.E.</Initials>
+                    <FamilyName>Tarjan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V.K.</Initials>
+                    <FamilyName>Wei</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">A locally adaptive data compression scheme</ArticleTitle>
+                  <JournalTitle>Communications of the ACM</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>320</FirstPage>
+                  <LastPage>330</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/5684.5688</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>835044</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0648.94007</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bentley, J.L., Sleator, D.D., Tarjan, R.E., Wei, V.K.: A locally adaptive data compression scheme. Communications of the ACM 29(4), 320–330 (1986)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Binder, E.: Distance coder. Usenet group comp.compression (2000)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Burrows, M., Wheeler, D.J.: A block sorting lossless data compression algorithm. Technical Report 124, Digital Equipment Corporation, Palo Alto, California (1994)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Cormen, T.H., Leiserson, C.E., Rivest, R.L., Stein, C.: Introduction to Algorithms, ch. 16.3, 2nd edn., pp. 385–392. MIT Press and McGraw-Hill (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Deorowicz</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Second step algorithms in the Burrows–Wheeler compression algorithm</ArticleTitle>
+                  <JournalTitle>Software – Practice and Experience</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>99</FirstPage>
+                  <LastPage>111</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/spe.426</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0987.68789</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Deorowicz, S.: Second step algorithms in the Burrows–Wheeler compression algorithm. Software – Practice and Experience 32(2), 99–111 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Elias</FamilyName>
+                  </BibAuthorName>
+                  <Year>1975</Year>
+                  <ArticleTitle Language="En">Universal codeword sets and representation of the integers</ArticleTitle>
+                  <JournalTitle>IEEE Trans. on Information Theory</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>194</FirstPage>
+                  <LastPage>203</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TIT.1975.1055349</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>373753</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0298.94011</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Elias, P.: Universal codeword sets and representation of the integers. IEEE Trans. on Information Theory 21(2), 194–203 (1975)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Ferragina</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Giancarlo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Manzini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Sciortino</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Boosting textual compression in optimal linear time</ArticleTitle>
+                  <JournalTitle>Journal of the ACM</JournalTitle>
+                  <VolumeID>52</VolumeID>
+                  <FirstPage>688</FirstPage>
+                  <LastPage>713</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/1082036.1082043</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2164628</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ferragina, P., Giancarlo, R., Manzini, G., Sciortino, M.: Boosting textual compression in optimal linear time. Journal of the ACM 52, 688–713 (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.S.</Initials>
+                    <FamilyName>Fraenkel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.T.</Initials>
+                    <FamilyName>Klein</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Robust universal complete codes for transmission and compression</ArticleTitle>
+                  <JournalTitle>Discrete Applied Mathematics</JournalTitle>
+                  <VolumeID>64</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>31</FirstPage>
+                  <LastPage>55</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0166-218X(93)00116-H</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0874.94026</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fraenkel, A.S., Klein, S.T.: Robust universal complete codes for transmission and compression. Discrete Applied Mathematics 64(1), 31–55 (1996)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.A.</Initials>
+                    <FamilyName>Huffman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1952</Year>
+                  <ArticleTitle Language="En">A method for the construction of minimum-redundancy codes</ArticleTitle>
+                  <JournalTitle>Proceedings of the IRE</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <IssueID>9</IssueID>
+                  <FirstPage>1098</FirstPage>
+                  <LastPage>1101</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/JRPROC.1952.273898</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Huffman, D.A.: A method for the construction of minimum-redundancy codes. Proceedings of the IRE 40(9), 1098–1101 (1952)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.A.</Initials>
+                    <FamilyName>Lelewer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.S.</Initials>
+                    <FamilyName>Hirschberg</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Data compression</ArticleTitle>
+                  <JournalTitle>ACM Computing Surveys</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>261</FirstPage>
+                  <LastPage>296</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/45072.45074</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0647.94002</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lelewer, D.A., Hirschberg, D.S.: Data compression. ACM Computing Surveys 19(3), 261–296 (1987)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Manzini, G.: Personal communication</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Manzini</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">An analysis of the Burrows-Wheeler transform</ArticleTitle>
+                  <JournalTitle>Journal of the ACM</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>407</FirstPage>
+                  <LastPage>430</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/382780.382782</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1870693</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Manzini, G.: An analysis of the Burrows-Wheeler transform. Journal of the ACM 48(3), 407–430 (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Manzini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Ferragina</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Engineering a lightweight suffix array construction algorithm</ArticleTitle>
+                  <JournalTitle>Algorithmica</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>33</FirstPage>
+                  <LastPage>50</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00453-004-1094-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2071254</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1082.68867</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Manzini, G., Ferragina, P.: Engineering a lightweight suffix array construction algorithm. Algorithmica 40, 33–50 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Moffat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.M.</Initials>
+                    <FamilyName>Neal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I.H.</Initials>
+                    <FamilyName>Witten</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Arithmetic coding revisited</ArticleTitle>
+                  <JournalTitle>ACM Trans. Inf. Syst.</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>256</FirstPage>
+                  <LastPage>294</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/290159.290162</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Moffat, A., Neal, R.M., Witten, I.H.: Arithmetic coding revisited. ACM Trans. Inf. Syst. 16(3), 256–294 (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>Seward, J.: bzip2, a program and library for data compression, <ExternalRef>
+                    <RefSource>
+                      <Literal>http://www.bzip.org/</Literal>
+                    </RefSource>
+                    <RefTarget Address="http://www.bzip.org/" TargetType="URL"/>
+                  </ExternalRef>
+                        </BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I.H.</Initials>
+                    <FamilyName>Witten</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.M.</Initials>
+                    <FamilyName>Neal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.G.</Initials>
+                    <FamilyName>Cleary</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Arithmetic coding for data compression</ArticleTitle>
+                  <JournalTitle>Communications of the ACM</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>520</FirstPage>
+                  <LastPage>540</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/214762.214771</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Witten, I.H., Neal, R.M., Cleary, J.G.: Arithmetic coding for data compression. Communications of the ACM 30(6), 520–540 (1987)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

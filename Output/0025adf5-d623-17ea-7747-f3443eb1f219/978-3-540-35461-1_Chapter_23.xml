@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Dough</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>CA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>MA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbruecken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-540-35461-1</BookID>
+        <BookTitle>Combinatorial Pattern Matching</BookTitle>
+        <BookSubTitle>17th Annual Symposium, CPM 2006, Barcelona, Spain, July 5-7, 2006. Proceedings</BookSubTitle>
+        <BookVolumeNumber>4009</BookVolumeNumber>
+        <BookSequenceNumber>4009</BookSequenceNumber>
+        <BookDOI>10.1007/11780441</BookDOI>
+        <BookTitleID>139689</BookTitleID>
+        <BookPrintISBN>978-3-540-35455-0</BookPrintISBN>
+        <BookElectronicISBN>978-3-540-35461-1</BookElectronicISBN>
+        <BookChapterCount>36</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2006</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="SCI" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="SCI2203X" Priority="1" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="SCI16021" Priority="2" Type="Secondary">Algorithm Analysis and Problem Complexity</BookSubject>
+          <BookSubject Code="SCI21033" Priority="3" Type="Secondary">Document Preparation and Text Processing</BookSubject>
+          <BookSubject Code="SCI18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="SCL15001" Priority="5" Type="Secondary">Bioinformatics</BookSubject>
+          <BookSubject Code="SCI15017" Priority="6" Type="Secondary">Data Structures</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>Annual Symposium on Combinatorial Pattern Matching</ConfSeriesName>
+          <ConfSeriesID Type="Springer">cpm</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">cpm</ConfSeriesID>
+          <ConfEventID Type="Springer">cpm2006</ConfEventID>
+          <ConfEventAbbreviation>CPM</ConfEventAbbreviation>
+          <ConfNumber>17</ConfNumber>
+          <ConfEventLocation>
+            <City>Barcelona</City>
+            <Country>Spain</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>5</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>7</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Moshe</GivenName>
+              <FamilyName>Lewenstein</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>moshe@cs.biu.ac.il</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Gabriel</GivenName>
+              <FamilyName>Valiente</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>valiente@lsi.upc.edu</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Department of Computer Science</OrgDivision>
+            <OrgName>Bar-Ilan University</OrgName>
+            <OrgAddress>
+              <Postcode>52900</Postcode>
+              <City>Ramat-Gan</City>
+              <Country>Israel</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Software</OrgDivision>
+            <OrgName>Technical University of Catalonia</OrgName>
+            <OrgAddress>
+              <Postcode>08034</Postcode>
+              <City>Barcelona</City>
+              <Country>Spain</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part7">
+        <PartInfo TocLevels="0">
+          <PartID>7</PartID>
+          <PartSequenceNumber>7</PartSequenceNumber>
+          <PartTitle>Session 6. Applications in Molecular Biology II</PartTitle>
+          <PartChapterCount>4</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Combinatorial Pattern Matching</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap23" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>23</ChapterID>
+            <ChapterDOI>10.1007/11780441_23</ChapterDOI>
+            <ChapterSequenceNumber>23</ChapterSequenceNumber>
+            <ChapterTitle Language="En">Local Alignment of RNA Sequences with Arbitrary Scoring Schemes</ChapterTitle>
+            <ChapterFirstPage>246</ChapterFirstPage>
+            <ChapterLastPage>257</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2006</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>7</PartID>
+              <BookID>978-3-540-35461-1</BookID>
+              <BookTitle>Combinatorial Pattern Matching</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Rolf</GivenName>
+                  <FamilyName>Backofen</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>backofen@informatik.uni-freiburg.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Danny</GivenName>
+                  <FamilyName>Hermelin</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>danny@cri.haifa.ac.il</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff19 Aff20">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Gad</GivenName>
+                  <GivenName>M.</GivenName>
+                  <FamilyName>Landau</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>landau@cs.haifa.ac.il</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff21">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Oren</GivenName>
+                  <FamilyName>Weimann</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>oweimann@mit.edu</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff18">
+                <OrgDivision>Institute of Computer Science</OrgDivision>
+                <OrgName>Albert-Ludwigs Universität Freiburg</OrgName>
+                <OrgAddress>
+                  <City>Freiburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff19">
+                <OrgDivision>Department of Computer Science</OrgDivision>
+                <OrgName>University of Haifa</OrgName>
+                <OrgAddress>
+                  <City>Haifa</City>
+                  <Country>Israel</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff20">
+                <OrgDivision>Department of Computer and Information Science</OrgDivision>
+                <OrgName>Polytechnic University</OrgName>
+                <OrgAddress>
+                  <City>New York</City>
+                  <Country>USA</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff21">
+                <OrgName>Computer Science and Artificial Intelligence Laboratory, MIT</OrgName>
+                <OrgAddress>
+                  <City>Cambridge</City>
+                  <State>MA</State>
+                  <Country>USA</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para TextBreak="No">Local similarity is an important tool in comparative analysis of biological sequences, and is therefore well studied. In particular, the Smith-Waterman technique and its normalized version are two established metrics for measuring local similarity in strings. In RNA sequences however, where one must consider not only sequential but also structural features of the inspected molecules, the concept of local similarity becomes more complicated. First, even in global similarity, computing global sequence-structure alignments is more difficult than computing standard sequence alignments due to the bi-dimensionality of information. Second, one can view locality in two different ways, in the sequential or structural sense, leading to different problem formulations.</Para>
+              <Para TextBreak="No">In this paper we introduce two sequentially-local similarity metrics for comparing RNA sequences. These metrics combine the global RNA alignment metric of Shasha and Zhang [16] with the Smith-Waterman metric [17] and its normalized version [2] used in strings. We generalize the familiar alignment graph used in string comparison to apply also for RNA sequences, and then utilize this generalization to devise two algorithms for computing local similarity according to our two suggested metrics. Our algorithms run in <InlineEquation ID="IEq1">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="978-3-540-35461-1_23_Chapter_TeX2GIFIEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$\mathcal{O}(m^2 n \lg n)$]]></EquationSource>
+                </InlineEquation> and <InlineEquation ID="IEq2">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="978-3-540-35461-1_23_Chapter_TeX2GIFIEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$\mathcal{O}(m^2 n \lg n+n^2m)$]]></EquationSource>
+                </InlineEquation> time respectively, where <Emphasis Type="Italic">m</Emphasis> ≤<Emphasis Type="Italic">n</Emphasis> are the lengths of the two given RNAs. Both algorithms can work with any arbitrary scoring scheme.</Para>
+            </Abstract>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-540-35461-1_Chapter_23.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Alliali</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.-F.</Initials>
+                    <FamilyName>Sagot</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">A new distance for high level RNA secondary structure comparison</ArticleTitle>
+                  <JournalTitle>IEEE/ACM Transactions on Computational Biology and Bioinformatics</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>4</FirstPage>
+                  <LastPage>14</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TCBB.2005.9</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Alliali, J., Sagot, M.-F.: A new distance for high level RNA secondary structure comparison. IEEE/ACM Transactions on Computational Biology and Bioinformatics 2(1), 4–14 (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.N.</Initials>
+                    <FamilyName>Arslan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Ö.</Initials>
+                    <FamilyName>Eǧecioğlu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.A.</Initials>
+                    <FamilyName>Pevzner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">A new approach to sequence alignment: normalized sequence alignment</ArticleTitle>
+                  <JournalTitle>Bioinformatics</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>327</FirstPage>
+                  <LastPage>337</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/bioinformatics/17.4.327</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Arslan, A.N., Eǧecioğlu, Ö., Pevzner, P.A.: A new approach to sequence alignment: normalized sequence alignment. Bioinformatics 17(4), 327–337 (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Backofen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Will</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Local sequence-structure motifs in RNA</ArticleTitle>
+                  <JournalTitle>Journal of Bioinformatics and Computational Biology (JBCB)</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>681</FirstPage>
+                  <LastPage>698</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1142/S0219720004000818</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Backofen, R., Will, S.: Local sequence-structure motifs in RNA. Journal of Bioinformatics and Computational Biology (JBCB) 2(4), 681–698 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Chartrand</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X.-H.</Initials>
+                    <FamilyName>Meng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.H.</Initials>
+                    <FamilyName>Singer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.M.</Initials>
+                    <FamilyName>Long</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Structural elements required for the localization of ASH1 mRNA and of a green fluorescent protein reporter particle in vivo</ArticleTitle>
+                  <JournalTitle>Current Biology</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>333</FirstPage>
+                  <LastPage>336</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0960-9822(99)80144-4</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chartrand, P., Meng, X.-H., Singer, R.H., Long, R.M.: Structural elements required for the localization of ASH1 mRNA and of a green fluorescent protein reporter particle in vivo. Current Biology 9, 333–336 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Chen, S., Wang, Z., Zhang, K.: Pattern matching and local alignment for RNA structures. In: International Conference on Mathematics and Engineering Techniques in Medicine and Biological Sciences (METMBS), pp. 55–61 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Couzin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Breakthrough of the year. Small RNAs make big splash</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>298</VolumeID>
+                  <IssueID>5602</IssueID>
+                  <FirstPage>2296</FirstPage>
+                  <LastPage>2297</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.298.5602.2296</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Couzin, J.: Breakthrough of the year. Small RNAs make big splash. Science 298(5602), 2296–2297 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.M.</Initials>
+                    <FamilyName>Currey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Sasha</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.A.</Initials>
+                    <FamilyName>Shapiro</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">An algorithm for finding the largest approxemately common substructure of two trees</ArticleTitle>
+                  <JournalTitle>IEEE Transactions on Pattern Analysis and Machine Intelligence</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>889</FirstPage>
+                  <LastPage>895</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/34.709622</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Currey, K.M., Sasha, D., Shapiro, B.A., Wang, J., Zhang, K.: An algorithm for finding the largest approxemately common substructure of two trees. IEEE Transactions on Pattern Analysis and Machine Intelligence 20(8), 889–895 (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>Demaine, E.D., Mozes, S., Rossman, B., Weimann, O.: An <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">n</Emphasis>
+                           <Superscript>3</Superscript>)-time algorithm for tree edit distance. Technical Report arXiv:cs.DS/0604037, Cornell University (2006)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Efraty</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.M.</Initials>
+                    <FamilyName>Landau</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ChapterTitle Language="En">Sparse normalized local alignment</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>S.C.</Initials>
+                    <FamilyName>Sahinalp</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>S.M.</Initials>
+                    <FamilyName>Muthukrishnan</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Dogrusoz</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Combinatorial Pattern Matching</BookTitle>
+                  <ConfEventName>15th Annual Symposium, CPM 2004</ConfEventName>
+                  <ConfEventLocation>Istanbul, Turkey</ConfEventLocation>
+                  <ConfEventDate>July 5-7, 2004</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>3109</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>333</FirstPage>
+                  <LastPage>346</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-540-27801-6_25</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Efraty, N., Landau, G.M.: Sparse normalized local alignment. In: Sahinalp, S.C., Muthukrishnan, S.M., Dogrusoz, U. (eds.) CPM 2004. LNCS, vol. 3109, pp. 333–346. Springer, Heidelberg (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>Giegerich, R., Höchsmann, M., Kurtz, S., Töller, T.: Local similarity in RNA secondary structures. In: Computational Systems Bioinformatics (CSB), pp. 159–168 (2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Guignon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Chauve</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Hamel</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ChapterTitle Language="En">An edit distance between RNA stem-loops</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>M.P.</Initials>
+                    <FamilyName>Consens</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Navarro</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>String Processing and Information Retrieval</BookTitle>
+                  <ConfEventName>12th International Conference, SPIRE 2005</ConfEventName>
+                  <ConfEventLocation>Buenos Aires, Argentina</ConfEventLocation>
+                  <ConfEventDate>November 2-4, 2005</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>3772</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>335</FirstPage>
+                  <LastPage>347</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/11575832_38</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Guignon, V., Chauve, C., Hamel, S.: An edit distance between RNA stem-loops. In: Consens, M.P., Navarro, G. (eds.) SPIRE 2005. LNCS, vol. 3772, pp. 335–347. Springer, Heidelberg (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Gusfield, D.: Algorithms on Strings, Trees, and Sequences. Computer Science and Computational Biology. Press Syndicate of the University of Cambridge (1997)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Jiang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Ma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">A general edit distance between RNA structures</ArticleTitle>
+                  <JournalTitle>Journal of Computational Biology</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>371</FirstPage>
+                  <LastPage>388</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1089/10665270252935511</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jiang, T., Lin, G., Ma, B., Zhang, K.: A general edit distance between RNA structures. Journal of Computational Biology 9(2), 371–388 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>P.N.</Initials>
+                    <FamilyName>Klein</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ChapterTitle Language="En">Computing the edit-distance between unrooted ordered trees</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Bilardi</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Pietracaprina</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>G.F.</Initials>
+                    <FamilyName>Italiano</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Pucci</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Algorithms - ESA ’98</BookTitle>
+                  <ConfEventName>6th Annual European Symposium</ConfEventName>
+                  <ConfEventLocation>Venice, Italy</ConfEventLocation>
+                  <ConfEventDate>August 24-26, 1998</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>1461</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>91</FirstPage>
+                  <LastPage>102</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/3-540-68530-8_8</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Klein, P.N.: Computing the edit-distance between unrooted ordered trees. In: Bilardi, G., Pietracaprina, A., Italiano, G.F., Pucci, G. (eds.) ESA 1998. LNCS, vol. 1461, pp. 91–102. Springer, Heidelberg (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.B.</Initials>
+                    <FamilyName>Moore</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Structural motifs in RNA</ArticleTitle>
+                  <JournalTitle>Annual review of biochemistry</JournalTitle>
+                  <VolumeID>68</VolumeID>
+                  <FirstPage>287</FirstPage>
+                  <LastPage>300</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1146/annurev.biochem.68.1.287</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Moore, P.B.: Structural motifs in RNA. Annual review of biochemistry 68, 287–300 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Shasha</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">Simple fast algorithms for the editing distance between trees and related problems</ArticleTitle>
+                  <JournalTitle>SIAM Journal on Computing</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>1245</FirstPage>
+                  <LastPage>1262</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/0218082</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1025472</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0692.68047</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shasha, D., Zhang, K.: Simple fast algorithms for the editing distance between trees and related problems. SIAM Journal on Computing 18(6), 1245–1262 (1989)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.F.</Initials>
+                    <FamilyName>Smith</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.S.</Initials>
+                    <FamilyName>Waterman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">The identification of common molecular subsequences</ArticleTitle>
+                  <JournalTitle>Journal of Molecular Biology</JournalTitle>
+                  <VolumeID>147</VolumeID>
+                  <FirstPage>195</FirstPage>
+                  <LastPage>197</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0022-2836(81)90087-5</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Smith, T.F., Waterman, M.S.: The identification of common molecular subsequences. Journal of Molecular Biology 147, 195–197 (1981)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Identiffying consensus of trees through alignment</ArticleTitle>
+                  <JournalTitle>Information Sciences</JournalTitle>
+                  <VolumeID>126</VolumeID>
+                  <FirstPage>165</FirstPage>
+                  <LastPage>189</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0020-0255(00)00014-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1773926</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0969.68595</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wang, J., Zhang, K.: Identiffying consensus of trees through alignment. Information Sciences 126, 165–189 (2000)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Zuker</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">On finding all suboptimal foldings of an RNA molecule</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>244</VolumeID>
+                  <IssueID>4900</IssueID>
+                  <FirstPage>48</FirstPage>
+                  <LastPage>52</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.2468181</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>989985</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zuker, M.: On finding all suboptimal foldings of an RNA molecule. Science 244(4900), 48–52 (1989)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Zuker</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Stiegler</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">Optimal computer folding of large RNA sequences using thermodynamics and auxiliary information</ArticleTitle>
+                  <JournalTitle>Nucleic Acids Research</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>133</FirstPage>
+                  <LastPage>148</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/nar/9.1.133</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zuker, M., Stiegler, P.: Optimal computer folding of large RNA sequences using thermodynamics and auxiliary information. Nucleic Acids Research 9(1), 133–148 (1981)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

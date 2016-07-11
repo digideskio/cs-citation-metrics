@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+</PublisherInfo>
+<Journal>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>138</JournalID>
+<JournalPrintISSN>0932-8092</JournalPrintISSN>
+<JournalElectronicISSN>1432-1769</JournalElectronicISSN>
+<JournalTitle>Machine Vision and Applications</JournalTitle>
+<JournalSubTitle>An International Journal</JournalSubTitle>
+<JournalAbbreviatedTitle>Machine Vis. Apps.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing</JournalSubject>
+        <JournalSubject Type="Secondary">Communications Engineering, Networks</JournalSubject>
+      </JournalSubjectGroup>
+</JournalInfo>
+<Volume>
+<VolumeInfo VolumeType="Regular" TocLevels="0">
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<Issue IssueType="Regular">
+<IssueInfo TocLevels="0">
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+<IssueArticleCount>4</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<DateString>1988</DateString>
+<Year>1988</Year>
+<Month>12</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<Article ID="Art1">
+<ArticleInfo Language="En" ArticleType="OriginalPaper" NumberingStyle="Unnumbered" TocLevels="0" ContainsESM="No">
+<ArticleID>BF01212360</ArticleID>
+<ArticleDOI>10.1007/BF01212360</ArticleDOI>
+<ArticleSequenceNumber>1</ArticleSequenceNumber>
+<ArticleTitle Language="En">The P300: A system for automatic patterned wafer inspection</ArticleTitle>
+<ArticleFirstPage>205</ArticleFirstPage>
+<ArticleLastPage>221</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>2005</Year>
+<Month>2</Month>
+<Day>8</Day>
+</RegistrationDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>Springer-Verlag New York Inc.</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+<ArticleContext>
+<JournalID>138</JournalID>
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<ArticleHeader>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Byron</GivenName>
+<GivenName>E.</GivenName>
+<FamilyName>Dom</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff2">
+<AuthorName DisplayOrder="Western">
+<GivenName>Virginia</GivenName>
+<GivenName>H.</GivenName>
+<FamilyName>Brecher</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff2">
+<AuthorName DisplayOrder="Western">
+<GivenName>Raymond</GivenName>
+<FamilyName>Bonner</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff2">
+<AuthorName DisplayOrder="Western">
+<GivenName>John</GivenName>
+<GivenName>S.</GivenName>
+<FamilyName>Batchelder</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff2">
+<AuthorName DisplayOrder="Western">
+<GivenName>Robert</GivenName>
+<GivenName>S.</GivenName>
+<FamilyName>Jaffe</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgName>IBM Almaden Research Center</OrgName>
+<OrgAddress>
+<Street>650 Harry Rd.</Street>
+<Postcode>95120-6099</Postcode>
+<City>San Jose</City>
+<State>CA</State>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="Aff2">
+<OrgName>IBM T.J. Watson Research Center</OrgName>
+<OrgAddress>
+<Postcode>10598</Postcode>
+<City>Yorktown Heights</City>
+<State>NY</State>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<Abstract ID="Abs1" Language="En">
+<Heading>Abstract</Heading>
+<Para>This paper describes a machine vision technique and associated system (the P300) for automated inspection of integrated circuit chips on multi-level patterned wafers for pattern defects and particulates. This inspection has been variously referred to as “micro,” “first optical,” and just “defect inspection.” Despite the fact that this inspection is primarily performed manually today, the effectiveness of manual inspection is marginal-especially for products requiring the detection of sub-micron defects. In the future, on smaller groundrule products, manual inspection will clearly become inadequate. The system described here performs this inspection on periodic patterns such as those found in memory and CCD arrays. It has been shown effective for inspecting a broad range of production wafers. A description of the problem and a survey of previous work are presented. Following these, the P300 system and associated image analysis algorithms are described. The image analysis technique consists of a reference comparison combined with certain devices (gated operators and statistical sampling) designed to significantly reduce false alarms with minimal reduction in detection probability. The current version of the system has demonstrated the ability to reliably find 0.5 μm defects and can be extended to smaller defect sizes. The technique is especially significant because of its high detection probability achieved at an extremely low false alarm rate. High throughput and low cost have been achieved due to both the unique algorithm and a custom parallel processor, which executes the inspection algorithm at high (video frame rate) throughput.</Para>
+</Abstract>
+<KeywordGroup Language="En">
+<Heading>Key words</Heading>
+<Keyword>IC inspection</Keyword>
+<Keyword>integrated circuit inspection</Keyword>
+<Keyword>wafer inspection</Keyword>
+<Keyword>machine vision</Keyword>
+<Keyword>industrial inspection</Keyword>
+</KeywordGroup>
+</ArticleHeader>
+<BodyRef FileRef="BodyRef/PDF/138_2005_Article_BF01212360.pdf" TargetType="PDF"/>
+<ArticleBackmatter>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<BibUnstructured>Awamura D. (December 1982) Automatic photomask and wafer fault inspection systems. JEE: 65–67</BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<BibArticle>
+<BibAuthorName>
+<Initials>ML</Initials>
+<FamilyName>Baird</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Extending the limits of pattern inspection using machine vision</ArticleTitle>
+<JournalTitle>SPIE Optical Microlithography IV</JournalTitle>
+<VolumeID>538</VolumeID>
+<FirstPage>130</FirstPage>
+<LastPage>135</LastPage>
+</BibArticle>
+<BibUnstructured>Baird ML (1985) Extending the limits of pattern inspection using machine vision. SPIE Optical Microlithography IV 538:130–135</BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<BibUnstructured>Blanz EW, Sanz JLC, Hinkle EB (1988) Image analysis methods for solder ball inspection in integrated circuit manufacturing. IEEE J. Robotics and Automation</BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<BibUnstructured>Dom BE, Kirtley KB, Bonner R, Chastang JC (1987) C4 pad analysis system. Proceedings of SEMICON East: 116–121</BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<BibChapter>
+<BibAuthorName>
+<Initials>JR</Initials>
+<FamilyName>Dralla</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JC</Initials>
+<FamilyName>Hoff</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AH</Initials>
+<FamilyName>Lee</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ChapterTitle Language="En">Automatic submicrometer defect detection during VLSI circuit production</ChapterTitle>
+<BookTitle>Proceedings of the SPIE 1987 Symposium on Microlithography</BookTitle>
+<PublisherName>Santa Clara</PublisherName>
+<PublisherLocation>CA</PublisherLocation>
+</BibChapter>
+<BibUnstructured>Dralla JR, Hoff JC, Lee AH (March 1987) Automatic submicrometer defect detection during VLSI circuit production. Proceedings of the SPIE 1987 Symposium on Microlithography, Santa Clara, CA</BibUnstructured>
+</Citation>
+<Citation ID="CR6">
+<BibUnstructured>Dralla JR, Lee AH (1987) Micropatterning process control through fully automatic inspection and measurement, Proceedings of SEMICON West</BibUnstructured>
+</Citation>
+<Citation ID="CR7">
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Ejiri</FamilyName>
+</BibAuthorName>
+<Etal/>
+<Year>1973</Year>
+<ArticleTitle Language="En">A process for detecting defects in complicated patterns</ArticleTitle>
+<JournalTitle>Computer Graphics and Image Proc</JournalTitle>
+<VolumeID>2</VolumeID>
+<FirstPage>326</FirstPage>
+<LastPage>339</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1016/0146-664X(73)90011-7</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Ejiri M et al. (1973) A process for detecting defects in complicated patterns. Computer Graphics and Image Proc (2):326–339</BibUnstructured>
+</Citation>
+<Citation ID="CR8">
+<BibBook>
+<BibAuthorName>
+<Initials>DJ</Initials>
+<FamilyName>Elliot</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<BookTitle>Integrated circuit fabrication technology</BookTitle>
+<PublisherName>McGRaw-Hill</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Elliot DJ (1982) Integrated circuit fabrication technology. McGRaw-Hill, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR9">
+<BibArticle>
+<BibAuthorName>
+<Initials>PV</Initials>
+<FamilyName>Fraser</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>BA</Initials>
+<FamilyName>Wallman</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Data base inspection of wafer resist patterns</ArticleTitle>
+<JournalTitle>SPIE Optical Microlithography</JournalTitle>
+<VolumeID>538</VolumeID>
+<FirstPage>122</FirstPage>
+<LastPage>129</LastPage>
+</BibArticle>
+<BibUnstructured>Fraser PV, Wallman BA (1985) Data base inspection of wafer resist patterns. SPIE Optical Microlithography 538:122–129</BibUnstructured>
+</Citation>
+<Citation ID="CR10">
+<BibArticle>
+<BibAuthorName>
+<Initials>RL</Initials>
+<FamilyName>Fusek</FamilyName>
+</BibAuthorName>
+<Etal/>
+<Year>1985</Year>
+<ArticleTitle Language="En">Holographic optical processing for submicrometer defect defect detection</ArticleTitle>
+<JournalTitle>Optical Engineering</JournalTitle>
+<VolumeID>24</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>731</FirstPage>
+<LastPage>734</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1117/12.7973567</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Fusek RL et al. (1985) Holographic optical processing for submicrometer defect defect detection. Optical Engineering 24(5):731–734</BibUnstructured>
+</Citation>
+<Citation ID="CR11">
+<BibArticle>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Hara</FamilyName>
+</BibAuthorName>
+<Year>1987</Year>
+<ArticleTitle Language="En">Automating inspection of aluminum circuit patterns of LSI wafers</ArticleTitle>
+<JournalTitle>Electron. and Commun. in Japan, Part 2</JournalTitle>
+<VolumeID>7</VolumeID>
+<IssueID>3</IssueID>
+<FirstPage>46</FirstPage>
+<LastPage>58</LastPage>
+</BibArticle>
+<BibUnstructured>Hara Y (March 1987) Automating inspection of aluminum circuit patterns of LSI wafers. Electron. and Commun. in Japan, Part 2, 7(3):46–58 (February 1984)</BibUnstructured>
+</Citation>
+<Citation ID="CR12">
+<BibUnstructured>Harris KL, Sandland P, Singleton RM (April 1983) Wafer inspection automation: Current and future needs. Solid State Technology</BibUnstructured>
+</Citation>
+<Citation ID="CR13">
+<BibUnstructured>Harris KL, Sandland P, Singleton RM (February 1984) Automatic inspection of wafer patterns with applications in stepping, projection and direct-write lithography. Solid State Technology: 159–179</BibUnstructured>
+</Citation>
+<Citation ID="CR14">
+<BibUnstructured>Iscoff R (November 1982) Wafer defect detection systems. Semiconductor International 39–52</BibUnstructured>
+</Citation>
+<Citation ID="CR15">
+<BibUnstructured>Kayaalp AE, Jain R (March 1985) A knowledge based automatic on-line wafer (IC) inspection system. VISION85 Proceedings 5-117-5-130</BibUnstructured>
+</Citation>
+<Citation ID="CR16">
+<BibArticle>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Konishi</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Misono</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Kato</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<ArticleTitle Language="En">New technique for inspecting charge-coupled device (CCD) wafers for defects</ArticleTitle>
+<JournalTitle>SPIE Robot Vision</JournalTitle>
+<VolumeID>336</VolumeID>
+<FirstPage>128</FirstPage>
+<LastPage>132</LastPage>
+</BibArticle>
+<BibUnstructured>Konishi T, Misono M, Kato T (1982) New technique for inspecting charge-coupled device (CCD) wafers for defects. SPIE Robot Vision 336:128–132</BibUnstructured>
+</Citation>
+<Citation ID="CR17">
+<BibArticle>
+<BibAuthorName>
+<Initials>P</Initials>
+<FamilyName>Lilienfeld</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Optical detection of participate contamination on surfaces: A review</ArticleTitle>
+<JournalTitle>Aerosol Sci &amp; Tech</JournalTitle>
+<VolumeID>5</VolumeID>
+<FirstPage>145</FirstPage>
+<LastPage>165</LastPage>
+</BibArticle>
+<BibUnstructured>Lilienfeld P (1986) Optical detection of participate contamination on surfaces: A review. Aerosol Sci &amp; Tech 5:145–165</BibUnstructured>
+</Citation>
+<Citation ID="CR18">
+<BibUnstructured>Lin LH et al. A holographic photomask defect inspection system. SPIE Optical Microlithography 538:110–116</BibUnstructured>
+</Citation>
+<Citation ID="CR19">
+<BibUnstructured>Lyman J (March 5, 1987) Moving wafer inspection into the fast lane. Electronics: 74–76</BibUnstructured>
+</Citation>
+<Citation ID="CR20">
+<BibArticle>
+<BibAuthorName>
+<Initials>JR</Initials>
+<FamilyName>Mandeville</FamilyName>
+</BibAuthorName>
+<Year>1985</Year>
+<ArticleTitle Language="En">Novel method for analysis of printed circuit images</ArticleTitle>
+<JournalTitle>IBM J. Res. Develop.</JournalTitle>
+<VolumeID>29</VolumeID>
+<IssueID>l</IssueID>
+<FirstPage>73</FirstPage>
+<LastPage>86</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1147/rd.291.0073</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Mandeville JR (January 1985) Novel method for analysis of printed circuit images. IBM J. Res. Develop., 29(l):73–86</BibUnstructured>
+</Citation>
+<Citation ID="CR21">
+<BibArticle>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Nakagawa</FamilyName>
+</BibAuthorName>
+<Etal/>
+<Year>1985</Year>
+<ArticleTitle Language="En">Automatic visual inspection using digital image processing</ArticleTitle>
+<JournalTitle>Hitachi Review</JournalTitle>
+<VolumeID>34</VolumeID>
+<IssueID>1</IssueID>
+<FirstPage>55</FirstPage>
+<LastPage>60</LastPage>
+</BibArticle>
+<BibUnstructured>Nakagawa Y et al. (1985) Automatic visual inspection using digital image processing. Hitachi Review 34(1): 55–60</BibUnstructured>
+</Citation>
+<Citation ID="CR22">
+<BibUnstructured>Nishihara HK, Crossley PA (1988) Measuring photographic overlay accuracy and critical dimensions by correlating binarized laplacian of gaussian convolutions. IEEE Trans PAMI 10(1)</BibUnstructured>
+</Citation>
+<Citation ID="CR23">
+<BibArticle>
+<BibAuthorName>
+<Initials>JLC</Initials>
+<FamilyName>Sanz</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>AK</Initials>
+<FamilyName>Jain</FamilyName>
+</BibAuthorName>
+<Year>1986</Year>
+<ArticleTitle Language="En">Machine-vision techniques for inspection of printed wiring boards and thick-film circuits</ArticleTitle>
+<JournalTitle>J. Opt. Soc. Am.</JournalTitle>
+<VolumeID>3</VolumeID>
+<FirstPage>1465</FirstPage>
+<LastPage>1482</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1364/JOSAA.3.001465</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Sanz JLC, Jain AK (September 1986) Machine-vision techniques for inspection of printed wiring boards and thick-film circuits. J. Opt. Soc. Am. 3:1465–1482</BibUnstructured>
+</Citation>
+<Citation ID="CR24">
+<BibBook>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Serra</FamilyName>
+</BibAuthorName>
+<Year>1982</Year>
+<BookTitle>Mathematical morphology</BookTitle>
+<PublisherName>Academic Press</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+</BibBook>
+<BibUnstructured>Serra J (1982) Mathematical morphology. Academic Press, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR25">
+<BibArticle>
+<BibAuthorName>
+<Initials>H</Initials>
+<FamilyName>Yoda</FamilyName>
+</BibAuthorName>
+<Etal/>
+<Year>1988</Year>
+<ArticleTitle Language="En">An automatic wafer inspection machine using pipelined image processing techniques</ArticleTitle>
+<JournalTitle>IEEE Trans PAMI</JournalTitle>
+<VolumeID>10</VolumeID>
+<IssueID>1</IssueID>
+<FirstPage>4</FirstPage>
+<LastPage>16</LastPage>
+</BibArticle>
+<BibUnstructured>Yoda H et al. (January 1988) An automatic wafer inspection machine using pipelined image processing techniques. IEEE Trans PAMI 10(1):4–16</BibUnstructured>
+</Citation>
+</Bibliography>
+</ArticleBackmatter>
+</Article>
+</Issue>
+</Volume>
+</Journal>
+</Publisher>

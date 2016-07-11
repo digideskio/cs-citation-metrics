@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>3</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art17">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>71156</ArticleID>
+            <ArticleDOI>10.1208/aapsj070117</ArticleDOI>
+            <ArticleSequenceNumber>17</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Pharmacogenomic responses of rat liver to methylprednisolone: An approach to mining a rich microarray time series</ArticleTitle>
+            <ArticleFirstPage>E156</ArticleFirstPage>
+            <ArticleLastPage>E194</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+              </Received>
+              <Accepted>
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>1</IssueIDStart>
+              <IssueIDEnd>1</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Richard</GivenName>
+                  <GivenName>R.</GivenName>
+                  <FamilyName>Almon</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>(716) 645-2363</Phone>
+                  <Fax>(716) 645-2975</Fax>
+                  <Email>almon@eng.buffalo.edu</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Debra</GivenName>
+                  <GivenName>C.</GivenName>
+                  <FamilyName>Dubois</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jin</GivenName>
+                  <GivenName>Y.</GivenName>
+                  <FamilyName>Jin</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>William</GivenName>
+                  <GivenName>J.</GivenName>
+                  <FamilyName>Jusko</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Biological Sciences</OrgDivision>
+                <OrgName>State University of New York at Buffalo</OrgName>
+                <OrgAddress>
+                  <Street>107 Hochstetter Hall SUNY at Buffalo</Street>
+                  <Postcode>14260</Postcode>
+                  <City>Buffalo</City>
+                  <State>NY</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Pharmaceutical Sciences</OrgDivision>
+                <OrgName>State University of New York at Buffalo</OrgName>
+                <OrgAddress>
+                  <Postcode>14260</Postcode>
+                  <City>Buffalo</City>
+                  <State>NY</State>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>A data set was generated to examine global changes in gene expression in rat liver over time in response to a single bolus dose of methylprednisolone. Four control animals and 43 drug-treated animals were humanely killed at 16 different time points following drug administration. Total RNA preparation from the livers of these animals were hybridized to 47 individual Affymetrix RU34A gene chips, generating data for 8799 different probe sets for each chip. Data mining techniques that are applicable to gene array time series data sets in order to identify drug-regulated changes in gene expression were applied to this data set. A series of 4 sequentially applied filters were developed that were designed to eliminate probe sets that were not expressed in the tissue, were not regulated by the drug treatment, or did not meet defined quality control standards. These filters eliminated 7287 probe sets of the 8799 total (82%) from further consideration. Application of judiciously chosen filters is an effective tool for data mining of time series data sets. The remaining data can then be further analyzed by clustering and mathematical modeling techniques.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Data mining</Keyword>
+              <Keyword>gene arrays</Keyword>
+              <Keyword>glucocorticoids</Keyword>
+              <Keyword>mathematical modeling</Keyword>
+              <Keyword>pharmacogenomics</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: August 18, 2005</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_71156.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Bialis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Routledge</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Adverse effects of corticosteroids</ArticleTitle>
+                  <JournalTitle>Adverse Drug React Toxicol Rev.</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>227</FirstPage>
+                  <LastPage>235</LastPage>
+                </BibArticle>
+                <BibUnstructured>Bialis M, Routledge P. Adverse effects of corticosteroids.<Emphasis Type="Italic">Adverse Drug React Toxicol Rev.</Emphasis> 1998;17:227–235.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Frauman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">An overview of the adverse reactions to adrenal corticosteroids</ArticleTitle>
+                  <JournalTitle>Adverse Drug React Toxicol Rev.</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>203</FirstPage>
+                  <LastPage>206</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9113247</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:ByiB28jpt1w%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Frauman A. An overview of the adverse reactions to adrenal corticosteroids.<Emphasis Type="Italic">Adverse Drug React Toxicol Rev.</Emphasis> 1996;15:203–206.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RM</Initials>
+                    <FamilyName>Reynolds</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BR</Initials>
+                    <FamilyName>Walker</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Human insulin resistance: the role of glucocorticoids</ArticleTitle>
+                  <JournalTitle>Diabetes Obes Metab.</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>5</FirstPage>
+                  <LastPage>12</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12542720</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1463-1326.2003.00221.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXhslWgurw%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Reynolds RM, Walker BR. Human insulin resistance: the role of glucocorticoids.<Emphasis Type="Italic">Diabetes Obes Metab.</Emphasis> 2003;5:5–12.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Eisenstein</FamilyName>
+                  </BibAuthorName>
+                  <Year>1973</Year>
+                  <ArticleTitle Language="En">Effects of adrenal cortical hormones on carbohydrate, protein, and fat metabolism</ArticleTitle>
+                  <JournalTitle>Am J Clin Nutr.</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>113</FirstPage>
+                  <LastPage>120</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>4345514</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE3sXjvVamtw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Eisenstein A. Effects of adrenal cortical hormones on carbohydrate, protein, and fat metabolism.<Emphasis Type="Italic">Am J Clin Nutr.</Emphasis> 1973;26:113–120.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JY</Initials>
+                    <FamilyName>Jin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Modeling of corticosteroid pharmacogenomics in rat liver using gene microarrays</ArticleTitle>
+                  <JournalTitle>J Pharmacol Exp Ther.</JournalTitle>
+                  <VolumeID>307</VolumeID>
+                  <FirstPage>93</FirstPage>
+                  <LastPage>109</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12808002</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1124/jpet.103.053256</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXnslGktLc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jin JY, Almon RR, DuBois DC, Jusko WJ. Modeling of corticosteroid pharmacogenomics in rat liver using gene microarrays.<Emphasis Type="Italic">J Pharmacol Exp Ther.</Emphasis> 2003;307:93–109.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Friedman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Kaminski</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <BookTitle>Statistical Methods for Analyzing Gene Expression Data for Cancer Research</BookTitle>
+                  <SeriesTitle Language="En">Ernst Schering Research Foundation Workshop</SeriesTitle>
+                  <PublisherName>Springer-Verlag</PublisherName>
+                  <PublisherLocation>Berlin, Germany</PublisherLocation>
+                  <FirstPage>109</FirstPage>
+                  <LastPage>131</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1007/978-3-662-04747-7_6</Handle>
+</Occurrence>
+                </BibBook>
+                <BibUnstructured>Friedman N, Kaminski N. Statistical Methods for Analyzing Gene Expression Data for Cancer Research.<Emphasis Type="Italic">Ernst Schering Research Foundation Workshop</Emphasis>. Springer-Verlag: Berlin, Germany; 2002;38:109–131.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Kaminski</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Microarray analysis of idiopathic pulmonary fibrosis</ArticleTitle>
+                  <JournalTitle>Am J Respir Cell Mol Biol.</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>S32</FirstPage>
+                  <LastPage>S36</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14503551</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXntFynu7c%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kaminski N. Microarray analysis of idiopathic pulmonary fibrosis.<Emphasis Type="Italic">Am J Respir Cell Mol Biol.</Emphasis> 2003;29:S32-S36.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Lock</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Hermans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Pedotti</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Gene-microarray analysis of multiple sclerosis lesions yields new targets validated in autoimmune encephalomyelitis</ArticleTitle>
+                  <JournalTitle>Nat Med.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>500</FirstPage>
+                  <LastPage>508</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11984595</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/nm0502-500</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38Xjt1Kgur8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lock C, Hermans G, Pedotti R, et al. Gene-microarray analysis of multiple sclerosis lesions yields new targets validated in autoimmune encephalomyelitis.<Emphasis Type="Italic">Nat Med.</Emphasis> 2002;8:500–508.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Juskø</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Fourth-generation model for corticosteroid pharmacodynamics: a model for methylprednisolone effects on receptor/gene-mediated glucocorticoid receptor down-regulation and tyrosine aminotransferase induction in rat liver</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm.</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>289</FirstPage>
+                  <LastPage>317</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10098101</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1020746822634</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXit1WksL0%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sun YN, DuBois DC, Almon RR, Juskø WJ. Fourth-generation model for corticosteroid pharmacodynamics: a model for methylprednisolone effects on receptor/gene-mediated glucocorticoid receptor down-regulation and tyrosine aminotransferase induction in rat liver.<Emphasis Type="Italic">J Pharmacokinet Biopharm.</Emphasis> 1998;26:289–317.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NA</Initials>
+                    <FamilyName>Pyszczynski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Dose-dependence and repeated-dose studies for receptor/gene-mediated pharmacodynamics of methylprednisolone on glucocorticoid receptor down-regulation and tyrosine aminotransferase induction in rat liver</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm.</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>619</FirstPage>
+                  <LastPage>648</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10485078</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1020746822634</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXjvVCmtrc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sun YN, DuBois DC, Almon RR, Pyszczynski NA, Jusko WJ. Dose-dependence and repeated-dose studies for receptor/gene-mediated pharmacodynamics of methylprednisolone on glucocorticoid receptor down-regulation and tyrosine aminotransferase induction in rat liver.<Emphasis Type="Italic">J Pharmacokinet Biopharm.</Emphasis> 1998;26:619–648.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LI</Initials>
+                    <FamilyName>McKay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic/Pharmacodynamic models for corticosteroid receptor down-regulation and glutamine synthetase induction in rat skeletal muscle by a Receptor/Gene-mediated mechanism</ArticleTitle>
+                  <JournalTitle>J Pharmacol Exp Ther.</JournalTitle>
+                  <VolumeID>288</VolumeID>
+                  <FirstPage>720</FirstPage>
+                  <LastPage>728</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9918581</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXpvFOmsA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sun YN, McKay LI, DuBois DC, Jusko WJ, Almon RR. Pharmacokinetic/Pharmacodynamic models for corticosteroid receptor down-regulation and glutamine synthetase induction in rat skeletal muscle by a Receptor/Gene-mediated mechanism.<Emphasis Type="Italic">J Pharmacol Exp Ther.</Emphasis> 1999;288:720–728.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EH</Initials>
+                    <FamilyName>Brandenburg</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Pharmacodynamics and pharmacogenomics of diverse receptor-mediated effects of methylprednisolone in rats using microarray analysis</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn.</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>103</FirstPage>
+                  <LastPage>129</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12361239</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1019762323576</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XmtFShurc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Almon RR, DuBois DC, Brandenburg EH, et al. Pharmacodynamics and pharmacogenomics of diverse receptor-mediated effects of methylprednisolone in rats using microarray analysis.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn.</Emphasis> 2002;29:103–129.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MB</Initials>
+                    <FamilyName>Eisen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PT</Initials>
+                    <FamilyName>Spellman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PO</Initials>
+                    <FamilyName>Brown</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Botstein</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Cluster analysis and display of genome-wide expression patterns</ArticleTitle>
+                  <JournalTitle>Proc Natl Acad Sci U S A.</JournalTitle>
+                  <VolumeID>95</VolumeID>
+                  <FirstPage>1486</FirstPage>
+                  <LastPage>14868</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1073/pnas.95.25.14863</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Eisen MB, Spellman PT, Brown PO, Botstein D. Cluster analysis and display of genome-wide expression patterns.<Emphasis Type="Italic">Proc Natl Acad Sci U S A.</Emphasis> 1998;95:1486–14868.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Takiguchi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Mori</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Transcriptional regulation of genes for ornithine cycle enzymes</ArticleTitle>
+                  <JournalTitle>Biochem J.</JournalTitle>
+                  <VolumeID>312</VolumeID>
+                  <FirstPage>649</FirstPage>
+                  <LastPage>659</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1042/bj3120649</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Takiguchi M, Mori M. Transcriptional regulation of genes for ornithine cycle enzymes.<Emphasis Type="Italic">Biochem J.</Emphasis> 1985;312:649–659.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LI</Initials>
+                    <FamilyName>McKay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Corticosteroid effects in skeletal muscle: gene induction/receptor autoregulation</ArticleTitle>
+                  <JournalTitle>Muscle Nerve.</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>1318</FirstPage>
+                  <LastPage>1320</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9324091</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/(SICI)1097-4598(199710)20:10&lt;1318::AID-MUS17&gt;3.0.CO;2-Z</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:ByiH28vislQ%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>McKay LI, DuBois DC, Sun YN, Almon RR, Jusko WJ. Corticosteroid effects in skeletal muscle: gene induction/receptor autoregulation.<Emphasis Type="Italic">Muscle Nerve.</Emphasis> 1997;20:1318–1320.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Ramakrishnan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NA</Initials>
+                    <FamilyName>Pyszczynski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Fifth-generation model for corticosteroid pharmacodynamics: application to steady-state receptor down-regulation and enzyme induction patterns during seven-day continuous infusion of methylprednisolone in rats</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn.</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>24</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12194533</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1015765201129</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XmslGmu7k%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ramakrishnan R, DuBois DC, Almon RR, Pyszczynski NA, Jusko WJ. Fifth-generation model for corticosteroid pharmacodynamics: application to steady-state receptor down-regulation and enzyme induction patterns during seven-day continuous infusion of methylprednisolone in rats.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn.</Emphasis> 2002;29:1–24.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Ramakrishnan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NA</Initials>
+                    <FamilyName>Pyszczynski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Pharmacodynamics and pharmacogenomics of methylprednisolone during 7-day infusions in rats</ArticleTitle>
+                  <JournalTitle>J Pharmacol Exp Ther.</JournalTitle>
+                  <VolumeID>300</VolumeID>
+                  <FirstPage>245</FirstPage>
+                  <LastPage>256</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11752123</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1124/jpet.300.1.245</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38Xht1Wmuw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ramakrishnan R, DuBois DC, Almon RR, Pyszczynski NA, Jusko WJ. Pharmacodynamics and pharmacogenomics of methylprednisolone during 7-day infusions in rats.<Emphasis Type="Italic">J Pharmacol Exp Ther.</Emphasis> 2002;300:245–256.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Snyder</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EP</Initials>
+                    <FamilyName>Hoffman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">In vivo multi-tissue corticosteroid microarray time series available online at Public Expression Profile Resource (PEPR)</ArticleTitle>
+                  <JournalTitle>Pharmacogenomics.</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>791</FirstPage>
+                  <LastPage>799</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14596642</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1517/phgs.4.6.791.22816</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXosFWjsb4%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Almon RR, Chen J, Snyder G, DuBois DC, Jusko WJ Hoffman EP. In vivo multi-tissue corticosteroid microarray time series available online at Public Expression Profile Resource (PEPR).<Emphasis Type="Italic">Pharmacogenomics.</Emphasis> 2003;4:791–799.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

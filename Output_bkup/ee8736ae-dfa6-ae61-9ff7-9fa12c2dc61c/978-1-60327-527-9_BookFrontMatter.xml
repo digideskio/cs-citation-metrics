@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Humana Press</PublisherName>
+    <PublisherLocation>Totowa, NJ</PublisherLocation>
+    <PublisherImprintName>Humana Press</PublisherImprintName>
+    <PublisherLogo>
+      <Figure Category="Standard" Float="No" ID="Figa">
+        <MediaObject>
+          <ImageObject Color="BlackWhite" FileRef="MediaObjects/978-1-60327-527-9_BookFrontmatter_Figa_HTML.png" Format="PNG" Rendition="HTML" Type="Halftone"/>
+        </MediaObject>
+      </Figure>
+    </PublisherLogo>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>7651</SeriesID>
+      <SeriesPrintISSN>1064-3745</SeriesPrintISSN>
+      <SeriesElectronicISSN>1940-6029</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Methods in Molecular Biology™</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <CollaboratorGroup>
+        <Collaborator AffiliationIDS="Aff1" Type="Series editor">
+          <CollaboratorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Walker</FamilyName>
+          </CollaboratorName>
+        </Collaborator>
+        <Affiliation ID="Aff1">
+          <OrgDivision>School of Life Sciences</OrgDivision>
+          <OrgName>University of Hertfordshire</OrgName>
+          <OrgAddress>
+            <Postcode>AL10 9AB</Postcode>
+            <City>Hatfield, Hertfordshire</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+      </CollaboratorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Contributed volume" ContainsESM="No" Language="En" MediaType="eBook" NumberingStyle="ChapterContentSeparately" OutputMedium="Online" TocLevels="0">
+        <BookID>978-1-60327-527-9</BookID>
+        <BookTitle>T Cell Protocols</BookTitle>
+        <BookSubTitle>Second Edition</BookSubTitle>
+        <BookVolumeNumber>514</BookVolumeNumber>
+        <BookSequenceNumber>514</BookSequenceNumber>
+        <BookDOI>10.1007/978-1-60327-527-9</BookDOI>
+        <BookTitleID>145011</BookTitleID>
+        <BookPrintISBN>978-1-58829-587-3</BookPrintISBN>
+        <BookElectronicISBN>978-1-60327-527-9</BookElectronicISBN>
+        <CatalogingInformation Library="LOC">Library of Congress Control Number: 2008941671</CatalogingInformation>
+        <BookChapterCount>11</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Humana Press</CopyrightHolderName>
+          <CopyrightYear>2009</CopyrightYear>
+          <CopyrightStandardText Country="US" Language="En">All rights reserved. This work may not be translated or copied in whole or in part without the written permission of the publisher (Humana Press, c/o Springer Science+Business Media, LLC, 233 Spring Street, New York, NY 10013, USA), except for brief excerpts in connection with reviews or scholarly analysis. Use in connection with any form of information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed is forbidden.</CopyrightStandardText>
+          <TrademarkQualifierText Country="US" Language="En">The use in this publication of trade names, trademarks, service marks, and similar terms, even if they are not identified as such, is not to be taken as an expression of opinion as to whether or not they are subject to proprietary rights.</TrademarkQualifierText>
+          <ProductLiability Country="US" Language="En">While the advice and information in this book are believed to be true and accurate at the date of going to press, neither the authors nor the editors nor the publisher can accept any legal responsibility for any errors or omissions that may be made. The publisher makes no warranty, express or implied, with respect to the material contained herein.</ProductLiability>
+          <SpringerReferenceLine Country="US" Language="En">springer.com</SpringerReferenceLine>
+        </BookCopyright>
+        <PaperInfo Language="En">Printed on acid-free paper</PaperInfo>
+        <BookSubjectGroup>
+          <BookSubject Code="SCL" Type="Primary">Life Sciences</BookSubject>
+          <BookSubject Code="SCL14005" Priority="1" Type="Secondary">Biochemistry, general</BookSubject>
+          <BookSubject Code="SCB14000" Priority="2" Type="Secondary">Immunology</BookSubject>
+          <BookSubject Code="SCL16020" Priority="3" Type="Secondary">Cell Culture</BookSubject>
+          <SubjectCollection Code="SUCO11642">Biomedical and Life Sciences</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>7651</SeriesID>
+        </BookContext>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff2">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Gennaro</GivenName>
+              <Particle>De</Particle>
+              <FamilyName>Libero</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>Gennaro.DeLibero@unibas.ch</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff2">
+            <OrgName>University of Basel</OrgName>
+            <OrgAddress>
+              <City>Basel</City>
+              <Country>Switzerland</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <BookFrontmatter>
+        <BookFrontmatterInfo>
+          <BookFrontmatterFirstPage>i</BookFrontmatterFirstPage>
+          <BookFrontmatterLastPage>xi</BookFrontmatterLastPage>
+        </BookFrontmatterInfo>
+        <BodyFrontmatter>
+          <Preface>
+            <PrefaceInfo>
+              <PrefaceTitle Language="En">Preface</PrefaceTitle>
+            </PrefaceInfo>
+            <Body>
+              <Para TextBreak="No">This book is a collection of protocols, to provide novel techniques for the study of the biology of T lymphocytes.</Para>
+              <Para TextBreak="No">The methods described in this book do not cover all of the techniques currently used to study T cell-mediated immune responses for the simple reason that T cell immunology is probably the immunological discipline which can be investigated with the widest variety of approaches.</Para>
+              <Para TextBreak="No">The choice of chapters was made taking into account two points: First, many of the techniques that have been used for some time have been upgraded during the past few years given the greater availability of a variety of products (i.e. cytokines, chemokines, monoclonal antibodies), of refined technical devices (i.e. novel cell culture and cell analysis equipments), and the development of novel instrumentation (i.e. multiparametric flow cytometers, confocal microscopes). Therefore, in several chapters “old techniques”, which remain fundamental to T cell immunology, are described in their “modern” versions.</Para>
+              <Para TextBreak="No">Secondly, the technical advancement has generated the possibility to establish novel assays to investigate T cell physiology. This is reflected in the chapters which describe the protocols that allow use of these modern approaches.</Para>
+              <Para TextBreak="No">The preparation of this book has required participation of several scientists, all leading experts in their respective fields. Without their enthusiastic participation, this work would not have been possible. Therefore, I thank all authors for their contributions and accept all criticism for missing parts, or information or details, for which only I am responsible.</Para>
+              <Para TextBreak="No">I hope these protocols will be useful for young investigators who approach for the first time the complex field of immunology and for those more experienced scientists who look for concise and efficacious descriptions of novel methods.</Para>
+            </Body>
+          </Preface>
+          <Toc>
+            <Heading>Contents</Heading>
+            <TocChapter>
+              <TocEntry PageNumber="1">
+                <ExternalRef>
+                  <RefSource>1 Analysis of Frequency and Phenotype of Antigen-Specific T Cells</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Angus</GivenName>
+                  <FamilyName>Stock</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Vincenzo</GivenName>
+                  <FamilyName>Cerundolo</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="15">
+                <ExternalRef>
+                  <RefSource>2 B Cell Helper Assays</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Sergio</GivenName>
+                  <FamilyName>Abrignani</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Elena</GivenName>
+                  <FamilyName>Tonti</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Giulia</GivenName>
+                  <FamilyName>Casorati</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Paolo</GivenName>
+                  <FamilyName>Dellabona</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="27">
+                <ExternalRef>
+                  <RefSource>3 <Emphasis Type="Italic">transkingdom</Emphasis> RNA Interference (<Emphasis Type="Italic">tk</Emphasis>RNAi): A Novel Method to Induce Therapeutic Gene Silencing</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_3" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Thu</GivenName>
+                  <GivenName>A.</GivenName>
+                  <FamilyName>Nguyen</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Johannes</GivenName>
+                  <GivenName>H.</GivenName>
+                  <FamilyName>Fruehauf</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="35">
+                <ExternalRef>
+                  <RefSource>4 Flow Cytometry and Cell Activation</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_4" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Sonia</GivenName>
+                  <FamilyName>Gavasso</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="47">
+                <ExternalRef>
+                  <RefSource>5 Investigating T Cells by Polychromatic Flow Cytometry</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_5" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Enrico</GivenName>
+                  <FamilyName>Lugli</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Leonarda</GivenName>
+                  <FamilyName>Troiano</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Andrea</GivenName>
+                  <FamilyName>Cossarizza</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="65">
+                <ExternalRef>
+                  <RefSource>6 Generation of Human T Cell Clones</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_6" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Sabrina</GivenName>
+                  <FamilyName>Mariotti</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Roberto</GivenName>
+                  <FamilyName>Nisini</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="95">
+                <ExternalRef>
+                  <RefSource>7 Limiting Dilution Analysis of Antigen-Specific T Cells</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_7" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jorge</GivenName>
+                  <FamilyName>Carneiro</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Lurdes</GivenName>
+                  <FamilyName>Duarte</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Elisabetta</GivenName>
+                  <FamilyName>Padovan</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="107">
+                <ExternalRef>
+                  <RefSource>8 T Cell Epitope-Mapping by Cytokine Gene Expression Assay</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_8" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Maurizio</GivenName>
+                  <FamilyName>Provenzano</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Giulio</GivenName>
+                  <GivenName>C.</GivenName>
+                  <FamilyName>Spagnoli</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="119">
+                <ExternalRef>
+                  <RefSource>9 Cytokine Multiplex Immunoassay: Methodology and (Clinical) Applications</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_9" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Wilco</GivenName>
+                  <Particle>de</Particle>
+                  <FamilyName>Jager</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Berent</GivenName>
+                  <FamilyName>Prakken</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ger</GivenName>
+                  <GivenName>T.</GivenName>
+                  <FamilyName>Rijkers</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="135">
+                <ExternalRef>
+                  <RefSource>10 Purification of the T Cell Antigen Receptor and Analysis by Blue-Native PAGE</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_10" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Mahima</GivenName>
+                  <FamilyName>Swamy</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Wolfgang</GivenName>
+                  <GivenName>W.A.</GivenName>
+                  <FamilyName>Schamel</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocChapter>
+              <TocEntry PageNumber="151">
+                <ExternalRef>
+                  <RefSource>11 Non-Replicating Recombinant Vaccinia Virus Expressing CD80 to Enhance T-Cell Stimulation</RefSource>
+                  <RefTarget Address="10.1007/978-1-60327-527-9_11" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <Author>
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Paul</GivenName>
+                  <FamilyName>Zajac</FamilyName>
+                </AuthorName>
+              </Author>
+            </TocChapter>
+            <TocBack PageNumber="163">
+              <Emphasis Type="Italic">Index</Emphasis>
+            </TocBack>
+          </Toc>
+          <Loc>
+            <Heading>Contributors</Heading>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff3">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Sergio</GivenName>
+                    <FamilyName>Abrignani</FamilyName>
+                    <Degrees>MD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff3">
+                  <OrgName>Instituto Nazionale di Genetica Molecolare-INGM</OrgName>
+                  <OrgAddress>
+                    <City>Milan</City>
+                    <Country>Italy</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff4">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Jorge</GivenName>
+                    <FamilyName>Carneiro</FamilyName>
+                    <Degrees>PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff4">
+                  <OrgName>Instituto Gulbenkian de Ciencia</OrgName>
+                  <OrgAddress>
+                    <City>Oeiras</City>
+                    <Country>Portugal</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff5">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Giulia</GivenName>
+                    <FamilyName>Casorati</FamilyName>
+                    <Degrees>PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff5">
+                  <OrgDivision>Experimental Immunology Unit, Cancer Immunotherapy and Gene Therapy Program, Department of Biology and Biotechnology</OrgDivision>
+                  <OrgName>San Raffaele Scientific Institute</OrgName>
+                  <OrgAddress>
+                    <City>Milan</City>
+                    <Country>Italy</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff6">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Vincenzo</GivenName>
+                    <FamilyName>Cerundolo</FamilyName>
+                    <Degrees>MD, PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff6">
+                  <OrgDivision>Nuffield Department of Clinical Medicine</OrgDivision>
+                  <OrgName>Weatherall Institute of Molecular Medicine</OrgName>
+                  <OrgAddress>
+                    <City>Oxford</City>
+                    <Country>UK</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff7">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Andrea</GivenName>
+                    <FamilyName>Cossarizza</FamilyName>
+                    <Degrees>MD, PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff7">
+                  <OrgDivision>Department of Biomedical Sciences</OrgDivision>
+                  <OrgName>Section of General Pathology</OrgName>
+                  <OrgAddress>
+                    <City>Modena</City>
+                    <Country>Italy</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff8">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Wilco</GivenName>
+                    <Particle>De</Particle>
+                    <FamilyName>Jager</FamilyName>
+                    <Degrees>PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff8">
+                  <OrgDivision>Department of Pediatric Immunology, Wilhelmina Children’s Hospital</OrgDivision>
+                  <OrgName>University Medical Center Utrecht</OrgName>
+                  <OrgAddress>
+                    <City>Utrecht</City>
+                    <Country>The Netherlands</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff9">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Gennaro</GivenName>
+                    <Particle>De</Particle>
+                    <FamilyName>Libero</FamilyName>
+                    <Degrees>MD, PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff9">
+                  <OrgDivision>Experimental Immunology, Department of Research</OrgDivision>
+                  <OrgName>University Hospital Basel</OrgName>
+                  <OrgAddress>
+                    <City>Basel</City>
+                    <Country>Switzerland</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff10">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Paolo</GivenName>
+                    <FamilyName>Dellabona</FamilyName>
+                    <Degrees>MD, PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff10">
+                  <OrgDivision>Experimental Immunology Unit, Cancer Immunotherapy and Gene Therapy Program, Department of Biology and Biotechnology</OrgDivision>
+                  <OrgName>San Raffaele Scientific Institute</OrgName>
+                  <OrgAddress>
+                    <City>Milan</City>
+                    <Country>Italy</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff11">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Lurdes</GivenName>
+                    <FamilyName>Duarte</FamilyName>
+                    <Degrees>DIPL. BIOL</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff11">
+                  <OrgName>Instituto Gulbenkian de Ciencia</OrgName>
+                  <OrgAddress>
+                    <City>Oeiras</City>
+                    <Country>Portugal</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff12">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Johannes</GivenName>
+                    <GivenName>H.</GivenName>
+                    <FamilyName>Fruehauf</FamilyName>
+                    <Degrees>MD, PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff12">
+                  <OrgDivision>GI Cancer Laboratory, Division of Gastroenterology, Beth Israel Deaconess Medical Center</OrgDivision>
+                  <OrgName>Harvard Medical School</OrgName>
+                  <OrgAddress>
+                    <City>Boston</City>
+                    <State>MA</State>
+                    <Country>USA</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff13">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Sonia</GivenName>
+                    <FamilyName>Gavasso</FamilyName>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff13">
+                  <OrgDivision>Neurology Research Lab</OrgDivision>
+                  <OrgName>Haukeland University Hospital, Gamle, Havedbgning</OrgName>
+                  <OrgAddress>
+                    <City>Bergen</City>
+                    <Country>Norway</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff14">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Enrico</GivenName>
+                    <FamilyName>Lugli</FamilyName>
+                    <Degrees>BSC</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff14">
+                  <OrgDivision>Department of Biomedical Sciences</OrgDivision>
+                  <OrgName>Section of General Pathology</OrgName>
+                  <OrgAddress>
+                    <City>Modena</City>
+                    <Country>Italy</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff15">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Sabrina</GivenName>
+                    <FamilyName>Mariotti</FamilyName>
+                    <Degrees>PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff15">
+                  <OrgDivision>Dipartimento di Malattie Infettive, Parassitarie e Immunomediate</OrgDivision>
+                  <OrgName>Istituto Superiore di Sanitd</OrgName>
+                  <OrgAddress>
+                    <City>Roma</City>
+                    <Country>Italy</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff16">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Thu</GivenName>
+                    <GivenName>A.</GivenName>
+                    <FamilyName>Nguyen</FamilyName>
+                    <Degrees>BSC</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff16">
+                  <OrgDivision>GI Cancer Laboratory, Division of Gastroenterology, Beth Israel Deaconess Medical Center</OrgDivision>
+                  <OrgName>Harvard Medical School</OrgName>
+                  <OrgAddress>
+                    <City>Boston</City>
+                    <State>MA</State>
+                    <Country>USA</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff17">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Roberto</GivenName>
+                    <FamilyName>Nisini</FamilyName>
+                    <Degrees>MD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff17">
+                  <OrgDivision>Dipartimento di Malattie Infettive, Parassitarie e Immunomediate</OrgDivision>
+                  <OrgName>Istituto Superiore di Sanitd</OrgName>
+                  <OrgAddress>
+                    <City>Roma</City>
+                    <Country>Italy</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff18">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Elisabetta</GivenName>
+                    <FamilyName>Padovan</FamilyName>
+                    <Degrees>PROF. PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff18">
+                  <OrgDivision>Faculdade de Medicina</OrgDivision>
+                  <OrgName>Universidade de Lisboa</OrgName>
+                  <OrgAddress>
+                    <City>Lisboa</City>
+                    <Country>Portugal</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff19">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Berent</GivenName>
+                    <FamilyName>Prakken</FamilyName>
+                    <Degrees>PROF. MD, PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff19">
+                  <OrgDivision>Department of Pediatric Immunology, Wilhelmina Children’s Hospital</OrgDivision>
+                  <OrgName>University Medical Center Utrecht</OrgName>
+                  <OrgAddress>
+                    <City>Utrecht</City>
+                    <Country>The Netherlands</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff20">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Maurizio</GivenName>
+                    <FamilyName>Provenzano</FamilyName>
+                    <Degrees>MD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff20">
+                  <OrgDivision>Department of Urology</OrgDivision>
+                  <OrgName>University Hospital of Zurich</OrgName>
+                  <OrgAddress>
+                    <City>Zurich</City>
+                    <Country>Switzerland</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff21 Aff22">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Ger</GivenName>
+                    <GivenName>T.</GivenName>
+                    <FamilyName>Rijkers</FamilyName>
+                    <Degrees>PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff21">
+                  <OrgDivision>Department of Pediatric Immunology, Wilhelmina Children’s Hospital</OrgDivision>
+                  <OrgName>University Medical Center Utrecht</OrgName>
+                  <OrgAddress>
+                    <City>Utrecht</City>
+                    <Country>The Netherlands</Country>
+                  </OrgAddress>
+                </Affiliation>
+                <Affiliation ID="Aff22">
+                  <OrgDivision>Laboratory of Medical Microbiology and Immunology</OrgDivision>
+                  <OrgName>St. Antonius Hospital</OrgName>
+                  <OrgAddress>
+                    <City>Nieuwegein</City>
+                    <Country>The Netherlands</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff23">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Wolfgang</GivenName>
+                    <GivenName>W.A.</GivenName>
+                    <FamilyName>Schamel</FamilyName>
+                    <Degrees>PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff23">
+                  <OrgDivision>Department of Molecular Immunology, Max Planck Institute for Immunobiology</OrgDivision>
+                  <OrgName>University of Freiburg</OrgName>
+                  <OrgAddress>
+                    <City>Freiburg</City>
+                    <Country>Germany</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff24">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Giulio</GivenName>
+                    <GivenName>C.</GivenName>
+                    <FamilyName>Spagnoli</FamilyName>
+                    <Degrees>MD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff24">
+                  <OrgDivision>Institute of Surgical Research and Hospital Management</OrgDivision>
+                  <OrgName>University Hospital Basel</OrgName>
+                  <OrgAddress>
+                    <City>Basel</City>
+                    <Country>Switzerland</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff25">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Angus</GivenName>
+                    <FamilyName>Stock</FamilyName>
+                    <Degrees>BSC</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff25">
+                  <OrgDivision>Nuffield Department of Clinical Medicine</OrgDivision>
+                  <OrgName>Weatherall Institute of Molecular Medicine</OrgName>
+                  <OrgAddress>
+                    <City>Oxford</City>
+                    <Country>UK</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff26">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Mahima</GivenName>
+                    <FamilyName>Swamy</FamilyName>
+                    <Degrees>MSC, ME</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff26">
+                  <OrgDivision>Department of Molecular Immunology, Max Planck Institute for Immunobiology</OrgDivision>
+                  <OrgName>University of Freiburg</OrgName>
+                  <OrgAddress>
+                    <City>Freiburg</City>
+                    <Country>Germany</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff27">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Elena</GivenName>
+                    <FamilyName>Tonti</FamilyName>
+                    <Degrees>PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff27">
+                  <OrgDivision>Experimental Immunology Unit, Cancer Immunotherapy and Gene Therapy Program, Department of Biology and Biotechnology</OrgDivision>
+                  <OrgName>San Raffaele Scientific Institute</OrgName>
+                  <OrgAddress>
+                    <City>Milan</City>
+                    <Country>Italy</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff28">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Leonarda</GivenName>
+                    <FamilyName>Troiano</FamilyName>
+                    <Degrees>BSC</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff28">
+                  <OrgDivision>Department of Biomedical Sciences</OrgDivision>
+                  <OrgName>Section of General Pathology</OrgName>
+                  <OrgAddress>
+                    <City>Modena</City>
+                    <Country>Italy</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+            <LocEntry>
+              <AuthorGroup>
+                <Author AffiliationIDS="Aff29">
+                  <AuthorName DisplayOrder="Western">
+                    <GivenName>Paul</GivenName>
+                    <FamilyName>Zajac</FamilyName>
+                    <Degrees>PHD</Degrees>
+                  </AuthorName>
+                </Author>
+                <Affiliation ID="Aff29">
+                  <OrgDivision>Institute of Surgical Research and Hospital Management</OrgDivision>
+                  <OrgName>University Hospital Basel</OrgName>
+                  <OrgAddress>
+                    <City>Basel</City>
+                    <Country>Switzerland</Country>
+                  </OrgAddress>
+                </Affiliation>
+              </AuthorGroup>
+            </LocEntry>
+          </Loc>
+        </BodyFrontmatter>
+        <BodyRef FileRef="BodyRef/PDF/978-1-60327-527-9_BookFrontMatter.pdf" OutputMedium="Online" TargetType="OnlinePDF"/>
+      </BookFrontmatter>
+    </Book>
+  </Series>
+</Publisher>

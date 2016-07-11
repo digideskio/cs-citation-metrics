@@ -1,0 +1,2123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer International Publishing</PublisherName>
+    <PublisherLocation>Cham</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer.com</PublisherURL>
+  </PublisherInfo>
+  <Book Language="En" OutputMedium="All">
+    <BookInfo BookProductType="Professional book" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="3" NumberingStyle="ChapterContent" OutputMedium="All" TocLevels="0">
+      <BookID>978-3-319-21293-7</BookID>
+      <BookTitle>Modern Stroke Rehabilitation through e-Health-based Entertainment</BookTitle>
+      <BookDOI>10.1007/978-3-319-21293-7</BookDOI>
+      <BookTitleID>327370</BookTitleID>
+      <BookPrintISBN>978-3-319-21292-0</BookPrintISBN>
+      <BookElectronicISBN>978-3-319-21293-7</BookElectronicISBN>
+      <BookEdition>1st ed. 2016</BookEdition>
+      <BookChapterCount>10</BookChapterCount>
+      <BookCopyright>
+        <CopyrightHolderName>Springer International Publishing Switzerland</CopyrightHolderName>
+        <CopyrightYear>2016</CopyrightYear>
+        <CopyrightStandardText Language="En">This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed.</CopyrightStandardText>
+      </BookCopyright>
+      <BookSubjectGroup>
+        <BookSubject Code="SCT" Type="Primary">Engineering</BookSubject>
+        <BookSubject Code="SCT2700X" Priority="1" Type="Secondary">Biomedical Engineering</BookSubject>
+        <BookSubject Code="SCT24068" Priority="2" Type="Secondary">Circuits and Systems</BookSubject>
+        <BookSubject Code="SCH55006" Priority="3" Type="Secondary">Rehabilitation</BookSubject>
+        <BookSubject Code="SCH27002" Priority="4" Type="Secondary">Public Health</BookSubject>
+        <BookSubject Code="SCI18059" Priority="5" Type="Secondary">Multimedia Information Systems</BookSubject>
+        <SubjectCollection Code="SUCO11647">Engineering</SubjectCollection>
+      </BookSubjectGroup>
+      <BookstoreLocation>Electrical Engineering</BookstoreLocation>
+    </BookInfo>
+    <BookHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Emmanouela</GivenName>
+            <FamilyName>Vogiatzaki</FamilyName>
+          </EditorName>
+          <Contact>
+            <Email>emmanouela@rfsat.com</Email>
+          </Contact>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Artur</GivenName>
+            <FamilyName>Krukowski</FamilyName>
+          </EditorName>
+          <Contact>
+            <Email>krukowa@intracom-telecom.com</Email>
+          </Contact>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgDivision>(RFSAT) Ltd</OrgDivision>
+          <OrgName>Research for Science, Art and Technology</OrgName>
+          <OrgAddress>
+            <City>Sheffield</City>
+            <Country>United Kingdom</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Intracom S. A. Telecom Solutions</OrgName>
+          <OrgAddress>
+            <City>Peania</City>
+            <Country>Greece</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </BookHeader>
+    <Chapter ID="b978-3-319-21293-7_3" Language="En" OutputMedium="All">
+      <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" Language="En" NumberingDepth="3" NumberingStyle="ChapterContent" OutputMedium="All" TocLevels="0">
+        <ChapterID>3</ChapterID>
+        <ChapterNumber>Chapter 3</ChapterNumber>
+        <ChapterDOI>10.1007/978-3-319-21293-7_3</ChapterDOI>
+        <ChapterSequenceNumber>3</ChapterSequenceNumber>
+        <ChapterTitle Language="En">Data Flow-Driven BAN: Architecture and Algorithms</ChapterTitle>
+        <ChapterFirstPage>51</ChapterFirstPage>
+        <ChapterLastPage>83</ChapterLastPage>
+        <ChapterCopyright>
+          <CopyrightHolderName>Springer International Publishing Switzerland</CopyrightHolderName>
+          <CopyrightYear>2016</CopyrightYear>
+        </ChapterCopyright>
+        <ChapterHistory>
+          <RegistrationDate>
+            <Year>2015</Year>
+            <Month>6</Month>
+            <Day>11</Day>
+          </RegistrationDate>
+        </ChapterHistory>
+        <ChapterContext>
+          <BookID>978-3-319-21293-7</BookID>
+          <BookTitle>Modern Stroke Rehabilitation through e-Health-based Entertainment</BookTitle>
+        </ChapterContext>
+      </ChapterInfo>
+      <ChapterHeader>
+        <AuthorGroup>
+          <Author AffiliationIDS="Aff3" CorrespondingAffiliationID="Aff3">
+            <AuthorName DisplayOrder="Western">
+              <GivenName>Steffen</GivenName>
+              <FamilyName>Ortmann</FamilyName>
+            </AuthorName>
+            <Contact>
+              <Email>ortmann@ihp-microelectronics.com</Email>
+            </Contact>
+          </Author>
+          <Author AffiliationIDS="Aff3">
+            <AuthorName DisplayOrder="Western">
+              <GivenName>Peter</GivenName>
+              <FamilyName>Langendörfer</FamilyName>
+            </AuthorName>
+          </Author>
+          <Affiliation ID="Aff3">
+            <OrgName>IHP</OrgName>
+            <OrgAddress>
+              <City>Frankfurt</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+        </AuthorGroup>
+        <Abstract ID="Abs1" Language="En" OutputMedium="All">
+          <Heading>Abstract</Heading>
+          <Para ID="Par1">This chapter reflects the objectives and the design of the StrokeBack Body Area Network (BAN) with respect to the requirements given by the application scenarios of clinical assessment and recognition of daily activities, as well as the user feedback from patients and therapists. The StrokeBack sensor platform, called GHOST, is designed to provide smaller size, more efficient power consumption, stronger security means and much better usability than the currently available state-of-the-art sensing devices. The GHOST platform is a tiny sensor platform with inertial sensors, Qi compliant wireless power transfer and an embedded Bluetooth Low-Energy (Bluetooth 4.0) front end. In a full package, the complete GHOST sensor platform is of matchbox size only, including a Lithium cell battery pack and a receiver coil for wireless power transfer. Two versions of the StrokeBack sensor nodes have been assembled. The first sensor node design uses the shelf components while the second variant of the sensor nodes incorporates a customised crypto-microcontroller providing enhanced security options. This platform is used for detection of Activities of Daily Living (ADL) within the StrokeBack project, where the patient wears the platform at the affected limb. The daily data flow principle is described in detail. The platform collects movement data from accelerometer, gyroscope and magnetometer throughout the day, which are uploaded and analysed during the night when the sensor resides in the wireless charging station.</Para>
+        </Abstract>
+      </ChapterHeader>
+      <Body>
+        <Section1 ID="Sec1">
+          <Heading>Motivation and Objectives for the Use of Body-Worn Sensors</Heading>
+          <Para ID="Par2">The StrokeBack project pursues providing two novel training and assessment means for patients in the post-stroke rehabilitation at home. The first approach develops a fixed training place that allows supervised rehabilitation training at home. It is a fully equipped workstation with sensors, cameras and other components necessary to support autonomous training sessions according to a pre-defined schedule.</Para>
+          <Para ID="Par3">To complement the training system, the second approach facilitates the use of body-worn sensors, called Body Area Network (BAN), to monitor and assess the patient’s activities during daily life, especially during the time when the patient does not perform any other rehabilitation training. In other words, the data gathered by the BAN allows for delivering more detailed insights of what usually remains hidden for the therapist in the ambulant rehabilitation phase, i.e. how the rehabilitation training influences daily life of the patient.</Para>
+          <Para ID="Par4">The BAN captures motion data of upper extremities during daily life of a patient. It is used to document transfer of motion abilities regained in training sessions. It logs sensor data and transmits it to a local base station in regular intervals, where these data are analysed before results are stored in the Personal Health Record (PHR). In this way, the therapists will be provided with objective data about patient activities for assessing individual rehabilitation progress and health status of the patient.</Para>
+          <Para ID="Par5">This approach provides several advantages in contrast to other ones such as video monitoring. Sensor nodes are relatively cheap, minimal invasive only, not bound to certain area or fixed power supply and hence, they can be used nearly everywhere and at any time. In addition, sensors can be easily adapted to other or refined tasks, e.g. by reprogramming or new extension modules (yet including actuators) to overcome problems and needs that may occur during development or use. Last but not least, the number of nodes per patients and task can be adapted quite efficiently due to their autonomous and cooperative nature.</Para>
+        </Section1>
+        <Section1 ID="Sec2">
+          <Heading>Goals of BAN Use</Heading>
+          <Para ID="Par6">There are three main tasks the StrokeBack sensor nodes will be used for, which will be sketched in the following three paragraphs.</Para>
+          <Section2 ID="Sec3">
+            <Heading>Clinical Assessment</Heading>
+            <Para ID="Par7">The clinical assessment will be done by letting a patient execute a streamlined version of the Wolf Motor Function Test (WMFT). Sensor nodes attached to the affected side of the patient’s upper limbs will thereby objectively measure speed and movement accuracy of executed exercises. Regular WMFT sessions with same patients will enable to compare gathered data for single exercises directly to assess rehabilitation progress.</Para>
+          </Section2>
+          <Section2 ID="Sec4">
+            <Heading>Investigated Activities of Daily Life</Heading>
+            <Para ID="Par8">Besides the training exercises, daily activities are to be monitored by the BAN throughout the day. Therefore, all collected raw data will be evaluated each day to gather statistics about activities and activity pattern. It is quite obvious that it is almost unfeasible to find out about all kind of activities the patient does during the day by just analysing sensor data, in particular with a minimum set of sensor attached. In principle, the StrokeBack team will try to automatically detect the following subset of ADL:<OrderedList>
+                <ListItem>
+                  <ItemNumber>1.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par9">Reach and retrieve object</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>2.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par10">Lift object (e.g. a cup) to mouth and return to table</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>3.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par11">Swing arm in horizontal plane through 90° and return</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>4.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par12">Rotate wrist through 90° and return</Para>
+                  </ItemContent>
+                </ListItem>
+              </OrderedList>
+</Para>
+            <Para ID="Par13">These actions of course consist of consecutive or parallel sequences of smaller movements the BAN needs to classify. Given this data the BAN should help to get insights into the following things during the absence of the therapist:</Para>
+            <Para ID="Par14">
+<Emphasis Type="Italic">Activity of the patient in general</Emphasis>: This includes any information about what the patient does during the day, regardless whether the information is more general, e.g. percentage of time where the patient was sitting around, or whether it is related to particular movements such as ‘Reach and grasp an object’.</Para>
+            <Para ID="Par15">
+<Emphasis Type="Italic">Walking</Emphasis>: The number of steps taken or the walking distances reached per day are a pretty good measure for clinicians and therapists to assess the patient’s state of rehabilitation. Therefore, we’ll investigate an individualised step counter that can estimate the walking activity. Due to the very individual walking pattern of stroke patients, that differs between patients and usually differs from walking pattern of healthy subjects, we see a need to research novel algorithms for that.</Para>
+            <Para ID="Par16">
+<Emphasis Type="Italic">Comparison between affected/unaffected body parts</Emphasis>: One of the most important outcome measures of rehabilitation is the comparison of the usage of affected body parts in contrast to the unaffected parts. In ideal case, the algorithms to be developed will allow for direct comparison what kind of movements has been carried out with which part of the body at which time.</Para>
+          </Section2>
+          <Section2 ID="Sec5">
+            <Heading>Instrumented Objects</Heading>
+            <Para ID="Par17">For training of fine-grained hand motor skills, the StrokeBack sensor node may be integrated into objects for Arm Ability Training (AAT). Therefore, integration of a sensor node into a cube was investigated. The node gathers and reports the orientation of the cube in real time while being used in therapy, e.g. which side of the cube is currently on top. Using cubes or similar objects for simple tasks is common in occupational therapy. Here, the goal is to implement evidence-based occupational therapy means for effective home use.</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec6">
+          <Heading>Related Work</Heading>
+          <Para ID="Par18">Monitoring movement and activity both inside and outside the laboratory has been the focus of considerable research over the last years. Body-worn sensors such as goniometers [<CitationRef CitationID="CR1">1</CitationRef>], pressure tubes [<CitationRef CitationID="CR2">2</CitationRef>], gyroscopes [<CitationRef CitationID="CR3">3</CitationRef>] and accelerometers [<CitationRef CitationID="CR4">4</CitationRef>–<CitationRef CitationID="CR7">7</CitationRef>] have been used in a range of activities and clinical conditions [<CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>–<CitationRef CitationID="CR11">11</CitationRef>] and for control of Functional Electrical Stimulation (FES) in walking and upper limb movement [<CitationRef CitationID="CR12">12</CitationRef>–<CitationRef CitationID="CR15">15</CitationRef>] and in standing with spinal cord injured patients [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>]. However, body-worn sensors are often bulky, require associated instrumentation and accurate placement of the sensor elements. Nevertheless, such studies have already demonstrated the feasibility and potential benefits of long-term monitoring of movement [<CitationRef CitationID="CR18">18</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>] and what is needed now is a shift in approach to make this feasible and usable in clinical practice and particularly in the home environment for rehabilitation.</Para>
+          <Para ID="Par19">A potential approach has already been embraced by the textile industry. The so-called smart textiles have been developed to measure vital signs, such as the electrocardiogram (ECG) and have even been commercialised in, for example, the SenseWear™ [<CitationRef CitationID="CR20">20</CitationRef>], Samsung GearFit™ [<CitationRef CitationID="CR21">21</CitationRef>] and the FitnessSHIRT™ [<CitationRef CitationID="CR22">22</CitationRef>]. Predictions clearly indicate that wearable systems will become part of routine clinical investigations [<CitationRef CitationID="CR23">23</CitationRef>]. Movement and activity are, however, more challenging than vital signs and additional processing, storing, transmitting and using the data poses an even greater challenge. The SMART [<CitationRef CitationID="CR24">24</CitationRef>] project has explored how technology can be used in the home to support rehabilitation following stroke. Devices have been developed that are attached to the wrist and upper arm using clothing resembling sportswear to give a measure of movements made by the patient in activities prescribed by the therapist. Data are recorded and displayed on a computer or TV screen. Joint angles have also been measured using conductive fibres integrated into fabric which change their resistance due to bending as the joint angle varies [<CitationRef CitationID="CR16">16</CitationRef>] and by covering the fabric with an electrically conductive elastomer with piezo-resistive properties so that when deformed acts as a strain sensor able to detect movement [<CitationRef CitationID="CR25">25</CitationRef>]. Nevertheless, smart textiles have yet not made it for ambulant home use by single persons, in particular due to the fact that these are hard or unfeasible to be dressed by partly impaired people. Similar objections have been raised by our therapists from the very beginning of our work as mentioned.</Para>
+          <Para ID="Par20">Meanwhile several motion sensing systems, the so-called Inertial Measurement Units (IMU), are freely available on the market. These usually combine gyroscopes, accelerometers and magnetometers (inertial sensors) with low power processing and short-range communication features. IMUs have been proven functional for body motion capture [<CitationRef CitationID="CR26">26</CitationRef>–<CitationRef CitationID="CR28">28</CitationRef>], gait analysis [<CitationRef CitationID="CR29">29</CitationRef>] as well as monitoring of rehabilitation exercises for arm [<CitationRef CitationID="CR30">30</CitationRef>] and hand training [<CitationRef CitationID="CR31">31</CitationRef>]. For our very first experiments with both healthy and stroke subjects [<CitationRef CitationID="CR32">32</CitationRef>, <CitationRef CitationID="CR33">33</CitationRef>], we have used the Shimmer platform [<CitationRef CitationID="CR34">34</CitationRef>] that already fulfils the requirements in terms of processing and storage capabilities. However, we have not been fully satisfied with link errors in the Bluetooth connectivity resulting in unreliable data transfers, available security means and the overall power consumption. We have also investigated the use of XSENS platform [<CitationRef CitationID="CR35">35</CitationRef>], but with initial costs of more than ten thousand euro for the first full set of sensors it was in our view way too expensive for our needs. In summary, both platforms still do not fulfil our needs regarding ease of use (no plugs and cables) and to some extent have been even too bulky for smooth usage in daily life, e.g. our subjects under investigation have felt that the Shimmer devices are too large in size.</Para>
+          <Para ID="Par21">The existing techniques for taking measurements on the human body are generally considered to be adequate for the purpose but are often bulky in nature and cumbersome to mount. That especially holds true when it comes to individual use by a single person, in particular for stroke patients suffering from physical impairments or palsy. Moreover, published motion sensing systems in the rehabilitation area require usage of several devices—sometimes up to ten or more sensors [<CitationRef CitationID="CR28">28</CitationRef>]—in parallel. The abilities to use mentioned sensing devices in a home environment is therefore very limited. Last but not least, existing platforms merely come along with standard encryption features based on low-power Advanced Encryption Standard (AES) as well as unreliable and power hungry standard Bluetooth links.</Para>
+          <Para ID="Par22">Our work addresses these deficiencies by extending the state-of-the-art approaches with up-to-date Bluetooth Low-Energy communication, enhanced usability and extended security features. The latter issue is incorporated by embedded means for low-power privacy protection and data security built upon our crypto-microprocessor with hardware for Elliptic Curve Cryptography (ECC). In addition, we have investigated some more technical features such as wireless power transfer to enhance the user-friendliness and thereby increase the acceptance of such system when used in daily life.</Para>
+        </Section1>
+        <Section1 ID="Sec7">
+          <Heading>Objectives of BAN</Heading>
+          <Para ID="Par23">As the sensing platform is to be used in applications outside of well-controlled laboratory environments, i.e. the daily life of patients, the physicians and therapists have specified a couple of requirements that should be met by the platform. Despite clinical/therapeutical advances and opportunities, usability is by far the most crucial acceptance factor! That means a comfortable and easy way to use the sensor nodes is the key to success in the real world beyond any research trials. Thus, body-worn sensors should work nearly ‘invisible’ and must not hinder the patient in his/her daily life activities. The sensors should be small and lightweight and allow for monitoring the patient for several hours or the whole day, respectively. The latter is certainly a trade-off between power consumption and an appropriate battery supply, which grow in size and weight with the amount of energy that is needed. All mentioned features are obvious of course. Considering them altogether in the right way allows for creating a proper <Emphasis Type="Italic">sensor node</Emphasis> that:<UnorderedList Mark="Bullet">
+              <ItemContent>
+                <Para ID="Par24">
+<Emphasis Type="Italic">Provides acceleration and orientation sensor data</Emphasis> of the sensor node itself for measuring relative speed and direction of motion. Merging data of several nodes at different points of the body will allow for analysing relative motion activities of the person’s body part wearing the sensor node. That way, insights into the accuracy and speed of rehabilitation training sequences and Activities of Daily Living (ADL) will be investigated and assessed automatically.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par25">
+<Emphasis Type="Italic">Works autonomously</Emphasis> in a way that a single sensor node does not need any infrastructure or wired link to gather and process sensor data. Therefore, the sensor node must be equipped with adequate rechargeable power supply as well as processing power and storage means.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par26">
+<Emphasis Type="Italic">Fulfils all privacy and security obligations</Emphasis> that are considered mandatory for any kind of use due to the fact that the sensor node gathers personal and private data, respectively. That especially holds true if sensor nodes are used in medical/clinical context, in particular due to the fact that gathered data is transmitted wirelessly to the base station at night (in theory freely accessible), from where it is uploaded into the PHR. Therefore, the sensor nodes should make use of standard encryption/decryption means to protect from non-authorised access to data. It may further provide flexible authentication and digital signature capabilities to ensure proper access control and data integrity.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par27">
+<Emphasis Type="Italic">Can collaborate with other sensors and/or a base station by wireless means</Emphasis> to form a network for executing common tasks. In addition to the autonomous nature of single sensor nodes, these must be capable of communicating configuration and calibration data amongst each other, e.g. to synchronise data taken from different nodes at the same time, to cope with clock drifts or to update routing and link information. Sensor nodes further deliver gathered data to a central network sink, i.e. the base station. In the StrokeBack system, the patient’s home station takes the part of the base station. It will process and analyse recorded raw sensor data and update the PHR.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par28">
+<Emphasis Type="Italic">Provides plug and play feeling</Emphasis> for a comfortable patient experience. Usage of the sensors must be easy and intuitive. Despite being as small and lightweight as possible, the sensor nodes need to get by with a minimum or better no configuration by the patient and must be freely wearable during the day. Therefore, means of automatic calibration, wireless communication and wireless charging have been investigated and used whenever possible in the StrokeBack BAN. Especially integrated wireless charging capabilities allows to get rid of cables and plug connectors that are usually hard to use by stroke affected patients due to missing precision of motor hand control.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par29">
+<Emphasis Type="Italic">Facilitates a compact and very flat design</Emphasis> that does not further reduce already limited mobility of a patient. In addition, resistance against water—at least against splash water and dust—is demanded.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par30">Ideally supports the envisioned monitoring scenario with <Emphasis Type="Italic">one sensor node per patient</Emphasis> only. This has been proven to work with only one sensor worn at the wrist of the affected limb, but however strongly depends on the quantitative measures to be realised. If detailed data about movement rates, velocity and movement angles of the limb are needed, several sensor nodes have to be used in parallel of course.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par31">
+<Emphasis Type="Italic">Expandability</Emphasis> of the sensing platform should be foreseen to provide the opportunity to integrate further modules or other sensing features later.</Para>
+              </ItemContent>
+            </UnorderedList>
+</Para>
+        </Section1>
+        <Section1 ID="Sec8">
+          <Heading>Selection of Key Technical Features</Heading>
+          <Para ID="Par32">To enable straightforward and convenient use of the GHOST sensor nodes in common therapy practice, the following selections of technical key features have been made to fulfil the prerequisites:<OrderedList>
+              <ListItem>
+                <ItemNumber>1.</ItemNumber>
+                <ItemContent>
+                  <Para ID="Par33">Wireless charging was integrated to make sure the sensor nodes do not need to use any cables or wired connections. This enables yet another useful feature to completely close the sensor housing as this might then become resistant to water. This wireless charging protocol further needs to be compatible to the Qi standard and hence, allows for using off the shelf charging stations, e.g. available for smartphones.</Para>
+                </ItemContent>
+              </ListItem>
+              <ListItem>
+                <ItemNumber>2.</ItemNumber>
+                <ItemContent>
+                  <Para ID="Par34">Due to physical impairments of patients using the platform in daily life, the sensor cannot be integrated into gloves or sleeves. In fact, most patients cannot put on sleeves or gloves on their own.</Para>
+                </ItemContent>
+              </ListItem>
+              <ListItem>
+                <ItemNumber>3.</ItemNumber>
+                <ItemContent>
+                  <Para ID="Par35">The platform should be of ultra-low-power consumption to enable usage over several hours each day with battery powered sensor nodes.</Para>
+                </ItemContent>
+              </ListItem>
+              <ListItem>
+                <ItemNumber>4.</ItemNumber>
+                <ItemContent>
+                  <Para ID="Par36">According to power limitations and to the clinical needs to have ADL statistics on daily basis only, streaming data directly to a base station in real time is unfeasible. Also, direct streaming would not allow using the sensors everywhere and anytime during the day, where no base station might be in place. Hence, the activity data is collected and stored on the sensors during the day and uploaded at night, when sensor are recharging near the base station.</Para>
+                </ItemContent>
+              </ListItem>
+              <ListItem>
+                <ItemNumber>5.</ItemNumber>
+                <ItemContent>
+                  <Para ID="Par37">To apply with legal rules regarding the security and privacy protection requirements, strong security means are integrated. Therefore, the final StrokeBack BAN will be empowered by the crypto-microcontroller of IHP that enables such strong security means even in low-power modes by using the integrated AES and ECC crypto hardware modules.</Para>
+                </ItemContent>
+              </ListItem>
+            </OrderedList>
+</Para>
+        </Section1>
+        <Section1 ID="Sec9">
+          <Heading>Data Flow Concept and Design Requirements</Heading>
+          <Para ID="Par38">This section introduces the data flow concept that will be implemented in the StrokeBack system followed by the sensor node requirements with respect to the sensor data and other issues to fulfil the BAN objectives.</Para>
+          <Section2 ID="Sec10">
+            <Heading>General Data Flow During Rehabilitation Process</Heading>
+            <Para ID="Par39">A complete rehabilitation process can only be effective if regular outcome measures and assessment means for the needs of the patient are in place that can efficiently influence the future rehabilitation schedule. Therefore, the StrokeBack data flow concept follows a cycle like approach, see Fig. <InternalRef RefID="Fig1">3.1</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.1</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>StrokeBack data flow cycle for complete rehabilitation process</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO1">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par40">It allows analysing the state of the patient in regular intervals and then applying respective feedback and/or corrective measures to the rehabilitation process. With reference to Fig. <InternalRef RefID="Fig1">3.1</InternalRef>, the numbered arrows specify the following data flows:<OrderedList>
+                <ListItem>
+                  <ItemNumber>1.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par41">Initially, the clinician or therapist, respectively, analyses the current state of rehabilitation and the patient’s rehabilitation needs.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>2.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par42">According to the patient’s needs, individual exercises and a rehabilitation schedule should be specified.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>3.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par43">Defined exercises are to be executed at the patient’s training place at home, which is equipped with Kinect capabilities for movement tracking and training supervision.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>4.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par44">As all movement data is recorded throughout the day, the BAN in parallel gathers motion data during the training sessions too.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>5.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par45">Results and effectiveness of training sessions are stored at the patient’s home station.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>6.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par46">Since the patient’s home station is the base station for the BAN at the same time, exercises data and recorded BAN data can be compared. We will investigate whether it is possible to use both recorded data sets for autonomous BAN calibration means. This calibration may be necessary due to changed orientation and location of the sensor nodes that may occur due to daily attachment by the patient.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>7.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par47">Right after attachment of the sensor nodes to the body, each sensor node will record raw motion data throughout the day. Needless to say that recorded raw data will of course be much more precise or better analysable, respectively, after the calibration phase.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>8.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par48">When the sensor nodes are removed from the patient’s body, they’ll transfer all recorded raw data to the base station, where these data are processed with different algorithms to analyse ADL.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>9.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par49">Daily ADL statistics are stored into the patient’s PHR.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>10.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par50">Daily ADL statistics can be seen by the clinicians or therapists at any time and from anywhere via remote access. This in principle closes the cycle of StrokeBack BAN data flow.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>11.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par51">Access to gathered ADL statistics and training results enables to again analyse and assess the patient’s rehabilitation progress.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>12.</ItemNumber>
+                  <ItemContent>
+                    <Para ID="Par52">Re-definition or respectively adaptation of the training schedule can be done with respect to ADL statistics or training results.</Para>
+                  </ItemContent>
+                </ListItem>
+              </OrderedList>
+</Para>
+          </Section2>
+          <Section2 ID="Sec11">
+            <Heading>Daily BAN Data Cycle</Heading>
+            <Para ID="Par53">The BAN will store all data gathered throughout the day, i.e. when the patient wears it, on the sensor nodes and will submit all data to the base station while recharging during the night. There is no need to establish permanent online connectivity from the sensor nodes to a base station (or gateway). From therapeutical point of view, it is merely required to gather statistics about ADL on daily basis, i.e. the patient’s ADL need to be available on the following day in the PHR. In addition, permanent wireless communication would unnecessarily and rapidly drain energy resources from the technical and usability point of view. Last but not least, it would require having a base station in reach of the BAN all day long. For example, the Bluetooth Low-Energy (BT-LE) communication module provides a solicited communication range of up to 10 m within a home environment only.</Para>
+            <Para ID="Par54">According to this, the daily BAN data cycle is very simple as well as without the necessity to be triggered by the patient. In principle, the operational mode of the sensor nodes is divided into two phases only, i.e. recording data during the day, when the BAN is worn by the patient, and uploading data to the base station during night, when the sensor nodes reside in recharging position. Each sensor node automatically starts recording and storing data locally right after being removed from the power supply, respectively, the charging device. The sensor node keeps on recording data throughout the day as long as it is unplugged from the recharging station or the battery charge condition undergoes the minimum level required for proper functioning. If any communication between different sensors or between sensors and the base station is necessary, e.g. for synchronisation of time data or calibration issues, this is done automatically without patient intervention.</Para>
+          </Section2>
+          <Section2 ID="Sec12">
+            <Heading>Sensor Data Requirements</Heading>
+            <Para ID="Par55">The sensor node gathers raw sensor data of three-dimensional relational orientation and acceleration. Therefore, the sensor platform includes an accelerometer and a gyroscope sensor that calculates acceleration and rotation data for the <Emphasis Type="Italic">x-</Emphasis>, <Emphasis Type="Italic">y-</Emphasis> and <Emphasis Type="Italic">z</Emphasis>-axes, as schematically drafted in Fig. <InternalRef RefID="Fig2">3.2</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.2</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Schematic of rotation and acceleration data measured in relation to the sensor node</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO2">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par56">In addition, the StrokeBack sensor platform includes a magnetometer and sensors measuring vibration. Both sensory options may allow even more improved sensing skills to be investigated later on. Data from the accelerometer and the gyroscope are gathered in a frequency of 50 Hz in the basic setting, which equals to 50 samples per second or one sample every 20 ms, respectively. This is currently driven by parallel investigations using state-of-the-art sensor nodes, which do not support changing the sensing frequency with the given driver implementation. However, usage of lower sampling rates will in future be investigated to save memory and power consumption during operation.</Para>
+            <Para ID="Par57">According to that, the expected data recorded throughout the day volume per sensor node and day sums up to a maximum of 50 MB. The accelerometer and the gyroscope sensor each provide three channels (<Emphasis Type="Italic">x</Emphasis>, <Emphasis Type="Italic">y</Emphasis>, <Emphasis Type="Italic">z</Emphasis> axes). Hence, the sensor node records 6 sensor values of 16 bit at every 20 ms. Together with a 64 bit timestamp, the sensor node will store a minimum of 6 × 16 bit (sensor values) + 64 bit (timestamp) at every 20 ms as raw sensor data. This is equal to 18 bytes (1 byte = 8 bit) at every 20 ms, which sums up to 900 bytes per second and node. In total, we assume to store approximately 1 Kbyte per second on the node. By recording approximately 1 Kbyte per second, one sensor node will record 3600 Kbyte per hour and therefore 43.2 MB pure sensor data during 12 h.</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec13">
+          <Heading>Other Technical Requirements</Heading>
+          <Section2 ID="Sec14">
+            <Heading>Security/Privacy</Heading>
+            <Para ID="Par58">All data gathered by the BAN are personal/private data of the patient that need to be protected from non-authorised access for the complete data lifetime, as already mentioned. Therefore, data transmitted from sensor nodes to the base station (and to the PHR later on) need to be protected against eavesdropping and malicious damages or changes. The StrokeBack system makes use of the AES protocol, which provides a symmetric cipher for encryption of data streams. Since it is symmetric, both the sender and the receiver need to know the secret encryption key to be able to access encrypted data. In the simplest setting, this secret key has to be selected during the configuration phase of the sensor nodes and cannot be changed during usage of the system. This approach may be suitable for controlled trials, but will become more or less unsecure when the StrokeBack system would be used in its envisioned application for daily rehabilitation monitoring, since the key can then not be changed during operation. Thus, anybody who possesses the configured AES key can then in principle access all data gathered by the system, regardless whether this access is permitted.</Para>
+            <Para ID="Par59">To overcome these problems, the final BAN nodes are empowered by the IHP crypto-microcontroller that provides hardware for AES too, but additionally provides energy-efficient integrated hardware accelerators for the asymmetric cipher protocol ECC and the standardised Secure Hash Algorithm 1 (SHA-1) for generation of digital signatures and hashes. The latter can be used to detect unwanted or malicious changes of data, e.g. during wireless transmission. The hardware support for ECC (software variants for microcontrollers exist, but are much too heavy to be used on sensor nodes as side application) enables to implement a public–private key infrastructure in parallel even on the sensor nodes. This is used to implement access control directly on the sensor nodes and to enable secure exchange of new AES encryption keys at any time if needed. On the other hand, this ensures that no sender or receiver other than the authorised base station can communicate to the sensor nodes to exchange information or patient’s data.</Para>
+          </Section2>
+          <Section2 ID="Sec15">
+            <Heading>Synchronisation Protocols</Heading>
+            <Para ID="Par60">Due to the non-precise and cheap clocks on the sensor nodes, these suffer from different clock drifts over time. That means, even if the clock of all sensor nodes is synchronised at the beginning of the day, e.g. during attachment, it may occur that the sensor data is not recorded exactly at the same time in parallel on all sensor nodes. Since sensor data is recorded at all nodes in intervals of 20 ms, the clock drift during the day must not exceed 10 ms in total to avoid incorrect correlation of motion data taken at different nodes. Communication facilities on the sensor nodes are to be used to synchronise all nodes and timestamps while recording data throughout the day.</Para>
+          </Section2>
+          <Section2 ID="Sec16">
+            <Heading>Communication</Heading>
+            <Para ID="Par61">For all communication issues between the sensor nodes and the base station mentioned before, each sensor node is equipped with a wireless communication module. According to previous estimations, it is assumed to transfer about 50 MB of data in total for each sensor node in use per day, including overhead data required for instance for packet headers, checksums, MAC (Medium Access Control) and routing data. Provided that a patient wears three sensor nodes in parallel for the maximum setting (wrist, upper arm, chest), about 150 MB of data have to be transferred to the base station during the recharging phase (at night). Taking the minimum time slot of 5 h for charging and transmission of all nodes into account, the BAN needs to transfer about 30 MB per hour. This equals to 500 Kbyte per minute or about 8.3 Kbyte per second, respectively. To summarise, to comply with the requirements set above, the communication module of each sensor node should provide a minimum transfer rate of 10 Kbyte per second (80 Kbit/s).</Para>
+            <Para ID="Par62">For wireless communication, the widely used Bluetooth (BT) standard has been investigated while focusing on using the more advanced BT-LE. Both would provide more than sufficient data rates to fulfil estimated transfer rates. The BT-LE allows data rates up to 1000 Kbit per second (1 Mbit/s). The BT standard even provides data rates of up to 2.1 Mbit/s (Enhanced Data Rate (EDR) mode), but usually consumes much more energy. Unfortunately, a dual BT front end that is compatible to both BT standards in parallel (called ‘BT Smart Ready’) was not available at the time of the design phase of the sensor nodes. Hence, a single BT-LE module was integrated.</Para>
+          </Section2>
+          <Section2 ID="Sec17">
+            <Heading>Memory</Heading>
+            <Para ID="Par63">Estimated raw sensor data of course need to be stored at the node throughout the day. Flash is the currently most widely used technology of non-volatile memory for small devices. In principle, two options of flash memory are available for our application, i.e. tiny flash modules directly assembled on the sensor board or flash memory cards that can be exchanged. Both options are relatively cheap, but feature different advantages and drawback.</Para>
+            <Para ID="Par64">Flash memory cards, or micro-SD cards in our case, are very cheap and available as mass product with capacities ranging from several hundred megabytes up to 64 Gigabyte. Further advantages are that they in principle are compatible to other devices and can be replaced easily and hence provide more flexibility. Their drawback is the required size for the SD-card slot on the board and their power consumption. Very small card slots still require a board area of about 12 × 12 mm, which is already half of the envisioned board size (refer to Sect. <InternalRef RefID="Sec24">3.9.1</InternalRef>). The power supply for micro-SD cards requires around 3.0–3.3 V.</Para>
+            <Para ID="Par65">Flash modules for on-board assembly are slightly more expensive than SD-cards and provide less memory capacities. Nevertheless, such modules feature much smaller dimensions than a micro-SD slot and more important: the power consumption is significantly lower. Both features are of utmost importance for the StrokeBack sensor nodes. Hence, we decided to assemble a flash module with 128 MB storing capacity.</Para>
+          </Section2>
+          <Section2 ID="Sec18">
+            <Heading>Power Supply</Heading>
+            <Para ID="Par66">Energy efficiency is one of the key aspects when it comes to design of sensor nodes. The more energy the sensor nodes consumes during operation, the more energy need to be available and stored on the nodes to reach a certain minimum operation time. The minimum operation time for each node is assumed 12 h, as introduced before. However, not only the amount of energy consumed by the node itself need to be minimised of course. Obviously, using larger battery packs would solve most of energy supply problems, but there are several aspects that need to be considered as well, in particular from the usability point of view. Larger battery packs might not fit into very small and lightweight sensor cases and will unnecessarily increase weight of the sensor node.</Para>
+            <Para ID="Par67">Therefore, the StrokeBack BAN is supplied by very small rechargeable Lithium-Polymer batteries providing several hundred milliamps per hour (mAh). The sensors can commonly be charged via a standard micro-USB adapter. In addition, the StrokeBack sensor nodes integrate wireless power supply based on the Qi wireless power standard [<CitationRef CitationID="CR36">36</CitationRef>] for automatically recharging batteries when the sensor node is in charging position. This will enable getting rid of cables and cable plugs and therefore significantly improve patient’s experiences and acceptance.</Para>
+          </Section2>
+          <Section2 ID="Sec19">
+            <Heading>Application Specific Integrated Circuits</Heading>
+            <Para ID="Par68">The introduced monitoring cycle does not need to facilitate on-BAN movement classification by default. However, the ultimate research challenge of monitoring with body-worn sensors is enabling the BAN to classify and analyse motion data directly on the sensor nodes, without the need to use a base station for post-processing of sensed raw data. Therefore, the StrokeBack team investigated integration of a novel hardware module, called Application Specific Integrated Circuit (ASIC), for accelerating on-BAN movement classification while reducing the amount of recorded data at the same time. This would provide a novel and unique application.</Para>
+          </Section2>
+          <Section2 ID="Sec20">
+            <Heading>Patient’s Safety</Heading>
+            <Para ID="Par69">Safety in this context means the BAN may not put the patients’ health at risk. The StrokeBack BAN is used for monitoring issues only and hence, it does not provide any actuators. Two more features may be considered, i.e. wireless communication and power supply. The exposure of wireless transmission should be kept minimal by reducing the communication frequency and transmission power. This can be neglected for the StrokeBack application scenario, since usage of radio transmission is almost reduced to recharging time when the patient does not wear the BAN. The power supply on the node is very low and the amount of energy stored is small. This should not be a risk for the patient. Furthermore, the charging module on the board includes autonomous temperature control and shuts down the sensor node in case of difficulty while charging and overheating problems.</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec21">
+          <Heading>StrokeBack BAN Architecture</Heading>
+          <Para ID="Par70">This section introduces the design and performance of the GHOST platform, which is a tiny sensor platform with inertial sensors, Qi compliant wireless power transfer and an embedded BT-LE (Bluetooth 4.0) front end. In a full package, the complete GHOST sensor platform is of matchbox size only, including a Lithium cell battery pack and a receiver coil for wireless power transfer. This platform is used for detection of ADL within the StrokeBack project, where the platform is worn by patient at the affected limb. It can collect movement data from accelerometer, gyroscope and magnetometer throughout the day, which is uploaded and analysed during the night when the sensor resides in the wireless charging station.</Para>
+          <Para ID="Par71">Due to the investigation and implementation of a pre-processing ASIC for the crypto-microcontroller, two variants of the GHOST platform have been designed. In principle, both provide equal functionality as required for the project and trials. The first version is equipped with a state-of-the-art microcontroller of the MSP430x family from Texas Instruments (TI). In the following, this sensor platform is referred to as GHOSTv1. This platform has been rapidly prototyped for testing and necessary CE signing procedure and tests in a third party laboratory.</Para>
+          <Para ID="Par72">The second and final version of the StrokeBack sensor node GHOSTv2 is empowered by an individualised crypto-microcontroller manufactured by IHP. This microcontroller is code-compatible to the MSP430x family from TI. The rest of the sensor node components mainly remain the same despite very small changes.</Para>
+          <Section2 ID="Sec22">
+            <Heading>Sensor Node Components</Heading>
+            <Para ID="Par73">A full list of chosen main components can be found in Table <InternalRef RefID="Tab1">3.1</InternalRef>. Most of these components have been used on both platforms. However, differences in the set of integrated components between both platforms are marked.<Table Float="Yes" ID="Tab1">
+                <Caption Language="En">
+                  <CaptionNumber>Table 3.1</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Components of StrokeBack sensor nodes GHOSTv1 and GHOSTv2 according to application requirements at a glance</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <tgroup cols="2">
+                  <colspec align="left" colname="c1" colnum="1"/>
+                  <colspec align="left" colname="c2" colnum="2"/>
+                  <thead>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Component</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Specification</SimplePara>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry colname="c1" morerows="10">
+                        <SimplePara>Micro Processing Unit (MPU) (GHOSTv1 only)</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>MSP430F5528</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2× UART/SPI/IrDA</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2× I2C/SPI</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>8× ADC</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>47× GPIO</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>RTC, USB</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>128 KB Flash, 8 + 2 KB RAM</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2.32 mA (active, 8 MHz, 3 V)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>1.9 μA (standby, LPM3)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>0.18 μA (LPM 4.5)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>9.8 × 9.8 × 1.0 mm, QFN-64</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="8">
+                        <SimplePara>Micro Processing Unit (MPU) (GHOSTv2 only)</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>IHP crypto MPU</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2× UART</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2× SPI</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>4× ADC</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>24× GPIO</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>AES, SHA1, ECC</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>64 KB Flash, 16 KB RAM</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2× Timer (16-bit, 32-bit)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>Package: 9 × 9 × 2 mm, PQFN-64</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="5">
+                        <SimplePara>Communication module</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>TI CC2541, BlueTooth</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>UART, SPI0 @ 4 MHz</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>Low Energy</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>18.2/17.9 mA (tx, rx)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>270/1/0.5 μA (LPM)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>6.8 × 6.8 × 1 mm QFN-40</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="6">
+                        <SimplePara>Flash data memory</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Micron N25Q00AA</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>128 MB</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>SPI0,3 @ 54 MHz</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>64 byte OTP, unID</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>20/6 mA (write, read)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>200 μA (standby)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>6 × 8 × 1.2, T-BGA-24</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="3">
+                        <SimplePara>Battery pack</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>EEMB LP502030</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>Single cell Lithium-Polymer (LiPo)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>3,7 V, 250 mAh, 0.9 Wh</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>31 × 20.5 × 5.3 mm</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="3">
+                        <SimplePara>IR remote control (GHOSTv1 only)</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Vishay TSOP 75236</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>RC-5, 36 kHz</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>450 μA (active)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>6.8 × 3.4 × 3.2 mm</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="5">
+                        <SimplePara>IrDA (GHOSTv1 only)</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Vishay TFBS 4652</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>9.6–115.2 kb/s (SIR)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>30 cm</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2 mA (transmission)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>75/0.1 μA (LPM)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>6.8 × 2.5 × 2.8 mm</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="2">
+                        <SimplePara>LED</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Small SMD (not further specified)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2× System</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2× User</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Buttons</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>C&amp;K KMT 2</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>1× Reset</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>150000 cycles</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>1× User</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>3.6 × 2.6 × 0.65 mm</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="3">
+                        <SimplePara>Extension</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Hirose DF40</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>50 Positions</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>Max. 300 mA</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>12.8 × 3.83 × 1.5 (/2–4) mm</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="2">
+                        <SimplePara>SPI to I2C bridge (GHOSTv2 only)</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Silicon Labs CP2120</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>3.8 mA (@25 MHz)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>4.2 × 4.2 × 1 mm, QFN-20</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="3">
+                        <SimplePara>Binary decoder</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>TI SN74HC139 PW</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2 zu 4 (2×)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>Max. 500 μA</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>3.1 × 4.1 × 1.0 mm, BGA-20</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="3">
+                        <SimplePara>USB bridge</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Micro-USB Receptacle</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>SMP U004-0112-01X0-Z</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>5 Positions</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>9.8 × 6.15 × 3 mm</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="1">
+                        <SimplePara>Wireless power (Qi)</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Texas Instruments BQ51050B</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2 × 3.2 × 0.5 mm, BGA-28</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="6">
+                        <SimplePara>Accelerometer</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>FreeScale MMA8451Q</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>3 axes, digital, I2C, 14 bit</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>Max. 2/4/8 g</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>1024/2048/4096 counts/g</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2.5 V, 44 μA (active, 100 Hz)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>1.8 μA (standby)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>3 × 3 × 1 mm, QFN-16</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="9">
+                        <SimplePara>Gyroscope</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>ST micro L3G4200D</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>3 axes digital</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>Max. 250/500/2000°/s</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>I2C, SPI3 @ 10 MHz</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>16 bit data, 8 bit Temp.</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>14, 57, 114 counts/(°/s)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>3.0 V, 6.1 mA (active)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>1.5 mA (sleep)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>5 μA (off)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>4 × 4 × 1.1 mm, LGA-16</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="6">
+                        <SimplePara>Magnetometer</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>FreeScale MAG3110</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>3 axes, digital, I2C</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>16 bit signed</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>10 counts/μT</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>138 μA @ 10 Hz (active)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2 μA (standby)</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>2 × 2.4 × 0.85 mm, DFN-10</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="3">
+                        <SimplePara>Vibration sensor</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>SignalQuest SQ-SEN 200</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>Omnidirectional vibration</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>50 nA</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>7.2 × 3.3 × 3.3 mm</SimplePara>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </Table>
+</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec23">
+          <Heading>StrokeBack Platform GHOSTv1</Heading>
+          <Para ID="Par74">To cope with the introduced prerequisites, technical requirements and suitable flexibility, the GHOSTv1 sensor platform has been composed of a baseboard providing processing and communication parts as well as a separate sensor board. Both are connected to each other by a small bridgeboard (refer to Fig. <InternalRef RefID="Fig3">3.3</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig3">
+              <Caption Language="En">
+                <CaptionNumber>Fig. 3.3</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>Components of the StrokeBack GHOSTv1 sensing platform with sensor board, bridgeboard and baseboard (from left to right)</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO3">
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig3_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+              </MediaObject>
+            </Figure>
+</Para>
+          <Para ID="Par75">This design decision is because the baseboard might also be exploited separately as development platform for usage with other sensors or for different application scenarios. In addition, some components or even selected sensor modules might be exchanged later if proven unusable or not providing expected accuracy.</Para>
+          <Section2 ID="Sec24">
+            <Heading>GHOSTv1 Baseboard</Heading>
+            <Para ID="Par76">The GHOSTv1 baseboard is made to provide the basic features of each sensor node in a tiny and smart way including the power supply management, sensor control, data processing, data storage and communication facilities. Therefore, the following components have been implemented:<UnorderedList Mark="Bullet">
+                <ItemContent>
+                  <Para ID="Par77">Microcontroller: The GHOSTv1 is empowered by the MSP430F5528 microcontroller of the MSP430 family from Texas Instruments (TI). It combines convenient memory resources with low-power processing features and widely used interfaces such as SPI, UART and IIC.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par78">Communication: Even though the BT-LE standard was brand new at the beginning of the StrokeBack project, we have implemented the CC2451 Bluetooth 4.0 front end from TI in combination with an ultra-small ceramic on-board antenna. The CC2541 front end is connected to the microcontroller via SPI interface.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par79">Data memory: The board contains a 1 GBit (or 128 MB, respectively) non-volatile Flash memory that should primarily be used as data storage. The data memory is also connected via SPI.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par80">Infrared communication: As a second communication interface, an IrDA receiver and a respective infrared transponder are included. This infrared communication interface enables to remotely control the sensor node or to allow small data rate communication, e.g. for troubleshooting purposes.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par81">Wireless power supply: This enables to wirelessly power the sensor node and provide wireless charging by using the BQ51013 chip from TI. The protocol used is fully compliant to the Qi wireless power transfer standard as it is used for smartphones for example. This allows using commercially available mobile phone tools as charging station for the GHOST platform. A key compliant receiver coil needs to be connected to the platform.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par82">Battery: The platform provides charging and power management for single lithium polymer cells via the BQ24030 chip from TI.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par83">Other power supply: In addition to the power supply options mentioned, the platform can be connected to a standard micro-USB adapter or other external sources for power supply. The latter option, also defined as AC-in feature later, allows connecting to any linear power source providing voltages from 4.5 up to 16 V, e.g. solar cells.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par84">Extension header: This header provides SPI, UART and IIC interfaces as well as a couple of GPIO pins for extension of basic features, e.g. by sensors. This header further provides the programming interface for the BT-LE front end using the CC-Debugger from TI.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par85">Buttons: The platform provides two buttons. The first one allows to manually resetting the sensor node. The second one can be enabled for user-defined purposes.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par86">LED: The platform provides four LEDs, from which two signal the power good status bits from USB and Qi-wireless power inputs, whereas the other two LEDs can be used by the programmer.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par87">Programming: The platform can be programmed via a micro-JTAG adapter.</Para>
+                </ItemContent>
+              </UnorderedList>
+</Para>
+            <Para ID="Par88">The overall dimensions of the GHOSTv1 baseboard are only 45 mm in length, 24 mm in width and merely 4 mm in height, see also Fig. <InternalRef RefID="Fig4">3.4</InternalRef> presenting the GHOSTv1 baseboard in comparison to a 5 Euro cent coin.<Figure Category="Standard" Float="Yes" ID="Fig4">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.4</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Size of the GHOSTv1 baseboard in comparison to a 5 Euro cent coin</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO4">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig4_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+</Para>
+          </Section2>
+          <Section2 ID="Sec25">
+            <Heading>Sensor Board</Heading>
+            <Para ID="Par89">The small sensor board can be connected to the extension header of the baseboard via the bridging module. The size of the sensor board is about 11 mm in length and 24 mm in width. The sensor board contains the following digital sensors, which are connected to the platform via the IIC interface:<UnorderedList Mark="Bullet">
+                <ItemContent>
+                  <Para ID="Par90">3-axis 14-bit digital accelerometer of Freescale Semiconductors MMA8451Q</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par91">3-axis 16-bit digital gyroscope L3G4200D of ST Microelectronics</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par92">3-axis 16-bit digital magnetometer MAG3110 of Freescale Semiconductors</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par93">Two vibration and tilt sensors for low power sensing of movements</Para>
+                </ItemContent>
+              </UnorderedList>
+</Para>
+          </Section2>
+          <Section2 ID="Sec26">
+            <Heading>Bridgeboard</Heading>
+            <Para ID="Par94">The bridgeboard connects both the baseboard and the sensor board. It further provides extra connectors for power supply and testing purposes. The fully composed GHOSTv1 platform as used in the StrokeBack project is depicted in Fig. <InternalRef RefID="Fig5">3.5</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig5">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.5</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Composed GHOSTv1 sensor node as used for the StrokeBack application</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO5">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig5_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+</Para>
+          </Section2>
+          <Section2 ID="Sec27">
+            <Heading>Power Supply Scheme</Heading>
+            <Para ID="Par95">As mentioned before, the GHOST platform can be supplied by four different power sources, which are managed autonomously by the platform itself. Figure <InternalRef RefID="Fig6">3.6</InternalRef> overviews the applied power scheme. To generate the 3.3 regulated voltage output (<Emphasis Type="Italic">V</Emphasis>
+<Subscript>out</Subscript>) for the platform, the battery charging circuit BQ24030 regulates charging and power supply from a single lithium-polymer (LiPo) cell. This battery charging circuit can either be supplied by a linear 5 V source or secondly by an input source delivering power in between 4.35 and 16 V. In addition, the battery charging circuit implements autonomous power path management, i.e. it empowers the device and charges the lithium cell when power is available, but automatically taps the battery support when no other power source is available.<Figure Category="Standard" Float="Yes" ID="Fig6">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.6</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Power supply scheme of the GHOST sensor platform</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO6">
+                  <ImageObject Color="BlackWhite" FileRef="MediaObjects/327370_1_En_3_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par96">The 5-V supply for the charging circuit can be powered by two more supply options, which are the 5-V support from the USB connector (up to 500 mA according to the USB specification) and the Qi compliant wireless power transfer on the other hand. The Qi compliant circuit BQ51013 then regulates input coming from the receiver (Rx) coil, defined to deliver a maximum of 1 A at 5 V. Figure <InternalRef RefID="Fig7">3.7</InternalRef> shows a GHOSTv1 board with a small LiPo cell and Qi receiver coil.<Figure Category="Standard" Float="Yes" ID="Fig7">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.7</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>GHOSTv1 board with LiPo battery (<Emphasis Type="Italic">right</Emphasis>) and Qi wireless power coil (<Emphasis Type="Italic">centre</Emphasis>)</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO7">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig7_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+</Para>
+          </Section2>
+          <Section2 ID="Sec28">
+            <Heading>Sensor Housing</Heading>
+            <Para ID="Par97">Following the design pre-requirements set by the therapists, the main goal was to achieve a very small and in particular very flat and lightweight design of the final sensor node housing to improve pleasant usage in daily life. It must further fully integrate the LiPo cell and the receiver coil too. Moreover, patients have repeatedly pointed out that the state-of-the-art sensor nodes are too large in height for comfortable and unperceived use, in particular when the sensor is placed at the wrist. The finally selected sensor case, purchased from OKW [<CitationRef CitationID="CR37">37</CitationRef>] is depicted in Fig. <InternalRef RefID="Fig8">3.8</InternalRef>. This case is made of plastic fibre (well suited in terms of wireless communication and wireless power transfer) and further is permeable to infrared light (useful for remote control application using IrDA). Finally, this case could optionally be glued to achieve a proper level of water resistance.<Figure Category="Standard" Float="Yes" ID="Fig8">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.8</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Pluggable housing of matchbox size for complete sensor node in comparison to a 2-Euro coin (<Emphasis Type="Bold">a</Emphasis>) and a schematic view of the case (<Emphasis Type="Bold">b</Emphasis>) from OKW</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO8">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig8_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par98">The chosen case features the size of a matchbox. It is of 15 mm in height only, while the length is 52 mm and the width is 32 mm. Given sizes are the outer dimensions of the sensor case. The inner dimensions are certainly much more limited. The size of the sensor board itself is limited to a maximum of 35 × 24 mm. To make matters worse, the inner height of the complete sensor node assembly including the battery pack is limited to a maximum of 8 mm only in the centre and about 6 mm at the outer edges! For the StrokeBack trials, the GHOST platform has been put into this sensor case together with a LiPo cell of 250 mA h and a Qi compliant receiver coil of 10 μH, see Figs. <InternalRef RefID="Fig9">3.9</InternalRef> and <InternalRef RefID="Fig10">3.10</InternalRef>. The weight of the fully packaged sensor system is about <Emphasis Type="Bold">21 g</Emphasis> only. The packaged sensor can be recharged by any Qi-compliant charging module, see example in Fig. <InternalRef RefID="Fig11">3.11</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig9">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.9</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>StrokeBack sensor node with LiPo cell and sensor case</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO9">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig9_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+<Figure Category="Standard" Float="Yes" ID="Fig10">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.10</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Complete sensor node with battery pack and receiver coil in package</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO10">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig10_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+<Figure Category="Standard" Float="Yes" ID="Fig11">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.11</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>StrokeBack sensor system using a Qi-compliant state-of-the-art charging station</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO11">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig11_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+</Para>
+          </Section2>
+          <Section2 ID="Sec29">
+            <Heading>Usage and Performance Characteristics</Heading>
+            <Para ID="Par99">The performance of the sensor platform in terms of power consumption is key to meet the desired working time of the platform. In current setting, the applied LiPo cell has a nominal power capacity of 250 mA h, which is one of the smallest LiPo cells available on the market. In contrast to that, the power consumption of the platform during storage of movement data, i.e. when the sensor is worn throughout the day, is at a maximum of 10 mA at the maximum sensing rate if accelerometer, gyroscope and magnetometer are used at 50 Hz data output in parallel. The power consumptions of different working modes of the GHOST platform are presented in Table <InternalRef RefID="Tab2">3.2</InternalRef>. The average power consumption of GHOSTv1 is about 5 mA depending on the working frequency of the microcontroller. Thus, the platform might be in theory runnable for 50 h without recharging. However, all experiments done with the battery cells showed that the 250 mA h could not be reached in a real setting.<Table Float="Yes" ID="Tab2">
+                <Caption Language="En">
+                  <CaptionNumber>Table 3.2</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Power consumption of GHOST platform at different settings</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <tgroup cols="2">
+                  <colspec align="left" colname="c1" colnum="1"/>
+                  <colspec align="left" colname="c2" colnum="2"/>
+                  <thead>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Platform setting</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Power consumption</SimplePara>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Basis platform (standby/no active sensing, low frequency) @ 3.3 V</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>&lt;0.5 mA</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Operational (StrokeBack setting) @ 1–4 MHz @ 3.3 V (only accelerometer and gyroscope used)</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>2–5 mA</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>BT-LE module @ 3.3 V</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>≤21 mA</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>All sensors @ 3.3 V</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>&lt;10 mA max; typical 3–5 mA</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Total maximum (StrokeBack setting) @ 3.3 V @ 1 MHz</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>&lt;40 mA</SimplePara>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </Table>
+</Para>
+            <Para ID="Par100">Whereas the first cells had a real power capacity of less than 100 mA h only, though being sold with a 250 mA h labelling, the capacity of the finally used cells have been tested to provide in between 150 and 220 mA h. That means the working time of the sensor platform when collecting movement data far exceeds the envisioned 10–12 h of data collection during a single day. Please note, the power consumption is of course much higher in case of the wireless data transfer via BT-LE is activated, but this mode is activated only when the sensor resumes in the charging station overnight.</Para>
+            <Para ID="Par101">In addition, the embedded temperature shutdown while charging the LiPo cells has been tested in a climate chamber to satisfy a maximum of safety for the patient. To circumvent possible failures and safety risks in overheating of the LiPo cell by over-charging (the might even catch fire) or degradation by sub-zero temperatures, the battery charging module interrupts charging the cell if the cell temperature is not in between 5 and 45°C.</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec30">
+          <Heading>StrokeBack GHOSTv2</Heading>
+          <Para ID="Par102">This section will describe the design of the final StrokeBack sensor system, called GHOSTv2. The key design goals have been to reach a more integrated version of the platform as well as incorporating strong security means based on the crypto-microcontroller of IHP.</Para>
+          <Section2 ID="Sec31">
+            <Heading>New Features in Comparison to GHOSTv1</Heading>
+            <Para ID="Par103">The unique feature of GHOSTv2 is the empowerment of the platform by the IHP-crypto-microcontroller, which in particular allows using the advances of asynchronous cryptography means based on ECC on low-power sensor nodes. In contrast to standard AES encryption, the crypto-microcontroller enables using a significantly more secure public–private encryption infrastructure, where each sensor node in the BAN can take part in the encrypted communication without the need of exchanging a session key. In addition, knowledge about the public key of a data provider, which here is the sensor node worn at the wrist, enables the base station to authenticate the data transferred as well as the data source itself. Secondly, the sensors needed for the project, i.e. accelerometer, gyroscope and magnetometer have been incorporated into a single board to minimise the sensor node size, depicted in Fig. <InternalRef RefID="Fig12">3.12</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig12">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.12</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>GHOSTv2 sensor platform in comparison to a 2 Euro cent coin. This platform implements all components and sensing required for StrokeBack on a single board</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO12">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig12_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+</Para>
+          </Section2>
+          <Section2 ID="Sec32">
+            <Heading>Features and Assembly Parameters</Heading>
+            <Para ID="Par104">The size of the sensor platform has been further reduced from 10.8 cm<Superscript>2</Superscript> of the GHOSTv1 platform to 9.2 cm<Superscript>2</Superscript> of the GHOSTv2 platform, which in summary is a reduction about 15 % of the sensor board size. The other components and sensor board features are functionally equal to GHOSTv1. Figure <InternalRef RefID="Fig13">3.13</InternalRef> overviews the features and assembly components of the GHOSTv2 sensor platform.<Figure Category="Standard" Float="Yes" ID="Fig13">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.13</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Structure and features of the StrokeBack sensor platform GHOSTv2 at a glance</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO13">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig13_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+          </Section2>
+          <Section2 ID="Sec33">
+            <Heading>Attachment to the Body</Heading>
+            <Para ID="Par105">Two different sensor node placements at the patient’s body are investigated as shown in Fig. <InternalRef RefID="Fig14">3.14</InternalRef>. It is currently planned to use three sensor nodes per patient attached to the sternum and to the upper arm and wrist of the affected arm as depicted in part (a) of Fig. <InternalRef RefID="Fig14">3.14</InternalRef>. However, the most comfortable setting for patients looks as presented in part (b) of Fig. <InternalRef RefID="Fig14">3.14</InternalRef>, where only two sensors are placed at the wrists of both arms. In addition to the usability aspects, the second setting may allow to compare directly to what daily activities are carried out with which arm. Nevertheless, the second setting definitely provides less data that may not be enough to classify properly daily activities.<Figure Category="Standard" Float="Yes" ID="Fig14">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.14</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Investigated placement of sensor nodes on the patient’s body</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO14">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig14_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par106">Having decided where to place the sensors on the patient’s body, the final question is how to fix them at the patient’s body? As the investigations of suitable algorithms and sensor placement for detection of ADL have found out that a single sensor worn at the wrist of the affected arm of a patient can satisfy basic detection needs, a watch-like attachment to the wrist is desired. For the beginning, a flexible strap is used to fix the sensor node to the wrist as presented in Fig. <InternalRef RefID="Fig15">3.15</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig15">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.15</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>StrokeBack sensor node worn at the wrist</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO15">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig15_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par107">However, this strap might not be easily handled by all patients, especially not by patients with increased impairments. To solve that issue, the use of a self-rolling strap for single-handed use was investigated. Therefore, the sensor node is integrated into a slap bracelet as depicted in Fig. <InternalRef RefID="Fig16">3.16</InternalRef>. This memory-metal wristband is enclosed with soft silky silicone and originally used to as housing for an iPod nano [<CitationRef CitationID="CR38">38</CitationRef>]. The spring-steel band lies flat and rigid until it is ‘slapped’ onto the arm. A slap band self-adjusts to comfortable fit, exactly the size of a patient’s wrist.<Figure Category="Standard" Float="Yes" ID="Fig16">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.16</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Investigated sensor case with slap attachment (strap that self-roles around an arm)</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO16">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig16_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par108">As depicted in Fig. <InternalRef RefID="Fig17">3.17</InternalRef>, a lithium cell battery and a GHOSTv2 sensor node was successfully embedded into such strap. It is obvious that such embedded design is useable for pre-prototype design investigations, but a fully integrated and fashionable design is out of scope of the project.<Figure Category="Standard" Float="Yes" ID="Fig17">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.17</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>GHOSTv2 sensor platform integrated into the selected self-rolling strap for automatic wrist attachment</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO17">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig17_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par109">The same way of attachment might be feasible for the upper arm sensor too, depending on the perimeter of the arm. Otherwise, the chest and upper arm sensors will be attached by elastic textile straps with hook-and-loop fastener. Investigations of other potential attachment methods, e.g. integration of sensors into clothes, are out of scope of the project, since it would limit everyday use of the sensing devices.</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec34">
+          <Heading>Sensor-Instrumented Objects</Heading>
+          <Para ID="Par110">The primary purpose of the BAN is to identify particular types of movement of the affected arm of a patient, but in reference to the therapy means reflected in former deliverables, the sensors may also be embedded into object for therapy means. We investigated two types of such therapy means, presented below.</Para>
+          <Section2 ID="Sec35">
+            <Heading>Sensor Cube</Heading>
+            <Para ID="Par111">The use of small coloured cubes for training of fine-grained finger skill is common in occupational therapy. Thereby, the patient has to spin a cube laying in his palm with his fingers of the same hand only. The goal of this ‘game’ is to spin the cube until the targeted colour appears on top. Each target colour has to be reached as fast as possible. The target colour is thereby pre-given by the therapist. To use such a therapy in StrokeBack, we embedded a sensor node into such a coloured cube on the one hand, and have implemented dedicated software with a GUI that wirelessly communicates with the sensor node on the other hand. A showcase (not-coloured but transparent) prototype of the cube design is shown in Fig. <InternalRef RefID="Fig18">3.18</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig18">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.18</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Example of minimised sensor-equipped therapy cube using GHOST platform</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO18">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig18_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+            <Para ID="Par112">While running the ‘cube game’, the GUI randomly sets a target colour and assesses orientation data from the sensor cube. The orientation of the cube is calculated from data provided by the inertial sensors of the GHOST node inside the cube, which is streamed in real time to the software running on the training device. Based on that, the software can determine which colour is currently shown on top of the cube and set a new colour of a targeted one has been successfully detected. At the end of such ‘game’, the software provides user statistics about the gaming time, successfully detected (top) colour, fasted level, slowest levels and average results as result file for the PHR. For patient use in the clinic, we have developed a ‘prototype’ of such coloured cube made of paperboard, see Fig. <InternalRef RefID="Fig19">3.19</InternalRef>, where we have embedded the receiver coil for wireless power transfer too (Fig. <InternalRef RefID="Fig20">3.20</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig19">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.19</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Sensor cube for use in therapy</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO19">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig19_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+<Figure Category="Standard" Float="Yes" ID="Fig20">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.20</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Wireless charging of a cube</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO20">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig20_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+</Para>
+          </Section2>
+          <Section2 ID="Sec36">
+            <Heading>Multi-Function Board</Heading>
+            <Para ID="Par113">As a second means of therapy with instrumented objects, an electronic variant of the multi-function board was investigated. Such board consists of a matrix of 8 × 8 holes, where the patient has to put object into those in a pre-given way and as fast as possible. An electronic variant used a sensor node for remotely controlling such a device and allowing active interplay of the patient with a multi-function board. Thereby, the patient is visually instructed where to put objects in the holes, whereas the board automatically detects whether task was successfully completed.</Para>
+            <Para ID="Par114">The technical concept was using configurable RGB LEDs for illuminating holes with different colours and respective photo-resistive diodes in each hole to determine whether objects have been placed or not. An example of such application is depicted in Fig. <InternalRef RefID="Fig21">3.21</InternalRef>. There, the task was to put bars into each hole of a row that was illumined by red light. When the sensor node detects a bar inside a hole—by sensing changes of reflected light by diodes—it changes the luminous colour from red to green. Note that this work is still under development.<Figure Category="Standard" Float="Yes" ID="Fig21">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3.21</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Example use of the sensor-fitted multi-function board. The board automatically recognises plugging objects in and provides optical feedback for the patient (here <Emphasis Type="Italic">green light</Emphasis> for correct input of bar in respective hole)</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO21">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_3_Fig21_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure>
+</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec37">
+          <Heading>Conclusions</Heading>
+          <Para ID="Par115">This chapter introduces the design and performance of the GHOST platform, which is a tiny sensor platform with inertial sensors, Qi compliant wireless power transfer and an embedded BT-LE (Bluetooth 4.0) front end. In full package, the complete GHOST sensor platform is of matchbox size only, including a Lithium cell battery pack and a receiver coil for wireless power transfer. In addition, the second version of GHOST features a novel security chip offering efficient data encryption means using a highly secure ECC hardware.</Para>
+          <Para ID="Par116">The GHOST sensor allows detection of daily living activities of people under rehabilitation. Following the prerequisites set by therapist and physicians, the use case scenario for patients is extremely user-friendly. The GHOST system is worn on the wrist of the affected arm like a watch. There are only two actions per day required by the patient, i.e. the patient has to take the sensor from the charging station and put it on the wrist in the morning, and merely put it back to the charging station in the evening. The sensor will automatically collect necessary data during the day and transfer it into a PHR over night while charging.</Para>
+        </Section1>
+      </Body>
+      <BodyRef FileRef="978-3-319-21293-7_Chapter_3.pdf" OutputMedium="Online" PDFType="Typeset" TargetType="OnlinePDF"/>
+      <ChapterBackmatter>
+        <Bibliography ID="Bib1">
+          <Heading>References</Heading>
+          <Citation ID="CR1">
+            <CitationNumber>1.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>VM</Initials>
+                <FamilyName>Pomeroy</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>E</Initials>
+                <FamilyName>Evans</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>JD</Initials>
+                <FamilyName>Richards</FamilyName>
+              </BibAuthorName>
+              <Year>2006</Year>
+              <ArticleTitle Language="En">Agreement between an electrogoniometer and motion analysis system measuring angular velocity of the knee during walking after stroke</ArticleTitle>
+              <JournalTitle>Physiotherapy</JournalTitle>
+              <VolumeID>92</VolumeID>
+              <IssueID>3</IssueID>
+              <FirstPage>159</FirstPage>
+              <LastPage>165</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/j.physio.2006.02.002</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>V.M. Pomeroy, E. Evans, J.D. Richards, Agreement between an electrogoniometer and motion analysis system measuring angular velocity of the knee during walking after stroke. Physiotherapy <Emphasis Type="Bold">92</Emphasis>(3), 159–165 (2006)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR2">
+            <CitationNumber>2.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>A</Initials>
+                <FamilyName>Vega-Gonzalez</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>MH</Initials>
+                <FamilyName>Granat</FamilyName>
+              </BibAuthorName>
+              <Year>2005</Year>
+              <ArticleTitle Language="En">Continuous monitoring of upper-limb activity in a free-living environment</ArticleTitle>
+              <JournalTitle>Arch. Phys. Med. Rehabil.</JournalTitle>
+              <VolumeID>86</VolumeID>
+              <IssueID>3</IssueID>
+              <FirstPage>541</FirstPage>
+              <LastPage>548</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/j.apmr.2004.04.049</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>A. Vega-Gonzalez, M.H. Granat, Continuous monitoring of upper-limb activity in a free-living environment. Arch. Phys. Med. Rehabil. <Emphasis Type="Bold">86</Emphasis>(3), 541–548 (2005)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR3">
+            <CitationNumber>3.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>K</Initials>
+                <FamilyName>Aminian</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>B</Initials>
+                <FamilyName>Najafi</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>C</Initials>
+                <FamilyName>Bula</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>PF</Initials>
+                <FamilyName>Leyvraz</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>P</Initials>
+                <FamilyName>Robert</FamilyName>
+              </BibAuthorName>
+              <Year>2002</Year>
+              <ArticleTitle Language="En">Spatio-temporal parameters of gait measured by an ambulatory system using miniature gyroscopes</ArticleTitle>
+              <JournalTitle>J. Biomech.</JournalTitle>
+              <VolumeID>35</VolumeID>
+              <IssueID>5</IssueID>
+              <FirstPage>689</FirstPage>
+              <LastPage>699</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/S0021-9290(02)00008-8</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>K. Aminian, B. Najafi, C. Bula, P.F. Leyvraz, P. Robert, Spatio-temporal parameters of gait measured by an ambulatory system using miniature gyroscopes. J. Biomech. <Emphasis Type="Bold">35</Emphasis>(5), 689–699 (2002)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR4">
+            <CitationNumber>4.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>E</Initials>
+                <FamilyName>Bernmark</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>C</Initials>
+                <FamilyName>Wiktorin</FamilyName>
+              </BibAuthorName>
+              <Year>2002</Year>
+              <ArticleTitle Language="En">A triaxial accelerometer for measuring arm movements</ArticleTitle>
+              <JournalTitle>Appl. Ergon.</JournalTitle>
+              <VolumeID>33</VolumeID>
+              <IssueID>6</IssueID>
+              <FirstPage>541</FirstPage>
+              <LastPage>548</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/S0003-6870(02)00072-8</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>E. Bernmark, C. Wiktorin, A triaxial accelerometer for measuring arm movements. Appl. Ergon. <Emphasis Type="Bold">33</Emphasis>(6), 541–548 (2002)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR5">
+            <CitationNumber>5.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>AV</Initials>
+                <FamilyName>Rowlands</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>PWM</Initials>
+                <FamilyName>Thomas</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>RG</Initials>
+                <FamilyName>Eston</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>R</Initials>
+                <FamilyName>Topping</FamilyName>
+              </BibAuthorName>
+              <Year>2004</Year>
+              <ArticleTitle Language="En">Validation of the RT3 triaxial accelerometer for the assessment of physical activity</ArticleTitle>
+              <JournalTitle>Med. Sci. Sports. Exerc.</JournalTitle>
+              <VolumeID>36</VolumeID>
+              <IssueID>3</IssueID>
+              <FirstPage>518</FirstPage>
+              <LastPage>524</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1249/01.MSS.0000117158.14542.E7</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>A.V. Rowlands, P.W.M. Thomas, R.G. Eston, R. Topping, Validation of the RT3 triaxial accelerometer for the assessment of physical activity. Med. Sci. Sports. Exerc. <Emphasis Type="Bold">36</Emphasis>(3), 518–524 (2004)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR6">
+            <CitationNumber>6.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>G</Initials>
+                <FamilyName>Uswatte</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>WH</Initials>
+                <FamilyName>Miltner</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>B</Initials>
+                <FamilyName>Foo</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Varma</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>S</Initials>
+                <FamilyName>Moran</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>E</Initials>
+                <FamilyName>Taub</FamilyName>
+              </BibAuthorName>
+              <Year>2000</Year>
+              <ArticleTitle Language="En">Objective measurement of functional upper-extremity movement using accelerometer recordings transformed with a threshold filter</ArticleTitle>
+              <JournalTitle>Stroke</JournalTitle>
+              <VolumeID>31</VolumeID>
+              <IssueID>3</IssueID>
+              <FirstPage>662</FirstPage>
+              <LastPage>667</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1161/01.STR.31.3.662</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>G. Uswatte, W.H. Miltner, B. Foo, M. Varma, S. Moran, E. Taub, Objective measurement of functional upper-extremity movement using accelerometer recordings transformed with a threshold filter. Stroke <Emphasis Type="Bold">31</Emphasis>(3), 662–667 (2000)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR7">
+            <CitationNumber>7.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>G</Initials>
+                <FamilyName>Uswatte</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>WL</Initials>
+                <FamilyName>Foo</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Olmstead</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>K</Initials>
+                <FamilyName>Lopez</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>A</Initials>
+                <FamilyName>Holland</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>LB</Initials>
+                <FamilyName>Simms</FamilyName>
+              </BibAuthorName>
+              <Year>2005</Year>
+              <ArticleTitle Language="En">Ambulatory monitoring of arm movement using accelerometry: an objective measure of upper-extremity rehabilitation in persons with chronic stroke</ArticleTitle>
+              <JournalTitle>Arch. Phys. Med. Rehabil.</JournalTitle>
+              <VolumeID>86</VolumeID>
+              <IssueID>7</IssueID>
+              <FirstPage>1498</FirstPage>
+              <LastPage>1501</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/j.apmr.2005.01.010</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>G. Uswatte, W.L. Foo, H. Olmstead, K. Lopez, A. Holland, L.B. Simms, Ambulatory monitoring of arm movement using accelerometry: an objective measure of upper-extremity rehabilitation in persons with chronic stroke. Arch. Phys. Med. Rehabil. <Emphasis Type="Bold">86</Emphasis>(7), 1498–1501 (2005)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR8">
+            <CitationNumber>8.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>T</Initials>
+                <FamilyName>Ebata</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>S</Initials>
+                <FamilyName>Iwasaki</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>R</Initials>
+                <FamilyName>Kamide</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Niimura</FamilyName>
+              </BibAuthorName>
+              <Year>2001</Year>
+              <ArticleTitle Language="En">Use of a wrist activity monitor for the measurement of nocturnal scratching in patients with atopic dermatitis</ArticleTitle>
+              <JournalTitle>Br. J. Dermatol.</JournalTitle>
+              <VolumeID>144</VolumeID>
+              <IssueID>2</IssueID>
+              <FirstPage>305</FirstPage>
+              <LastPage>309</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1046/j.1365-2133.2001.04019.x</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>T. Ebata, S. Iwasaki, R. Kamide, M. Niimura, Use of a wrist activity monitor for the measurement of nocturnal scratching in patients with atopic dermatitis. Br. J. Dermatol. <Emphasis Type="Bold">144</Emphasis>(2), 305–309 (2001)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR9">
+            <CitationNumber>9.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>C</Initials>
+                <FamilyName>Fairfield-Estill</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>LA</Initials>
+                <FamilyName>MacDonald</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>TB</Initials>
+                <FamilyName>Wenzl</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>MR</Initials>
+                <FamilyName>Peterson</FamilyName>
+              </BibAuthorName>
+              <Year>2000</Year>
+              <ArticleTitle Language="En">Use of accelerometers as an ergonomic assessment method for arm acceleration: a large-scale field trial</ArticleTitle>
+              <JournalTitle>Ergonomics</JournalTitle>
+              <VolumeID>43</VolumeID>
+              <IssueID>9</IssueID>
+              <FirstPage>1430</FirstPage>
+              <LastPage>1445</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1080/001401300421842</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>C. Fairfield-Estill, L.A. MacDonald, T.B. Wenzl, M.R. Peterson, Use of accelerometers as an ergonomic assessment method for arm acceleration: a large-scale field trial. Ergonomics <Emphasis Type="Bold">43</Emphasis>(9), 1430–1445 (2000)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR10">
+            <CitationNumber>10.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Kumahara</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Tanaka</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>Y</Initials>
+                <FamilyName>Schutz</FamilyName>
+              </BibAuthorName>
+              <Year>2004</Year>
+              <ArticleTitle Language="En">Daily physical activity assessment: what is the importance of upper limb movements vs. whole body movements?</ArticleTitle>
+              <JournalTitle>Int. J. Obes. Relat. Metab. Disord.</JournalTitle>
+              <VolumeID>28</VolumeID>
+              <IssueID>9</IssueID>
+              <FirstPage>1105</FirstPage>
+              <LastPage>1110</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1038/sj.ijo.0802712</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>H. Kumahara, H. Tanaka, Y. Schutz, Daily physical activity assessment: what is the importance of upper limb movements vs. whole body movements? Int. J. Obes. Relat. Metab. Disord. <Emphasis Type="Bold">28</Emphasis>(9), 1105–1110 (2004)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR11">
+            <CitationNumber>11.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Levine</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>E</Initials>
+                <FamilyName>Melanson</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>K</Initials>
+                <FamilyName>Westerterp</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Hill</FamilyName>
+              </BibAuthorName>
+              <Year>2003</Year>
+              <ArticleTitle Language="En">Tracmor system for measuring walking energy expenditure</ArticleTitle>
+              <JournalTitle>Eur. J. Clin. Nutr.</JournalTitle>
+              <VolumeID>57</VolumeID>
+              <IssueID>9</IssueID>
+              <FirstPage>1176</FirstPage>
+              <LastPage>1180</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1038/sj.ejcn.1601673</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>J. Levine, E. Melanson, K. Westerterp, J. Hill, Tracmor system for measuring walking energy expenditure. Eur. J. Clin. Nutr. <Emphasis Type="Bold">57</Emphasis>(9), 1176–1180 (2003)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR12">
+            <CitationNumber>12.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>R</Initials>
+                <FamilyName>Riener</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Ferrarin</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>E</Initials>
+                <FamilyName>Pavan</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>C</Initials>
+                <FamilyName>Frigo</FamilyName>
+              </BibAuthorName>
+              <Year>2000</Year>
+              <ArticleTitle Language="En">Patient-driven control of FES-supported standing up and sitting down: experimental results</ArticleTitle>
+              <JournalTitle>IEEE Trans. Rehabil. Eng.</JournalTitle>
+              <VolumeID>8</VolumeID>
+              <IssueID>4</IssueID>
+              <FirstPage>523</FirstPage>
+              <LastPage>529</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1109/86.895956</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>R. Riener, M. Ferrarin, E. Pavan, C. Frigo, Patient-driven control of FES-supported standing up and sitting down: experimental results. IEEE Trans. Rehabil. Eng. <Emphasis Type="Bold">8</Emphasis>(4), 523–529 (2000)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR13">
+            <CitationNumber>13.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>K</Initials>
+                <FamilyName>Tong</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Granat</FamilyName>
+              </BibAuthorName>
+              <Year>1998</Year>
+              <ArticleTitle Language="En">Virtual artificial sensor technique for functional electrical stimulation</ArticleTitle>
+              <JournalTitle>Med. Eng. Phys.</JournalTitle>
+              <VolumeID>20</VolumeID>
+              <IssueID>60</IssueID>
+              <FirstPage>458</FirstPage>
+              <LastPage>468</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/S1350-4533(98)00038-1</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>K. Tong, M. Granat, Virtual artificial sensor technique for functional electrical stimulation. Med. Eng. Phys. <Emphasis Type="Bold">20</Emphasis>(60), 458–468 (1998)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR14">
+            <CitationNumber>14.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>P</Initials>
+                <FamilyName>Veltink</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>P</Initials>
+                <FamilyName>Slycke</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Hemssems</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>R</Initials>
+                <FamilyName>Buschman</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Hermens</FamilyName>
+              </BibAuthorName>
+              <Year>2003</Year>
+              <ArticleTitle Language="En">Three-dimensional inertial sensing of foot movements for automatic tuning of a two-channel implantable drop-foot stimulator</ArticleTitle>
+              <JournalTitle>Med. Eng. Phys.</JournalTitle>
+              <VolumeID>25</VolumeID>
+              <IssueID>1</IssueID>
+              <FirstPage>21</FirstPage>
+              <LastPage>28</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/S1350-4533(02)00041-3</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>P. Veltink, P. Slycke, J. Hemssems, R. Buschman, H. Hermens, Three-dimensional inertial sensing of foot movements for automatic tuning of a two-channel implantable drop-foot stimulator. Med. Eng. Phys. <Emphasis Type="Bold">25</Emphasis>(1), 21–28 (2003)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR15">
+            <CitationNumber>15.</CitationNumber>
+            <BibUnstructured>M. Kutlu, CT. Freeman, E. Hallewell, A.-M. Hughes, D.S. Laila, Electrode-array based functional electrical stimulation for upper-limb stroke rehabilitation with innovative sensing and control, in <Emphasis Type="Italic">Technically Assisted Rehabilitation Conference (TAR 2015)</Emphasis>, Berlin, 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR16">
+            <CitationNumber>16.</CitationNumber>
+            <BibUnstructured>P. Gibbs, H. Asada, Wearable conductive fiber sensors for multi-axis human joint angle measurements, J. Neuroeng. Rehabil. <Emphasis Type="Bold">2</Emphasis>(7), 2005</BibUnstructured>
+          </Citation>
+          <Citation ID="CR17">
+            <CitationNumber>17.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Munih</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Ichie</FamilyName>
+              </BibAuthorName>
+              <Year>2001</Year>
+              <ArticleTitle Language="En">Current status and future prospects for upper and lower extremity motor system neuroprostheses</ArticleTitle>
+              <JournalTitle>Neuromodulation</JournalTitle>
+              <VolumeID>4</VolumeID>
+              <IssueID>4</IssueID>
+              <FirstPage>176</FirstPage>
+              <LastPage>186</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1046/j.1525-1403.2001.00176.x</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>M. Munih, M. Ichie, Current status and future prospects for upper and lower extremity motor system neuroprostheses. Neuromodulation <Emphasis Type="Bold">4</Emphasis>(4), 176–186 (2001)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR18">
+            <CitationNumber>18.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>Z</Initials>
+                <FamilyName>Rong</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>Z</Initials>
+                <FamilyName>Zhaoying</FamilyName>
+              </BibAuthorName>
+              <Year>2004</Year>
+              <ArticleTitle Language="En">A real-time articulated human motion tracking system using tri-axis inertial/magnetic sensors package</ArticleTitle>
+              <JournalTitle>IEEE Trans. Neural Syst. Rehabil. Eng.</JournalTitle>
+              <VolumeID>12</VolumeID>
+              <IssueID>2</IssueID>
+              <FirstPage>295</FirstPage>
+              <LastPage>302</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1109/TNSRE.2004.827825</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>Z. Rong, Z. Zhaoying, A real-time articulated human motion tracking system using tri-axis inertial/magnetic sensors package. IEEE Trans. Neural Syst. Rehabil. Eng. <Emphasis Type="Bold">12</Emphasis>(2), 295–302 (2004)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR19">
+            <CitationNumber>19.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Zhou</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Hu</FamilyName>
+              </BibAuthorName>
+              <Year>2007</Year>
+              <ArticleTitle Language="En">Inertial sensors for motion detection of human upper limbs</ArticleTitle>
+              <JournalTitle>Sens. Rev.</JournalTitle>
+              <VolumeID>27</VolumeID>
+              <IssueID>2</IssueID>
+              <FirstPage>151</FirstPage>
+              <LastPage>158</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1108/02602280710731713</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>H. Zhou, H. Hu, Inertial sensors for motion detection of human upper limbs. Sens. Rev. <Emphasis Type="Bold">27</Emphasis>(2), 151–158 (2007)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR20">
+            <CitationNumber>20.</CitationNumber>
+            <BibUnstructured>SenseWear, <ExternalRef>
+                <RefSource>http://sensewear.bodymedia.com</RefSource>
+                <RefTarget Address="http://sensewear.bodymedia.com" TargetType="URL"/>
+              </ExternalRef>. Accessed 15 Apr 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR21">
+            <CitationNumber>21.</CitationNumber>
+            <BibUnstructured>Samsung Gear Fit, <ExternalRef>
+                <RefSource>http://www.samsung.com/de/consumer/mobile-device/wearable/wearable/SM-R3500ZKADBT</RefSource>
+                <RefTarget Address="http://www.samsung.com/de/consumer/mobile-device/wearable/wearable/SM-R3500ZKADBT" TargetType="URL"/>
+              </ExternalRef>. Accessed 15 Apr 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR22">
+            <CitationNumber>22.</CitationNumber>
+            <BibUnstructured>FitnessShirt, <ExternalRef>
+                <RefSource>http://www.iis.fraunhofer.de/de/ff/med/prod/sensorik/fitnessshirt.html</RefSource>
+                <RefTarget Address="http://www.iis.fraunhofer.de/de/ff/med/prod/sensorik/fitnessshirt.html" TargetType="URL"/>
+              </ExternalRef>. Accessed 15 Apr 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR23">
+            <CitationNumber>23.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>P</Initials>
+                <FamilyName>Bonato</FamilyName>
+              </BibAuthorName>
+              <Year>2003</Year>
+              <ArticleTitle Language="En">Wearable sensors/systems and their impact on biomedical engineering</ArticleTitle>
+              <JournalTitle>IEEE Eng. Med. Biol. Mag.</JournalTitle>
+              <VolumeID>22</VolumeID>
+              <IssueID>3</IssueID>
+              <FirstPage>18</FirstPage>
+              <LastPage>20</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1109/MEMB.2003.1213622</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>P. Bonato, Wearable sensors/systems and their impact on biomedical engineering. IEEE Eng. Med. Biol. Mag. <Emphasis Type="Bold">22</Emphasis>(3), 18–20 (2003)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR24">
+            <CitationNumber>24.</CitationNumber>
+            <BibUnstructured>SMART project, <ExternalRef>
+                <RefSource>http://thesmartconsortium.org/</RefSource>
+                <RefTarget Address="http://thesmartconsortium.org/" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR25">
+            <CitationNumber>25.</CitationNumber>
+            <BibUnstructured>A. Tognetti, F. Lorussi, R. Bartalesi, S. Quaglini, M. Tesconi, G. Zupone, Wearable kinesthetic system for capturing and classifying upper limb gesture in post-stroke rehabilitation, J. Neuroeng. Rehabil. <Emphasis Type="Bold">2</Emphasis>(8), 2005</BibUnstructured>
+          </Citation>
+          <Citation ID="CR26">
+            <CitationNumber>26.</CitationNumber>
+            <BibUnstructured>T.M. Seeberg, J. Vedum, M. Sandsund, H.O. Austad, A.E. Liverud, A.-S.B. Vardøy, I. Svagård, F. Strisland, Development of a wearable multisensor device enabling continuous monitoring of vital signs and activity, in <Emphasis Type="Italic">IEEE-EMBS International Conference on Biomedical and Health Informatics</Emphasis>, Valencia, 2014</BibUnstructured>
+          </Citation>
+          <Citation ID="CR27">
+            <CitationNumber>27.</CitationNumber>
+            <BibUnstructured>F. Peter, L. Landgraf, T. Seel, T. Schauer, Using inertial measurement units for measuring body segment orientations in indoor environments, in <Emphasis Type="Italic">Technically Assisted Rehabilitation Conference (TAR 2015)</Emphasis>, Berlin, 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR28">
+            <CitationNumber>28.</CitationNumber>
+            <BibUnstructured>M. Kok, J.D. Hol, T.B. Schön, An optimization-based approach to human body motion capture using inertial sensors, in <Emphasis Type="Italic">Proceedings of the 19th World Congress of the International Federation of Automatic Control</Emphasis>, Cape Town, 2014, pp. 79–85</BibUnstructured>
+          </Citation>
+          <Citation ID="CR29">
+            <CitationNumber>29.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>AE</Initials>
+                <FamilyName>Liverud</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Vedum</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>F</Initials>
+                <FamilyName>Fleurey</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>TM</Initials>
+                <FamilyName>Seeberg</FamilyName>
+              </BibAuthorName>
+              <Year>2012</Year>
+              <ArticleTitle Language="En">Wearable wireless multi-parameter sensor module for physiological monitoring</ArticleTitle>
+              <JournalTitle>Stud. Health Technol. Inform.</JournalTitle>
+              <VolumeID>177</VolumeID>
+              <FirstPage>210</FirstPage>
+              <LastPage>215</LastPage>
+            </BibArticle>
+            <BibUnstructured>A.E. Liverud, J. Vedum, F. Fleurey, T.M. Seeberg, Wearable wireless multi-parameter sensor module for physiological monitoring. Stud. Health Technol. Inform. <Emphasis Type="Bold">177</Emphasis>, 210–215 (2012)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR30">
+            <CitationNumber>30.</CitationNumber>
+            <BibUnstructured>I. Tarkka, A. Remes, Improving disabled arm control through gaming, in <Emphasis Type="Italic">Technically Assisted Rehabilitation Conference (TAR 2015)</Emphasis>, Berlin, 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR31">
+            <CitationNumber>31.</CitationNumber>
+            <BibUnstructured>H. Weber, Technically assisted rehabilitation of the hand after stroke by means of the HFD 200 hand and finger dynamometer, in <Emphasis Type="Italic">Technically Assisted Rehabilitation Conference (TAR 2015)</Emphasis>, Berlin, 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR32">
+            <CitationNumber>32.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>D</Initials>
+                <FamilyName>Biswas</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>A</Initials>
+                <FamilyName>Cranny</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>N</Initials>
+                <FamilyName>Gupta</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>K</Initials>
+                <FamilyName>Maharatna</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Achner</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Klemke</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Jöbges</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>S</Initials>
+                <FamilyName>Ortmann</FamilyName>
+              </BibAuthorName>
+              <Year>2015</Year>
+              <ArticleTitle Language="En">Recognizing upper limb movements with wrist worn inertial sensors using k-means clustering classification</ArticleTitle>
+              <JournalTitle>Hum. Mov. Sci.</JournalTitle>
+              <VolumeID>40</VolumeID>
+              <FirstPage>59</FirstPage>
+              <LastPage>76</LastPage>
+              <BibArticleDOI>10.1016/j.humov.2014.11.013</BibArticleDOI>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/j.humov.2014.11.013</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>D. Biswas, A. Cranny, N. Gupta, K. Maharatna, J. Achner, J. Klemke, M. Jöbges, S. Ortmann, Recognizing upper limb movements with wrist worn inertial sensors using k-means clustering classification. Hum. Mov. Sci. <Emphasis Type="Bold">40</Emphasis>, 59–76 (2015). doi:<ExternalRef>
+                <RefSource>10.1016/j.humov.2014.11.013</RefSource>
+                <RefTarget Address="10.1016/j.humov.2014.11.013" TargetType="DOI"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR33">
+            <CitationNumber>33.</CitationNumber>
+            <BibUnstructured>D. Biswas, A. Cranny, A.F. Rahim, N. Gupta, N. R. Harris, K. Maharatna, S. Ortmann, On the data analysis for classification of elementary upper limb movements, Biomed. Eng. Lett. <Emphasis Type="Bold">4</Emphasis>(4), 403–413 (2014). ISSN: 2093-9868 (print) 2093-985X (online), doi: <ExternalRef>
+                <RefSource>10.1007/s13534-014-0160-0</RefSource>
+                <RefTarget Address="10.1007/s13534-014-0160-0" TargetType="DOI"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR34">
+            <CitationNumber>34.</CitationNumber>
+            <BibUnstructured>Shimmer, <ExternalRef>
+                <RefSource>www.shimmersensing.com</RefSource>
+                <RefTarget Address="http://www.shimmersensing.com" TargetType="URL"/>
+              </ExternalRef>. Accessed 15 Apr 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR35">
+            <CitationNumber>35.</CitationNumber>
+            <BibUnstructured>Xsens Technologies B.V., <ExternalRef>
+                <RefSource>www.xsens.com</RefSource>
+                <RefTarget Address="http://www.xsens.com" TargetType="URL"/>
+              </ExternalRef>. Accessed 15 Apr 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR36">
+            <CitationNumber>36.</CitationNumber>
+            <BibUnstructured>Wireless power Consortium (15/4/2015), <ExternalRef>
+                <RefSource>http://www.wirelesspowerconsortium.com</RefSource>
+                <RefTarget Address="http://www.wirelesspowerconsortium.com" TargetType="URL"/>
+              </ExternalRef>. Accessed 15 Apr 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR37">
+            <CitationNumber>37.</CitationNumber>
+            <BibUnstructured>Odenwälder Kunststoffwerke Gehäusesysteme GmbH, <ExternalRef>
+                <RefSource>http://www.okw.de</RefSource>
+                <RefTarget Address="http://www.okw.de" TargetType="URL"/>
+              </ExternalRef>. Accessed 15 Apr 2015</BibUnstructured>
+          </Citation>
+          <Citation ID="CR38">
+            <CitationNumber>38.</CitationNumber>
+            <BibUnstructured>Griffin Technology: slap for iPod nano, <ExternalRef>
+                <RefSource>http://store.griffintechnology.com/slap</RefSource>
+                <RefTarget Address="http://store.griffintechnology.com/slap" TargetType="URL"/>
+              </ExternalRef>. Accessed 15 Apr 2015</BibUnstructured>
+          </Citation>
+        </Bibliography>
+      </ChapterBackmatter>
+    </Chapter>
+  </Book>
+</Publisher>

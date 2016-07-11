@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+   <PublisherInfo>
+      <PublisherName>Springer-Verlag</PublisherName>
+      <PublisherLocation>Tokyo</PublisherLocation>
+   </PublisherInfo>
+   <Journal>
+      <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+         <JournalID>10047</JournalID>
+         <JournalPrintISSN>1434-7229</JournalPrintISSN>
+         <JournalElectronicISSN>1619-0904</JournalElectronicISSN>
+         <JournalTitle>Journal of Artificial Organs</JournalTitle>
+         <JournalAbbreviatedTitle>J Artif Organs</JournalAbbreviatedTitle>
+         <JournalSubjectGroup>
+            <JournalSubject Type="Primary">Medicine &amp; Public Health</JournalSubject>
+            <JournalSubject Type="Secondary">Hepatology</JournalSubject>
+            <JournalSubject Type="Secondary">Nephrology</JournalSubject>
+            <JournalSubject Type="Secondary">Orthopedics</JournalSubject>
+            <JournalSubject Type="Secondary">Surgery</JournalSubject>
+            <JournalSubject Type="Secondary">Cardiac Surgery</JournalSubject>
+            <JournalSubject Type="Secondary">Biomedical Engineering</JournalSubject>
+         </JournalSubjectGroup>
+      </JournalInfo>
+      <Volume>
+         <VolumeInfo TocLevels="0" VolumeType="Regular">
+            <VolumeIDStart>3</VolumeIDStart>
+            <VolumeIDEnd>3</VolumeIDEnd>
+            <VolumeIssueCount>2</VolumeIssueCount>
+         </VolumeInfo>
+         <Issue IssueType="Regular">
+            <IssueInfo TocLevels="0">
+               <IssueIDStart>2</IssueIDStart>
+               <IssueIDEnd>2</IssueIDEnd>
+               <IssueArticleCount>21</IssueArticleCount>
+               <IssueHistory>
+                  <CoverDate>
+                     <DateString>2000</DateString>
+                     <Year>2000</Year>
+                     <Month>9</Month>
+                  </CoverDate>
+               </IssueHistory>
+               <IssueCopyright>
+                  <CopyrightHolderName>The Japanese Society for Artificial Organs</CopyrightHolderName>
+                  <CopyrightYear>2000</CopyrightYear>
+               </IssueCopyright>
+            </IssueInfo>
+            <Article ID="Art12">
+               <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En"
+                            NumberingStyle="Unnumbered"
+                            TocLevels="0">
+                  <ArticleID>BF02479977</ArticleID>
+                  <ArticleDOI>10.1007/BF02479977</ArticleDOI>
+                  <ArticleSequenceNumber>12</ArticleSequenceNumber>
+                  <ArticleTitle Language="En">Application of automatic ultrafiltration controller with blood monitor for home hemodialysis patients</ArticleTitle>
+                  <ArticleCategory>Original Article</ArticleCategory>
+                  <ArticleFirstPage>117</ArticleFirstPage>
+                  <ArticleLastPage>119</ArticleLastPage>
+                  <ArticleHistory>
+                     <RegistrationDate>
+                        <Year>2006</Year>
+                        <Month>8</Month>
+                        <Day>4</Day>
+                     </RegistrationDate>
+                     <Received>
+                        <Year>1999</Year>
+                        <Month>10</Month>
+                        <Day>16</Day>
+                     </Received>
+                     <Accepted>
+                        <Year>2000</Year>
+                        <Month>1</Month>
+                        <Day>19</Day>
+                     </Accepted>
+                  </ArticleHistory>
+                  <ArticleCopyright>
+                     <CopyrightHolderName>The Japanese Society for Artificial Organs</CopyrightHolderName>
+                     <CopyrightYear>2000</CopyrightYear>
+                  </ArticleCopyright>
+                  <ArticleGrants Type="Regular">
+                     <MetadataGrant Grant="OpenAccess"/>
+                     <AbstractGrant Grant="OpenAccess"/>
+                     <BodyPDFGrant Grant="Restricted"/>
+                     <BodyHTMLGrant Grant="Restricted"/>
+                     <BibliographyGrant Grant="Restricted"/>
+                     <ESMGrant Grant="Restricted"/>
+                  </ArticleGrants>
+                  <ArticleContext>
+                     <JournalID>10047</JournalID>
+                     <VolumeIDStart>3</VolumeIDStart>
+                     <VolumeIDEnd>3</VolumeIDEnd>
+                     <IssueIDStart>2</IssueIDStart>
+                     <IssueIDEnd>2</IssueIDEnd>
+                  </ArticleContext>
+               </ArticleInfo>
+               <ArticleHeader>
+                  <AuthorGroup>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Makoto</GivenName>
+                           <FamilyName>Kitamura</FamilyName>
+                           <Degrees>MD</Degrees>
+                        </AuthorName>
+                        <Contact>
+                           <Phone>+81-463-93-1121</Phone>
+                           <Fax>+81-463-96-2530</Fax>
+                           <Email>kitamura@is.icc.u-tokai.ac.jp</Email>
+                        </Contact>
+                     </Author>
+                     <Affiliation ID="Aff1">
+                        <OrgDivision>Kidney Center</OrgDivision>
+                        <OrgName>Tokai University Hospital</OrgName>
+                        <OrgAddress>
+                           <Street>Bohseidai</Street>
+                           <Postcode>259-1193</Postcode>
+                           <City>Isehara</City>
+                           <Country>Japan</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                  </AuthorGroup>
+                  <Abstract ID="Abs1" Language="En">
+                     <Heading>Abstract</Heading>
+                     <Para>We have developed a new automatic ultrafiltration control system balanced with a blood volume (BV) monitor. This system has an algorithm that automatically controls the ultrafiltration rate (UFR), making a balance with blood volume during hemodialysis (HD). This system has been used in hospitalized chronic HD patients with some complications. The frequency of hypotension events during HD sessions was significantly reduced, demonstrating that this system controls UFR very safely. Furthermore, a personal computer connected with this system records trends in blood pressure, BV, UFR, and other values of the HD console. Records of several HD sessions are filed in a floppy disk. The electronic records are easily referred to monthly by HD staff in the clinic. The real-time data also can be sent to the HD center through a computer network system. This system could be used in patients undergoing home HD.</Para>
+                  </Abstract>
+                  <KeywordGroup Language="En">
+                     <Heading>Key words</Heading>
+                     <Keyword>Home hemodialysis</Keyword>
+                     <Keyword>Ultrafiltration</Keyword>
+                     <Keyword>Blood volume</Keyword>
+                     <Keyword>Automatic control</Keyword>
+                  </KeywordGroup>
+               </ArticleHeader>
+               <BodyRef TargetType="OnlinePDF" FileRef="BodyRef/PDF/10047_2006_Article_BF02479977.pdf"/>
+               <ArticleBackmatter>
+                  <Bibliography ID="Bib1">
+                     <Heading>References</Heading>
+                     <Citation ID="CR1">
+                        <CitationNumber>1.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>JK</Initials>
+                              <FamilyName>Leypoldt</FamilyName>
+                           </BibAuthorName>
+                           <Year>1995</Year>
+                           <ArticleTitle Language="En">Determination of circulating blood volume by continuously monitoring hematocrit during hemodialysis</ArticleTitle>
+                           <JournalTitle>J Am Soc Nephrol</JournalTitle>
+                           <VolumeID>6</VolumeID>
+                           <FirstPage>214</FirstPage>
+                           <LastPage>219</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>7579087</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:BymD2czgsFQ%3D</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Leypoldt JK. Determination of circulating blood volume by continuously monitoring hematocrit during hemodialysis. J Am Soc Nephrol 1995;6:214–219</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR2">
+                        <CitationNumber>2.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>D</Initials>
+                              <FamilyName>Schneditz</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>NW</Initials>
+                              <FamilyName>Levin</FamilyName>
+                           </BibAuthorName>
+                           <Year>1997</Year>
+                           <ArticleTitle Language="En">Non-invasive blood volume monitoring during hemodialysis: technical and physiological aspects</ArticleTitle>
+                           <JournalTitle>Semin Dial</JournalTitle>
+                           <VolumeID>10</VolumeID>
+                           <FirstPage>166</FirstPage>
+                           <LastPage>169</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1111/j.1525-139X.1997.tb00481.x</Handle>
+</Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Schneditz D, Levin NW. Non-invasive blood volume monitoring during hemodialysis: technical and physiological aspects. Semin Dial 1997;10:166–169</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR3">
+                        <CitationNumber>3.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>GJ</Initials>
+                              <FamilyName>Mishkin</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>JP</Initials>
+                              <FamilyName>Bosch</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>MT</Initials>
+                              <FamilyName>Velasquez</FamilyName>
+                           </BibAuthorName>
+                           <Year>1996</Year>
+                           <ArticleTitle Language="En">Quantification of dry weight (DW) by continuous hematocrit (HCT) monitoring in hemodialysis patients</ArticleTitle>
+                           <JournalTitle>J Am Soc Nephrol</JournalTitle>
+                           <VolumeID>7</VolumeID>
+                           <FirstPage>1522</FirstPage>
+                           <LastPage>1522</LastPage>
+                        </BibArticle>
+                        <BibUnstructured>Mishkin GJ, Bosch JP, Velasquez MT. Quantification of dry weight (DW) by continuous hematocrit (HCT) monitoring in hemodialysis patients. J Am Soc Nephrol 1996;7:1522</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR4">
+                        <CitationNumber>4.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>R</Initials>
+                              <FamilyName>Steuer</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>M</Initials>
+                              <FamilyName>Germain</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>J</Initials>
+                              <FamilyName>Leypoldt</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A</Initials>
+                              <FamilyName>Cheung</FamilyName>
+                           </BibAuthorName>
+                           <Year>1996</Year>
+                           <ArticleTitle Language="En">Enhanced fluid removal guided by blood volume monitoring during chronic hemodialysis</ArticleTitle>
+                           <JournalTitle>ASAIO J</JournalTitle>
+                           <VolumeID>42</VolumeID>
+                           <FirstPage>83</FirstPage>
+                           <LastPage>83</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1097/00002480-199603000-00312</Handle>
+</Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Steuer R, Germain M, Leypoldt J, Cheung A. Enhanced fluid removal guided by blood volume monitoring during chronic hemodialysis. ASAIO J 1996;42:83</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR5">
+                        <CitationNumber>5.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>A</Initials>
+                              <FamilyName>Santoro</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>E</Initials>
+                              <FamilyName>Mancini</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>F</Initials>
+                              <FamilyName>Paolini</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>M</Initials>
+                              <FamilyName>Spongano</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>P</Initials>
+                              <FamilyName>Zucchelli</FamilyName>
+                           </BibAuthorName>
+                           <Year>1994</Year>
+                           <ArticleTitle Language="En">Automatic control of blood volume trends during hemodialysis</ArticleTitle>
+                           <JournalTitle>ASAIO J</JournalTitle>
+                           <VolumeID>40</VolumeID>
+                           <FirstPage>M419</FirstPage>
+                           <LastPage>M422</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>8555549</Handle>
+                           </Occurrence>
+                           <Occurrence Type="COI">
+                              <Handle>1:STN:280:BymC2crjvFc%3D</Handle>
+                           </Occurrence>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1097/00002480-199407000-00033</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Santoro A, Mancini E, Paolini F, Spongano M, Zucchelli P. Automatic control of blood volume trends during hemodialysis. ASAIO J 1994;40:M419-M422</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR6">
+                        <CitationNumber>6.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>A</Initials>
+                              <FamilyName>Santoro</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>E</Initials>
+                              <FamilyName>Mancini</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>F</Initials>
+                              <FamilyName>Paolini</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>P</Initials>
+                              <FamilyName>Zucchelli</FamilyName>
+                           </BibAuthorName>
+                           <Year>1996</Year>
+                           <ArticleTitle Language="En">Blood volume monitoring and control</ArticleTitle>
+                           <JournalTitle>Nephrol Dial Transplant</JournalTitle>
+                           <VolumeID>11</VolumeID>
+                           <IssueID>suppl 2</IssueID>
+                           <FirstPage>42</FirstPage>
+                           <LastPage>47</LastPage>
+                           <Occurrence Type="PID">
+                              <Handle>8803995</Handle>
+                           </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1093/ndt/11.supp2.42</Handle>
+</Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Santoro A, Mancini E, Paolini F, Zucchelli P. Blood volume monitoring and control. Nephrol Dial Transplant 1996;11(suppl 2):42–47</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR7">
+                        <CitationNumber>7.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>M</Initials>
+                              <FamilyName>Kitamura</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S</Initials>
+                              <FamilyName>Tanaka</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A</Initials>
+                              <FamilyName>Saito</FamilyName>
+                           </BibAuthorName>
+                           <Year>1999</Year>
+                           <ArticleTitle Language="En">Development of a new automatic hematocrit balanced ultrafiltration (AHBUF) controller connected with blood volume monitor</ArticleTitle>
+                           <JournalTitle>Artif Organs</JournalTitle>
+                           <VolumeID>23</VolumeID>
+                           <FirstPage>651</FirstPage>
+                           <LastPage>651</LastPage>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1046/j.1525-1594.1999.06317.x</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Kitamura M, Tanaka S, Saito A. Development of a new automatic hematocrit balanced ultrafiltration (AHBUF) controller connected with blood volume monitor. Artif Organs 1999;23:651</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR8">
+                        <CitationNumber>8.</CitationNumber>
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>M</Initials>
+                              <FamilyName>Kitamura</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>S</Initials>
+                              <FamilyName>Tanaka</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A</Initials>
+                              <FamilyName>Saito</FamilyName>
+                           </BibAuthorName>
+                           <Year>1999</Year>
+                           <ArticleTitle Language="En">Clinical application of a new automatic hematocrit balanced ultrafiltration (AHBUF) controller and study of changes on plasma refilling rates in chronic hemodialysis patients</ArticleTitle>
+                           <JournalTitle>Artif Organs</JournalTitle>
+                           <VolumeID>23</VolumeID>
+                           <FirstPage>651</FirstPage>
+                           <LastPage>651</LastPage>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1046/j.1525-1594.1999.06317.x</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Kitamura M, Tanaka S, Saito A. Clinical application of a new automatic hematocrit balanced ultrafiltration (AHBUF) controller and study of changes on plasma refilling rates in chronic hemodialysis patients. Artif Organs 1999;23:651</BibUnstructured>
+                     </Citation>
+                  </Bibliography>
+               </ArticleBackmatter>
+            </Article>
+         </Issue>
+      </Volume>
+   </Journal>
+</Publisher>

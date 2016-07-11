@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Converted from Majour with majour2a++ V1.5 --><!--Automatically converted from version 2.3 to 2.4--><!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+
+   <PublisherInfo>
+
+      <PublisherName>Birkhäuser Verlag</PublisherName>
+
+      <PublisherLocation>Basel</PublisherLocation>
+
+   </PublisherInfo>
+
+   <Journal>
+
+      <JournalInfo JournalProductType="Legacy" NumberingStyle="Unnumbered">
+
+         <JournalID>23</JournalID>
+
+         <JournalPrintISSN>1424-0637</JournalPrintISSN>
+
+         <JournalSPIN/>
+
+         <JournalTitle>Annales Henri Poincaré</JournalTitle>
+
+         <JournalSubTitle>A Journal of Theoretical and Mathematical Physics</JournalSubTitle>
+
+         <JournalAbbreviatedTitle>Ann. Henri Poincaré</JournalAbbreviatedTitle>
+         <JournalSubjectGroup>
+            <JournalSubject Type="Primary">Legacy</JournalSubject>
+         </JournalSubjectGroup>
+
+      </JournalInfo>
+
+      <Volume>
+
+         <VolumeInfo VolumeType="Regular">
+            <VolumeIDStart>1</VolumeIDStart>
+            <VolumeIDEnd>1</VolumeIDEnd>
+            <VolumeIssueCount/>
+         </VolumeInfo>
+
+         <Issue IssueType="Regular">
+
+            <IssueInfo TocLevels="0">
+
+               <IssueIDStart>1</IssueIDStart>
+
+               <IssueIDEnd>1</IssueIDEnd>
+
+               <IssueHistory>
+
+                  <PrintDate>
+
+                     <Year>2000</Year>
+
+                     <Month>02</Month>
+
+                     <Day/>
+
+                  </PrintDate>
+
+                  <CoverDate>
+
+                     <Year>2000</Year>
+
+                     <Month>02</Month>
+
+                  </CoverDate>
+
+               </IssueHistory>
+
+               <IssueCopyright>
+
+                  <CopyrightHolderName>Birkhäuser Verlag Basel,</CopyrightHolderName>
+
+                  <CopyrightYear>2000</CopyrightYear>
+
+               </IssueCopyright>
+
+            </IssueInfo>
+
+            <Article ID="Art1">
+
+               <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+
+                  <ArticleID>4</ArticleID>
+
+                  <ArticleDOI>10.1007/PL00001000</ArticleDOI>
+
+                  <ArticleTitle Language="En">Solution of Certain Integrable Dynamical Systems of Ruijsenaars-Schneider Type with CompletelyPeriodic Trajectories</ArticleTitle>
+
+                  <ArticleSubTitle Language="En"/>
+
+                  <ArticleCategory/>
+
+                  <ArticleFirstPage>173</ArticleFirstPage>
+
+                  <ArticleLastPage>191</ArticleLastPage>
+
+                  <ArticleCopyright>
+
+                     <CopyrightHolderName>Birkhäuser Verlag Basel,</CopyrightHolderName>
+
+                     <CopyrightYear>2000</CopyrightYear>
+
+                  </ArticleCopyright>
+                  <ArticleGrants>
+                     <MetadataGrant Grant="OpenAccess"/>
+                     <AbstractGrant Grant="OpenAccess"/>
+                     <BodyPDFGrant Grant="Restricted"/>
+                     <BodyHTMLGrant Grant="Restricted"/>
+                     <BibliographyGrant Grant="Restricted"/>
+                     <ESMGrant Grant="Restricted"/>
+                  </ArticleGrants>
+
+               </ArticleInfo>
+
+               <ArticleHeader>
+
+                  <AuthorGroup>
+
+                     <Author AffiliationIDS="A1">
+
+                        <AuthorName DisplayOrder="Western">
+
+                           <GivenName>F.</GivenName>
+
+                           <FamilyName>Calogero</FamilyName>
+
+                        </AuthorName>
+
+                     </Author>
+
+                     <Author AffiliationIDS="A2">
+
+                        <AuthorName DisplayOrder="Western">
+
+                           <GivenName>J.P.</GivenName>
+
+                           <FamilyName>Françoise</FamilyName>
+
+                        </AuthorName>
+
+                     </Author>
+
+                     <Affiliation ID="A1">
+
+                        <OrgName>Professor Theoretical Physics, University of Rome I “La Sapienza” Rome, Italy</OrgName>
+
+                        <OrgAddress>
+
+                           <Street/>
+
+                           <Postbox/>
+
+                           <Postcode/>
+
+                           <City/>
+
+                           <State/>
+
+                           <Country>IT</Country>
+
+                        </OrgAddress>
+
+                     </Affiliation>
+
+                     <Affiliation ID="A2">
+
+                        <OrgName>Equipe “Géométrie et Différentielle Systèmes Dynamiques et Applications”, Université de Paris 6, UFR 920, tour 45-46, 4, place Jussieu, B.P. 172, F-75252 Paris, France</OrgName>
+
+                        <OrgAddress>
+
+                           <Street/>
+
+                           <Postbox/>
+
+                           <Postcode/>
+
+                           <City/>
+
+                           <State/>
+
+                           <Country>FR</Country>
+
+                        </OrgAddress>
+
+                     </Affiliation>
+
+                  </AuthorGroup>
+
+                  <Abstract ID="Abs1" Language="En">
+
+                     <Heading>Abstract.</Heading>
+
+                     <Para> The first main result of this paper is the solution of the (complex) equations of motion <InlineEquation ID="Equ1">
+
+                           <EquationSource Format="TEX">
+$\ddot{z}_j + {\rm i} \Omega \dot{z}_j = \sum^n_{k=1, k\not= j} \dot{z}_j\dot{z}_k f (z_j - z_k)$ with $f (z) = 2a~ {\rm cotgh}~ (az)/ [1 + r^2 {\rm sinh}^2 (az)]$</EquationSource>
+
+                        </InlineEquation>, and the consequent confirmation of the conjecture that all the trajectories of this dynamical system are completely periodic with period (at most) <InlineEquation ID="Equ2">
+
+                           <EquationSource Format="TEX">
+$T' = T n!, T = 2 \pi /\Omega$</EquationSource>
+
+                        </InlineEquation>. We also discuss a symplectic reduction scheme which features new Lie-theoretic aspects for these systems. These developments are introduced here in the perspective of applying them in future studies to implement geometric quantization techniques.</Para>
+
+                  </Abstract>
+
+                  <ArticleNote Type="Misc">
+
+                     <SimplePara>Submitted 09/06/98, revised 08/01/98, accepted 22/01/99</SimplePara>
+
+                  </ArticleNote>
+
+               </ArticleHeader>
+
+               <BodyRef FileRef="BodyRef/PDF/23_2000_Article_4.pdf" TargetType="PDF"/>
+
+            </Article>
+
+         </Issue>
+
+      </Volume>
+
+   </Journal>
+
+</Publisher>

@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Type="Secondary">Computer Science, general</JournalSubject>
+        <JournalSubject Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <JournalSubject Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <JournalSubject Type="Secondary">Information Storage and Retrieval</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>1</VolumeIDStart>
+        <VolumeIDEnd>1</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>6</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>4</Month>
+              <Day>24</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2012</Year>
+              <Month>4</Month>
+              <Day>23</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>4</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-012-0006-4" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>6</ArticleID>
+            <ArticleDOI>10.1007/s13735-012-0006-4</ArticleDOI>
+            <ArticleSequenceNumber>4</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Multimodal Image Retrieval</ArticleTitle>
+            <ArticleSubTitle Language="En" OutputMedium="All">Fusing modalities with multilayer multimodal pLSA</ArticleSubTitle>
+            <ArticleCategory>Invited Paper</ArticleCategory>
+            <ArticleFirstPage>31</ArticleFirstPage>
+            <ArticleLastPage>44</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+              </Received>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Stefan</GivenName>
+                  <FamilyName>Romberg</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>Stefan.romberg@informatik.uni-augsburg.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Rainer</GivenName>
+                  <FamilyName>Lienhart</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>lienhart@informatik.uni-augsburg.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Eva</GivenName>
+                  <FamilyName>Hörster</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Multimedia Computing and Computer Vision Lab</OrgDivision>
+                <OrgName>University of Augsburg</OrgName>
+                <OrgAddress>
+                  <City>Augsburg</City>
+                  <Country Code="DE">Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para>In this work, we extend the standard single-layer <Emphasis Type="Italic">probabilistic Latent Semantic Analysis</Emphasis> (<Emphasis Type="Italic">pLSA</Emphasis>) (Hofmann in Mach Learn 42(1–2):177–196, <CitationRef CitationID="CR16">2001</CitationRef>) to multiple layers. As multiple layers should naturally handle multiple modalities and a hierarchy of abstractions, we denote this new approach <Emphasis Type="Italic">multilayer multimodal probabilistic Latent Semantic Analysis</Emphasis> (<Emphasis Type="Italic">mm-pLSA</Emphasis>). We derive the training and inference rules for the smallest possible non-degenerated mm-pLSA model: a model with two leaf-pLSAs and a single top-level pLSA node merging the two leaf-pLSAs. We evaluate this approach on two pairs of different modalities: SIFT features and image annotations (tags) as well as the combination of SIFT and HOG features. We also propose a fast and strictly stepwise forward procedure to initialize the bottom–up mm-pLSA model, which in turn can then be post-optimized by the general mm-pLSA learning algorithm. The proposed approach is evaluated in a query-by-example retrieval task where various variants of our mm-pLSA system are compared to systems relying on a single modality and other ad-hoc combinations of feature histograms. We further describe possible pitfalls of the mm-pLSA training and analyze the resulting model yielding an intuitive explanation of its behaviour.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Topic models</Keyword>
+              <Keyword>Image retrieval</Keyword>
+              <Keyword>Hierarchical pLSA</Keyword>
+              <Keyword>pLSA</Keyword>
+              <Keyword>SIFT</Keyword>
+              <Keyword>HOG</Keyword>
+              <Keyword>Image annotation</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>Many content-based image retrieval systems either solely rely on visual features or on text features to derive a representation of the image content. This is especially true for systems using topic models based on <Emphasis Type="Italic">probabilistic Latent Semantic Analysis</Emphasis> (<Emphasis Type="Italic">pLSA</Emphasis>) [<CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR22">22</CitationRef>]. There are good reasons why pLSA is applied to unimodal data: The straightforward application of pLSA to multimodal data by subsuming all words of the various modes (which are generally derived from appropriate features of the respective modality) into one large word set (called vocabulary) frequently does not lead to the expected improvement in retrieval performance. Even mixing words derived from different kinds of features within one domain such as different kinds of visual salient point descriptors (e.g., SIFT [<CitationRef CitationID="CR23">23</CitationRef>], SURF [<CitationRef CitationID="CR2">2</CitationRef>], Geometric blur [<CitationRef CitationID="CR3">3</CitationRef>], or self-similarity feature [<CitationRef CitationID="CR28">28</CitationRef>]) using different sampling strategies (e.g., dense versus sparse sampling) does not work satisfactorily with this obvious application of pLSA.</Para>
+              <Para>Thus, we propose a multilayer multimodal pLSA model (referred to as <Emphasis Type="Italic">mm-pLSA</Emphasis>) that can handle different modalities as well as different features within a mode effectively and efficiently. This model utilizes not just a single layer of topics or aspects, but a hierarchy of topics. We introduce the overall approach by using the smallest possible non-degenerated mm-pLSA model: a model with two separate sets of (leaf-)topics for data from two different modes and a set of top-level topics that merges the knowledge of the two sets of leaf-topics. This approach resembles somewhat the computation of two independent leaf-pLSAs from two different data modalities, whose topics in turn are merged by a single top-level pLSA node, and thus lends the proposed approach its name: <Emphasis Type="Italic">mm-pLSA</Emphasis>. From this derivation, it is obvious how to extend the learning and inference rules to more modalities and more layers. We also propose a fast and strictly stepwise forward procedure to initialize the bottom–up mm-pLSA model that leads to much better learning results of the mm-pLSA learning algorithm compared to random initialization.</Para>
+              <Para>The paper is organized as follows. Section <InternalRef RefID="Sec2">2</InternalRef> summarizes related work. In Sect. <InternalRef RefID="Sec3">3</InternalRef>, we first describe the model of the standard pLSA algorithm (Sect. <InternalRef RefID="Sec4">3.1</InternalRef>) as well as how to learn a pLSA model in general (Sect. <InternalRef RefID="Sec5">3.2</InternalRef>) and specifically from the visual features (Sect. <InternalRef RefID="Sec6">3.3</InternalRef>) and tag features (Sect. <InternalRef RefID="Sec8">3.5</InternalRef>). Classification of a new image or text document is also addressed. Then, Sect. <InternalRef RefID="Sec9">4</InternalRef> presents the core novelty of our work in detail: the <Emphasis Type="Italic">multilayer multimodal probabilistic Latent Semantic Analysis</Emphasis> model (<Emphasis Type="Italic">mm-pLSA</Emphasis>). It starts in Sect. <InternalRef RefID="Sec10">4.1</InternalRef> with a motivation and a detailed explanation of the model, before we derive the training and inference steps in Sect. <InternalRef RefID="Sec11">4.2</InternalRef>. A heuristic for fast and good initialization of the multilayer multimodal pLSA model is presented in Sect. <InternalRef RefID="Sec12">4.3</InternalRef> and carefully evaluated in Sect. <InternalRef RefID="Sec13">5</InternalRef> on a large-scale database consisting of 10 million images downloaded from Flickr. Our proposed mm-pLSA-based image retrieval system is compared to systems relying solely on visual features [<CitationRef CitationID="CR22">22</CitationRef>] or tag features as well as to a pLSA-based system with the combined vocabulary set from the visual and tag domain. Moreover, we compare the mm-pLSA based image retrieval system on multiple, same domain features to systems based on a single feature and other ad-hoc combinations of these. In addition, further insights of the resulting model are presented before Sect. <InternalRef RefID="Sec18">6</InternalRef> concludes the paper.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Related work</Heading>
+              <Para>Topic models have been used in several previous works to derive a low-dimensional image description suitable for large-scale image retrieval. For example,  [<CitationRef CitationID="CR22">22</CitationRef>] uses probabilistic Latent Semantic Analysis (pLSA  [<CitationRef CitationID="CR16">16</CitationRef>]) based models, [<CitationRef CitationID="CR18">18</CitationRef>] applies Latent Dirichlet Allocation (LDA [<CitationRef CitationID="CR6">6</CitationRef>]) to derive a topic representation, and [<CitationRef CitationID="CR13">13</CitationRef>] adopts the Correlated Topic Model (CTM [<CitationRef CitationID="CR4">4</CitationRef>]). However, all of the previous mentioned works build their image representation solely on visual features.</Para>
+              <Para>In [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>], the authors propose topic models to model annotated image databases. They use the models to automatically annotate images and/or image regions. One key difference of our work to those previous works is that we build an image retrieval system instead of annotating images. Moreover, the image database we use for learning and retrieval is a real-world, large-scale, 10 million images’ database in contrast to the small and almost noise-free COREL data-base that was used in the above works for learning and testing. Thus, in our case the tags associated with an image do not necessarily refer to the visual content shown. For example, they may also denote the time, date, place, or circumstances under which the picture was taken. This makes models, which try to associate image regions directly with tags, difficult to learn and apply.</Para>
+              <Para>Our approach uses a hierarchical model as we have more than one topic layer. In [<CitationRef CitationID="CR29">29</CitationRef>], the authors adapt the Hierarchical Latent Dirichlet Allocation (hLDA) model, which has been developed originally for the unsupervised discovery of topic hierarchies in text, to the visual domain. They use the model for object classification and segmentation. However their model only accounts for one modality: visual features. Moreover, appropriate initialization of the complex model is difficult. Another example of a hierarchical model for image content are deep networks [<CitationRef CitationID="CR15">15</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>] with which—on a very high-level point of view—we share the stepwise forward initialization and subsequent optimization.</Para>
+              <Para>The multi-feature pLSA [<CitationRef CitationID="CR32">32</CitationRef>] is somewhat similar to our approach, but uses only a single topic layer that models the co-occurrence of visual features of two different types at once.</Para>
+              <Para>This article is a substantial extension of our previous published work [<CitationRef CitationID="CR21">21</CitationRef>], which much more thoroughly analysis the strengths and weaknesses of our proposed mm-pLSA model.</Para>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Standard pLSA</Heading>
+              <Section2 ID="Sec4">
+                <Heading>Motivation and model</Heading>
+                <Para>The pLSA was originally devised by Hofmann [<CitationRef CitationID="CR16">16</CitationRef>] in the context of text document retrieval, where words constitute the elementary parts of documents. Applied to images, each image represents a single visual document. pLSA can be applied directly to image tags, as tags are simply words. However, for our visual features we need comparable elementary parts called visual words. For the moment we assume that all features we computed in a given mode are somehow mapped to words in that mode. Details of the mapping from the visual features to the mode-specific words are given in Sect. <InternalRef RefID="Sec6">3.3</InternalRef>. For now we just assume that we have words.</Para>
+                <Para>The key concept of the pLSA model is to map the high-dimensional word distribution vector of a document to a lower dimensional <Emphasis Type="Italic">topic vector</Emphasis> (also called <Emphasis Type="Italic">aspect vector</Emphasis>). Therefore, pLSA introduces a latent, i.e. unobservable topic layer between the documents (i.e. images here) and the observed words. It is assumed that each document consists of a mixture of multiple topics and that the occurrences of words (i.e., visual words in the images or tags of images, respectively) is a result of the topic mixture. This generative model is expressed by the following probabilistic model:<Equation ID="Equ1"><EquationNumber>1</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(d_i,w_j)=P(d_i)\sum _K P(z_k|d_i)P(w_j|z_k) \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq1"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(d_i)$$]]></EquationSource></InlineEquation> denotes the probability of a document <InlineEquation ID="IEq2"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation> of the database to be picked, <InlineEquation ID="IEq3"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_k|d_i)$$]]></EquationSource></InlineEquation> the probability of a topic <InlineEquation ID="IEq4"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$z_k$$]]></EquationSource></InlineEquation> given the current document, and <InlineEquation ID="IEq5"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_j|z_k)$$]]></EquationSource></InlineEquation> the probability of a visual word <InlineEquation ID="IEq6"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w_j$$]]></EquationSource></InlineEquation> given a topic. The model is graphically depicted in Fig. <InternalRef RefID="Fig1">1</InternalRef>. <InlineEquation ID="IEq7"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N_i$$]]></EquationSource></InlineEquation> denotes the number of words of which document <InlineEquation ID="IEq8"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation> consists. In total we assume <InlineEquation ID="IEq9"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$M$$]]></EquationSource></InlineEquation> documents. It is important not to confuse <InlineEquation ID="IEq10"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N_i$$]]></EquationSource></InlineEquation>, the number of words in document <InlineEquation ID="IEq11"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation>, with <InlineEquation ID="IEq12"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource></InlineEquation>, the number of words in the vocabulary.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Standard pLSA-model</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_6_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Once a topic mixture <InlineEquation ID="IEq13"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_k|d_i)$$]]></EquationSource></InlineEquation> is derived for each document <InlineEquation ID="IEq14"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation>, a high-level representation has been found based on the respective mode to which the words belong. At the same time, this representation is of low dimensionality as we commonly choose the number of concepts in our model to be much smaller than the number of words. The <InlineEquation ID="IEq15"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource></InlineEquation>-dimensional topic vector can be used directly in a query-by-example retrieval task, if we measure document similarity by computing the <InlineEquation ID="IEq16"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L_1$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq17"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L_2$$]]></EquationSource></InlineEquation>, or cosine distance between topic vectors of different documents.</Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Training and inference</Heading>
+                <Para>Computing a <Emphasis Type="Italic">term-document matrix</Emphasis> of the training corpus is a prerequisite for deriving a pLSA model (see Fig. <InternalRef RefID="Fig2">2</InternalRef>). Each entry in row <InlineEquation ID="IEq18"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$i$$]]></EquationSource></InlineEquation> and column <InlineEquation ID="IEq19"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$j$$]]></EquationSource></InlineEquation> of the term-document matrix <InlineEquation ID="IEq20"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$[n(d_i,w_j)]_{i,j}$$]]></EquationSource></InlineEquation> specifies the absolute count with which word <InlineEquation ID="IEq21"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w_j$$]]></EquationSource></InlineEquation> (also called a term) occurs in document <InlineEquation ID="IEq22"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation>. The terms are taken from a predefined dictionary consisting of <InlineEquation ID="IEq23"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq23.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource></InlineEquation> terms. The number of documents is <InlineEquation ID="IEq24"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq24.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$M$$]]></EquationSource></InlineEquation>. Note that by normalizing each document vector to 1 using the L1-norm, the document vector <InlineEquation ID="IEq25"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq25.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$(n(d_i,w_1), \ldots , n(d_i,w_N))$$]]></EquationSource></InlineEquation> of <InlineEquation ID="IEq26"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq26.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation> becomes the estimated mass probability distribution <InlineEquation ID="IEq27"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq27.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_j |d_i)$$]]></EquationSource></InlineEquation>.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Term-document matrix</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_6_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>We learn the unobservable probability distributions <InlineEquation ID="IEq28"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq28.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_k|d_i)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq29"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq29.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_j|z_k)$$]]></EquationSource></InlineEquation> from the observable data <InlineEquation ID="IEq30"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq30.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_j |d_i)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq31"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq31.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(d_i)$$]]></EquationSource></InlineEquation> using the Expectation-Maximization algorithm (EM-Algorithm) [<CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR16">16</CitationRef>]:</Para>
+                <Para><Emphasis Type="Bold">E-Step</Emphasis>:<Equation ID="Equ2"><EquationNumber>2</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(z_k | d_i, w_j) = \frac{P(w_j | z_k) P(z_k | d_i)}{\sum _{l=1}^{K} P(w_j | z_l) P(z_l | d_i)} \end{aligned}$$]]></EquationSource></Equation><Emphasis Type="Bold">M-Step</Emphasis>:<Equation ID="Equ3"><EquationNumber>3</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\hspace{-6pt}P(w_j | z_k) = \frac{\sum _{i=1}^{M} n(d_i, w_j)P(z_k | d_i, w_j) }{\sum _{j=1}^{N} \sum _{i=1}^{M} n(d_i, w_j)P(z_k | d_i, w_j)} \end{aligned}$$]]></EquationSource></Equation><Equation ID="Equ4"><EquationNumber>4</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\hspace{-6pt}P(z_k | d_i) = \frac{\sum _{j=1}^{N} n(d_i, w_j)P(z_k | d_i, w_j) }{n(d_i)} \end{aligned}$$]]></EquationSource></Equation>Given a new test image <InlineEquation ID="IEq32"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq32.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_\mathrm{ test}$$]]></EquationSource></InlineEquation>, we estimate the topic probabilities <InlineEquation ID="IEq33"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq33.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_k | d_\mathrm{ test})$$]]></EquationSource></InlineEquation> from the observed words. The sole difference between inference and learning is that the <InlineEquation ID="IEq34"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq34.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource></InlineEquation> learned conditional word distributions <InlineEquation ID="IEq35"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq35.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_j | z_k)$$]]></EquationSource></InlineEquation> are never updated during inference. Thus, only Eqs. (<InternalRef RefID="Equ2">2</InternalRef>) and (<InternalRef RefID="Equ4">4</InternalRef>) are iteratively updated during inference.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Visual pLSA-model</Heading>
+                <Para>The first step in building a bag-of-words representation for the visual content of images is to extract visual features from each image. In our case, we apply dense sampling with a vertical and horizontal step size of 10 pixels across the image pyramid created with a scale factor of <InlineEquation ID="IEq36"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq36.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${1} / {\root 4 \of {2}}$$]]></EquationSource></InlineEquation> in order to extract local image features at regular grid points. SIFT descriptors [<CitationRef CitationID="CR23">23</CitationRef>] computed over a local region of <InlineEquation ID="IEq37"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq37.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$41 \times 41$$]]></EquationSource></InlineEquation> pixels are used to describe the grayscale image regions around each grid point in an orientation invariant fashion. Although we use SIFT features in this work, any other feature could be used instead.</Para>
+                <Para>Next, the 128-dimensional real-valued local image features have to be quantized into discrete visual words to derive a finite vocabulary. Quantization of the features into visual words is performed using a flat vocabulary derived by k-means clustering [<CitationRef CitationID="CR30">30</CitationRef>]. In contrast to our previous work we use a flat vocabulary rather than a vocabulary tree [<CitationRef CitationID="CR25">25</CitationRef>] as the hierarchical k-means clustering of the feature space has been shown to be inferior to standard or approximate k-means in previous works [<CitationRef CitationID="CR26">26</CitationRef>]. Also, speed is not a big issue with a vocabulary size of 10,000 visual words, which we will use in our experiments.</Para>
+                <Para>Once a visual vocabulary of size <InlineEquation ID="IEq38"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq38.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N^v$$]]></EquationSource></InlineEquation> is determined, we map all descriptor vectors of an image to their closest visual words and build the document vector that holds the counts of the visual word occurrences in the corresponding image by incrementing the associated word count. Note that this very popular image description does not preserve any spatial relationship between the occurrences of the visual words. The image is simply modeled as a histogram (bag) of its visual words.</Para>
+                <Para>The document vectors (also called <Emphasis Type="Italic">co-occurrence vectors</Emphasis>) of randomly selected training images are then used to train a pLSA model. Once a pLSA model is learned, it can be applied to all images in the database and hence derive a vector representation for each image, where the vector elements denote the degree to which an image depicts a certain visual topic. Given a query image and its topic distribution the retrieval then works by finding the top <InlineEquation ID="IEq39"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq39.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$r$$]]></EquationSource></InlineEquation> images with the closest topic distribution to the query topic distribution in the database.</Para>
+              </Section2>
+              <Section2 ID="Sec7">
+                <Heading>Fusion of multiple visual features</Heading>
+                <Para>In this work, we also evaluate how the proposed multilayer multimodal approach is able to combine different visual features. In this particular case, we use the mm-pLSA to combine SIFT and HOG features.</Para>
+                <Para>The basis for our <InlineEquation ID="IEq40"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq40.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2\times 2$$]]></EquationSource></InlineEquation> HOG features are the improved, 31-dimensional HOG cell features of [<CitationRef CitationID="CR12">12</CitationRef>] (see [<CitationRef CitationID="CR12">12</CitationRef>] for details). Each individual HOG cell has a side length of 8 pixels, and these cell features are densely computed across several scales with a scale factor of <InlineEquation ID="IEq41"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq41.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$1/\sqrt{2}$$]]></EquationSource></InlineEquation>. We combine <InlineEquation ID="IEq42"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq42.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2\times 2$$]]></EquationSource></InlineEquation> adjacent cell features into a block feature yielding a single 124-dimensional local image feature that can be quantized into a visual HOG word. Each block is formed by computing the histograms for the individual cells first and then aggregating the cell histograms of blocks. Blocks are overlapping, as a new block starts at every HOG cell.</Para>
+                <Para>The description of the image content by HOG blocks is carried out analogous to that by SIFT features. HOG block features of an image are quantized into 10,000 discrete visual words using a flat visual vocabulary created with k-means clustering. The computed term-document vectors then serve as regular input to the topic models.</Para>
+                <Para>Note although HOG block features and SIFT features are on one side very much alike as both are effectively histograms of oriented gradients, they are on the other side also quite different with respect to the strictness with which they encode the spatial pattern of a local image region. SIFT encodes the spatial layout of gradients within a rigid <InlineEquation ID="IEq43"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq43.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$4\times 4$$]]></EquationSource></InlineEquation> spatial grid, while in our case HOG employs a <InlineEquation ID="IEq44"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq44.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2\times 2$$]]></EquationSource></InlineEquation> spatial grid. Moreover, the gradients of each HOG cell are normalized by the gradient energies of surrounding cells. As a result SIFT is often used to identify patterns of specific objects such as of a specific landmark, a specific painting, etc. In contrast, HOG is usually used to identify object categories such bikes, people, cars, table, and a like.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Sample patches associated with four different visual word clusters of SIFT features derived from a vocabulary of 10,000 visual words</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO7">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_6_Fig3_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Sample patches associated with four different visual word clusters of HOG block features derived from a vocabulary of 10,000 visual words. Note although HOG features are computed from color images, they effectively behave like grayscale features. Also they are not rotation invariant</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO8">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_6_Fig4_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Figures <InternalRef RefID="Fig3">3</InternalRef> and <InternalRef RefID="Fig4">4</InternalRef> show several examples of image patches that are described by the same visual words of SIFT features and HOG block features, respectively. Each row pair depicts sample patches of a different specific visual word.</Para>
+                <Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>The vocabulary size before and after each filtering step. <InlineEquation ID="IEq45"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq45.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_\mathrm{ minOcc}$$]]></EquationSource></InlineEquation> has been set to <InlineEquation ID="IEq46"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq46.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$1000$$]]></EquationSource></InlineEquation> occurrences and <InlineEquation ID="IEq47"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq47.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_\mathrm{ minUsers}$$]]></EquationSource></InlineEquation> has been set to <InlineEquation ID="IEq48"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq48.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$500$$]]></EquationSource></InlineEquation> users</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="2">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Number of images</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>10080251</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Number of images with tags</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>9109593 (90.4%)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Number of Flickr users</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>852697</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" nameend="c2" namest="c1">
+                          <SimplePara>Vocabulary size after filtering step</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Number of all tags (unfiltered)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>1691336</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Removal of tags with length less than 2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>1690029</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Removal of tags that occur in less than <InlineEquation ID="IEq49"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq49.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_\mathrm{ minOcc}$$]]></EquationSource></InlineEquation> images</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>6681</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Removal of tags that contain numbers</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>6500</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Removal of stop words</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>6467</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Removal of tags used by less than <InlineEquation ID="IEq50"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq50.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_\mathrm{ minUsers}$$]]></EquationSource></InlineEquation> different Flickr users</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>3158</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Final vocabulary size</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>3158</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>#Images with tags within vocabulary</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>8803834 (87.3%)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Vocabulary words present in Wordnet</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>2483 (78.6%)</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+              </Section2>
+              <Section2 ID="Sec8">
+                <Heading>Tag-based pLSA-model</Heading>
+                <Para>Besides the visual description of an image we also consider tags as an additional modality. Tags are free-text annotations provided by the image authors or image owners. A tag can be single word as well as a phrase or a sentence. While Flickr stores the original form of an annotation such as “Golden Gate Bridge” in (here three) separate words, it further provides a generated raw tag like “goldengatebridge” that directly encodes the relationship of a particular word combination. In this work we treat each of these generated raw tags of the image annotations as one single word disregarding if it is a natural word or an artifically generated one. Thus, in the following the term <Emphasis Type="Italic">tag</Emphasis> denotes a single word derived from the raw tags and is used interchangeably with “word” and “term”.</Para>
+                <Para>As we use Flickr images to evaluate our multilayer multimodal pLSA model, it is important to note that these tags reflect the photographer/author’s personal view with respect to the uploaded image. Thus, in contrast to carefully annotated image databases traditionally used for learning combined image and tag models [<CitationRef CitationID="CR1">1</CitationRef>], these image tags from Flickr are in many cases subjective, ambiguous, and do not necessarily describe the image content shown [<CitationRef CitationID="CR20">20</CitationRef>, <CitationRef CitationID="CR22">22</CitationRef>]. This makes it difficult to use the tags directly for retrieval purposes and thus some preprocessing is required. Even worse, some images do not have tags at all. In fact about 13% of all Flickr images lack annotations. In this case, textual information is not available for retrieval and a fallback strategy is needed. This underlines the importance of using a multimodal approach when exploiting user-generated content for image retrieval.</Para>
+                <Para>First a finite vocabulary needs to be defined, before a pLSA model can be applied to tags. Building the vocabulary starts with listing all tags that have been used more than <InlineEquation ID="IEq51"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq51.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_\mathrm{ minOcc}$$]]></EquationSource></InlineEquation> times and by at least <InlineEquation ID="IEq52"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq52.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_\mathrm{ minUsers}$$]]></EquationSource></InlineEquation> different users. This heuristics enforces that all rarely used tags are neglected. Note that a tag is also rarely used if only a few users have used it independent of the actually count. We further filter the list by discarding all tags that contain numbers. Table <InternalRef RefID="Tab1">1</InternalRef> shows the vocabulary sizes before and after filtering the available tags.</Para>
+                <Para>Once the tag vocabulary is defined, a co-occurrence table (i.e. a the term-document matrix) is built by counting the tag occurrences for each image. On average for annotated images the number of tags per images in our database is <InlineEquation ID="IEq53"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq53.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$7.7$$]]></EquationSource></InlineEquation> (not counting tag-free images). For some images, however, the number of tags is unreasonably large as users have labeled images with whole sentences or phrases.</Para>
+                <Para>In our previous work [<CitationRef CitationID="CR21">21</CitationRef>], we used Wordnet [<CitationRef CitationID="CR11">11</CitationRef>] to expand the available image annotations. Wordnet is a lexical database of English that provides access to links and relationships between words. For each image we queried Wordnet for the semantic parents of the tags specified by the author. However, Wordnet is limited to English, and more than 20% of the words in our final vocabulary are not part of Wordnet (see Table <InternalRef RefID="Tab1">1</InternalRef>). This may be caused by the use of different languages, slang words and abbreviations for annotations as well as the generation of raw tags that describe a specific location or scene. However, these annotations may carry very specific and meaningful information for correct retrieval. Therefore we do not restrict the annotations to plain English words. As the automatic expansion of textual words e.g. with hypernyms may also introduce additional noise to the annotations, we do not use Wordnet throughout this work and focus on the plain annotations provided by the image uploaders themselves.</Para>
+                <Para>In our experiments, we set the thresholds for the minimum number of occurrences <InlineEquation ID="IEq54"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq54.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_\mathrm{ minOcc} = 1000$$]]></EquationSource></InlineEquation> and for the minimum number of distinct users <InlineEquation ID="IEq55"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq55.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_\mathrm{ minUsers} = 500$$]]></EquationSource></InlineEquation> resulting in a vocabulary size of 3158 words. A larger tag vocabulary would be beneficial for a retrieval that is based solely on tags or other textual information. However, the training of the pLSA model is performed by sampling a subset of the whole database as training set (in this work 10,000 images). Thus, tags that do not occur within the set of training documents are not used for learning the pLSA model. In other words, tags that should be handled by the topic model need to be sufficiently frequent across all images in order to be included when (randomly) sampling the training set. This is the reason, why we chose this relatively small vocabulary for tags.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec9">
+              <Heading>Multilayer multimodal pLSA</Heading>
+              <Section2 ID="Sec10">
+                <Heading>Motivation and model</Heading>
+                <Para>In recent years, pLSA has been applied successfully to unimodal data such as text [<CitationRef CitationID="CR16">16</CitationRef>], image tags [<CitationRef CitationID="CR24">24</CitationRef>], or visual words [<CitationRef CitationID="CR19">19</CitationRef>]. However, combining two modes such as visual words and image tags is challenging. The obvious approach of simply concatenating the two associated term-document matrices <InlineEquation ID="IEq56"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq56.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N_{M \times N^v}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq57"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq57.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N_{M \times N^t}$$]]></EquationSource></InlineEquation> into <InlineEquation ID="IEq58"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq58.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N_{M \times (N^v+N^t)}$$]]></EquationSource></InlineEquation> and then applying standard pLSA usually does not lead to the desired retrieval improvements. One reason is the difference in the order of magnitude with which words occur in the respective mode. For instance, a few thousand to 10,000 features per image are usually computed from images that are resized to having roughly the same number of dense samples while preserving the image’s aspect ratio. In contrast, most images are annotated with fewer than 20 tags. Compensating between the differences in the order of the magnitude by some kind of normalization is possible, but will require a lot of testing to determine an appropriate weighting factor between the different modes since the actual importance of each mode must also be taken into account. Another reason may be the difference in the size of the respective vocabularies. In contrast, a well-founded mathematical approach with top-level topics will solve this issue effectively and efficiently. Some empirical evidence for these claims will be given in Sect. <InternalRef RefID="Sec13">5</InternalRef>.</Para>
+                <Para>Our basic idea is to apply pLSA in a first step to each mode separately, and in a second step concatenate the derived topic vectors of each mode to learn another pLSA on top of that (see Fig. <InternalRef RefID="Fig7">7</InternalRef>). While we describe this layering of multiple pLSAs only for two leaf-pLSAs and a node pLSA, it is obvious that the proposed pLSA layering can be extended to more than two layers and applied to more than just two leaf-pLSAs.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>The new multilayer multimodel pLSA model illustrated by combining two modalities</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO9">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_6_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>The smallest possible multilayer multimodal pLSA model (mm-pLSA) consisting of two modes with their respective observable word occurrences and hidden topics as well as a single top-level of hidden aspects is graphically depicted in Fig. <InternalRef RefID="Fig5">5</InternalRef>. Every word of mode <InlineEquation ID="IEq59"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq59.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$x$$]]></EquationSource></InlineEquation> (here: <InlineEquation ID="IEq60"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq60.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$x \in \{v,t\}$$]]></EquationSource></InlineEquation> with <InlineEquation ID="IEq61"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq61.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$v$$]]></EquationSource></InlineEquation> standing for <Emphasis Type="Italic">visual</Emphasis> and <InlineEquation ID="IEq62"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq62.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$t$$]]></EquationSource></InlineEquation> for <Emphasis Type="Italic">text</Emphasis>) occurring in document <InlineEquation ID="IEq63"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq63.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation> is generated by an unobservable document model:<UnorderedList Mark="Bullet"><ItemContent><Para>Pick a document <InlineEquation ID="IEq64"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq64.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation> with prior probability <InlineEquation ID="IEq65"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq65.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(d_i)$$]]></EquationSource></InlineEquation>
+                      </Para></ItemContent><ItemContent><Para>For each visual word in the document:<UnorderedList Mark="Dash"><ItemContent><Para>Select a latent top-level concept <InlineEquation ID="IEq66"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq66.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$z^\mathrm{ top}_l$$]]></EquationSource></InlineEquation> with probability <InlineEquation ID="IEq67"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq67.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z^\mathrm{ top}_l|d_i)$$]]></EquationSource></InlineEquation>
+                            </Para></ItemContent><ItemContent><Para>Select a visual topic <InlineEquation ID="IEq68"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq68.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$z_k^v$$]]></EquationSource></InlineEquation> with probability <InlineEquation ID="IEq69"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq69.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_k^v|z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation>
+                            </Para></ItemContent><ItemContent><Para>Generate a visual word <InlineEquation ID="IEq70"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq70.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w_m^v$$]]></EquationSource></InlineEquation> with probability <InlineEquation ID="IEq71"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq71.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_m^{v}|z_k^{v})$$]]></EquationSource></InlineEquation>
+                            </Para></ItemContent></UnorderedList>
+                      </Para></ItemContent><ItemContent><Para>For each tag associated with the document:<UnorderedList Mark="Dash"><ItemContent><Para>Select a latent top-level concept <InlineEquation ID="IEq72"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq72.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$z^\mathrm{ top}_l$$]]></EquationSource></InlineEquation> with probability <InlineEquation ID="IEq73"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq73.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z^\mathrm{ top}_l|d_i)$$]]></EquationSource></InlineEquation>
+                            </Para></ItemContent><ItemContent><Para>Select a tag topic <InlineEquation ID="IEq74"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq74.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$z_p^t$$]]></EquationSource></InlineEquation> with probability<InlineEquation ID="IEq75"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq75.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_p^t|z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation>
+                            </Para></ItemContent><ItemContent><Para>Generate a tag <InlineEquation ID="IEq76"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq76.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w_n^t$$]]></EquationSource></InlineEquation> with probability <InlineEquation ID="IEq77"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq77.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_n^{t}|z_p^{t})$$]]></EquationSource></InlineEquation>
+                            </Para></ItemContent></UnorderedList>
+                      </Para></ItemContent></UnorderedList>Thus, the probability of observing a visual word <InlineEquation ID="IEq78"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq78.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w_m^v$$]]></EquationSource></InlineEquation> or a tag <InlineEquation ID="IEq79"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq79.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w_n^t$$]]></EquationSource></InlineEquation> in document <InlineEquation ID="IEq80"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq80.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation> is<Equation ID="Equ5"><EquationNumber>5</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(d_i, w_m^v)&={\sum \limits ^{L}_{l=1}} {\sum \limits ^{K}_{k=1}} P(d_i) P(z_l^\mathrm{ top}|d_i) P(z_k^v|z_l^\mathrm{ top}) P(w_m^{v}|z_k^{v}) \nonumber \\ \end{aligned}$$]]></EquationSource></Equation>
+                  <Equation ID="Equ6"><EquationNumber>6</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(d_i, w_n^t)&={\sum \limits ^{L}_{l=1}} {\sum \limits ^{P}_{p=1}} P(d_i) P(z_l^\mathrm{ top}|d_i) P(z_p^t|z_l^\mathrm{ top})P(w_n^{t}|z_p^{t}).\nonumber \\ \end{aligned}$$]]></EquationSource></Equation>An important aspect of this model is that every image consists of one or more part aspects in each mode, which in turn are combined to one or more higher-level aspects. This is very natural, since images consist of multiple objects parts and multiple objects. The multilayer multimodal pLSA can model this fact effectively—much better than a single layer pLSA. Furthermore, this model is in better correspondence with current belief to model the brain as a hierarchical recurrent network [<CitationRef CitationID="CR14">14</CitationRef>].</Para>
+              </Section2>
+              <Section2 ID="Sec11">
+                <Heading>Training and inference</Heading>
+                <Para>Given our word generation model (see Fig. <InternalRef RefID="Fig5">5</InternalRef>) with its implicit independence assumption between generated words, the likelihood <InlineEquation ID="IEq81"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq81.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L$$]]></EquationSource></InlineEquation> of observing our database consisting of the observed pairs <InlineEquation ID="IEq82"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq82.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$(d_i, w_m^v)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq83"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq83.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$(d_i, w_n^t)$$]]></EquationSource></InlineEquation> from both modes is given by<Equation ID="Equ7"><EquationNumber>7</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} L = {\prod \limits ^{M}_{i=1}}\left[ {\prod \limits ^{N^v}_{m=1}}P(d_i, w_m^v)^{n(d_i, w_m^v)} {\prod \limits ^{N^t}_{n=1}}P(d_i, w_n^t)^{n(d_i, w_n^t)} \right].\nonumber \\ \end{aligned}$$]]></EquationSource></Equation>Taking the log to determine the log-likelihood <InlineEquation ID="IEq84"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq84.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$l$$]]></EquationSource></InlineEquation> of the database<Equation ID="Equ8"><EquationNumber>8</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} l&={\sum \limits ^{M}_{i=1}} \left[ {\sum \limits ^{N^v}_{m=1}} n(d_i, w_m^v) \log P(d_i, w_m^v) \right.\nonumber \\&\qquad \left.+ \,{\sum \limits ^{N^t}_{n=1}} n(d_i, w_n^t) \log P(d_i, w_n^t) \right] \end{aligned}$$]]></EquationSource></Equation>and plugging Eqs. (<InternalRef RefID="Equ5">5</InternalRef>) and (<InternalRef RefID="Equ6">6</InternalRef>) in to Eq. (<InternalRef RefID="Equ8">8</InternalRef>), it becomes apparent that there is a double sum inside of both <Emphasis Type="Italic">logs</Emphasis> making direct maximization with respect to the unknown probability distributions difficult. Therefore, we learn the unobservable probabilities distribution <InlineEquation ID="IEq86"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq86.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_l^\mathrm{ top}|d_i)$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq87"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq87.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_k^v|z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq88"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq88.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_p^t|z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq89"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq89.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_m^v|z_k^v)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq90"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq90.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_n^t|z_p^t)$$]]></EquationSource></InlineEquation> from the data using the EM-Algorithm [<CitationRef CitationID="CR8">8</CitationRef>]. Introducing the indicator variables<Equation ID="Equa1"><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equa1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} {\triangle c_{lk}}&=\left\{ \begin{array}{l@{\quad }l} 1&\text{ if} \text{ the} \text{ pair} (d_i, w_m^v) \text{ was} \text{ generated} \\&\quad \text{ by}\; z_l^\mathrm{ top} \text{ and}\; z_k^v \\ 0&\text{ otherwise} \end{array} \right.\\ {\triangle d_{lp}}&=\left\{ \begin{array}{l@{\quad }l} 1&\text{ if} \text{ the} \text{ pair} (d_i, w_p^t) \text{ was} \text{ generated}\\&\quad \text{ by}\; z_l^\mathrm{ top} \text{ and}\; z_p^t \\ 0&\text{ otherwise} \end{array}\right.\\ \end{aligned}$$]]></EquationSource></Equation>the complete data likelihood <InlineEquation ID="IEq91"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq91.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L_c$$]]></EquationSource></InlineEquation>, that is the data likelihood assuming that <InlineEquation ID="IEq92"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq92.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq93"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq93.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w_n^z$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq94"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq94.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w_m^v$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq95"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq95.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\triangle c_{lk}}$$]]></EquationSource></InlineEquation>, and <InlineEquation ID="IEq96"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq96.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\triangle d_{lp}}$$]]></EquationSource></InlineEquation> are observable, is given by<Equation ID="Equa2"><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equa2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} L_{c} ={\prod \limits ^{M}_{i=1}}\left[ {\prod \limits ^{N^v}_{m=1}}P(d_i, w_m^v, \triangle c)^{n(d_i,w_m^v)} {\prod \limits ^{N^t}_{n=1}}P(d_i, w_n^t, \triangle d)^{n(d_i,w_n^t)} \right] \end{aligned}$$]]></EquationSource></Equation>with<Equation ID="Equ9"><EquationNumber>9</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\hspace{-6pt}\triangle c = (\triangle c_{11}, \ldots , \triangle c_{1K}, \ldots , \triangle c_{LK})\end{aligned}$$]]></EquationSource></Equation>
+                  <Equation ID="Equ10"><EquationNumber>10</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\hspace{-6pt}\triangle d = (\triangle d_{11}, \ldots , \triangle d_{1K}, \ldots , \triangle d_{LP})\end{aligned}$$]]></EquationSource></Equation>
+                  <Equation ID="Equ11"><EquationNumber>11</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\hspace{-6pt}P(d_i, w_m^v, \triangle c) \nonumber \\&\hspace{-6pt}\quad = {\prod \limits ^{L}_{l=1}}{\prod \limits ^{K}_{k=1}}P(d_i) P(z_l^\mathrm{ top}|d_i) P(z_k^v|z_l^\mathrm{ top}) P(w_m^v|z_k^v)^{\triangle c_{lk}}\end{aligned}$$]]></EquationSource></Equation>
+                  <Equation ID="Equ12"><EquationNumber>12</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\hspace{-6pt}P(d_i, w_n^t,\triangle d) \nonumber \\&\hspace{-6pt}\quad = {\prod \limits ^{L}_{l=1}}{\prod \limits ^{P}_{p=1}}P(d_i) P(z_l^\mathrm{ top}|d_i) P(z_p^t|z_l^\mathrm{ top}) P(w_n^t|z_p^t)^{\triangle d_{lp}}\end{aligned}$$]]></EquationSource></Equation>Unlike in Eq. (<InternalRef RefID="Equ8">8</InternalRef>), we now only have product terms in the complete likelihood <InlineEquation ID="IEq97"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq97.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L_c$$]]></EquationSource></InlineEquation>, thus its log-likelihood can easily be termined and maximized,<Footnote ID="Fn1"><Para>A complete derivation of the EM-update equation for this multilayer multimodel pLSA model can be found at <ExternalRef><RefSource>http://www.multimedia-computing.de/wiki/mm-pLSA</RefSource><RefTarget Address="http://www.multimedia-computing.de/wiki/mm-pLSA" TargetType="URL"/></ExternalRef>
+                    </Para></Footnote> resulting in the following expectation (E-step) and maximization (M-step) solution:</Para>
+                <Para><Emphasis Type="Bold">E-Step</Emphasis>:</Para>
+                <Para>We estimate the unknown indicator variables <InlineEquation ID="IEq98"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq98.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\triangle c_{lk}}$$]]></EquationSource></InlineEquation> conditioned on the observable variables <InlineEquation ID="IEq99"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq99.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq100"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq100.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w_m^v$$]]></EquationSource></InlineEquation> by computing their expected value:<Equation ID="Equ13"><EquationNumber>13</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} c_{lk}^{im}&:=E({\triangle c_{lk}}| d_i, w_m^v) \nonumber \\&=P({\triangle c_{lk}}= 1 | d_i, w_m^v) \cdot 1 + P({\triangle c_{lk}}=0| d_i, w_m^v) \cdot 0 \nonumber \\&=P({\triangle c_{lk}}= 1 | d_i, w_m^v) \cdot 1 \nonumber \\&=\frac{ P(d_i, w_m^v, {\triangle c_{lk}}=1) }{ P(d_i, w_m^v) } \nonumber \\&=\frac{ P(d_i) P(z_l^\mathrm{ top}|d_i) P(z_k^v|z_l^\mathrm{ top}) P(w_m^v|z_k^v) }{{\sum \nolimits ^{L}_{l=1}}{\sum \nolimits ^{K}_{k=1}}P(d_i) P(z_l^\mathrm{ top}|d_i) P(z_k^v|z_l^\mathrm{ top}) P(w_m^{v}|z_k^v)}.\nonumber \\ \end{aligned}$$]]></EquationSource></Equation>Analogously, we estimate the unknown indicator variables <InlineEquation ID="IEq101"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq101.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\triangle d_{lp}}$$]]></EquationSource></InlineEquation> conditioned on the observable variables <InlineEquation ID="IEq102"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq102.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_i$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq103"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq103.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$w_n^t$$]]></EquationSource></InlineEquation> by computing their expected value:<Equation ID="Equ14"><EquationNumber>14</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} d_{lp}^{in}&:=E({\triangle d_{lp}}| d_i, w_n^t) \nonumber \\&=\frac{ P(d_i) P(z_l^\mathrm{ top}|d_i) P(z_p^t|z_l^\mathrm{ top}) P(w_n^t|z_p^t) }{ {\sum \nolimits ^{L}_{l=1}}{\sum \nolimits ^{K}_{k=1}}P(d_i) P(z_l^\mathrm{ top}|d_i) P(z_p^t|z_l^\mathrm{ top}) P(w_n^{t}|z_p^t) }\nonumber \\ \end{aligned}$$]]></EquationSource></Equation>
+                  <Emphasis Type="Bold">M-Step</Emphasis>:</Para>
+                <Para>For legibility of the M-step estimates, we set<Equation ID="Equ15"><EquationNumber>15</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \gamma _{lk}^{im}&:=n(d_i, w_m^v)c_{lk}^{im}\end{aligned}$$]]></EquationSource></Equation>
+                  <Equation ID="Equ16"><EquationNumber>16</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \delta _{lp}^{in}&:=n(d_i, w_n^t)d_{lp}^{in} \end{aligned}$$]]></EquationSource></Equation>which is the expected probability of observing a pair <InlineEquation ID="IEq104"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq104.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$(d_{i},w_{m}^v)$$]]></EquationSource></InlineEquation> multiplied with the actual number of occurrences and get:<Equation ID="Equ17"><EquationNumber>17</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(d_i)^\mathrm{ new}&=\frac{ {\sum \nolimits ^{N^v}_{m=1}}n(d_i, w_m^v) + {\sum \nolimits ^{N^t}_{n=1}}n(d_i, w_n^t) }{{\sum \nolimits ^{M}_{i=1}}\left( {\sum \nolimits ^{N^v}_{m=1}}n(d_i, w_m^v) + {\sum \nolimits ^{N^t}_{n=1}}n(d_i, w_n^t) \right)}\nonumber \\ \end{aligned}$$]]></EquationSource></Equation>
+                  <Equation ID="Equ18"><EquationNumber>18</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(z_l^\mathrm{ top}|d_{i})^\mathrm{ new}&=\frac{ {\sum \nolimits ^{N^v}_{m=1}}{\sum \nolimits ^{K}_{k=1}}\gamma _{lk}^{im}+ {\sum \nolimits ^{N^t}_{n=1}}{\sum \nolimits ^{P}_{p=1}}\delta _{lp}^{in}}{ {\sum \nolimits ^{L}_{l=1}}\left( {\sum \nolimits ^{N^v}_{m=1}}{\sum \nolimits ^{K}_{k=1}}\gamma _{lk}^{im}+ {\sum \nolimits ^{N^t}_{n=1}}{\sum \nolimits ^{P}_{p=1}}\delta _{lp}^{in}\right)}\nonumber \\ \end{aligned}$$]]></EquationSource></Equation>
+                  <Equation ID="Equ19"><EquationNumber>19</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(z_k^v|z_l^\mathrm{ top})^\mathrm{ new}&=\frac{ {\sum \nolimits ^{M}_{i=1}}{\sum \nolimits ^{N^v}_{m=1}}\gamma _{lk}^{im}}{ {\sum \nolimits ^{K}_{k=1}}{\sum \nolimits ^{M}_{i=1}}{\sum \nolimits ^{N^v}_{m=1}}\gamma _{lk}^{im}+ {\sum \nolimits ^{P}_{p=1}}{\sum \nolimits ^{M}_{i=1}}{\sum \nolimits ^{N^t}_{n=1}}\delta _{lp}^{in}}\nonumber \\ \end{aligned}$$]]></EquationSource></Equation>
+                  <Equation ID="Equ20"><EquationNumber>20</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(z_p^t|z_l^\mathrm{ top})^\mathrm{ new}&=\frac{{\sum \nolimits ^{M}_{i=1}}{\sum \nolimits ^{N^t}_{n=1}}\delta _{lp}^{in}}{ {\sum \nolimits ^{K}_{k=1}}{\sum \nolimits ^{M}_{i=1}}{\sum \nolimits ^{N^v}_{m=1}}\gamma _{lk}^{im}+ {\sum \nolimits ^{P}_{p=1}}{\sum \nolimits ^{M}_{i=1}}{\sum \nolimits ^{N^t}_{n=1}}\delta _{lp}^{in}}\nonumber \\ \end{aligned}$$]]></EquationSource></Equation>
+                  <Equation ID="Equ21"><EquationNumber>21</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(w_m^v|z_k^v)^\mathrm{ new}&=\frac{{\sum \nolimits ^{M}_{i=1}}{\sum \nolimits ^{L}_{l=1}}\gamma _{lk}^{im}}{ {\sum \nolimits ^{N^v}_{m=1}}{\sum \nolimits ^{M}_{i=1}}{\sum \nolimits ^{L}_{l=1}}\gamma _{lk}^{im}}\end{aligned}$$]]></EquationSource></Equation>
+                  <Equation ID="Equ22"><EquationNumber>22</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equ22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(w_n^t|z_p^t)^\mathrm{ new}&=\frac{{\sum \nolimits ^{M}_{i=1}}{\sum \nolimits ^{L}_{l=1}}\delta _{lp}^{in}}{ {\sum \nolimits ^{N^t}_{n=1}}{\sum \nolimits ^{M}_{i=1}}{\sum \nolimits ^{L}_{l=1}}\delta _{lp}^{in}} \end{aligned}$$]]></EquationSource></Equation>Clearly, Eq. (<InternalRef RefID="Equ17">17</InternalRef>) is constant across all iterations and must not be recomputed.</Para>
+                <Para>Given a new test image <InlineEquation ID="IEq105"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq105.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_\mathrm{ test}$$]]></EquationSource></InlineEquation>, we estimate the top-level aspect probabilities <InlineEquation ID="IEq106"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq106.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_l^\mathrm{ top}|d_\mathrm{ test})$$]]></EquationSource></InlineEquation> with the same E-step equations as for learning and Eq. (<InternalRef RefID="Equ18">18</InternalRef>) for <InlineEquation ID="IEq107"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq107.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_l^\mathrm{ top}|d_\mathrm{ test})$$]]></EquationSource></InlineEquation> as the M-step. The probabilities of <InlineEquation ID="IEq108"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq108.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_k^v|z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq109"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq109.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_p^t|z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq110"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq110.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_m^v|z_k^v)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq111"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq111.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(w_n^t|z_p^t)$$]]></EquationSource></InlineEquation> have been learned from the corpus and are kept constant during inference.</Para>
+                <FormalPara RenderingStyle="Style1">
+                  <Heading>
+                    <Emphasis Type="Italic">Remark 1</Emphasis>
+                  </Heading>
+                  <Para><Emphasis Type="Italic">Normalization</Emphasis> Before starting the mm-pLSA the document vectors of different modalities, i.e. the entries <InlineEquation ID="IEq112"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq112.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ n(d_i, w_m^v)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq113"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq113.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$n(d_i, w_n^t)$$]]></EquationSource></InlineEquation> should be normalized to equal scale, e.g. such that the sums over each modality separately are equal. This is crucial if one modality has document vectors on a very different scale than the other modality, e.g. compare the highly populated histograms of visual features to very sparse tag histograms. In that case the mm-pLSA on unnormalized feature histograms is dominated by the visual domain and the probabilities <InlineEquation ID="IEq114"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq114.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_p^t | z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation> would be close to zero. Note that this normalization does not mean that e.g. visual and textual modality have the same weight within the mm-pLSA as the constraint for the conditional probabilities of the subtopics given the supertopics is given by<Equation ID="Equa3"><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_Equa3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \sum \limits ^{K}_{k=1} P(z_k^v| z_l^{top}) + \sum \limits ^{P}_{p=1} P(z_p^t|z_l^{top}) = 1 \end{aligned}$$]]></EquationSource></Equation>In fact we noticed that the mm-pLSA on SIFT features and tags determines a higher weight for the textual domain. See Sect. <InternalRef RefID="Sec17">5.4</InternalRef> for further details.</Para>
+                </FormalPara>
+                <FormalPara RenderingStyle="Style1">
+                  <Heading>
+                    <Emphasis Type="Italic">Remark 2</Emphasis>
+                  </Heading>
+                  <Para><Emphasis Type="Italic">Training</Emphasis> The training itself must only consider documents that have non-zero document vectors for both domains. With missing co-occurrences across the modalities the model training is useless. However, the inference still is able to derive a topic distribution even if one modality (e.g. annotations) is not available for an image.</Para>
+                </FormalPara>
+                <FormalPara RenderingStyle="Style1">
+                  <Heading>
+                    <Emphasis Type="Italic">Remark 3</Emphasis>
+                  </Heading>
+                  <Para><Emphasis Type="Italic">Training</Emphasis> Furthermore the training procedure should sample training documents such that basically all visual and textual aspects that appear in the database are also present in the training set. However the number of images for a certain class or category may vary. Therefore we pseudo-randomly pick training samples by selecting documents at certain intervals from the whole list of documents starting at a random offset. This guarantees that the whole database is used when drawing samples disregarding the actual layout and order. Training documents of a certain category are drawn with a probability corresponding to its size.</Para>
+                </FormalPara>
+              </Section2>
+              <Section2 ID="Sec12">
+                <Heading>Fast initialization</Heading>
+                <Para>More complicated probabilistic models always come with an explosion in required training time. This issue is becoming more severe, the more layers and the more pLSAs are aggregated into higher-level pLSAs. Thus, we suggest to compute a decent initial estimation of the conditional probabilities in a strictly stepwise forward procedure (see Fig. <InternalRef RefID="Fig7">7</InternalRef>) as proposed in [<CitationRef CitationID="CR27">27</CitationRef>].</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig6">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>The fast initialization of the multilayer multimodal pLSA model computed in two separate steps</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO31">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_6_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>For the smallest two-leaf high-level aspect model this procedure first computes an independent pLSA for each mode on the lowest level. The aspects are only linked through the documents, ie., the same images (see Step 1 in Fig. <InternalRef RefID="Fig6">6</InternalRef>). Next the computed aspect of all modes are taken as the observed words at the next higher level (see Step 2 in Fig. <InternalRef RefID="Fig6">6</InternalRef>). This procedure can continue until the top-level aspect vector is learned. The final representation, the top-level aspect distribution for each document, describes each image as a “distribution over topic distributions” and thereby fuses the visual pLSA model and the tag pLSA model. An overview of such an image retrieval system based on this idea is shown in Fig. <InternalRef RefID="Fig7">7</InternalRef>.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig7">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 7</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Schematic overview of the retrieval system based on our fast initialization strategy. Given the fast initialization the subsequent full mm-pLSA optimizes all three steps at once</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO32">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_6_Fig7_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>As we will show in the experimental results, this fast initialisation already produces a decent model. It can be further be improved by appying the EM-algorithm as stated in Sect. <InternalRef RefID="Sec11">4.2</InternalRef> to the complete model after initializing it with the strictly forward computed solution. This will further improve the solution.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig8">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 8</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Log-likelihood over training data when learning the mm-pLSA model. The mm-pLSA initialized by the strictly stepwise forward multimodal pLSA converges much faster than the model starting from a random initialization. The <Emphasis Type="Italic">upper image</Emphasis> shows the log-likelihood when the mm-pLSA is applied for SIFT features and tags, the <Emphasis Type="Italic">lower image</Emphasis> shows the log-likelihood for SIFT and HOG block features</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO33">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_6_Fig8_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Figure <InternalRef RefID="Fig8">8</InternalRef> shows the development of the complete data log-likelihood along the increasing number of iterations. One can observe that the mm-pLSA training converges much faster when initialized with the former multimodal standard pLSA solution over random initialization.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec13">
+              <Heading>Experimental evaluation</Heading>
+              <Section2 ID="Sec14">
+                <Heading>Setup</Heading>
+                <Para>For each of the visual features (SIFT, HOG) and the tag features we learned a 50-topic pLSA model. The fast initialization of the mm-pLSA mapped the two 50-dimensional image representations computed by the two base models (based on visual features and tags) to a multimodal topic distribution over 50 “super” topics. The randomly initialized mm-pLSA and its optimized version with the general mm-pLSA learning algorithm directly computed a model with 50 topics. The number of iterations used during training and inference varied. All models were computed using 500 iterations, except the mm-pLSA with the fast initialization method. In this case the model was computed using 50 iterations, since we already had a good starting point. Each pLSA model, independent of whether a conventional unimodal or a multilevel multimodal pLSA model was trained with 10,000 images.</Para>
+                <Para>The only probability distribution computed during inference was the probability distribution <InlineEquation ID="IEq115"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq115.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_l^\mathrm{ top}|d_i)$$]]></EquationSource></InlineEquation> of the top-level topics given the document. Therefore the EM-algorithm converged faster than during training and the number of iterations was reduced. For the inference of these topic distributions we used 200 iterations with the visual-based pLSA, the tag-based pLSA, the concatenated topic-based pLSA, the fast initialization of the mm-pLSA. 50 iterations were used for the inference of the mm-pLSA models both on visual features and tags and for all modes (either randomly initialized or using the fast initialization).</Para>
+                <Table Float="Yes" ID="Tab2">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Example categories in Flickr-10M</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="3">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Landmarks</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Scenes</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Objects</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Abu Simbel, Allianz arena, Angel falls, Arc de Triomphe, Church of Saviour Blood, Ayers Rock, Banaue Rice Terrace, Basilica de Notre Dame, Berlin Wall, Big Ben, Bilbao Gugenheim Museum, Biosphere Montreal, ...</SimplePara>
+                        </entry>
+                        <entry align="center" colname="c2">
+                          <SimplePara>Beach, Carnival, Christmas, City, Desert, Forest, Portrait, Street, Sunset, Wedding</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Aircraft, Bicycle, Bird, Boat, Bottle, Building, Bus, Butterfly, Car, Cat, Chair, Cow, Dog, Fish, Flower, Horse, ...</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Activities</SimplePara>
+                        </entry>
+                        <entry align="center" colname="c2">
+                          <SimplePara>National Parks</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Stars</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Aikido, Archery, Arm wrestling, Ax throwing, Badminton, Ballett, Baseball, Basketball, Belly dance, Billards, BMX, Bowling, Boxing, ...</SimplePara>
+                        </entry>
+                        <entry align="center" colname="c2">
+                          <SimplePara>Abel Tasman, Acadia, Addo Elephant, Algonquin, Ayuittuq, Bandhavgarh, Banff, Bromo Tenger, Cuc Phuong, Gran Paradiso, ...</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Alice Cooper, Angenlina Jolie, Ashley Olsen, Audey Hepburn, Barack Obama, Ben Stiller, Bill Clinton, Bill gates, Bono, Brad Pitt, Britney Spears, Bruce Willis, Bryan Adams, ...</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" nameend="c2" namest="c1">
+                          <SimplePara>Total number of images (without duplicates )</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>10,080,251</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                  <tfooter>
+                    <SimplePara>The full list is available at <ExternalRef><RefSource>http://www.multimedia-computing.de/wiki/Flickr-10M</RefSource><RefTarget Address="http://www.multimedia-computing.de/wiki/Flickr-10M" TargetType="URL"/></ExternalRef>
+                    </SimplePara>
+                  </tfooter>
+                </Table>
+                <Para>We evaluated all the systems in a query-by-example task and evaluated the results by a user study with 9 users. 80 query images were selected and the <InlineEquation ID="IEq116"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq116.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L_1$$]]></EquationSource></InlineEquation> distance was used to find the most similar images. The query images are associated with their original tags, while we only kept queries where the original annotation roughly correspond to the image content. The participants were asked to rate the 19 closest results to each of our query images. Note that we always showed the images without their associated tags as we evaluated a query-by-image-example system. We used the following scoring to get a quantitative performance measure: An image considered being similar received 1 point, an image considered somewhat similar received 0.5 points. All other images got 0 points. A mean score was calculated for each user; the mean over all users’ means yielded the final score of the system being evaluated. Two example queries and the topmost retrieved images are shown in Fig. <InternalRef RefID="Fig13">13</InternalRef>.</Para>
+                <Para>As we also evaluate one system that is based solely on tags, it happens that there are several hundreds up to thousands of images that have the same distance to the query image. This is due to the fact that images annotated with the same words will yield the same topic distribution disregarding the image content. For an unbiased evaluation the images in the result list need to be sorted by ascending distance (as usual) with an additional randomization step for images with equal distances. That is, images with equal distance to the query are randomized in their order while the ascending order of distances is still maintained for the whole list. This procedure eliminates any bias introduced by the order, in which similar images are found when scanning through the database (Table <InternalRef RefID="Tab2">2</InternalRef>).</Para>
+                <Para>We further impose two additional constraints:<UnorderedList Mark="Dash"><ItemContent><Para>Any retrieved image from the same Flickr user who uploaded the query image will be ignored. </Para></ItemContent><ItemContent><Para>Any Flickr user may only contribute a single image to the result set. This is the one with the smallest distance, other retrieved images of that specific user will be ignored. </Para></ItemContent></UnorderedList>These restrictions minimize the impact of image series uploaded by a single user to the evaluation.</Para>
+              </Section2>
+              <Section2 ID="Sec15">
+                <Heading>Dataset</Heading>
+                <Para>We have created a new publicly available dataset called “Flickr-10M”<Footnote ID="Fn2"><Para>The dataset and additional material are available at <ExternalRef><RefSource>http://www.multimedia-computing.de/wiki/Flickr-10M</RefSource><RefTarget Address="http://www.multimedia-computing.de/wiki/Flickr-10M" TargetType="URL"/></ExternalRef>
+                    </Para></Footnote> to evaluate the proposed retrieval methodology on a large real-world image database. This data set consists of 10 million images downloaded from Flickr.</Para>
+                <Para>We aimed to make this dataset as diverse as possible to allow the evaluation of greatly varying retrieval approaches. Therefore we collected images that were annotated with specific tags, which indicate a variety of landmarks, scenes, cities, stars as well as objects. Geotags were explicitly not used to download images for two reasons: In most cases, the number of images that actually have been geo-tagged is very small even for popular landmarks. Furthermore many landmarks are photographed from the far distance. In that case the geo-tagged location may be far from the position of the landmark itself. Also, for many categories like cities or national parks geotags are relatively meaningless despite narrowing down the number of available images. Therefore, we focused on tags and image descriptions. In cases a certain category did not yield a sufficient number of images (e.g. several thousands) we performed a full-text search for the query term in the image description to select the downloaded images (See Table <InternalRef RefID="Tab2">2</InternalRef> for examples).</Para>
+                <Para>This size of the dataset is beyond most datasets targeting a specific domain like scenes (e.g. SUN database [<CitationRef CitationID="CR31">31</CitationRef>]), objects (e.g. PASCAL VOC [<CitationRef CitationID="CR10">10</CitationRef>]), or landmarks (e.g. Oxbuild [<CitationRef CitationID="CR26">26</CitationRef>]). It is comparable in its size to Imagenet [<CitationRef CitationID="CR9">9</CitationRef>] and orders of magnitudes bigger than datasets that were previously used for image retrieval evaluations like Oxbuild or Corel.</Para>
+                <Para>This dataset consists of JPEG images with their associated metadata. This includes tags, titles, descriptions, and other user-generated content as well as other information stored with the photos (e.g. EXIF data if available). There are 852,697 different Flickr users that contribute at least one photo to our dataset. In total there are more than 300 different categories yielding a total of 10,080,251 images.</Para>
+                <Para>The database has not been cleaned or post-processed. Thus, it includes all kinds of content, e.g. from high-quality to low-quality photographs with and without annotations in all kinds of languages. In short, we believe this database is a representative sample of the real data that is uploaded and shared on community websites and social networks on a daily basis.</Para>
+              </Section2>
+              <Section2 ID="Sec16">
+                <Heading>Results</Heading>
+                <Para>First, we evaluate the fusion of the visual domain (represented by SIFT features) with the image annotations. The results of this experiment are shown in Fig. <InternalRef RefID="Fig9">9</InternalRef>. The first two experiments measure the performance of the systems based solely on visual features or tags and are labeled “pLSA on SIFT” and “pLSA on tags”, respectively. “Concatenated pLSA” denotes the model computed from merging the words from the visual domain as well as the tag domain into a single feature vector. The straight-forward approach of applying a third pLSA model on top of the two base models is termed “mm-pLSA (fast init only)”, while the mm-pLSA that is initialized randomly or with the outcome of the fast initialization is denoted as “mm-pLSA (random init)” or “mm-pLSA (fast init)”, respectively.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig9">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 9</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Scores for our different retrieval systems based on SIFT features and tags. <Emphasis Type="Italic">Vertical bars</Emphasis> mark the standard deviation between the users’ means</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO34">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_6_Fig9_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>It can be seen that the system relying solely on tags performs worse than the system relying solely on visual features. This is somewhat unexpected as in previous work tags were shown to outperform the visual features alone (see [<CitationRef CitationID="CR21">21</CitationRef>] for details). The third system, aiming to fuse the modalities by simply concatenating the (normalized) occurrence counts, performs better than the unimodal systems but worse than than any mm-pLSA model.</Para>
+                <Para>Both mm-pLSA models with fast initialization only and with optimizing the already good initialization outperform the unimodal modals which confirms the expected superior performance of multimodal models. However, the mm-pLSA models with global optimization (either random initialization or fast initialization strategy) perform slightly worse than the model that only performs the fast initialization. This is unexpected and somewhat contradictory to previous works [<CitationRef CitationID="CR21">21</CitationRef>]. We suspect that the global optimization drifts too towards the textual domain. Given the poor performance of tags alone the overall performance then suffers. Another possible reason is that the global optimization is unable to optimize the solution from the fast initialization strategy any further. Figure <InternalRef RefID="Fig8">8</InternalRef> shows that the log-likelihood of that model does hardly increase. This may be caused by too much noise on image annotations or a too small number of training documents.</Para>
+                <Para>The randomly initialized mm-pLSA model performs worse than the mm-pLSA with fast initialization strategy. This is in line with our expectations: we expected a random initialized model to perform inferior to its well initialized counterpart. It should be noted that as the EM-algorithm already starts from a relatively good solution, the number of required training iterations is small. Therefore the training of the mm-pLSA with the fast initialization strategy is fast and effective.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig10">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 10</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Scores for our different retrieval systems based on SIFT and HOG features. <Emphasis Type="Italic">Vertical bars</Emphasis> mark the standard deviation between the users’ means</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO35">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_6_Fig10_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>In a second serious of experiments, we evaluate how the mm-pLSA can be used to fuse multiple features into a combined representation. In these experiments the two modalities that are evaluated are SIFT and HOG features. The results of the corresponding user studies are shown in Fig. <InternalRef RefID="Fig10">10</InternalRef>. Similar to the previous experiments, the pLSA on the concatenated feature histograms does hardly improve over the better of the two modalities. This observation underlines the importance of hierarchical models even for assumed easy tasks such as multi-feature combination. Despite the close relation of these gradient-based features one can see that a stepwise combination of three pLSA models (termed “mm-pLSA fast init only”) further improves the retrieval, but is slightly outperformed by the mm-pLSA model that performs a global optimization.</Para>
+                <Para>It remains subject of future research why the mm-pLSA model with fast initialization strategy and global optimization performs worse than expected on this data set but outperformed all other in previous work in the case where SIFT features and tags combined. A probably related issue is the inferior performance of the tag-based model. One possible solution may be to upscale the tag vocabulary in order to describe such huge data set more accurately. Another potential solution may be to also include the provided textual image description of Flickr images rather than tags alone.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig11">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 11</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Visualization of the matrix <InlineEquation ID="IEq117"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq117.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(sub topics|supertopics)$$]]></EquationSource></InlineEquation> for the mm-pLSA on SIFT features and tags. One row in this matrix denotes all conditional probabilities <InlineEquation ID="IEq118"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq118.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_{k}|supertopics)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq119"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq119.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_{p}|supertopics)$$]]></EquationSource></InlineEquation> summing to 1. The subtopics for the SIFT features are shown on the <Emphasis Type="Italic">left half</Emphasis>, the subtopics derived from tags on the <Emphasis Type="Italic">right half</Emphasis>. (Best viewed in color) (color figure online)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO36">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_6_Fig11_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig12">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 12</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Visualization of <InlineEquation ID="IEq120"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq120.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(sub topics|supertopics)$$]]></EquationSource></InlineEquation> for the mm-pLSA on SIFT and HOG features. One row in this matrix denotes all conditional probabilities <InlineEquation ID="IEq121"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq121.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_{k}|supertopics)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq122"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq122.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_{p}|supertopics)$$]]></EquationSource></InlineEquation> summing to 1. The subtopics for the SIFT features are shown on the <Emphasis Type="Italic">left half</Emphasis>, the subtopics derived from HOG features on the <Emphasis Type="Italic">right half</Emphasis>. (Best viewed in color) (color figure online)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO37">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_6_Fig12_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig13">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 13</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Examples of retrieval results for the different approaches and two different queries. The query image is shown at the <Emphasis Type="Italic">top left corner</Emphasis> (<Emphasis Type="Italic">pink frame</Emphasis>) followed by the retrieved images. <Emphasis Type="Bold">Query: “Eiffel Tower”</Emphasis>: <Emphasis Type="Italic">Upper left</Emphasis> pLSA on SIFT features. <Emphasis Type="Italic">Upper right</Emphasis> pLSA on tags. <Emphasis Type="Italic">Lower left</Emphasis> mm-pLSA (the fast initialization only) on both SIFT and tags. <Emphasis Type="Italic">Lower right</Emphasis> mm-pLSA with fast init and global optimization on both SIFT and tags. <Emphasis Type="Bold">Query: “bike”</Emphasis>: <Emphasis Type="Italic">Upper left</Emphasis> pLSA on SIFT features. <Emphasis Type="Italic">Upper right</Emphasis> pLSA on HOG features. <Emphasis Type="Italic">Lower left</Emphasis> mm-pLSA (the fast initialization only) on both SIFT and HOG features. <Emphasis Type="Italic">Lower right</Emphasis> mm-pLSA with fast init and global optimization on both visual feature types</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO38">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_6_Fig13_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec17">
+                <Heading>Discussion</Heading>
+                <Para>For further insights we visualize the conditional probabilities of the modality-specific “subtopics” given the “supertopics” (<InlineEquation ID="IEq123"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq123.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_k^v|z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq124"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq124.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_p^t|z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation>) of the mm-pLSA training. We chose the mm-pLSA with fast initialization strategy and plot these probabilities as a matrix, where the actual probability value is mapped to a color ranging from dark black for <InlineEquation ID="IEq125"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq125.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$0$$]]></EquationSource></InlineEquation> to bright white for <InlineEquation ID="IEq126"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq126.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$1$$]]></EquationSource></InlineEquation>. Each row <InlineEquation ID="IEq127"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq127.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$l$$]]></EquationSource></InlineEquation> of such a matrix represents <InlineEquation ID="IEq128"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq128.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_k^v|z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation> on the left half (split by the red line) and <InlineEquation ID="IEq129"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq129.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P(z_p^t|z_l^\mathrm{ top})$$]]></EquationSource></InlineEquation> on the right half. The columns then enumerate the subtopics <InlineEquation ID="IEq130"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq130.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq131"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq131.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p$$]]></EquationSource></InlineEquation> correspondingly. Note that each row sums to <InlineEquation ID="IEq132"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_6_Article_IEq132.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$1$$]]></EquationSource></InlineEquation>. Therefore one can easily identify the present mixture of the modalities by looking at each row.</Para>
+                <Para>The conditional probabilities for SIFT features and tags are shown in Fig. <InternalRef RefID="Fig11">11</InternalRef>. It can be seen that most entries with high probability value are present for tags only (right half of Fig. <InternalRef RefID="Fig11">11</InternalRef>). The visual part (left half) has no peaks but is apparently less sparse. One can further observe that the entries in each row with a significant probability (the visible entries) are either on the visual or on the textual side, not on both. There is no direct correspondence between visual topics and textual topics. This means that each (super-) topic determined by the mm-pLSA basically acts as a kind of auto-selection mechanism for these two modalities. The mixture of visual and textual description is thereby achieved by representing each individual image by a mixture of such supertopics. These are in turn mutually exclusive on their subtopic representation, but the mixture of these describes both modalities.</Para>
+                <Para>This is different for the multi-feature model combining SIFT and HOG features. In Fig. <InternalRef RefID="Fig12">12</InternalRef>, one can see that the supertopics represent a real mixture of subtopics from different modalities.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec18">
+              <Heading>Conclusion</Heading>
+              <Para>A very general scheme for multilayer multimodal probabilistic Latent Semantic Analysis has been proposed. It naturally extends the single-layer pLSA to the concept of layered or hierarchical topics—a natural way to describe an image composition. It also allows grasping concepts across different modalities. The proposed fast initialization technique makes the mm-pLSA very practical and computable. The overall approach was evaluated in a query-by-example image retrieval scenario by users and outperformed unimodal pLSA significantly. The simple structure of two leaves, one node instance of such model was just an example and can be extended to full tree structures with more than two layers. Thus the mm-pLSA shows huge promise for future research (See Fig. <InternalRef RefID="Fig13">13</InternalRef> for example queries and the corresponding retrieval results).</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_Article_6.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_6_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <Heading>Acknowledgments</Heading>
+              <SimplePara>We thank Deutsche Forschungsgemeinschaft (DFG) for funding this project.</SimplePara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Barnard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Duygulu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Forsyth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Blei</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Hofmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Poggio</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Shawe-taylor</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Matching words and pictures</ArticleTitle>
+                  <JournalTitle>J Mach Learn Res</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>1107</FirstPage>
+                  <LastPage>1135</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1061.68174</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Barnard K, Duygulu P, Forsyth D, Blei DM, Hofmann T, Poggio T, Shawe-taylor J (2003) Matching words and pictures. J Mach Learn Res 3:1107–1135</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Bay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Ess</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Tuytelaars</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Gool</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">SURF: speeded up robust features</ArticleTitle>
+                  <JournalTitle>Comput Vis Imag Underst</JournalTitle>
+                  <VolumeID>110</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>346</FirstPage>
+                  <LastPage>359</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cviu.2007.09.014</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bay H, Ess A, Tuytelaars T, Van Gool L (2008) SURF: speeded up robust features. Comput Vis Imag Underst 110(3):346–359</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>Berg AC, Berg TL, Malik J (2005) Shape matching and object recognition using low distortion correspondences. In: IEEE conference on computer vision and pattern recognition (CVPR’05), vol 1. Washington, DC, pp 26–33</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>Blei D, Lafferty J (2006) Correlated topic models. In: Advances in neural information processing systems, vol 18, pp 147–154</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Blei DM, Jordan MI (2003) Modeling annotated data. In: ACM SIGIR conference on research and development in information retrieval (SIGIR’03), pp 127–134. doi:<ExternalRef><RefSource>10.1145/860435.860460</RefSource><RefTarget Address="10.1145/860435.860460" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Blei</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AY</Initials>
+                    <FamilyName>Ng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MI</Initials>
+                    <FamilyName>Jordan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Latent dirichlet allocation</ArticleTitle>
+                  <JournalTitle>J Mach Learn Res</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>993</FirstPage>
+                  <LastPage>1022</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1112.68379</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Blei DM, Ng AY, Jordan MI (2003) Latent dirichlet allocation. J Mach Learn Res 3:993–1022</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Bosch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zisserman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Muñoz</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Scene classification via pLSA</ArticleTitle>
+                  <JournalTitle>Eur Confer Comput Vis (ECCV’06)</JournalTitle>
+                  <VolumeID>3954</VolumeID>
+                  <FirstPage>517</FirstPage>
+                  <LastPage>530</LastPage>
+                </BibArticle>
+                <BibUnstructured>Bosch A, Zisserman A, Muñoz X (2006) Scene classification via pLSA. Eur Confer Comput Vis (ECCV’06) 3954:517–530</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Dempster</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Laird</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Rubin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1977</Year>
+                  <ArticleTitle Language="En">Maximum likelihood from incomplete data via the EM algorithm</ArticleTitle>
+                  <JournalTitle>J R Stat Soc</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>38</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>501537</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0364.62022</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dempster A, Laird N, Rubin D (1977) Maximum likelihood from incomplete data via the EM algorithm. J R Stat Soc 39(1):1–38</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Deng J, Dong W, Socher R, Li L, Li K, Fei-Fei L (2009) Imagenet: a large-scale hierarchical image database. In: IEEE conference on computer vision and pattern recognition (CVPR’09)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Everingham</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Gool</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Williams</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Winn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zisserman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">The pascal visual object classes (VOC) challenge</ArticleTitle>
+                  <JournalTitle>Int J Comput Vis (IJCV’04)</JournalTitle>
+                  <VolumeID>88</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>303</FirstPage>
+                  <LastPage>338</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11263-009-0275-4</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Everingham M, Van Gool L, Williams C, Winn J, Zisserman A (2009) The pascal visual object classes (VOC) challenge. Int J Comput Vis (IJCV’04) 88(2):303–338</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Fellbaum</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <BookTitle>WordNet: an electronic lexical database</BookTitle>
+                  <PublisherName>MIT Press</PublisherName>
+                  <PublisherLocation>Cambridge</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0913.68054</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Fellbaum C (1998) WordNet: an electronic lexical database. MIT Press, Cambridge</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Felzenszwalb P, Girshick R, McAllester D, Ramanan D (2010) Object detection with discriminatively trained part-based models. IEEE Trans Pattern Anal Mach Intell (PAMI’10), 32(9). doi:<ExternalRef><RefSource>10.1109/TPAMI.2009.167</RefSource><RefTarget Address="10.1109/TPAMI.2009.167" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Greif T, Hörster E, Lienhart R (2008) Correlated topic models for image retrieval. Technical Report TR2008–09, University of Augsburg</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Hawkins</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Blakeslee</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>On intelligence</BookTitle>
+                  <PublisherName>Times Books</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Hawkins J, Blakeslee S (2004) On intelligence. Times Books, New York</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GE</Initials>
+                    <FamilyName>Hinton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Salakhutdinov</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Reducing the dimensionality of data with neural networks</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>313</VolumeID>
+                  <IssueID>5786</IssueID>
+                  <FirstPage>504</FirstPage>
+                  <LastPage>507</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2242509</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1226.68083</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.1127647</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hinton GE, Salakhutdinov RR (2006) Reducing the dimensionality of data with neural networks. Science 313(5786):504–507</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Hofmann</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Unsupervised learning by probabilistic latent semantic analysis</ArticleTitle>
+                  <JournalTitle>Mach Learn</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <IssueID>1–2</IssueID>
+                  <FirstPage>177</FirstPage>
+                  <LastPage>196</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0970.68130</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1007617005950</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hofmann T (2001) Unsupervised learning by probabilistic latent semantic analysis. Mach Learn 42(1–2):177–196</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>Hörster E, Lienhart R (2008) Deep networks for image retrieval on large-scale databases. In: ACM international conference on multimedia (MM’08), New York, pp 643–646</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>Hörster E, Lienhart R, Slaney M (2007) Image retrieval on large-scale image databases. In: ACM international conference on content-based image and video retrieval (CIVR’07), pp 17–24</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibUnstructured>Hörster E, Lienhart R, Slaney M (2008) Continuous visual vocabulary models for pL-based scene recognition. In: ACM international conference on content-based image and video retrieval (CIVR’08), New York, pp 319–328</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibUnstructured>Kennedy L, Naaman M, Ahern S, Nair R, Rattenbury T (2007) How flickr helps us make sense of the world: context and content in community-contributed media collections. In: ACM international conference on multimedia (MM’07), New York, pp 631–640</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibUnstructured>Lienhart R, Romberg S, Hörster E (2009) Multilayer pLSA for multimodal image retrieval (CIVR’09). In: ACM international conference on image and video retrieval, vol 14</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Lienhart</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Slaney</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">pLSA on large scale image databases</ArticleTitle>
+                  <JournalTitle>IEEE Int Confer Acoust Speech Signal Process (ICASSP’07)</JournalTitle>
+                  <VolumeID>IV</VolumeID>
+                  <FirstPage>1217</FirstPage>
+                  <LastPage>1220</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/ICASSP.2007.367295</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lienhart R, Slaney M (2007) pLSA on large scale image databases. IEEE Int Confer Acoust Speech Signal Process (ICASSP’07) IV:1217–1220</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DG</Initials>
+                    <FamilyName>Lowe</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Distinctive image features from scale-invariant keypoints</ArticleTitle>
+                  <JournalTitle>Int J Comput Vis (IJCV’04)</JournalTitle>
+                  <VolumeID>60</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>91</FirstPage>
+                  <LastPage>110</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/B:VISI.0000029664.99615.94</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lowe DG (2004) Distinctive image features from scale-invariant keypoints. Int J Comput Vis (IJCV’04) 60(2):91–110</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibUnstructured>Monay F, Gatica-Perez D (2004) pLSA-based image auto-annotation: constraining the latent space. In: ACM international conference on multimedia (MM?04), New York, pp 348–351 </BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Nister</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Stewenius</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Scalable recognition with a vocabulary tree</ArticleTitle>
+                  <JournalTitle>IEEE Confer Comput Vis Pattern Recogn (CVPR’06)</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <FirstPage>2161</FirstPage>
+                  <LastPage>2168</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/CVPR.2006.264</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nister D, Stewenius H (2006) Scalable recognition with a vocabulary tree. IEEE Confer Comput Vis Pattern Recogn (CVPR’06) 2:2161–2168</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Philbin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Chum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Isard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Sivic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zisserman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Object retrieval with large vocabularies and fast spatial matching</ArticleTitle>
+                  <JournalTitle>IEEE Confer Comput Vis Pattern Recogn (CVPR’07)</JournalTitle>
+                  <VolumeID>3613</VolumeID>
+                  <FirstPage>1575</FirstPage>
+                  <LastPage>1589</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/CVPR.2007.383172</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Philbin J, Chum O, Isard M, Sivic J, Zisserman A (2007) Object retrieval with large vocabularies and fast spatial matching. IEEE Confer Comput Vis Pattern Recogn (CVPR’07) 3613:1575–1589</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibUnstructured>Romberg S, Horster E, Lienhart R (2009) Multimodal pLSA on visual features and tags. In: IEEE international conference on multimedia and expo (ICME’09), pp 414–417. doi:<ExternalRef><RefSource>10.1109/ICME.2009.5202522</RefSource><RefTarget Address="10.1109/ICME.2009.5202522" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibUnstructured>Shechtman E, Irani M (2007) Matching local self-similarities across images and videos. In: IEEE conference on computer vision and pattern recognition (CVPR’07). doi:<ExternalRef><RefSource>10.1109/CVPR.2007.383198</RefSource><RefTarget Address="10.1109/CVPR.2007.383198" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibUnstructured>Sivic J, Russell BC, Zisserman A, Freeman WT, Efros AA (2008) Unsupervised discovery of visual object class hierarchies. In: IEEE conference on computer vision and pattern recognition (CVPR’08). doi:<ExternalRef><RefSource>10.1109/CVPR.2008.4587622</RefSource><RefTarget Address="10.1109/CVPR.2008.4587622" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibUnstructured>Sivic J, Zisserman A (2003) Video Google: a text retrieval approach to object matching in videos. In: International conference on computer vision (ICCV’03). doi:<ExternalRef><RefSource>10.1109/ICCV.2003.1238663</RefSource><RefTarget Address="10.1109/ICCV.2003.1238663" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibUnstructured>Xiao J, Hays J, Ehinger K, Oliva A, Torralba A (2010) Sun database: Large-scale scene recognition from abbey to zoo. In: IEEE conference on computer vision and pattern recognition (CVPR’10). doi:<ExternalRef><RefSource>10.1109/CVPR.2010.5539970</RefSource><RefTarget Address="10.1109/CVPR.2010.5539970" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibUnstructured>Zhang L, Wang X-j (2011) Multi-Feature pLSA for combining visual features in image annotation. In: ACM international conference on multimedia (MM’11), Scottsdale, Arizona, pp 1513–1516. doi:<ExternalRef><RefSource>10.1145/2072298.2072053</RefSource><RefTarget Address="10.1145/2072298.2072053" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

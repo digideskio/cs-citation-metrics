@@ -1,0 +1,2806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer India</PublisherName>
+    <PublisherLocation>India</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherLogo>
+      <Figure Category="Standard" Float="No" ID="Figa">
+        <MediaObject>
+          <ImageObject Color="BlackWhite" FileRef="309780_1_En_BookFrontmatter_Figa_HTML.png" Format="PNG" Rendition="HTML" Type="Linedraw"/>
+        </MediaObject>
+      </Figure>
+    </PublisherLogo>
+  </PublisherInfo>
+  <Book Language="En" OutputMedium="All">
+    <BookInfo BookProductType="Monograph" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ChapterContentSeparately" OutputMedium="All" TocLevels="2">
+      <BookID>978-81-322-0864-8</BookID>
+      <BookTitle>Biomonitoring of Water and Waste Water</BookTitle>
+      <BookDOI>10.1007/978-81-322-0864-8</BookDOI>
+      <BookTitleID>309780</BookTitleID>
+      <BookPrintISBN>978-81-322-0863-1</BookPrintISBN>
+      <BookElectronicISBN>978-81-322-0864-8</BookElectronicISBN>
+      <CatalogingInformation Library="LOC">Library of Congress Control Number: 2013931260</CatalogingInformation>
+      <BookEdition>2013</BookEdition>
+      <BookChapterCount>14</BookChapterCount>
+      <BookCopyright>
+        <CopyrightHolderName>Springer India</CopyrightHolderName>
+        <CopyrightYear>2013</CopyrightYear>
+        <CopyrightStandardText Country="IN" Language="En">This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed. Exempted from this legal reservation are brief excerpts in connection with reviews or scholarly analysis or material supplied specifically for the purpose of being entered and executed on a computer system, for exclusive use by the purchaser of the work. Duplication of this publication or parts thereof is permitted only under the provisions of the Copyright Law of the Publisher’s location, in its current version, and permission for use must always be obtained from Springer. Permissions for use may be obtained through RightsLink at the Copyright Clearance Center. Violations are liable to prosecution under the respective Copyright Law.</CopyrightStandardText>
+        <TrademarkQualifierText Country="IN" Language="En">The use of general descriptive names, registered names, trademarks, service marks, etc. in this publication does not imply, even in the absence of a specific statement, that such names are exempt from the relevant protective laws and regulations and therefore free for general use.</TrademarkQualifierText>
+        <ProductLiability Country="IN" Language="En">While the advice and information in this book are believed to be true and accurate at the date of publication, neither the authors nor the editors nor the publisher can accept any legal responsibility for any errors or omissions that may be made. The publisher makes no warranty, express or implied, with respect to the material contained herein.</ProductLiability>
+        <SpringerReferenceLine Country="IN" Language="En">Springer is part of Springer Science+Business Media (www.springer.com)</SpringerReferenceLine>
+        <SpringerLocationsLine>Springer New Delhi Heidelberg New York Dordrecht London</SpringerLocationsLine>
+      </BookCopyright>
+      <PaperInfo Language="En">Printed on acid-free paper</PaperInfo>
+      <BookSubjectGroup>
+        <BookSubject Code="SCU" Type="Primary">Environment</BookSubject>
+        <BookSubject Code="SCU33000" Priority="1" Type="Secondary">Environmental Engineering/Biotechnology</BookSubject>
+        <BookSubject Code="SC212000" Priority="2" Type="Secondary">Water Quality/Water Pollution</BookSubject>
+        <BookSubject Code="SCL00004" Priority="3" Type="Secondary">Life Sciences, general</BookSubject>
+        <BookSubject Code="SCL19031" Priority="4" Type="Secondary">Biodiversity</BookSubject>
+        <BookSubject Code="SCU35040" Priority="5" Type="Secondary">Waste Water Technology / Water Pollution Control / Water Management / Aquatic Pollution</BookSubject>
+        <SubjectCollection Code="SUCO11646">Earth and Environmental Science</SubjectCollection>
+      </BookSubjectGroup>
+    </BookInfo>
+    <BookHeader>
+      <AuthorGroup>
+        <Author AffiliationIDS="Aff1">
+          <AuthorName DisplayOrder="Western">
+            <GivenName>Anju</GivenName>
+            <FamilyName>Agrawal</FamilyName>
+          </AuthorName>
+        </Author>
+        <Author AffiliationIDS="Aff2">
+          <AuthorName DisplayOrder="Western">
+            <GivenName>Krishna</GivenName>
+            <FamilyName>Gopal</FamilyName>
+          </AuthorName>
+        </Author>
+        <Affiliation ID="Aff1">
+          <OrgDivision>Department of Zoology</OrgDivision>
+          <OrgName>S N Sen B V P G College CSJM University</OrgName>
+          <OrgAddress>
+            <City>Kanpur</City>
+            <State>UP</State>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgDivision>Aquatic Toxicology Division</OrgDivision>
+          <OrgName>CSIR-Indian Institute of Toxicology Research</OrgName>
+          <OrgAddress>
+            <City>Lucknow</City>
+            <State>UP</State>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+      </AuthorGroup>
+    </BookHeader>
+    <BookFrontmatter>
+      <BookFrontmatterInfo>
+        <BookFrontmatterFirstPage>i</BookFrontmatterFirstPage>
+        <BookFrontmatterLastPage>xvii</BookFrontmatterLastPage>
+      </BookFrontmatterInfo>
+      <BodyFrontmatter>
+        <Foreword>
+          <ForewordInfo>
+            <ForewordTitle Language="En">Foreword</ForewordTitle>
+          </ForewordInfo>
+          <Body>
+            <Para TextBreak="No">
+              The present textbook entitled
+              <Emphasis Type="Italic">Biological Monitoring of Water and Waste Water</Emphasis>
+              is an appreciable attempt made by Dr. Anju Agrawal, Associate Professor, and Dr. Krishna Gopal, Senior Principal Scientist. In fact, books written by Indian authors on Biological Monitoring and Waste Water are scanty. The books written by foreign writers are either not easily understood by Indian students or not accessible in market. Therefore, in the present national context such an attempt by two professionals are commendable.
+            </Para>
+            <Para TextBreak="No">Biological monitoring of water quality could be useful for assessing the overall health of water bodies followed by safe supply of drinking water. The chemical nature of toxicants is highly dynamic in the environment with time and space, whereas biological systems can integrate all environmental viables over a large period of time in terms of effect, which can be easily measured and quantified. In view of the above, there is pressing need to determine the biological quality of natural resources as well as drinking water based on standard protocols and guidelines provided by regulatory agencies.</Para>
+            <Para TextBreak="No">
+              This book fulfils the pressing need today in monitoring the biological responses of the species and communities, which are sheltering under the stress of abiotic and biotic alterations taking place inside the ecosystem. Apart from that, parameters selected within the chapters also cater to the needs of policy makers and authorities assessing for granting environmental clearances. In my opinion, the effort made by Dr. Agrawal and Dr. Gopal is praiseworthy. This book shall find a niche in the libraries and information centres of Indian universities and research institutes as well. I am sure the readers will like reading this book.
+              <Figure Category="Standard" Float="No" ID="Fig0000b">
+                <MediaObject ID="MO00002">
+                  <ImageObject Color="Color" FileRef="309780_1_En_BookFrontmatter_Figb_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+            </Para>
+            <Para TextBreak="No">Directorate of Coldwater Fisheries Research</Para>
+            <Para TextBreak="No">BhimtalDr. P. C. Mahanta</Para>
+            <Para TextBreak="No">May, 2012 (P.C. MAHANTA)</Para>
+            <Figure Category="Standard" Float="No" ID="Fig0000c">
+              <MediaObject ID="MO00003">
+                <ImageObject Color="Color" FileRef="309780_1_En_BookFrontmatter_Figc_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+              </MediaObject>
+            </Figure>
+            <Figure Category="Standard" Float="No" ID="Fig0000d">
+              <MediaObject ID="MO00001">
+                <ImageObject Color="Color" FileRef="309780_1_En_BookFrontmatter_Figd_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </MediaObject>
+            </Figure>
+          </Body>
+        </Foreword>
+        <Preface>
+          <PrefaceInfo>
+            <PrefaceTitle Language="En">Preface</PrefaceTitle>
+          </PrefaceInfo>
+          <Body>
+            <Para TextBreak="No">Biological monitoring of water quality could be useful for assessing the overall health of water bodies and safe supply of drinking water. The chemical nature of toxicant is highly dynamic in environment with time and space, whereas biological system can integrate all environmental variables over a large period of time in terms of effect which can be easily measured and quantified. In view of the above, there is pressing need to determine the water quality of natural resources as well as drinking water based on the standard protocols and guidelines from regulatory agencies.</Para>
+            <Para TextBreak="No">It is clear that the synthetic chemicals are essential for our society to maintain the health and well-being of the people. However, there has been a range of detrimental effects on human health and natural environment. In general, we need to improve our management of waste chemicals discharged into the air, water and soil environments. New techniques are needed to predict adverse effects before they occur and for the treatment of wastes. In addition, a range of social, political and economic factors will be needed to be taken into account in order to achieve success.</Para>
+            <Para TextBreak="No">The improper disposal of wastes causes contamination of both soil and water, which could lead to adverse effects on human health. Migration of chemicals through ground and surface water increases contaminants in drinking water sources. While giving the categories of hazardous wastes, there regulatory quantities and hazard potential in different types such as industrial, domestic, agricultural, nuclear, hospital, biochemical and pharmaceutical wastes.</Para>
+            <Para TextBreak="No">Every known substance has the potential to be toxic, while a potent toxin could be useful to human health. Several biotoxins can be used as medicines and also as pharmacological tools because of their specificities. Biotoxins are produced by wide range of organisms for their own defence and offence. They can severely affect or kill other living organisms. They can enter the body through ingestion of food and water or by air through aerosols. Marine biotoxins are important since they are most potent and many of them get biomagnified and become part of food chain.</Para>
+            <Para TextBreak="No">Heavy metals and other chemicals commonly found above the prescribed permissible limits and microbial agents have been found in drinking water. Disinfection is the most important step in the treatment of water for public supply for destruction of pathogens. It involves the use of a reactive chemical agent such as chlorine, which is not only bactericidal but in excess amounts is also capable of reacting with other water constituents to form new compounds with harmful long-term effects of human health. There is a need for the development of a natural disinfectant with no possible long-term harmful effects. Conclusively, it is clear that most of the xenobiotics and toxins can be determined using sophisticated instruments. However, mechanical devices and proper particles are only tools to record the biological monitoring of a natural ecosystem.</Para>
+            <Para TextBreak="No">
+              This book
+              <Emphasis Type="Italic">Biological Monitoring of Water and Waste Water</Emphasis>
+              is divided into fourteen chapters. The first chapter pertains to Measurement of Primary Productivity in Relation to Food Chain. The second chapter deals with Aquatic Weeds in Occurrence and Distribution. The third chapter deals with the Analysis of Phytoplankton and Zooplankton: Its Qualitative and Quantitative. The fourth chapter deals with Application of Diversity Index in Measurement of Species Diversity. Fifth chapter outlines Challenges of Fish Diversity in Polluted Water. The sixth chapter includes Biomass Production in Food Chain and Its Role in Trophic Levels. The seventh chapter includes Concept of Rare and Endangered Species and Its Impact as Biodiversity. The eighth chapter includes Protected Areas in Relation to Marine Parks and Sanctuaries. The ninth one includes Principles of Statistics and Reporting of Data. The tenth one deals with the General Principles of Toxicity and Its Application. The eleventh one includes Fate of Biotoxins in the Environment and Its Health Implications. Twelfth deals with Microbial Toxicity Studies. The thirteenth one is on Toxic Cyanobacteria in Water and Their Public Health Consequences. The fourteenth one is on Good Laboratory Practices in Biomonitoring.
+            </Para>
+            <Para TextBreak="No">Over and above, these chapters have been selected keeping in view of the syllabus of the Indian Universities and guidelines of institutions. There is pressing need today to monitor the biological responses of the species and communities which are sheltering under the stress of abiotic and biotic alterations undergoing inside the ecosystem. Parameters selected within the chapters are also catering the needs of policymakers and authorities assessing for granting environmental clearance. We authors will be happy to know the suggestions from the readers and other stake holders. The authors are sure that this book will be very useful to students and scientific community as a whole. Thanks are due to Springer for publishing this book.</Para>
+          </Body>
+        </Preface>
+        <Preface>
+          <PrefaceInfo>
+            <PrefaceTitle Language="En">About the Editors</PrefaceTitle>
+          </PrefaceInfo>
+          <Body>
+            <Para TextBreak="No">
+              <Emphasis Type="Bold">Dr</Emphasis>
+              .
+              <Emphasis Type="Bold">Anju Agrawal</Emphasis>
+              did her Doctor of Philosophy from Lucknow University, Lucknow, in the year 1986, but her work was carried in Central Drug Research Institute, Lucknow. Presently she is working as Associate Professor in S.N. Sen B.V.P.G. College, Kanpur which is associated to Chattrapati Sahuji Maharaj University, Kanpur. She has 13 books to her credit and ten book chapters. Her current area of research is parasitology and toxicology. She has published number of papers in both National and International Journals of repute and presented her work in Symposia both abroad and in India. She has received number of awards namely Fellow of Academy of Environmental Biology and Sneh Lata Gold Medal.
+            </Para>
+            <Para TextBreak="No">
+              <Emphasis Type="Bold">Dr</Emphasis>
+              .
+              <Emphasis Type="Bold">Krishna Gopal</Emphasis>
+              , Senior Principal Scientist, Aquatic Toxicology Division, CSIR-Indian Institute of Toxicology Research, Lucknow, is a distinguished Toxicologist. During his long research journey, he has developed expertise on standardization of modern techniques to assess the severity and mechanism of toxicity and physiological consequences, viz. neurobehavioral, neurotransmitters and series of hormone induced tissues and hematological changes in freshwater fish exposed to xenobiotics. His current area of research is related to assessing waterborne diseases at different developmental stages, environmental risk on direct exposure and indirectly through food chain, drinking water quality, biotoxins and emerging pollutants of global concern.
+            </Para>
+            <Para TextBreak="No">He has been credited with two patents and more than 120 research papers in journals of repute, and most of them were cited in reputed journals. He has edited five books and more than ten book chapters in his research domain.</Para>
+          </Body>
+        </Preface>
+        <Toc>
+          <Heading>Contents</Heading>
+          <TocChapter>
+            <TocEntry PageNumber="1">
+              <ExternalRef>
+                <RefSource>1 Measurement of Primary Productivity in Relation to Food Chain</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_1" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="1">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="1">
+                <ExternalRef>
+                  <RefSource>2 Gross Primary Productivity and Net Primary Production</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="2">
+                <ExternalRef>
+                  <RefSource>3 Terrestrial Production</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec3" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="2">
+                <ExternalRef>
+                  <RefSource>4 Oceanic Production</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec4" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="2">
+                  <ExternalRef>
+                    <RefSource>4.1 Light</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="3">
+                <ExternalRef>
+                  <RefSource>5 Measurement</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec8" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="4">
+                <ExternalRef>
+                  <RefSource>6 Terrestrial</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec9" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="4">
+                <ExternalRef>
+                  <RefSource>7 Grasslands</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec10" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="4">
+                <ExternalRef>
+                  <RefSource>8 Forests</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec11" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="5">
+                <ExternalRef>
+                  <RefSource>9 Aquatic</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec12" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="5">
+                <ExternalRef>
+                  <RefSource>10 Global</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec13" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="6">
+                <ExternalRef>
+                  <RefSource>11 Human Impact and Appropriation</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec14" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="6">
+                <ExternalRef>
+                  <RefSource>12 Autotrophs Versus Heterotrophs</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec15" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="6">
+                <ExternalRef>
+                  <RefSource>13 The Process of Primary Production</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec16" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="6">
+                  <ExternalRef>
+                    <RefSource>13.1 Energy Production by Primary Producers</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec17" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="9">
+                <ExternalRef>
+                  <RefSource>14 Patterns and Controls of Primary Production in the World’s Ecosystems</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec20" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="9">
+                <ExternalRef>
+                  <RefSource>15 The Flow of Energy to Higher Trophic Levels</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec21" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="10">
+                  <ExternalRef>
+                    <RefSource>15.1 An Example: The Fox and the Hare</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec22" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="11">
+                <ExternalRef>
+                  <RefSource>16 Pyramids of Biomass, Energy and Numbers</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec23" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="11">
+                  <ExternalRef>
+                    <RefSource>16.1 Pyramid of Numbers</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec24" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="12">
+                <ExternalRef>
+                  <RefSource>17 Humans and Energy Consumption</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Sec25" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="12">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_1#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="15">
+              <ExternalRef>
+                <RefSource>2 Aquatic Weeds: Occurrence and Distribution</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_2" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="15">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="15">
+                <ExternalRef>
+                  <RefSource>2 Natural Powers of Weeds</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="15">
+                <ExternalRef>
+                  <RefSource>3 Types of Weeds</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec3" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="16">
+                <ExternalRef>
+                  <RefSource>4 Principles of Crop Production and Weed Destruction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec4" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="16">
+                  <ExternalRef>
+                    <RefSource>4.1 Crop–Weed Competition</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="16">
+                  <ExternalRef>
+                    <RefSource>4.2 The Identification of Weeds</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec6" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="16">
+                  <ExternalRef>
+                    <RefSource>4.3 Preventive Measures</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec7" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="17">
+                  <ExternalRef>
+                    <RefSource>4.4 Control Methods</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec36" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="17">
+                  <ExternalRef>
+                    <RefSource>4.5 Aquatic Applications</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec12" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="18">
+                  <ExternalRef>
+                    <RefSource>4.6 Calculation of the Dosage Levels</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec19" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="18">
+                <ExternalRef>
+                  <RefSource>5 Aquatic Weed Control</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec20" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="19">
+                  <ExternalRef>
+                    <RefSource>5.1 Damages Caused by Aquatic Weeds</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec21" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="19">
+                  <ExternalRef>
+                    <RefSource>5.2 Harmful Effects of Weeds</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec22" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="20">
+                <ExternalRef>
+                  <RefSource>6 Classification of Aquatic Weeds</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec23" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="20">
+                  <ExternalRef>
+                    <RefSource>6.1 Emergent Weeds</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec24" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="21">
+                  <ExternalRef>
+                    <RefSource>6.2 Floating Weeds</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec25" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="21">
+                  <ExternalRef>
+                    <RefSource>6.3 Submerged Weeds</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec26" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="22">
+                <ExternalRef>
+                  <RefSource>7 Ecological Problems Related to Aquatic Environment</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec27" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="22">
+                  <ExternalRef>
+                    <RefSource>7.1 Algae</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec28" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="23">
+                  <ExternalRef>
+                    <RefSource>7.2 Hydrophytes</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec29" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="24">
+                <ExternalRef>
+                  <RefSource>8 Effect of Aquatic Weeds on Environment</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec33" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="25">
+                <ExternalRef>
+                  <RefSource>9 Management of Aquatic Weeds</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec34" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="25">
+                <ExternalRef>
+                  <RefSource>10 Preventive Approaches</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec35" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="26">
+                <ExternalRef>
+                  <RefSource>11 Control Methods</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec36" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="26">
+                  <ExternalRef>
+                    <RefSource>11.1 Physical or Mechanical Control Methods</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec37" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="28">
+                  <ExternalRef>
+                    <RefSource>11.2 Eco-Physiological Alterations</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec49" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="29">
+                  <ExternalRef>
+                    <RefSource>11.3 Biological Control of Weeds</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_2#Sec55" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="33">
+              <ExternalRef>
+                <RefSource>3 Analysis of Phytoplankton and Zooplankton: Qualitative and Quantitative</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_3" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="33">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_3#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="34">
+                <ExternalRef>
+                  <RefSource>2 Trophic Groups</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_3#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="34">
+                  <ExternalRef>
+                    <RefSource>2.1 Size Groups</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_3#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="36">
+                <ExternalRef>
+                  <RefSource>3 Zooplankton</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_3#Sec7" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="36">
+                <ExternalRef>
+                  <RefSource>4 Collection and Preservation of Plankton</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_3#Sec8" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="37">
+                  <ExternalRef>
+                    <RefSource>4.1 Plankton Net</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_3#Sec9" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="37">
+                <ExternalRef>
+                  <RefSource>5 Simplified Method</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_3#Sec13" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="38">
+                  <ExternalRef>
+                    <RefSource>5.1 Microtransect Method</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_3#Sec14" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="39">
+                <ExternalRef>
+                  <RefSource>6 Enumeration of Zooplankton (Small)</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_3#Sec17" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="39">
+                  <ExternalRef>
+                    <RefSource>6.1 Diversity Indices</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_3#Sec18" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="40">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_3#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="41">
+              <ExternalRef>
+                <RefSource>4 Application of Diversity Index in Measurement of Species Diversity</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_4" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="41">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="41">
+                <ExternalRef>
+                  <RefSource>2 Species Richness</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="41">
+                <ExternalRef>
+                  <RefSource>3 Species Evenness</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec3" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="41">
+                <ExternalRef>
+                  <RefSource>4 Concentration Ratio</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec4" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="42">
+                <ExternalRef>
+                  <RefSource>5 Simpson’s Diversity Index</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec5" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="42">
+                <ExternalRef>
+                  <RefSource>6 Shannon’s Diversity Index</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec6" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="43">
+                <ExternalRef>
+                  <RefSource>7 Berger–Parker Index</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec7" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="43">
+                <ExternalRef>
+                  <RefSource>8 Indices That Measure Lack of Diversity</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec8" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="43">
+                <ExternalRef>
+                  <RefSource>9 Renyi Entropy</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec9" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="43">
+                  <ExternalRef>
+                    <RefSource>9.1 Importance</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec10" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="44">
+                <ExternalRef>
+                  <RefSource>10 Diversity Indices</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec12" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="44">
+                <ExternalRef>
+                  <RefSource>11 Ecodiversity</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec13" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="45">
+                <ExternalRef>
+                  <RefSource>12 Data Format</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec14" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="45">
+                <ExternalRef>
+                  <RefSource>13 Individuals</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec15" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="45">
+                  <ExternalRef>
+                    <RefSource>13.1 Species</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec16" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="46">
+                <ExternalRef>
+                  <RefSource>14 Calculating Community Similarity and Diversity Indices</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Sec21" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="48">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_4#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="49">
+              <ExternalRef>
+                <RefSource>5 Challenges of Fish Diversity in Polluted Water</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_5" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="49">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_5#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="50">
+                <ExternalRef>
+                  <RefSource>2 By Species</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_5#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="50">
+                <ExternalRef>
+                  <RefSource>3 Jawless Fish</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_5#Sec3" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="50">
+                <ExternalRef>
+                  <RefSource>4 Cartilaginous Fish</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_5#Sec4" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="51">
+                <ExternalRef>
+                  <RefSource>5 Bony Fish</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_5#Sec5" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="51">
+                <ExternalRef>
+                  <RefSource>6 Teleosts</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_5#Sec6" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="51">
+                  <ExternalRef>
+                    <RefSource>6.1 By Size</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_5#Sec7" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="52">
+                  <ExternalRef>
+                    <RefSource>6.2 By Life Span</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_5#Sec8" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="53">
+                <ExternalRef>
+                  <RefSource>7 Early Fish</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_5#Sec13" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="54">
+                  <ExternalRef>
+                    <RefSource>7.1 By Vision</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_5#Sec14" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="56">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_5#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="59">
+              <ExternalRef>
+                <RefSource>6 Biomass Production in Food Chain and Its Role at Trophic Levels</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_6" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="59">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="60">
+                  <ExternalRef>
+                    <RefSource>1.1 Biomass Transfer Efficiency</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="60">
+                <ExternalRef>
+                  <RefSource>2 Fractional Trophic Levels</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec3" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="61">
+                <ExternalRef>
+                  <RefSource>3 Mean Trophic Level</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec4" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="61">
+                  <ExternalRef>
+                    <RefSource>3.1 FiB Index</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="62">
+                <ExternalRef>
+                  <RefSource>4 Trophic Dynamics</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec6" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="62">
+                <ExternalRef>
+                  <RefSource>5 Components of Ecosystems</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec7" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="63">
+                <ExternalRef>
+                  <RefSource>6 Biomass Production</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec8" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="63">
+                <ExternalRef>
+                  <RefSource>7 The Marine Food Chain</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec9" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="64">
+                <ExternalRef>
+                  <RefSource>8 Multitrophic Interactions</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec10" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="64">
+                <ExternalRef>
+                  <RefSource>9 Food Chain</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec11" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="65">
+                  <ExternalRef>
+                    <RefSource>9.1 Food Webs</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec12" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="65">
+                <ExternalRef>
+                  <RefSource>10 The Pyramid of Energy</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec14" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="66">
+                  <ExternalRef>
+                    <RefSource>10.1 The Pyramid of Biomass</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_6#Sec15" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="69">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_6#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="71">
+              <ExternalRef>
+                <RefSource>7 Concept of Rare and Endangered Species and Its Impact as Biodiversity</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_7" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="71">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="73">
+                  <ExternalRef>
+                    <RefSource>1.1 Typological Species</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec2" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="74">
+                  <ExternalRef>
+                    <RefSource>1.2 Evolutionary Species</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="74">
+                  <ExternalRef>
+                    <RefSource>1.3 Phylogenetic (Cladistic) Species</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="74">
+                  <ExternalRef>
+                    <RefSource>1.4 Other</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="75">
+                  <ExternalRef>
+                    <RefSource>1.5 Implications of Applying Species Status</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec13" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="76">
+                  <ExternalRef>
+                    <RefSource>1.6 Endangered Species</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec14" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="76">
+                <ExternalRef>
+                  <RefSource>2 Conservation Status</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec15" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="76">
+                <ExternalRef>
+                  <RefSource>3 Climate Change</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec16" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="76">
+                <ExternalRef>
+                  <RefSource>4 IUCN Species at Risk of Extinction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec17" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="77">
+                <ExternalRef>
+                  <RefSource>5 NatureServe Conservation Status</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec18" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="77">
+                <ExternalRef>
+                  <RefSource>6 Impact on Biodiversity and Endangered Species</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec19" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="78">
+                <ExternalRef>
+                  <RefSource>7 Species Maintaining Importance</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec20" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="78">
+                <ExternalRef>
+                  <RefSource>8 Preservation of Endangered Species</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec21" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="79">
+                <ExternalRef>
+                  <RefSource>9 Captive Breeding Programmes</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec22" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="79">
+                <ExternalRef>
+                  <RefSource>10 Endangered Species in India</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec23" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="81">
+                <ExternalRef>
+                  <RefSource>11 Identifying of Species</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec24" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="81">
+                  <ExternalRef>
+                    <RefSource>11.1 Methodology for Calculation of Rare and Endangered Species</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_7#Sec25" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="83">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_7#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="85">
+              <ExternalRef>
+                <RefSource>8 Protected Areas in Relation to Marine Parks and Sanctuaries</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_8" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="85">
+                <ExternalRef>
+                  <RefSource>1 Marine Parks</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="85">
+                <ExternalRef>
+                  <RefSource>2 Wildlife Sanctuaries</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="86">
+                <ExternalRef>
+                  <RefSource>3 Marine Protected Area</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec3" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="86">
+                  <ExternalRef>
+                    <RefSource>3.1 Protected Areas</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="87">
+                  <ExternalRef>
+                    <RefSource>3.2 Carbon Stocks</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="87">
+                  <ExternalRef>
+                    <RefSource>3.3 Rainforests</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec6" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="87">
+                  <ExternalRef>
+                    <RefSource>3.4 Mountains</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec7" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="87">
+                <ExternalRef>
+                  <RefSource>4 IUCN Protected Area Management Categories</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec8" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="88">
+                <ExternalRef>
+                  <RefSource>5 Coastal Zone</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec9" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="88">
+                  <ExternalRef>
+                    <RefSource>5.1 Classification Criteria and Regulatory Norms</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec10" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="89">
+                <ExternalRef>
+                  <RefSource>6 Karnataka State Coastal Zone Management Plan</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec14" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="90">
+                <ExternalRef>
+                  <RefSource>7 Human Impacts</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec15" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="90">
+                  <ExternalRef>
+                    <RefSource>7.1 Human Uses of Coasts</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec16" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="90">
+                  <ExternalRef>
+                    <RefSource>7.2 Threats to a Coast</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec17" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="91">
+                <ExternalRef>
+                  <RefSource>8 Conservation</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec18" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="91">
+                  <ExternalRef>
+                    <RefSource>8.1 Types of Coast</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec19" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="91">
+                  <ExternalRef>
+                    <RefSource>8.2 Coastal Landforms</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec20" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="92">
+                  <ExternalRef>
+                    <RefSource>8.3 The Coastline Problem</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec21" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="92">
+                  <ExternalRef>
+                    <RefSource>8.4 Describing a Coastline</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_8#Sec22" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="92">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_8#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="93">
+              <ExternalRef>
+                <RefSource>9 Principles of Statistics and Reporting of Data</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_9" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="93">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec00091" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="93">
+                <ExternalRef>
+                  <RefSource>2 Scope</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec00092" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="94">
+                <ExternalRef>
+                  <RefSource>3 Application of Statistics</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec00093" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="95">
+                <ExternalRef>
+                  <RefSource>4 Statistical Methods</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec00094" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="95">
+                  <ExternalRef>
+                    <RefSource>4.1 Experimental and Observational Studies</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec00095" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="96">
+                  <ExternalRef>
+                    <RefSource>4.2 Levels of Measurement</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec00098" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="96">
+                <ExternalRef>
+                  <RefSource>5 Key Terms Used in Statistics</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec00099" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="96">
+                  <ExternalRef>
+                    <RefSource>5.1 Null Hypothesis</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec000910" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="96">
+                  <ExternalRef>
+                    <RefSource>5.2 Error</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec000911" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="96">
+                  <ExternalRef>
+                    <RefSource>5.3 Interval Estimation</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec000912" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="97">
+                <ExternalRef>
+                  <RefSource>6 Significance</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec000913" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="97">
+                <ExternalRef>
+                  <RefSource>7 Specialised Disciplines</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec000914" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="98">
+                <ExternalRef>
+                  <RefSource>8 Statistical Computing</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec000915" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="98">
+                <ExternalRef>
+                  <RefSource>9 Statistics Applied to Mathematics or the Arts</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_9#Sec000916" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="99">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_9#Bib00091" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="101">
+              <ExternalRef>
+                <RefSource>10 General Principles of Toxicity and Its Application</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_10" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="101">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="101">
+                <ExternalRef>
+                  <RefSource>2 Acute Toxicity</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="102">
+                  <ExternalRef>
+                    <RefSource>2.1 Measures of Acute Toxicity</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="103">
+                  <ExternalRef>
+                    <RefSource>2.2 Single Species (Indicator) Tests</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec8" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="103">
+                  <ExternalRef>
+                    <RefSource>2.3 Multispecies Tests (Community Structure)</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec9" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="103">
+                  <ExternalRef>
+                    <RefSource>2.4 Acute Toxicity Tests</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec10" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="103">
+                  <ExternalRef>
+                    <RefSource>2.5 Lethality (LC50 or LD50)</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec11" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="104">
+                  <ExternalRef>
+                    <RefSource>2.6 Skin and Eye Tests</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec12" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="104">
+                  <ExternalRef>
+                    <RefSource>2.7 Potentiation</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec13" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="104">
+                <ExternalRef>
+                  <RefSource>3 Subacute Toxicity Tests</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec14" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="104">
+                  <ExternalRef>
+                    <RefSource>3.1 Subacute Toxicity</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec15" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="105">
+                <ExternalRef>
+                  <RefSource>4 Chronic Toxicity Tests</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec16" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="105">
+                  <ExternalRef>
+                    <RefSource>4.1 Full Life Cycle Tests</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec17" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="105">
+                  <ExternalRef>
+                    <RefSource>4.2 Most Sensitive Early Life Stages Toxicity Tests</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec20" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="106">
+                  <ExternalRef>
+                    <RefSource>4.3 Functional Tests</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec26" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="107">
+                  <ExternalRef>
+                    <RefSource>4.4 Other Toxicity Tests</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec30" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="108">
+                  <ExternalRef>
+                    <RefSource>4.5 Bioassay in Toxicity Testing</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec35" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="108">
+                <ExternalRef>
+                  <RefSource>5 Good Laboratory Practices (GLP)</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec36" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="108">
+                <ExternalRef>
+                  <RefSource>6 Cumulative Toxicity</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_10#Sec37" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="108">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_10#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="109">
+              <ExternalRef>
+                <RefSource>11 Fate of Biotoxins in the Environment and Its Health Implications</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_11" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="109">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="109">
+                <ExternalRef>
+                  <RefSource>2 Biotoxins of Animal Origin</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="109">
+                  <ExternalRef>
+                    <RefSource>2.1 Properties of Animal Toxins</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="109">
+                  <ExternalRef>
+                    <RefSource>2.2 Snake Venoms</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="110">
+                  <ExternalRef>
+                    <RefSource>2.3 Polypeptides</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="110">
+                  <ExternalRef>
+                    <RefSource>2.4 Lizard Venoms</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec6" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="110">
+                  <ExternalRef>
+                    <RefSource>2.5 Amphibian Toxins</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec7" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="110">
+                  <ExternalRef>
+                    <RefSource>2.6 Scorpion Toxins</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec8" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="110">
+                <ExternalRef>
+                  <RefSource>3 Toxins of Marine Origin</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec9" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="111">
+                  <ExternalRef>
+                    <RefSource>3.1 Marine Organisms Containing Toxins</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec10" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="112">
+                <ExternalRef>
+                  <RefSource>4 Toxins of Plant Origin</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec11" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="112">
+                  <ExternalRef>
+                    <RefSource>4.1 Cardiovascular System</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec12" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="112">
+                  <ExternalRef>
+                    <RefSource>4.2 Nervous System</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec13" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="113">
+                  <ExternalRef>
+                    <RefSource>4.3 Gastrointestinal Tract (GIT)</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec14" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="113">
+                  <ExternalRef>
+                    <RefSource>4.4 Liver</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec15" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="113">
+                  <ExternalRef>
+                    <RefSource>4.5 Okadaic Acid (OKA)</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec16" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="114">
+                  <ExternalRef>
+                    <RefSource>4.6 Domoic Acid</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec17" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="114">
+                  <ExternalRef>
+                    <RefSource>4.7 Ciguatoxin</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec18" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="115">
+                  <ExternalRef>
+                    <RefSource>4.8 Scombrotoxin</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec21" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="118">
+                  <ExternalRef>
+                    <RefSource>4.9 Kainic Acid</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec35" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="118">
+                  <ExternalRef>
+                    <RefSource>4.10 Ibotenic Acid</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec37" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="119">
+                <ExternalRef>
+                  <RefSource>5 Toxins Produced by Microorganisms</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_11#Sec40" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="120">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_11#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="121">
+              <ExternalRef>
+                <RefSource>12 Microbial Toxicity Studies</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_12" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="121">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="121">
+                <ExternalRef>
+                  <RefSource>2 Bacterial Toxin</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="121">
+                  <ExternalRef>
+                    <RefSource>2.1 Botulinum Neurotoxin</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="122">
+                  <ExternalRef>
+                    <RefSource>2.2 Tetanus Toxin</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec4" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="122">
+                  <ExternalRef>
+                    <RefSource>2.3 Anthrax Toxin</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec5" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="122">
+                  <ExternalRef>
+                    <RefSource>2.4 Subtilase Cytotoxin</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec6" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="122">
+                  <ExternalRef>
+                    <RefSource>2.5 Pasteurella multocida Toxin</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec7" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="122">
+                  <ExternalRef>
+                    <RefSource>2.6 Vibrio RTX Toxins</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec8" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="122">
+                  <ExternalRef>
+                    <RefSource>2.7 Helicobacter pylori Toxin</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec9" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="123">
+                  <ExternalRef>
+                    <RefSource>2.8 Staphylococcal Toxins</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec10" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="123">
+                  <ExternalRef>
+                    <RefSource>2.9 Cyanobacteria Toxins</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec11" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="123">
+                  <ExternalRef>
+                    <RefSource>2.10 Mycotoxins</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec12" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="124">
+                <ExternalRef>
+                  <RefSource>3 Fungal Ribotoxins</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec13" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="124">
+                <ExternalRef>
+                  <RefSource>4 Aquatic Microbiology</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec14" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="125">
+                  <ExternalRef>
+                    <RefSource>4.1 Role of Sediment Bacteria in Aquatic Ecosystems</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec15" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="125">
+                  <ExternalRef>
+                    <RefSource>4.2 Sediment Toxicity Tests to Derive Sediment Quality Guidelines</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec16" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="126">
+                  <ExternalRef>
+                    <RefSource>4.3 The Conditions in Unpolluted Anaerobic Sediments Can Be Toxic for Aerobic Organisms</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec17" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="126">
+                  <ExternalRef>
+                    <RefSource>4.4 The Use of Pollution-Induced Community Tolerance</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec18" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="127">
+                  <ExternalRef>
+                    <RefSource>4.5 A Separate Approach for Microbial Toxicity Tests Necessary for Ecotoxicological Risk Assessment of Polluted Sediments</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec19" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="127">
+                <ExternalRef>
+                  <RefSource>5 Effects of Toxicants on Microbial Growth</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec20" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="127">
+                <ExternalRef>
+                  <RefSource>6 Enumeration of Bacteria in Aquatic Environments</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec21" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="128">
+                <ExternalRef>
+                  <RefSource>7 Growth of Heterotrophic Microorganisms</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec22" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="130">
+                <ExternalRef>
+                  <RefSource>8 Geochemical Cycling: Nitrogen</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec23" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="131">
+                <ExternalRef>
+                  <RefSource>9 Decomposition Processes</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec24" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="131">
+                <ExternalRef>
+                  <RefSource>10 Unique Aspects of the Effects of Toxicants on Microorganisms</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec25" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="131">
+                  <ExternalRef>
+                    <RefSource>10.1 Chemotaxis</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec26" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="132">
+                  <ExternalRef>
+                    <RefSource>10.2 Epiphytic Microorganisms</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec27" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="132">
+                  <ExternalRef>
+                    <RefSource>10.3 Bioaccumulation in Bacteria</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec28" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="132">
+                  <ExternalRef>
+                    <RefSource>10.4 Adverse Effects of Microorganisms on Toxic Substances</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_12#Sec29" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="133">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_12#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="135">
+              <ExternalRef>
+                <RefSource>13 Toxic Cyanobacteria in Water and Their Public Health Consequences</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_13" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="135">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="135">
+                <ExternalRef>
+                  <RefSource>2 The Disease and How It Affects People: The Cause</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="136">
+                  <ExternalRef>
+                    <RefSource>2.1 The Cause</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec3" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="136">
+                <ExternalRef>
+                  <RefSource>3 Distribution and Scope of Problem</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec4" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="136">
+                <ExternalRef>
+                  <RefSource>4 Steps to Prevent Cyanobacterial Poisoning</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec5" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="137">
+                <ExternalRef>
+                  <RefSource>5 Cyanobacteria (Blue-Green Algae)</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec6" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="137">
+                <ExternalRef>
+                  <RefSource>6 Cyanobacterial Blooms and How They Are Formed</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec7" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="137">
+                <ExternalRef>
+                  <RefSource>7 Harmful Marine Algae</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec8" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="138">
+                <ExternalRef>
+                  <RefSource>8 Red Tide</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec9" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="138">
+                <ExternalRef>
+                  <RefSource>9 Assessing the Impact on Public Health</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec10" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="138">
+                <ExternalRef>
+                  <RefSource>10 Ciguatera</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec11" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="139">
+                <ExternalRef>
+                  <RefSource>11 Toxic Compounds Produced by Cyanobacteria</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec12" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="139">
+                  <ExternalRef>
+                    <RefSource>11.1 Microcystin</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec13" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="141">
+                  <ExternalRef>
+                    <RefSource>11.2 Nodularin</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec14" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="141">
+                  <ExternalRef>
+                    <RefSource>11.3 Lipopolysaccharides</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec15" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="143">
+                  <ExternalRef>
+                    <RefSource>11.4 Other Bioactive Compounds</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec19" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="143">
+                <ExternalRef>
+                  <RefSource>12 Method of Detecting and Quantifying Cyanobacterial Toxins</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec20" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="143">
+                  <ExternalRef>
+                    <RefSource>12.1 Physicochemical Methods</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec21" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="143">
+                  <ExternalRef>
+                    <RefSource>12.2 Biological, Biochemical and Immunological Methods</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec22" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="144">
+                  <ExternalRef>
+                    <RefSource>12.3 Concentration of Cyanobacterial Toxins for Analysis</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec23" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="144">
+                  <ExternalRef>
+                    <RefSource>12.4 Determination of the Potential for Cyanobacterial Toxin Production</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec24" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="144">
+                <ExternalRef>
+                  <RefSource>13 Cyanobacterial Toxins as Hazard to Health: Human and Animal Poisoning Episodes</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec25" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="145">
+                <ExternalRef>
+                  <RefSource>14 Animal Dosing Studies and Risk Assessment for Production of Human Health</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec26" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="145">
+                <ExternalRef>
+                  <RefSource>15 Effect of Cyanobacterial Toxins on Wild Animals and Plants</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec27" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="145">
+                <ExternalRef>
+                  <RefSource>16 Multiple Fate of Cyanobacterial Toxins</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec28" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="146">
+                <ExternalRef>
+                  <RefSource>17 Dose of Cyanobacterial Toxins</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Sec29" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="146">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_13#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+          <TocChapter>
+            <TocEntry PageNumber="149">
+              <ExternalRef>
+                <RefSource>14 Good Laboratory Practices in Biomonitoring</RefSource>
+                <RefTarget Address="10.1007/978-81-322-0864-8_14" TargetType="DOI"/>
+              </ExternalRef>
+            </TocEntry>
+            <TocSection1>
+              <TocEntry PageNumber="149">
+                <ExternalRef>
+                  <RefSource>1 Introduction</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="149">
+                <ExternalRef>
+                  <RefSource>2 GLP and OECD</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec2" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="150">
+                <ExternalRef>
+                  <RefSource>3 OECD Guidelines for the Testing of Chemicals</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec3" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="150">
+                <ExternalRef>
+                  <RefSource>4 GLP and the USFDA</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec4" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="150">
+                <ExternalRef>
+                  <RefSource>5 GLP and the European Union</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec5" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="151">
+                <ExternalRef>
+                  <RefSource>6 GLP and Non-OECD Member Countries</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec6" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="151">
+                <ExternalRef>
+                  <RefSource>7 Criticism of GLP</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec7" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="152">
+                <ExternalRef>
+                  <RefSource>8 Klimisch Score</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec8" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="152">
+                <ExternalRef>
+                  <RefSource>9 GLP and Automated Systems</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec9" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="152">
+                <ExternalRef>
+                  <RefSource>10 Good Clinical Laboratory Practices (GCLP)</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec10" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="152">
+                <ExternalRef>
+                  <RefSource>11 Infrastructure</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec11" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="153">
+                <ExternalRef>
+                  <RefSource>12 Personnel, Training and Development</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec12" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="153">
+                <ExternalRef>
+                  <RefSource>13 Equipment</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec13" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="153">
+                <ExternalRef>
+                  <RefSource>14 Reagents, Chemicals and Consumables</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec14" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="153">
+                <ExternalRef>
+                  <RefSource>15 Specimen Collection</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec15" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="154">
+                <ExternalRef>
+                  <RefSource>16 Requisition Form</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec16" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="154">
+                <ExternalRef>
+                  <RefSource>17 Registration of Samples</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec17" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="154">
+                <ExternalRef>
+                  <RefSource>18 Worksheet</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec18" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="154">
+                <ExternalRef>
+                  <RefSource>19 Reporting of Test Results</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec19" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="154">
+                <ExternalRef>
+                  <RefSource>20 Sample Rejection</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec20" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="154">
+                <ExternalRef>
+                  <RefSource>21 Data Management</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec21" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="154">
+                <ExternalRef>
+                  <RefSource>22 Standard Operating Procedure</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec22" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="155">
+                <ExternalRef>
+                  <RefSource>23 Laboratory Safety</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec23" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="155">
+                  <ExternalRef>
+                    <RefSource>23.1 Biosafety</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec24" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="155">
+                  <ExternalRef>
+                    <RefSource>23.2 Quality Assurance</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec25" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="155">
+                  <ExternalRef>
+                    <RefSource>23.3 Internal Audit</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec26" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="155">
+                <ExternalRef>
+                  <RefSource>24 Good Laboratory Practice Guidelines</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec27" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="156">
+                <ExternalRef>
+                  <RefSource>25 Elements of Good Laboratory Practice</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec28" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="156">
+                  <ExternalRef>
+                    <RefSource>25.1 Quality Assurance: Establishing Confidence in Reported Data</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec29" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="156">
+                  <ExternalRef>
+                    <RefSource>25.2 Statistical Procedures</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec30" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="157">
+                  <ExternalRef>
+                    <RefSource>25.3 Instrumentation Validation</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec31" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="157">
+                  <ExternalRef>
+                    <RefSource>25.4 Reagent/Materials Certification</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec32" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="157">
+                <ExternalRef>
+                  <RefSource>26 Certification of Analysts</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec33" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="157">
+                <ExternalRef>
+                  <RefSource>27 Certification of Laboratory Facilities</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec34" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="158">
+                <ExternalRef>
+                  <RefSource>28 Specimen/Sample Tracking</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec35" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="158">
+                  <ExternalRef>
+                    <RefSource>28.1 Documentation and Maintenance of Records</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec36" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="159">
+                  <ExternalRef>
+                    <RefSource>28.2 Accountability</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec37" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="159">
+                  <ExternalRef>
+                    <RefSource>28.3 GLP for the Chem 55 Laboratory</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec38" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="159">
+                <ExternalRef>
+                  <RefSource>29 Good Laboratory Practices for Animal Research</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec39" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="160">
+                <ExternalRef>
+                  <RefSource>30 Helpful Resources</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec40" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="162">
+                  <ExternalRef>
+                    <RefSource>30.1 Objective</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec41" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="162">
+                  <ExternalRef>
+                    <RefSource>30.2 Background</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec42" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="162">
+                  <ExternalRef>
+                    <RefSource>30.3 Scope</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec43" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="162">
+                <ExternalRef>
+                  <RefSource>31 General Principles</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec44" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="163">
+                  <ExternalRef>
+                    <RefSource>31.1 Standards</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec45" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="163">
+                  <ExternalRef>
+                    <RefSource>31.2 Animals</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec46" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="163">
+                  <ExternalRef>
+                    <RefSource>31.3 IVV and Route of Administration</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec47" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="163">
+                  <ExternalRef>
+                    <RefSource>31.4 Study Design</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec48" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="163">
+                <ExternalRef>
+                  <RefSource>32 Statistical Analysis</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec49" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="164">
+                  <ExternalRef>
+                    <RefSource>32.1 Guidelines</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec50" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="164">
+                  <ExternalRef>
+                    <RefSource>32.2 Laboratory Safety Tests</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec51" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="164">
+                <ExternalRef>
+                  <RefSource>33 One Dose and Repeat Dose Test</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec53" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="165">
+                  <ExternalRef>
+                    <RefSource>33.1 Data Collection</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec54" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="165">
+                  <ExternalRef>
+                    <RefSource>33.2 Reproductive Safety Test</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec55" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="165">
+                  <ExternalRef>
+                    <RefSource>33.3 Field Safety Test</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec56" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="166">
+                <ExternalRef>
+                  <RefSource>34 Animals</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec46" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+              <TocSection2>
+                <TocEntry PageNumber="166">
+                  <ExternalRef>
+                    <RefSource>34.1 Study Sites and Treatment</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec58" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+              <TocSection2>
+                <TocEntry PageNumber="166">
+                  <ExternalRef>
+                    <RefSource>34.2 Data Collection</RefSource>
+                    <RefTarget Address="10.1007/978-81-322-0864-8_14#Sec54" TargetType="DOI"/>
+                  </ExternalRef>
+                </TocEntry>
+              </TocSection2>
+            </TocSection1>
+            <TocSection1>
+              <TocEntry PageNumber="166">
+                <ExternalRef>
+                  <RefSource>References</RefSource>
+                  <RefTarget Address="10.1007/978-81-322-0864-8_14#Bib1" TargetType="DOI"/>
+                </ExternalRef>
+              </TocEntry>
+            </TocSection1>
+          </TocChapter>
+        </Toc>
+      </BodyFrontmatter>
+      <BodyRef FileRef="978-81-322-0864-8_BookFrontMatter.pdf" OutputMedium="Online" PDFType="Typeset" TargetType="OnlinePDF"/>
+    </BookFrontmatter>
+  </Book>
+</Publisher>

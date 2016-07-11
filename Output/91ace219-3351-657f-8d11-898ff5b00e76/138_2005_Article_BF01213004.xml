@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+</PublisherInfo>
+<Journal>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>138</JournalID>
+<JournalPrintISSN>0932-8092</JournalPrintISSN>
+<JournalElectronicISSN>1432-1769</JournalElectronicISSN>
+<JournalTitle>Machine Vision and Applications</JournalTitle>
+<JournalSubTitle>An International Journal</JournalSubTitle>
+<JournalAbbreviatedTitle>Machine Vis. Apps.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing</JournalSubject>
+        <JournalSubject Type="Secondary">Communications Engineering, Networks</JournalSubject>
+      </JournalSubjectGroup>
+</JournalInfo>
+<Volume>
+<VolumeInfo VolumeType="Regular" TocLevels="0">
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<Issue IssueType="Regular">
+<IssueInfo TocLevels="0">
+<IssueIDStart>3</IssueIDStart>
+<IssueIDEnd>3</IssueIDEnd>
+<IssueArticleCount>7</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<DateString>1988</DateString>
+<Year>1988</Year>
+<Month>9</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>Springer-Verlag</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<Article ID="Art3">
+<ArticleInfo Language="En" ArticleType="OriginalPaper" NumberingStyle="Unnumbered" TocLevels="0" ContainsESM="No">
+<ArticleID>BF01213004</ArticleID>
+<ArticleDOI>10.1007/BF01213004</ArticleDOI>
+<ArticleSequenceNumber>3</ArticleSequenceNumber>
+<ArticleTitle Language="En">Measure theoretic imaging, with an example employing magnetic resonance input</ArticleTitle>
+<ArticleFirstPage>169</ArticleFirstPage>
+<ArticleLastPage>174</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>2005</Year>
+<Month>2</Month>
+<Day>8</Day>
+</RegistrationDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>Springer-Verlag</CopyrightHolderName>
+<CopyrightYear>1988</CopyrightYear>
+</ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+<ArticleContext>
+<JournalID>138</JournalID>
+<VolumeIDStart>1</VolumeIDStart>
+<VolumeIDEnd>1</VolumeIDEnd>
+<IssueIDStart>3</IssueIDStart>
+<IssueIDEnd>3</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<ArticleHeader>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+<AuthorName DisplayOrder="Western">
+<GivenName>Fred</GivenName>
+<FamilyName>Greensite</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgDivision>Department of Radiological Sciences</OrgDivision>
+<OrgName>University of California-Irvine</OrgName>
+<OrgAddress>
+<Postcode>92717</Postcode>
+<City>Irvine</City>
+<State>CA</State>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<Abstract ID="Abs1" Language="En">
+<Heading>Abstract</Heading>
+<Para>We present a new medical imaging principle which allows reconstruction of images (from the output of a general digital imaging technology) whose contrast is based on a fundamentally different mathematical mechanism than that of standard images. These images have the useful property that they are capable of exhibiting high contrast between tissues which in currently produced images necessarily have low contrast. The meaning of these images, and their general place in the context of present image generation techniques, is most naturally expressed in the formalism of measure theory. The property actually imaged is derived from a probability measure associated with the mapping which expresses the output of the imaging technology. It also has a nonprobabilistic interpretation as a generalization of the Jacobian, specifically, the Radon-Nikodym derivative. In particular, unlike standard images, contrast is independent of the metric in the space of physical signals that the imaging technology associates with points of the region to be imaged. Images based on this approach using magnetic resonance input are presented.</Para>
+</Abstract>
+<KeywordGroup Language="En">
+<Heading>Key words</Heading>
+<Keyword>measure theory</Keyword>
+<Keyword>computed tomography</Keyword>
+<Keyword>imaging</Keyword>
+<Keyword>NMR</Keyword>
+<Keyword>MRI</Keyword>
+</KeywordGroup>
+</ArticleHeader>
+<BodyRef FileRef="BodyRef/PDF/138_2005_Article_BF01213004.pdf" TargetType="PDF"/>
+<ArticleBackmatter>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<BibUnstructured>Delapaz RL, Bernstein R, Dave JV, Chang PJ (1986) Tissue characterization with MRI using advanced digital processing techniques (fuzzy clustering), 5th Annual Meeting SMRM, Montreal, Canada</BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<BibArticle>
+<BibAuthorName>
+<Initials>JM</Initials>
+<FamilyName>Libove</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JR</Initials>
+<FamilyName>Singer</FamilyName>
+</BibAuthorName>
+<Year>1980</Year>
+<ArticleTitle Language="En">Resolution and signal-to-noise relationships in NMR imaging in the human body</ArticleTitle>
+<JournalTitle>Journal of Physics E</JournalTitle>
+<VolumeID>13</VolumeID>
+<FirstPage>38</FirstPage>
+<Occurrence Type="DOI">
+<Handle>10.1088/0022-3735/13/1/013</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Libove JM, Singer JR (1980) Resolution and signal-to-noise relationships in NMR imaging in the human body, Journal of Physics E, 13:38</BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<BibUnstructured>Ortendahl DA, Hylton NM (1985) Tissue type identification by MRI using pyramidal segmentation and intrinsic parameters, Proceedings of the 9th International Conference on Information Processing in Medical Imaging. Washington, D.C., 62</BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<BibBook>
+<BibAuthorName>
+<Initials>AN</Initials>
+<FamilyName>Shiryayev</FamilyName>
+</BibAuthorName>
+<Year>1984</Year>
+<BookTitle>Probability</BookTitle>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>New York</PublisherLocation>
+<Occurrence Type="DOI">
+<Handle>10.1007/978-1-4899-0018-0</Handle>
+</Occurrence>
+</BibBook>
+<BibUnstructured>Shiryayev AN (1984) Probability, Springer-Verlag, New York</BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<BibArticle>
+<BibAuthorName>
+<Initials>DB</Initials>
+<FamilyName>Twieg</FamilyName>
+</BibAuthorName>
+<Year>1983</Year>
+<ArticleTitle Language="En">The k-trajectory formulation of the NMR imaging process with applications in analysis and synthesis of imaging methods</ArticleTitle>
+<JournalTitle>Medical Physics</JournalTitle>
+<VolumeID>10</VolumeID>
+<FirstPage>610</FirstPage>
+<Occurrence Type="DOI">
+<Handle>10.1118/1.595331</Handle>
+</Occurrence>
+</BibArticle>
+<BibUnstructured>Twieg DB (1983) The k-trajectory formulation of the NMR imaging process with applications in analysis and synthesis of imaging methods, Medical Physics, 10:610</BibUnstructured>
+</Citation>
+</Bibliography>
+</ArticleBackmatter>
+</Article>
+</Issue>
+</Volume>
+</Journal>
+</Publisher>

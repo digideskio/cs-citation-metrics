@@ -1,0 +1,2694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <JournalSubject Type="Secondary">Information Storage and Retrieval</JournalSubject>
+        <JournalSubject Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Type="Secondary">Computer Science, general</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>1</VolumeIDStart>
+        <VolumeIDEnd>1</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>5</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>6</Month>
+              <Day>19</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2012</Year>
+              <Month>6</Month>
+              <Day>18</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-012-0005-5" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>5</ArticleID>
+            <ArticleDOI>10.1007/s13735-012-0005-5</ArticleDOI>
+            <ArticleSequenceNumber>5</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Á trous gradient structure descriptor for content based image retrieval</ArticleTitle>
+            <ArticleCategory>Regular Paper</ArticleCategory>
+            <ArticleFirstPage>129</ArticleFirstPage>
+            <ArticleLastPage>138</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+              </Received>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Megha</GivenName>
+                  <FamilyName>Agarwal</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>meghagarwal29@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>R.</GivenName>
+                  <GivenName>P.</GivenName>
+                  <FamilyName>Maheshwari</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>+91-1332-273560</Phone>
+                  <Fax>+91-1332-2-285596</Fax>
+                  <Email>rpmaheshwari@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Electrical Engineering</OrgDivision>
+                <OrgName>IIT Roorkee</OrgName>
+                <OrgAddress>
+                  <City>Uttarakhand</City>
+                  <Country Code="IN">India</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para>This paper first introduces á trous wavelet correlogram feature descriptor for image representation. By further extension in this descriptor, á trous gradient structure descriptor (AGSD) is proposed for content-based image retrieval. AGSD facilitates the feature calculation with the help of á trous wavelet’s orientation information in local manner. The local information of the image is extracted through microstructure descriptor (MSD); it finds the relations between neighborhood pixels. Finally, relation among á trous quantized image and MSD image is used for final feature extraction. The experiments are performed on Corel 1000, Corel 2450, and MIRFLICKR 25000 databases. Average precision, weighted precision, standard deviation of weighted precision, average recall, standard deviation of recall, and rank, etc., of proposed methods are compared with optimal quantized wavelet correlogram, Gabor wavelet correlogram, and combination of standard wavelet filter and rotated wavelet filter correlogram. It is concluded that the proposed methods have improved the retrieval performance significantly.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Á trous wavelet transform</Keyword>
+              <Keyword>Content based image retrieval (CBIR)</Keyword>
+              <Keyword>Gabor wavelet correlogram (GWC)</Keyword>
+              <Keyword>Optimal quantized wavelet correlogram (OQWC)</Keyword>
+              <Keyword>Rotated wavelet filter (RWF)</Keyword>
+              <Keyword>Standard wavelet filter (SWF)</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Section2 ID="Sec2">
+                <Heading>Motivation</Heading>
+                <Para>Nowadays digital media is increasing in various applications, e.g. satellite, scientific, industrial, medical, environmental, educational, entertainment, and general photographs database. For machine-based browsing of images according to user’s interest from these large image databases it is required to have efficient algorithm. To solve this problem content-based image retrieval (CBIR) came into picture [<CitationRef CitationID="CR1">1</CitationRef>]. CBIR uses the visual contents of an image such as color, shape, texture, and spatial layout to represent and index the image. There exist multiple representations for every content in the image, which characterize visual features from different visual perspectives. So, contents of the images in the database are extracted in the form of features and described as feature vectors. The feature vectors of the database images form a feature database. Similarity comparison is the next step after feature database creation. It finds similarities/distances between the feature vectors of the query image and database images and then retrieves relevant images in conjunction with an indexing scheme [<CitationRef CitationID="CR2">2</CitationRef>].</Para>
+                <Para>In an image, color is one of the most widely used spatial visual content for image retrieval. Swain et al. [<CitationRef CitationID="CR3">3</CitationRef>] proposed the idea of color histogram in 1990. Pass et al. [<CitationRef CitationID="CR4">4</CitationRef>] introduced color coherence vector (CCV) by splitting each histogram bin into two parts, i.e., coherent and incoherent. Huang et al. [<CitationRef CitationID="CR5">5</CitationRef>] designed a color feature called color correlogram (CC). It characterizes not only the color distributions of pixels, but also the spatial correlation between pairs of colors. Texture is another salient feature for CBIR. It contains important information about the structural arrangement of surfaces and their relationship to the surrounding environment. Smith et al. [<CitationRef CitationID="CR6">6</CitationRef>] calculated mean and variance of the wavelet coefficients for CBIR. Moghaddam et al. [<CitationRef CitationID="CR7">7</CitationRef>] introduced an algorithm called wavelet correlogram (WC) by combining the concept of color (color correlogram) and texture (wavelet transform) properties. Manjunath et al. [<CitationRef CitationID="CR8">8</CitationRef>] used Gabor wavelet transform (GWT) for texture image retrieval. Murala et al. [<CitationRef CitationID="CR9">9</CitationRef>] proposed the combination of color histogram and GWT for CBIR. Agarwal et al. [<CitationRef CitationID="CR10">10</CitationRef>] proposed the histogram of oriented gradients (HOG) local feature descriptor for CBIR. Agarwal et al. [<CitationRef CitationID="CR11">11</CitationRef>] found the application of log Gabor wavelet transform for image retrieval. Agarwal et al. [<CitationRef CitationID="CR12">12</CitationRef>] proposed binary wavelet transform-based histogram (BWTH) to retrieve images from natural image databases. BWTH exhibits the advantages of binary wavelet transform and histogram.</Para>
+              </Section2>
+              <Section2 ID="Sec3">
+                <Heading>Related work</Heading>
+                <Para>Moghaddam et al. [<CitationRef CitationID="CR13">13</CitationRef>] proposed the Gabor wavelet correlogram (GWC) for CBIR. Saadatmand et al. [<CitationRef CitationID="CR14">14</CitationRef>] has improved the performance of WC by optimizing the wavelet coefficients. Gonde et al. [<CitationRef CitationID="CR15">15</CitationRef>] proposed the texton co-occurrence matrix for image retrieval. Subrahmanyam et al. [<CitationRef CitationID="CR16">16</CitationRef>] proposed combination of standard wavelet filters (SWFs) and rotated wavelet filters (RWFs) to collect the four directional <InlineEquation ID="IEq1"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$(0^{\circ }, +45^{\circ }, 90^{\circ }, -45^{\circ })$$]]></EquationSource></InlineEquation> information of the image and further used for correlogram feature calculation. Liu et al. [<CitationRef CitationID="CR17">17</CitationRef>] proposed microstructure descriptor (MSD) for CBIR. The microstructures are defined by computing edge orientation similarity and the underlying colors, which can effectively represent image local features. Liu et al. [<CitationRef CitationID="CR18">18</CitationRef>] gave feature representation method, called multi-texton histogram (MTH) for image retrieval. MTH integrates the advantages of co-occurrence matrix and histogram by representing the attribute of co-occurrence matrix using histogram. Á trous wavelet transform [<CitationRef CitationID="CR19">19</CitationRef>] is a type of multiresolution analysis with non-orthogonal and shift-invariant properties.</Para>
+                <Para>The paper is organized as follows: Sect. <InternalRef RefID="Sec1">1</InternalRef> consists of overview of CBIR and related works. In Sect. <InternalRef RefID="Sec4">2</InternalRef>, á trous wavelet correlogram (AWC) is proposed. Section <InternalRef RefID="Sec6">3</InternalRef> introduces á trous gradient structure descriptor (AGSD). Section <InternalRef RefID="Sec10">4</InternalRef> describes experimental results and comparative analysis of proposed methods. Finally, in Sect. <InternalRef RefID="Sec14">5</InternalRef> conclusions are derived.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec4">
+              <Heading>Á trous wavelet correlogram (AWC)</Heading>
+              <Para>In this paper AWC is proposed for CBIR application. For the AWC calculations in the primitive step á trous wavelet transform is required and is explained in the following section.</Para>
+              <Para>
+                <Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Quantization threshold for á trous wavelet decomposition scales</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_5_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>
+                <Figure Category="Standard" Float="Yes" ID="Fig2">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Schematic diagram for proposed features</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO2">
+                    <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_5_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Section2 ID="Sec5">
+                <Heading>Á trous wavelet transform</Heading>
+                <Para>The multiresolution analysis can be performed in two manners, pyramid structure, and á trous structure. In pyramidal structure images at each scale are down sampled by a factor of 2. It causes reduction in subband sizes at each scale. But in case of á trous structure down sampling is not performed. This causes number of approximation coefficients always equal to number of image pixels. So, analysis of subbands among different scales is possible. By avoiding the down sampling translation invariant property is also achieved. In contrast to pyramid structural wavelet transform no classification among horizontal, vertical, and diagonal subbands are present in á trous structure [<CitationRef CitationID="CR19">19</CitationRef>]. These properties of á trous wavelet transform are utilized in the proposed features extraction. Given an image <InlineEquation ID="IEq2"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I$$]]></EquationSource></InlineEquation> of size <InlineEquation ID="IEq3"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$X\times Y$$]]></EquationSource></InlineEquation> and resolution <InlineEquation ID="IEq4"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2^j,$$]]></EquationSource></InlineEquation> on each scale of á trous wavelet calculation the approximation of image <InlineEquation ID="IEq5"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I $$]]></EquationSource></InlineEquation> with coarser spatial resolution is obtained. Likewise, by dyadic decomposition approach at the <InlineEquation ID="IEq6"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource></InlineEquation>th scale the resolution of the approximation image is <InlineEquation ID="IEq7"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2^{j-N}$$]]></EquationSource></InlineEquation>. The size of each approximation image is always same as the image <InlineEquation ID="IEq8"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I$$]]></EquationSource></InlineEquation>. The scaling function used for calculating approximation image is <InlineEquation ID="IEq9"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$B_{3}$$]]></EquationSource></InlineEquation> cubic spline and is given by low-pass filter shown by Eq. <InternalRef RefID="Equ1">1</InternalRef>:<Equation ID="Equ1"><EquationNumber>1</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} h=\frac{1}{256}\left[{{\begin{array}{l@{\quad }l@{\quad }l@{\quad }l@{\quad }l} 1&4&6&4&1 \\ 4&16&24&16&4 \\ 6&24&36&24&6 \\ 4&16&24&16&4 \\ 1&4&6&4&1 \\ \end{array} }} \right] \end{aligned}$$]]></EquationSource></Equation>The approximation image at first scale is given by Eq. <InternalRef RefID="Equ2">2</InternalRef>:<Equation ID="Equ2"><EquationNumber>2</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} I_{2^{j-1}} =I_{2^j} \otimes h \end{aligned}$$]]></EquationSource></Equation>To obtain coarser approximations of the original image, the above filter must be filled with zeros, to match the resolution of desired scale. The detailed information lost between the <InlineEquation ID="IEq10"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2^{j}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq11"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2^{j-1}$$]]></EquationSource></InlineEquation> images are collected in one wavelet coefficient image <InlineEquation ID="IEq12"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$W_{2}^{j-1},$$]]></EquationSource></InlineEquation> by subtracting corresponding approximation coefficients at consecutive decomposition scales. This wavelet plane represents the horizontal, vertical, and diagonal spatial detail between <InlineEquation ID="IEq13"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2^{j}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq14"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2^{j-1}$$]]></EquationSource></InlineEquation> resolution as given by Eq. <InternalRef RefID="Equ3">3</InternalRef>.<Equation ID="Equ3"><EquationNumber>3</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} W_{2^{j-1}} =I_{2^j} -I_{2^{j-1}} \end{aligned}$$]]></EquationSource></Equation>The original image <InlineEquation ID="IEq15"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I_{2}^{j}$$]]></EquationSource></InlineEquation> can be reconstructed exactly by adding approximation image <InlineEquation ID="IEq16"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I_{2}^{j-N}$$]]></EquationSource></InlineEquation> to the wavelet plane <InlineEquation ID="IEq17"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$W_{2}^{j-N }$$]]></EquationSource></InlineEquation> at <InlineEquation ID="IEq18"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource></InlineEquation>th scale like in Eq. <InternalRef RefID="Equ4">4</InternalRef>.<Equation ID="Equ4"><EquationNumber>4</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} I_{2^j} =I_{2^{j-N}} +\sum \limits _{i=1}^{N-1} {W_{2^{j-i}} } \end{aligned}$$]]></EquationSource></Equation>Á trous coefficients have wide dynamic range of real numbers, so directly it is not suitable for correlogram calculation. Á trous wavelet coefficients are calculated up to three scales and each scale is quantized into 16 levels using the quantization threshold given in Eq. <InternalRef RefID="Equ5">5</InternalRef> to avoid the problem of large dynamic range. <InlineEquation ID="IEq19"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L1, L2 {\ldots } L15$$]]></EquationSource></InlineEquation> defines the quantization thresholds. Figure <InternalRef RefID="Fig1">1</InternalRef> shows quantization thresholds and levels for á trous wavelet coefficients for different scales.<Equation ID="Equ5"><EquationNumber>5</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \left.{\begin{array}{l} \text{ First} \text{ scale} \\ \quad L1=-30,L2=-20,L3=-15,L4=-10,\\ \quad L5=-6,L6=-3,L7=-1,L8=-0.15, \\ \quad L9=0.15,L10=1.8,L11=4.5,L12=10,\\ \quad L13=20,L14=35,L15=50. \\ \text{ Second} \text{ scale} \\ \quad L1=-20,L2=-18,L3=-15,L4=-12,\\ \quad L5=-8,L6=-4,L7=-1,L8=-0.15, \\ \quad L9=0.15,L10=4,L11=8,L12=15,\\ \quad L13=25,L14=40,L15=55. \\ \text{ Third} \text{ scale} \\ \quad L1=-15,L2=-12,L3=-10,L4=-9,\\ \quad L5=-6,L6=-3,L7=-1.5,L8=-0.4, \\ \quad L9=0.4,L10=2.5,L11=5.5,L12=11,\\ \quad L13=21,L14=36,L15=56. \\ \end{array}} \right\} \end{aligned}$$]]></EquationSource></Equation>
+                  <Figure Category="Standard" Float="Yes" ID="Fig3"><Caption Language="En"><CaptionNumber>Fig. 3</CaptionNumber><CaptionContent><SimplePara>Schematic diagram for micro structure descriptor (<Emphasis Type="Italic">MSD</Emphasis>)</SimplePara></CaptionContent></Caption><MediaObject ID="MO8"><ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_5_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/></MediaObject></Figure>
+                </Para>
+                <Para>The authors have proposed á trous wavelet correlogram (AWC) by utilization of correlation among á trous wavelet coefficients. After quantization of á trous wavelet coefficients, for AWC (proposed method 1) extraction auto correlogram is calculated on quantized á trous wavelet coefficients in four directions. In Fig. <InternalRef RefID="Fig2">2</InternalRef> the area without dotted line covers the schematic diagram for proposed method 1 (PM1) and algorithm for PM1 is given as follows:</Para>
+                <Para>
+                  <Emphasis Type="Italic">Algorithm 1:</Emphasis>
+                </Para>
+                <Para>
+                  <Emphasis Type="Italic">Input: RGB images</Emphasis>
+                </Para>
+                <Para>
+                  <Emphasis Type="Italic">Output: PM1 Feature vector for input image</Emphasis>
+                  <OrderedList>
+                    <ListItem>
+                      <ItemNumber>1.</ItemNumber>
+                      <ItemContent>
+                        <Para>Take RGB image and convert it into gray image.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>2.</ItemNumber>
+                      <ItemContent>
+                        <Para>Calculate á trous wavelet transform up-to three scales using Eq. <InternalRef RefID="Equ3">3</InternalRef>.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>3.</ItemNumber>
+                      <ItemContent>
+                        <Para>Quantize á trous wavelet coefficients at each scale as given by Eq. <InternalRef RefID="Equ5">5</InternalRef>.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>4.</ItemNumber>
+                      <ItemContent>
+                        <Para>On quantized á trous wavelet transformed image <InlineEquation ID="IEq20"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I$$]]></EquationSource></InlineEquation> at each scale s, auto correlogram is calculated in four directions by using Eq. <InternalRef RefID="Equ6">6</InternalRef>. <Equation ID="Equ6"><EquationNumber>6</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&F_{{i,j}^{( k)}} {_{s}} =\mathop {Pr}\limits _{p_1 \in I_{c(i)} ,p_2 \in I} \left[{p_2 \in I^s_{c(j)} \left|\!{\left| {p_1 -p_2 } \right|=k} \right.} \right] \nonumber \\ & i=j\,\mathrm{ for\,autocorrelogram},\,k=1 \end{aligned}$$]]></EquationSource></Equation>
+                          <InlineEquation ID="IEq21"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${I_{c( i)}}^s$$]]></EquationSource></InlineEquation> represents the set of pixels whose values are <InlineEquation ID="IEq22"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c(i), s$$]]></EquationSource></InlineEquation> represent the scale of á trous wavelet transformed image, and <InlineEquation ID="IEq23"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq23.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$| {p_1 -p_2 }|$$]]></EquationSource></InlineEquation> is the distance between <InlineEquation ID="IEq24"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq24.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p_{1}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq25"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq25.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p_{2}$$]]></EquationSource></InlineEquation>.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>5.</ItemNumber>
+                      <ItemContent>
+                        <Para>For each scale <InlineEquation ID="IEq26"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq26.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$F_{{i,j}^{(k)}} {_{s}}$$]]></EquationSource></InlineEquation> is calculated and combined for the construction of PM1 feature vector.</Para>
+                      </ItemContent>
+                    </ListItem>
+                  </OrderedList>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec6">
+              <Heading>Á trous gradient structure descriptor (AGSD)</Heading>
+              <Para>By further work in this direction á trous gradient structure descriptor (AGSD) is introduced as proposed method 2 (PM2). In the calculation of AGSD the first step is to obtain á trous wavelet transform image. From á trous wavelet transformed images orientation information are extracted. Through each á trous scaled image and its orientation information, MSD image is obtained. In the final step of calculation autocorrelogram is calculated from MSD images. The following sections illustrate all the processing steps.</Para>
+              <Section2 ID="Sec7">
+                <Heading>Orientation angle calculation</Heading>
+                <Para>In order to calculate PM2 from á trous transformed images, orientation information is extracted. If <InlineEquation ID="IEq27"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq27.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$L(x, y)$$]]></EquationSource></InlineEquation> is the value of pixel at coordinate <InlineEquation ID="IEq28"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq28.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$(x, y)$$]]></EquationSource></InlineEquation>, then orientation values can be calculated using Eq. <InternalRef RefID="Equ7">7</InternalRef>.<Equation ID="Equ7"><EquationNumber>7</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathrm{ Orient}(x,y)&= \tan ^{-1}((L(x,y+1)-L(x,y-1)) \big /\nonumber \\&(L(x+1,y)-L(x-1,y))) \end{aligned}$$]]></EquationSource></Equation>It gives the orientation values ranging from <InlineEquation ID="IEq29"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq29.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$-90^{\circ }$$]]></EquationSource></InlineEquation> to <InlineEquation ID="IEq30"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq30.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+90^{\circ }$$]]></EquationSource></InlineEquation>. These orientation values are quantized into 17 levels.</Para>
+              </Section2>
+              <Section2 ID="Sec8">
+                <Heading>Microstructure descriptor (MSD)</Heading>
+                <Para>Textures are formed by simple primitive texture elements. A typical example is Julesz’s texton theory [<CitationRef CitationID="CR20">20</CitationRef>], but it emphasizes on regular texture images. To avoid this problem, the microstructures are used in this paper for image retrieval. Contents of natural images can be considered as constructed by many microstructures [<CitationRef CitationID="CR17">17</CitationRef>]. The microstructures compute the similarity of orientation in the neighborhood. The quantized orientation image is having values ranging from 1 to 17. For implementation of MSD the quantized orientation image is divided into <InlineEquation ID="IEq31"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq31.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$3\times 3$$]]></EquationSource></InlineEquation> regions, called blocks. Flow diagram for MSD calculation is shown in Fig. <InternalRef RefID="Fig3">3</InternalRef> and algorithm for MSD calculation is as follows: <Figure Category="Standard" Float="No" ID="Figa"><MediaObject ID="MO11"><ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_5_Figa_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject></Figure>
+                </Para>
+                <Para>Figure <InternalRef RefID="Fig2">2</InternalRef> shows the PM2 (AGSD) framework for image feature extraction where the area without dotted line covers PM1. Implementation algorithm of the PM2 is given below.</Para>
+                <Para>
+                  <Emphasis Type="Italic">Algorithm 3:</Emphasis>
+                </Para>
+                <Para>
+                  <Emphasis Type="Italic">Input: RGB image</Emphasis>
+                </Para>
+                <Para>
+                  <Emphasis Type="Italic">Output: PM2 Feature vector for input image</Emphasis>
+                  <OrderedList>
+                    <ListItem>
+                      <ItemNumber>1.</ItemNumber>
+                      <ItemContent>
+                        <Para>Convert input RGB image into gray image <InlineEquation ID="IEq32"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq32.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$(I)$$]]></EquationSource></InlineEquation>
+                        </Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>2.</ItemNumber>
+                      <ItemContent>
+                        <Para>Find the á trous wavelet transform of <InlineEquation ID="IEq33"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq33.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I$$]]></EquationSource></InlineEquation> up to three scales using Eq. <InternalRef RefID="Equ3">3</InternalRef>
+                        </Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>3.</ItemNumber>
+                      <ItemContent>
+                        <Para>From each scale of á trous wavelet transformed image extract the orientation information using Eq. <InternalRef RefID="Equ7">7</InternalRef>
+                        </Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>4.</ItemNumber>
+                      <ItemContent>
+                        <Para>Quantize the orientation image into 17 levels</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>5.</ItemNumber>
+                      <ItemContent>
+                        <Para>Calculate the MSD image from each scale of quantized á trous wavelet transformed image and orientation image (Algorithm <InternalRef RefID="Figa">2</InternalRef>)</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>6.</ItemNumber>
+                      <ItemContent>
+                        <Para>From each <Emphasis Type="Italic">MSD</Emphasis> image <InlineEquation ID="IEq34"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq34.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$M$$]]></EquationSource></InlineEquation>, calculate the auto correlogram for four directions by using Eq. <InternalRef RefID="Equ8">8</InternalRef>. <Equation ID="Equ8"><EquationNumber>8</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} {F_{i,j}}^{(k)} {_{s}}&= \mathop {Pr}\limits _{p_1 \in I_{c(i)} ,p_2 \in I} \left[{p_2 \in {M_{c(j)}} ^s\left|\!{\left| {p_1 -p_2 } \right|=k} \right.} \right]\nonumber \\ &i=j\,\mathrm{ for\,autocorrelogram},\,k=1 \end{aligned}$$]]></EquationSource></Equation>
+                          <InlineEquation ID="IEq35"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq35.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${M_{c( i)}} ^s$$]]></EquationSource></InlineEquation> represents the set of pixels whose values are <InlineEquation ID="IEq36"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq36.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$c(i), s$$]]></EquationSource></InlineEquation> represent the scale of á trous wavelet transformed image, and <InlineEquation ID="IEq37"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq37.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$| {p_1 -p_2 }|$$]]></EquationSource></InlineEquation> is the distance between <InlineEquation ID="IEq38"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq38.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p_{1}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq39"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq39.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p_{2}$$]]></EquationSource></InlineEquation>.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>7.</ItemNumber>
+                      <ItemContent>
+                        <Para>For each scale <InlineEquation ID="IEq40"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq40.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${F_{i,j}} ^{( k)} {_s} $$]]></EquationSource></InlineEquation> is calculated and combined for the construction of PM2 feature vector.</Para>
+                      </ItemContent>
+                    </ListItem>
+                  </OrderedList>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec9">
+                <Heading>Similarity measurement</Heading>
+                <Para>To find similarity among query and database images (query image is any image selected by user from the image database) first, query image and database images are processed to compute features. Distance measure <InlineEquation ID="IEq41"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq41.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d_{1}$$]]></EquationSource></InlineEquation> given by Eq. <InternalRef RefID="Equ9">9</InternalRef> is used to compute the difference between query image and database image features.<Equation ID="Equ9"><EquationNumber>9</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} D(Q,T)=\sum \limits _{i=1}^\Gamma {\frac{\left| {Q_i -T_i } \right|}{\left| {1+Q_i +T_i } \right|}}, \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq42"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq42.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Q_i $$]]></EquationSource></InlineEquation> is feature vector of query image,<InlineEquation ID="IEq43"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq43.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T_i $$]]></EquationSource></InlineEquation> is feature vector of database images, and <InlineEquation ID="IEq44"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq44.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\Gamma $$]]></EquationSource></InlineEquation> is the feature vector length. Database image having small <InlineEquation ID="IEq45"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq45.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$D (Q, T)$$]]></EquationSource></InlineEquation> value is considered as more relevant to query image.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec10">
+              <Heading>Experimental results</Heading>
+              <Para>All experiments are performed on the Corel 1000 (DB1), Corel 2450 (DB2) natural image databases [<CitationRef CitationID="CR21">21</CitationRef>], and <Emphasis Type="Italic">MIRFLICKR 25000</Emphasis> (DB3). Due to variety in contents these databases are being used by researchers in various scientific articles of CBIR. Various performance measures like precision, recall, and rank, etc., are calculated to compare the performance of proposed methods with some of already published papers [<CitationRef CitationID="CR13">13</CitationRef>, <CitationRef CitationID="CR14">14</CitationRef>, <CitationRef CitationID="CR16">16</CitationRef>] (see <InternalRef RefID="App1">Appendix</InternalRef>).</Para>
+              <Para>Precision is defined in terms of number of relevant images retrieved out of total number of retrieved images considered. Precision tends to decrease as the total number of retrieved images increases. In case of recall number of retrieved images is always considered as maximum number of relevant images in database. It is typical to have a high numeric value for both precision and recall. In ideal case both precision and recall should achieve 100%. It can be obtained when all the retrieved images belong to the query image group only, i.e. all retrieved images should be relevant. The retrieval result is not a single image but it is a list of images depending upon relevancy. <InlineEquation ID="IEq46"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq46.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T$$]]></EquationSource></InlineEquation> gives the total number of retrieved images considered (e.g. <InlineEquation ID="IEq47"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq47.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$10,20,\ldots ,100$$]]></EquationSource></InlineEquation>). Value of <InlineEquation ID="IEq48"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq48.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$T$$]]></EquationSource></InlineEquation> is selected by user. All images of the database are considered as query image to evaluate average performance on the database. These performance measures are provided in the following section.</Para>
+              <Para>Precision of any query image <InlineEquation ID="IEq49"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq49.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I_{q}$$]]></EquationSource></InlineEquation> can be obtained by Eq. <InternalRef RefID="Equ10">10</InternalRef>
+                <Equation ID="Equ10"><EquationNumber>10</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(I_q)\!=\!\frac{\text{ No.} \text{ of} \text{ relevant} \text{ images} \text{ retrieved}}{\text{ Total} \text{ no.} \text{ of} \text{ retrieved} \text{ images} \text{ considered} (T)} \end{aligned}$$]]></EquationSource></Equation>The weight precision of query image <InlineEquation ID="IEq50"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq50.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I_{q}$$]]></EquationSource></InlineEquation> is obtained by assigning weight to each relevant image retrieved and is given by Eq. <InternalRef RefID="Equ11">11</InternalRef>.<Equation ID="Equ11"><EquationNumber>11</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\text{ WP}(I_q )\nonumber \\&\quad =\sum \limits _{k=1}^T {\frac{1}{k}} \frac{\text{ No.} \text{ of} \text{ relevant} \text{ images} \text{ retrieved}}{\text{ Total} \text{ no.} \text{ of} \text{ retrieved} \text{ images} \text{ considered} (T)} \nonumber \\ \end{aligned}$$]]></EquationSource></Equation>Average precision for each group or database is given by Eq. <InternalRef RefID="Equ12">12</InternalRef>
+                <Equation ID="Equ12"><EquationNumber>12</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P_\mathrm{ avg} =\frac{1}{\Gamma }\sum \limits _{i=1}^\Gamma {P_i } \end{aligned}$$]]></EquationSource></Equation>Similarly, average weight precision for each group or database is given by Eq. <InternalRef RefID="Equ13">13</InternalRef>:<Equation ID="Equ13"><EquationNumber>13</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P_\mathrm{ wt} =\frac{1}{\Gamma }\sum \limits _{i=1}^\Gamma {WP_i } \end{aligned}$$]]></EquationSource></Equation>
+                <InlineEquation ID="IEq51"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq51.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\Gamma $$]]></EquationSource></InlineEquation> is number of images; in case of group precision it is total number of images in particular group, whereas in case of average precision of database it is the total number of images in the database. Similarly, same parameters are calculated for recall using Eqs. <InternalRef RefID="Equ14">14</InternalRef> and <InternalRef RefID="Equ15">15</InternalRef>.<Equation ID="Equ14"><EquationNumber>14</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&R(I_q)=\frac{\text{ No.} \text{ of} \text{ relevant} \text{ images} \text{ retrieved}}{\text{ Total} \text{ no.} \text{ of} \text{ relevant} \text{ images} \text{ in} \text{ database}}\end{aligned}$$]]></EquationSource></Equation>
+                <Equation ID="Equ15"><EquationNumber>15</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}& R_\mathrm{ avg} =\frac{1}{\Gamma }\sum \limits _{i=1}^\Gamma {R_i } \end{aligned}$$]]></EquationSource></Equation>Weighted recall and average weight recall can be calculated in a manner similar to Eqs. <InternalRef RefID="Equ11">11</InternalRef> and <InternalRef RefID="Equ13">13</InternalRef>.</Para>
+              <Para>Total average retrieval rate is given by Eq. <InternalRef RefID="Equ16">16</InternalRef>
+                <Equation ID="Equ16"><EquationNumber>16</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \text{ ARR}=\left. {\frac{1}{\text{ DB}}\sum \limits _{j=1}^\mathrm{ DB} {R_j } } \right|_{T\le 100} \end{aligned}$$]]></EquationSource></Equation>where DB is total number of images in the database.</Para>
+              <Para>Rank of query image <InlineEquation ID="IEq52"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq52.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I_{q}$$]]></EquationSource></InlineEquation> is given by Eq. <InternalRef RefID="Equ17">17</InternalRef>
+                <Equation ID="Equ17"><EquationNumber>17</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} C( {I_q })=\frac{1}{\Gamma }\sum \limits _{\delta ( I_i)=\delta ( I_q )} \text{ Rank}( {I_i ,I_q }) \end{aligned}$$]]></EquationSource></Equation>
+                <InlineEquation ID="IEq53"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq53.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\delta ( x)$$]]></EquationSource></InlineEquation> is the category of <InlineEquation ID="IEq54"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq54.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$x$$]]></EquationSource></InlineEquation>th image. <InlineEquation ID="IEq55"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq55.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathrm{ Rank}( {I_i ,I_q })$$]]></EquationSource></InlineEquation> returns the rank of image <InlineEquation ID="IEq56"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq56.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I_{i }$$]]></EquationSource></InlineEquation>(for the query image <InlineEquation ID="IEq57"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq57.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I_{q})$$]]></EquationSource></InlineEquation> among all images of DB. Average rank <InlineEquation ID="IEq58"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq58.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_\mathrm{ avg}$$]]></EquationSource></InlineEquation> can be calculated in a manner similar to Eq. <InternalRef RefID="Equ15">15</InternalRef>.</Para>
+              <Para>Standard deviation of precision for each group or total database is another performance parameter obtained by Eq. <InternalRef RefID="Equ18">18</InternalRef>.<Equation ID="Equ18"><EquationNumber>18</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P_\mathrm{ std} =\sqrt{\frac{1}{\Gamma -1}} \sum \limits _{i=1}^\Gamma {( {P( {I_i})-P_\mathrm{ avg} })} ^2 \end{aligned}$$]]></EquationSource></Equation>Standard deviation of recall for each group or total database is obtained by Eq. <InternalRef RefID="Equ19">19</InternalRef>
+                <Equation ID="Equ19"><EquationNumber>19</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_Equ19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} R_\mathrm{ std} =\sqrt{\frac{1}{\Gamma -1}} \sum \limits _{i=1}^\Gamma {( {R( {I_i})-R_\mathrm{ avg} })} ^2 \end{aligned}$$]]></EquationSource></Equation>Similarly, standard deviation of weighted precision and standard deviation of average rank can be calculated. Average values of precision, weighted precision, and average value of recall should achieve higher values and average values of rank; standard deviation of all evaluation measures should achieve lower values to have good performance of retrieval system.</Para>
+              <Table Float="Yes" ID="Tab1">
+                <Caption Language="En">
+                  <CaptionNumber>Table 1</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Results of the OQWC [<CitationRef CitationID="CR14">14</CitationRef>] method in terms of <InlineEquation ID="IEq59"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq59.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P_\mathrm{ wt}$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq60"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq60.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${P}_\mathrm{ wt\_std}, P_\mathrm{ avg},P_\mathrm{ std},R_\mathrm{ avg}, R_\mathrm{ std}, C_\mathrm{ avg}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq61"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq61.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_\mathrm{ std}$$]]></EquationSource></InlineEquation>
+                    </SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <tgroup cols="9">
+                  <colspec align="left" colname="c1" colnum="1"/>
+                  <colspec align="left" colname="c2" colnum="2"/>
+                  <colspec align="left" colname="c3" colnum="3"/>
+                  <colspec align="left" colname="c4" colnum="4"/>
+                  <colspec align="left" colname="c5" colnum="5"/>
+                  <colspec align="left" colname="c6" colnum="6"/>
+                  <colspec align="left" colname="c7" colnum="7"/>
+                  <colspec align="left" colname="c8" colnum="8"/>
+                  <colspec align="left" colname="c9" colnum="9"/>
+                  <thead>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Category name</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>
+                          <InlineEquation ID="IEq62">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq62.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ wt}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>
+                          <InlineEquation ID="IEq63">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq63.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ wt}\_\mathrm{ std}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>
+                          <InlineEquation ID="IEq64">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq64.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ avg}} $$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>
+                          <InlineEquation ID="IEq65">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq65.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ std}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>
+                          <InlineEquation ID="IEq66">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq66.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${R}_{\mathrm{ avg}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>
+                          <InlineEquation ID="IEq67">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq67.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${R}_{\mathrm{ std}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>
+                          <InlineEquation ID="IEq68">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq68.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${C}_{\mathrm{ avg}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>
+                          <InlineEquation ID="IEq69">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq69.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${C}_{\mathrm{ std}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Africans</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>68.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>25</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>57.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>29.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>31.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>12.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>280</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>78</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Beaches</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>61.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>23.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>49.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>28.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>28.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>16.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>335</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>131</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Buildings</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>63.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>20.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>50.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>23.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>30.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>12.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>308</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>141</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Buses</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>91.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>15.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>87.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>20.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>64</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>16.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>108</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>79</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Dinosaurs</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>82.8</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>22</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>74.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>28.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>28.8</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>10.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>410</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>91</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Elephants</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>70.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>17.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>55.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>20.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>30.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>8.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>235</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>44</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Flowers</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>88.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>19.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>84.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>24.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>65.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>19.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>125</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>82</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Horses</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>85.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>19.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>78.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>23.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>39.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>13.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>264</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>99</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Mountains</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>60</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>21.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>47.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>23.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>25.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>9.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>324</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>79</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Food</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>67.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>26</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>57.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>31.8</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>36.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>14.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>236</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>57</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Total</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>74</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>23.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>64.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>29.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>38</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>19.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>263</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>127</SimplePara>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </Table>
+              <Table Float="Yes" ID="Tab2">
+                <Caption Language="En">
+                  <CaptionNumber>Table 2</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Results of the Subrahmanyam et al. [<CitationRef CitationID="CR16">16</CitationRef>] in terms of <InlineEquation ID="IEq70"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq70.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P_\mathrm{ wt}$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq71"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq71.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P_\mathrm{ wt{\_}{std}},P_\mathrm{ avg},P_\mathrm{ std},R_\mathrm{ avg}R_\mathrm{ std},C_\mathrm{ avg}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq72"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq72.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_\mathrm{ std}$$]]></EquationSource></InlineEquation>
+                    </SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <tgroup cols="9">
+                  <colspec align="left" colname="c1" colnum="1"/>
+                  <colspec align="left" colname="c2" colnum="2"/>
+                  <colspec align="left" colname="c3" colnum="3"/>
+                  <colspec align="left" colname="c4" colnum="4"/>
+                  <colspec align="left" colname="c5" colnum="5"/>
+                  <colspec align="left" colname="c6" colnum="6"/>
+                  <colspec align="left" colname="c7" colnum="7"/>
+                  <colspec align="left" colname="c8" colnum="8"/>
+                  <colspec align="left" colname="c9" colnum="9"/>
+                  <thead>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Category name</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>
+                          <InlineEquation ID="IEq73">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq73.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ wt}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>
+                          <InlineEquation ID="IEq74">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq74.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ wt}\_\mathrm{ std}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>
+                          <InlineEquation ID="IEq75">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq75.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ avg}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>
+                          <InlineEquation ID="IEq76">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq76.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ std}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>
+                          <InlineEquation ID="IEq77">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq77.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${R}_{\mathrm{ avg}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>
+                          <InlineEquation ID="IEq78">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq78.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${R}_{\mathrm{ std}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>
+                          <InlineEquation ID="IEq79">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq79.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${C}_{\mathrm{ avg}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>
+                          <InlineEquation ID="IEq80">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq80.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${C}_{\mathrm{ std}}$$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Africans</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>74.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>24</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>64.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>29.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>34.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>14.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>254.8</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>73.7</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Beaches</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>56</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>20.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>43.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>24.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>27.8</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>14.8</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>350.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>131</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Buildings</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>64.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>22.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>52.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>26.8</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>31.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>13.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>294.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>110.5</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Buses</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>93</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>15</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>90.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>19.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>69.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>19.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>100.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>70.1</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Dinosaurs</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>87.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>20.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>81.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>26.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>45.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>19.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>208.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>103.9</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Elephants</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>71.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>17.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>58.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>20.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>33.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>7.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>240.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>57.4</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Flowers</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>91.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>15.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>86.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>20.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>58.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>19.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>172.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>103.2</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Horses</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>86.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>16.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>80</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>20.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>47.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>16.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>201.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>95.2</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Mountains</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>53.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>18.8</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>37.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>19.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>20</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>8.4</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>391.8</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>79.4</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Food</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>75.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>23.7</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>67.8</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>28.2</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>44.1</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>15.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>194.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>74.6</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry align="left" colname="c1">
+                        <SimplePara>Total</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c2">
+                        <SimplePara>75.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c3">
+                        <SimplePara>19.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c4">
+                        <SimplePara>66.5</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c5">
+                        <SimplePara>23.6</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c6">
+                        <SimplePara>41.3</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c7">
+                        <SimplePara>14.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c8">
+                        <SimplePara>240.9</SimplePara>
+                      </entry>
+                      <entry align="left" colname="c9">
+                        <SimplePara>89.9</SimplePara>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </Table>
+              <Section2 ID="Sec11">
+                <Heading>Database DB1 (Corel 1000)</Heading>
+                <Para>Database DB1 [<CitationRef CitationID="CR21">21</CitationRef>] consists of total 1,000 natural images containing 10 groups and each group contains 100 images of the similar type. DB1 database consists images of two different sizes (either <InlineEquation ID="IEq81"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq81.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$256\times 384$$]]></EquationSource></InlineEquation> or <InlineEquation ID="IEq82"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq82.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$384\times 256)$$]]></EquationSource></InlineEquation>. All images are in jpg format. Experiments are performed to calculate parameters given by Eqs. <InternalRef RefID="Equ10">10</InternalRef>–<InternalRef RefID="Equ19">19</InternalRef>. The authors have first applied PM1 for CBIR application and analyzed its performance with respect to published literature. It is observed that PM1 results are better than [<CitationRef CitationID="CR13">13</CitationRef>, <CitationRef CitationID="CR14">14</CitationRef>] and [<CitationRef CitationID="CR16">16</CitationRef>]. Tables <InternalRef RefID="Tab1">1</InternalRef>, <InternalRef RefID="Tab2">2</InternalRef>, <InternalRef RefID="Tab4">4</InternalRef> and <InternalRef RefID="Tab5">5</InternalRef> shows parameter <InlineEquation ID="IEq83"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq83.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${P}_\mathrm{ wt}, {P}_\mathrm{ wt\_std}, {P}_\mathrm{ avg}, {P}_\mathrm{ std},$$]]></EquationSource></InlineEquation>
+                  <InlineEquation ID="IEq84"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq84.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${R}_\mathrm{ avg}, {R}_\mathrm{ std}, {C}_\mathrm{ avg }$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq85"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq85.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${C}_\mathrm{ std}$$]]></EquationSource></InlineEquation> values for OQWC [<CitationRef CitationID="CR14">14</CitationRef>], Subrahmanyam et al. [<CitationRef CitationID="CR16">16</CitationRef>], PM1 and PM2, respectively. Table <InternalRef RefID="Tab3">3</InternalRef> gives <InlineEquation ID="IEq86"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq86.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${P}_\mathrm{ avg}, {R}_\mathrm{ avg}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq87"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq87.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${C}_\mathrm{ avg}$$]]></EquationSource></InlineEquation> results for GWC [<CitationRef CitationID="CR13">13</CitationRef>]. From the Table <InternalRef RefID="Tab4">4</InternalRef> it is clear that PM1 result is better than OQWC [<CitationRef CitationID="CR14">14</CitationRef>], Subrahmanyam et al. [<CitationRef CitationID="CR16">16</CitationRef>] and GWC [<CitationRef CitationID="CR13">13</CitationRef>]. But, again with Table <InternalRef RefID="Tab5">5</InternalRef>, it is verified that the PM2 has improved the retrieval performance than PM1 too. As observed from Tables <InternalRef RefID="Tab1">1</InternalRef>, <InternalRef RefID="Tab2">2</InternalRef>, <InternalRef RefID="Tab3">3</InternalRef>, <InternalRef RefID="Tab4">4</InternalRef>, and <InternalRef RefID="Tab5">5</InternalRef> the performance of PM2 is better than that of other methods ([<CitationRef CitationID="CR13">13</CitationRef>, <CitationRef CitationID="CR14">14</CitationRef>] and [<CitationRef CitationID="CR16">16</CitationRef>]). In Fig. <InternalRef RefID="Fig4">4</InternalRef> average retrieval rate (ARR%) comparison of PM2 is performed with OQWC [<CitationRef CitationID="CR14">14</CitationRef>], Subrahmanyam et al. [<CitationRef CitationID="CR16">16</CitationRef>] and GWC [<CitationRef CitationID="CR13">13</CitationRef>].</Para>
+                <Table Float="Yes" ID="Tab3">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Results of the GWC [<CitationRef CitationID="CR13">13</CitationRef>] method in terms of <InlineEquation ID="IEq88"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq88.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P_\mathrm{ avg},R_\mathrm{ avg}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq89"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq89.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_\mathrm{ avg}$$]]></EquationSource></InlineEquation>
+                      </SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="4">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Category name</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>
+                            <InlineEquation ID="IEq90">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq90.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ avg}} $$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>
+                            <InlineEquation ID="IEq91">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq91.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${R}_{\mathrm{ avg}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>
+                            <InlineEquation ID="IEq92">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq92.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$\text{ C}_{\mathrm{ avg}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Africans</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>52.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>33.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>264.9</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Beaches</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>42</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>357.7</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Buildings</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>47.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>332.8</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Buses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>88.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>65.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>111.6</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Dinosaurs</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>96.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>65</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>135.3</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Elephants</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>65.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>37</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>242.6</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Flowers</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>75.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>50.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>194.4</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Horses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>73</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>39.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>269.3</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Mountains</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>35.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>20.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>372.4</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Food</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>63.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>43.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>192.7</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Total</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>64.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>40.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>247.3</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Table Float="Yes" ID="Tab4">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 4</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Results of the PM1 in terms of <InlineEquation ID="IEq93"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq93.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P_\mathrm{ wt}$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq94"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq94.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P_\mathrm{ wt{\_}{std}},P_\mathrm{ avg},P_\mathrm{ std},R_\mathrm{ avg}R_\mathrm{ std},C_\mathrm{ avg}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq95"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq95.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_\mathrm{ std}$$]]></EquationSource></InlineEquation>
+                      </SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="9">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <colspec align="left" colname="c6" colnum="6"/>
+                    <colspec align="left" colname="c7" colnum="7"/>
+                    <colspec align="left" colname="c8" colnum="8"/>
+                    <colspec align="left" colname="c9" colnum="9"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Category name</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>
+                            <InlineEquation ID="IEq96">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq96.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ wt}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>
+                            <InlineEquation ID="IEq97">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq97.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ wt}\_\mathrm{ std}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>
+                            <InlineEquation ID="IEq98">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq98.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ avg}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>
+                            <InlineEquation ID="IEq99">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq99.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ std}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>
+                            <InlineEquation ID="IEq100">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq100.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${R}_{\mathrm{ avg}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>
+                            <InlineEquation ID="IEq101">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq101.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${R}_{\mathrm{ std}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>
+                            <InlineEquation ID="IEq102">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq102.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${C}_{\mathrm{ avg}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>
+                            <InlineEquation ID="IEq103">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq103.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${C}_{\mathrm{ std}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Africans</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>77.50</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26.10</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>68.30</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>32.57</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>34.25</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>14.96</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>282.37</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>99.30</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Beaches</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>62.77</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>22.07</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>49.70</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>25.16</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>28.90</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>13.69</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>313.00</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>113.16</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Buildings</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>70.65</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>24.05</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>59.70</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>29.39</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>32.94</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>15.84</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>264.43</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>117.08</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Buses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>93.86</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>13.30</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>91.90</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>16.98</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>66.97</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>14.27</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>99.32</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>54.41</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Dinosaurs</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>99.95</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>00.48</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>99.90</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>01.00</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>95.92</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>07.34</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>53.55</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>14.47</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Elephants</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>73.60</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>17.40</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>58.60</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>18.80</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>27.11</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>06.53</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>290.05</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>52.49</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Flowers</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>96.53</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>10.37</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>93.30</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>14.64</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>59.21</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>17.75</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>154.28</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>114.82</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Horses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>87.84</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>17.23</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>81.20</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>23.96</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>46.18</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>17.12</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>198.76</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>95.10</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Mountains</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>56.67</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>16.70</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>41.80</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>16.78</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>22.60</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>07.13</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>350.56</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>89.45</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Food</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>69.52</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>22.84</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>58.00</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>27.71</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>31.92</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>12.45</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>249.75</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>73.57</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Total</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>78.89</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>17.05</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>70.24</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>20.70</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>44.60</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>12.71</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>225.61</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>82.38</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Table Float="Yes" ID="Tab5">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 5</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Results of the PM2 in terms of <InlineEquation ID="IEq104"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq104.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P_\mathrm{ wt}$$]]></EquationSource></InlineEquation>, <InlineEquation ID="IEq105"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq105.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$P_\mathrm{ wt{\_}{std}},P_\mathrm{ avg},P_\mathrm{ std},R_\mathrm{ avg},R_\mathrm{ std},C_\mathrm{ avg}$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq106"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq106.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C_\mathrm{ std}$$]]></EquationSource></InlineEquation>
+                      </SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="9">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <colspec align="left" colname="c6" colnum="6"/>
+                    <colspec align="left" colname="c7" colnum="7"/>
+                    <colspec align="left" colname="c8" colnum="8"/>
+                    <colspec align="left" colname="c9" colnum="9"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Category name</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>
+                            <InlineEquation ID="IEq107">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq107.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ wt}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>
+                            <InlineEquation ID="IEq108">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq108.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ wt}\_\mathrm{ std}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>
+                            <InlineEquation ID="IEq109">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq109.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ avg}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>
+                            <InlineEquation ID="IEq110">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq110.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${P}_{\mathrm{ std}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>
+                            <InlineEquation ID="IEq111">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq111.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${R}_{\mathrm{ avg}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>
+                            <InlineEquation ID="IEq112">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq112.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${R}_{\mathrm{ std}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>
+                            <InlineEquation ID="IEq113">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq113.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${C}_{\mathrm{ avg}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>
+                            <InlineEquation ID="IEq114">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq114.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$${C}_{\mathrm{ std}}$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Africans</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>78.23</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>24.14</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>68.80</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>30.16</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>36.11</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>16.01</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>267.50</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>99.06</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Beaches</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>60.41</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>20.56</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>49.70</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>23.59</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>30.01</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>12.68</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>278.16</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>87.84</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Buildings</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>70.62</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>24.80</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>59.80</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>28.85</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>32.66</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>17.09</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>281.08</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>120.26</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Buses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>93.89</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>14.79</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>90.60</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>18.63</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>68.88</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>17.08</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>99.96</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>71.60</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Dinosaurs</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>100.00</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.00</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>100.00</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0.00</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>96.81</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>05.01</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>52.32</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>4.72</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Elephants</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>73.13</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>19.63</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>58.70</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>22.86</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>28.09</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>06.09</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>272.99</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>38.64</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Flowers</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>95.75</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>08.38</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>93.40</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>12.49</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>62.00</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>12.27</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>122.09</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>62.28</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Horses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>89.10</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>14.64</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>81.90</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>22.41</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>50.07</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>19.77</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>222.92</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>117.59</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Mountains</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>62.70</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>19.75</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>49.80</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>23.74</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>27.73</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>09.94</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>296.02</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>89.78</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Food</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>65.99</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>22.62</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>52.70</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>26.05</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>28.91</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>10.00</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>262.27</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>69.96</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Total</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>78.98</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>16.93</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>70.54</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>20.88</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>46.12</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>12.59</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>215.53</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>76.17</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Average retrieval rate of PM2 according to number of image retrieved for DB1 database</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO24">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_5_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>It is clear from Fig. <InternalRef RefID="Fig4">4</InternalRef> that ARR (%) for PM2 is always higher than OQWC [<CitationRef CitationID="CR14">14</CitationRef>], Subrahmanyam et al. [<CitationRef CitationID="CR16">16</CitationRef>] and GWC [<CitationRef CitationID="CR13">13</CitationRef>] for different number of retrieved images. For 10 and 100 retrieved images, PM2 ARR (%) is 7.054, 46.12 while in the case of OQWC its 6.293, 37.278, for Subrahmanyam et al. [<CitationRef CitationID="CR16">16</CitationRef>] its 6.627, 41.281 and GWC [<CitationRef CitationID="CR13">13</CitationRef>] has 6.372, 39.873, respectively. Fig.  <InternalRef RefID="Fig5">5</InternalRef> shows the retrieval results using the PM2. In the Fig. <InternalRef RefID="Fig5">5</InternalRef> first image is query image. It is clear from Fig. <InternalRef RefID="Fig5">5</InternalRef> that retrieved images are relevant to the query image.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Retrieval result of PM2 for query image <Emphasis Type="Bold">a</Emphasis> 333, <Emphasis Type="Bold">b</Emphasis> 427, <Emphasis Type="Bold">c</Emphasis> 613, <Emphasis Type="Bold">d</Emphasis> 789</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO25">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_5_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig6">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Average precision of PM2 for DB2 database according to number of image retrieved</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO26">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_5_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec12">
+                <Heading>Database DB2 (Corel 2450)</Heading>
+                <Para>Database DB2 [<CitationRef CitationID="CR21">21</CitationRef>] contains a total of 2,450 images. DB2 database consists of images with two different sizes (either <InlineEquation ID="IEq115"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq115.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$256\times 384$$]]></EquationSource></InlineEquation> or <InlineEquation ID="IEq116"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq116.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$384\times 256)$$]]></EquationSource></InlineEquation>. All images are in jpg format. These images are pre-categorized into 19 groups. Each category contains 50–600 images. Average precision is calculated on database DB2 using the Eq. <InternalRef RefID="Equ12">12</InternalRef>. In Fig. <InternalRef RefID="Fig6">6</InternalRef> nature of average precision according to number of retrieved images is shown. It is observed that compared with OQWC [<CitationRef CitationID="CR14">14</CitationRef>] and Subrahmanyam et al. [<CitationRef CitationID="CR16">16</CitationRef>] the performance of PM2 is better in all instances.</Para>
+              </Section2>
+              <Section2 ID="Sec13">
+                <Heading>Database DB3 (MIRFLICKR 25000)</Heading>
+                <Para>Database DB3 [<CitationRef CitationID="CR22">22</CitationRef>] consists of 25,000 images with tags. All images are in jpg format. DB3 is publically available on internet dedicated to research community [<CitationRef CitationID="CR22">22</CitationRef>]. This collection is prepared from the Flickr website. Various images in this collection comprise more than one tag. The most useful tags are assigned to image that can clearly describe the visual contents of image; likewise, few images are being repeated in groups. Total images are categorized into 19 groups; each group contains approximately 260–2,100 numbers of images. DB3 database comprises images with various sizes, so to maintain homogeneity in feature calculation all the images are resized to <InlineEquation ID="IEq117"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq117.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$384\times 256$$]]></EquationSource></InlineEquation>. Average precision is calculated on database DB3 using the Eq. <InternalRef RefID="Equ12">12</InternalRef>. It is observed from Fig. <InternalRef RefID="Fig7">7</InternalRef> that compared with OQWC [<CitationRef CitationID="CR14">14</CitationRef>] and Subrahmanyam et al. [<CitationRef CitationID="CR16">16</CitationRef>]the performance of PM2 is better for various numbers of retrieved images.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig7">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 7</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Average precision of PM2 for DB3 database according to number of image retrieved</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO27">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_5_Fig7_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec14">
+              <Heading>Conclusion</Heading>
+              <Para>This paper proposes two methods, namely AWC (PM1) and AGSD (PM2) for CBIR application, where PM2 is the extended version of PM1. PM1 finds the correlation among á trous wavelet coefficients, while in the primitive step of PM2 á trous wavelet coefficients are extracted and further spatial relationship among orientation of á trous wavelet coefficients are utilized. Experiments are performed on databases DB1, DB2 and DB3 especially. The results of proposed method are compared with OQWC [<CitationRef CitationID="CR14">14</CitationRef>], combination of SWF and RWF correlogram [<CitationRef CitationID="CR16">16</CitationRef>] and GWC [<CitationRef CitationID="CR13">13</CitationRef>] with respect to various parameters. It is concluded that the results with proposed method are significantly better, irrespective of database.</Para>
+              <Para>Further, the performance of proposed methods can be improved by optimization of the quantization of á trous wavelet coefficients using any optimization algorithms like genetic algorithm, particle swarm optimization, etc.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_Article_5.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_5_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <Heading>Acknowledgments</Heading>
+              <SimplePara>This work was funded by the Ministry of Human Resource and Development India under grant MHR-02-23-200 (429). The authors would like to thank anonymous reviewers for giving technical comments to improve the quality of work. The authors also thank A. B. Gonde, S. Murala, and K. Saini (research scholars), Department of Electrical Engineering, Indian Institute of Technology Roorkee, for moral support and suggestions throughout this work.</SimplePara>
+            </Acknowledgments>
+            <Appendix ID="App1">
+              <Section1 ID="Sec15">
+                <Heading>Appendix</Heading>
+                <Para>
+                  <Emphasis Type="Bold">1. Optimized quantized threshold wavelet correlogram (OQWC)</Emphasis>
+                </Para>
+                <Para>Moghaddam et al. [<CitationRef CitationID="CR7">7</CitationRef>] introduced WC by combining the concept of color correlogram and wavelet transform properties. WC first computes the wavelet coefficients then autocorrelation of the quantized coefficients is computed along the direction of wavelet transform. Saadatmand et al. [<CitationRef CitationID="CR14">14</CitationRef>] has proposed OQWC by improving the performance of WC with optimizing wavelet coefficients. They used evolutionary group algorithm (EGA) to optimize the quantization thresholds of the wavelet-correlogram algorithm for CBIR. Further details can be found in Ref. [<CitationRef CitationID="CR14">14</CitationRef>].</Para>
+                <Para>
+                  <Emphasis Type="Bold">2. Gabor wavelet correlogram (GWC)</Emphasis>
+                </Para>
+                <Para>Moghaddam et al. [<CitationRef CitationID="CR13">13</CitationRef>] has replaced the wavelet transform with Gabor transform and introduced the concept of GWC for CBIR. GWC handles the problem of rotation variant using Gabor wavelets and presents some ideas to handle redundancy problem due to non-orthogonal decomposition of Gabor wavelets. GWC first computes the wavelet coefficients using Gabor wavelets. The coefficients are discretized using the quantization thresholds obtained experimentally for good performance. Finally, the autocorrelogram of the quantized coefficients is computed along the direction normal to Gabor wavelet orientation</Para>
+                <Para>
+                  <Emphasis Type="Bold">3. SWF and RWF correlogram</Emphasis>
+                </Para>
+                <Para>Subrahmanyam et al. [<CitationRef CitationID="CR16">16</CitationRef>] proposed combination of SWFs and RWFs to collect the four directional <InlineEquation ID="IEq118"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq118.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$(0^{\circ },+45^{\circ }, 90^{\circ }, -45^{\circ })$$]]></EquationSource></InlineEquation> information of the image and further used for correlogram feature calculation. The <InlineEquation ID="IEq119"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq119.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$0^{\circ }$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq120"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq120.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$90^{\circ }$$]]></EquationSource></InlineEquation> information (sub-band) of image collected from SWF and <InlineEquation ID="IEq121"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq121.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+45^{\circ }$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq122"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_5_Article_IEq122.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$-45^{\circ }$$]]></EquationSource></InlineEquation> are collected from RWF and applied for correlogram feature calculation. Further details can be found in Ref. [<CitationRef CitationID="CR16">16</CitationRef>].</Para>
+              </Section1>
+            </Appendix>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Rui</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TS</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SF</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Image retrieval: current techniques, promising directions and open issues</ArticleTitle>
+                  <JournalTitle>Elsevier J Vis Commun Image Represent</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>39</FirstPage>
+                  <LastPage>62</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1006/jvci.1999.0413</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rui Y, Huang TS, Chang SF (1999) Image retrieval: current techniques, promising directions and open issues. Elsevier J Vis Commun Image Represent 10(1):39–62</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Datta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Joshi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JZ</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Image retrieval: ideas, influences, and trends of the new age</ArticleTitle>
+                  <JournalTitle>ACM Comput Surv</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>60</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/1348246.1348248</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Datta R, Joshi D, Li J, Wang JZ (2008) Image retrieval: ideas, influences, and trends of the new age. ACM Comput Surv 40(2):1–60</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>Swain MJ, Ballard DH (1990) Indexing via color histograms. In: Proceedings of the IEEE 3rd international conference on computer vision, Osaka, pp 390–393. doi: <ExternalRef><RefSource>10.1109/ICCV.1990.139558</RefSource><RefTarget TargetType="DOI" Address="10.1109/ICCV.1990.139558"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>Pass G, Zabih R, Miller J (1996) Comparing images using color coherence vectors. In: Proceedings of the 4th ACM multimedia conference, Boston, pp 65–73</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Huang J, Kumar SR, Mitra M, Zhu W-J, Zabih R (1997) Image indexing using color correlograms. In: Proceedings of the IEEE computer vision and pattern recognition, San Juan, pp 762–768</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Smith JR, Chang S-F (1996) Automated binary texture feature sets for image retrieval. In: Proceedings of the IEEE international conference on acoustics, speech and signal processing, vol 4, Atlanta, pp 2239–2242</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Moghaddam HA, Khajoie TT, Rouhi AH (2003) A new algorithm for image indexing and retrieval using wavelet correlogram. In: Proceedings of the IEEE international conference image processing, vol 3, Barcelona, pp 497–500</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BS</Initials>
+                    <FamilyName>Manjunath</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WY</Initials>
+                    <FamilyName>Ma</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Texture features for browsing and retrieval of image data</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>837</FirstPage>
+                  <LastPage>842</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/34.531803</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Manjunath BS, Ma WY (1996) Texture features for browsing and retrieval of image data. IEEE Trans Pattern Anal Mach Intell 18(8):837–842</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Murala S, Gonde AB, Maheshwari RP (2009) Color and texture features for image indexing and retrieval. In: Proceedings of the IEEE international advance computing conference, Patiala, pp 1411–1416. doi: <ExternalRef><RefSource>10.1109/IADCC.2009.4809223</RefSource><RefTarget TargetType="DOI" Address="10.1109/IADCC.2009.4809223"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Agarwal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RP</Initials>
+                    <FamilyName>Maheshwari</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">HOG feature and vocabulary tree for content-based image retrieval</ArticleTitle>
+                  <JournalTitle>Int J Signal Imaging Syst Eng</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>246</FirstPage>
+                  <LastPage>254</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1504/IJSISE.2010.038020</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Agarwal M, Maheshwari RP (2010) HOG feature and vocabulary tree for content-based image retrieval. Int J Signal Imaging Syst Eng 3(4):246–254</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Agarwal M, Maheshwari RP (2011) Content based image retrieval based on log Gabor wavelet transform. J Adv Mater Res 403–408:871–878</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Agarwal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RP</Initials>
+                    <FamilyName>Maheshwari</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Binary wavelet transform based histogram feature for content based image retrieval</ArticleTitle>
+                  <JournalTitle>Int J Electron Signals Syst</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>68</FirstPage>
+                  <LastPage>75</LastPage>
+                </BibArticle>
+                <BibUnstructured>Agarwal M, Maheshwari RP (2011) Binary wavelet transform based histogram feature for content based image retrieval. Int J Electron Signals Syst 1(1):68–75</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Moghaddam HA, Tarzjan MS (2006) Gabor wavelet correlogram algorithm for image indexing and retrieval. In: Proceedings of the 18th international conference on pattern recognition, Hong Kong, pp 925–928</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Saadatmand</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HA</Initials>
+                    <FamilyName>Moghaddam</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">A novel evolutionary approach for optimizing content based image retrieval</ArticleTitle>
+                  <JournalTitle>IEEE Trans Syst Man Cybern</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>139</FirstPage>
+                  <LastPage>153 </LastPage>
+                </BibArticle>
+                <BibUnstructured>Saadatmand M, Moghaddam HA (2007) A novel evolutionary approach for optimizing content based image retrieval. IEEE Trans Syst Man Cybern 37(1):139–153 </BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>Gonde AB, Maheshwari RP, Balasubramanian R (2010) Texton co-occurrence matrix: a new feature for image retrieval. In: Proceedings of the IEEE India conference, Kolkata, pp 1–5. doi: <ExternalRef><RefSource>10.1109/INDCON.2010.5712603</RefSource><RefTarget TargetType="DOI" Address="10.1109/INDCON.2010.5712603"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Subrahmanyam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RP</Initials>
+                    <FamilyName>Maheshwari</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">A correlogram algorithm for image indexing and retrieval using wavelet and rotated wavelet filters</ArticleTitle>
+                  <JournalTitle>Int J Signal Imaging Syst Eng</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>27</FirstPage>
+                  <LastPage>34</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1504/IJSISE.2011.039182</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Subrahmanyam M, Maheshwari RP (2011) A correlogram algorithm for image indexing and retrieval using wavelet and rotated wavelet filters. Int J Signal Imaging Syst Eng 4:27–34</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G-H</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z-Y</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Image retrieval based on micro-structure descriptor</ArticleTitle>
+                  <JournalTitle>Elsevier J Pattern Recognit</JournalTitle>
+                  <VolumeID>44</VolumeID>
+                  <IssueID>9</IssueID>
+                  <FirstPage>2123</FirstPage>
+                  <LastPage>2133</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patcog.2011.02.003</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Liu G-H, Li Z-Y, Zhang L (2011) Image retrieval based on micro-structure descriptor. Elsevier J Pattern Recognit 44(9):2123–2133</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Hou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Yang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Image retrieval based on multi-texton histogram</ArticleTitle>
+                  <JournalTitle>Elsevier J Pattern Recognit</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>2380</FirstPage>
+                  <LastPage>2389</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1209.68206</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patcog.2010.02.012</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Liu G, Zhang L, Hou Y, Li Z, Yang J (2010) Image retrieval based on multi-texton histogram. Elsevier J Pattern Recognit 43:2380–2389</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MG</Initials>
+                    <FamilyName>Audicana</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Otazu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Fors</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Seco</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Comparison between Mallat’s and the ‘á trous’ discrete wavelet transform based algorithms for the fusion of multispectral and panchromatic images</ArticleTitle>
+                  <JournalTitle>Taylor Francis Int J Remote Sens</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>19</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/01431160310001652402</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Audicana MG, Otazu X, Fors O, Seco A (2005) Comparison between Mallat’s and the ‘á trous’ discrete wavelet transform based algorithms for the fusion of multispectral and panchromatic images. Taylor Francis Int J Remote Sens 26:1–19</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Julesz</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">Texton gradients: the texton theory revisited</ArticleTitle>
+                  <JournalTitle>Biol Cybern</JournalTitle>
+                  <VolumeID>54</VolumeID>
+                  <FirstPage>245</FirstPage>
+                  <LastPage>251</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0595.92016</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00318420</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Julesz B (1986) Texton gradients: the texton theory revisited. Biol Cybern 54:245–251</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibUnstructured>Corel 1000 and Corel 10000 image database (2011). <ExternalRef><RefSource>http://wang.ist.psu.edu/docs/related/</RefSource><RefTarget Address="http://wang.ist.psu.edu/docs/related/" TargetType="URL"/></ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Huiskes MJ, Lew MS (2008) The MIR Flickr retrieval evaluation. In: Proceedings of the ACM international conference on multimedia information retrieval, Vancouver, pp 39–43</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Japan</PublisherName>
+    <PublisherLocation>Japan</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10047</JournalID>
+      <JournalPrintISSN>1434-7229</JournalPrintISSN>
+      <JournalElectronicISSN>1619-0904</JournalElectronicISSN>
+      <JournalTitle>Journal of Artificial Organs</JournalTitle>
+      <JournalSubTitle>The Official Journal of the Japanese Society for Artificial Organs</JournalSubTitle>
+      <JournalAbbreviatedTitle>J Artif Organs</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Type="Secondary">Hepatology </JournalSubject>
+        <JournalSubject Type="Secondary">Nephrology </JournalSubject>
+        <JournalSubject Type="Secondary">Orthopedics </JournalSubject>
+        <JournalSubject Type="Secondary">Biomedical Engineering</JournalSubject>
+        <JournalSubject Type="Secondary">Cardiac Surgery </JournalSubject>
+        <JournalSubject Type="Secondary">Surgery </JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>11</VolumeIDStart>
+        <VolumeIDEnd>11</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>8</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2008</Year>
+              <Month>4</Month>
+              <Day>14</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2008</Year>
+              <Month>4</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Japanese Society for Artificial Organs</CopyrightHolderName>
+            <CopyrightYear>2008</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10047-007-0400-5" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>400</ArticleID>
+            <ArticleDOI>10.1007/s10047-007-0400-5</ArticleDOI>
+            <ArticleSequenceNumber>6</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Wavelet analysis of valve closing sound detects malfunction of bileaflet mechanical valve</ArticleTitle>
+            <ArticleCategory>Original Article</ArticleCategory>
+            <ArticleFirstPage>29</ArticleFirstPage>
+            <ArticleLastPage>37</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+              </Received>
+              <Accepted>
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Japanese Society for Artificial Organs</CopyrightHolderName>
+              <CopyrightYear>2008</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Hiroshi</GivenName>
+                  <FamilyName>Sugiki</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>+81-11-716-1161</Phone>
+                  <Fax>+81-11-706-7612</Fax>
+                  <Email>Hsugiki@aol.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Toshifumi</GivenName>
+                  <FamilyName>Murashita</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Norihiko</GivenName>
+                  <FamilyName>Shiiya</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Yoshiro</GivenName>
+                  <FamilyName>Matsui</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Kenji</GivenName>
+                  <FamilyName>Sugiki</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Cardiovascular Surgery</OrgDivision>
+                <OrgName>Hokkaido University Postgraduate School of Medicine</OrgName>
+                <OrgAddress>
+                  <Street>North-14, West-4, Kita-Ku</Street>
+                  <City>Sapporo</City>
+                  <Postcode>060-8648</Postcode>
+                  <Country Code="JP">Japan</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Cardiovascular Surgery</OrgDivision>
+                <OrgName>Cardiovascular Center Hokkaido Ohno Hospital</OrgName>
+                <OrgAddress>
+                  <City>Sapporo</City>
+                  <Country Code="JP">Japan</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Several studies have reported the asynchronous closure of normal bileaflet valves (NBVs), resulting in a split in its closing sound; however, the clinical significance of this split has never been studied in malfunctioning bileaflet valves (MBVs). The study comprised 218 valves in 184 patients, including normal monoleaflet valves (<Emphasis Type="Italic">n</Emphasis> = 10), NBVs (<Emphasis Type="Italic">n</Emphasis> = 198), and MBVs (<Emphasis Type="Italic">n</Emphasis> = 10). Valve function was confirmed by cinefluoroscopy prior to analysis of the valve sound by the Morlet continuous wavelet transform (CWT). The split interval (SI) for each heartbeat was measured, and the coefficient of variation (CV) of its mean (valve SI) was calculated as a parameter for the fluctuation of the SI. The CWT of monoleaflet valves showed a single spike, whereas NBVs exhibited a clear split. There was no significant difference in valve SI between the aortic and mitral positions; however, the mean of the CV was significantly greater in the mitral position (<Emphasis Type="Italic">n</Emphasis> = 90, 0.507 ± 0.254) than in aortic position (<Emphasis Type="Italic">n</Emphasis> = 108, 0.353 ± 0.228, <Emphasis Type="Italic">P</Emphasis> = 0.000045). The split was not found in six (aortic; three, mitral; three) of ten patients with MBVs. The other four patients had a distinct split, but the CV was significantly lower for MBVs (0.138 ± 0.105) than for NBVs (0.343 ± 0.221, <Emphasis Type="Italic">P</Emphasis> = 0.042). Receiver-operating characteristics analysis demonstrated the cutoff line of the CV to be 0.112 for detecting malfunctioning aortic valves with the highest accuracy of 86.1%. This new system using the Morlet CWT can detect MBVs. It will be a useful modality for screening the function of bileaflet valves.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>Time-frequency analysis</Keyword>
+              <Keyword>Morlet continuous wavelet transform</Keyword>
+              <Keyword>Bileaflet mechanical valve malfunction</Keyword>
+              <Keyword>Coefficient of variation</Keyword>
+              <Keyword>Split interval of valve closing sound</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <BodyRef TargetType="OnlinePDF" FileRef="BodyRef/PDF/10047_2007_Article_400.pdf"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.L.</Initials>
+                    <FamilyName>Gibbs</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.A.</Initials>
+                    <FamilyName>Wharton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.J.</Initials>
+                    <FamilyName>Williams</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Doppler ultrasound of normally functioning mechanical mitral and aortic valve prostheses</ArticleTitle>
+                  <JournalTitle>Int J Cardiol</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>391</FirstPage>
+                  <LastPage>398</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3360523</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0167-5273(88)90057-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1c7pslCmtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gibbs JL, Wharton GA, Williams GJ. Doppler ultrasound of normally functioning mechanical mitral and aortic valve prostheses. Int J Cardiol 1988;18:391–398</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Jones</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.E.</Initials>
+                    <FamilyName>Eidbo</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">Doppler color flow evaluation of prosthetic mitral valves: experimental epicardial studies</ArticleTitle>
+                  <JournalTitle>J Am Coll Cardiol</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>234</FirstPage>
+                  <LastPage>240</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2909572</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1M%2FotVSgtQ%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1016/0735-1097(89)90576-7</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jones M, Eidbo EE. Doppler color flow evaluation of prosthetic mitral valves: experimental epicardial studies. J Am Coll Cardiol 1989;13:234–240</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Chaux</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.J.</Initials>
+                    <FamilyName>Gray</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.M.</Initials>
+                    <FamilyName>Matloff</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Feldman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Sustaita</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">An appreciation of the new St. Jude valvular prosthesis</ArticleTitle>
+                  <JournalTitle>J Thorac Cardiovasc Surg</JournalTitle>
+                  <VolumeID>81</VolumeID>
+                  <FirstPage>202</FirstPage>
+                  <LastPage>211</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7453229</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL3M%2FpslGmsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chaux A, Gray RJ, Matloff JM, Feldman H, Sustaita H et al. An appreciation of the new St. Jude valvular prosthesis. J Thorac Cardiovasc Surg 1981;81:202–211</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I.P.</Initials>
+                    <FamilyName>Panidis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.-F.</Initials>
+                    <FamilyName>Ren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.N.</Initials>
+                    <FamilyName>Kotler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.S.</Initials>
+                    <FamilyName>Mintz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.D.</Initials>
+                    <FamilyName>Mundth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I.P.</Initials>
+                    <FamilyName>Goel</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1984</Year>
+                  <ArticleTitle Language="En">Clinical and echocardiographic evaluation of the St. Jude cardiac valve prosthesis: follow-up of 126 patients</ArticleTitle>
+                  <JournalTitle>J Am Coll Cardiol</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>454</FirstPage>
+                  <LastPage>462</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>6470324</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL2c3ptVeitA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0735-1097(84)80087-X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Panidis IP, Ren J-F, Kotler MN, Mintz GS, Mundth ED, Goel IP et al. Clinical and echocardiographic evaluation of the St. Jude cardiac valve prosthesis: follow-up of 126 patients. J Am Coll Cardiol 1984;4:454–462</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.J.</Initials>
+                    <FamilyName>Feldman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.J.</Initials>
+                    <FamilyName>Gray</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Chaux</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.W.</Initials>
+                    <FamilyName>Halpern</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Kraus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.N.</Initials>
+                    <FamilyName>Allen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">Noninvasive in vivo and in vitro study of the St. Jude mitral valve prosthesis: evaluation using two-dimensional and M-mode echocardiography, phonocardiography, and cinefluoroscopy</ArticleTitle>
+                  <JournalTitle>Am J Cardiol</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <FirstPage>1101</FirstPage>
+                  <LastPage>1109</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0002-9149(82)90033-9</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Feldman HJ, Gray RJ, Chaux A, Halpern SW, Kraus R, Allen HN. Noninvasive in vivo and in vitro study of the St. Jude mitral valve prosthesis: evaluation using two-dimensional and M-mode echocardiography, phonocardiography, and cinefluoroscopy. Am J Cardiol 1982;49:1101–1109</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.F.</Initials>
+                    <FamilyName>Gordon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Najmi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Kingsley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.L.</Initials>
+                    <FamilyName>Segal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.W.</Initials>
+                    <FamilyName>Linhart</FamilyName>
+                  </BibAuthorName>
+                  <Year>1974</Year>
+                  <ArticleTitle Language="En">Spectro-analytic evaluation of aortic prosthetic valves</ArticleTitle>
+                  <JournalTitle>Chest</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <FirstPage>44</FirstPage>
+                  <LastPage>49</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>4846116</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1378/chest.66.1.44</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaE2c3os1KmtA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gordon RF, Najmi M, Kingsley B, Segal BL, Linhart JW. Spectro-analytic evaluation of aortic prosthetic valves. Chest 1974;66:44–49</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Kagawa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Nitta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Satoh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Saji</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Shibota</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Horiuchi</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1977</Year>
+                  <ArticleTitle Language="En">Sound spectroanalytic diagnosis of malfunctioning prosthetic heart valve</ArticleTitle>
+                  <JournalTitle>Tohoku J Exp Med</JournalTitle>
+                  <VolumeID>123</VolumeID>
+                  <FirstPage>77</FirstPage>
+                  <LastPage>89</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>918976</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaE1c%2FjsVyjsA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1620/tjem.123.77</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kagawa Y, Nitta S, Satoh N, Saji K, Shibota Y, Horiuchi T et al. Sound spectroanalytic diagnosis of malfunctioning prosthetic heart valve. Tohoku J Exp Med 1977;123:77–89</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Kagawa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Sato</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Nitta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Hongo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Tanaka</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Mohri</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Real-time sound spectroanalysis for diagnosis of malfunctioning prosthetic valves</ArticleTitle>
+                  <JournalTitle>J Thorac Cardiovasc Surg</JournalTitle>
+                  <VolumeID>79</VolumeID>
+                  <FirstPage>671</FirstPage>
+                  <LastPage>679</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7366234</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL3c7msVSrtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kagawa Y, Sato N, Nitta S, Hongo T, Tanaka M, Mohri H et al. Real-time sound spectroanalysis for diagnosis of malfunctioning prosthetic valves. J Thorac Cardiovasc Surg 1980;79:671–679</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Sato</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Mohri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Kagawa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Horiuchi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Tanaka</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Nitta</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Real-time sound spectral analysis for diagnosis of thrombosed prosthetic valves</ArticleTitle>
+                  <JournalTitle>ASAIO Trans</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>831</FirstPage>
+                  <LastPage>834</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3196607</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1M%2Fmt1WqtA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sato N, Mohri H, Kagawa Y, Horiuchi T, Tanaka M, Nitta S. Real-time sound spectral analysis for diagnosis of thrombosed prosthetic valves. ASAIO Trans 1988;34:831–834</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.H.</Initials>
+                    <FamilyName>Kim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.C.</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Tack</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.M.</Initials>
+                    <FamilyName>Huh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.S.</Initials>
+                    <FamilyName>Kang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.K.</Initials>
+                    <FamilyName>Cho</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">In vitro sound spectral analysis of prosthetic heart valves by mock circulatory system</ArticleTitle>
+                  <JournalTitle>Yonsei Med J</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>271</FirstPage>
+                  <LastPage>278</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7975736</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M%2Fms1ajtw%3D%3D</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.3349/ymj.1994.35.3.271</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kim SH, Chang BC, Tack G, Huh JM, Kang MS, Cho BK et al. In vitro sound spectral analysis of prosthetic heart valves by mock circulatory system. Yonsei Med J 1994;35:271–278</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Johansen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Lomholt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Nygaard</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Spectral characteristics of mechanical heart valve closing sounds</ArticleTitle>
+                  <JournalTitle>J Heart Valve Dis</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>736</FirstPage>
+                  <LastPage>744</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12358413</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Johansen P, Lomholt M, Nygaard H. Spectral characteristics of mechanical heart valve closing sounds. J Heart Valve Dis 2002;11:736–744</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.L.</Initials>
+                    <FamilyName>Donnerstein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.D.</Initials>
+                    <FamilyName>Allen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Asynchronous leaflet closure in the normally functioning bileaflet mechanical valve</ArticleTitle>
+                  <JournalTitle>Am Heart J</JournalTitle>
+                  <VolumeID>119</VolumeID>
+                  <FirstPage>694</FirstPage>
+                  <LastPage>697</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2309618</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0002-8703(05)80304-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3c7nslyquw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Donnerstein RL, Allen HD. Asynchronous leaflet closure in the normally functioning bileaflet mechanical valve. Am Heart J 1990;119:694–697</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.L.</Initials>
+                    <FamilyName>Donnerstein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.A.</Initials>
+                    <FamilyName>Scott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Vasu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.G.</Initials>
+                    <FamilyName>Copeland</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Acoustic analysis of the closing sounds of bileaflet prosthetic valves in a sheep model</ArticleTitle>
+                  <JournalTitle>J Thorac Cardiovasc Surg</JournalTitle>
+                  <VolumeID>101</VolumeID>
+                  <FirstPage>1060</FirstPage>
+                  <LastPage>1068</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2038199</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3M3ksFyisg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Donnerstein RL, Scott WA, Vasu A, Copeland JG. Acoustic analysis of the closing sounds of bileaflet prosthetic valves in a sheep model. J Thorac Cardiovasc Surg 1991;101:1060–1068</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Sugiki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Shiiya</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Murashita</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Yasuda</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Bileaflet mechanical valve sound analysis with continuous wavelet transform</ArticleTitle>
+                  <JournalTitle>J Artif Organs</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>42</FirstPage>
+                  <LastPage>49</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>16614801</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10047-005-0319-7</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sugiki H, Shiiya N, Murashita T, Yasuda K. Bileaflet mechanical valve sound analysis with continuous wavelet transform. J Artif Organs 2006;9:42–49</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Sugiki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Shiiya</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Murashita</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Kunihara</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Matsuzaki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Kubota</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Wavelet analysis of bileaflet mechanical valve sounds</ArticleTitle>
+                  <JournalTitle>J Artif Organs</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>16</FirstPage>
+                  <LastPage>21</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>17380292</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10047-006-0364-x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sugiki H, Shiiya N, Murashita T, Kunihara T, Matsuzaki K, Kubota T et al. Wavelet analysis of bileaflet mechanical valve sounds. J Artif Organs 2007;10:16–21</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Ishikawa</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ChapterTitle Language="En">Wavelet analysis for clinical medicine (in Japanese)</ChapterTitle>
+                  <BookTitle>Includes MEM software on CD-ROM</BookTitle>
+                  <PublisherName>Igaku-Shuppan</PublisherName>
+                  <PublisherLocation>Tokyo</PublisherLocation>
+                  <FirstPage>42</FirstPage>
+                  <LastPage>76</LastPage>
+                </BibChapter>
+                <BibUnstructured>Ishikawa Y. Wavelet analysis for clinical medicine (in Japanese). Includes MEM software on CD-ROM. Tokyo: Igaku-Shuppan, 2000, pp 42–76</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Klepetko</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Moritz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Mlczoch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Schurawitzki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Domanig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Wolner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">Leaflet fracture in Edwards-Duromedics bileaflet valves</ArticleTitle>
+                  <JournalTitle>J Thorac Cardiovasc Surg</JournalTitle>
+                  <VolumeID>97</VolumeID>
+                  <FirstPage>90</FirstPage>
+                  <LastPage>94</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2911200</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1M%2FpsFyjsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Klepetko W, Moritz A, Mlczoch J, Schurawitzki H, Domanig E, Wolner E. Leaflet fracture in Edwards-Duromedics bileaflet valves. J Thorac Cardiovasc Surg 1989;97:90–94</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Johansen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.B.</Initials>
+                    <FamilyName>Hansen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Hasenkam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Nygaard</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Noise levels of closing sounds in vivo are equal for different bileaflet mechanical heart valves</ArticleTitle>
+                  <JournalTitle>J Heart Valve Dis</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>764</FirstPage>
+                  <LastPage>771</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14658819</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Johansen P, Hansen SB, Hasenkam M, Nygaard H. Noise levels of closing sounds in vivo are equal for different bileaflet mechanical heart valves. J Heart Valve Dis 2003;12:764–771</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.S.</Initials>
+                    <FamilyName>Anderson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Johansen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.O.</Initials>
+                    <FamilyName>Christensen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.K.</Initials>
+                    <FamilyName>Paulsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Nygaard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Hasenkam</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Intraoperative and postoperative evaluation of cavitation in mechanical heart valve patients</ArticleTitle>
+                  <JournalTitle>Ann Thorac Surg</JournalTitle>
+                  <VolumeID>81</VolumeID>
+                  <FirstPage>34</FirstPage>
+                  <LastPage>41</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.athoracsur.2005.06.080</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Anderson TS, Johansen P, Christensen BO, Paulsen PK, Nygaard H, Hasenkam M. Intraoperative and postoperative evaluation of cavitation in mechanical heart valve patients. Ann Thorac Surg 2006;81:34–41</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.A.</Initials>
+                    <FamilyName>Garrison</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.C.</Initials>
+                    <FamilyName>Lamson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Deutsch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.B.</Initials>
+                    <FamilyName>Geselowitz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.P.</Initials>
+                    <FamilyName>Gaumond</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.M.</Initials>
+                    <FamilyName>Tarebell</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">An in-vitro investigation of prosthetic heart valve cavitation in blood</ArticleTitle>
+                  <JournalTitle>J Heart Valve Dis</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <IssueID>suppl1</IssueID>
+                  <FirstPage>S8</FirstPage>
+                  <LastPage>S22</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8061873</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Garrison LA, Lamson TC, Deutsch S, Geselowitz DB, Gaumond RP, Tarebell JM. An in-vitro investigation of prosthetic heart valve cavitation in blood. J Heart Valve Dis 1994;3(suppl 1):S8–S22</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

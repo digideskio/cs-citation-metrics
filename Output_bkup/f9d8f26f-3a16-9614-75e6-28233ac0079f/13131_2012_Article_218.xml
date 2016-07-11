@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>The Chinese Society of Oceanography</PublisherName>
+    <PublisherLocation>Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>13131</JournalID>
+      <JournalPrintISSN>0253-505X</JournalPrintISSN>
+      <JournalElectronicISSN>1869-1099</JournalElectronicISSN>
+      <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Oceanol. Sin.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Earth Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Environmental Chemistry</JournalSubject>
+        <JournalSubject Type="Secondary">Marine &amp; Freshwater Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Engineering Fluid Dynamics</JournalSubject>
+        <JournalSubject Type="Secondary">Climate Change</JournalSubject>
+        <JournalSubject Type="Secondary">Oceanography</JournalSubject>
+        <JournalSubject Type="Secondary">Ecology</JournalSubject>
+        <SubjectCollection Code="Earth and Environmental Science">SC7</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>31</VolumeIDStart>
+        <VolumeIDEnd>31</VolumeIDEnd>
+        <VolumeIssueCount>6</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>15</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>8</Month>
+              <Day>17</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13131-012-0218-8" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>218</ArticleID>
+            <ArticleDOI>10.1007/s13131-012-0218-8</ArticleDOI>
+            <ArticleSequenceNumber>4</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Plane wave fitting of the internal tidal sea-surface height signatures extracted from the TOPEX/Poseidon altimeter data along satellite tracks</ArticleTitle>
+            <ArticleFirstPage>31</ArticleFirstPage>
+            <ArticleLastPage>45</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+              </Received>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Haibo</GivenName>
+                  <FamilyName>Chen</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Xianqing</GivenName>
+                  <FamilyName>Lv</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>xqinglv@ouc.edu.cn</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Bin</GivenName>
+                  <FamilyName>Wang</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Laboratory of Physical Oceanography</OrgDivision>
+                <OrgName>Ocean University of China</OrgName>
+                <OrgAddress>
+                  <City>Qingdao</City>
+                  <Postcode>266100</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>The sea-surface height (SSH) signatures of internal tides extracted from the TOPEX/Poseidon (T/P) altimeter data along satellite tracks are fitted with superposition of several plane waves which have different wavenumber vectors. The key problem of plane wave fitting with iterative method is how to determine the initial value of wavenumber of each plane wave. The previous solving method is to analyze the internal tidal SSH signatures along each track with wavenumber spectrum. But it is found that the problem cannot be solved completely with the wavenumber spectrum analysis method only. The method based on the combination of wavenumber spectrum analysis method and the exhaustive method is proposed to determine the initial values of wavenumbers for iteration. Numerical results indicate that the proposed method is not only reasonable and feasible but also better than the previous method. The proposed method is an improvement of the previous one, which is beneficial to improving the precision of plane wave fitting of the T/P internal tidal SSH signatures and deepening the understanding of the internal tides in ocean.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>plane wave fitting</Keyword>
+              <Keyword>internal tides</Keyword>
+              <Keyword>TOPEX/Poseidon altimeter data</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Foundation item: The National Natural Science Foundation of China under contract No. 41076006; the State Ministry of Science and Technology of China under contract No. 2008AA09A402; the Ministry of Education’s “111” Project of China under contract No. B07036.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/13131_2012_Article_218.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P. G.</Initials>
+                    <FamilyName>Baines</FamilyName>
+                  </BibAuthorName>
+                  <Year>1982</Year>
+                  <ArticleTitle Language="En">On internal tide generation models</ArticleTitle>
+                  <JournalTitle>Deep-Sea Res</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>307</FirstPage>
+                  <LastPage>318</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0198-0149(82)90098-X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Baines P G. 1982. On internal tide generation models. Deep-Sea Res, 29: 307–318</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S. M.</Initials>
+                    <FamilyName>Chiswell</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Altimeter and current meter observations of internal tides: Do they agree?</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <FirstPage>1860</FirstPage>
+                  <LastPage>1872</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/JPO2944.1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chiswell S M. 2006. Altimeter and current meter observations of internal tides: Do they agree? J Phys Oceanogr, 36: 1860–1872</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P. F.</Initials>
+                    <FamilyName>Cummins</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. Y.</Initials>
+                    <FamilyName>Cherniawsky</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. G. G.</Initials>
+                    <FamilyName>Foreman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">North Pacific internal tides from the Aleutian Ridge: altimeter observations and modeling</ArticleTitle>
+                  <JournalTitle>J Mar Res</JournalTitle>
+                  <VolumeID>59</VolumeID>
+                  <FirstPage>167</FirstPage>
+                  <LastPage>191</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1357/002224001762882628</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cummins P F, Cherniawsky J Y, Foreman M G G. 2001. North Pacific internal tides from the Aleutian Ridge: altimeter observations and modeling. J Mar Res, 59: 167–191</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B. D.</Initials>
+                    <FamilyName>Dushaw</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Mapping low-mode internal tides near Hawaii using TOPEX/POSEIDON altimeter data</ArticleTitle>
+                  <JournalTitle>Geophys Res Lett</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>1250</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2001GL013944</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dushaw B D. 2002. Mapping low-mode internal tides near Hawaii using TOPEX/POSEIDON altimeter data. Geophys Res Lett, 29: 1250, doi:10.1029/2001GL013944</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B. D.</Initials>
+                    <FamilyName>Dushaw</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B. D.</Initials>
+                    <FamilyName>Comuelle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P. F.</Initials>
+                    <FamilyName>Worcester</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Baroclinic and baritropic tides in the central North-Pacific Ocean determined from long-range reciprocal acoustic transmissions</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <FirstPage>631</FirstPage>
+                  <LastPage>647</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0485(1995)025&lt;0631:BABTIT&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dushaw B D, Comuelle B D, Worcester P F, et al. 1995. Baroclinic and baritropic tides in the central North-Pacific Ocean determined from long-range reciprocal acoustic transmissions. J Phys Oceanogr, 25: 631–647</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G. D.</Initials>
+                    <FamilyName>Egbert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. D.</Initials>
+                    <FamilyName>Ray</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Significant dissipation of tidal energy in the deep ocean inferred from satellite altimeter data</ArticleTitle>
+                  <JournalTitle>Nature</JournalTitle>
+                  <VolumeID>405</VolumeID>
+                  <FirstPage>775</FirstPage>
+                  <LastPage>778</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/35015531</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Egbert G D, Ray R D. 2000. Significant dissipation of tidal energy in the deep ocean inferred from satellite altimeter data. Nature, 405: 775–778</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G. D.</Initials>
+                    <FamilyName>Egbert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. D.</Initials>
+                    <FamilyName>Ray</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B. G.</Initials>
+                    <FamilyName>Bills</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Numerical modeling of the global semidiurnal tide in the present day and in the last glacial maximum</ArticleTitle>
+                  <JournalTitle>J Geophys Res</JournalTitle>
+                  <VolumeID>109</VolumeID>
+                  <FirstPage>C03003</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2003JC001973</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Egbert G D, Ray R D, Bills B G. 2004. Numerical modeling of the global semidiurnal tide in the present day and in the last glacial maximum. J Geophys Res, 109: C03003, doi:10.1029/2003JC001973</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>W.J.</Initials>
+                    <FamilyName>Emery</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. E.</Initials>
+                    <FamilyName>Thomson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <BookTitle>Data Analysis Methods in Physical Oceanography</BookTitle>
+                  <EditionNumber>2nd rev ed.</EditionNumber>
+                  <PublisherName>Elsevier Science</PublisherName>
+                  <PublisherLocation>Amsterdam</PublisherLocation>
+                  <FirstPage>638</FirstPage>
+                </BibBook>
+                <BibUnstructured>Emery WJ, Thomson R E. 2001. Data Analysis Methods in Physical Oceanography, 2nd rev ed. Amsterdam: Elsevier Science, 638</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Fletcher</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <BookTitle>Practical Methods of Optimization, Vol. 1</BookTitle>
+                  <PublisherName>John Wiley &amp; Sons</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>120</FirstPage>
+                </BibBook>
+                <BibUnstructured>Fletcher R. 1981. Practical Methods of Optimization, Vol. 1. New York: John Wiley &amp; Sons, 120</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>P. E.</Initials>
+                    <FamilyName>Gill</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Murray</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. H.</Initials>
+                    <FamilyName>Wright</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <BookTitle>Practical Optimization</BookTitle>
+                  <PublisherName>Academic Press</PublisherName>
+                  <PublisherLocation>London</PublisherLocation>
+                  <FirstPage>401</FirstPage>
+                </BibBook>
+                <BibUnstructured>Gill P E, Murray W, Wright M H. 1981. Practical Optimization. London: Academic Press, 401</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Kumar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. S.</Initials>
+                    <FamilyName>Shunmugam</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Fitting of robust reference surface based on least absolute deviations</ArticleTitle>
+                  <JournalTitle>Precis Eng</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>102</FirstPage>
+                  <LastPage>113</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.precisioneng.2006.03.006</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kumar J, Shunmugam M S. 2007. Fitting of robust reference surface based on least absolute deviations. Precis Eng, 31: 102–113</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J. R.</Initials>
+                    <FamilyName>Ledwell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E. T.</Initials>
+                    <FamilyName>Montogmery</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K. L.</Initials>
+                    <FamilyName>Polzin</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Evidence for enhanced mixing over rough topography in the abyssal ocean</ArticleTitle>
+                  <JournalTitle>Nature</JournalTitle>
+                  <VolumeID>403</VolumeID>
+                  <FirstPage>179</FirstPage>
+                  <LastPage>181</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/35003164</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ledwell J R, Montogmery E T, Polzin K L, et al. 2000. Evidence for enhanced mixing over rough topography in the abyssal ocean. Nature, 403: 179–181</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Madsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H. B.</Initials>
+                    <FamilyName>Nielsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O.</Initials>
+                    <FamilyName>Tingleff</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>Methods for non-linear least squares problems</BookTitle>
+                  <PublisherName>informatics and Mathematical Modelling, Technical University of Denmark</PublisherName>
+                  <PublisherLocation>Lyngby</PublisherLocation>
+                  <FirstPage>60</FirstPage>
+                </BibBook>
+                <BibUnstructured>Madsen K, Nielsen H B, Tingleff O. 2004. Methods for non-linear least squares problems. Lyngby: informatics and Mathematical Modelling, Technical University of Denmark, 60</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M. A.</Initials>
+                    <FamilyName>Merrifield</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P. E.</Initials>
+                    <FamilyName>Holloway</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Model estimates of M<Subscript>2</Subscript> internal tide energetics at the Hawaiian Ridge</ArticleTitle>
+                  <JournalTitle>J Geophys Res</JournalTitle>
+                  <VolumeID>107</VolumeID>
+                  <FirstPage>3179</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2001JC000996</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Merrifield M A, Holloway P E. 2002. Model estimates of M<Subscript>2</Subscript> internal tide energetics at the Hawaiian Ridge. J Geophys Res, 107: 3179, doi:10.1029/2001JC000996</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M. A.</Initials>
+                    <FamilyName>Merrifield</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P. E.</Initials>
+                    <FamilyName>Holloway</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T. M. S.</Initials>
+                    <FamilyName>Johnston</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">The generation of internal tides at the Hawaiian Ridge</ArticleTitle>
+                  <JournalTitle>Geophys Res Lett</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>559</FirstPage>
+                  <LastPage>562</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2000GL011749</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Merrifield M A, Holloway P E, Johnston T M S. 2001. The generation of internal tides at the Hawaiian Ridge. Geophys Res Lett, 28(4): 559–562</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G. T.</Initials>
+                    <FamilyName>Mitchum</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Comparison of TOPEX sea surface heights and tide gauge sea levels</ArticleTitle>
+                  <JournalTitle>J Geophys Res</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <FirstPage>24541</FirstPage>
+                  <LastPage>24553</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/94JC01640</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mitchum G T. 1994. Comparison of TOPEX sea surface heights and tide gauge sea levels. J Geophys Res, 99: 24541–24553</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Munk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Wunsch</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Abyssal recipes: II. Energetics of tidal and wind mixing</ArticleTitle>
+                  <JournalTitle>Deep-Sea Res</JournalTitle>
+                  <VolumeID>45</VolumeID>
+                  <FirstPage>1977</FirstPage>
+                  <LastPage>2010</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0967-0637(98)00070-3</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Munk W, Wunsch C. 1998. Abyssal recipes: II. Energetics of tidal and wind mixing. Deep-Sea Res, 45: 1977–2010</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Niwa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Hibiya</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Numerical study of the spatial distribution of the M<Subscript>2</Subscript> internal tide in the Pacific Ocean</ArticleTitle>
+                  <JournalTitle>J Geophys Res</JournalTitle>
+                  <VolumeID>106</VolumeID>
+                  <FirstPage>22441</FirstPage>
+                  <LastPage>22449</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2000JC000770</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Niwa Y, Hibiya T. 2001. Numerical study of the spatial distribution of the M<Subscript>2</Subscript> internal tide in the Pacific Ocean. J Geophys Res, 106: 22441–22449</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Nocedal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S. J.</Initials>
+                    <FamilyName>Wright</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <BookTitle>Numerical Optimization</BookTitle>
+                  <PublisherName>Springer-Verlag</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Nocedal J, Wright S J. 2006. Numerical Optimization. New York: Springer-Verlag, 664</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K. L.</Initials>
+                    <FamilyName>Polzin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. M.</Initials>
+                    <FamilyName>Toole</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. R.</Initials>
+                    <FamilyName>Ledwell</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Spatial variability of turbulent mixing in the abyssal ocean</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>276</VolumeID>
+                  <FirstPage>93</FirstPage>
+                  <LastPage>96</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.276.5309.93</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Polzin K L, Toole J M, Ledwell J R, et al. 1997. Spatial variability of turbulent mixing in the abyssal ocean. Science, 276: 93–96</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R. D.</Initials>
+                    <FamilyName>Ray</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D. E.</Initials>
+                    <FamilyName>Cartwright</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Estimates of internal tide energy fluxes from Topex/Poseidon altimetry: central North Pacific</ArticleTitle>
+                  <JournalTitle>Geophys Res Lett</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>1259</FirstPage>
+                  <LastPage>1262</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2000GL012447</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ray R D, Cartwright D E. 2001. Estimates of internal tide energy fluxes from Topex/Poseidon altimetry: central North Pacific. Geophys Res Lett, 28: 1259–1262</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R. D.</Initials>
+                    <FamilyName>Ray</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G. T.</Initials>
+                    <FamilyName>Mitchum</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Surface manifestation of internal tides generated near Hawaii</ArticleTitle>
+                  <JournalTitle>Geophys Res Lett</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <FirstPage>2101</FirstPage>
+                  <LastPage>2104</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/96GL02050</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ray R D, Mitchum G T. 1996. Surface manifestation of internal tides generated near Hawaii. Geophys Res Lett, 23: 2101–2104</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R. D.</Initials>
+                    <FamilyName>Ray</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G. T.</Initials>
+                    <FamilyName>Mitchum</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Surface manifestation of internal tides in the deep ocean: observations from altimetry and island gauges</ArticleTitle>
+                  <JournalTitle>Prog Oceanogr</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>135</FirstPage>
+                  <LastPage>162</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0079-6611(97)00025-6</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ray R D, Mitchum G T. 1997. Surface manifestation of internal tides in the deep ocean: observations from altimetry and island gauges. Prog Oceanogr, 40: 135–162</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D. L.</Initials>
+                    <FamilyName>Rudnick</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T. J.</Initials>
+                    <FamilyName>Boyd</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. E.</Initials>
+                    <FamilyName>Brainard</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">From tides to mixing along the Hawaiian Ridge</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>301</VolumeID>
+                  <FirstPage>355</FirstPage>
+                  <LastPage>357</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.1085837</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rudnick D L, Boyd T J, Brainard R E, et al. 2003. From tides to mixing along the Hawaiian Ridge. Science, 301: 355–357</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Tian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Zhou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Xiaoqian.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Latitudinal distribution of mixing rate caused by the M<Subscript>2</Subscript> internal tide</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>35</FirstPage>
+                  <LastPage>42</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/JPO2824.1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tian Jiwei, Zhou Lei, Zhang Xiaoqian. 2006. Latitudinal distribution of mixing rate caused by the M<Subscript>2</Subscript> internal tide. J Phys Oceanogr, 36(1): 35–42</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Tian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Zhou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Estimates of M<Subscript>2</Subscript> internal tide energy fluxes along the margin of northwestern Pacific using TOPEX/POSEIDON altimeter data</ArticleTitle>
+                  <JournalTitle>Geophys Res Lett</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <IssueID>17</IssueID>
+                  <FirstPage>1889</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1029/2003GL018008</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tian Jiwei, Zhou Lei, Zhang Xiaoqian, et al. 2003. Estimates of M<Subscript>2</Subscript> internal tide energy fluxes along the margin of northwestern Pacific using TOPEX/POSEIDON altimeter data. Geophys Res Lett, 30(17): 1889, doi: 10.1029/2003GL018008</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>Zhao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. H.</Initials>
+                    <FamilyName>Alford</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">New altimetric estimates of mode-1 M<Subscript>2</Subscript> internal tides in the central North Pacific Ocean</ArticleTitle>
+                  <JournalTitle>J Phys Oceanogr</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>1669</FirstPage>
+                  <LastPage>1684</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/2009JPO3922.1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zhao Z, Alford M H. 2009. New altimetric estimates of mode-1 M<Subscript>2</Subscript> internal tides in the central North Pacific Ocean. J Phys Oceanogr, 39: 1669–1684</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

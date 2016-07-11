@@ -1,0 +1,2084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <JournalSubject Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Type="Secondary">Computer Science, general</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Type="Secondary">Information Storage and Retrieval</JournalSubject>
+        <JournalSubject Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <SubjectCollection Code="Computer Science">SC6</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>1</VolumeIDStart>
+        <VolumeIDEnd>1</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>5</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>10</Month>
+              <Day>23</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2012</Year>
+              <Month>10</Month>
+              <Day>22</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>12</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-012-0021-5" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>21</ArticleID>
+            <ArticleDOI>10.1007/s13735-012-0021-5</ArticleDOI>
+            <ArticleSequenceNumber>4</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Acquisition of multimedia ontology: an application in preservation of cultural heritage</ArticleTitle>
+            <ArticleCategory>Regular Paper</ArticleCategory>
+            <ArticleFirstPage>249</ArticleFirstPage>
+            <ArticleLastPage>262</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+              </Received>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Anupama</GivenName>
+                  <FamilyName>Mallik</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>ansimal@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Santanu</GivenName>
+                  <FamilyName>Chaudhury</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>schaudhury@ee.iitd.ac.in</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgName>IIT</OrgName>
+                <OrgAddress>
+                  <City>New Delhi</City>
+                  <Country Code="IN">India</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para>A domain-specific ontology models a specific domain or part of the world. In fact, ontologies have proven to be an excellent medium for capturingpagebreak the knowledge of a domain. We propose an ontology learning scheme in this paper which combines standard multimedia analysis techniques with knowledge drawn from conceptual meta-data to learn a domain-specific multimedia ontology from a set of annotated examples. A standard machine-learning algorithm that learns structure and parameters of a Bayesian network is extended to include media observables in the learning. An expert group provides domain knowledge to construct a basic ontology of the domain as well as to annotate a set of training videos. These annotations help derive the associations between high-level semantic concepts of the domain and low-level media features. We construct a more robust and refined version of the basic ontology by learning from this set of conceptually annotated data. We show an application of our ontology-based framework for exploration of multimedia content, in the field of cultural heritage preservation. By constructing an ontology for the cultural heritage domain of Indian classical dance, and by offering an application for semantic annotation of the heritage collection of Indian dance videos, we demonstrate the efficacy of ou approach.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Ontology learning</Keyword>
+              <Keyword>Multimedia ontology</Keyword>
+              <Keyword>MOWL</Keyword>
+              <Keyword>Video annotation</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>An ontology is a “formal, explicit specification of a shared conceptualisation”.<Footnote ID="Fn1">
+                  <Para>Wikipedia definition.</Para>
+                </Footnote> In other words, it is the formal representation of a set of concepts within a domain and the relationships between those concepts. It provides a shared vocabulary, which can be used to model a domain, that is, the type of objects and/or concepts that exist, and their properties and relations. It is used to reason about the properties of that domain, and may be used to define the domain. Thus a domain ontology (or domain-specific ontology) models a specific domain, or part of the world. In fact, ontologies have proved to be an excellent medium for capturing the knowledge of a domain. In this paper, we propose a novel ontology learning scheme which utilizes domain experts’ knowledge, combined with annotated examples of the domain to construct a multimedia ontology for effective use in retrieval applications. Ontologies have been used in multimedia retrieval applications [<CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR14">14</CitationRef>], but applying ontology learning to improve multimedia retrieval, specially attuned to probabilistic reasoning as is required with multimedia data and linked observations, has not been attempted before.</Para>
+              <Para>Ontology construction is necessarily an iterative process. An ontology representing concepts and relationships of the domain can be constructed manually with a domain expert providing the inputs. In this process, there is a possibility of missing out some concepts and relations which may exist in the real-world, while coding some extra knowledge which might be obsolete. It is highly effective to fine-tune the knowledge obtained from the expert by applying learning from real-world examples belonging to the domain. An ontology refined in this manner is a better structured, logically valid model of the domain that it represents. The goal of ontology learning, thus, is to (semi-)automatically generate relevant concepts and relations from a given corpus and expert inputs.</Para>
+              <Para>The objective of our work is to devise a framework for learning a domain-specific ontology from multimedia data belonging to the domain, in order to provide a highly effective content-based access to the data contained in the repository. The novelty of our work is the ability to encode the highly specialized knowledge that experts of a scholarly domain have, into an ontological representation of the domain, and refine this knowledge by learning from observables in the multimedia examples of the domain. Combination of domain knowledge with example-driven supervised learning for generation of domain ontology for multimedia retrieval is a unique contribution of this work. Learning the ontology in our scheme employs the use of the Multimedia Web Ontology Language (MOWL) and its unique probabilistic reasoning framework for representing the multimedia ontology. MOWL representation allows a Bayesian network representation of the ontology snippets, and thus allows us to extend a standard Bayesian network learning algorithm for learning the structure and parameters of the multimedia ontology. We have shown the success of our technique by applying our work to a cultural heritage domain of Indian classical dance. We use the ontology-specified knowledge for recognizing concepts relevant to a video to annotate fresh additions to the video database with relevant concepts in the ontology.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Related work</Heading>
+              <Para>Research work in ontology-based multimedia information retrieval (MIR) elaborates on <Emphasis Type="Italic">how</Emphasis> to use ontology for MIR but not on how to relate the ontology to multimedia data. For example, learning has been used in the LSCOM [<CitationRef CitationID="CR15">15</CitationRef>], but only for concept-detection, not for learning of ontology. Ontology learning refers to the automatic discovery and creation of ontological knowledge using machine-learning techniques, with little human intervention. A lot of research in ontology learning is happening but not in the multimedia domain. State-of-art ontology learning approaches have been discussed in [<CitationRef CitationID="CR24">24</CitationRef>]. According to this review, text is the most used medium for learning ontologies. Limited research exists in the area of ontology learning with multimedia content. In [<CitationRef CitationID="CR25">25</CitationRef>], the authors discuss the challenge of developing domain ontologies, specially for under-developed domains, which have no structural resources in existence. They propose the ROD methodology that can automatically discover concepts and relations from large-scale semi-structured and/or unstructured textual resources. An example of rule-based ontology learning can be found in the OntoLearn system [<CitationRef CitationID="CR16">16</CitationRef>], which extracts relevant domain terms from a corpus of text, relates them to appropriate concepts in a general-purpose ontology, and detects taxonomic and other semantic relations among the concepts. Amongst multimedia applications that use ontology learning, [<CitationRef CitationID="CR11">11</CitationRef>] presents a concept hierarchy of actions and propose a method for describing human activities from video images based on this hierarchy to generate a natural language sequence from a video sequence.</Para>
+              <Section2 ID="Sec3">
+                <Heading>Bayesian learning</Heading>
+                <Para>Bayesian learning is a common statistical machine-learning approach. Its use in ontology learning is limited by the lack of support in standard ontology languages like OWL for probabilistic reasoning. In [<CitationRef CitationID="CR5">5</CitationRef>], Ding et al. have proposed a probabilistic extension to OWL by using Bayesian networks, but this is limited to textual data. Here, we mention some of the research happening in the field of Bayesian network learning.</Para>
+                <Para>Starting from his tutorial on learning Bayesian networks in 1995 [<CitationRef CitationID="CR9">9</CitationRef>], Heckerman has published several works in this field. His research focuses on structural as well as parameter learning in Bayesian networks. Other algorithms and methods of structure learning in probabilistic networks include so-called <Emphasis Type="Italic">naive</Emphasis> Bayesian network learning, which states that classification is an optimal method of supervised learning in a Bayesian network if the values of the attributes of an example are independent given the class of the example. In  [<CitationRef CitationID="CR23">23</CitationRef>], Zheng et al. have considered an extension of naive Bayes, where a subset of the attribute values is considered, assuming independence among the remaining attributes. Niculescu et al. [<CitationRef CitationID="CR18">18</CitationRef>] have used parameter constraints to learn the Bayesian network. Ramachandran et al. [<CitationRef CitationID="CR19">19</CitationRef>] use the back-propagation approach of the neural network to the Bayesian network learning. In  [<CitationRef CitationID="CR2">2</CitationRef>], the authors have focused on the problem of learning probabilistic networks with known structure and hidden variables from data, defining what they call the Adaptive Probabilistic Network (APN) algorithm. They mention that an improvement for parametric learning algorithms like APN could be to allow a domain expert to pre-specify constraints on the conditional distributions. Buntine [<CitationRef CitationID="CR4">4</CitationRef>] gives a literature review discussing different methods of learning Bayesian networks from data.</Para>
+                <Para>Bayesian learning has been used in several applications of information retrieval. Neuman et al. [<CitationRef CitationID="CR17">17</CitationRef>] have described a model of IR based on Bayesian networks in  [<CitationRef CitationID="CR17">17</CitationRef>]. In  [<CitationRef CitationID="CR1">1</CitationRef>], we see the usage of Bayesian learning for Neural Networks in predicting both the location and next service for a mobile user movement. In [<CitationRef CitationID="CR21">21</CitationRef>], Town et al. have described how an ontology consisting of a ground truth schema and a set of annotated training sequences can be used to train the structure and parameters of Bayesian networks for event recognition. They have applied these techniques to a visual surveillance problem, and use visual content descriptors to infer high-level event and scenario properties. These applications work in generic, open domains where domain knowledge is not specialized, and there is no learning from meta-data attached to the videos.</Para>
+                <Para>Motivated by the developments in Bayesian learning, we have proposed in this paper, a scheme for learning a multimedia ontology encoded as a probabilistic Bayesian network. We detail our scheme for building and learning of a multimedia ontology for an example domain of Indian classical dance (ICD), verifying with experiments how the snippets of ontology learnt through our framework, help in more effective retrieval. The rest of this paper is organized as follows. Section <InternalRef RefID="Sec4">3</InternalRef> details the multimedia ontology representation scheme offered by the Multimedia Web Ontology Language. In Sect. <InternalRef RefID="Sec5">4</InternalRef>, we give an overview of the ontology-based framework for a multimedia content management system, which uses our ontology learning scheme to build the ontology required for its working. Section <InternalRef RefID="Sec6">5</InternalRef> gives the details of our ontology learning scheme explaining how the ontology is learnt from domain experts’ knowledge and labelled multimedia data. Section <InternalRef RefID="Sec11">6</InternalRef> gives details of an application of our ontology learning framework in learning a multimedia ontology for the heritage domain of Indian classical dance. Section <InternalRef RefID="Sec20">7</InternalRef> concludes the paper by summarizing our findings.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec4">
+              <Heading>Multimedia ontology representation through MOWL</Heading>
+              <Para>We have used the Multimedia Web Ontology Language [<CitationRef CitationID="CR8">8</CitationRef>] for representing the multimedia ontologies used in our experiments. An ontology encoded in a traditional ontology language, e.g. OWL, uses text to express the domain concepts and the properties. Thus, it is quite straightforward to apply such an ontology for semantic text processing. Semantic processing of multimedia data, however, calls for ontology primitives that enable modelling of domain concepts with their observable media properties. This kind of modelling is called <Emphasis Type="Bold">Perceptual Modelling</Emphasis>, an example of which is shown in Fig. <InternalRef RefID="Fig1">1</InternalRef>a. Such modelling needs to encode the inherent uncertainties associated with media properties of concepts too. Traditional ontology languages do not support these capabilities.
+<Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>
+                        <Emphasis Type="Bold">a</Emphasis> Perceptual modelling, <Emphasis Type="Bold">b</Emphasis> multimedia ontology of Indian monuments, <Emphasis Type="Bold">c</Emphasis> observation model of Taj Mahal</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>In order to support semantic media processing, we use the ontology representation scheme offered by MOWL, that enables encoding of media properties for the concepts in a closed domain. The basic premise of MOWL is a causal model of the world, where real-world concepts (and events) lead to manifestation of media features in multimedia documents. This causal modelling distinguishes MOWL from OWL and other knowledge representation languages. The causal model can be used for abductive reasoning for concept-recognition in multimedia data, where the observed media features in a multimedia document can be <Emphasis Type="Italic">causally</Emphasis> explained as manifestations of concepts. Syntactically, MOWL is an extension of OWL. However, it supports probabilistic reasoning with <Emphasis Type="Italic">observation models</Emphasis> of the concepts, which can be interpreted as Bayesian networks with CPTs. This is in contrast to crisp Description Logic-based reasoning with traditional ontology languages. MOWL allows encoding of uncertainties which exist in the observation of multimedia data, and in some relations between concepts which are probabilistic. These can be specified as joint probabilities of a concept in relation with several other concepts. This kind of reasoning is useful in concept discovery in documents belonging to multimedia collections.</Para>
+              <Para>We have used MOWL to encode our domain ontology. MOWL provides the following functionality for a multimedia ontology representation:<UnorderedList Mark="Bullet">
+                  <ItemContent>
+                    <Para>
+                      <Emphasis Type="Bold">Concepts and media properties</Emphasis> MOWL distinguishes between two types of entities, namely (a) the <Emphasis Type="Italic">concepts</Emphasis> that represent the real-world objects or events and (b) the <Emphasis Type="Italic">media objects</Emphasis> that represent manifestation of concepts in different media forms. Detection of the media objects leads to concept-recognition. For example, as shown in Fig. <InternalRef RefID="Fig1">1</InternalRef>b, while a monument is a real-world concept, the visual image of the monument is a media object which represents its media manifestation. As another example, a specific performance of a dance piece can be recognized by a set of gestures, postures and actions, which form a set of media objects representing the possible media manifestations for the dance performance of a particular conceptual category.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>
+                      <Emphasis Type="Bold">MOWL relations</Emphasis> Relations between the concepts play an important role in concept-recognition. For example, an important cue to the recognition of a medieval monument can be the visual properties of the stone it is built with (as shown in Fig. <InternalRef RefID="Fig1">1</InternalRef>b). As another example, a classical dance form is generally accompanied by a specific form of music. Thus, detection of media properties characterizing the music form is an important cue to recognition of the dance form. In order to enable such reasoning, MOWL allows definition of a class of relations that imply “propagation” of media properties.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>
+                      <Emphasis Type="Bold">Specifying spatio-temporal relations</Emphasis> Complex media <Emphasis Type="Italic">events</Emphasis> can be defined in MOWL with constituent media objects and their spatio-temporal relations with formal semantics which is consistent with and can be executed with an extended MPEG-7 Query Engine proposed in [<CitationRef CitationID="CR22">22</CitationRef>]. For e.g., in a classical dance, a certain dance step is a choreographical sequence of certain dance postures. A multimedia ontology should be able to specify such concepts in terms of spatial/temporal relations between the components. MOWL defines a subclass of media objects called <InlineEquation ID="IEq1">
+                        <InlineMediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </InlineMediaObject>
+                        <EquationSource Format="TEX"><![CDATA[$$<$$]]></EquationSource>
+                      </InlineEquation>
+                      <Emphasis FontCategory="NonProportional">mowl:ComplexObject</Emphasis>
+                      <InlineEquation ID="IEq2">
+                        <InlineMediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </InlineMediaObject>
+                        <EquationSource Format="TEX"><![CDATA[$$>$$]]></EquationSource>
+                      </InlineEquation> which represents composition of media objects related through spatial or temporal relations. Every complex object is defined by a spatial or temporal relation or <Emphasis Type="Italic">predicate</Emphasis> and two media objects—one the <Emphasis Type="Italic">subject</Emphasis> of the predicate relation and the other the <Emphasis Type="Italic">object</Emphasis> of the predicate. For example, a soccer goal can be represented as a complex object with <Emphasis Type="Italic">subject</Emphasis> “ball”, <Emphasis Type="Italic">spatial predicate</Emphasis> “inside” and <Emphasis Type="Italic">object</Emphasis> “goalpost”.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>
+                      <Emphasis Type="Bold">Uncertainty specification</Emphasis> The relations that associate concepts and media objects are causal relations and are generally uncertain in nature. For example, though certain gestures and postures are integral parts of a classical dance performance, they may be omitted or modified in a particular instance of a performance. Thus, these associations are probabilistic in nature. MOWL provides for specification of uncertainty of these associations in a multimedia domain by providing special constructs for defining Conditional Probability Tables (CPTs) and associating them with concepts and media objects.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>
+                      <Emphasis Type="Bold">Reasoning with Bayesian networks</Emphasis> The knowledge available in a MOWL ontology is used to construct an observation model (OM) for a concept, which is in turn used for concept-recognition. This requires two stages of reasoning:<OrderedList>
+                        <ListItem>
+                          <ItemNumber>1.</ItemNumber>
+                          <ItemContent>
+                            <Para>
+                              <Emphasis Type="Italic">Reasoning for derivation of observation model for a concept.</Emphasis> This requires exploring the neighbourhood of a concept and collating media properties of neighbouring concepts, wherever media property propagation is implied. The resultant observation model of a concept is organized as a Bayesian network (BN).</Para>
+                          </ItemContent>
+                        </ListItem>
+                        <ListItem>
+                          <ItemNumber>2.</ItemNumber>
+                          <ItemContent>
+                            <Para>
+                              <Emphasis Type="Italic">Reasoning for concept-recognition.</Emphasis> Once an observation model for a concept is created, it can be used for concept recognition. We use an abductive reasoning scheme that exploits the causal relations captured in the observation model (Fig. <InternalRef RefID="Fig1">1</InternalRef>c).</Para>
+                          </ItemContent>
+                        </ListItem>
+                      </OrderedList>
+                    </Para>
+                  </ItemContent>
+                </UnorderedList>
+              </Para>
+            </Section1>
+            <Section1 ID="Sec5">
+              <Heading>Ontology-based management of multimedia resources</Heading>
+              <Para>Multimedia resources pertaining to a domain can include digital replicas of domain artefacts, events, etc. Depending on the domain, these can be videos or still images of soccer matches, paintings, sculpture or dance performances, as well as the contextual knowledge relating to these resources, which is contributed by domain experts. Our proposed scheme for multimedia resource management is motivated by the need for relating the digital objects with contextual knowledge, to make the former more usable. With these requirements, we have proposed an ontology-based framework for multimedia content management with flexible structure and dynamic updation. In this paper, we focus on our technique of <Emphasis Type="Italic">building</Emphasis> the multimedia ontology, which is the backbone of this framework, with the help of knowledge obtained from domain experts and then learning it from real-world data which is part of the digital resources of the domain. There are four main stages in the framework, namely <Emphasis Type="Bold">knowledge acquisition</Emphasis>, <Emphasis Type="Bold">ontology learning</Emphasis>, <Emphasis Type="Bold">application</Emphasis> and <Emphasis Type="Bold">evaluation</Emphasis>, as shown in Fig. <InternalRef RefID="Fig2">2</InternalRef>.<OrderedList>
+                  <ListItem>
+                    <ItemNumber>1.</ItemNumber>
+                    <ItemContent>
+                      <Para>
+                        <Emphasis Type="Bold">Knowledge acquisition</Emphasis> This stage deals with acquiring the highly specialized knowledge of a domain and encoding it in a domain-specific ontology. It also involves collecting the multimedia data of the domain and building a digital collection. To begin with, a basic <Emphasis Type="Italic">s</Emphasis>eed ontology for the domain is hand-crafted by a group of domain experts. The ontology includes the domain concepts, their properties and their relations. The domain experts also provide <Emphasis Type="Italic">c</Emphasis>onceptual labels to a training set of multimedia data. They annotate the multimedia files and their segments, based on their observations, in such a way that the labels correspond to domain concepts in the ontology.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>2.</ItemNumber>
+                    <ItemContent>
+                      <Para>
+                        <Emphasis Type="Bold">Ontology learning</Emphasis> At this stage, the basic ontology, enriched with multimedia data, is further refined and fine-tuned by applying machine-learning from the training set of labelled data. We use MOWL to represent the ontological concepts and the uncertainties inherent in their media-specific relations. The multimedia ontology thus created, encodes the experts’ perspective and needs adjustments to attune it to the real-world data. Conceptual annotations help build the case data used for applying a machine-learning technique called the Full Bayesian network (FBN) learning to refine the ontology. An important part of the ontology learning stage is the development of <Emphasis Type="Bold">media pattern classifiers</Emphasis> which can detect media patterns corresponding to lowest-level media nodes in the ontology based on the presence of content-based media features. MOWL supports probabilistic reasoning with Bayesian networks in contrast to crisp Description Logic-based reasoning with traditional ontology languages. We compute the joint probability distributions of the concept and the media nodes and apply the FBN technique to create the probabilistic associations. The technique is applied periodically as newly labelled multimedia data instances are added to the collection and the ontology is updated. This semi-automated maintenance of ontology alleviates significant efforts on the part of knowledge engineers.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>3.</ItemNumber>
+                    <ItemContent>
+                      <Para>
+                        <Emphasis Type="Bold">Application</Emphasis> The multimedia ontology is used for <Emphasis Type="Italic">a</Emphasis>nnotation generation for new instances of digital artefacts. A set of media feature classifiers are used to detect the media patterns corresponding to the media nodes in the ontology. The MOWL ontology can then be used to recognize the abstract domain concepts using a probabilistic reasoning framework. The concepts so recognized are used to annotate the multimedia artefacts. The goal behind building such a framework is to give a novel multimedia experience to the user seeking to retrieve resources belonging to a digital collection. The conceptual annotations are used to create semantic hyper-links in the digital collection, which along with the multimedia ontology, provide an effective <Emphasis Type="Italic">s</Emphasis>emantic browsing interface to the user.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>4.</ItemNumber>
+                    <ItemContent>
+                      <Para>
+                        <Emphasis Type="Bold">Evaluation</Emphasis> As the multimedia ontology is created and maintained along with the building of the digital collection, each process in our framework is constantly evaluated for integrity and scalability. Users and domain experts are part of the process of updating the knowledge base as new learning takes place and changes happen in the real world.</Para>
+                    </ItemContent>
+                  </ListItem>
+                </OrderedList>
+                <Figure Category="Standard" Float="Yes" ID="Fig2">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Framework for ontology-based management of multimedia content</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO2">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section1>
+            <Section1 ID="Sec6">
+              <Heading>Ontology learning from multimedia data</Heading>
+              <Para>Ontology learning not only improves the efficiency of ontology development process, but also enables discovery of new knowledge by tapping into data repositories. The data available with multimedia collections are of two kinds: <Emphasis Type="Italic">T</Emphasis>extual meta-data which gives additional knowledge about the content, and <Emphasis Type="Italic">C</Emphasis>ontent-based features extracted from the multimedia data. There are different approaches to multimedia data handling using either or both these kinds of data. Success in multimedia analysis and retrieval applications has been seen to occur in those methodologies which effectively combine these to complement each other. In this section, we describe how we are able to use both kinds of data to refine the basic multimedia ontology constructed at the previous stage.</Para>
+              <Para>There are two inputs to the Ontology Learning process—a basic ontology of the domain which is constructed with the help of knowledge provided by the domain experts, and conceptual annotations by domain experts, based on observable parameters in the media files. We illustrate the ontology learning by taking a simple example snippet from the basic ICD ontology <InlineEquation ID="IEq4">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                </InlineEquation> shown in Fig. <InternalRef RefID="Fig3">3</InternalRef>. This seed ontology for the ICD domain is initially constructed by encoding specialized knowledge gathered from the domain experts. Next step involves annotating the training data and correlating media features. This snippet, enriched with media features (pink elliptical nodes), shows <Emphasis FontCategory="NonProportional">Bharatnatayam</Emphasis>
+                <Emphasis FontCategory="NonProportional">Dance</Emphasis> and <Emphasis FontCategory="NonProportional">OdissiDance</Emphasis> as two styles of <Emphasis FontCategory="NonProportional">IndianClassicalDance</Emphasis>. <Emphasis FontCategory="NonProportional">BharatnatyamDance</Emphasis> is related to the music form <Emphasis FontCategory="NonProportional">CarnaticMusic</Emphasis> and a concept <Emphasis FontCategory="NonProportional">Teermanam</Emphasis> which is a dance step typically contained in <Emphasis FontCategory="NonProportional">BharatnatyamDance</Emphasis> performances. Media manifestations of <Emphasis FontCategory="NonProportional">CarnaticMusic</Emphasis> include a musical beat called <Emphasis FontCategory="NonProportional">AdiTaal</Emphasis> and an instrument <Emphasis FontCategory="NonProportional">MridangamInstrument</Emphasis> which is regularly played as part of a Carnatic music performance. The concepts related to <Emphasis FontCategory="NonProportional">OdissiDance</Emphasis> are the music accompanying its performances which is <Emphasis FontCategory="NonProportional">OriyaMusic</Emphasis>, and the concept <Emphasis FontCategory="NonProportional">Chawk</Emphasis> which has media manifestations in the form of a posture <Emphasis FontCategory="NonProportional">ChawkPosture</Emphasis> and a dance step <Emphasis FontCategory="NonProportional">ChawkBhramariDanceStep</Emphasis>. MOWL encoding of the ontology is done to associate the expected media patterns with concepts as well as to associate probability values to the CPTs. Some of the probability values come from the domain experts’ perspective, while the others are obtained from the training set of videos. The pair of values at each link in the ontology denote the conditional probabilities <InlineEquation ID="IEq5">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$P(M\mid C)$$]]></EquationSource>
+                </InlineEquation> and <InlineEquation ID="IEq6">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$P(M\mid \lnot C)$$]]></EquationSource>
+                </InlineEquation>, where <InlineEquation ID="IEq7">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$C$$]]></EquationSource>
+                </InlineEquation> is a concept and <InlineEquation ID="IEq8">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$M$$]]></EquationSource>
+                </InlineEquation> represents an associated concept or media pattern. <Figure Category="Standard" Float="Yes" ID="Fig3">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Basic Ontology snippet <InlineEquation ID="IEq3">
+                          <InlineMediaObject>
+                            <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                          </InlineMediaObject>
+                          <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                        </InlineEquation> of the ICD domain as specified by the domain experts, enriched with multimedia</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO3">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>Uncertainty specification is supported in MOWL, and Bayesian network reasoning is possible with observation models derived out of a MOWL ontology. With this fact in mind, we explain the learning of our MOWL ontology in terms of Bayesian network learning. We apply a standard BN learning algorithm and extend it to learn uncertainty between concepts and their media properties. The basic structure of the BN for a concept, which is the start point of the learning, comes from its OM drawn from the basic domain ontology in MOWL. The BN is learnt using the training set of annotated videos which provide the case data for learning. The learnt BN may have some new links between the nodes while some older links may be deleted if the causal dependency between the two nodes is below a threshold. Once the BNs are learnt, the learning is then applied to update the structure and uncertainties encoded in the basic MOWL ontology. The efficacy of learning is tested by building applications of annotating, searching and browsing based on the learnt ontology and testing for expected improvement in results.</Para>
+              <Section2 ID="Sec7">
+                <Heading>Bayesian network learning</Heading>
+                <Para>A Bayesian network is characterized by its topology and the conditional probability tables (CPTs) associated with its nodes. The goal of learning a BN is to determine both the structure of the network (structure learning) and the set of CPTs (parameter learning). An OM in our scheme, modelled as a Bayesian network, is in effect, a specification for the concept in terms of searchable media patterns. The joint probability distribution tables that signify causal strength (significance) of the different media properties towards recognizing the concept are computed from the probabilistic associations specified in the ontology. Thus, we have already got a basic structure of the BN with CPTs reflecting the domain experts’ knowledge of the domain. Our aim is to use the learning algorithm—to refine this structure, which includes (1) discovering new links or relationships between concepts, and (2) removing some obsolete links, i.e. getting rid of some properties or relationships which do not exist in data; and—to learn the parameters of the Bayesian network. The algorithm must take into account the media observables or features that are associated with the concept nodes.</Para>
+                <Para>For our learning scheme, we have selected a standard Bayesian learning technique called the Full Bayesian Network learning [<CitationRef CitationID="CR20">20</CitationRef>]. We have extended this algorithm to learn structure and parameters of the Bayesian networks which correspond to the OMs for concepts in our multimedia ontology. The data for learning come from the training set of videos using the media-based features of the examples which help assign values to the variables in the network.</Para>
+                <Para>BN structure learning often has high computational complexity, since the number of possible structures is extremely huge. FBN overcomes the bottleneck of structure learning by not using the structure to represent variable independence. Instead, all variables are assumed dependent and a full BN is used as the structure of the target BN. FBN learning uses decision trees as the representation of CPTs [<CitationRef CitationID="CR6">6</CitationRef>] to obtain a more compact representation. The decision trees in CPTs are called CPT-trees. In learning an FBN classifier, learning the CPT-trees captures essentially both variable independence and context-specific independence (CSI).</Para>
+                <Para>For each OM extracted from the base ontology <InlineEquation ID="IEq9">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                  </InlineEquation>, a set of subnets, each of which is a naive Bayesian network and has a height = <InlineEquation ID="IEq10">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$1$$]]></EquationSource>
+                  </InlineEquation>, is obtained. The CPTs are copied into each subnet from the OM. FBN learning from case data takes place in each subnet, updating the structure and the parameters of the BN. The learnt subnets then update the OM and the learnt OMs are used to update the ontology. Figure <InternalRef RefID="Fig4">4</InternalRef>a shows a subnet which is a naive Bayesian network, constructed from a snippet of the MOWL ontology, showing a concept node <InlineEquation ID="IEq11">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$C$$]]></EquationSource>
+                  </InlineEquation>, related to some other concepts <InlineEquation ID="IEq12">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_i$$]]></EquationSource>
+                  </InlineEquation> by MOWL relations. <InlineEquation ID="IEq13">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_i$$]]></EquationSource>
+                  </InlineEquation> are further connected to some media nodes shown as leaf nodes <InlineEquation ID="IEq14">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$F_i$$]]></EquationSource>
+                  </InlineEquation>s in the snippet. These denote the media observable features associated with the concept. For example, the OM for concept node <Emphasis FontCategory="NonProportional">BharatnatyamDance</Emphasis> (Fig. <InternalRef RefID="Fig5">5</InternalRef>), has <Emphasis FontCategory="NonProportional">Carnatic Music</Emphasis> as a related concept, which is further associated with the observation of the media patterns <Emphasis FontCategory="NonProportional">AdiTaal</Emphasis> and <Emphasis FontCategory="NonProportional">MridangamInstrument</Emphasis>. In this figure, we show how the OM for <Emphasis FontCategory="NonProportional">BharatnataymDance</Emphasis> is split into naive Bayesian subnets. FBN structure learning in Sect. <InternalRef RefID="Sec8">5.2</InternalRef> explains the learning of each subnet, in terms of learning an FBN classifier, for a concept <InlineEquation ID="IEq15">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$C$$]]></EquationSource>
+                  </InlineEquation> and attributes <InlineEquation ID="IEq16">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_i$$]]></EquationSource>
+                  </InlineEquation>, with CPT learning. In Sect. <InternalRef RefID="Sec10">5.4</InternalRef>, we have extended the FBN learning algorithm to that part of the BN, where observation of media features is associated with high-level concepts. <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Full Bayesian network with observable media features</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO4">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_21_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                  <Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Observation Model of concept <Emphasis FontCategory="NonProportional">BharatnatyamDance</Emphasis> from ICD ontology <InlineEquation ID="IEq17">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                          </InlineEquation>, split into its subnets for FBN learning</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO5">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec8">
+                <Heading>FBN structure learning</Heading>
+                <Para>Given a training data set S, we partition S into <InlineEquation ID="IEq18">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\vert $$]]></EquationSource>
+                  </InlineEquation>C<InlineEquation ID="IEq19">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\vert $$]]></EquationSource>
+                  </InlineEquation> subsets, each <InlineEquation ID="IEq20">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$S_c$$]]></EquationSource>
+                  </InlineEquation> of which corresponds to the concept value c, and then construct an FBN for <InlineEquation ID="IEq21">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$S_c$$]]></EquationSource>
+                  </InlineEquation>. Learning the structure of a full BN actually means learning an order of variables and then adding arcs from a variable to all the variables ranked after it. The order of the variables is learnt based on total influence of each variable on other variables. The influence (dependency) between two variables can be measured by mutual information defined as follows:<Equation ID="Equ1">
+                    <EquationNumber>1</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_Equ1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} M(X,Y)=\Sigma _{xy} P(X,Y)\log P(X,Y) \end{aligned}$$]]></EquationSource>
+                  </Equation>where <Emphasis Type="Italic">x</Emphasis> and <Emphasis Type="Italic">y</Emphasis> are the values of variables <Emphasis Type="Italic">X</Emphasis> and <Emphasis Type="Italic">Y</Emphasis>, respectively. Since we compute the mutual information in each subset <InlineEquation ID="IEq22">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$S_c$$]]></EquationSource>
+                  </InlineEquation> of the training set, <InlineEquation ID="IEq23">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq23.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$M(X,Y)$$]]></EquationSource>
+                  </InlineEquation> is actually the conditional mutual information M(X,Y<InlineEquation ID="IEq24">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq24.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\vert $$]]></EquationSource>
+                  </InlineEquation>c). This ensures a high probability of learning true dependencies between variables. In practice, it is possible that the dependency between two variables, measured by Eq. <InternalRef RefID="Equ1">1</InternalRef>, is caused by noise. Thus, a threshold value is required to judge if the dependency between two variables is reliable. One typical approach to defining the threshold is based on the Minimum Description Length (MDL) principle. Friedman and Yakhini [<CitationRef CitationID="CR7">7</CitationRef>] show that the average cross entropy error is asymptotically proportional to <InlineEquation ID="IEq25">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq25.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$logN/2N$$]]></EquationSource>
+                  </InlineEquation> where N is the size of the training data. Their strategy is adopted to define the threshold to filter out unreliable dependencies as follows:<Equation ID="Equ2">
+                    <EquationNumber>2</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_Equ2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \varphi (X,Y)=\log 2N/2N*{T_i}_j \end{aligned}$$]]></EquationSource>
+                  </Equation>where <InlineEquation ID="IEq26">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq26.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$${T_i}_j= \vert X_i \vert \times \vert X_j \vert , \vert X_i \vert $$]]></EquationSource>
+                  </InlineEquation> is the number of possible values of <InlineEquation ID="IEq27">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq27.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_i$$]]></EquationSource>
+                  </InlineEquation>, and <InlineEquation ID="IEq28">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq28.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\vert X_j$$]]></EquationSource>
+                  </InlineEquation>
+                  <InlineEquation ID="IEq29">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq29.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\vert $$]]></EquationSource>
+                  </InlineEquation> is the number of possible values of <InlineEquation ID="IEq30">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq30.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_j$$]]></EquationSource>
+                  </InlineEquation>. In structure learning algorithm the dependency between <InlineEquation ID="IEq31">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq31.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_i$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq32">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq32.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_j$$]]></EquationSource>
+                  </InlineEquation> is taken into account only if M(<InlineEquation ID="IEq33">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq33.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_i; X_j) > \varphi (X_i, X_j$$]]></EquationSource>
+                  </InlineEquation>). The total influence of a variable <InlineEquation ID="IEq34">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq34.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_i$$]]></EquationSource>
+                  </InlineEquation> on all other variables denoted by <InlineEquation ID="IEq35">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq35.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$W(X_i)$$]]></EquationSource>
+                  </InlineEquation> defined as follows:<Equation ID="Equ3">
+                    <EquationNumber>3</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_Equ3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} W(X_i)=\sum _{j(j\ne i)}^{M(X_i; X_j) > Q(X_i, X_j)} M(X_i; X_j) \end{aligned}$$]]></EquationSource>
+                  </Equation>Equation <InternalRef RefID="Equ3">3</InternalRef> for concepts in <Emphasis FontCategory="NonProportional">BharatnatyamDance</Emphasis> subnet in Fig. <InternalRef RefID="Fig6">6</InternalRef>, computes <InlineEquation ID="IEq36">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq36.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$W(\mathtt \small BharatnatyamDance ) > W (\mathtt \small CarnaticMusic ) > W(\mathtt \small Teermanam )$$]]></EquationSource>
+                  </InlineEquation>. Accordingly, an ordering is imposed on the nodes in the subnet, to generate a new structure. Once CPTs are learnt, as detailed in the next section, the parameters determine whether all the links are retained, or some are deleted. Figures <InternalRef RefID="Fig5">5</InternalRef>, <InternalRef RefID="Fig6">6</InternalRef> and <InternalRef RefID="Fig7">7</InternalRef> show the splitting of the OM for concept <Emphasis FontCategory="NonProportional">BharatnatyamDance</Emphasis>, its FBN learning and updation afterwards.<Figure Category="Standard" Float="Yes" ID="Fig6">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Subnets of <Emphasis FontCategory="NonProportional">BharatnatyamDance</Emphasis> OM updated with FBN learning.</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO9">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                  <Figure Category="Standard" Float="Yes" ID="Fig7">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 7</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Observation Model of concept <Emphasis FontCategory="NonProportional">BharatnatyamDance</Emphasis> updated after FBN learning</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO11">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig7_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec9">
+                <Heading>Learning CPT-trees</Heading>
+                <Para>After the structure of an FBN is determined, a CPT tree should be learned for each variable <InlineEquation ID="IEq37">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq37.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_i$$]]></EquationSource>
+                  </InlineEquation>. As per FBN learning, we have used the Fast decision tree learning algorithm for learning CPTs. Before the tree growing process, all the variables <InlineEquation ID="IEq38">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq38.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_j$$]]></EquationSource>
+                  </InlineEquation> in <InlineEquation ID="IEq39">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq39.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\pi (X_i)$$]]></EquationSource>
+                  </InlineEquation>(parent set of <InlineEquation ID="IEq40">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq40.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_j$$]]></EquationSource>
+                  </InlineEquation>) are sorted in terms of mutual information M(<InlineEquation ID="IEq41">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq41.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_i$$]]></EquationSource>
+                  </InlineEquation>, <InlineEquation ID="IEq42">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq42.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_j$$]]></EquationSource>
+                  </InlineEquation>) on the whole training data, which determines a fixed order of variables. In the tree growing process, the variable <InlineEquation ID="IEq43">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq43.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_j$$]]></EquationSource>
+                  </InlineEquation> with the highest mutual information is removed from <InlineEquation ID="IEq44">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq44.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\pi (X_i)$$]]></EquationSource>
+                  </InlineEquation>, and the local mutual information <InlineEquation ID="IEq45">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq45.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$M^S(X_i, X_j)$$]]></EquationSource>
+                  </InlineEquation> on the current training data S, is computed. If it is greater than the local threshold <InlineEquation ID="IEq46">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq46.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\varphi ^S(X_i, X_j )$$]]></EquationSource>
+                  </InlineEquation>, <InlineEquation ID="IEq47">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq47.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_j$$]]></EquationSource>
+                  </InlineEquation> is used as the root, and the current training data S is partitioned according to the values of <InlineEquation ID="IEq48">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq48.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_j$$]]></EquationSource>
+                  </InlineEquation> and this process is repeated for each branch (subset). The key point here is that, for each variable, the local mutual information and local threshold is computed only once. Whether failed or not, it is removed from <InlineEquation ID="IEq49">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq49.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_i$$]]></EquationSource>
+                  </InlineEquation> and is never considered again. The fast CPT-tree learning algorithm can also be found in [<CitationRef CitationID="CR20">20</CitationRef>].</Para>
+              </Section2>
+              <Section2 ID="Sec10">
+                <Heading>Learning associations of observables with concepts</Heading>
+                <Para>We have extended the FBN learning algorithm to learn associations of concepts with observables features. Figure <InternalRef RefID="Fig4">4</InternalRef>b shows a concept node X1 with associated media properties F1–F4 as its children. An FBN is constructed for each value <InlineEquation ID="IEq50">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq50.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$x_i$$]]></EquationSource>
+                  </InlineEquation> of <InlineEquation ID="IEq51">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq51.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X1$$]]></EquationSource>
+                  </InlineEquation> denoting an ordering amongst media features. CPT-trees denoting uncertainties between a concept and its media properties are learnt using the same algorithm as for learning uncertainties between concepts. The basis of the FBN algorithm is the mutual information which denotes the influence (dependency) between two attributes, i.e. two media features here. This is computed by equation <InternalRef RefID="Equ4">4</InternalRef>.<Equation ID="Equ4">
+                    <EquationNumber>4</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_Equ4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} M(F_i,F_j)=\Sigma _{f_i,f_j} P(f_i,f_j)\log P(f_i,f_j) \end{aligned}$$]]></EquationSource>
+                  </Equation>where <InlineEquation ID="IEq52">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq52.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$f_i$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq53">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq53.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$f_j$$]]></EquationSource>
+                  </InlineEquation> are values for <InlineEquation ID="IEq54">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq54.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$F_i$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq55">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq55.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$F_j$$]]></EquationSource>
+                  </InlineEquation>, respectively. <InlineEquation ID="IEq56">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq56.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$M(F_i,F_j)$$]]></EquationSource>
+                  </InlineEquation> is actually the conditional mutual information M<InlineEquation ID="IEq57">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq57.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$(F_i,F_j)\vert x_i)$$]]></EquationSource>
+                  </InlineEquation>, i.e. dependency between the two features, given a value <InlineEquation ID="IEq58">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq58.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$x_i$$]]></EquationSource>
+                  </InlineEquation> of the concept <InlineEquation ID="IEq59">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq59.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$X_1$$]]></EquationSource>
+                  </InlineEquation>. To compute <InlineEquation ID="IEq60">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq60.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$P(f_i,f_j)$$]]></EquationSource>
+                  </InlineEquation>, we need to map the features extracted to a fixed set of symbolic features values in the features space. To recognize symbolic feature states in each feature space, we apply the following clustering scheme.</Para>
+                <Para>We pick a set of <InlineEquation ID="IEq61">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq61.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                  </InlineEquation> randomly selected videos from our video database for clustering. Every video is randomly sub-sampled to get <InlineEquation ID="IEq62">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq62.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$S$$]]></EquationSource>
+                  </InlineEquation> samples. These samples could be single frames or a group of frames (GoFs), each consisting of a group of <InlineEquation ID="IEq63">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq63.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource>
+                  </InlineEquation> continuous frames—the value of <InlineEquation ID="IEq64">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq64.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource>
+                  </InlineEquation> depends on video size. Different low-level media features as required by the media classifiers are extracted for each GoF. These feature values are then clustered using <Emphasis Type="Italic">K-Means clustering</Emphasis> to form <InlineEquation ID="IEq65">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq65.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                  </InlineEquation> clusters in each feature space. Therefore, for each feature space <InlineEquation ID="IEq66">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq66.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N \times S$$]]></EquationSource>
+                  </InlineEquation> feature values are found that are clustered to get <InlineEquation ID="IEq67">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq67.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                  </InlineEquation> clusters. The <InlineEquation ID="IEq68">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq68.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                  </InlineEquation> cluster center values represent <InlineEquation ID="IEq69">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq69.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                  </InlineEquation> symbolic feature states or media feature ‘terms’ which are available in the data set. Each other video in the collection is similarly preprocessed and sub-sampled to extract media features for <InlineEquation ID="IEq70">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq70.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$S$$]]></EquationSource>
+                  </InlineEquation> GoFs in the video. By performing feature-specific similarity computations of feature values with feature ‘terms’, we can recognize the occurrence of these ‘terms’ in a video. This media-feature extraction, clustering and modelling scheme is explained in detail in [<CitationRef CitationID="CR13">13</CitationRef>]. Thus computation of probability <InlineEquation ID="IEq71">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq71.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$P(f_i,f_j)$$]]></EquationSource>
+                  </InlineEquation> is mapped to computation of <InlineEquation ID="IEq72">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq72.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$P(c_k,d_l)$$]]></EquationSource>
+                  </InlineEquation> where <InlineEquation ID="IEq73">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq73.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$c_k$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq74">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq74.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$d_l$$]]></EquationSource>
+                  </InlineEquation> denote cluster center values which <InlineEquation ID="IEq75">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq75.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$f_i$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq76">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq76.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$f_j$$]]></EquationSource>
+                  </InlineEquation> map to, in their respective feature spaces.</Para>
+                <Para>After computing mutual information between features, the FBN algorithms for structure and parameter learning can be applied, to learn the association of the concept with each feature as well as dependencies between features. The <Emphasis FontCategory="NonProportional">CarnaticMusic</Emphasis> subnet in Fig. <InternalRef RefID="Fig6">6</InternalRef>, illustrates the association of the concept <Emphasis FontCategory="NonProportional">CarnaticMusic</Emphasis> with its media manifestations <Emphasis FontCategory="NonProportional">AdiTaal</Emphasis> and <Emphasis FontCategory="NonProportional">MridangamInstrument</Emphasis>, along with the new ordering amongst the media nodes, learnt through the FBN technique.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec11">
+              <Heading>Application of ontology learning in a heritage domain</Heading>
+              <Para>In this section, we illustrate the application of our ontology learning scheme in building the ontology of the ICD domain detailing each step in the construction process. We show how the ontology is constructed from domain knowledge, then fine-tuned with the help of FBN learning using labelled ICD videos. We then validate the performance of our ontology learning scheme with experiments that measure the similarity in structure between the FBN learnt ontology and an <Emphasis Type="Italic">expected</Emphasis> ontology as provided by the experts. Another set of experiments which validate the parametric learning have been done to <Emphasis Type="Italic">recognize</Emphasis> the various abstract domain concepts with the help of the learnt ontology.</Para>
+              <Section2 ID="Sec12">
+                <Heading>‘NrityaKosha’ compilation</Heading>
+                <Para>The ICD heritage collection called ‘NrityaKosha’ was compiled by gathering dance videos from different sources. These include a highly specialized collection called ‘Symphony Celestial Gold Edition’ purchased from Invis Multimedia,<Footnote ID="Fn2">
+                    <Para>
+                      <ExternalRef>
+                        <RefSource>http://www.invismultimedia.com.</RefSource>
+                        <RefTarget Address="http://www.invismultimedia.com." TargetType="URL"/>
+                      </ExternalRef>
+                    </Para>
+                  </Footnote> which contains videos of classical dance performances by eminent Indian artists. Another set of high-quality dance performance videos was obtained from the Doordarshan Archives of India.<Footnote ID="Fn3">
+                    <Para>
+                      <ExternalRef>
+                        <RefSource>http://www.ddindia.gov.in/About%20DD/Programme%20Archives.</RefSource>
+                        <RefTarget Address="http://www.ddindia.gov.in/About%20DD/Programme%20Archives." TargetType="URL"/>
+                      </ExternalRef>
+                    </Para>
+                  </Footnote> Many dance DVDs were donated for research purposes by reputed artists of ICD [<CitationRef CitationID="CR12">12</CitationRef>]. The videos contain dance and music performances, training and tutorials on different dance forms, as well as many interviews and talks on ICD. We started work with a data set of approximately 20 h of dance videos. These consist of dance performances of mainly two Indian classical dance forms—Bharatnatyam and Odissi. The ICD ontology was constructed by encoding specialized knowledge gathered from the domain experts, as well as from dance manuals like <Emphasis Type="Italic">Natya Shastra</Emphasis> and <Emphasis Type="Italic">Abhinaya Darpan</Emphasis>.</Para>
+                <Para>The ICD dance videos, talks and interviews provided us with additional domain knowledge to formulate this basic ontology. The ontology is written in MOWL. The experts gave their observations on a set of about 30 % ICD videos, specifying dance forms, music forms, dance postures, dance steps, hand-gestures, name of a dancer, musicians, etc., that were part of a dance performance. Other meta-data about the video snippets was collected from the DVD covers, background commentary, scrolling text (ticker) and web. A video annotation tool, which allows conceptual annotation of different parts of a video at multiple levels of granularity, was used for this purpose. It creates video annotation files in an XML format, in tune with MPEG-7-based description scheme. These were then used as a training set to fine-tune the ICD ontology by applying FBN learning. Our ICD ontology contains around 500 concepts related to Indian dance and music in the ontology, out of which about 260 have media-observable patterns (features/examples) associated with them. Based on the expert observations, video frames showing dance postures, short video clips containing dance actions, wav files for music forms, etc., were extracted from the training set of videos. These multimedia files were attached as multimedia examples to the relevant domain concepts in the ICD ontology, and were also used as training data to train media detectors.</Para>
+                <Para>The ontology learning which happens in our framework has two aspects:<UnorderedList Mark="Bullet">
+                    <ItemContent>
+                      <Para>learning the structure of the ontology, which involves addition and deletion of links in the ontology, thus changing the causal dependencies between concepts, and between concepts and media nodes.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>learning the parameters which are the conditional probabilities of the causal relations in the ontology.</Para>
+                    </ItemContent>
+                  </UnorderedList>In this section, we illustrate the validation of learning the <Emphasis Type="Italic">structure</Emphasis> and the <Emphasis Type="Italic">parameters</Emphasis> of a multimedia ontology, using ICD ontology as an example. The <Emphasis Type="Italic">parameters</Emphasis> are simultaneously learnt in the FBN algorithm, and are verified with demonstration of concept-recognition and semantic annotation generated as its consequence.</Para>
+              </Section2>
+              <Section2 ID="Sec13">
+                <Heading>Learning the structure of ICD ontology</Heading>
+                <Para>To conduct the experiments for validating the learning of ontology, we need an <Emphasis Type="Italic">expected</Emphasis> version of the ontology as a benchmark, with which we can compare the learnt ontology and verify that the structure learnt is valid given a bounded error margin. The starting point in the ontology learning process, is the basic ontology <InlineEquation ID="IEq77">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq77.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                  </InlineEquation>, constructed from domain knowledge obtained from dance gurus (teachers and masters), and enriched with multimedia data from the labelled examples. This ontology represents the domain experts’ perspective and encodes the complexities of the background knowledge of the heritage ICD domain.</Para>
+                <Para>We obtained an expected version of the ontology <InlineEquation ID="IEq79">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq79.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\Gamma _E$$]]></EquationSource>
+                  </InlineEquation> shown in Fig. <InternalRef RefID="Fig8">8</InternalRef> from a different set of domain experts—the Indian classical dancers who have contributed their dance videos to the ICD heritage collection. Their version of the ontology differs in structure with <InlineEquation ID="IEq80">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq80.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                  </InlineEquation>, as the domain concepts and their relationships, as interpreted by the dancers are more in tune with the current context in which the dance performances take place. Indian classical dance domain being a heritage domain, the dancers do not have the liberty of adapting the rules and grammar of the domain beyond a certain permitted boundary, but they do understand the practical dependencies and corelations between dance, music, postures, themes and roles in the existing scenario <Emphasis Type="Italic">better</Emphasis> than the theoretical knowledge that the dance gurus might posses. <Figure Category="Standard" Float="Yes" ID="Fig8">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 8</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Expected ontology snippet <InlineEquation ID="IEq78">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq78.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$\Gamma _E$$]]></EquationSource>
+                          </InlineEquation> of the ICD domain as specified by the Indian classical dancers</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO12">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig8_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>We perform the FBN learning on observation models obtained from <InlineEquation ID="IEq81">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq81.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                  </InlineEquation>, then apply that learning to <InlineEquation ID="IEq82">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq82.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                  </InlineEquation> to obtain the learnt ICD ontology <InlineEquation ID="IEq83">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq83.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\Gamma _L$$]]></EquationSource>
+                  </InlineEquation>. A <Emphasis Type="Italic">graph matching</Emphasis> performance measure is applied to measure the similarity between the two versions of the ontology: <InlineEquation ID="IEq84">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq84.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\Gamma _L$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq85">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq85.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\Gamma _E$$]]></EquationSource>
+                  </InlineEquation>.</Para>
+                <Section3 ID="Sec14">
+                  <Heading>Performance measure</Heading>
+                  <Para>A MOWL ontology is a directed, labeled graph, and so are the two versions of the ontology—<InlineEquation ID="IEq86">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq86.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _L$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq87">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq87.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _E$$]]></EquationSource>
+                    </InlineEquation>, which need to be measured for similarity. There are several standard similarity measures defined to compute similarity between directed, labeled graphs, which are graphs with a finite number of nodes, or vertices, and a finite number of directed edges. We have chosen <Emphasis Type="Italic">graph edit distance</Emphasis> and <Emphasis Type="Italic">maximum common sub-graph</Emphasis> reviewed in [<CitationRef CitationID="CR3">3</CitationRef>]. A maximum common sub-graph of two graphs, <InlineEquation ID="IEq88">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq88.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq89">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq89.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g^{\prime }$$]]></EquationSource>
+                    </InlineEquation>, is a graph <InlineEquation ID="IEq90">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq90.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g^{\prime \prime }$$]]></EquationSource>
+                    </InlineEquation> that is a sub-graph of both <InlineEquation ID="IEq91">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq91.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq92">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq92.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g^{\prime }$$]]></EquationSource>
+                    </InlineEquation> and with the maximum number of nodes, from among all possible sub-graphs of <InlineEquation ID="IEq93">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq93.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq94">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq94.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g^{\prime }$$]]></EquationSource>
+                    </InlineEquation>. The maximum common sub-graph of two graphs need not be unique. The larger the number of nodes in the <Emphasis Type="Italic">maximum common sub-graph</Emphasis> of two graphs, the greater is their similarity.</Para>
+                  <Para>The other performance measure <Emphasis Type="Italic">graph edit distance</Emphasis> provides more error-tolerant graph matching. A graph edit operation is typically a deletion, insertion, or substitution (i.e. label change), and can be applied to nodes as well as to edges. The edit distance of two graphs, <InlineEquation ID="IEq95">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq95.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq96">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq96.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g^{\prime }$$]]></EquationSource>
+                    </InlineEquation>, is defined as the “shortest sequence of edit operations” that transform <InlineEquation ID="IEq97">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq97.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g$$]]></EquationSource>
+                    </InlineEquation> into <InlineEquation ID="IEq98">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq98.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g^{\prime }$$]]></EquationSource>
+                    </InlineEquation>. Obviously, the shorter this sequence is, more similar are the two graphs. Thus, edit distance is suitable to measure the similarity of graphs. According to [<CitationRef CitationID="CR3">3</CitationRef>], the <Emphasis Type="Italic">maximum common sub-graph</Emphasis>
+                    <InlineEquation ID="IEq99">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq99.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g^{\prime \prime }$$]]></EquationSource>
+                    </InlineEquation> of two graphs <InlineEquation ID="IEq100">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq100.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq101">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq101.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g^{\prime }$$]]></EquationSource>
+                    </InlineEquation> and their <Emphasis Type="Italic">edit distance </Emphasis> are related to each other through the simple equation<Equation ID="Equ5">
+                      <EquationNumber>5</EquationNumber>
+                      <MediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_Equ5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </MediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} d(g,g^{\prime }) = |g| + |g^{\prime }| - 2|g^{\prime \prime }| \end{aligned}$$]]></EquationSource>
+                    </Equation>where <InlineEquation ID="IEq102">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq102.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$|g|$$]]></EquationSource>
+                    </InlineEquation>, <InlineEquation ID="IEq103">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq103.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$|g^{\prime }|$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq104">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq104.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$|g^{\prime \prime }|$$]]></EquationSource>
+                    </InlineEquation> denote the number of nodes of <InlineEquation ID="IEq105">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq105.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g$$]]></EquationSource>
+                    </InlineEquation>, <InlineEquation ID="IEq106">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq106.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g^{\prime }$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq107">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq107.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$g^{\prime \prime }$$]]></EquationSource>
+                    </InlineEquation>, respectively.</Para>
+                </Section3>
+                <Section3 ID="Sec15">
+                  <Heading>Logic and implementation</Heading>
+                  <Para>The process of applying ontology learning in terms of obtaining the OMs from ontology, learning the OMs and then updating the ontology with the changed structure and parameters is detailed in algorithm 1 The two inputs to this algorithm are the basic ontology <InlineEquation ID="IEq108">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq108.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                    </InlineEquation> and case data obtained from the labelled set of files from the multimedia collection, in our case the labelled videos from the ICD collection. As mentioned in Sect. <InternalRef RefID="Sec7">5.1</InternalRef>, a set of naive Bayesian subnets, each of height = <InlineEquation ID="IEq109">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq109.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$1$$]]></EquationSource>
+                    </InlineEquation>, is obtained for each OM extracted from <InlineEquation ID="IEq110">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq110.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                    </InlineEquation>. The CPTs are copied into each subnet from <InlineEquation ID="IEq111">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq111.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                    </InlineEquation>. FBN learning from case data takes place in each subnet, updating the structure and the parameters of the BN. The learnt subnets then update the OM and the learnt OMs are used to update the ontology. The output of the algorithm is the learnt ontology <InlineEquation ID="IEq112">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq112.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _L$$]]></EquationSource>
+                    </InlineEquation>.</Para>
+                  <Figure Category="Standard" Float="No" ID="Figa1">
+                    <MediaObject ID="MO14">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_21_Figa1_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                  <Para>The implementation of the Bayesian network learning applied here, was done with the Netica Java API (NeticaJ).<Footnote ID="Fn4">
+                      <Para>
+                        <ExternalRef>
+                          <RefSource>http://www.norsys.com/netica-j.html.</RefSource>
+                          <RefTarget Address="http://www.norsys.com/netica-j.html." TargetType="URL"/>
+                        </ExternalRef>
+                      </Para>
+                    </Footnote> Figure <InternalRef RefID="Fig8">8</InternalRef> shows the <Emphasis Type="Italic">expected</Emphasis> version of ICD ontology. The main difference with the specifications in <InlineEquation ID="IEq114">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq114.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                    </InlineEquation> are as follows:<UnorderedList Mark="Bullet">
+                      <ItemContent>
+                        <Para>
+                          <Emphasis FontCategory="NonProportional">Chawk Bhramari dance step</Emphasis> contains the <Emphasis FontCategory="NonProportional">Chawk posture</Emphasis>.</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para>
+                          <Emphasis FontCategory="NonProportional">Adi taal</Emphasis> musical beat has <Emphasis FontCategory="NonProportional">Mridangam instrument</Emphasis> as its media observable, as the latter is often used in Bharatnatyam dance performances to play the former. Some of the probabilities specified in the two ontologies are also different, but we are not looking at parametric similarity here.</Para>
+                      </ItemContent>
+                    </UnorderedList>Similar to the learning of <Emphasis FontCategory="NonProportional">BharatnatyamDance</Emphasis> subnet in Sect. <InternalRef RefID="Sec8">5.2</InternalRef>, here we show the splitting of the OM for <Emphasis FontCategory="NonProportional">OdissiDance</Emphasis>, its FBN learning and updation in Figs. <InternalRef RefID="Fig9">9</InternalRef> and <InternalRef RefID="Fig10">10</InternalRef>. Figure <InternalRef RefID="Fig11">11</InternalRef> shows the learnt ICD ontology <InlineEquation ID="IEq115">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq115.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _L$$]]></EquationSource>
+                    </InlineEquation> which is constructed after the updated OMs of concepts <Emphasis Type="Italic">Bharatnatyam</Emphasis> and <Emphasis Type="Italic">odissidance</Emphasis> have been used to update the basic ontology <InlineEquation ID="IEq116">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq116.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _{B}.$$]]></EquationSource>
+                    </InlineEquation>
+                    <Figure Category="Standard" Float="Yes" ID="Fig9">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 9</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Observation Model of concept <Emphasis FontCategory="NonProportional">OdissiDance</Emphasis> from <InlineEquation ID="IEq113">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq113.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                            </InlineEquation>, split into its subnets for FBN learning</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO15">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig9_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                    <Figure Category="Standard" Float="Yes" ID="Fig10">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 10</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Observation Model of <Emphasis FontCategory="NonProportional">OdissiDance</Emphasis>, with its FBN learning and updation</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO16">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig10_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                    <Figure Category="Standard" Float="Yes" ID="Fig11">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 11</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Learnt ontology <InlineEquation ID="IEq135">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq135.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$\Gamma _L$$]]></EquationSource>
+                            </InlineEquation> of the ICD domain with its structure and parameters changed due to FBN learning from case data</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO18">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig11_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>Applying the graph similarity performance measures, we first find the <Emphasis Type="Italic">maximum common subgraph</Emphasis>
+                    <InlineEquation ID="IEq117">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq117.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _C$$]]></EquationSource>
+                    </InlineEquation> of the two graphs <InlineEquation ID="IEq118">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq118.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _E$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq119">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq119.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _L$$]]></EquationSource>
+                    </InlineEquation>. Then <Emphasis Type="Italic">graph edit distance</Emphasis> between the two graphs is computed as follows:<Equation ID="Equ6">
+                      <EquationNumber>6</EquationNumber>
+                      <MediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_Equ6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </MediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} d(\Gamma _E, \Gamma _L) = |\Gamma _E| + |\Gamma _L| - 2|\Gamma _C| \end{aligned}$$]]></EquationSource>
+                    </Equation>where <InlineEquation ID="IEq120">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq120.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$|\Gamma _E|$$]]></EquationSource>
+                    </InlineEquation>, <InlineEquation ID="IEq121">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq121.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$|\Gamma _L|$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq122">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq122.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$|\Gamma _C|$$]]></EquationSource>
+                    </InlineEquation> denote the number of nodes of <InlineEquation ID="IEq123">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq123.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _E$$]]></EquationSource>
+                    </InlineEquation>, <InlineEquation ID="IEq124">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq124.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _L$$]]></EquationSource>
+                    </InlineEquation> and <InlineEquation ID="IEq125">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq125.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\Gamma _C$$]]></EquationSource>
+                    </InlineEquation>, respectively. As we can see here the <InlineEquation ID="IEq126">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq126.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$d(\Gamma _E, \Gamma _L) = 2$$]]></EquationSource>
+                    </InlineEquation> for the ICD example snippet ontology shown here. Out of the approximately <InlineEquation ID="IEq127">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq127.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$500$$]]></EquationSource>
+                    </InlineEquation> concepts in the ICD ontology, there are around <InlineEquation ID="IEq128">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq128.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$182$$]]></EquationSource>
+                    </InlineEquation> concepts which are at a suitably high abstract level where their observation models can be tuned with the FBN learning algorithm. We experimented with <InlineEquation ID="IEq129">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq129.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$75$$]]></EquationSource>
+                    </InlineEquation> observation models, with number of nodes in the OMs ranging from <InlineEquation ID="IEq130">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq130.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$6$$]]></EquationSource>
+                    </InlineEquation> to <InlineEquation ID="IEq131">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq131.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$10$$]]></EquationSource>
+                    </InlineEquation> and the number of edges ranging from <InlineEquation ID="IEq132">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq132.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$5$$]]></EquationSource>
+                    </InlineEquation> to <InlineEquation ID="IEq133">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq133.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$10$$]]></EquationSource>
+                    </InlineEquation>. We obtained an average performance of <Emphasis Type="Italic">graph edit distance</Emphasis> = <InlineEquation ID="IEq134">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq134.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$2.4$$]]></EquationSource>
+                    </InlineEquation> between the learnt and expected versions.</Para>
+                </Section3>
+              </Section2>
+              <Section2 ID="Sec16">
+                <Heading>Parametric learning of ICD ontology and concept-recognition</Heading>
+                <Para>FBN learning from case data leads to change in the structure and parameters of the Bayesian network representing the OM extracted from the ontology. After all the OMs have been learnt, they are used to update the structure of the ontology and also change the joint probabilities encoded in the ontology according to the new parameters learnt in the OMs. The ontology learnt in this manner is dynamic, as it can be refined and fine-tuned automatically with additions to the video database. The newly learnt ontology can then be applied afresh to recognize concepts in the video database. If the learning is good, then the concept-detection and subsequent annotation generation should show improved results with the fine-tuned ontology. We discuss a small example from the ICD domain to demonstrate how concept-detection improves with the domain ontology changed after applying FBN learning. </Para>
+                <Section3 ID="Sec17">
+                  <Heading>Concept-recognition using MOWL reasoning</Heading>
+                  <Para>Once an OM for a semantic concept is generated from a MOWL ontology, the presence of expected media patterns can be detected in a digital multimedia artefact using appropriate media detector tools. Such <Emphasis Type="Italic">observations</Emphasis> lead to instantiation of some of the media nodes in the OM, which in turn, result in belief propagation in the Bayesian network. The posterior probability of the concept node as a result of such belief propagation, represents the degree of belief in the presence of the semantic concept in the multimedia artefact.</Para>
+                  <Para>For e.g., in Fig. <InternalRef RefID="Fig12">12</InternalRef>, the BN corresponding to the OM of concept <Emphasis FontCategory="NonProportional">Mangalacharan</Emphasis> is shown after some media patterns have been detected in an Odissi dance video and corresponding media nodes have been instantiated. The links between concept nodes, between media nodes and between a concept and a media node denote causal relations as well as uncertainty specifications that have been learnt from data. Bracketed value with the name of each node denotes its posterior probability after media nodes have been instantiated and belief propagation has taken place in the BN. In this video, the media patterns detected with the help of concept-detectors are <Emphasis FontCategory="NonProportional">ChawkPosture</Emphasis> and <Emphasis FontCategory="NonProportional">PranamPosture</Emphasis>, shown as dark pink ellipses. <Figure Category="Standard" Float="Yes" ID="Fig12">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 12</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Concept-recognition in the <Emphasis Type="Italic">Mangalacharan</Emphasis> OM generated from the basic ontology <InlineEquation ID="IEq136">
+                              <InlineMediaObject>
+                                <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq136.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                              </InlineMediaObject>
+                              <EquationSource Format="TEX"><![CDATA[$$\Gamma _B$$]]></EquationSource>
+                            </InlineEquation>
+                          </SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO19">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig12_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                </Section3>
+                <Section3 ID="Sec18">
+                  <Heading>Concept-recognition after parametric learning</Heading>
+                  <Para>Figure <InternalRef RefID="Fig13">13</InternalRef> shows the OM of the ICD concept <Emphasis FontCategory="NonProportional">Mangalacharan</Emphasis> after <Emphasis Type="Bold">FBN</Emphasis> learning has been applied to it. The OM is constructed from the ICD ontology refined with FBN learning, so the probability values shown correspond to real-world data. After applying FBN learning, some new relations (shown with <Emphasis Type="Italic">green</Emphasis> links and labelled <Emphasis Type="Italic">FBN</Emphasis>) were added, based on statistical evidence in case data. <Figure Category="Standard" Float="Yes" ID="Fig13">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 13</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Bayesian network corresponding to the observation model of the concept <Emphasis Type="Italic">Mangalacharan</Emphasis> after FBN Learning has caused the structure and parameters to be updated</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO20">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig13_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>Let the media patterns detected in the test <Emphasis Type="Italic">Odissi dance</Emphasis> video be <Emphasis FontCategory="NonProportional">ChawkPosture</Emphasis> and <Emphasis FontCategory="NonProportional">PranamPosture</Emphasis>. The corresponding media nodes are instantiated in the <Emphasis FontCategory="NonProportional">Mangalacharan</Emphasis> OM generated from the FBN learnt ICD ontology. As in the earlier case, <Emphasis FontCategory="NonProportional">Chawk</Emphasis> and <Emphasis FontCategory="NonProportional">Pranam</Emphasis> are the low-level concepts which are recognized due to presence of these media patterns in data. Due to an FBN link between <Emphasis FontCategory="NonProportional">PranamPosture</Emphasis> and <Emphasis FontCategory="NonProportional">PranamDanceStep</Emphasis>, the latter node is also instantiated, thus leading to higher belief in the presence of concept <Emphasis FontCategory="NonProportional">BhumiPranam</Emphasis> in the video. Higher level concept nodes (in cyan color) are recognized to be present due to belief propagation in the BN. <Emphasis FontCategory="NonProportional">Chawk</Emphasis> pattern causes <Emphasis FontCategory="NonProportional">Odissi Dance</Emphasis> to be recognized. Presence of <Emphasis FontCategory="NonProportional">Pranam</Emphasis> and <Emphasis FontCategory="NonProportional">BhumiPranam</Emphasis> lead to recognition of <Emphasis FontCategory="NonProportional">Mangalacharan</Emphasis> concept which is further confirmed by recognition of <Emphasis FontCategory="NonProportional">Odissi Dance</Emphasis> concept in the video. This concept-recognition is confirmed by the labels that the domain experts had provided for the test <Emphasis Type="Italic">Odissi dance</Emphasis> video. Thus FBN learning has led to an improvement in concept-recognition as in the basic ontology, only one abstract concept <Emphasis Type="Italic">Odissi Dance</Emphasis> was recognized in the video.</Para>
+                </Section3>
+                <Section3 ID="Sec19">
+                  <Heading>Semantic annotation generation</Heading>
+                  <Para>An important contribution of our ontology learning is the attachment of conceptual annotation to multimedia data belonging to a domain, thus preserving its background knowledge and enhancing the usability of this data through digital access. Figure <InternalRef RefID="Fig14">14</InternalRef> shows the architecture of our Annotation Generation framework. It consists of <InlineEquation ID="IEq137">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_21_Article_IEq137.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$5$$]]></EquationSource>
+                    </InlineEquation> functional components. The basis of this whole framework is the MOWL ontology created from domain knowledge, enriched with multimedia data and then refined with learning from annotated examples of the domain. The most important component of this process is the <Emphasis Type="Italic">Concept-Recognizer</Emphasis>. The task of this module is to recognize the high-level semantic concepts in multimedia data with the help of low-level media-based features. OMs for the high-level concepts selected by the curator of the collection, are generated from the MOWL ontology by the <Emphasis Type="Italic">MOWL Parser</Emphasis> and given as input to this module. Low-level media features (SIFT features, Spatio-temporal interest points, MFCC features, etc.) are extracted from the digital artefacts which can be in different formats (image, audio, video), and provided to the <Emphasis Type="Bold">Concept Recognizer</Emphasis> by <Emphasis Type="Italic">Media Feature Extractor</Emphasis>. <Emphasis Type="Italic"> Media Pattern Classifiers</Emphasis>, trained by feature vectors extracted from the training set of multimedia data, help detect the media patterns (objects, shapes, postures, actions, music, etc.) in the digital artefacts. Some of these classifiers are detailed in our work [<CitationRef CitationID="CR13">13</CitationRef>]. In initial stages of building the ontology, data are labelled with the help of <Emphasis Type="Bold">manual annotations</Emphasis>, provided by the domain experts in XML format.
+<Figure Category="Standard" Float="Yes" ID="Fig14">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 14</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Architecture of annotation generation framework</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO21">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_21_Fig14_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>To recognize concepts in a new video of ICD, evidence is gathered at the leaf nodes, as different media features are recognized or classified in the video by the media classifiers. If evidence at a node is above a threshold, the media feature node is instantiated. These instantiations result in belief propagation in the Bayesian network, and posterior probability at the associated concept nodes is computed. After belief propagation, these nodes have high posterior probability. As they get instantiated, we find high belief for the existence of other high-level abstract nodes. Conceptual annotations are generated and attached to the video through Semantic annotation generation. Results for some of the conceptual annotations generated for the ICD domain using the basic ontology and then the FBN learnt ontology are shown in Table <InternalRef RefID="Tab1">1</InternalRef>. On an average, we see an improvement in <Emphasis Type="Italic">Precision</Emphasis> and <Emphasis Type="Italic">Recall</Emphasis> from the FBN learnt ontology over the results from the basic ontology.
+<Table Float="Yes" ID="Tab1">
+                      <Caption Language="En">
+                        <CaptionNumber>Table 1</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>Table to show high-level annotation results using basic and FBN learnt ontology</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <tgroup cols="11">
+                        <colspec align="left" colname="c1" colnum="1"/>
+                        <colspec align="left" colname="c2" colnum="2"/>
+                        <colspec align="left" colname="c3" colnum="3"/>
+                        <colspec align="left" colname="c4" colnum="4"/>
+                        <colspec align="left" colname="c5" colnum="5"/>
+                        <colspec align="left" colname="c6" colnum="6"/>
+                        <colspec align="left" colname="c7" colnum="7"/>
+                        <colspec align="left" colname="c8" colnum="8"/>
+                        <colspec align="left" colname="c9" colnum="9"/>
+                        <colspec align="left" colname="c10" colnum="10"/>
+                        <colspec align="left" colname="c11" colnum="11"/>
+                        <thead>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Concept</SimplePara>
+                            </entry>
+                            <entry align="left" nameend="c6" namest="c2">
+                              <SimplePara>Basic</SimplePara>
+                            </entry>
+                            <entry align="left" nameend="c11" namest="c7">
+                              <SimplePara>FBN</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1"/>
+                            <entry align="left" colname="c2">
+                              <SimplePara>Correct</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c3">
+                              <SimplePara>Miss</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c4">
+                              <SimplePara>False</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>Precision</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>Recall</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c7">
+                              <SimplePara>Correct</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c8">
+                              <SimplePara>Miss</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c9">
+                              <SimplePara>False</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>Precision</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>Recall</SimplePara>
+                            </entry>
+                          </row>
+                        </thead>
+                        <tbody>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Pranam</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>43</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>10</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>23</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.65</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.81</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>55</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>8</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>13</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.80</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.87</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Krishna Role</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>53</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>35</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>10</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.84</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.60</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>73</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>10</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>15</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.83</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.88</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Mangalacharan Dance</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>23</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>36</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>13</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.64</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.39</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>53</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>14</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>5</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.91</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.79</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Yashoda Role</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>7</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>2</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>1</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.87</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.77</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>5</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>2</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.71</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.63</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Carnatic Music</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>92</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>10</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.97</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.90</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>97</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>5</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.97</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.95</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Battu Dance</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>15</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>12</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.55</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.83</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>22</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>4</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>4</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.85</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.85</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Adi Taal</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>52</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>12</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>20</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.72</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.81</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>54</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>18</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>12</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.82</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.75</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Vanshika Chawla</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>22</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>5</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.88</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.81</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>27</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>2</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>1</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.96</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.93</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Madhumita Raut</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>11</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>10</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>12</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.48</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.52</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>22</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>2</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>9</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.71</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.92</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Naughty Krishna</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>6</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>5</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.54</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.67</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>5</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>4</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>5</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.50</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.55</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Group Dance</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>12</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>13</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>9</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.57</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.48</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>27</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>4</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.87</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.90</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Solo Dance</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>26</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>13</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>18</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.59</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.66</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>41</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>8</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>8</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.84</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.84</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Krishna Sakhi Theme</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>1</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>2</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.25</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.33</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>2</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>1</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.40</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.67</SimplePara>
+                            </entry>
+                          </row>
+                          <row>
+                            <entry align="left" colname="c1">
+                              <SimplePara>Mahabharat Theme</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c2">
+                              <SimplePara>7</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c3">
+                              <SimplePara>15</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c4">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c5">
+                              <SimplePara>0.70</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c6">
+                              <SimplePara>0.32</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c7">
+                              <SimplePara>15</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c8">
+                              <SimplePara>3</SimplePara>
+                            </entry>
+                            <entry align="center" colname="c9">
+                              <SimplePara>7</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c10">
+                              <SimplePara>0.68</SimplePara>
+                            </entry>
+                            <entry align="left" colname="c11">
+                              <SimplePara>0.83</SimplePara>
+                            </entry>
+                          </row>
+                        </tbody>
+                      </tgroup>
+                    </Table>
+                  </Para>
+                </Section3>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec20">
+              <Heading>Concluding remarks</Heading>
+              <Para>In this paper, we have presented a technique by which the knowledge obtained to construct an ontology from a domain expert can be fine-tuned by applying learning from real-world examples belonging to the domain. An ontology refined in this manner is a better structured, more realistic model of the domain that it represents. In this paper, we have introduced a novel technique to populate an intangible heritage collection of videos in a scholarly domain like Indian classical dance, in order to provide a flexible, ontology-driven access to the users of the domain. The ontology learnt from video examples represents a domain more attuned to the real-world data. The Bayesian network learning technique that we have used allows us to learn new structure as well as the parameters of the Bayesian network. The ontology learnt in this manner not only has a more refined <Emphasis Type="Italic">structure</Emphasis> as is proved in experiments done in this paper, but also has more accurate conditional <Emphasis Type="Italic">probabilities</Emphasis> encoded in the CPTs attached to its concepts and media-based nodes.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_Article_21.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_21_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>Akoush S, Sameh A (2007) Mobile user movement prediction using bayesian learning for neural networks. In: Proceedings of the 2007 international conference on wireless communications and mobile computing (IWCMC ’07), pp 191–196. doi:<ExternalRef><RefSource>10.1145/1280940.1280982</RefSource><RefTarget Address="10.1145/1280940.1280982" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>Binder J, Koller D, Russell SJ, Kanazawa K (1997) Adaptive probabilistic networks with hidden variables. Mach Learn 29(2–3): 213–244</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>Horst Bunke (2000) Graph matching: theoretical foundations, algorithms, and applications. Vision Interface (VI2000), pp 082–088. <ExternalRef>
+                    <RefSource>http://www.cipprs.org/papers/VI/VI2000/vi2000.html</RefSource>
+                    <RefTarget Address="http://www.cipprs.org/papers/VI/VI2000/vi2000.html" TargetType="URL"/>
+                  </ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>Buntine W (1996) A guide to the literature on learning probabilistic networks from data. IEEE Trans Knowl Data Eng 8(2):195–210. doi:<ExternalRef><RefSource>10.1109/69.494161</RefSource><RefTarget Address="10.1109/69.494161" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Ding Z, Peng Y (2004) A probabilistic extension to ontology language owl. In: Proceedings of the 37th annual Hawaii international conference on system sciences (HICSS’04), Track 4 </BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Friedman N, Goldszmidt M (1996) Learning bayesian networks with local structure. In: Proceedings of the twelth conference on uncertainty in artificial intelligence, pp 252–262</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Friedman N, Yakhin (1996) On the sample complexity of learning bayesian networks. In: Proceedings of the twelth conference on uncertainty in artificial intelligence, pp 274–282</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Ghosh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Chaudhury</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Kashyap</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Maiti</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <BookTitle>Ontology specification and integration for multimedia applications</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Berlin</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Ghosh H, Chaudhury S, Kashyap K, Maiti B (2007) Ontology specification and integration for multimedia applications. Springer, Berlin</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Heckerman D (1999) A tutorial on learning with bayesian networks. Learn Graph Models, pp 301–354</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>Hunter J, Drennan J, Little S (2004) Realizing the hydrogen economy through semantic web technologies. In: IEEE Intell Syst. doi:<ExternalRef><RefSource>10.1109/MIS.2004.1265884</RefSource><RefTarget Address="10.1109/MIS.2004.1265884" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Kojima</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Tamura</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Fukunaga</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Natural language description of human activities from video images based on concept hierarchy of actions</ArticleTitle>
+                  <JournalTitle>Int J Comput Vis</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>171</FirstPage>
+                  <LastPage>184</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1012.68781</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1020346032608</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kojima A, Tamura T, Fukunaga K (2002) Natural language description of human activities from video images based on concept hierarchy of actions. Int J Comput Vis 50(2):171–184</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>MadhumitaRaut (2012) Madhumita raut of jayantika–the mayadhar school of odissi dance</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Mallik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Chaudhury</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Ghosh</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Nrityakosha: preserving the intangible heritage of indian classical dance</ArticleTitle>
+                  <JournalTitle>JOCCH</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>11</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/2069276.2069280</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mallik A, Chaudhury S, Ghosh H (2011) Nrityakosha: preserving the intangible heritage of indian classical dance. JOCCH 4(3):11</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Mezaris V, Kompatsiaris I, Boulgouris NV, Strintzis MG (2004) Real-time compressed-domain spatiotemporal segmentation and ontologies fro video indexing and retrieval. IEEE Trans Circ Syst Video Technol 14(5):606–620</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>Naphade M, Smith JR, Tesic J, Chang SF, Hsu W, Kennedy L, Hauptmann A, Curtis J (2006) Large-scale concept ontology for multimedia. IEEE Multimedia 13:86–91. doi:<ExternalRef>
+                    <RefSource>10.1109/MMUL.2006.63</RefSource>
+                    <RefTarget Address="10.1109/MMUL.2006.63" TargetType="DOI"/>
+                  </ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Navigli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Velardi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gangemi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Ontology learning and its application to automated terminology translation</ArticleTitle>
+                  <JournalTitle>IEEE Intell Syst</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>22</FirstPage>
+                  <LastPage>31</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/MIS.2003.1179190</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Navigli R, Velardi P, Gangemi A (2003) Ontology learning and its application to automated terminology translation. IEEE Intell Syst 18(1):22–31</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>Neuman L, Kozlowski J, Zgrzywa A (2004) Information retrieval using bayesian networks. Comput Sci ICCS 2004:521–528</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Niculescu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Mitchell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Bayesian network learning with parameter constraints</ArticleTitle>
+                  <JournalTitle>J Mach Learn Res</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <FirstPage>1357</FirstPage>
+                  <LastPage>1383</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2274409</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1222.68275</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Niculescu S, Mitchell T, Rao R (2006) Bayesian network learning with parameter constraints. J Mach Learn Res 7:1357–1383</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibUnstructured>Ramachandran S, Mooney RJ (1996) Revising bayesian network parameters using backpropagation. In: Proceedings of the IEEE international conference on neural networks, pp 82–87</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibUnstructured>Su J, Zhang H (2006) Full bayesian network classifiers. In: Proceedings of the 23rd international conference on machine learning, pp 897–904. doi:<ExternalRef><RefSource>10.1145/1143844.1143957</RefSource><RefTarget Address="10.1145/1143844.1143957" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibUnstructured>Town C (2004) Ontology-driven bayesian networks for dynamic scene understanding. In: Proceedings of the 2004 conference on computer vision and pattern recognition workshop (CVPRW’04), vol 7</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Wattamwar SS, Ghosh H (2008) Spatio-temporal query for multimedia databases. In: Proceeding of the 2nd ACM workshop on multimedia semantics (MS ’08). ACM, New York, pp 48–55. doi:<ExternalRef>
+                    <RefSource>10.1145/1460676.1460686</RefSource>
+                    <RefTarget Address="10.1145/1460676.1460686" TargetType="DOI"/>
+                  </ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Zheng</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Lazy learning of bayesian rules</ArticleTitle>
+                  <JournalTitle>Mach Learn</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>53</FirstPage>
+                  <LastPage>84</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1007613203719</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zheng Z (2000) Lazy learning of bayesian rules. Mach Learn 41(1):53–84</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Zhou</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Ontology learning: state of the art and open issues</ArticleTitle>
+                  <JournalTitle>Inf Technol Manage</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>241</FirstPage>
+                  <LastPage>252</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10799-007-0019-5</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zhou L (2007) Ontology learning: state of the art and open issues. Inf Technol Manage 8(3):241–252</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibUnstructured>Zhou L, Booker Q, Zhang D (2002) Toward rapid ontology development for underdeveloped domains. In: Proceedings of the 35th annual Hawaii international conference on system sciences (HICSS ’02), vol 4, p 106</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

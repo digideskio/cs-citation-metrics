@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>6</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art5">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>72288</ArticleID>
+            <ArticleDOI>10.1208/aapsj070230</ArticleDOI>
+            <ArticleSequenceNumber>5</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Fish drug analysis—Phish-pharm: A searchable database of pharmacokinetics data in fish</ArticleTitle>
+            <ArticleFirstPage>E288</ArticleFirstPage>
+            <ArticleLastPage>E327</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+              </Received>
+              <Accepted>
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>2</IssueIDStart>
+              <IssueIDEnd>2</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Renate</GivenName>
+                  <FamilyName>Reimschuessel</FamilyName>
+                </AuthorName>
+                <Role>Office of Research</Role>
+                <Contact>
+                  <Phone>(301) 827-8025</Phone>
+                  <Fax>(301) 827-8025</Fax>
+                  <Email>renate.reimschuessel@fda.hhs.gov</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Leslie</GivenName>
+                  <FamilyName>Stewart</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Elizabeth</GivenName>
+                  <FamilyName>Squibb</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff4">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Keiko</GivenName>
+                  <FamilyName>Hirokawa</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Tiffany</GivenName>
+                  <FamilyName>Brady</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff5">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Deborah</GivenName>
+                  <FamilyName>Brooks</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Badar</GivenName>
+                  <FamilyName>Shaikh</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff6">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Clifford</GivenName>
+                  <FamilyName>Hodsdon</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Center for Veterinary Medicine</OrgDivision>
+                <OrgName>US Food and Drug Administration</OrgName>
+                <OrgAddress>
+                  <Street>8401 Muirkirk Road</Street>
+                  <Postcode>20708</Postcode>
+                  <City>Laurel</City>
+                  <State>MD</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName>Northwestern University</OrgName>
+                <OrgAddress>
+                  <Postcode>60201</Postcode>
+                  <City>Evanston</City>
+                  <State>IL</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgName>University of Maryland</OrgName>
+                <OrgAddress>
+                  <Postcode>20770</Postcode>
+                  <City>College Park</City>
+                  <State>MD</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff4">
+                <OrgName>St George's University</OrgName>
+                <OrgAddress>
+                  <Postbox>PO Box 7</Postbox>
+                  <City>Grenada</City>
+                  <State>West Indies</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff5">
+                <OrgDivision>Center for Veterinary Medicine</OrgDivision>
+                <OrgName>US Food and Drug Administration</OrgName>
+                <OrgAddress>
+                  <Postcode>20855</Postcode>
+                  <City>Rockville</City>
+                  <State>MD</State>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff6">
+                <OrgName>Independent Computing</OrgName>
+                <OrgAddress>
+                  <Street>1520 Slatehill Rd</Street>
+                  <Postcode>17518</Postcode>
+                  <City>Drumore</City>
+                  <State>PA</State>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Information about drug residues and pharmacokinetic parameters in aquatic species is relatively sparse. In addition, it is difficult to rapidly compare data between studies due to differences in experimental conditions, such as water temperatures and salinity. To facilitate the study of aquatic species drug metabolism, we constructed a Fish Drug/Chemical Analysis Phish-Pharm (FDA-PP) database. This database consists of more than 400 articles that include data from 90 species (64 genera) of fish. Data fields include genus, species, water temperatures, the average animal weight, sample types analyzed, drug (or chemical) name, dosage, route of administration, metabolites identified, method of analysis, protein binding, clearance, volume of distribution in a central compartment (Vc) or volume of distribution at steady-state (Vd), and drug half-lives (t<Subscript>1/2</Subscript>). Additional fields list the citation, authors, title, and Internet links. The document will be periodically updated, and users are invited to submit additional data. Updates will be announced in future issues of<Emphasis Type="Italic">The AAPS Journal</Emphasis>. This database will be a valuable resource to investigators of drug metabolism in aquatic species as well as government and private organizations involved in the drug approval process for aquatic species.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>aquatic</Keyword>
+              <Keyword>fish</Keyword>
+              <Keyword>drug</Keyword>
+              <Keyword>pharmacokinetics</Keyword>
+              <Keyword>residues</Keyword>
+              <Keyword>database</Keyword>
+              <Keyword>Web</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: September 22, 2005.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_72288.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RA</Initials>
+                    <FamilyName>Schnick</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WH</Initials>
+                    <FamilyName>Gingerich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BR</Initials>
+                    <FamilyName>Griffin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Erdahl</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Progress of the Federal-State Aquaculture Drug Approval Partnership Project</ArticleTitle>
+                  <JournalTitle>American Fisheries Society Fish Health Newsletter</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>6</FirstPage>
+                  <LastPage>7</LastPage>
+                </BibArticle>
+                <BibUnstructured>Schnick RA, Gingerich WH, Griffin BR, Erdahl D. Progress of the Federal-State Aquaculture Drug Approval Partnership Project.<Emphasis Type="Italic">American Fisheries Society Fish Health Newsletter</Emphasis>. 2001;29:6–7, 9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SR</Initials>
+                    <FamilyName>Haskell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Payne</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AI</Initials>
+                    <FamilyName>Webb</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JE</Initials>
+                    <FamilyName>Riviere</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Craigmill</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Current approved drugs for aquatic species</ArticleTitle>
+                  <JournalTitle>J Am Vet Med Assoc</JournalTitle>
+                  <VolumeID>224</VolumeID>
+                  <FirstPage>50</FirstPage>
+                  <LastPage>51</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14710875</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2460/javma.2004.224.50</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Haskell SR, Payne MA, Webb AI, Riviere JE, Craigmill AL. Current approved drugs for aquatic species.<Emphasis Type="Italic">J Am Vet Med Assoc</Emphasis>. 2004;224:50–51.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>National Aquaculture Association. National Aquaculture Association Web site. Available at: http://www.nationalaquaculture.org. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>FDA/CVM.CVM and aquaculture. Food and Drug Administration Web site. Available at: http://www.fda.gov/cvm/aqualibtoc.htm. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LG</Initials>
+                    <FamilyName>Friedlander</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SD</Initials>
+                    <FamilyName>Brynes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AH</Initials>
+                    <FamilyName>Fernandez</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">The human food safety evaluation of new animal drugs</ArticleTitle>
+                  <JournalTitle>Vet Clin North Am Food Anim Pract</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>11</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10088208</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1M7ovVajsg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Friedlander LG, Brynes SD, Fernandez AH. The human food safety evaluation of new animal drugs.<Emphasis Type="Italic">Vet Clin North Am Food Anim Pract</Emphasis>. 1999;15:1–11, vii.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>The National Research Support Project No. 7. NRSP-7 minor use animal drug program. United States Dept of Agriculture, Cooperative State Research, Education and Extension Service. Available at: http://www. nrsp-7.org/. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Schnick RA. Use of chemicals in fish management and fish culture: past and future. In: Smith DJ, Gingerich WH, Beconi-Barker MG, eds.<Emphasis Type="Italic">Xenobiotics in Fish</Emphasis>. New York, NY: Kluwer Academic/Plenum Publishers; 1999:1–14.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>Schnick RA. Aquaculture chemicals. In: Kirk-Othmer Encyclopedia of Chemical Technology-4th edition, Volume 3. New York, NY: John Wiley and Sons, Inc. 1992:608–623.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>American Veterinary Medical Association. Minor Use for Minor Species Animal Health Act. Available at: http://www.avma.org/scienact/mums/default.asp. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>FDA/CVM. Guidance 61-FDA Approval of New Animal Drugs for Minor Uses and for Minor Species. Food and Drug Administration Web site. Available at: http://www.fda.gov/cvm/guidance/minorgde.pdf. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>WH</Initials>
+                    <FamilyName>Gingerich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GR</Initials>
+                    <FamilyName>Stehly</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KJ</Initials>
+                    <FamilyName>Clark</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WL</Initials>
+                    <FamilyName>Hayton</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Crop grouping: a proposal for public aquaculture</ArticleTitle>
+                  <JournalTitle>Vet Human Toxicol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <IssueID>suppl 2</IssueID>
+                  <FirstPage>24</FirstPage>
+                  <LastPage>31</LastPage>
+                </BibArticle>
+                <BibUnstructured>Gingerich WH, Stehly GR, Clark KJ, Hayton WL. Crop grouping: a proposal for public aquaculture.<Emphasis Type="Italic">Vet Human Toxicol</Emphasis>. 1998;40(suppl 2): 24–31.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>MacMillan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Drug development for use by the aquaculture industry: the producers' perspective</ArticleTitle>
+                  <JournalTitle>Vet Hum Toxicol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <IssueID>suppl 2</IssueID>
+                  <FirstPage>7</FirstPage>
+                  <LastPage>9</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9823575</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>MacMillan JR. Drug development for use by the aquaculture industry: the producers' perspective.<Emphasis Type="Italic">Vet Hum Toxicol</Emphasis>. 1998;40(suppl 2):7–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SF</Initials>
+                    <FamilyName>Sundlof</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Drug development for the aquaculture industry: a perspective from the Center for Veterinary Medicine</ArticleTitle>
+                  <JournalTitle>Vet Hum Toxicol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <IssueID>suppl 2</IssueID>
+                  <FirstPage>5</FirstPage>
+                  <LastPage>7</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9823574</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sundlof SF. Drug development for the aquaculture industry: a perspective from the Center for Veterinary Medicine.<Emphasis Type="Italic">Vet Hum Toxicol</Emphasis>. 1998;40 (suppl 2):5–7.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Craigmill</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KA</Initials>
+                    <FamilyName>Cortright</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Interspecies considerations in the evaluation of human food safety for veterinary drugs</ArticleTitle>
+                  <JournalTitle>AAPS Pharm Sci</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>E34</FirstPage>
+                  <LastPage>E34</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1208/ps040434</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Craigmill AL, Cortright KA. Interspecies considerations in the evaluation of human food safety for veterinary drugs.<Emphasis Type="Italic">AAPS Pharm Sci</Emphasis>. 2002;4(4):E34.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>JSA. United States Joint Subcommittee on Aquaculture Web site. Available at: http://ag.ansc.purdue.edu/aquanic/jsa/ Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>Schnick R. National Coordinator for Aquaculture New Animal Drug Applications Web site. Available at: http://ag.ansc.purdue.edu/aquanic/jsa/aquadrugs/. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Jones</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kinnel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Christenson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Reimschuessel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Gentamicin concentrations in toadfish and goldfish Serum</ArticleTitle>
+                  <JournalTitle>J Aquat Anim Health</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>211</FirstPage>
+                  <LastPage>215</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1577/1548-8667(1997)009&lt;0211:CGCITA&gt;2.3.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jones J, Kinnel M, Christenson R, Reimschuessel R. Gentamicin concentrations in toadfish and goldfish Serum.<Emphasis Type="Italic">J Aquat Anim Health</Emphasis>. 1997;9:211–215.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Sohlberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Ingebrigtsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MK</Initials>
+                    <FamilyName>Hansen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WL</Initials>
+                    <FamilyName>Hayton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TE</Initials>
+                    <FamilyName>Horsberg</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Flumequine in Atlantic salmon<Emphasis Type="Italic">Salmo salar</Emphasis>: disposition in fish held in sea water versus fresh water</ArticleTitle>
+                  <JournalTitle>Dis Aquat Organ</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <FirstPage>39</FirstPage>
+                  <LastPage>44</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3354/dao049039</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38Xlt1Kit7k%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sohlberg S, Ingebrigtsen K, Hansen MK, Hayton WL, Horsberg TE. Flumequine in Atlantic salmon<Emphasis Type="Italic">Salmo salar</Emphasis>: disposition in fish held in sea water versus fresh water.<Emphasis Type="Italic">Dis Aquat Organ</Emphasis>. 2002;49:39–44.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MG</Initials>
+                    <FamilyName>Barron</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BD</Initials>
+                    <FamilyName>Tarr</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WL</Initials>
+                    <FamilyName>Hayton</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <ArticleTitle Language="En">Temperature dependence of Di-2-ethylhexyl phthalate (DEHP) pharmacokinetics in rainbow trout</ArticleTitle>
+                  <JournalTitle>Toxicol Appl Pharmacol</JournalTitle>
+                  <VolumeID>88</VolumeID>
+                  <FirstPage>305</FirstPage>
+                  <LastPage>312</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3576619</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0041-008X(87)90205-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL2sXkslahsb0%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Barron MG, Tarr BD, Hayton WL. Temperature dependence of Di-2-ethylhexyl phthalate (DEHP) pharmacokinetics in rainbow trout.<Emphasis Type="Italic">Toxicol Appl Pharmacol</Emphasis>. 1987;88:305–312.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Bjorklund</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Bylund</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Temperature-related absorption and excretion of oxytetracycline in rainbow trout (<Emphasis Type="Italic">Salmo gairdneri</Emphasis> R.)</ArticleTitle>
+                  <JournalTitle>Aquaculture</JournalTitle>
+                  <VolumeID>84</VolumeID>
+                  <FirstPage>363</FirstPage>
+                  <LastPage>361</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0044-8486(90)90101-R</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bjorklund H, Bylund G. Temperature-related absorption and excretion of oxytetracycline in rainbow trout (<Emphasis Type="Italic">Salmo gairdneri</Emphasis> R.).<Emphasis Type="Italic">Aquaculture</Emphasis>. 1990;84:363–361.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>VJTh</Initials>
+                    <FamilyName>Ginneken</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JFM</Initials>
+                    <FamilyName>Nouws</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Grondel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Driessens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Degen</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Pharmacokinetics of sulphadimidine in carp (<Emphasis Type="Italic">Cyprinus carpio</Emphasis> L.) and rainbow trout (<Emphasis Type="Italic">Salmo gairdneri</Emphasis> Richardson) acclimated at two different temperature levels</ArticleTitle>
+                  <JournalTitle>Vet Q</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>88</FirstPage>
+                  <LastPage>96</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1882494</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>van Ginneken VJTh, Nouws JFM, Grondel JL, Driessens F, Degen M. Pharmacokinetics of sulphadimidine in carp (<Emphasis Type="Italic">Cyprinus carpio</Emphasis> L.) and rainbow trout (<Emphasis Type="Italic">Salmo gairdneri</Emphasis> Richardson) acclimated at two different temperature levels.<Emphasis Type="Italic">Vet Q</Emphasis>. 1991;13(2):88–96.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GR</Initials>
+                    <FamilyName>Stehly</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Meinertz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WH</Initials>
+                    <FamilyName>Gingerich</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Effects of temperature on the elimination of benzocaine and acetylated benzocaine residues from the edible fillet of rainbow trout (<Emphasis Type="Italic">Oncorhynchus mykiss</Emphasis>)</ArticleTitle>
+                  <JournalTitle>Food Addit Contam</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>387</FirstPage>
+                  <LastPage>392</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10945105</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/026520300404798</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXks1yks7Y%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stehly GR, Meinertz JR, Gingerich WH. Effects of temperature on the elimination of benzocaine and acetylated benzocaine residues from the edible fillet of rainbow trout (<Emphasis Type="Italic">Oncorhynchus mykiss</Emphasis>).<Emphasis Type="Italic">Food Addit Contam</Emphasis>. 2000;17:387–392.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibUnstructured>Draft Guidance CDER. Estimating a safe starting dose in clinical trials for therapeutics in human volunteers. Food and Drug Administration Web site. Available at: http://www.fda.gov/cber/gdlns/dose.pdf. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Mahmood</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Interspecies scaling: is a priori knowledge of cytochrome p450 isoenzymes involved in drug metabolism helpful in prediction of clearance in humans from animal data?</ArticleTitle>
+                  <JournalTitle>Drug Metabol Drug Interact</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>135</FirstPage>
+                  <LastPage>147</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11460876</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXlt1Ois74%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mahmood I. Interspecies scaling: is a priori knowledge of cytochrome p450 isoenzymes involved in drug metabolism helpful in prediction of clearance in humans from animal data?<Emphasis Type="Italic">Drug Metabol Drug Interact</Emphasis>. 2001;18:135–147.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Mahmood</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Interspecies scaling of protein drugs: prediction of clearance from animals to humans</ArticleTitle>
+                  <JournalTitle>J Pharm Sci</JournalTitle>
+                  <VolumeID>93</VolumeID>
+                  <FirstPage>177</FirstPage>
+                  <LastPage>185</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14648647</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/jps.10531</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXjvFWntw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mahmood I. Interspecies scaling of protein drugs: prediction of clearance from animals to humans.<Emphasis Type="Italic">J Pharm Sci</Emphasis>. 2004;93:177–185.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibUnstructured>ASTDR. Agency for Toxic Substances and Disease Registry Web site. Available at: http://www.atsdr.cde.gov/.Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibUnstructured>EPA—U.S. Environmental Protection Agency. Guidelines for Ecological Risk Assessment. Risk Assessment Forum, EPA/630/R095/002F, 1998. Available at: http://cfpub.epa.gov/ncea/cfm/recordisplay. cfm?deid-12460. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibUnstructured>Human Interindividual Variability in Parameters Related to Susceptibility for Toxic Effects [database online]. Clark University Database Web site. Available at: http://www.clarku.edu/faculty/dhattis/. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PW</Initials>
+                    <FamilyName>Erhardt</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A human drug metabolism database: potential roles in the quantitative predictions of drug metabolism and metabolism-related drug-drug interactions</ArticleTitle>
+                  <JournalTitle>Curr Drug Metab</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>411</FirstPage>
+                  <LastPage>422</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14529373</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2174/1389200033489299</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXotlGrtLY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Erhardt PW. A human drug metabolism database: potential roles in the quantitative predictions of drug metabolism and metabolism-related drug-drug interactions.<Emphasis Type="Italic">Curr Drug Metab</Emphasis>. 2003;4:411–422.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibUnstructured>FARAD. Food Animal Residue Avoidance Databank Homepage. Available at: http://www.farad.org/. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Keller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Frankewitsch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Zellner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Simon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Czock</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Giehl</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Standardized structure and modular design of a pharmacokinetic data-base</ArticleTitle>
+                  <JournalTitle>Comput Methods Programs Biomed</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>107</FirstPage>
+                  <LastPage>115</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9568383</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0169-2607(97)00061-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c3ivFyjtw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Keller F, Frankewitsch T, Zellner D, Simon S, Czock D, Giehl M. Standardized structure and modular design of a pharmacokinetic data-base.<Emphasis Type="Italic">Comput Methods Programs Biomed</Emphasis> 1998;55:107–115.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Q</Initials>
+                    <FamilyName>Yan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Sadee</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Human membrane transporter database: a Webaccessible relational database for drug transport studies and pharmacogenomics</ArticleTitle>
+                  <JournalTitle>AAPS Pharm Sci</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>E20</FirstPage>
+                  <LastPage>E20</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1208/ps020320</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3MjgtVOjtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yan Q, Sadee W. Human membrane transporter database: a Webaccessible relational database for drug transport studies and pharmacogenomics.<Emphasis Type="Italic">AAPS Pharm Sci</Emphasis>. 2000;2(3):E20.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NJ</Initials>
+                    <FamilyName>Eeckhout</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CH</Initials>
+                    <FamilyName>Peteghem</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>VC</Initials>
+                    <FamilyName>Helbo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GC</Initials>
+                    <FamilyName>Maghuin-Rogister</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MR</Initials>
+                    <FamilyName>Cornelis</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">New database on hormone and veterinary drug residue determination in animal products</ArticleTitle>
+                  <JournalTitle>Analyst</JournalTitle>
+                  <VolumeID>123</VolumeID>
+                  <FirstPage>2423</FirstPage>
+                  <LastPage>2427</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10435272</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1039/a804941f</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Van Eeckhout NJ, Van Peteghem CH, Helbo VC, Maghuin-Rogister GC, Cornelis MR. New database on hormone and veterinary drug residue determination in animal products.<Emphasis Type="Italic">Analyst</Emphasis>. 1998;123:2423–2427.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JE</Initials>
+                    <FamilyName>Riviere</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Martin-Jimenez</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SF</Initials>
+                    <FamilyName>Sundlof</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Craigmill</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Interspecies allometric analysis of the comparative pharmacokinetics of 44 drugs across veterinary and laboratory animal species</ArticleTitle>
+                  <JournalTitle>J Vet Pharmacol Ther</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>453</FirstPage>
+                  <LastPage>463</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9430769</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1365-2885.1997.00095.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXitVeqtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Riviere JE, Martin-Jimenez T, Sundlof SF, Craigmill AL. Interspecies allometric analysis of the comparative pharmacokinetics of 44 drugs across veterinary and laboratory animal species.<Emphasis Type="Italic">J Vet Pharmacol Ther</Emphasis>. 1997;20:453–463.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SR</Initials>
+                    <FamilyName>Haskell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Gehring</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Payne</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Update on FARAD food animal drug withholding recommendations</ArticleTitle>
+                  <JournalTitle>J Am Vet Med Assoc</JournalTitle>
+                  <VolumeID>223</VolumeID>
+                  <FirstPage>1277</FirstPage>
+                  <LastPage>1278</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14621214</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2460/javma.2003.223.1277</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Haskell SR, Gehring R, Payne MA, et al. Update on FARAD food animal drug withholding recommendations.<Emphasis Type="Italic">J Am Vet Med Assoc</Emphasis>. 2003;223:1277–1278.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibUnstructured>FDA/CVM. CVM Guidance For Industry. Guidance No. 3, General Principles for Evaluating the Safety of Compounds Used in Food-Producing Animals. Revised July 1994. Available at: http://www.fda.gov/cvm/guidance/guideline3toc.html. Accessed September 21, 2005.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Setzer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Pharmacokinetics of gentamicin in channel catfish (<Emphasis Type="Italic">Ictalurus punctatus</Emphasis>)</ArticleTitle>
+                  <JournalTitle>Am J Vet Res</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <FirstPage>2558</FirstPage>
+                  <LastPage>2561</LastPage>
+                </BibArticle>
+                <BibUnstructured>Setzer MD. Pharmacokinetics of gentamicin in channel catfish (<Emphasis Type="Italic">Ictalurus punctatus</Emphasis>).<Emphasis Type="Italic">Am J Vet Res</Emphasis>. 1985;46:2558–2561.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MK</Initials>
+                    <FamilyName>Stoskopf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Kennedy-Stoskopf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Arnold</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Andrews</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MT</Initials>
+                    <FamilyName>Perlstein</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <ArticleTitle Language="En">Therapeutic aminoglycoside antibiotic levels in brown shark,<Emphasis Type="Italic">Carcharhinus plumbeus</Emphasis> (Nardo)</ArticleTitle>
+                  <JournalTitle>J Fish Dis</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>303</FirstPage>
+                  <LastPage>311</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1365-2761.1986.tb01019.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL28Xls1Cntro%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stoskopf MK, Kennedy-Stoskopf S, Arnold J, Andrews J, Perlstein MT. Therapeutic aminoglycoside antibiotic levels in brown shark,<Emphasis Type="Italic">Carcharhinus plumbeus</Emphasis> (Nardo).<Emphasis Type="Italic">J Fish Dis</Emphasis>. 1986;9:303–311.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

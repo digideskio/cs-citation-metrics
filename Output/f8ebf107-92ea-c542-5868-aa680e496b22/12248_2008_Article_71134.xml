@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>12248</JournalID>
+      <JournalElectronicISSN>1550-7416</JournalElectronicISSN>
+      <JournalTitle>The AAPS Journal</JournalTitle>
+      <JournalAbbreviatedTitle>AAPS J</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="F" Type="Primary">Pharmacy</JournalSubject>
+        <JournalSubject Code="F00008" Priority="1" Type="Secondary">Pharmacy</JournalSubject>
+        <JournalSubject Code="B21007" Priority="2" Type="Secondary">Pharmacology/Toxicology</JournalSubject>
+        <JournalSubject Code="C12002" Priority="3" Type="Secondary">Biotechnology</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>7</VolumeIDStart>
+        <VolumeIDEnd>7</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>25</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2005</Year>
+              <Month>3</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+            <CopyrightYear>2005</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art13">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>71134</ArticleID>
+            <ArticleDOI>10.1208/aapsj070113</ArticleDOI>
+            <ArticleSequenceNumber>13</ArticleSequenceNumber>
+            <ArticleTitle Language="En">A stochastic version of corticosteriod pharmacogenomic model</ArticleTitle>
+            <ArticleFirstPage>E134</ArticleFirstPage>
+            <ArticleLastPage>E140</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+              </Received>
+              <Accepted>
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+              </Accepted>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>American Association of Pharmaceutical Scientists</CopyrightHolderName>
+              <CopyrightYear>2005</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>12248</JournalID>
+              <VolumeIDStart>7</VolumeIDStart>
+              <VolumeIDEnd>7</VolumeIDEnd>
+              <IssueIDStart>1</IssueIDStart>
+              <IssueIDEnd>1</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Xiaohong</GivenName>
+                  <FamilyName>Qi</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>(954) 358-6160</Phone>
+                  <Fax>(954) 358-6352</Fax>
+                  <Email>xiaohong.qi@andrx.com</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgName>National Pharmaceutical Engineering Research Center (NPERC)</OrgName>
+                <OrgAddress>
+                  <Street>No. 1111 Zhongshanbeiyi Road</Street>
+                  <Postcode>200437</Postcode>
+                  <City>Shanghai</City>
+                  <Country>China</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName>Andrx Pharmceuticals, Inc</OrgName>
+                <OrgAddress>
+                  <Street>2945 Weston Road</Street>
+                  <Postcode>33331</Postcode>
+                  <City>Weston</City>
+                  <State>FL</State>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>The purpose of this study was to develop a stochastic version of corticosteriod fifth generation pharmacogenomic model. The Gillespie algorithm was used to generate the independent time courses of the receptor messenger RNA (mRNA). Initial parameters for the stochastic simulation were adapted from the study by Jin et al. The result obtained from the proposed stochastic model showed an overall agreement with the deterministic fifth generation model. This study suggested that because the stochastic model takes into account the “noise” nature of gene regulation, it would have potential application in pharmacogenomic modeling.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>pharmacogenomic modeling</Keyword>
+              <Keyword>corticosteroid</Keyword>
+              <Keyword>stochastic</Keyword>
+              <Keyword>gene</Keyword>
+              <Keyword>Gillespie algorithm</Keyword>
+              <Keyword>Monte Carlo simulation</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Published: June 23, 2005</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/12248_2008_Article_71134.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Receptor-mediated pharmacodynamics of corticosteroids</ArticleTitle>
+                  <JournalTitle>Prog Clin Biol. Res.</JournalTitle>
+                  <VolumeID>387</VolumeID>
+                  <FirstPage>261</FirstPage>
+                  <LastPage>270</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>7972251</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M%2Fmt1Cltg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jusko WJ. Receptor-mediated pharmacodynamics of corticosteroids.<Emphasis Type="Italic">Prog Clin Biol. Res.</Emphasis> 1994;387:261–270.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Fourth-generation model for corticosteroid pharmacodynamics: a model for methylprednisolone effects on receptor/gene-mediated glucocorticoid receptor down-regulation and tyrosine aminotransferase induction, in rat liver</ArticleTitle>
+                  <JournalTitle>J Pharmacokinets Biopharm</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>289</FirstPage>
+                  <LastPage>317</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXit1WksL0%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sun YN, DuBois DC, Almon RR, Jusko WJ. Fourth-generation model for corticosteroid pharmacodynamics: a model for methylprednisolone effects on receptor/gene-mediated glucocorticoid receptor down-regulation and tyrosine aminotransferase induction, in rat liver.<Emphasis Type="Italic">J Pharmacokinets Biopharm</Emphasis>. 1998;26:289–317.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>FS</Initials>
+                    <FamilyName>Chow</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Sharma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Modeling interactions between adrenal suppression and T-helper lymphocyte trafficking during multiple dosing of methylprednisolone</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>559</FirstPage>
+                  <LastPage>575</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11153446</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1020974408657</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXhtlGntw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chow FS, Sharma A, Jusko WJ. Modeling interactions between adrenal suppression and T-helper lymphocyte trafficking during multiple dosing of methylprednisolone.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1999;27:559–575.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GM</Initials>
+                    <FamilyName>Ferron</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NA</Initials>
+                    <FamilyName>Pyszczynski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic and pharmacoimmunodynamic interactions between prednisolone and sirolimus in adrenalectomized rats</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>21</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10533695</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1020626611479</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXlvVOmtLY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ferron GM, Pyszczynski NA, Jusko WJ. Pharmacokinetic and pharmacoimmunodynamic interactions between prednisolone and sirolimus in adrenalectomized rats.<Emphasis Type="Italic">J Pharmacokinet Biopharm</Emphasis>. 1999;27:1–21.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Ramakrishnan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NA</Initials>
+                    <FamilyName>Pyszczynski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Pharmacodynamics and pharmacogenomics of methylprednisolone during 7-day infusions in rats</ArticleTitle>
+                  <JournalTitle>J Pharmacol Exp Ther</JournalTitle>
+                  <VolumeID>300</VolumeID>
+                  <FirstPage>245</FirstPage>
+                  <LastPage>256</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11752123</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1124/jpet.300.1.245</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38Xht1Wmuw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ramakrishnan R, DuBois DC, Almon RR, Pyszczynski NA, Jusko WJ. Pharmacodynamics and pharmacogenomics of methylprednisolone during 7-day infusions in rats.<Emphasis Type="Italic">J Pharmacol Exp Ther</Emphasis>. 2002;300:245–256.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Ramakrishnan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NA</Initials>
+                    <FamilyName>Pyszczynski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WI</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Fifth-generation model for corticosteroid pharmacodynamics: application to steady-state receptor down-regulation and enzyme induction patterns during seven-day continuous infusion of methylprednisolone in rats</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Pharmacodyn</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>24</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12194533</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1015765201129</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XmslGmu7k%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ramakrishnan R, DuBois DC, Almon RR, Pyszczynski NA, Jusko WI. Fifth-generation model for corticosteroid pharmacodynamics: application to steady-state receptor down-regulation and enzyme induction patterns during seven-day continuous infusion of methylprednisolone in rats.<Emphasis Type="Italic">J Pharmacokinet Pharmacodyn</Emphasis>. 2002;29:1–24.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JY</Initials>
+                    <FamilyName>Jin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RR</Initials>
+                    <FamilyName>Almon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>DuBois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Jusko</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Modeling of corticosteroid pharmacogenomics in rat liver using gene microarrays</ArticleTitle>
+                  <JournalTitle>J Pharmacol Exp Ther</JournalTitle>
+                  <VolumeID>307</VolumeID>
+                  <FirstPage>93</FirstPage>
+                  <LastPage>109</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12808002</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1124/jpet.103.053256</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXnslGktLc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jin JY, Almon RR, DuBois DC, Jusko WJ. Modeling of corticosteroid pharmacogenomics in rat liver using gene microarrays.<Emphasis Type="Italic">J Pharmacol Exp Ther</Emphasis>. 2003;307:93–109.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Keener</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Sneyd</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <BookTitle>Mathematical Physiology</BookTitle>
+                  <PublisherName>Springer-Verlag</PublisherName>
+                  <PublisherLocation>Berlin, Germany</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Keener JP, Sneyd J.<Emphasis Type="Italic">Mathematical Physiology</Emphasis>. Springer-Verlag, Berlin, Germany; 1998.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>HH</Initials>
+                    <FamilyName>McAdams</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Arkin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">It's a noisy business! Genetic regulation at the nanomolar scale</ArticleTitle>
+                  <JournalTitle>Trends Genet</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>65</FirstPage>
+                  <LastPage>69</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10098409</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0168-9525(98)01659-X</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXhvVWhurg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>McAdams HH, Arkin A. It's a noisy business! Genetic regulation at the nanomolar scale.<Emphasis Type="Italic">Trends Genet</Emphasis>. 1999;15:65–69.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TB</Initials>
+                    <FamilyName>Kepler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TC</Initials>
+                    <FamilyName>Elston</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Stochasticity in transcriptional regulation: origins, consequences, and mathematical representations</ArticleTitle>
+                  <JournalTitle>Biophys J</JournalTitle>
+                  <VolumeID>81</VolumeID>
+                  <FirstPage>3116</FirstPage>
+                  <LastPage>3136</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11720979</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXovVems7k%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0006-3495(01)75949-8</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kepler TB, Elston TC. Stochasticity in transcriptional regulation: origins, consequences, and mathematical representations<Emphasis Type="Italic">Biophys J</Emphasis>. 2001;81:3116–3136.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Alm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AP</Initials>
+                    <FamilyName>Arkin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Biological networks</ArticleTitle>
+                  <JournalTitle>Curr Opin Struct Biol.</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>193</FirstPage>
+                  <LastPage>202</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12727512</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0959-440X(03)00031-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXjt1KntL4%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Alm E, Arkin AP, Biological networks.<Emphasis Type="Italic">Curr Opin Struct Biol.</Emphasis> 2003;13:193–202.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Becskei</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Serrano</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Engineering stability in gene networks by autoregulation</ArticleTitle>
+                  <JournalTitle>Nature</JournalTitle>
+                  <VolumeID>405</VolumeID>
+                  <FirstPage>590</FirstPage>
+                  <LastPage>593</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10850721</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/35014651</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3czgs1yqtg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Becskei A, Serrano L. Engineering stability in gene networks by autoregulation.<Emphasis Type="Italic">Nature</Emphasis>. 2000;405:590–593.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EM</Initials>
+                    <FamilyName>Ozbudak</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Thattai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Kurtser</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AD</Initials>
+                    <FamilyName>Grossman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Oudenaarden</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Regulations of noise in the expression of a single gene</ArticleTitle>
+                  <JournalTitle>Nat Genet.</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>69</FirstPage>
+                  <LastPage>73</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11967532</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/ng869</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38Xjt1Knsr8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ozbudak EM, Thattai M, Kurtser I, Grossman AD, van Oudenaarden A. Regulations of noise in the expression of a single gene.<Emphasis Type="Italic">Nat Genet.</Emphasis> 2002;31:69–73.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DL</Initials>
+                    <FamilyName>Cook</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AN</Initials>
+                    <FamilyName>Gerber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SJ</Initials>
+                    <FamilyName>Tapscott</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Modeling stochastic gene expression: implications for haploinsufficiency</ArticleTitle>
+                  <JournalTitle>Proc Natl Acad Sci USA</JournalTitle>
+                  <VolumeID>95</VolumeID>
+                  <FirstPage>15641</FirstPage>
+                  <LastPage>15646</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9861023</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1073/pnas.95.26.15641</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXhvFeisQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cook DL, Gerber AN, Tapscott SJ. Modeling stochastic gene expression: implications for haploinsufficiency.<Emphasis Type="Italic">Proc Natl Acad Sci USA</Emphasis>. 1998;95:15641–15646.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Pirone</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TC</Initials>
+                    <FamilyName>Elston</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Fluctuations in transcription factor binding can explain the graded and binary responses observed in inducible gene expression</ArticleTitle>
+                  <JournalTitle>J Theor Biol.</JournalTitle>
+                  <VolumeID>226</VolumeID>
+                  <FirstPage>111</FirstPage>
+                  <LastPage>121</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14637060</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jtbi.2003.08.008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXptVers7s%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pirone JR, Elston TC. Fluctuations in transcription factor binding can explain the graded and binary responses observed in inducible gene expression.<Emphasis Type="Italic">J Theor Biol.</Emphasis> 2004;226:111–121.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PM</Initials>
+                    <FamilyName>Kim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Tidor</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Limitations of quantitative gene regulation models: a case study</ArticleTitle>
+                  <JournalTitle>Genome Res.</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>2391</FirstPage>
+                  <LastPage>2395</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14597653</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1101/gr.1207003</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXovFWrsLY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kim PM, Tidor B. Limitations of quantitative gene regulation models: a case study.<Emphasis Type="Italic">Genome Res.</Emphasis> 2003;13:2391–2395.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RN</Initials>
+                    <FamilyName>Stuart</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EW</Initials>
+                    <FamilyName>Branscomb</FamilyName>
+                  </BibAuthorName>
+                  <Year>1971</Year>
+                  <ArticleTitle Language="En">Quantitative theory of in vivo<Emphasis Type="Italic">lac</Emphasis> regulation: significance of repressor packaging</ArticleTitle>
+                  <JournalTitle>J Theor Biol.</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>313</FirstPage>
+                  <LastPage>329</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>4933950</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0022-5193(71)90190-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE3MXktlShs7Y%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stuart RN, Branscomb EW. Quantitative theory of in vivo<Emphasis Type="Italic">lac</Emphasis> regulation: significance of repressor packaging.<Emphasis Type="Italic">J Theor Biol.</Emphasis> 1971;31:313–329.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GP</Initials>
+                    <FamilyName>Karev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YI</Initials>
+                    <FamilyName>Wolf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EV</Initials>
+                    <FamilyName>Koonin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Simple stochastic birth and death models of genome evolution: was there enough time for us to evolve?</ArticleTitle>
+                  <JournalTitle>Bioinformatics</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>1889</FirstPage>
+                  <LastPage>1900</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14555621</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/bioinformatics/btg351</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXot1CrsLc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Karev GP, Wolf YI, Koonin EV. Simple stochastic birth and death models of genome evolution: was there enough time for us to evolve?<Emphasis Type="Italic">Bioinformatics</Emphasis>. 2003;19:1889–1900.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PS</Initials>
+                    <FamilyName>Swain</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MB</Initials>
+                    <FamilyName>Elowitz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ED</Initials>
+                    <FamilyName>Siggia</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Intrinsic and extrinsic contributions to stochasticity in gene expression</ArticleTitle>
+                  <JournalTitle>Proc Natl Acad Sci USA</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <FirstPage>12795</FirstPage>
+                  <LastPage>12800</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12237400</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1073/pnas.162041399</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XnvFGhsLc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Swain PS, Elowitz MB, Siggia ED. Intrinsic and extrinsic contributions to stochasticity in gene expression.<Emphasis Type="Italic">Proc Natl Acad Sci USA</Emphasis>. 2002;99:12795–12800.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TC</Initials>
+                    <FamilyName>Meng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Somani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Dhar</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Modeling and simulations of biological systems with stochasticity</ArticleTitle>
+                  <JournalTitle>In Silico Biol.</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>0024</FirstPage>
+                  <LastPage>0024</LastPage>
+                </BibArticle>
+                <BibUnstructured>Meng TC, Somani S, Dhar P. Modeling and simulations of biological systems with stochasticity.<Emphasis Type="Italic">In Silico Biol.</Emphasis> 2004;4:0024.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RA</Initials>
+                    <FamilyName>Siegel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Commentary to “Linear and nonlinear system approaches in pharmacokinetics. how much do they have to offer? 1. General considerations”</ArticleTitle>
+                  <JournalTitle>J Pharmacokinet Biopharm.</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>667</FirstPage>
+                  <LastPage>672</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>3251035</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01062017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL1MXosl2nug%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Siegel RA. Commentary to “Linear and nonlinear system approaches in pharmacokinetics. how much do they have to offer? 1. General considerations”.<Emphasis Type="Italic">J Pharmacokinet Biopharm.</Emphasis> 1988;16:667–672.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ramanathan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">An application of Ito's lemma in population pharmacokinetics and pharmacodynamics</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>584</FirstPage>
+                  <LastPage>586</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10227716</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1011910800110</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXisFyqsro%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ramanathan M. An application of Ito's lemma in population pharmacokinetics and pharmacodynamics.<Emphasis Type="Italic">Pharm Res</Emphasis>. 1999;16:584–586.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ramanathan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Pharmacokinetic variability and therapeutic drug monitoring actions at steady state</ArticleTitle>
+                  <JournalTitle>Pharm Res</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>589</FirstPage>
+                  <LastPage>592</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>10888311</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1007573001055</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXksVGqurY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ramanathan M. Pharmacokinetic variability and therapeutic drug monitoring actions at steady state.<Emphasis Type="Italic">Pharm Res</Emphasis>. 2000;17:589–592.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Kles</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Hyrien</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Poul</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Sanders</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Application of pharmacokinetic, pharmacodynamic and stochastic modeling to 6-mercaptopurine micronucleus induction in mouse bone marrow erythrocytes</ArticleTitle>
+                  <JournalTitle>J Appl Toxicol</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <FirstPage>59</FirstPage>
+                  <LastPage>70</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12518338</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/jat.888</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXhtVWrt7o%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kles V, Hyrien O, Poul JM, Sanders P. Application of pharmacokinetic, pharmacodynamic and stochastic modeling to 6-mercaptopurine micronucleus induction in mouse bone marrow erythrocytes.<Emphasis Type="Italic">J Appl Toxicol</Emphasis>. 2003;23:59–70.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DT</Initials>
+                    <FamilyName>Gillespie</FamilyName>
+                  </BibAuthorName>
+                  <Year>1977</Year>
+                  <ArticleTitle Language="En">Exact stochastic simulation of coupled chemical reactions</ArticleTitle>
+                  <JournalTitle>J Phys Chem.</JournalTitle>
+                  <VolumeID>81</VolumeID>
+                  <FirstPage>2340</FirstPage>
+                  <LastPage>2361</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/j100540a008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE1cXht1GntA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gillespie DT. Exact stochastic simulation of coupled chemical reactions.<Emphasis Type="Italic">J Phys Chem.</Emphasis> 1977;81:2340–2361.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DT</Initials>
+                    <FamilyName>Gillespie</FamilyName>
+                  </BibAuthorName>
+                  <Year>1976</Year>
+                  <ArticleTitle Language="En">A general method for numerically stimulating the stochastic time evolution of coupled chemical reactions</ArticleTitle>
+                  <JournalTitle>J Comput Phys</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>403</FirstPage>
+                  <LastPage>434</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0021-9991(76)90041-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaE2sXnvFCisw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gillespie DT. A general method for numerically stimulating the stochastic time evolution of coupled chemical reactions.<Emphasis Type="Italic">J Comput Phys</Emphasis>. 1976;22:403–434.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>IL</Initials>
+                    <FamilyName>Ross</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CM</Initials>
+                    <FamilyName>Browne</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DA</Initials>
+                    <FamilyName>Hume</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Transcription of individual genes in eukaryotic cells occurs randomly and infrequently</ArticleTitle>
+                  <JournalTitle>Immunol Cell Biol</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>177</FirstPage>
+                  <LastPage>185</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>8200693</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/icb.1994.26</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c3lvFCktA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ross IL, Browne CM, Hume DA. Transcription of individual genes in eukaryotic cells occurs randomly and infrequently.<Emphasis Type="Italic">Immunol Cell Biol</Emphasis>. 1994;72:177–185.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Yarchuk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Jacques</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Guillerez</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Dreyfus</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Interdependence of translation, transcription and mRNA degradation in the lac gene</ArticleTitle>
+                  <JournalTitle>J Mol Biol.</JournalTitle>
+                  <VolumeID>226</VolumeID>
+                  <FirstPage>581</FirstPage>
+                  <LastPage>596</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>1507217</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0022-2836(92)90617-S</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK38XlvVyisrg%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yarchuk O, Jacques N, Guillerez J, Dreyfus M. Interdependence of translation, transcription and mRNA degradation in the lac gene.<Emphasis Type="Italic">J Mol Biol.</Emphasis> 1992;226:581–596.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MB</Initials>
+                    <FamilyName>Elowitz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Levine</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ED</Initials>
+                    <FamilyName>Siggia</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PS</Initials>
+                    <FamilyName>Swain</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Stochastic gene expression in a single cell</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>297</VolumeID>
+                  <FirstPage>1183</FirstPage>
+                  <LastPage>1186</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12183631</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.1070919</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XmsVOht7c%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Elowitz MB, Levine AJ, Siggia ED, Swain PS. Stochastic gene expression in a single cell.<Emphasis Type="Italic">Science</Emphasis>. 2002;297:1183–1186.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Arkin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Ross</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HH</Initials>
+                    <FamilyName>McAdams</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Stochastic kinetic analysis of developmental pathway bifurcation in phages lambda-infected<Emphasis Type="Italic">Escherichia coli</Emphasis> cells</ArticleTitle>
+                  <JournalTitle>Genetics</JournalTitle>
+                  <VolumeID>149</VolumeID>
+                  <FirstPage>1633</FirstPage>
+                  <LastPage>1648</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9691025</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXlsFehtr8%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Arkin A, Ross J, McAdams HH. Stochastic kinetic analysis of developmental pathway bifurcation in phages lambda-infected<Emphasis Type="Italic">Escherichia coli</Emphasis> cells.<Emphasis Type="Italic">Genetics</Emphasis>. 1998;149:1633–1648.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Levin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Noise in gene expression as the source of non-genetic individuality in the chemotactic response of<Emphasis Type="Italic">Escherichia coli</Emphasis>
+                  </ArticleTitle>
+                  <JournalTitle>FEBS Lett.</JournalTitle>
+                  <VolumeID>550</VolumeID>
+                  <FirstPage>135</FirstPage>
+                  <LastPage>138</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12935899</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0014-5793(03)00857-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXmsVKnt7w%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Levin MD. Noise in gene expression as the source of non-genetic individuality in the chemotactic response of<Emphasis Type="Italic">Escherichia coli</Emphasis>.<Emphasis Type="Italic">FEBS Lett.</Emphasis> 2003;550:135–138.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Wain-Hobson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">HIV genome variability in vivo</ArticleTitle>
+                  <JournalTitle>AIDS</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <IssueID>suppl 1</IssueID>
+                  <FirstPage>S13</FirstPage>
+                  <LastPage>S18</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2558685</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00002030-198901001-00003</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wain-Hobson S. HIV genome variability in vivo.<Emphasis Type="Italic">AIDS</Emphasis> 1989;3(suppl 1):S13-S18.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BA</Initials>
+                    <FamilyName>Larder</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Darby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DD</Initials>
+                    <FamilyName>Richman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">HIV with reduced susceptibility to zidovudine (AZT) isolated during prolonged therapy</ArticleTitle>
+                  <JournalTitle>Science</JournalTitle>
+                  <VolumeID>243</VolumeID>
+                  <FirstPage>1731</FirstPage>
+                  <LastPage>1734</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>2467383</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1126/science.2467383</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaL1MXhvV2htLk%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Larder BA, Darby G, Richman DD. HIV with reduced susceptibility to zidovudine (AZT) isolated during prolonged therapy.<Emphasis Type="Italic">Science</Emphasis>. 1989;243:1731–1734.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Nijhuis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CAB</Initials>
+                    <FamilyName>Boucher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Schipper</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Leitner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Schuurman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Albert</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Stochastic processes strongly influence HIV-1evolution during suboptimal protease-inhibitor therapy</ArticleTitle>
+                  <JournalTitle>Proc Natl Acad Sci USA</JournalTitle>
+                  <VolumeID>95</VolumeID>
+                  <FirstPage>14441</FirstPage>
+                  <LastPage>14446</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>9826719</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1073/pnas.95.24.14441</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXns1GlsLc%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nijhuis M, Boucher CAB, Schipper P, Leitner T, Schuurman R, Albert J. Stochastic processes strongly influence HIV-1evolution during suboptimal protease-inhibitor therapy.<Emphasis Type="Italic">Proc Natl Acad Sci USA</Emphasis>. 1998;95:14441–14446.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AN</Initials>
+                    <FamilyName>Phillips</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Youle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Johnson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Loveday</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Use of a stochastic model to develop understanding of the impact of different patterns of antiretroviral drug use on resistance development</ArticleTitle>
+                  <JournalTitle>AIDS</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>2211</FirstPage>
+                  <LastPage>2220</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11698693</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00002030-200111230-00001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3MnksFKitg%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Phillips AN, Youle M, Johnson M, Loveday C. Use of a stochastic model to develop understanding of the impact of different patterns of antiretroviral drug use on resistance development.<Emphasis Type="Italic">AIDS</Emphasis>. 2001;15:2211–2220.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Gonze</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Halloy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Goldbeter</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Robustness of circadian rhythms with respect to molecular noise</ArticleTitle>
+                  <JournalTitle>Proc Natl Acad Sci USA</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <FirstPage>673</FirstPage>
+                  <LastPage>678</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11792856</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1073/pnas.022628299</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38Xht1WjurY%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gonze D, Halloy J, Goldbeter A. Robustness of circadian rhythms with respect to molecular noise.<Emphasis Type="Italic">Proc Natl Acad Sci USA</Emphasis>. 2002;99:673–678.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DT</Initials>
+                    <FamilyName>Gillespie</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Approximate accelerated stochastic simulation of chemically reacting systems</ArticleTitle>
+                  <JournalTitle>J Phys Chem</JournalTitle>
+                  <VolumeID>115</VolumeID>
+                  <FirstPage>1716</FirstPage>
+                  <LastPage>1733</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.1378322</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXltFClt74%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gillespie DT. Approximate accelerated stochastic simulation of chemically reacting systems.<Emphasis Type="Italic">J Phys Chem</Emphasis>. 2001;115:1716–1733.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Koyanagi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Kuramoto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Nakagawa</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A molecular mechanism regulatings circadian expression of vascular endothelial growth factor in tumor cells</ArticleTitle>
+                  <JournalTitle>Cancer Res.</JournalTitle>
+                  <VolumeID>63</VolumeID>
+                  <FirstPage>7277</FirstPage>
+                  <LastPage>7283</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14612524</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXovVGlt78%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Koyanagi S, Kuramoto Y, Nakagawa H, et al. A molecular mechanism regulatings circadian expression of vascular endothelial growth factor in tumor cells.<Emphasis Type="Italic">Cancer Res.</Emphasis> 2003;63:7277–7283.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Koyanagi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Optimization of the dosage schedule for sustaining intrinsic biological rhythms</ArticleTitle>
+                  <JournalTitle>Yakugaku Zasshi</JournalTitle>
+                  <VolumeID>123</VolumeID>
+                  <FirstPage>789</FirstPage>
+                  <LastPage>797</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14513770</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1248/yakushi.123.789</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXnsVOhur4%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Koyanagi S, Optimization of the dosage schedule for sustaining intrinsic biological rhythms.<Emphasis Type="Italic">Yakugaku Zasshi</Emphasis>. 2003;123:789–797.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sudo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Sasahara</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Moriya</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Akiyama</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Hamada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Shibata</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Constant light housing attenuates circadian rhythms of mPer2 mRNA and mPER2 protein expression in the suprachiasmatic nucleus of mice</ArticleTitle>
+                  <JournalTitle>Neuroscience</JournalTitle>
+                  <VolumeID>121</VolumeID>
+                  <FirstPage>493</FirstPage>
+                  <LastPage>499</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>14522008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0306-4522(03)00457-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXns1Kksb4%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sudo M, Sasahara K, Moriya T, Akiyama M, Hamada T, Shibata S. Constant light housing attenuates circadian rhythms of mPer2 mRNA and mPER2 protein expression in the suprachiasmatic nucleus of mice.<Emphasis Type="Italic">Neuroscience</Emphasis>. 2003;121:493–499.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Nadon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Shoemaker</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Statistical issues with microarray: processing and analysis</ArticleTitle>
+                  <JournalTitle>Trends Gene.</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>265</FirstPage>
+                  <LastPage>271</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0168-9525(02)02665-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XjvFCgt74%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nadon R, Shoemaker J. Statistical issues with microarray: processing and analysis.<Emphasis Type="Italic">Trends Gene.</Emphasis> 2002;18:265–271.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibUnstructured>Tian T, Burrage K. Stochastic Neural Network models for gene regulatory networks. Proceedings of the 2003 IEEE Congress on Evolutionary Computation; December, 2003; Canberra, Australia.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

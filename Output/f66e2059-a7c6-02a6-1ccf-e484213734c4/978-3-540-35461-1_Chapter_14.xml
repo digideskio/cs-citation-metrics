@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Dough</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>CA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>MA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbruecken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-540-35461-1</BookID>
+        <BookTitle>Combinatorial Pattern Matching</BookTitle>
+        <BookSubTitle>17th Annual Symposium, CPM 2006, Barcelona, Spain, July 5-7, 2006. Proceedings</BookSubTitle>
+        <BookVolumeNumber>4009</BookVolumeNumber>
+        <BookSequenceNumber>4009</BookSequenceNumber>
+        <BookDOI>10.1007/11780441</BookDOI>
+        <BookTitleID>139689</BookTitleID>
+        <BookPrintISBN>978-3-540-35455-0</BookPrintISBN>
+        <BookElectronicISBN>978-3-540-35461-1</BookElectronicISBN>
+        <BookChapterCount>36</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2006</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="SCI" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="SCI2203X" Priority="1" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="SCI16021" Priority="2" Type="Secondary">Algorithm Analysis and Problem Complexity</BookSubject>
+          <BookSubject Code="SCI21033" Priority="3" Type="Secondary">Document Preparation and Text Processing</BookSubject>
+          <BookSubject Code="SCI18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="SCL15001" Priority="5" Type="Secondary">Bioinformatics</BookSubject>
+          <BookSubject Code="SCI15017" Priority="6" Type="Secondary">Data Structures</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>Annual Symposium on Combinatorial Pattern Matching</ConfSeriesName>
+          <ConfSeriesID Type="Springer">cpm</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">cpm</ConfSeriesID>
+          <ConfEventID Type="Springer">cpm2006</ConfEventID>
+          <ConfEventAbbreviation>CPM</ConfEventAbbreviation>
+          <ConfNumber>17</ConfNumber>
+          <ConfEventLocation>
+            <City>Barcelona</City>
+            <Country>Spain</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>5</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>7</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Moshe</GivenName>
+              <FamilyName>Lewenstein</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>moshe@cs.biu.ac.il</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Gabriel</GivenName>
+              <FamilyName>Valiente</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>valiente@lsi.upc.edu</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Department of Computer Science</OrgDivision>
+            <OrgName>Bar-Ilan University</OrgName>
+            <OrgAddress>
+              <Postcode>52900</Postcode>
+              <City>Ramat-Gan</City>
+              <Country>Israel</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Software</OrgDivision>
+            <OrgName>Technical University of Catalonia</OrgName>
+            <OrgAddress>
+              <Postcode>08034</Postcode>
+              <City>Barcelona</City>
+              <Country>Spain</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part5">
+        <PartInfo TocLevels="0">
+          <PartID>5</PartID>
+          <PartSequenceNumber>5</PartSequenceNumber>
+          <PartTitle>Session 4. Applications in Molecular Biology I</PartTitle>
+          <PartChapterCount>4</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Combinatorial Pattern Matching</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap14" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>14</ChapterID>
+            <ChapterDOI>10.1007/11780441_14</ChapterDOI>
+            <ChapterSequenceNumber>14</ChapterSequenceNumber>
+            <ChapterTitle Language="En">On the Repeat-Annotated Phylogenetic Tree Reconstruction Problem</ChapterTitle>
+            <ChapterFirstPage>141</ChapterFirstPage>
+            <ChapterLastPage>152</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2006</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>5</PartID>
+              <BookID>978-3-540-35461-1</BookID>
+              <BookTitle>Combinatorial Pattern Matching</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff18 Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Firas</GivenName>
+                  <FamilyName>Swidan</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>firas@cs.technion.ac.il</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff18 Aff20">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Michal</GivenName>
+                  <FamilyName>Ziv-Ukelson</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>michalz@cs.technion.ac.il</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ron</GivenName>
+                  <GivenName>Y.</GivenName>
+                  <FamilyName>Pinter</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>pinter@cs.technion.ac.il</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff18">
+                <OrgDivision>Department of Computer Science</OrgDivision>
+                <OrgName>Technion – Israel Institute of Technology</OrgName>
+                <OrgAddress>
+                  <City>Haifa</City>
+                  <Postcode>32000</Postcode>
+                  <Country>Israel</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff19">
+                <OrgName>Janelia Farm, Howard Hughes Medical Institute</OrgName>
+                <OrgAddress>
+                  <State>VA</State>
+                  <Postcode>20147</Postcode>
+                  <Country>USA</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff20">
+                <OrgDivision>School of Computer Science</OrgDivision>
+                <OrgName>Tel-Aviv University</OrgName>
+                <OrgAddress>
+                  <City>Tel-Aviv</City>
+                  <Postcode>69978</Postcode>
+                  <Country>Israel</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para TextBreak="No">A new problem in <Emphasis Type="Italic">phylogenetic inference</Emphasis> is presented, based on recent biological findings indicating a strong association between <Emphasis Type="Italic">reversals</Emphasis> (aka <Emphasis Type="Italic">inversions</Emphasis>) and <Emphasis Type="Italic">repeats</Emphasis>. These biological findings are formalized here in a new mathematical model, called <Emphasis Type="Italic">repeat-annotated phylogenetic trees</Emphasis> (RAPT). We show that, under RAPT, the evolutionary process — including both the tree-topology as well as internal node genome orders — is <Emphasis Type="Italic">uniquely</Emphasis> determined, a property that is of major significance both in theory and in practice. Furthermore, the repeats are employed to provide linear-time algorithms for reconstructing both the genomic orders and the phylogeny, which are NP-hard problems under the classical model of <Emphasis Type="Italic">sorting by reversals</Emphasis> (SBR).</Para>
+            </Abstract>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-540-35461-1_Chapter_14.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>Swidan, F., Rocha, E.P.C., Shmoish, M., Pinter, R.: An integrative method for accurate comparative genome mapping (submitted, 2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Qian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Jia</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.X.</Initials>
+                    <FamilyName>Ren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.Q.</Initials>
+                    <FamilyName>He</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.X.</Initials>
+                    <FamilyName>Feng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.F.</Initials>
+                    <FamilyName>Lu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Q.</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Ying</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Comparative and functional genomic analyses of the pathogenicity of phytopathogen Xanthomonas campestris pv</ArticleTitle>
+                  <JournalTitle>campestris. Genome Res.</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>757</FirstPage>
+                  <LastPage>767</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1101/gr.3378705</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Qian, W., Jia, Y., Ren, S.X., He, Y.Q., Feng, J.X., Lu, L.F., Sun, Q., Ying, G., et al.: Comparative and functional genomic analyses of the pathogenicity of phytopathogen Xanthomonas campestris pv. campestris. Genome Res. 15(6), 757–767 (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>Achaz, G., Boyer, F., Rocha, E.P.C., Viari, A., Coissac, E.: Extracting approximate repeats from large DNA sequences (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.C.</Initials>
+                    <FamilyName>Kowalczykowski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.A.</Initials>
+                    <FamilyName>Dixon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.K.</Initials>
+                    <FamilyName>Eggleston</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.D.</Initials>
+                    <FamilyName>Lauder</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.M.</Initials>
+                    <FamilyName>Rehrauer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Biochemistry of homologous recombination in <Emphasis Type="Italic">Escherichia coli</Emphasis>
+                           </ArticleTitle>
+                  <JournalTitle>Microbiol. Rev.</JournalTitle>
+                  <VolumeID>58</VolumeID>
+                  <FirstPage>401</FirstPage>
+                  <LastPage>465</LastPage>
+                </BibArticle>
+                <BibUnstructured>Kowalczykowski, S.C., Dixon, D.A., Eggleston, A.K., Lauder, S.D., Rehrauer, W.M.: Biochemistry of homologous recombination in <Emphasis Type="Italic">Escherichia coli</Emphasis>. Microbiol. Rev. 58, 401–465 (1994)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Kececioglu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Sankoff</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ChapterTitle Language="En">Exact and approximation algorithms for the inversion distance between two permutations</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Apostolico</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Crochemore</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>Z.</Initials>
+                    <FamilyName>Galil</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Manber</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Combinatorial Pattern Matching</BookTitle>
+                  <ConfEventName>4th Annual Symposium, CPM 93</ConfEventName>
+                  <ConfEventLocation>Padova, Italy</ConfEventLocation>
+                  <ConfEventDate>June 2-4, 1993</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>684</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>87</FirstPage>
+                  <LastPage>105</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BFb0029799</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Kececioglu, J., Sankoff, D.: Exact and approximation algorithms for the inversion distance between two permutations. In: Apostolico, A., Crochemore, M., Galil, Z., Manber, U. (eds.) CPM 1993. LNCS, vol. 684, pp. 87–105. Springer, Heidelberg (1993)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Kaplan, H., Shamir, R., Tarjan, R.E.: Faster and simpler algorithm for sorting signed permutations by reversals. In: Proc. 8th Ann. Symp. on Discrete Algorithms, pp. 344–351 (1997). doi:<ExternalRef><RefSource>10.1145/267521.267544</RefSource><RefTarget Address="10.1145/267521.267544" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Hannenhalli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.A.</Initials>
+                    <FamilyName>Pevzner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Transforming cabbage into turnip: Polynomial algorithm for sorting signed permutations by reversals</ArticleTitle>
+                  <JournalTitle>J. ACM</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>27</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/300515.300516</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1692509</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1064.92510</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hannenhalli, S., Pevzner, P.A.: Transforming cabbage into turnip: Polynomial algorithm for sorting signed permutations by reversals. J. ACM 46, 1–27 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Bergeron</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Mixtacki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Stoye</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ChapterTitle Language="En">Reversal distance without hurdles and fortresses</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>S.C.</Initials>
+                    <FamilyName>Sahinalp</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>S.M.</Initials>
+                    <FamilyName>Muthukrishnan</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Dogrusoz</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Combinatorial Pattern Matching</BookTitle>
+                  <ConfEventName>15th Annual Symposium, CPM 2004</ConfEventName>
+                  <ConfEventLocation>Istanbul, Turkey</ConfEventLocation>
+                  <ConfEventDate>July 5-7, 2004</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>3109</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>388</FirstPage>
+                  <LastPage>399</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-540-27801-6_29</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Bergeron, A., Mixtacki, J., Stoye, J.: Reversal distance without hurdles and fortresses. In: Sahinalp, S.C., Muthukrishnan, S.M., Dogrusoz, U. (eds.) CPM 2004. LNCS, vol. 3109, pp. 388–399. Springer, Heidelberg (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Tannier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.F.</Initials>
+                    <FamilyName>Sagot</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ChapterTitle Language="En">Sorting by reversals in subquadratic time</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>S.C.</Initials>
+                    <FamilyName>Sahinalp</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>S.M.</Initials>
+                    <FamilyName>Muthukrishnan</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Dogrusoz</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Combinatorial Pattern Matching</BookTitle>
+                  <ConfEventName>15th Annual Symposium, CPM 2004</ConfEventName>
+                  <ConfEventLocation>Istanbul, Turkey</ConfEventLocation>
+                  <ConfEventDate>July 5-7, 2004</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>3109</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>13</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-540-27801-6_1</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Tannier, E., Sagot, M.F.: Sorting by reversals in subquadratic time. In: Sahinalp, S.C., Muthukrishnan, S.M., Dogrusoz, U. (eds.) CPM 2004. LNCS, vol. 3109, pp. 1–13. Springer, Heidelberg (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>Bender, M., Ge, D., He, S., Hu, H., Pinter, R., Skiena, S., Swidan, F.: Improved bounds on sorting with length-weighted reversals. In: Proc. 15th ACM-SIAM Symposium on Discrete Algorithms, pp. 912–921 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Swidan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.A.</Initials>
+                    <FamilyName>Bender</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Ge</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>He</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Hu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.Y.</Initials>
+                    <FamilyName>Pinter</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ChapterTitle Language="En">Sorting by length-weighted reversals: Dealing with signs and circularity</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>S.C.</Initials>
+                    <FamilyName>Sahinalp</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>S.M.</Initials>
+                    <FamilyName>Muthukrishnan</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Dogrusoz</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Combinatorial Pattern Matching</BookTitle>
+                  <ConfEventName>15th Annual Symposium, CPM 2004</ConfEventName>
+                  <ConfEventLocation>Istanbul, Turkey</ConfEventLocation>
+                  <ConfEventDate>July 5-7, 2004</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>3109</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>32</FirstPage>
+                  <LastPage>46</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-540-27801-6_3</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Swidan, F., Bender, M.A., Ge, D., He, S., Hu, H., Pinter, R.Y.: Sorting by length-weighted reversals: Dealing with signs and circularity. In: Sahinalp, S.C., Muthukrishnan, S.M., Dogrusoz, U. (eds.) CPM 2004. LNCS, vol. 3109, pp. 32–46. Springer, Heidelberg (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Bergeron</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">A very elementary presentation of the hannenhalli-pevzner theory</ArticleTitle>
+                  <JournalTitle>Discrete Applied Mathematics</JournalTitle>
+                  <VolumeID>146</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>134</FirstPage>
+                  <LastPage>145</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.dam.2004.04.010</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2111925</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1084.68086</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bergeron, A.: A very elementary presentation of the hannenhalli-pevzner theory. Discrete Applied Mathematics 146(2), 134–145 (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Caprara</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ChapterTitle Language="En">Formulations and hardness of multiple sorting by reversals</ChapterTitle>
+                  <BookTitle>Proc 3th Ann. Int. Conf. on Computational Molecular Biology</BookTitle>
+                  <PublisherName>ACM Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>84</FirstPage>
+                  <LastPage>93</LastPage>
+                </BibChapter>
+                <BibUnstructured>Caprara, A.: Formulations and hardness of multiple sorting by reversals. In: Proc 3th Ann. Int. Conf. on Computational Molecular Biology, pp. 84–93. ACM Press, New York (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Moret, B., Wang, L., Warnow, T., Wyman, S.: New approaches for reconstructing phylogenies from gene order data. In: Proc. 9th Int. Conf. Intell. Syst. Mol. Biol., pp. 165–173 (2001). doi:<ExternalRef><RefSource>10.1093/bioinformatics/17.suppl_1.S165</RefSource><RefTarget Address="10.1093/bioinformatics/17.suppl_1.S165" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Bourque</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.A.</Initials>
+                    <FamilyName>Pevzner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Genome-scale evolution: Reconstructing gene orders in the ancestral species</ArticleTitle>
+                  <JournalTitle>Genome Res.</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>26</FirstPage>
+                  <LastPage>36</LastPage>
+                </BibArticle>
+                <BibUnstructured>Bourque, G., Pevzner, P.A.: Genome-scale evolution: Reconstructing gene orders in the ancestral species. Genome Res. 12(1), 26–36 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>Gonnet, G.H.: Handbook of Algorithms and Data Structures. International Computer Science Services (1983)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

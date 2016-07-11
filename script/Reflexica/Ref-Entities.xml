@@ -1,0 +1,758 @@
+#version 1.0
+<Entities>
+<Entity><Look>Look</Look><Name>Name</Name><WFont>Font</WFont><Emp>Emphasis</Emp><WCC>Char code [Word]</WCC><IFont>Font</IFont><IDUni>Unicode [Indesign]</IDUni></Entity>
+<Entity><Look>!</Look><Name>ASCII space</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0020</WCC><IFont>Symbol</IFont><IDUni>0020</IDUni></Entity>
+<Entity><Look>!</Look><Name>Exclamation Mark</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0021</WCC><IFont>Symbol</IFont><IDUni>0021</IDUni></Entity>
+<Entity><Look>"</Look><Name>For all</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0022</WCC><IFont>Symbol</IFont><IDUni>2200</IDUni></Entity>
+<Entity><Look>#</Look><Name>Number sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0023</WCC><IFont>Symbol</IFont><IDUni>0023</IDUni></Entity>
+<Entity><Look>$</Look><Name>There exsists</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0024</WCC><IFont>Symbol</IFont><IDUni>2203</IDUni></Entity>
+<Entity><Look>%</Look><Name>Percent sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0025</WCC><IFont>Symbol</IFont><IDUni>0025</IDUni></Entity>
+<Entity><Look>&amp;</Look><Name>Ampersand</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0026</WCC><IFont>Symbol</IFont><IDUni>0026</IDUni></Entity>
+<Entity><Look>'</Look><Name>Contains as member</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0027</WCC><IFont>Symbol</IFont><IDUni>220B</IDUni></Entity>
+<Entity><Look>(</Look><Name>Left parenthesis</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0028</WCC><IFont>Symbol</IFont><IDUni>0028</IDUni></Entity>
+<Entity><Look>)</Look><Name>Right parenthesis</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0029</WCC><IFont>Symbol</IFont><IDUni>0029</IDUni></Entity>
+<Entity><Look>*</Look><Name>Asterix operator</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>002A</WCC><IFont>Symbol</IFont><IDUni>2217</IDUni></Entity>
+<Entity><Look>+</Look><Name>Plus sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>002B</WCC><IFont>Symbol</IFont><IDUni>002B</IDUni></Entity>
+<Entity><Look>,</Look><Name>Comma</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>002C</WCC><IFont>Symbol</IFont><IDUni>002C</IDUni></Entity>
+<Entity><Look>-</Look><Name>Minus sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>002D</WCC><IFont>Symbol</IFont><IDUni>2212</IDUni></Entity>
+<Entity><Look>&lt;</Look><Name>Less than sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>003C</WCC><IFont>Symbol</IFont><IDUni>003C</IDUni></Entity>
+<Entity><Look>=</Look><Name>Equals to</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>003D</WCC><IFont>Symbol</IFont><IDUni>003D</IDUni></Entity>
+<Entity><Look>&gt;</Look><Name>Greater than sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>003E</WCC><IFont>Symbol</IFont><IDUni>003E</IDUni></Entity>
+<Entity><Look>?</Look><Name>Question mark</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>003F</WCC><IFont>Symbol</IFont><IDUni>003F</IDUni></Entity>
+<Entity><Look>@</Look><Name>approximately equal to</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0040</WCC><IFont>Symbol</IFont><IDUni>2245</IDUni></Entity>
+<Entity><Look>A</Look><Name>Greek capital letter Alpha</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0041</WCC><IFont>Symbol</IFont><IDUni>0391</IDUni></Entity>
+<Entity><Look>B</Look><Name>Greek capital letter Beta</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0042</WCC><IFont>Symbol</IFont><IDUni>0392</IDUni></Entity>
+<Entity><Look>C</Look><Name>Greek capital letter Chi</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0043</WCC><IFont>Symbol</IFont><IDUni>03A7</IDUni></Entity>
+<Entity><Look>D</Look><Name>Increment</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0044</WCC><IFont>Symbol</IFont><IDUni>2206</IDUni></Entity>
+<Entity><Look>E</Look><Name>Greek capital letter Epsilon</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0045</WCC><IFont>Symbol</IFont><IDUni>0395</IDUni></Entity>
+<Entity><Look>F</Look><Name>Greek capital letter Phi</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0046</WCC><IFont>Symbol</IFont><IDUni>03A6</IDUni></Entity>
+<Entity><Look>G</Look><Name>Greek capital letter Gamma</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0047</WCC><IFont>Symbol</IFont><IDUni>0393</IDUni></Entity>
+<Entity><Look>H</Look><Name>Greek capital letter Eta</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0048</WCC><IFont>Symbol</IFont><IDUni>0397</IDUni></Entity>
+<Entity><Look>I</Look><Name>Greek capital letter Iota</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0049</WCC><IFont>Symbol</IFont><IDUni>0399</IDUni></Entity>
+<Entity><Look>J</Look><Name>Greek theta symbol</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>004A</WCC><IFont>Symbol</IFont><IDUni>03D1</IDUni></Entity>
+<Entity><Look>K</Look><Name>Greek capital letter Kappa</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>004B</WCC><IFont>Symbol</IFont><IDUni>039A</IDUni></Entity>
+<Entity><Look>L</Look><Name>Greek capital letter Lamda</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>004C</WCC><IFont>Symbol</IFont><IDUni>039B</IDUni></Entity>
+<Entity><Look>M</Look><Name>Greek capital letter Mu</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>004D</WCC><IFont>Symbol</IFont><IDUni>039C</IDUni></Entity>
+<Entity><Look>N</Look><Name>Greek capital letter Nu</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>004E</WCC><IFont>Symbol</IFont><IDUni>039D</IDUni></Entity>
+<Entity><Look>O</Look><Name>Greek capital letter Omicron</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>004F</WCC><IFont>Symbol</IFont><IDUni>039F</IDUni></Entity>
+<Entity><Look>P</Look><Name>Greek capital letter Pi</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0050</WCC><IFont>Symbol</IFont><IDUni>03A0</IDUni></Entity>
+<Entity><Look>Q</Look><Name>Greek capital letter Theta</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0051</WCC><IFont>Symbol</IFont><IDUni>0398</IDUni></Entity>
+<Entity><Look>R</Look><Name>Greek capital letter Rho</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0052</WCC><IFont>Symbol</IFont><IDUni>03A1</IDUni></Entity>
+<Entity><Look>S</Look><Name>Greek capital letter Sigma</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0053</WCC><IFont>Symbol</IFont><IDUni>03A3</IDUni></Entity>
+<Entity><Look>T</Look><Name>Greek capital letter Tau</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0054</WCC><IFont>Symbol</IFont><IDUni>03A4</IDUni></Entity>
+<Entity><Look>U</Look><Name>Greek capital letter Upsilon</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0055</WCC><IFont>Symbol</IFont><IDUni>03A5</IDUni></Entity>
+<Entity><Look>V</Look><Name>Final sigma</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0056</WCC><IFont>Symbol</IFont><IDUni>03C2</IDUni></Entity>
+<Entity><Look>W</Look><Name>Ohm sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0057</WCC><IFont>Symbol</IFont><IDUni>2126</IDUni></Entity>
+<Entity><Look>X</Look><Name>Greek capital letter Xi</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0058</WCC><IFont>Symbol</IFont><IDUni>039E</IDUni></Entity>
+<Entity><Look>Y</Look><Name>Greek capital letter Psi</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0059</WCC><IFont>Symbol</IFont><IDUni>03A8</IDUni></Entity>
+<Entity><Look>Z</Look><Name>Greek capital letter Zeta</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>005A</WCC><IFont>Symbol</IFont><IDUni>0396</IDUni></Entity>
+<Entity><Look>[</Look><Name>Left square bracket</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>005B</WCC><IFont>Symbol</IFont><IDUni>005B</IDUni></Entity>
+<Entity><Look>\</Look><Name>Therefore</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>005C</WCC><IFont>Symbol</IFont><IDUni>2234</IDUni></Entity>
+<Entity><Look>]</Look><Name>Right square bracket</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>005D</WCC><IFont>Symbol</IFont><IDUni>005D</IDUni></Entity>
+<Entity><Look>J</Look><Name>vartheta</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>004A</WCC><IFont>Symbol</IFont><IDUni>03D1</IDUni></Entity>
+<Entity><Look>^</Look><Name>Up tack</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>005E</WCC><IFont>Symbol</IFont><IDUni>22A5</IDUni></Entity>
+<Entity><Look>_</Look><Name>Low line</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>005F</WCC><IFont>Symbol</IFont><IDUni>005F</IDUni></Entity>
+<Entity><Look>`</Look><Name></Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0060</WCC><IFont>Symbol</IFont><IDUni>F8E5</IDUni></Entity>
+<Entity><Look>a</Look><Name>Greek small character alpha</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0061</WCC><IFont>Symbol</IFont><IDUni>03B1</IDUni></Entity>
+<Entity><Look>b</Look><Name>Greek small character beta</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0062</WCC><IFont>Symbol</IFont><IDUni>03B2</IDUni></Entity>
+<Entity><Look>c</Look><Name>chi</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0063</WCC><IFont>Symbol</IFont><IDUni>03C7</IDUni></Entity>
+<Entity><Look>d</Look><Name>Greek small character delta</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0064</WCC><IFont>Symbol</IFont><IDUni>03B4</IDUni></Entity>
+<Entity><Look>e</Look><Name>epsilon</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0065</WCC><IFont>Symbol</IFont><IDUni>03B5</IDUni></Entity>
+<Entity><Look>f</Look><Name>Greek small letter phi</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0066</WCC><IFont>Symbol</IFont><IDUni>03C6</IDUni></Entity>
+<Entity><Look>g</Look><Name>Greek small character gamma</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0067</WCC><IFont>Symbol</IFont><IDUni>03B3</IDUni></Entity>
+<Entity><Look>h</Look><Name>eta</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0068</WCC><IFont>Symbol</IFont><IDUni>03B7</IDUni></Entity>
+<Entity><Look>i</Look><Name>iota</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0069</WCC><IFont>Symbol</IFont><IDUni>03B9</IDUni></Entity>
+<Entity><Look>j</Look><Name>phi symbol</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>006A</WCC><IFont>Symbol</IFont><IDUni>03D5</IDUni></Entity>
+<Entity><Look>k</Look><Name>kappa</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>006B</WCC><IFont>Symbol</IFont><IDUni>03BA</IDUni></Entity>
+<Entity><Look>l</Look><Name>lambda</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>006C</WCC><IFont>Symbol</IFont><IDUni>03BB</IDUni></Entity>
+<Entity><Look>m</Look><Name>micro sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>006D</WCC><IFont>Symbol</IFont><IDUni>00B5</IDUni></Entity>
+<Entity><Look>n</Look><Name>nu</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>006E</WCC><IFont>Symbol</IFont><IDUni>03BD</IDUni></Entity>
+<Entity><Look>o</Look><Name>omicron</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>006F</WCC><IFont>Symbol</IFont><IDUni>03BF</IDUni></Entity>
+<Entity><Look>p</Look><Name>pi</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0070</WCC><IFont>Symbol</IFont><IDUni>03C0</IDUni></Entity>
+<Entity><Look>q</Look><Name>theta</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0071</WCC><IFont>Symbol</IFont><IDUni>03B8</IDUni></Entity>
+<Entity><Look>r</Look><Name>rho</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0072</WCC><IFont>Symbol</IFont><IDUni>03C1</IDUni></Entity>
+<Entity><Look>s</Look><Name>sigma</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0073</WCC><IFont>Symbol</IFont><IDUni>03C3</IDUni></Entity>
+<Entity><Look>t</Look><Name>tau</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0074</WCC><IFont>Symbol</IFont><IDUni>03C4</IDUni></Entity>
+<Entity><Look>u</Look><Name>upsilon</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0075</WCC><IFont>Symbol</IFont><IDUni>03C5</IDUni></Entity>
+<Entity><Look>v</Look><Name>Greek pi symbol</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0076</WCC><IFont>Symbol</IFont><IDUni>	</IDUni></Entity>
+<Entity><Look>w</Look><Name>omega</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0077</WCC><IFont>Symbol</IFont><IDUni>03C9</IDUni></Entity>
+<Entity><Look>x</Look><Name>xi</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0078</WCC><IFont>Symbol</IFont><IDUni>03BE</IDUni></Entity>
+<Entity><Look>y</Look><Name>psi</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>0079</WCC><IFont>Symbol</IFont><IDUni>03C8</IDUni></Entity>
+<Entity><Look>z</Look><Name>zeta</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>007A</WCC><IFont>Symbol</IFont><IDUni>03B6</IDUni></Entity>
+<Entity><Look>{</Look><Name>Left curly bracket</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>007B</WCC><IFont>Symbol</IFont><IDUni>007B</IDUni></Entity>
+<Entity><Look>|</Look><Name>Vertical line</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>007C</WCC><IFont>Symbol</IFont><IDUni>007C</IDUni></Entity>
+<!-- jUST CHECKING -->
+<Entity><Look>|</Look><Name>Vertical line</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00E7</WCC><IFont>Symbol</IFont><IDUni>F8EC</IDUni></Entity>
+<!-- jUST CHECKING END -->
+
+<Entity><Look>}</Look><Name>Right curly bracket</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>007D</WCC><IFont>Symbol</IFont><IDUni>007D</IDUni></Entity>
+<Entity><Look>~</Look><Name>Tilde operator</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>007E</WCC><IFont>Symbol</IFont><IDUni>223C</IDUni></Entity>
+<Entity><Look>¡</Look><Name>Upsilon with hook</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00A1</WCC><IFont>Symbol</IFont><IDUni>03D2</IDUni></Entity>
+<Entity><Look>¢</Look><Name>Prime</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00A2</WCC><IFont>Symbol</IFont><IDUni>2032</IDUni></Entity>
+<Entity><Look>£</Look><Name>less than or equal to</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00A3</WCC><IFont>Symbol</IFont><IDUni>2264</IDUni></Entity>
+<Entity><Look>¤</Look><Name>Fraction slash</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00A4</WCC><IFont>Symbol</IFont><IDUni>2044</IDUni></Entity>
+<Entity><Look>¥</Look><Name>Infinity</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00A5</WCC><IFont>Symbol</IFont><IDUni>221E</IDUni></Entity>
+<Entity><Look>¦</Look><Name>Latin small letter "f" with hook</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00A6</WCC><IFont>Symbol</IFont><IDUni>0192</IDUni></Entity>
+<Entity><Look>§</Look><Name>Black club suit</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00A7</WCC><IFont>Symbol</IFont><IDUni>2663</IDUni></Entity>
+<Entity><Look>¨</Look><Name>Black diamond suit</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00A8</WCC><IFont>Symbol</IFont><IDUni>2666</IDUni></Entity>
+<Entity><Look>¨</Look><Name>Black diamond suit</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>2666</WCC><IFont>Symbol</IFont><IDUni>2666</IDUni></Entity>
+<Entity><Look>è</Look><Name>Rightwards arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>2794</WCC><IFont>Symbol</IFont><IDUni>2794</IDUni></Entity>
+<Entity><Look>©</Look><Name>Black heart suit</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00A9</WCC><IFont>Symbol</IFont><IDUni>2665</IDUni></Entity>
+<Entity><Look>ª</Look><Name>Black spade suit</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00AA</WCC><IFont>Symbol</IFont><IDUni>2660</IDUni></Entity>
+<Entity><Look>«</Look><Name>Left right arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00AB</WCC><IFont>Symbol</IFont><IDUni>2194</IDUni></Entity>
+<Entity><Look>¬</Look><Name>Leftwards arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00AC</WCC><IFont>Symbol</IFont><IDUni>2190</IDUni></Entity>
+<Entity><Look>­</Look><Name>Upwards arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00AD</WCC><IFont>Symbol</IFont><IDUni>2191</IDUni></Entity>
+<Entity><Look>arrow</Look><Name>Rightwards arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>2192</WCC><IFont>Symbol</IFont><IDUni>2192</IDUni></Entity>
+<Entity><Look>¯</Look><Name>Downwards arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00AF</WCC><IFont>Symbol</IFont><IDUni>2193</IDUni></Entity>
+<Entity><Look>°</Look><Name>Degree sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00B0</WCC><IFont>Symbol</IFont><IDUni>00B0</IDUni></Entity>
+<Entity><Look>±</Look><Name>Plus minus sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00B1</WCC><IFont>Symbol</IFont><IDUni>00B1</IDUni></Entity>
+<Entity><Look>²</Look><Name>Double prime</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00B2</WCC><IFont>Symbol</IFont><IDUni>2033</IDUni></Entity>
+<Entity><Look>³</Look><Name>greater than equal to</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00B3</WCC><IFont>Symbol</IFont><IDUni>2265</IDUni></Entity>
+<Entity><Look>´</Look><Name>Multiplication sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00B4</WCC><IFont>Symbol</IFont><IDUni>00D7</IDUni></Entity>
+<Entity><Look>µ</Look><Name>Proportional to</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00B5</WCC><IFont>Symbol</IFont><IDUni>221D</IDUni></Entity>
+<Entity><Look>¶</Look><Name>partial differential</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00B6</WCC><IFont>Symbol</IFont><IDUni>2202</IDUni></Entity>
+<Entity><Look>·</Look><Name>Bullet</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00B7</WCC><IFont>Symbol</IFont><IDUni>2022</IDUni></Entity>
+<Entity><Look>¸</Look><Name>Division sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00B8</WCC><IFont>Symbol</IFont><IDUni>00F7</IDUni></Entity>
+<Entity><Look>¹</Look><Name>Not equal to</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00B9</WCC><IFont>Symbol</IFont><IDUni>2260</IDUni></Entity>
+<Entity><Look>º</Look><Name>Identical to</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00BA</WCC><IFont>Symbol</IFont><IDUni>2261</IDUni></Entity>
+<Entity><Look>»</Look><Name>almost equal to</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00BB</WCC><IFont>Symbol</IFont><IDUni>2248</IDUni></Entity>
+<Entity><Look>¼</Look><Name>Horizontal ellipsis</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00BC</WCC><IFont>Symbol</IFont><IDUni>2026</IDUni></Entity>
+<Entity><Look>½</Look><Name></Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00BD</WCC><IFont>Symbol</IFont><IDUni>F8E6</IDUni></Entity>
+<Entity><Look>¾</Look><Name></Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00BE</WCC><IFont>Symbol</IFont><IDUni>F8E7</IDUni></Entity>
+<Entity><Look>¿</Look><Name>Downwards arrow with corner leftwards</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00BF</WCC><IFont>Symbol</IFont><IDUni>21B5</IDUni></Entity>
+<Entity><Look>À</Look><Name>Alef symbol</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00C0</WCC><IFont>Symbol</IFont><IDUni>2135</IDUni></Entity>
+<Entity><Look>Á</Look><Name>Black letter capital I</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00C1</WCC><IFont>Symbol</IFont><IDUni>2111</IDUni></Entity>
+<Entity><Look>Â</Look><Name>Black letter capital R</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00C2</WCC><IFont>Symbol</IFont><IDUni>211C</IDUni></Entity>
+<Entity><Look>Ã</Look><Name>Script capital P</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00C3</WCC><IFont>Symbol</IFont><IDUni>2118</IDUni></Entity>
+<Entity><Look>Ä</Look><Name>Circled times</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00C4</WCC><IFont>Symbol</IFont><IDUni>2297</IDUni></Entity>
+<Entity><Look>Å</Look><Name>Circled plus</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00C5</WCC><IFont>Symbol</IFont><IDUni>2295</IDUni></Entity>
+<Entity><Look>Æ</Look><Name>Empty set</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00C6</WCC><IFont>Symbol</IFont><IDUni>2205</IDUni></Entity>
+<Entity><Look>Ç</Look><Name>Intersection</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00C7</WCC><IFont>Symbol</IFont><IDUni>2229</IDUni></Entity>
+<Entity><Look>È</Look><Name>Union</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00C8</WCC><IFont>Symbol</IFont><IDUni>222A</IDUni></Entity>
+<Entity><Look>É</Look><Name>Superset of</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00C9</WCC><IFont>Symbol</IFont><IDUni>2283</IDUni></Entity>
+<Entity><Look>Ê</Look><Name>Superset of or equal to</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00CA</WCC><IFont>Symbol</IFont><IDUni>2287</IDUni></Entity>
+<Entity><Look>Ë</Look><Name>Not a subset of</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00CB</WCC><IFont>Symbol</IFont><IDUni>2284</IDUni></Entity>
+<Entity><Look>Ì</Look><Name>Subset of</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00CC</WCC><IFont>Symbol</IFont><IDUni>2282</IDUni></Entity>
+<Entity><Look>Í</Look><Name>Subset of or equal to</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00CD</WCC><IFont>Symbol</IFont><IDUni>2286</IDUni></Entity>
+<Entity><Look>Î</Look><Name>Element of</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00CE</WCC><IFont>Symbol</IFont><IDUni>2208</IDUni></Entity>
+<Entity><Look>Ï</Look><Name>Not an element of</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00CF</WCC><IFont>Symbol</IFont><IDUni>2209</IDUni></Entity>
+<Entity><Look>Ð</Look><Name>Angle</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00D0</WCC><IFont>Symbol</IFont><IDUni>2220</IDUni></Entity>
+<Entity><Look>Ñ</Look><Name>Nabla</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00D1</WCC><IFont>Symbol</IFont><IDUni>2207</IDUni></Entity>
+<!-- added on 01-10-2011 -->
+<Entity><Look>®</Look><Name>Registered Sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00AE</WCC><IFont>Symbol</IFont><IDUni>2192</IDUni></Entity>
+<!-- end -->
+<Entity><Look>Ò</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00D2</Emp><WCC>Symbol</WCC><IFont>F6DA</IFont></Entity>
+<Entity><Look>Ó</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00D3</Emp><WCC>Symbol</WCC><IFont>F6D9</IFont></Entity>
+<Entity><Look>Ô</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00D4</Emp><WCC>Symbol</WCC><IFont>F6DB</IFont></Entity>
+<Entity><Look>Õ</Look><Name>N-ary product</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00D5</WCC><IFont>Symbol</IFont><IDUni>220F</IDUni></Entity>
+<Entity><Look>Ö</Look><Name>Square root</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00D6</WCC><IFont>Symbol</IFont><IDUni>221A</IDUni></Entity>
+<Entity><Look>×</Look><Name>Dot operator</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00D7</WCC><IFont>Symbol</IFont><IDUni>22C5</IDUni></Entity>
+<Entity><Look>Ø</Look><Name>Not sign</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00D8</WCC><IFont>Symbol</IFont><IDUni>00AC</IDUni></Entity>
+<Entity><Look>Ù</Look><Name>Logical and</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00D9</WCC><IFont>Symbol</IFont><IDUni>2227</IDUni></Entity>
+<Entity><Look>Ú</Look><Name>Logical or</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00DA</WCC><IFont>Symbol</IFont><IDUni>2228</IDUni></Entity>
+<Entity><Look>Û</Look><Name>Left right double arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00DB</WCC><IFont>Symbol</IFont><IDUni>21D4</IDUni></Entity>
+<Entity><Look>Ü</Look><Name>Leftwards double arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00DC</WCC><IFont>Symbol</IFont><IDUni>21D0</IDUni></Entity>
+<Entity><Look>Ý</Look><Name>Upwards double arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00DD</WCC><IFont>Symbol</IFont><IDUni>21D1</IDUni></Entity>
+<Entity><Look>Þ</Look><Name>Rightwards double arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00DE</WCC><IFont>Symbol</IFont><IDUni>21D2</IDUni></Entity>
+<Entity><Look>ß</Look><Name>Downwards double arrow</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00DF</WCC><IFont>Symbol</IFont><IDUni>21D3</IDUni></Entity>
+<Entity><Look>à</Look><Name>Lozenge</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00E0</WCC><IFont>Symbol</IFont><IDUni>25CA</IDUni></Entity>
+<Entity><Look>á</Look><Name>Left pointing angle bracket</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00E1</WCC><IFont>Symbol</IFont><IDUni>2329</IDUni></Entity>
+<Entity><Look>â</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00E2</Emp><WCC>Symbol</WCC><IFont>F8E8</IFont></Entity>
+<Entity><Look>ã</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00E3</Emp><WCC>Symbol</WCC><IFont>F8E9</IFont></Entity>
+<Entity><Look>ä</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00E4</Emp><WCC>Symbol</WCC><IFont>F8EA</IFont></Entity>
+<Entity><Look>å</Look><Name>N-Ary summation</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00E5</WCC><IFont>Symbol</IFont><IDUni>2211</IDUni></Entity>
+<Entity><Look>æ</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00E6</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>|</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00E7</Emp><WCC>Symbol</WCC><IFont>Symbol</IFont><IDUni>F8EC</IDUni></Entity>
+<Entity><Look>è</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00E8</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>é</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00E9</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>ê</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00EA</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>ë</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00EB</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>ì</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00EC</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>í</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00ED</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>î</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00EE</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>ï</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00EF</Emp><WCC>Symbol</WCC><IFont>Wingdings</IFont><IDUni>00EF</IDUni></Entity>
+<Entity><Look>ñ</Look><Name>Right pointing angle bracket</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00F1</WCC><IFont>Symbol</IFont><IDUni>232A</IDUni></Entity>
+<Entity><Look>ò</Look><Name>Intergral</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00F2</WCC><IFont>Symbol</IFont><IDUni>222B</IDUni></Entity>
+<Entity><Look>ó</Look><Name>Top half integral</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00F3</WCC><IFont>Symbol</IFont><IDUni>2320</IDUni></Entity>
+<Entity><Look>ô</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00F4</Emp><WCC>Symbol</WCC><IFont>F8F5</IFont></Entity>
+<Entity><Look>õ</Look><Name>Bottom half integral</Name><WFont>Symbol</WFont><Emp>Normal</Emp><WCC>00F5</WCC><IFont>Symbol</IFont><IDUni>2321</IDUni></Entity>
+<Entity><Look>ö</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00F6</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>÷</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00F7</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>ø</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00F8</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>ù</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00F9</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>ú</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00FA</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>û</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00FB</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>ü</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00FC</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>ý</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00FD</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+<Entity><Look>þ</Look><Name>Symbol</Name><WFont>Normal</WFont><Emp>00FE</Emp><WCC>Symbol</WCC><IFont></IFont></Entity>
+
+
+<!-- ############ Wingdings Entities ############ -->
+<Entity><Look></Look><Name>Up Arrow</Name><WFont>Wingdings</WFont><Emp>Normal</Emp><WCC>00E1</WCC><IFont>Wingdings</IFont><IDUni>F0E1</IDUni></Entity>
+<Entity><Look></Look><Name>Check Symbol</Name><WFont>Wingdings</WFont><Emp>Normal</Emp><WCC>00FC</WCC><IFont>Wingdings</IFont><IDUni>F0FC</IDUni></Entity>
+<Entity><Look></Look><Name>Right Arrow</Name><WFont>Wingdings</WFont><Emp>Normal</Emp><WCC>00E0</WCC><IFont>Wingdings</IFont><IDUni>F0E0</IDUni></Entity>
+<Entity><Look></Look><Name>Left Arrow</Name><WFont>Wingdings</WFont><Emp>Normal</Emp><WCC>0091</WCC><IFont>Wingdings</IFont><IDUni>0091</IDUni></Entity>
+<Entity><Look></Look><Name>Bold Right Arrow</Name><WFont>Wingdings</WFont><Emp>Normal</Emp><WCC>00E8</WCC><IFont>Wingdings</IFont><IDUni>F0E8</IDUni></Entity>
+<Entity><Look></Look><Name>Bold Right Down Arrow</Name><WFont>Wingdings</WFont><Emp>Normal</Emp><WCC>00E2</WCC><IFont>Wingdings</IFont><IDUni>F0E2</IDUni></Entity>
+<Entity><Look></Look><Name>Bold Right UP Arrow</Name><WFont>Wingdings</WFont><Emp>Normal</Emp><WCC>00E6</WCC><IFont>Wingdings</IFont><IDUni>F0E6</IDUni></Entity>
+<Entity><Look>ï</Look><Name>Wingdings</Name><WFont>Normal</WFont><Emp>00EF</Emp><WCC>Symbol</WCC><IFont>Wingdings</IFont><IDUni>00EF</IDUni></Entity>
+<Entity><Look></Look><Name>Circle1</Name><WFont>Wingdings2</WFont><Emp>Normal</Emp><WCC>006A</WCC><IFont>Wingdings2</IFont><IDUni>F06A</IDUni></Entity>
+<Entity><Look></Look><Name>Circle2</Name><WFont>Wingdings2</WFont><Emp>Normal</Emp><WCC>006B</WCC><IFont>Wingdings2</IFont><IDUni>F06B</IDUni></Entity>
+<Entity><Look></Look><Name>Circle3</Name><WFont>Wingdings2</WFont><Emp>Normal</Emp><WCC>006C</WCC><IFont>Wingdings2</IFont><IDUni>F06C</IDUni></Entity>
+<Entity><Look></Look><Name>Circle4</Name><WFont>Wingdings2</WFont><Emp>Normal</Emp><WCC>006D</WCC><IFont>Wingdings2</IFont><IDUni>F06D</IDUni></Entity>
+<Entity><Look></Look><Name>Circle5</Name><WFont>Wingdings2</WFont><Emp>Normal</Emp><WCC>006E</WCC><IFont>Wingdings2</IFont><IDUni>F06E</IDUni></Entity>
+<Entity><Look></Look><Name>Circle6</Name><WFont>Wingdings2</WFont><Emp>Normal</Emp><WCC>006F</WCC><IFont>Wingdings2</IFont><IDUni>F06F</IDUni></Entity>
+<Entity><Look></Look><Name>Circle7</Name><WFont>Wingdings2</WFont><Emp>Normal</Emp><WCC>0070</WCC><IFont>Wingdings2</IFont><IDUni>F070</IDUni></Entity>
+<Entity><Look></Look><Name>Circle8</Name><WFont>Wingdings2</WFont><Emp>Normal</Emp><WCC>0071</WCC><IFont>Wingdings2</IFont><IDUni>F071</IDUni></Entity>
+<Entity><Look></Look><Name>Circle9</Name><WFont>Wingdings2</WFont><Emp>Normal</Emp><WCC>0072</WCC><IFont>Wingdings2</IFont><IDUni>F072</IDUni></Entity>
+<Entity><Look></Look><Name>rightarrow</Name><WFont>Wingdings3</WFont><Emp>Normal</Emp><WCC>00E0</WCC><IFont>Wingdings3</IFont><IDUni>F0A8</IDUni></Entity>
+<Entity><Look></Look><Name>Hand Symbol</Name><WFont>Wingdings</WFont><Emp>Normal</Emp><WCC>0040</WCC><IFont>Wingdings</IFont><IDUni>F040</IDUni></Entity>
+<!-- added by prabhat date 26-09-2011 -->
+<Entity><Look></Look><Name>Star Symbol</Name><WFont>Wingdings</WFont><Emp>Normal</Emp><WCC>006C</WCC><IFont>Wingdings</IFont><IDUni>F06C</IDUni></Entity>
+<!-- ################### Arial Unicode MS ENTITIES ################### -->
+<Entity><Look></Look><Name>Hand Symbol</Name><WFont>ArialUnicodeMS</WFont><Emp>Normal</Emp><WCC>261E</WCC><IFont>ArialUnicodeMS</IFont><IDUni>261E</IDUni></Entity>
+<Entity><Look></Look><Name>circlem</Name><WFont>ArialUnicodeMS</WFont><Emp>Normal</Emp><WCC>24DC</WCC><IFont>ArialUnicodeMS</IFont><IDUni>24DC</IDUni></Entity>
+<Entity><Look></Look><Name>circlen</Name><WFont>ArialUnicodeMS</WFont><Emp>Normal</Emp><WCC>24DD</WCC><IFont>ArialUnicodeMS</IFont><IDUni>24DD</IDUni></Entity>
+<Entity><Look></Look><Name>circlex</Name><WFont>ArialUnicodeMS</WFont><Emp>Normal</Emp><WCC>24E7</WCC><IFont>ArialUnicodeMS</IFont><IDUni>24E7</IDUni></Entity>
+<Entity><Look></Look><Name>circley</Name><WFont>ArialUnicodeMS</WFont><Emp>Normal</Emp><WCC>24E8</WCC><IFont>ArialUnicodeMS</IFont><IDUni>24E8</IDUni></Entity>
+<Entity><Look></Look><Name>Heavy Rightwards Arrow</Name><WFont>ArialUnicodeMS</WFont><Emp>Normal</Emp><WCC>2799</WCC><IFont>ArialUnicodeMS</IFont><IDUni>20D7</IDUni></Entity>
+<Entity><Look></Look><Name>Down Trangle</Name><WFont>ArialUnicodeMS</WFont><Emp>Normal</Emp><WCC>25BC</WCC><IFont>ArialUnicodeMS</IFont><IDUni>25BC</IDUni></Entity>
+<Entity><Look></Look><Name>Open R</Name><WFont>ArialUnicodeMS</WFont><Emp>Normal</Emp><WCC>211D</WCC><IFont>ArialUnicodeMS</IFont><IDUni>211D</IDUni></Entity>
+<Entity><Look></Look><Name>Rightwards white Arrow</Name><WFont>ArialUnicodeMS</WFont><Emp>Normal</Emp><WCC>21E8</WCC><IFont>ArialUnicodeMS</IFont><IDUni>21E8</IDUni></Entity>
+<Entity><Look></Look><Name>CircleA</Name><WFont>ArialUnicodeMS</WFont><Emp>Normal</Emp><WCC>24B6</WCC><IFont>ArialUnicodeMS</IFont><IDUni>24B6</IDUni></Entity>
+<!-- ################### ITALIC ENTITIES ################### -->
+<Entity><Look>!</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0020</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>!</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0021</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>"</Look><Name>s</Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0022</WCC><IFont>s</IFont><IDuni>s</IDuni></Entity>
+<Entity><Look>#</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0023</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>$</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0024</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>%</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0025</WCC><IFont>Symbol</IFont><IDUni>0025</IDUni></Entity>
+<Entity><Look>&amp;</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0026</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>'</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0027</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>(</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0028</WCC><IFont>MathPack4</IFont><IDuni>E047</IDuni></Entity>
+<Entity><Look>)</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0029</WCC><IFont>MathPack4</IFont><IDuni>E048</IDuni></Entity>
+<Entity><Look>*</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>002A</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>+</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>002B</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>,</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>002C</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>-</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>002D</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>&lt;</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>003C</WCC><IFont>MathPack4</IFont><IDuni>E05C</IDuni></Entity>
+<Entity><Look>=</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>003D</WCC><IFont>Symbol</IFont><IDUni>003D</IDUni></Entity>
+<Entity><Look>&gt;</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>003E</WCC><IFont>MathPack4</IFont><IDuni>E05B</IDuni></Entity>
+<Entity><Look>?</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>003F</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>@</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0040</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>A</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0041</WCC><IFont>MathPackTen</IFont><IDuni>E041</IDuni></Entity>
+<Entity><Look>B</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0042</WCC><IFont>MathPackTen</IFont><IDuni>E042</IDuni></Entity>
+<Entity><Look>C</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0043</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>D</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0044</WCC><IFont>MathPackTen</IFont><IDuni>E044</IDuni></Entity>
+<Entity><Look>E</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0045</WCC><IFont>MathPackTen</IFont><IDuni>E045</IDuni></Entity>
+<Entity><Look>F</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0046</WCC><IFont>MathPackTen</IFont><IDuni>E027</IDuni></Entity>
+<Entity><Look>G</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0047</WCC><IFont>MathPackTen</IFont><IDuni>E043</IDuni></Entity>
+<Entity><Look>H</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0048</WCC><IFont>MathPackTen</IFont><IDuni>E047</IDuni></Entity>
+<Entity><Look>I</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0049</WCC><IFont>MathPackTen</IFont><IDuni>E049</IDuni></Entity>
+<Entity><Look>J</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>004A</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>K</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>004B</WCC><IFont>MathPackTen</IFont><IDuni>E04A</IDuni></Entity>
+<Entity><Look>L</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>004C</WCC><IFont>MathPackTen</IFont><IDuni>E04B</IDuni></Entity>
+<Entity><Look>M</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>004D</WCC><IFont>MathPackTen</IFont><IDuni>E04C</IDuni></Entity>
+<Entity><Look>N</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>004E</WCC><IFont>MathPackTen</IFont><IDuni>E04D</IDuni></Entity>
+<Entity><Look>O</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>004F</WCC><IFont>MathPackTen</IFont><IDuni>E04F</IDuni></Entity>
+<Entity><Look>P</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0050</WCC><IFont>MathPackTen</IFont><IDuni>E050</IDuni></Entity>
+<Entity><Look>Q</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0051</WCC><IFont>MathPackTen</IFont><IDuni>E048</IDuni></Entity>
+<Entity><Look>R</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0052</WCC><IFont>MathPackTen</IFont><IDuni>E051</IDuni></Entity>
+<Entity><Look>S</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0053</WCC><IFont>MathPackTen</IFont><IDuni>E026</IDuni></Entity>
+<Entity><Look>T</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0054</WCC><IFont>MathPackTen</IFont><IDuni>E053</IDuni></Entity>
+<Entity><Look>U</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0055</WCC><IFont>MathPackTen</IFont><IDuni>E054</IDuni></Entity>
+<Entity><Look>V</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0056</WCC><IFont>MathPackTen</IFont><IDuni>E031</IDuni></Entity>
+<Entity><Look>W</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0057</WCC><IFont>MathPackTen</IFont><IDuni>E058</IDuni></Entity>
+<Entity><Look>X</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0058</WCC><IFont>MathPackTen</IFont><IDuni>E04E</IDuni></Entity>
+<Entity><Look>Y</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0059</WCC><IFont>MathPackTen</IFont><IDuni>E057</IDuni></Entity>
+<Entity><Look>Z</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>005A</WCC><IFont>MathPackTen</IFont><IDuni>E046</IDuni></Entity>
+<Entity><Look>[</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>005B</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>\</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>005C</WCC><IFont>MathPack4</IFont><IDuni>E04B</IDuni></Entity>
+<Entity><Look>]</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>005D</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>^</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>005E</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>_</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>005F</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>`</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0060</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look></Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0061</WCC><IFont>MathPack4</IFont><IDuni>E061</IDuni></Entity>
+<Entity><Look>b</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0062</WCC><IFont>MathPack4</IFont><IDuni>E062</IDuni></Entity>
+<Entity><Look>c</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0063</WCC><IFont>MathPack4</IFont><IDuni>E073</IDuni></Entity>
+<Entity><Look>d</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0064</WCC><IFont>MathPack4</IFont><IDuni>E064</IDuni></Entity>
+<Entity><Look>e</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0065</WCC><IFont>MathPack4</IFont><IDuni>E065</IDuni></Entity>
+<Entity><Look>f</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0066</WCC><IFont>MathPackTen</IFont><IDuni>E02F</IDuni></Entity>
+<Entity><Look>g</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0067</WCC><IFont>MathPackTen</IFont><IDuni>E063</IDuni></Entity>
+<Entity><Look>h</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0068</WCC><IFont>MathPackTen</IFont><IDuni>E067</IDuni></Entity>
+<Entity><Look>i</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0069</WCC><IFont>MathPackTen</IFont><IDuni>E069</IDuni></Entity>
+<Entity><Look>j</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>006A</WCC><IFont>MathPackTen</IFont><IDuni>E075</IDuni></Entity>
+<Entity><Look>k</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>006B</WCC><IFont>MathPackTen</IFont><IDuni>E06A</IDuni></Entity>
+<Entity><Look>l</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>006C</WCC><IFont>MathPackTen</IFont><IDuni>E06B</IDuni></Entity>
+<Entity><Look>m</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>006D</WCC><IFont>MathPackTen</IFont><IDuni>E06C</IDuni></Entity>
+<Entity><Look>n</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>006E</WCC><IFont>MathPackTen</IFont><IDuni>E06D</IDuni></Entity>
+<Entity><Look>o</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>006F</WCC><IFont>MathPackTen</IFont><IDuni>E06F</IDuni></Entity>
+<Entity><Look>p</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0070</WCC><IFont>MathPackTen</IFont><IDuni>E070</IDuni></Entity>
+<Entity><Look>q</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0071</WCC><IFont>MathPackTen</IFont><IDuni>E068</IDuni></Entity>
+<Entity><Look>r</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0072</WCC><IFont>MathPackTen</IFont><IDuni>E071</IDuni></Entity>
+<Entity><Look>s</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0073</WCC><IFont>MathPackTen</IFont><IDuni>E072</IDuni></Entity>
+<Entity><Look>t</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0074</WCC><IFont>MathPackTen</IFont><IDuni>E073</IDuni></Entity>
+<Entity><Look>u</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0075</WCC><IFont>MathPackTen</IFont><IDuni>E074</IDuni></Entity>
+<Entity><Look>v</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0076</WCC><IFont>MathPackTen</IFont><IDuni>E02D</IDuni></Entity>
+<Entity><Look>w</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0077</WCC><IFont>MathPackTen</IFont><IDuni>E078</IDuni></Entity>
+<Entity><Look>x</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0078</WCC><IFont>MathPackTen</IFont><IDuni>E06E</IDuni></Entity>
+<!-- Changed the psi uppercase to lower case on 30/09/2010 -->
+<Entity><Look>y</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>0079</WCC><IFont>MathPackTen</IFont><IDuni>E077</IDuni></Entity>
+<Entity><Look>z</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>007A</WCC><IFont>MathPackTen</IFont><IDuni>E066</IDuni></Entity>
+<Entity><Look>{</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>007B</WCC><IFont>MathPack4</IFont><IDuni>E04D</IDuni></Entity>
+<Entity><Look>|</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>007C</WCC><IFont>MathPack4</IFont><IDuni>E044</IDuni></Entity>
+<Entity><Look>}</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>007D</WCC><IFont>MathPack4</IFont><IDuni>E04E</IDuni></Entity>
+<Entity><Look>~</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>007E</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¡</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00A1</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¢</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00A2</WCC><IFont>MathPack4</IFont><IDuni>E040</IDuni></Entity>
+<!-- Updated for le -->
+<Entity><Look>£</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00A3</WCC><IFont>Symbol</IFont><IDUni>2264</IDUni></Entity>
+<Entity><Look>¤</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00A4</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¥</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00A5</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¦</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00A6</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>§</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00A7</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¨</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00A8</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>©</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00A9</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ª</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00AA</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>«</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00AB</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¬</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00AC</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>­</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00AD</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>®</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00AE</WCC><IFont>Symbol</IFont><IDUni>2192</IDUni></Entity>
+<Entity><Look>¯</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00AF</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>°</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00B0</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>±</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00B1</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>²</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00B2</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>³</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00B3</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>´</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00B4</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>µ</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00B5</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¶</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00B6</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>·</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00B7</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¸</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00B8</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¹</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00B9</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>º</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00BA</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>»</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00BB</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¼</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00BC</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>½</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00BD</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¾</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00BE</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>¿</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00BF</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>À</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00C0</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Á</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00C1</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Â</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00C2</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ã</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00C3</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ä</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00C4</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Å</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00C5</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Æ</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00C6</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ç</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00C7</WCC><IFont>MathPack4</IFont><IDuni>E057</IDuni></Entity>
+<Entity><Look>È</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00C8</WCC><IFont>MathPack4</IFont><IDuni>E058</IDuni></Entity>
+<Entity><Look>É</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00C9</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ê</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00CA</WCC><IFont>MathPack4</IFont><IDuni>E056</IDuni></Entity>
+<Entity><Look>Ë</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00CB</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ì</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00CC</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Í</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00CD</WCC><IFont>MathPack4</IFont><IDuni>E055</IDuni></Entity>
+<Entity><Look>Î</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00CE</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ï</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00CF</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ð</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00D0</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ñ</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00D1</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ò</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00D2</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ó</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00D3</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ô</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00D4</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Õ</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00D5</WCC><IFont>MathPackTen</IFont><IDuni>E050</IDuni></Entity>
+<Entity><Look>Ö</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00D6</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>×</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00D7</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ø</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00D8</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ù</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00D9</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ú</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00DA</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Û</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00DB</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ü</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00DC</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Ý</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00DD</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>Þ</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00DE</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ß</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00DF</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>à</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00E0</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>á</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00E1</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>â</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00E2</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ã</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00E3</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ä</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00E4</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>å</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00E5</WCC><IFont>MathPackTen</IFont><IDuni>E02B</IDuni></Entity>
+<Entity><Look>æ</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00E6</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ç</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00E7</WCC><IFont>Symbol</IFont><IDUni>F8EC</IDUni></Entity>
+<Entity><Look>è</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00E8</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>é</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00E9</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ê</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00EA</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ë</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00EB</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ì</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00EC</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>í</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00ED</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>î</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00EE</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ï</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00EF</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ñ</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00F1</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ò</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00F2</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ó</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00F3</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ô</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00F4</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>õ</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00F5</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ö</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00F6</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>÷</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00F7</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ø</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00F8</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ù</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00F9</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ú</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00FA</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>û</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00FB</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ü</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00FC</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>ý</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00FD</WCC><IFont></IFont><IDuni></IDuni></Entity>
+<Entity><Look>þ</Look><Name></Name><WFont>Symbol</WFont><Emp>Italic</Emp><WCC>00FE</WCC><IFont></IFont><IDuni></IDuni></Entity>
+
+<!-- ################### BOLD ENTITIES ###################-->
+<Entity><Look>!</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0020</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>!</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0021</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>"</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0022</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>#</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0023</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>$</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0024</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>%</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0025</WCC><IFont>Symbol</IFont><IDUni>0025</IDUni></Entity>
+<Entity><Look>&amp;</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0026</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>'</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0027</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>(</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0028</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>)</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0029</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>*</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>002A</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>+</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>002B</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>,</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>002C</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>-</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>002D</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>&lt;</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>003C</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>=</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>003D</WCC><IFont></IFont><IDUni>003D</IDUni></Entity>
+<Entity><Look>&gt;</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>003E</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>?</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>003F</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>@</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0040</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>A</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0041</WCC><IFont>MathPack13</IFont><IDUni>E041</IDUni></Entity>
+<Entity><Look>B</Look><Name>ss</Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0042</WCC><IFont>MathPack13</IFont><IDUni>E042</IDUni></Entity>
+<Entity><Look>C</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0043</WCC><IFont>MathPack13</IFont><IDUni>E056</IDUni></Entity>
+<Entity><Look>D</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0044</WCC><IFont>MathPack13</IFont><IDUni>E044</IDUni></Entity>
+<Entity><Look>E</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0045</WCC><IFont>MathPack13</IFont><IDUni>E045</IDUni></Entity>
+<Entity><Look>F</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0046</WCC><IFont>MathPack13</IFont><IDUni>E055</IDUni></Entity>
+<Entity><Look>G</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0047</WCC><IFont>MathPack13</IFont><IDUni>E043</IDUni></Entity>
+<Entity><Look>H</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0048</WCC><IFont>MathPack13</IFont><IDUni>E047</IDUni></Entity>
+<Entity><Look>I</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0049</WCC><IFont>MathPack13</IFont><IDUni>E049</IDUni></Entity>
+<Entity><Look>J</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>004A</WCC><IFont>MathPack13</IFont><IDUni>E030</IDUni></Entity>
+<Entity><Look>K</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>004B</WCC><IFont>MathPack13</IFont><IDUni>E04A</IDUni></Entity>
+<Entity><Look>L</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>004C</WCC><IFont>MathPack13</IFont><IDUni>E04B</IDUni></Entity>
+<Entity><Look>M</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>004D</WCC><IFont>MathPack13</IFont><IDUni>E04C</IDUni></Entity>
+<Entity><Look>N</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>004E</WCC><IFont>MathPack13</IFont><IDUni>E04D</IDUni></Entity>
+<Entity><Look>O</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>004F</WCC><IFont>MathPack13</IFont><IDUni>E04F</IDUni></Entity>
+<Entity><Look>P</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0050</WCC><IFont>MathPack13</IFont><IDUni>E050</IDUni></Entity>
+<Entity><Look>Q</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0051</WCC><IFont>MathPack13</IFont><IDUni>E048</IDUni></Entity>
+<Entity><Look>R</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0052</WCC><IFont>MathPack13</IFont><IDUni>E051</IDUni></Entity>
+<Entity><Look>S</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0053</WCC><IFont>MathPack13</IFont><IDUni>E052</IDUni></Entity>
+<Entity><Look>T</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0054</WCC><IFont>MathPack13</IFont><IDUni>E053</IDUni></Entity>
+<Entity><Look>U</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0055</WCC><IFont>MathPack13</IFont><IDUni>E054</IDUni></Entity>
+<Entity><Look>V</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0056</WCC><IFont>MathPack13</IFont><IDUni>E031</IDUni></Entity>
+<Entity><Look>W</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0057</WCC><IFont>MathPack13</IFont><IDUni>E058</IDUni></Entity>
+<Entity><Look>X</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0058</WCC><IFont>MathPack13</IFont><IDUni>E04E</IDUni></Entity>
+<Entity><Look>Y</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0059</WCC><IFont>MathPack13</IFont><IDUni>E057</IDUni></Entity>
+<Entity><Look>Z</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>005A</WCC><IFont>MathPack13</IFont><IDUni>E046</IDUni></Entity>
+<Entity><Look>[</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>005B</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>\</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>005C</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>]</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>005D</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>^</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>005E</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>_</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>005F</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>`</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0060</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>a</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0061</WCC><IFont>MathPack13</IFont><IDUni>E061</IDUni></Entity>
+<Entity><Look>b</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0062</WCC><IFont>MathPack13</IFont><IDUni>E062</IDUni></Entity>
+<Entity><Look>c</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0063</WCC><IFont>MathPack13</IFont><IDUni>E02C</IDUni></Entity>
+<Entity><Look>d</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0064</WCC><IFont>MathPack13</IFont><IDUni>E064</IDUni></Entity>
+<Entity><Look>e</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0065</WCC><IFont>MathPack13</IFont><IDUni>E065</IDUni></Entity>
+<Entity><Look>f</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0066</WCC><IFont>MathPack13</IFont><IDUni>E02F</IDUni></Entity>
+<Entity><Look>g</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0067</WCC><IFont>MathPack13</IFont><IDUni>E063</IDUni></Entity>
+<Entity><Look>h</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0068</WCC><IFont>MathPack13</IFont><IDUni>E067</IDUni></Entity>
+<Entity><Look>i</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0069</WCC><IFont>MathPack13</IFont><IDUni>E069</IDUni></Entity>
+<Entity><Look>j</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>006A</WCC><IFont>MathPack13</IFont><IDUni>E075</IDUni></Entity>
+<Entity><Look>k</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>006B</WCC><IFont>MathPack13</IFont><IDUni>E06A</IDUni></Entity>
+<Entity><Look>l</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>006C</WCC><IFont>MathPack13</IFont><IDUni>E06B</IDUni></Entity>
+<Entity><Look>m</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>006D</WCC><IFont>MathPack13</IFont><IDUni>E06C</IDUni></Entity>
+<Entity><Look>n</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>006E</WCC><IFont>MathPack13</IFont><IDUni>E06D</IDUni></Entity>
+<Entity><Look>o</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>006F</WCC><IFont>MathPack13</IFont><IDUni>E06F</IDUni></Entity>
+<Entity><Look>p</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0070</WCC><IFont>MathPack13</IFont><IDUni>E070</IDUni></Entity>
+<Entity><Look>q</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0071</WCC><IFont>MathPack13</IFont><IDUni>E068</IDUni></Entity>
+<Entity><Look>r</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0072</WCC><IFont>MathPack13</IFont><IDUni>E071</IDUni></Entity>
+<Entity><Look>s</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0073</WCC><IFont>MathPack13</IFont><IDUni>E072</IDUni></Entity>
+<Entity><Look>t</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0074</WCC><IFont>MathPack13</IFont><IDUni>E073</IDUni></Entity>
+<Entity><Look>u</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0075</WCC><IFont>MathPack13</IFont><IDUni>E074</IDUni></Entity>
+<Entity><Look>v</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0076</WCC><IFont>MathPack13</IFont><IDUni>E02D</IDUni></Entity>
+<Entity><Look>w</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0077</WCC><IFont>MathPack13</IFont><IDUni>E078</IDUni></Entity>
+<Entity><Look>x</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0078</WCC><IFont>MathPack13</IFont><IDUni>E06E</IDUni></Entity>
+<Entity><Look>y</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>0079</WCC><IFont>MathPack13</IFont><IDUni>E077</IDUni></Entity>
+<Entity><Look>z</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>007A</WCC><IFont>MathPack13</IFont><IDUni>E066</IDUni></Entity>
+<Entity><Look>{</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>007B</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>|</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>007C</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>}</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>007D</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>~</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>007E</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¡</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00A1</WCC><IFont>MathPack13</IFont><IDUni>E021</IDUni></Entity>
+<Entity><Look>¢</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00A2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<!-- Updated for le-->
+<Entity><Look>£</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00A3</WCC><IFont>Symbol</IFont><IDUni>2264</IDUni></Entity>
+<Entity><Look>¤</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00A4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¥</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00A5</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¦</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00A6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>§</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00A7</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¨</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00A8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>©</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00A9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ª</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00AA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>«</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00AB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¬</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00AC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>­</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00AD</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>®</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00AE</WCC><IFont>Symbol</IFont><IDUni>2192</IDUni></Entity>
+<Entity><Look>¯</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00AF</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>°</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00B0</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>±</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00B1</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>²</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00B2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>³</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00B3</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>´</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00B4</WCC><IFont>Sybmol</IFont><IDUni>00B4</IDUni></Entity>
+<Entity><Look>µ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00B5</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¶</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00B6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>·</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00B7</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¸</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00B8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¹</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00B9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>º</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00BA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>»</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00BB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¼</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00BC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>½</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00BD</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¾</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00BE</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¿</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00BF</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>À</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00C0</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Á</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00C1</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Â</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00C2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ã</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00C3</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ä</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00C4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Å</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00C5</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Æ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00C6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ç</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00C7</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>È</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00C8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>É</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00C9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ê</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00CA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ë</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00CB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ì</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00CC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Í</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00CD</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Î</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00CE</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ï</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00CF</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ð</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00D0</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ñ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00D1</WCC><IFont>MathPack13</IFont><IDUni>E024</IDUni></Entity>
+<Entity><Look>Ò</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00D2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ó</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00D3</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ô</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00D4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Õ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00D5</WCC><IFont>MathPack13</IFont><IDUni>E028</IDUni></Entity>
+<Entity><Look>Ö</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00D6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>×</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00D7</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ø</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00D8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ù</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00D9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ú</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00DA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Û</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00DB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ü</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00DC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ý</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00DD</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Þ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00DE</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ß</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00DF</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>à</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00E0</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>á</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00E1</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>â</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00E2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ã</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00E3</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ä</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00E4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>å</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00E5</WCC><IFont>MathPack13</IFont><IDUni>E029</IDUni></Entity>
+<Entity><Look>æ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00E6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ç</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00E7</WCC><IFont>Symbol</IFont><IDUni>F8EC</IDUni></Entity>
+<Entity><Look>è</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00E8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>é</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00E9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ê</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00EA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ë</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00EB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ì</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00EC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>í</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00ED</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>î</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00EE</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ï</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00EF</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ñ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00F1</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ò</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00F2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ó</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00F3</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ô</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00F4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>õ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00F5</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ö</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00F6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>÷</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00F7</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ø</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00F8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ù</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00F9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ú</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00FA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>û</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00FB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ü</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00FC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ý</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00FD</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>þ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>00FE</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>■</Look><Name></Name><WFont>Symbol</WFont><Emp>Bold</Emp><WCC>25A0</WCC><IFont></IFont><IDUni>25A0</IDUni></Entity>
+    
+<!-- ################### Blik Button ################### -->
+<Entity><Look>#</Look><Name>BlikButton</Name><WFont>BlikButton</WFont><Emp>Normal</Emp><WCC>00CA</WCC><IFont>BlikButtons</IFont><IDUni>00CA</IDUni></Entity>
+
+
+<!-- ################### BOLD ITALIC ENTITIES ################### -->
+<Entity><Look>!</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0020</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>!</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0021</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>"</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0022</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>#</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0023</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>$</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0024</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>%</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0025</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>&amp;</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0026</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>'</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0027</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>(</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0028</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>)</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0029</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>*</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>002A</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>+</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>002B</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>,</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>002C</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>-</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>002D</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>&lt;</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>003C</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>=</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>003D</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>&gt;</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>003E</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>?</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>003F</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>@</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0040</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>A</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0041</WCC><IFont>Math Pack Twelve</IFont><IDUni>E041</IDUni></Entity>
+<Entity><Look>B</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0042</WCC><IFont>Math Pack Twelve</IFont><IDUni>E042</IDUni></Entity>
+<Entity><Look>C</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0043</WCC><IFont>Math Pack Twelve</IFont><IDUni>E056</IDUni></Entity>
+<Entity><Look>D</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0044</WCC><IFont>Math Pack Twelve</IFont><IDUni>E044</IDUni></Entity>
+<Entity><Look>E</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0045</WCC><IFont>Math Pack Twelve</IFont><IDUni>E045</IDUni></Entity>
+<Entity><Look>F</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0046</WCC><IFont>Math Pack Twelve</IFont><IDUni>E055</IDUni></Entity>
+<Entity><Look>G</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0047</WCC><IFont>Math Pack Twelve</IFont><IDUni>E043</IDUni></Entity>
+<Entity><Look>H</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0048</WCC><IFont>Math Pack Twelve</IFont><IDUni>E047</IDUni></Entity>
+<Entity><Look>I</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0049</WCC><IFont>Math Pack Twelve</IFont><IDUni>E049</IDUni></Entity>
+<Entity><Look>J</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>004A</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>K</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>004B</WCC><IFont>Math Pack Twelve</IFont><IDUni>E04A</IDUni></Entity>
+<Entity><Look>L</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>004C</WCC><IFont>Math Pack Twelve</IFont><IDUni>E04B</IDUni></Entity>
+<Entity><Look>M</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>004D</WCC><IFont>Math Pack Twelve</IFont><IDUni>E04C</IDUni></Entity>
+<Entity><Look>N</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>004E</WCC><IFont>Math Pack Twelve</IFont><IDUni>E04D</IDUni></Entity>
+<Entity><Look>O</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>004F</WCC><IFont>Math Pack Twelve</IFont><IDUni>E04F</IDUni></Entity>
+<Entity><Look>P</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0050</WCC><IFont>Math Pack Twelve</IFont><IDUni>E050</IDUni></Entity>
+<Entity><Look>Q</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0051</WCC><IFont>Math Pack Twelve</IFont><IDUni>E048</IDUni></Entity>
+<Entity><Look>R</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0052</WCC><IFont>Math Pack Twelve</IFont><IDUni>E051</IDUni></Entity>
+<Entity><Look>S</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0053</WCC><IFont>Math Pack Twelve</IFont><IDUni>E052</IDUni></Entity>
+<Entity><Look>T</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0054</WCC><IFont>Math Pack Twelve</IFont><IDUni>E053</IDUni></Entity>
+<Entity><Look>U</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0055</WCC><IFont>Math Pack Twelve</IFont><IDUni>E054</IDUni></Entity>
+<Entity><Look>V</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0056</WCC><IFont>Math Pack Twelve</IFont><IDUni>E031</IDUni></Entity>
+<Entity><Look>W</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0057</WCC><IFont>Math Pack Twelve</IFont><IDUni>E058</IDUni></Entity>
+<Entity><Look>X</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0058</WCC><IFont>Math Pack Twelve</IFont><IDUni>E04E</IDUni></Entity>
+<Entity><Look>Y</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0059</WCC><IFont>Math Pack Twelve</IFont><IDUni>E057</IDUni></Entity>
+<Entity><Look>Z</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>005A</WCC><IFont>Math Pack Twelve</IFont><IDUni>E046</IDUni></Entity>
+<Entity><Look>[</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>005B</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>\</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>005C</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>]</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>005D</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>^</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>005E</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>_</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>005F</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>`</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0060</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>?</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0061</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>b</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0062</WCC><IFont>Math Pack Twelve</IFont><IDUni>E062</IDUni></Entity>
+<Entity><Look>c</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0063</WCC><IFont>Math Pack Twelve</IFont><IDUni>E076</IDUni></Entity>
+<Entity><Look>d</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0064</WCC><IFont>Math Pack Twelve</IFont><IDUni>E064</IDUni></Entity>
+<Entity><Look>e</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0065</WCC><IFont>Math Pack Twelve</IFont><IDUni>E065</IDUni></Entity>
+<Entity><Look>f</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0066</WCC><IFont>Math Pack Twelve</IFont><IDUni>E02F</IDUni></Entity>
+<Entity><Look>g</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0067</WCC><IFont>Math Pack Twelve</IFont><IDUni>E063</IDUni></Entity>
+<Entity><Look>h</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0068</WCC><IFont>Math Pack Twelve</IFont><IDUni>E067</IDUni></Entity>
+<Entity><Look>i</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0069</WCC><IFont>Math Pack Twelve</IFont><IDUni>E069</IDUni></Entity>
+<Entity><Look>j</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>006A</WCC><IFont>Math Pack Twelve</IFont><IDUni>E075</IDUni></Entity>
+<Entity><Look>k</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>006B</WCC><IFont>Math Pack Twelve</IFont><IDUni>E06A</IDUni></Entity>
+<Entity><Look>l</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>006C</WCC><IFont>Math Pack Twelve</IFont><IDUni>E06B</IDUni></Entity>
+<Entity><Look>m</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>006D</WCC><IFont>Math Pack Twelve</IFont><IDUni>E06C</IDUni></Entity>
+<Entity><Look>n</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>006E</WCC><IFont>Math Pack Twelve</IFont><IDUni>E06D</IDUni></Entity>
+<Entity><Look>o</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>006F</WCC><IFont>Math Pack Twelve</IFont><IDUni>E06F</IDUni></Entity>
+<Entity><Look>p</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0070</WCC><IFont>Math Pack Twelve</IFont><IDUni>E070</IDUni></Entity>
+<Entity><Look>q</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0071</WCC><IFont>Math Pack Twelve</IFont><IDUni>E068</IDUni></Entity>
+<Entity><Look>r</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0072</WCC><IFont>Math Pack Twelve</IFont><IDUni>E071</IDUni></Entity>
+<Entity><Look>s</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0073</WCC><IFont>Math Pack Twelve</IFont><IDUni>E072</IDUni></Entity>
+<Entity><Look>t</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0074</WCC><IFont>Math Pack Twelve</IFont><IDUni>E073</IDUni></Entity>
+<Entity><Look>u</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0075</WCC><IFont>Math Pack Twelve</IFont><IDUni>E074</IDUni></Entity>
+<Entity><Look>v</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0076</WCC><IFont>Math Pack Twelve</IFont><IDUni>E02D</IDUni></Entity>
+<Entity><Look>w</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0077</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>x</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0078</WCC><IFont>Math Pack Twelve</IFont><IDUni>E06E</IDUni></Entity>
+<Entity><Look>y</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>0079</WCC><IFont>Math Pack Twelve</IFont><IDUni>E077</IDUni></Entity>
+<Entity><Look>z</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>007A</WCC><IFont>Math Pack Twelve</IFont><IDUni>E066</IDUni></Entity>
+<Entity><Look>{</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>007B</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>|</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>007C</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>}</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>007D</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>~</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>007E</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¡</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00A1</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¢</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00A2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>£</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00A3</WCC><IFont>Symbol</IFont><IDUni>2264</IDUni></Entity>
+<Entity><Look>¤</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00A4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¥</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00A5</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¦</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00A6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>§</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00A7</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¨</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00A8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>©</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00A9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ª</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00AA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>«</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00AB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¬</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00AC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>­</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00AD</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>®</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00AE</WCC><IFont>Symbol</IFont><IDUni>2192</IDUni></Entity>
+<Entity><Look>¯</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00AF</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>°</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00B0</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>±</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00B1</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>²</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00B2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>³</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00B3</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>´</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00B4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>µ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00B5</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¶</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00B6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>·</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00B7</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¸</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00B8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¹</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00B9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>º</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00BA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>»</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00BB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¼</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00BC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>½</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00BD</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¾</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00BE</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>¿</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00BF</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>À</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00C0</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Á</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00C1</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Â</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00C2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ã</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00C3</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ä</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00C4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Å</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00C5</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Æ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00C6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ç</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00C7</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>È</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00C8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>É</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00C9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ê</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00CA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ë</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00CB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ì</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00CC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Í</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00CD</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Î</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00CE</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ï</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00CF</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ð</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00D0</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ñ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00D1</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ò</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00D2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ó</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00D3</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ô</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00D4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Õ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00D5</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ö</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00D6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>×</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00D7</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ø</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00D8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ù</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00D9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ú</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00DA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Û</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00DB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ü</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00DC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Ý</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00DD</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>Þ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00DE</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ß</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00DF</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>à</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00E0</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>á</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00E1</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>â</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00E2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ã</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00E3</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ä</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00E4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>å</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00E5</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>æ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00E6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ç</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00E7</WCC><IFont>Symbol</IFont><IDUni>F8EC</IDUni></Entity>
+<Entity><Look>è</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00E8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>é</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00E9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ê</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00EA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ë</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00EB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ì</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00EC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>í</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00ED</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>î</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00EE</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ï</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00EF</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ñ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00F1</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ò</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00F2</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ó</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00F3</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ô</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00F4</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>õ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00F5</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ö</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00F6</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>÷</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00F7</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ø</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00F8</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ù</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00F9</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ú</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00FA</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>û</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00FB</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ü</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00FC</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>ý</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00FD</WCC><IFont></IFont><IDUni></IDUni></Entity>
+<Entity><Look>þ</Look><Name></Name><WFont>Symbol</WFont><Emp>Bolditalic</Emp><WCC>00FE</WCC><IFont></IFont><IDUni></IDUni></Entity>
+</Entities>

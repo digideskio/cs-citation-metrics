@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Type="Secondary">Computer Science, general</JournalSubject>
+        <JournalSubject Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <JournalSubject Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <JournalSubject Type="Secondary">Information Storage and Retrieval</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>1</VolumeIDStart>
+        <VolumeIDEnd>1</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>6</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>4</Month>
+              <Day>24</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2012</Year>
+              <Month>4</Month>
+              <Day>23</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>4</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-012-0012-6" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>12</ArticleID>
+            <ArticleDOI>10.1007/s13735-012-0012-6</ArticleDOI>
+            <ArticleSequenceNumber>5</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Large-scale near-duplicate image retrieval by kernel density estimation</ArticleTitle>
+            <ArticleCategory>Invited Paper</ArticleCategory>
+            <ArticleFirstPage>45</ArticleFirstPage>
+            <ArticleLastPage>58</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+              </Received>
+              <Revised>
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+              </Revised>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>3</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Wei</GivenName>
+                  <FamilyName>Tong</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>tongwei@cs.cmu.edu</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Fengjie</GivenName>
+                  <FamilyName>Li</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>lifengji@cse.msu.edu</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Rong</GivenName>
+                  <FamilyName>Jin</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>rongjin@cse.msu.edu</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Anil</GivenName>
+                  <FamilyName>Jain</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>jain@cse.msu.edu</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Language Technologies Institute</OrgDivision>
+                <OrgName>Carnegie Mellon University</OrgName>
+                <OrgAddress>
+                  <City>Pittsburgh</City>
+                  <Country Code="US">USA</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Computer Science and Engineering</OrgDivision>
+                <OrgName> Michigan State University</OrgName>
+                <OrgAddress>
+                  <City>East Lansing</City>
+                  <Country Code="US">USA</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para>Bag-of-words model is one of the most widely used methods in the recent studies of multimedia data retrieval. The key idea of the bag-of-words model is to quantize the bag of local features, for example SIFT, to a histogram of visual words and then standard information retrieval technologies developed from text retrieval can be applied directly. Despite its success, one problem of the bag-of-words model is that the two key steps, i.e., <Emphasis Type="Italic">feature quantization</Emphasis> and <Emphasis Type="Italic">retrieval</Emphasis>, are separated. In other words, the step of generating bag-of-words representation is not optimized for the step of retrieval which often leads to a sub-optimal performance. In this paper we propose a statistical framework for large-scale near-duplication image retrieval which unifies the two steps by introducing kernel density function. The central idea of the proposed method is to represent each image by a kernel density function and the similarity between the query image and a database image is then estimated as the query likelihood. In order to make the proposed method applicable to large-scale data sets, we have developed efficient algorithms for both estimating the density function of each image and computing the query likelihood. Our empirical studies confirm that the proposed method is not only more effective but also more efficient than the bag-of-words model.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Content-based image retrieval</Keyword>
+              <Keyword>Near-duplicate image retrieval</Keyword>
+              <Keyword>Kernel density estimation</Keyword>
+              <Keyword>Bag-of-words model</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>Content-based image retrieval (CBIR) is a long standing challenging problem in multimedia and computer vision. The earliest use of the term content-based image retrieval in the literature seems to have been by Hirata and Kato [<CitationRef CitationID="CR12">12</CitationRef>], to describe his experiments into automatic retrieval of images from a database by color and shape feature. The term has since been widely used to describe the process of retrieving desired images from a large collection on the basis of features that can be automatically extracted from the images themselves [<CitationRef CitationID="CR5">5</CitationRef>]. The main challenge of CBIR is the semantic gap, i.e., the gap between visual similarity and conceptual/perceptual relevance, which makes it a much harder problem than most researchers anticipated [<CitationRef CitationID="CR35">35</CitationRef>]. However, recent studies have shown that near-duplicate image retrieval [<CitationRef CitationID="CR15">15</CitationRef>] can be solved effectively using visual features. Unlike general content-based image retrieval that aims to identify images that are semantically relevant to a given query image, the objective of near-duplicate image retrieval is to identify images with high visual similarity (see Fig. <InternalRef RefID="Fig1">1</InternalRef>), thereby avoiding the challenge of semantic gap.</Para>
+              <Para>A number of recent studies [<CitationRef CitationID="CR15">15</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>, <CitationRef CitationID="CR33">33</CitationRef>, <CitationRef CitationID="CR38">38</CitationRef>, <CitationRef CitationID="CR42">42</CitationRef>, <CitationRef CitationID="CR44">44</CitationRef>] have shown that local image features (e.g., SIFT descriptor [<CitationRef CitationID="CR23">23</CitationRef>]), often referred to as keypoints, are significantly more effective for near-duplicate image retrieval than global image features such as color [<CitationRef CitationID="CR41">41</CitationRef>, <CitationRef CitationID="CR45">45</CitationRef>, <CitationRef CitationID="CR46">46</CitationRef>], texture [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR14">14</CitationRef>, <CitationRef CitationID="CR21">21</CitationRef>, <CitationRef CitationID="CR25">25</CitationRef>, <CitationRef CitationID="CR47">47</CitationRef>] and shape [<CitationRef CitationID="CR28">28</CitationRef>, <CitationRef CitationID="CR32">32</CitationRef>]. The main idea of the keypoint-based approach is to extract salient local patches from an image and represent each local patch by a multi-dimensional feature vector. As a result, each image is represented by a collection of multi-dimensional vectors, which is often referred to as the <Emphasis Type="Italic">bag-of-features</Emphasis> representation [<CitationRef CitationID="CR3">3</CitationRef>].</Para>
+              <Para>
+                <Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Examples of near-duplicate image retrieval. The <Emphasis Type="Italic">first column</Emphasis> shows the query images and the subsequent columns are near-duplicate images</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_12_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>One straightforward way to measure the distance between two images based on their bag-of-features representations is the optimal partial matching [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>, <CitationRef CitationID="CR50">50</CitationRef>] which finds the best mapping between the keypoints in the two images that has the overall shortest distance. It has been shown [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR11">11</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>] that despite its simplicity, the similarity based on the optimal partial matching performs well in comparison with the other similarity measures. The main shortcoming of the optimal partial matching is its high computational cost: given a query image, a linear scan is required to compute the similarity between the query and every image in the database, which does not scale well to a large image database. Several methods have been proposed to improve the computational efficiency of optimal partial matching [<CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR44">44</CitationRef>]. Among them, the bag-of-words model [<CitationRef CitationID="CR44">44</CitationRef>] is probably the most popular one due to its empirical success. It takes advantage of the inverted index, which has been successfully used by web search engines to index billions of documents. The key idea is to quantize the continuous high-dimensional space of SIFT features to a vocabulary of visual words, which is typically achieved by a clustering algorithm. By treating each cluster center as a word in a codebook, this approach maps each image feature to its closest visual word and then represents each image by a histogram of visual words. A number of studies have shown promising performance of this approach for image retrieval [<CitationRef CitationID="CR15">15</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>, <CitationRef CitationID="CR33">33</CitationRef>, <CitationRef CitationID="CR38">38</CitationRef>, <CitationRef CitationID="CR44">44</CitationRef>] and object recognition [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR6">6</CitationRef>, <CitationRef CitationID="CR37">37</CitationRef>, <CitationRef CitationID="CR48">48</CitationRef>, <CitationRef CitationID="CR51">51</CitationRef>, <CitationRef CitationID="CR52">52</CitationRef>]. Despite its success, the bag-of-words model suffers from the following drawbacks:<OrderedList><ListItem><ItemNumber>1.</ItemNumber><ItemContent><Para>High computational cost in visual vocabulary construction. One of the key steps in constructing the bag-of-words model is to cluster a large number of keypoints into a relatively smaller number of visual words. For large-scale image retrieval, we often need to cluster billions of keypoints into millions of clusters. Although several efficient algorithms [<CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>, <CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR31">31</CitationRef>, <CitationRef CitationID="CR38">38</CitationRef>, <CitationRef CitationID="CR43">43</CitationRef>] have been developed for large-scale clustering problems, it is still expensive to generate a vocabulary with millions of visual words.</Para></ItemContent></ListItem><ListItem><ItemNumber>2.</ItemNumber><ItemContent><Para>High computational cost in keypoint quantization. Given the constructed visual vocabulary, the next step in bag-of-words model is to map each keypoint in a database image to a visual word, which requires finding the nearest neighbor of every keypoint to the visual words. Since the computational cost for keypoint quantization is linear in the number of keypoints, it is expensive to quantize keypoints for a very large image database to a visual vocabulary. Even with the help of approximate nearest neighbor search algorithms, this step is still costly when good approximation is desired.</Para></ItemContent></ListItem><ListItem><ItemNumber>3.</ItemNumber><ItemContent><Para>Inconsistent mapping of keypoints to visual words. The radius of clusters (i.e., the maximum distance between the keypoints in a cluster and its center) could vary significantly from cluster to cluster. As a result, for clusters with large radius, two keypoints can be mapped to the same visual word even if they differ significantly in visual features, leading to an inconsistent criterion for keypoint quantization and potentially poor performance in image matching.</Para></ItemContent></ListItem><ListItem><ItemNumber>4.</ItemNumber><ItemContent><Para>Lack of a theoretic analysis. Most published studies on the bag-of-words model are motivated by efficiency considerations and are primarily focused on its empirical performance. Although [<CitationRef CitationID="CR13">13</CitationRef>] showed that the similarity between two bag-of-features representations can be interpreted as a matching algorithm between descriptors, it did not establish the relationship between the bag-of-words model and the optimal partial matching. Without a theoretical analysis, the success of the bag-of-words model may only be demonstrated based on empirical performance.</Para></ItemContent></ListItem><ListItem><ItemNumber>5.</ItemNumber><ItemContent><Para>In this paper, we highlight another fundamental problem with the bag-of-words model for image retrieval that is usually overlooked by most researchers. In almost all the methods developed for large-scale image retrieval, the step of <Emphasis Type="Italic">keypoint quantization</Emphasis> is separated from the step of <Emphasis Type="Italic">image matching</Emphasis> that is usually implemented by a text search engine. In other words, the procedure used to quantize keypoints into visual words is independent of the similarity measure used by the text search engine to find visually similar images which could result in the sub-optimal retrieval performance.</Para></ItemContent></ListItem></OrderedList>In this paper, we develop a statistical framework that not only overcomes the shortcomings of the bag-of-words model but also unifies the two steps mentioned earlier. The key idea of the proposed method is to view the bag of features extracted from each image as random samples from an underlying unknown distribution. We estimate, for each image, its underlying density function from the observed bag of features. The similarity of an image in the database to a given query image is then computed by the query likelihood, i.e., the likelihood of generating the observed bag of features with the given density function of an image. Thus, the keypoint quantization step is essentially related to the estimation of kernel density function, and the image matching step is essentially related to the estimation of query likelihood. Hence, the introduction of kernel density function allows us to link the two steps coherently.</Para>
+              <Para>We emphasize that although the idea of modeling a bag-of-features by a statistical model has been studied by many authors (e.g., [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR18">18</CitationRef>, <CitationRef CitationID="CR30">30</CitationRef>, <CitationRef CitationID="CR51">51</CitationRef>]), there are two computational challenges that make them difficult to scale to image retrieval problems with large databases:<UnorderedList Mark="Bullet"><ItemContent><Para>How to efficiently compute the density function for each image? This is particularly important given the large size of image database and the large number of keypoints to be processed.</Para></ItemContent><ItemContent><Para>How to efficiently identify the subset of images in the database that are visually similar to a given query? In particular, the retrieval model should explicitly avoid the linear scan of image database, which is a fundamental problem with many existing methods for image similarity measurements.</Para></ItemContent></UnorderedList>We have developed efficient algorithms which solve the two challenges. We verified both the efficiency and efficacy of the proposed framework by an empirical study with three large image databases. Our study shows that the proposed framework reduces the computational time for keypoint quantization by a factor of 8 when compared with the hierarchical clustering methods, and by a factor of 30 when compared with the flat clustering methods. For all the experiments, we observe that the proposed framework yields significantly higher retrieval accuracy than the state-of-the-art approaches for image retrieval.</Para>
+              <Para>The rest of the paper is organized as follows: Sect. <InternalRef RefID="Sec2">2</InternalRef> presents the proposed framework for large-scale near- duplicate image retrieval and efficient computational algorithms for solving the related optimization problems. In Sect. <InternalRef RefID="Sec7">3</InternalRef> we give a detailed analysis between the proposed method and the bag-of-words model. In Sect. <InternalRef RefID="Sec8">4</InternalRef> we presents our empirical study with large-scale near-duplicate image retrieval and Sect. <InternalRef RefID="Sec20">5</InternalRef> concludes this work.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Kernel density framework for image retrieval</Heading>
+              <Para>Let <InlineEquation ID="IEq1"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ G} =\{\mathcal{ I} _1, \ldots , \mathcal{ I} _C\}$$]]></EquationSource></InlineEquation> be the collection of <InlineEquation ID="IEq2"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$C$$]]></EquationSource></InlineEquation> images, and each image <InlineEquation ID="IEq3"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} _i$$]]></EquationSource></InlineEquation> be represented by a set of <InlineEquation ID="IEq4"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$n_i$$]]></EquationSource></InlineEquation> keypoints <InlineEquation ID="IEq5"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\{\mathbf{ x} _1^i,\ldots , \mathbf{ x} _{n_i}^i\},$$]]></EquationSource></InlineEquation> where each keypoint <InlineEquation ID="IEq6"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ x} _i \in \mathbb{ R} ^d$$]]></EquationSource></InlineEquation> is a <InlineEquation ID="IEq7"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$d$$]]></EquationSource></InlineEquation> dimensional vector. Similarly, the query image <InlineEquation ID="IEq8"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ Q} $$]]></EquationSource></InlineEquation> is also represented by a bag of features, i.e., <InlineEquation ID="IEq9"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\{\mathbf{ q} _1, \ldots , \mathbf{ q} _m\},$$]]></EquationSource></InlineEquation> where <InlineEquation ID="IEq10"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ q} _i \in \mathbb{ R} ^d$$]]></EquationSource></InlineEquation>.</Para>
+              <Para>To facilitate the development of a statistical model for image retrieval, we assume that keypoints of an image <InlineEquation ID="IEq11"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} _i$$]]></EquationSource></InlineEquation> are randomly sampled from an unknown distribution <InlineEquation ID="IEq12"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p(\mathbf{ x} |\mathcal{ I} _i)$$]]></EquationSource></InlineEquation>. Following the framework of statistical language models for text retrieval [<CitationRef CitationID="CR27">27</CitationRef>], we need to efficiently compute (1) the density function <InlineEquation ID="IEq13"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p(\mathbf{ x} |\mathcal{ I} _i)$$]]></EquationSource></InlineEquation> for every image <InlineEquation ID="IEq14"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} _i$$]]></EquationSource></InlineEquation> in gallery <InlineEquation ID="IEq15"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ G} ,$$]]></EquationSource></InlineEquation> and (2) the query likelihood <InlineEquation ID="IEq16"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p(\mathcal{ Q} |\mathcal{ I} _i),$$]]></EquationSource></InlineEquation> i.e., the probability of generating the keypoints in query <InlineEquation ID="IEq17"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ Q} $$]]></EquationSource></InlineEquation> given each image <InlineEquation ID="IEq18"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} _i$$]]></EquationSource></InlineEquation>. In the following, we discuss the details of the algorithms for the two problems.</Para>
+              <Section2 ID="Sec3">
+                <Heading>Kernel density based framework</Heading>
+                <Para>Given the keypoints <InlineEquation ID="IEq19"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\{\mathbf{ x} _1, \ldots , \mathbf{ x} _n\}$$]]></EquationSource></InlineEquation> observed from image <InlineEquation ID="IEq20"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} ,$$]]></EquationSource></InlineEquation> we need to efficiently estimate its underlying density function <InlineEquation ID="IEq21"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p(\mathbf{ x} |\mathcal{ I} )$$]]></EquationSource></InlineEquation>. The most straightforward approach is to estimate <InlineEquation ID="IEq22"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p(\mathbf{ x} |\mathcal{ I} )$$]]></EquationSource></InlineEquation> by a simple kernel density estimation, i.e.,<Equation ID="Equ1"><EquationNumber>1</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} p(\mathbf{ x} |\mathcal{ I} ) = \frac{1}{n} \sum _{i=1}^n \kappa (\mathbf{ x} , \mathbf{ x} _i) \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq23"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq23.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\kappa (\cdot , \cdot ):\mathbb{ R} ^d\times \mathbb{ R} ^d \mapsto \mathbb{ R} _+$$]]></EquationSource></InlineEquation> is the kernel density function that is normalized as <InlineEquation ID="IEq24"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq24.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\int \text{ d}\mathbf{ z} \kappa (\mathbf{ x} , \mathbf{ z} ) = 1$$]]></EquationSource></InlineEquation>. Given the density function in (<InternalRef RefID="Equ1">1</InternalRef>), the similarity of <InlineEquation ID="IEq25"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq25.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} $$]]></EquationSource></InlineEquation> to the query image <InlineEquation ID="IEq26"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq26.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ Q} $$]]></EquationSource></InlineEquation> is estimated by the logarithm of the query likelihood <InlineEquation ID="IEq27"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq27.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p(\mathcal{ Q} |\mathcal{ I} ),$$]]></EquationSource></InlineEquation> i.e.,<Equation ID="Equa1"><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equa1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \log p(\mathcal{ Q} |\mathcal{ I} )\!=\!\sum _{i=1}^m \log p(\mathbf{ q} _i|\mathcal{ I} )\!=\!\sum _{i=1}^m \log \left(\frac{1}{n}\sum _{j=1}^n \kappa (\mathbf{ x} _j, \mathbf{ q} _i) \right) \end{aligned}$$]]></EquationSource></Equation>Despite its simplicity, the major problem with the density function in (<InternalRef RefID="Equ1">1</InternalRef>) is its high computational cost when applied to image retrieval. This is because using the density function in (<InternalRef RefID="Equ1">1</InternalRef>), we have to compute the log-likelihood <InlineEquation ID="IEq28"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq28.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p(\mathcal{ Q} |\mathcal{ I} _i)$$]]></EquationSource></InlineEquation> for every image in <InlineEquation ID="IEq29"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq29.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ G} $$]]></EquationSource></InlineEquation> before we can identify the subset of images that are visually similar to the query <InlineEquation ID="IEq30"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq30.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ Q} ,$$]]></EquationSource></InlineEquation> making it impossible for large scale image retrieval.</Para>
+                <Para>In order to make efficient image retrieval, we consider an alternative approach of estimating the density function for image <InlineEquation ID="IEq31"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq31.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} $$]]></EquationSource></InlineEquation>. We assume that for any image <InlineEquation ID="IEq32"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq32.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} $$]]></EquationSource></InlineEquation> in the gallery <InlineEquation ID="IEq33"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq33.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ G} ,$$]]></EquationSource></InlineEquation> its density function <InlineEquation ID="IEq34"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq34.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p(\mathbf{ x} |\mathcal{ I} )$$]]></EquationSource></InlineEquation> is expressed as a weighted mixture models:<Equation ID="Equ2"><EquationNumber>2</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} p(\mathbf{ x} |\mathcal{ I} ) = \sum _{i=1}^N \alpha _i \kappa (\mathbf{ x} , \mathbf{ c} _i) \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq35"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq35.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ c} _i \in \mathbb{ R} ^d, i=1, \ldots , N$$]]></EquationSource></InlineEquation> is a collection of <InlineEquation ID="IEq36"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq36.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource></InlineEquation> points (centers) that are randomly selected from all the keypoints observed in <InlineEquation ID="IEq37"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq37.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ G} $$]]></EquationSource></InlineEquation>. The choice of randomly selected centers, although may seem to be naive at the first glance, is in fact strongly supported by the consistency results of kernel density estimation [<CitationRef CitationID="CR34">34</CitationRef>]. In particular, the kernel density function constructed by randomly selected centers is almost “optimal” when the number of centers is very large. The number of centers <InlineEquation ID="IEq38"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq38.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource></InlineEquation> is usually chosen to be very large, to cover the diverse visual content of images. <InlineEquation ID="IEq39"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq39.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }= (\alpha _1, \ldots , \alpha _N)$$]]></EquationSource></InlineEquation> is a probability distribution used to combine different kernel functions. It is important to note that unlike (<InternalRef RefID="Equ1">1</InternalRef>), the weights <InlineEquation ID="IEq40"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq40.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> in (<InternalRef RefID="Equ2">2</InternalRef>) are unknown and need to be determined for each image. As will be shown later, with an appropriate choice of kernel function <InlineEquation ID="IEq41"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq41.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\kappa (\cdot , \cdot ),$$]]></EquationSource></InlineEquation> the resulting weights <InlineEquation ID="IEq42"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq42.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> will be sparse with most of the elements being zero. This is ensured by the fact that in a high-dimensional space, almost any two randomly selected data points are far away from each other. It is the sparsity of <InlineEquation ID="IEq43"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq43.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> that makes it possible to efficiently identify images that are visually similar to the query without having to scan the entire image database.</Para>
+              </Section2>
+              <Section2 ID="Sec4">
+                <Heading>Efficient kernel density estimation</Heading>
+                <Para>In order to use the density function in (<InternalRef RefID="Equ2">2</InternalRef>), we need to efficiently estimate the combination weights <InlineEquation ID="IEq44"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq44.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation>. By assuming keypoints <InlineEquation ID="IEq45"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq45.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ x} _1, \ldots , \mathbf{ x} _n$$]]></EquationSource></InlineEquation> are randomly sampled from <InlineEquation ID="IEq46"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq46.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p(\mathbf{ x} |\mathcal{ I} ),$$]]></EquationSource></InlineEquation> our first attempt is to estimate <InlineEquation ID="IEq47"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq47.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> by a maximum likelihood estimation, i.e.,<Equation ID="Equ3"><EquationNumber>3</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \varvec{\alpha } = \mathop {\arg \max }_{\varvec{\alpha }\in \Delta}\; \mathcal{ L} (\mathcal{ I} , \varvec{\alpha }) = \sum _{i=1}^n \log \left(\sum _{j=1}^N \alpha _j \kappa (\mathbf{ x} _i, \mathbf{ c} _j) \right) \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq48"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq48.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\Delta = \{\varvec{\alpha } \in [0, 1]^C: \sum _{i=1}^C \alpha _i = 1\}$$]]></EquationSource></InlineEquation> defines a simplex of probability distributions. It is easy to verify that the problem in (<InternalRef RefID="Equ3">3</InternalRef>) is convex and has a global optimal solution.</Para>
+                <Para>Although we can directly apply the standard optimization approaches to find the optimal solution <InlineEquation ID="IEq49"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq49.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> for (<InternalRef RefID="Equ3">3</InternalRef>), it is in general computationally expensive because<UnorderedList Mark="Bullet"><ItemContent><Para>We have to solve (<InternalRef RefID="Equ3">3</InternalRef>) for every image. Even if the optimization algorithm is efficient and can solve the problem within one second, for a database with a million of images, it will take more than 277 h to complete the computation.</Para></ItemContent><ItemContent><Para>The number of weights <InlineEquation ID="IEq50"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq50.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha $$]]></EquationSource></InlineEquation> to be determined is very large. To achieve the desired performance of image retrieval, we often need a very large number of centers, for example, one million. As a result, it requires solving an optimization problem with million variables even for a single optimization problem in (<InternalRef RefID="Equ3">3</InternalRef>).</Para></ItemContent></UnorderedList>In order to address the computational challenge, we choose the following local kernel function for this study:<Equation ID="Equ4"><EquationNumber>4</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \kappa (\mathbf{ x} , \mathbf{ c} ) \propto I(|\mathbf{ x} - \mathbf{ c} |_2 \le \rho ) \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq51"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq51.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$I(z)$$]]></EquationSource></InlineEquation> is an indicator function that outputs 1 if <InlineEquation ID="IEq52"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq52.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$z$$]]></EquationSource></InlineEquation> is true and zero otherwise. The parameter <InlineEquation ID="IEq53"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq53.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho > 0$$]]></EquationSource></InlineEquation> is a predefined constant that defines the locality of the kernel function and its value is determined empirically. The proposition shown below shows the sparsity of the solution <InlineEquation ID="IEq54"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq54.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> for (<InternalRef RefID="Equ3">3</InternalRef>).</Para>
+                <FormalPara RenderingStyle="Style1">
+                  <Heading>
+                    <Emphasis Type="Bold">Proposition 1</Emphasis>
+                  </Heading>
+                  <Para> Given the local kernel function defined in (<InternalRef RefID="Equ4">4</InternalRef>), for the optimal solution <InlineEquation ID="IEq55"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq55.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> to (<InternalRef RefID="Equ3">3</InternalRef>), we have <InlineEquation ID="IEq56"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq56.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha _j = 0$$]]></EquationSource></InlineEquation> for center <InlineEquation ID="IEq57"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq57.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ c} _j$$]]></EquationSource></InlineEquation> if <InlineEquation ID="IEq58"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq58.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\max _{1 \le i \le n} |\mathbf{ c} _j - \mathbf{ x} _i|_2 > \rho $$]]></EquationSource></InlineEquation>. </Para>
+                </FormalPara>
+                <Para>Proposition 1 follows directly from the fact that <InlineEquation ID="IEq59"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq59.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\kappa (\mathbf{ c} _j, \mathbf{ x} _i) \!=\! 0, i=1, \ldots , n$$]]></EquationSource></InlineEquation> if <InlineEquation ID="IEq60"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq60.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\max _{1 \le i \le n} |\mathbf{ c} _j - \mathbf{ x} _i|_2 > \rho $$]]></EquationSource></InlineEquation>. As implied by Proposition 1, <InlineEquation ID="IEq61"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq61.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha _j$$]]></EquationSource></InlineEquation> will be nonzero only if the center <InlineEquation ID="IEq62"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq62.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ c} _j$$]]></EquationSource></InlineEquation> is within a distance <InlineEquation ID="IEq63"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq63.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> of some keypoints. By setting <InlineEquation ID="IEq64"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq64.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> to a small value, we will only have a small number of non-zero <InlineEquation ID="IEq65"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq65.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha _j$$]]></EquationSource></InlineEquation>. We can quickly identify the subset of centers with non-zero <InlineEquation ID="IEq66"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq66.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha _j$$]]></EquationSource></InlineEquation> by an efficient range search, for example using k-d tree [<CitationRef CitationID="CR22">22</CitationRef>]. In our study, this step reduces the number of variables from 1 million to about 1,000.</Para>
+                <Para>Although Proposition 1 allows us to reduce the number of variables dramatically, we still have to find a way to solve (<InternalRef RefID="Equ3">3</InternalRef>) efficiently. To this end, we resort to the bound optimization strategy that leads to a simple iterative algorithm for optimizing (<InternalRef RefID="Equ3">3</InternalRef>): we denote by <InlineEquation ID="IEq67"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq67.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^{\prime }$$]]></EquationSource></InlineEquation> the current solution and by <InlineEquation ID="IEq68"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq68.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> the updated solution for (<InternalRef RefID="Equ3">3</InternalRef>). It is straightforward to show that <InlineEquation ID="IEq69"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq69.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\{\mathcal{ L} (\mathcal{ I} , \varvec{\alpha }) - \mathcal{ L} (\mathcal{ I} , \varvec{\alpha }^{\prime })\}$$]]></EquationSource></InlineEquation> is bounded as follows:<Equation ID="Equ5"><EquationNumber>5</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathcal{ L} (\mathcal{ I} , \varvec{\alpha }) - \mathcal{ L} (\mathcal{ I} , \varvec{\alpha }^{\prime })&= \sum _{i=1}^n \log \frac{\sum _{j=1}^N \alpha _j \kappa (\mathbf{ x} _i, \mathbf{ c} _j)}{\sum _{j=1}^N \alpha ^{\prime }_j \kappa (\mathbf{ x} _i, \mathbf{ c} _j)} \nonumber \\&\ge \sum _{i=1}^n \sum _{j=1}^N \frac{\alpha ^{\prime }_j\kappa (\mathbf{ x} _i, \mathbf{ c} _j)}{\sum _{l=1}^N \alpha ^{\prime }_j \kappa (\mathbf{ x} _i, \mathbf{ c} _l)} \log \frac{\alpha _j}{\alpha _j^{\prime }}\nonumber \end{aligned}$$]]></EquationSource></Equation> By maximizing the lower bound in (<InternalRef RefID="Equ5">5</InternalRef>), we have the following updating rule for <InlineEquation ID="IEq70"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq70.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha $$]]></EquationSource></InlineEquation>:<Equation ID="Equ6"><EquationNumber>6</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \alpha _j = \frac{1}{Z}\sum _{i=1}^n \frac{\alpha _j^{\prime }\kappa (\mathbf{ x} _i, \mathbf{ c} _j)}{\sum _{l=1}^N \alpha _l^{\prime }\kappa (\mathbf{ x} _i, \mathbf{ c} _l)} \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq71"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq71.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$Z$$]]></EquationSource></InlineEquation> is the normalization factor ensuring <InlineEquation ID="IEq72"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq72.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\sum\nolimits _{j=1}^N \alpha _j = 1$$]]></EquationSource></InlineEquation>. Note that <InlineEquation ID="IEq73"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq73.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> obtained by iteratively running the updating equation in (<InternalRef RefID="Equ6">6</InternalRef>) is indeed globally optimal because the optimization problem in (<InternalRef RefID="Equ3">3</InternalRef>) is convex.</Para>
+                <Para>We can further simplify the computation of <InlineEquation ID="IEq74"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq74.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> as following: we first initialize <InlineEquation ID="IEq75"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq75.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha _j = 1/N, i=1, \ldots , N,$$]]></EquationSource></InlineEquation> and then obtain the solution <InlineEquation ID="IEq76"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq76.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> by only running the iteration once, i.e.,<Equation ID="Equ7"><EquationNumber>7</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \alpha _j = \frac{1}{n} \sum _{i=1}^n \frac{\kappa (\mathbf{ x} _i, \mathbf{ c} _j)}{\sum _{l=1}^N \kappa (\mathbf{ x} _i, \mathbf{ c} _l)} \end{aligned}$$]]></EquationSource></Equation>We emphasize that although the solution in (<InternalRef RefID="Equ7">7</InternalRef>) is approximated in only one update, it is, however, the exact optimal solution when the keypoints <InlineEquation ID="IEq77"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq77.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\{\mathbf{ x} _i\}_{i=1}^N$$]]></EquationSource></InlineEquation> are far apart from each other, as shown by the following theorem:</Para>
+                <FormalPara RenderingStyle="Style1">
+                  <Heading>
+                    <Emphasis Type="Bold">Theorem 1</Emphasis>
+                  </Heading>
+                  <Para> Let the kernel function be (<InternalRef RefID="Equ4">4</InternalRef>). Assume that all the keypoints <InlineEquation ID="IEq78"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq78.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ x} _1, \ldots , \mathbf{ x} _n$$]]></EquationSource></InlineEquation> are separated by at least <InlineEquation ID="IEq79"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq79.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2\rho $$]]></EquationSource></InlineEquation>. The solution <InlineEquation ID="IEq80"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq80.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha $$]]></EquationSource></InlineEquation> in (<InternalRef RefID="Equ7">7</InternalRef>) optimizes the problem in (<InternalRef RefID="Equ3">3</InternalRef>). </Para>
+                </FormalPara>
+                <FormalPara RenderingStyle="Style1">
+                  <Heading>
+                    <Emphasis Type="Italic">Proof</Emphasis>
+                  </Heading>
+                  <Para> When any two keypoints <InlineEquation ID="IEq81"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq81.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ x} _i$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq82"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq82.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ x} _j$$]]></EquationSource></InlineEquation> are separated by at least <InlineEquation ID="IEq83"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq83.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$2\rho ,$$]]></EquationSource></InlineEquation> we have <InlineEquation ID="IEq84"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq84.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\kappa (\mathbf{ x} _i, \mathbf{ c} _k) \kappa (\mathbf{ x} _j, \mathbf{ c} _k) = 0$$]]></EquationSource></InlineEquation> for any center <InlineEquation ID="IEq85"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq85.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ c} _k$$]]></EquationSource></InlineEquation>. This implies that no keypoint could contribute to the estimation of weight <InlineEquation ID="IEq86"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq86.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha _k$$]]></EquationSource></InlineEquation> simultaneously for two different centers in (<InternalRef RefID="Equ6">6</InternalRef>). As a result, the expression in (<InternalRef RefID="Equ6">6</InternalRef>) could be rewritten as<Equation ID="Equa2"><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equa2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \alpha _j&= \frac{1}{Z} \sum _{i=1}^n I(|\mathbf{ x} _i - \mathbf{ c} _j| \le \rho )\frac{\alpha _j^{\prime }}{\sum _{l=1}^N \alpha _l^{\prime }\kappa (\mathbf{ x} _i, \mathbf{ c} _l)} \\&= \frac{1}{Z} \sum _{i=1}^n I(|\mathbf{ x} _i - \mathbf{ c} _j| \le \rho )\frac{\alpha _j^{\prime }}{\alpha _j^{\prime }\kappa (\mathbf{ x} _i, \mathbf{ c} _j)} \\&= \frac{1}{Z} \sum _{i=1}^n I(|\mathbf{ x} _i - \mathbf{ c} _j| \le \rho ) \end{aligned}$$]]></EquationSource></Equation>As a result, the updating equation will give the fixed solution, which is the global optimal solution. </Para>
+                </FormalPara>
+                <Para>In Algorithm <InternalRef RefID="Figa1">1</InternalRef>, we summarize the procedure of computing <InlineEquation ID="IEq87"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq87.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }_i$$]]></EquationSource></InlineEquation> for each image <InlineEquation ID="IEq88"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq88.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\mathcal{ I} }_i$$]]></EquationSource></InlineEquation> in the image collection. The key step of computing each <InlineEquation ID="IEq89"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq89.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\varvec{\alpha }}_i$$]]></EquationSource></InlineEquation> is how to efficiently compute the value of kernel function in (<InternalRef RefID="Equ4">4</InternalRef>). In the algorithm, we resort to the k-d tree based range search to achieve the goal. More specifically, we first build a k-d tree for all the keypoints in the collection. For each center, we then search the keypoints which are within the distance <InlineEquation ID="IEq90"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq90.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> of that center using the k-d tree. For all the keypoints that are within the distance <InlineEquation ID="IEq91"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq91.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> of that center, their values to the kernel function (<InternalRef RefID="Equ4">4</InternalRef>) for this center is 1 and for other keypoints the value is 0. After we conduct the range search for every centers, we obtain the value of (<InternalRef RefID="Equ4">4</InternalRef>) for every pair of keypoints and centers for all the images in the collection which can be used directly for computing <InlineEquation ID="IEq92"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq92.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }_i$$]]></EquationSource></InlineEquation> for each image.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="No" ID="Figa1">
+                    <MediaObject ID="MO12">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_12_Figa_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Regularization</Heading>
+                <Para>Although the sparse solution resulting from the local kernel is computationally efficient, the sparse solution may lead to a poor estimation of query-likelihood, as demonstrated in the study of statistical language model [<CitationRef CitationID="CR27">27</CitationRef>]. To address this challenge, we introduce <InlineEquation ID="IEq116"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq116.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\varvec{\alpha }}^g = (\alpha ^g_1, \ldots , \alpha ^g_N),$$]]></EquationSource></InlineEquation> a global set of weights used for kernel density function. <InlineEquation ID="IEq117"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq117.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\varvec{\alpha }}^g$$]]></EquationSource></InlineEquation> plays the same role as the background langauge model in statistical language models [<CitationRef CitationID="CR27">27</CitationRef>]. We defer the discussion of how to compute <InlineEquation ID="IEq118"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq118.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha ^g$$]]></EquationSource></InlineEquation> to the end of this section. Given the global set of weights <InlineEquation ID="IEq119"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq119.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\varvec{\alpha }}^g$$]]></EquationSource></InlineEquation>, we introduce <InlineEquation ID="IEq120"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq120.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\text{ KL}({\varvec{\alpha }}^g\Vert {\varvec{\alpha }})$$]]></EquationSource></InlineEquation>, the Kullback–Leibler divergence [<CitationRef CitationID="CR30">30</CitationRef>] between <InlineEquation ID="IEq121"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq121.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\varvec{\alpha }}^g$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq122"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq122.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\varvec{\alpha }}$$]]></EquationSource></InlineEquation>, as a regularizer in (<InternalRef RefID="Equ3">3</InternalRef>), i.e.,<Equation ID="Equ8"><EquationNumber>8</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} {\varvec{\alpha }}&= \mathop {\arg \max }_{\varvec{\alpha }\in \Delta}\; \mathcal{ L} (\mathcal{ I} , \varvec{\alpha }) - \lambda\text{ KL}(\varvec{\alpha }^g\Vert \varvec{\alpha }) \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq123"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq123.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\lambda > 0$$]]></EquationSource></InlineEquation> is introduced to weight the importance of the regularizer. As indicated in (<InternalRef RefID="Equ8">8</InternalRef>), by introducing the KL divergence as the regularizer, we prefer the solution <InlineEquation ID="IEq124"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq124.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> that is similar to <InlineEquation ID="IEq125"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq125.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^g$$]]></EquationSource></InlineEquation>. Note that (<InternalRef RefID="Equ8">8</InternalRef>) is equivalent to the MAP estimation of <InlineEquation ID="IEq126"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq126.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> by introducing a Dirichlet prior <InlineEquation ID="IEq127"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq127.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\text{ Dir}(\varvec{\alpha }) \propto \prod \nolimits_{i=1}^N [\alpha _i]^{\beta _i}$$]]></EquationSource></InlineEquation>, where <InlineEquation ID="IEq128"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq128.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\beta _i = \lambda \alpha ^g_i$$]]></EquationSource></InlineEquation>. Similar to the bound optimization strategy used for solving (<InternalRef RefID="Equ3">3</InternalRef>), we have the following approximate solution for (<InternalRef RefID="Equ8">8</InternalRef>):<Equation ID="Equ9"><EquationNumber>9</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \alpha _j = \frac{1}{n+\lambda } \left(\lambda \alpha _j^g + \sum _{i=1}^n \frac{\kappa (\mathbf{ x} _i, \mathbf{ c} _j)}{\sum _{l=1}^N \kappa (\mathbf{ x} _i, \mathbf{ c} _j)}\right) \end{aligned}$$]]></EquationSource></Equation>It is important to note that, according to (<InternalRef RefID="Equ9">9</InternalRef>), the solution for <InlineEquation ID="IEq129"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq129.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> is no longer sparse if <InlineEquation ID="IEq130"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq130.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^g$$]]></EquationSource></InlineEquation> is not sparse, which could potentially lead to a high computational cost in image matching. We will discuss a method later that explicitly addresses this computational challenge.</Para>
+                <Para>The remaining question is how to estimate <InlineEquation ID="IEq131"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq131.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^g,$$]]></EquationSource></InlineEquation> the global set of weights. To this end, we search for the weight <InlineEquation ID="IEq132"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq132.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^g$$]]></EquationSource></InlineEquation> that can explain all the keypoints observed in all the images of gallery <InlineEquation ID="IEq133"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq133.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ G} ,$$]]></EquationSource></InlineEquation> i.e.,<Equation ID="Equ10"><EquationNumber>10</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \varvec{\alpha }^g = \mathop {\arg \max }\limits _{\varvec{\alpha }^g \in \Delta } \sum _{i=1}^C \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^g) \end{aligned}$$]]></EquationSource></Equation>Although we can employ the same bound optimization strategy to estimate <InlineEquation ID="IEq134"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq134.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^g,$$]]></EquationSource></InlineEquation> we describe below a simple approach that directly utilizes the solution <InlineEquation ID="IEq135"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq135.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> for individual images to construct <InlineEquation ID="IEq136"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq136.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^g$$]]></EquationSource></InlineEquation>. We denote by <InlineEquation ID="IEq137"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq137.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^i = (\alpha ^i_1, \ldots , \alpha ^i_N)$$]]></EquationSource></InlineEquation> the optimal solution that is obtained by maximizing the log-likelihood <InlineEquation ID="IEq138"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq138.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i)$$]]></EquationSource></InlineEquation> of the keypoints observed in image <InlineEquation ID="IEq139"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq139.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} _i$$]]></EquationSource></InlineEquation>. Given <InlineEquation ID="IEq140"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq140.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^i$$]]></EquationSource></InlineEquation> that maximizes <InlineEquation ID="IEq141"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq141.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i),$$]]></EquationSource></InlineEquation> we have<Equation ID="Equ11"><EquationNumber>11</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^g)&\approx \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i) \nonumber \\&+ \frac{1}{2}(\varvec{\alpha }^g - \varvec{\alpha }^i)^{\top } \nabla ^2 \mathcal{ L} (I_i, \varvec{\alpha }^i) (\varvec{\alpha }^g - \varvec{\alpha }^i) \end{aligned}$$]]></EquationSource></Equation>Hessian matrix <InlineEquation ID="IEq142"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq142.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\nabla ^2 \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha })$$]]></EquationSource></InlineEquation> is computed as <InlineEquation ID="IEq143"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq143.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\nabla ^2 \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }) = - \sum \nolimits_{k=1}^{n_i} \mathbf{ u} _i^k [\mathbf{ u} _i^k]^{\top }$$]]></EquationSource></InlineEquation>, where <InlineEquation ID="IEq144"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq144.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ u} _i^k \in \mathbb{ R} ^N$$]]></EquationSource></InlineEquation> is a vector defined as <InlineEquation ID="IEq145"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq145.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$[\mathbf{ u} _i^k]_j = \kappa (\mathbf{ x} ^i_k, \mathbf{ c} _j)/(\sum \nolimits_{l=1}^N \alpha _j \kappa (\mathbf{ x} ^i_k, \mathbf{ c} _j))$$]]></EquationSource></InlineEquation>. The lemma below allows us to bound the Hessian matrix <InlineEquation ID="IEq146"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq146.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\nabla ^2 \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i)$$]]></EquationSource></InlineEquation>.</Para>
+                <FormalPara RenderingStyle="Style1">
+                  <Heading>
+                    <Emphasis Type="Bold">Lemma 1</Emphasis>
+                  </Heading>
+                  <Para><InlineEquation ID="IEq147"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq147.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$NI \succeq -\nabla ^2 \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i)$$]]></EquationSource></InlineEquation>. </Para>
+                </FormalPara>
+                <FormalPara RenderingStyle="Style1">
+                  <Heading>
+                    <Emphasis Type="Italic">Proof</Emphasis>
+                  </Heading>
+                  <Para> To bound the maximum eigenvalue <InlineEquation ID="IEq148"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq148.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$-\nabla ^2 \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i),$$]]></EquationSource></InlineEquation> we consider the quantity <InlineEquation ID="IEq149"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq149.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\gamma ^{\top }\nabla ^2 \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i)\gamma $$]]></EquationSource></InlineEquation> with <InlineEquation ID="IEq150"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq150.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$|\gamma |_2 = 1$$]]></EquationSource></InlineEquation>.<Equation ID="Equa3"><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equa3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \gamma ^{\top }\nabla ^2 \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i)\gamma&= \sum _{k=1}^{n_i} \frac{[\sum _{j=1}^N \gamma _j \kappa (\mathbf{ x} _k^i, \mathbf{ c} _j)]^2}{[\sum _{j=1}^N \alpha _j \kappa (\mathbf{ x} _k^i, \mathbf{ c} _j)]^2} \\&\le \left(\sum _{k=1}^{n_i} \frac{\sum _{j=1}^N |\gamma _j| \kappa (\mathbf{ x} _k^i, \mathbf{ c} _j)}{\sum _{j=1}^N \alpha _j \kappa (\mathbf{ x} _k^i, \mathbf{ c} _j)} \right)^2 \end{aligned}$$]]></EquationSource></Equation>Define <InlineEquation ID="IEq151"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq151.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\eta _j = |\gamma _j|/(\sum\nolimits _{j=1}^N |\gamma _j|)$$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq152"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq152.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\eta }= (\eta _1, \ldots , \eta _N)$$]]></EquationSource></InlineEquation>. Define <InlineEquation ID="IEq153"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq153.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$t = \sum\nolimits _{j=1}^N |\gamma _j|$$]]></EquationSource></InlineEquation>. We have<Equation ID="Equa4"><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equa4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \gamma ^{\top }\nabla ^2 \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i)\gamma \le t^2 \left(\sum _{k=1}^{n_i} \frac{\sum _{j=1}^N \eta _j \kappa (\mathbf{ x} _k^i, \mathbf{ c} _j)}{\sum _{j=1}^N \alpha _j \kappa (\mathbf{ x} _k^i, \mathbf{ c} _j)} \right) \end{aligned}$$]]></EquationSource></Equation>Since <InlineEquation ID="IEq154"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq154.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^i$$]]></EquationSource></InlineEquation> maximizes <InlineEquation ID="IEq155"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq155.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }),$$]]></EquationSource></InlineEquation> we have<Equation ID="Equa5"><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equa5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} (\varvec{\eta }- \varvec{\alpha }^i)^{\top }\nabla \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }) \le 0, \end{aligned}$$]]></EquationSource></Equation>which implies<Equation ID="Equa6"><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equa6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \sum _{k=1}^{n_i} \frac{\sum _{j=1}^N \eta _j \kappa (\mathbf{ x} _k^i, \mathbf{ c} _j)}{\sum _{j=1}^N \alpha _j \kappa (\mathbf{ x} _k^i, \mathbf{ c} _j)} \le 1 \end{aligned}$$]]></EquationSource></Equation>Since <InlineEquation ID="IEq156"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq156.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$t \le \sqrt{N},$$]]></EquationSource></InlineEquation> we have <InlineEquation ID="IEq157"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq157.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\nabla ^2 \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i) \succeq -N I$$]]></EquationSource></InlineEquation>. </Para>
+                </FormalPara>
+                <Para>Using the result in Lemma 1, the objective function in (<InternalRef RefID="Equ10">10</InternalRef>) can be approximated as<Equation ID="Equ12"><EquationNumber>12</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \sum _{i=1}^C \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^g) \approx \sum _{i=1}^C \mathcal{ L} (\mathcal{ I} _i, \varvec{\alpha }^i) - \frac{N}{2}\sum _{i=1}^{C} |\varvec{\alpha }^i - \varvec{\alpha }^g|_2^2 \end{aligned}$$]]></EquationSource></Equation>The global weights <InlineEquation ID="IEq158"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq158.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^g$$]]></EquationSource></InlineEquation> maximizing (<InternalRef RefID="Equ12">12</InternalRef>) is <InlineEquation ID="IEq159"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq159.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^g = \frac{1}{C} \sum\nolimits _{i=1}^C \varvec{\alpha }^i$$]]></EquationSource></InlineEquation> which shows that <InlineEquation ID="IEq160"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq160.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^g$$]]></EquationSource></InlineEquation> can be computed as an average of <InlineEquation ID="IEq161"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq161.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\{\varvec{\alpha }^i\}_{i=1}^C$$]]></EquationSource></InlineEquation> that are optimized for individual images.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Efficient image search</Heading>
+                <Para>Given the kernel density function <InlineEquation ID="IEq162"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq162.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$p(\mathbf{ x} |\mathcal{ I} _i)$$]]></EquationSource></InlineEquation> for each image in gallery <InlineEquation ID="IEq163"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq163.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ G} $$]]></EquationSource></InlineEquation> and a query <InlineEquation ID="IEq164"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq164.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ Q} ,$$]]></EquationSource></InlineEquation> the next question is how to efficiently identify the subset of images that are likely to be visually similar to the query <InlineEquation ID="IEq165"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq165.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ Q} $$]]></EquationSource></InlineEquation> and furthermore rank those images in the descending order of their similarity. Following the framework of statistical language models for text retrieval, we estimate the similarity by the likelihood of generating the keypoints <InlineEquation ID="IEq166"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq166.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\{\mathbf{ q} _i\}_{i=1}^m$$]]></EquationSource></InlineEquation> observed in the query <InlineEquation ID="IEq167"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq167.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ Q} ,$$]]></EquationSource></InlineEquation> i.e.,<Equation ID="Equ13"><EquationNumber>13</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \log p(\mathcal{ Q} |\mathcal{ I} _i) = \sum _{k=1}^{m} \log \left(\sum _{j=1}^N \alpha ^i_j \kappa (\mathbf{ q} _k, \mathbf{ c} _j) \right) \end{aligned}$$]]></EquationSource></Equation>where <InlineEquation ID="IEq168"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq168.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }^i = (\alpha ^i_1, \ldots , \alpha ^i_N)$$]]></EquationSource></InlineEquation> are the weights for constructing the kernel density function for image <InlineEquation ID="IEq169"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq169.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} _i$$]]></EquationSource></InlineEquation>. Clearly, a naive implementation will require a linear scan of all the images in the database before the subset of similar ones is found. To achieve the efficient image retrieval, we need to exploit the sparse structure of <InlineEquation ID="IEq170"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq170.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha $$]]></EquationSource></InlineEquation> in (<InternalRef RefID="Equ9">9</InternalRef>). We define<Equation ID="Equ14"><EquationNumber>14</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \widehat{\alpha }^i_j = \frac{1}{n_i}\sum _{k=1}^{n_i} \frac{\kappa (\mathbf{ x} ^i_k, \mathbf{ c} _j)}{\sum _{l=1}^N \kappa (\mathbf{ x} _k^i, \mathbf{ c} _l)} \end{aligned}$$]]></EquationSource></Equation>We then write <InlineEquation ID="IEq171"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq171.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha ^i_j$$]]></EquationSource></InlineEquation> as<Equation ID="Equ15"><EquationNumber>15</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \alpha ^i_j = \frac{\lambda }{n_i + \lambda } \alpha ^g_j + \frac{n_i}{ n_i + \lambda } \widehat{\alpha }_j^i \end{aligned}$$]]></EquationSource></Equation>Note that although <InlineEquation ID="IEq172"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq172.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\widehat{\alpha }^i_j$$]]></EquationSource></InlineEquation> is sparse, <InlineEquation ID="IEq173"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq173.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\alpha ^i_j$$]]></EquationSource></InlineEquation> is not. Our goal is to effectively explore the sparsity of <InlineEquation ID="IEq174"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq174.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\widehat{\alpha }^i_j$$]]></EquationSource></InlineEquation> for efficient image retrieval. Using the expression in (<InternalRef RefID="Equ15">15</InternalRef>), we have <InlineEquation ID="IEq175"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq175.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\log p(\mathcal{ Q} |\mathcal{ I} _i)$$]]></EquationSource></InlineEquation> expressed as<Equation ID="Equ16"><EquationNumber>16</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\log p(\mathcal{ Q} |\mathcal{ I} _i)\nonumber \\&\quad = \sum _{j=1}^{m} \log \left(\sum _{l=1}^N\left(\frac{\lambda }{n_i+\lambda } \alpha _{l}^g + \frac{n_i}{n_i+\lambda }\widehat{\alpha }^i_{l}\right) \kappa (\mathbf{ x} _j, \mathbf{ c} _l)\right) \nonumber \\&\quad = \sum _{j=1}^{m} \log \left( 1+ \frac{n_i}{\lambda }\frac{\sum _{l=1}^N \widehat{\alpha }^i_l \kappa (\mathbf{ x} _j, \mathbf{ c} _l)}{\sum _{l=1}^N \alpha _l^g \kappa (\mathbf{ x} _j, \mathbf{ c} _l)}\right) + s_Q \end{aligned}$$]]></EquationSource></Equation>where<Equation ID="Equ17"><EquationNumber>17</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} s_Q = \sum _{j=1}^{m}\log \left(\frac{\lambda }{n_i+ \lambda }\right)+\sum _{j=1}^{m}\log \left( \sum _{l=1}^N \alpha _l^g \kappa (\mathbf{ x} _j, \mathbf{ c} _l)\right) \end{aligned}$$]]></EquationSource></Equation>Note that (1) the second term of <InlineEquation ID="IEq176"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq176.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$s_Q$$]]></EquationSource></InlineEquation> is independent of the individual images for the same query, and (2) <InlineEquation ID="IEq177"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq177.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\log p(\mathcal{ Q} |\mathcal{ I} _i) \ge s_Q$$]]></EquationSource></InlineEquation> for any image <InlineEquation ID="IEq178"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq178.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} _i$$]]></EquationSource></InlineEquation>. Given the above facts, our goal is to efficiently find the subset of images whose query log-likelihood is <Emphasis Type="Italic">strictly</Emphasis> larger than <InlineEquation ID="IEq179"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq179.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$s_Q,$$]]></EquationSource></InlineEquation> i.e., <InlineEquation ID="IEq180"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq180.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\log p(\mathcal{ Q} |\mathcal{ I} _i) > s_Q$$]]></EquationSource></InlineEquation>. To this end, we consider the following procedure:<UnorderedList Mark="Bullet"><ItemContent><Para><Emphasis Type="Italic">Finding the relevant centers</Emphasis><InlineEquation ID="IEq181"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq181.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ C} _Q$$]]></EquationSource></InlineEquation><Emphasis Type="Italic">for a given query</Emphasis><InlineEquation ID="IEq182"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq182.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ Q} $$]]></EquationSource></InlineEquation> Given a query image <InlineEquation ID="IEq183"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq183.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ Q} $$]]></EquationSource></InlineEquation> with keypoints <InlineEquation ID="IEq184"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq184.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ q} _1, \ldots , \mathbf{ q} _m,$$]]></EquationSource></InlineEquation> we first identify the subset of centers, denoted by <InlineEquation ID="IEq185"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq185.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ C} _Q,$$]]></EquationSource></InlineEquation> that are within distance <InlineEquation ID="IEq186"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq186.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> of the keypoints in <InlineEquation ID="IEq187"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq187.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ Q} ,$$]]></EquationSource></InlineEquation> i.e., <InlineEquation ID="IEq188"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq188.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ C} _Q = \left\{ \mathbf{ c} _j: \exists \mathbf{ q} _k \in \mathcal{ Q} \text{ s.} \text{ t.} |\mathbf{ q} _k - \mathbf{ c} _j|_2 \le \rho \right\} $$]]></EquationSource></InlineEquation>.</Para></ItemContent><ItemContent><Para><Emphasis Type="Italic">Finding the candidates of similar images using the relevant centers</Emphasis> Given the relevant centers in <InlineEquation ID="IEq189"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq189.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ C} _Q,$$]]></EquationSource></InlineEquation> we find the subset of images that have at least one non-zero <InlineEquation ID="IEq190"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq190.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\widehat{\alpha }^i_j$$]]></EquationSource></InlineEquation> for the centers in <InlineEquation ID="IEq191"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq191.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ C} _Q,$$]]></EquationSource></InlineEquation> i.e., <Equation ID="Equ18"><EquationNumber>18</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathcal{ R} _Q = \left\{ \mathcal{ I} _i \in \mathcal{ G} : \sum _{\mathbf{ c} _j \in \mathcal{ C} _Q} \widehat{\alpha }^i_j > 0 \right\} \end{aligned}$$]]></EquationSource></Equation></Para></ItemContent></UnorderedList>Theorem 2 shows that all the images with query log-likelihood larger than <InlineEquation ID="IEq192"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq192.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$s_Q$$]]></EquationSource></InlineEquation> belong to <InlineEquation ID="IEq193"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq193.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ R} _Q$$]]></EquationSource></InlineEquation>.</Para>
+                <FormalPara RenderingStyle="Style1">
+                  <Heading>
+                    <Emphasis Type="Bold">Theorem 2</Emphasis>
+                  </Heading>
+                  <Para> Let <InlineEquation ID="IEq194"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq194.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ S} _Q$$]]></EquationSource></InlineEquation> denote the set of images with query log-likelihood larger than <InlineEquation ID="IEq195"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq195.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$s_Q,$$]]></EquationSource></InlineEquation> i.e., <InlineEquation ID="IEq196"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq196.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ S} _Q = \{\mathcal{ I} _i \in \mathcal{ G} : \log p(\mathcal{ Q} |\mathcal{ I} _i) > s_Q\}$$]]></EquationSource></InlineEquation>. We have <InlineEquation ID="IEq197"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq197.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ S} _Q = \mathcal{ R} _Q$$]]></EquationSource></InlineEquation>. </Para>
+                </FormalPara>
+                <Para>It is easy to verify the above theorem. In order to efficiently construct <InlineEquation ID="IEq198"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq198.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ R} _Q$$]]></EquationSource></InlineEquation> (or <InlineEquation ID="IEq199"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq199.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ S} _Q$$]]></EquationSource></InlineEquation>) for a given query <InlineEquation ID="IEq200"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq200.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$ \mathcal{ Q} $$]]></EquationSource></InlineEquation>, we exploit the technique of invert indexing [<CitationRef CitationID="CR27">27</CitationRef>]: we preprocess the images to obtain a list for each <InlineEquation ID="IEq201"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq201.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ c} _j,$$]]></EquationSource></InlineEquation> denoted <InlineEquation ID="IEq202"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq202.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ V} _j,$$]]></EquationSource></InlineEquation> that includes all the images <InlineEquation ID="IEq203"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq203.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathcal{ I} _i$$]]></EquationSource></InlineEquation> with <InlineEquation ID="IEq204"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq204.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\widehat{\alpha }^i_j > 0$$]]></EquationSource></InlineEquation>. Clearly, we have<Equation ID="Equ19"><EquationNumber>19</EquationNumber><MediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_Equ19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></MediaObject><EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathcal{ R} _Q = \bigcup \limits _{\mathbf{ c} _j \in \mathcal{ C} _Q} \mathcal{ V} _j \end{aligned}$$]]></EquationSource></Equation>Algorithm <InternalRef RefID="Figa2">2</InternalRef> summarizes the procedure of efficient image retrieval.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="No" ID="Figa2">
+                    <MediaObject ID="MO29">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_12_Figb_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7">
+              <Heading>Comparing with the bag-of-words model</Heading>
+              <Para>To better understand the proposed method in (<InternalRef RefID="Equ2">2</InternalRef>), we compare it with the bag-of-words model. More specifically, we can view each random center <InlineEquation ID="IEq221"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq221.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\mathbf{ c} _i$$]]></EquationSource></InlineEquation> as a different visual word and each <InlineEquation ID="IEq222"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq222.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> as a histogram vector. One computational advantage of the proposed method is that, while the bag-of-words model requires clustering all the keypoints into a large number of clusters, the proposed method only needs to randomly select a number of keypoints from the database which is computationally efficient. Although recent progress on approximate nearest neighbor search [<CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>, <CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR31">31</CitationRef>, <CitationRef CitationID="CR43">43</CitationRef>] has made it feasible to group billions of keypoints into millions of clusters, the computational cost is still very high. We will see this clearly later in our empirical study.</Para>
+              <Para>Second, in the bag-of-words model, we need to map each keypoint to the closest visual word(s). Since the computational cost of this procedure is linear in the number of keypoints, it is time consuming when the number of keypoints is very large; the proposed method, however, only needs to conduct a range search for every randomly selected centers and the number of those centers is in general significantly smaller than the number of keypoints, for example, one million centers versus on billion keypoints. This computational saving makes the proposed method more suitable for large image databases than the bag-of-words model.</Para>
+              <Para>Third, in the bag-of-words model, the radius of clusters (i.e., the maximum distance between the keypoints in a cluster and its center) could vary significantly from cluster to cluster. As a result, for cluster with large radius, two keypoints can be mapped to the same visual word even if they differ significantly in visual features, leading to an inconsistent criterion for keypoints’ quantization and potentially suboptimal performance in retrieval; on the contrary, the proposed method uses a range search for each center which ensures that only “similar” keypoints, which are within the distance of <InlineEquation ID="IEq223"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq223.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$r$$]]></EquationSource></InlineEquation> to the center, will contribute to the corresponding element in the weight <InlineEquation ID="IEq224"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq224.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> of that center.</Para>
+              <Para>Fourth, a keypoint is ignored by the proposed method if its distances to all the centers are larger than the threshold. The underlying rationale is that if a keypoint is far away from all centers, it is very likely to be an outlier and therefore should be ignored, whereas in the bag-of-words model every keypoint must be mapped to a cluster center even if the keypoint is far away from all the cluster centers. We will see this advantage of the proposed method clearly demonstrated in the experiments.</Para>
+              <Para>We also noticed that a recently developed random seeding keypoints quantization method [<CitationRef CitationID="CR20">20</CitationRef>] for generating the bag-of-words representation utilizes the same randomly sampling and range search strategy as the proposed method. In this random seeding method, a large set of keypoints are first randomly sampled from the whole collection of the keypoints and those keypoints are called seeds. In the next, a range search is performed around each seed to find out which keypoints are within certain range of the seed. If a keypoint is found within the range of a seed, then the keypoint is quantized by that seed. With this simple strategy, the bag-of-words model can be constructed efficiently than using clustering. It is also clear that the random seeding method has the same advantages of the proposed method over the clustering-based bag-of-words methods mentioned earlier. However, one of the major differences between the proposed method and the random seeding is that in the random seeding method, the keypoints quantization and the image retrieval are still two separated components, while in the proposed method the two steps are unified by the introduction of density function. The second very important advantage of the proposed method over the random seeding method is that in the retrieval step the random seeding method uses the ad-hoc term weighting methods, for example, TF-IDF, while the weighting scheme of the proposed method is integrated into the estimation of the model of each image which is actually decided by a maximum likelihood estimation. It has been proved in the text retrieval that the integrated term weighting scheme is in general superior than the ad-hoc methods [<CitationRef CitationID="CR27">27</CitationRef>] and our empirical study in the Sect. <InternalRef RefID="Sec8">4</InternalRef> also clearly demonstrate that the proposed method outperforms the random seeding method.</Para>
+            </Section1>
+            <Section1 ID="Sec8">
+              <Heading>Experiments</Heading>
+              <Section2 ID="Sec9">
+                <Heading>Datasets</Heading>
+                <Para>To evaluate the proposed method for large-scale image search, we conduct experiments on three benchmark data sets: (1) tattoo image dataset (<Emphasis Type="Bold">Tattoo</Emphasis>) with about 100,000 images. (2) Oxford building dataset with 5,000 images (<Emphasis Type="Bold">Oxford5K</Emphasis>) [<CitationRef CitationID="CR38">38</CitationRef>] and (3) Oxford building dataset plus one million Flickr images (<Emphasis Type="Bold">Oxford5K+Flickr1M</Emphasis>). Table <InternalRef RefID="Tab1">1</InternalRef> shows the details of the three datasets.</Para>
+                <Section3 ID="Sec10">
+                  <Heading>Tattoo image dataset (Tattoo)</Heading>
+                  <Para>Tattoos have been commonly used in forensics and law enforcement agencies to assist in human identification. The tattoo image database used in our study consist of 101,745 images, among which 61,745 are tattoo images and the remaining 40,000 images are randomly selected from the ESP dataset.<Footnote ID="Fn1"><Para><ExternalRef><RefSource>http://www.gwap.com/gwap/gamesPreview/espgame/</RefSource><RefTarget Address="http://www.gwap.com/gwap/gamesPreview/espgame/" TargetType="URL"/></ExternalRef>.</Para></Footnote> The purpose of adding images from the ESP dataset is to verify the capacity of the algorithms in distinguishing tattoo images from the other images. On average, about 100 Harris–Laplacian interesting points are detected for each image, and each keypoint is described by a 128-dimensional SIFT descriptor.</Para>
+                </Section3>
+                <Section3 ID="Sec11">
+                  <Heading>Oxford building dataset (Oxford5K)</Heading>
+                  <Para>The Oxford building dataset consists of 5,062 images. Although it is a small data set, we use it for evaluating the proposed algorithm for image retrieval mainly because it is one of the widely used benchmark datasets. When detecting keypoints for each image, we use both Harris–Laplacian and Hessian–Affine interesting point detectors and each keypoint is described by a 128-dimensional SIFT descriptor. Since the algorithms perform similarly with keypoints detected by the two methods, we only report the results based on the Harris–Laplacian detector. On average, about 3,000 keypoints are detected for each image.</Para>
+                </Section3>
+                <Section3 ID="Sec12">
+                  <Heading>Oxford building dataset plus one million Flickr images (Oxford5K+Flickr1M)</Heading>
+                  <Para>In this dataset, we first crawled Flickr.com to find about one million images of medium resolution and then added them into the Oxford building dataset. The same procedure is applied to extract keypoints from the crawled Flickr images.</Para>
+                  <Table Float="Yes" ID="Tab1">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Statistics of the datasets</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="4">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Data set</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara># images</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara># features</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>Descriptor size (GB)</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Tattoo</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>101,745</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>10,843,145</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>3.4</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Oxford5K</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>5,062</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>14,972,956</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>4.7</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Oxford5K + Flickr1M</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1,002,805</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>823,297,045</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>252.7</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </Table>
+                </Section3>
+              </Section2>
+              <Section2 ID="Sec13">
+                <Heading>Implementation and baselines</Heading>
+                <Para>For the implementation of the proposed method, the kernel function (<InternalRef RefID="Equ4">4</InternalRef>) is used. The centers for the kernel are randomly selected from the datasets. We employ the FLANN library<Footnote ID="Fn2"><Para><ExternalRef><RefSource>http://www.cs.ubc.ca/~mariusm/index.php/FLANN/FLANN</RefSource><RefTarget Address="http://www.cs.ubc.ca/~mariusm/index.php/FLANN/FLANN" TargetType="URL"/></ExternalRef>.</Para></Footnote> to perform the efficient range search.</Para>
+                <Para>Two clustering-based bag-of-words models are used as baselines. They are hierarchical k-means (<Emphasis Type="Bold">HKM</Emphasis>) implemented in the FLANN library and the approximate k-means (<Emphasis Type="Bold">AKM</Emphasis>) [<CitationRef CitationID="CR38">38</CitationRef>] in which the exact nearest neighbor search is replaced by k-d tree based approximate NN search. For HKM the branching factor is set to be 10 based on our experience. For AKM we use the implementation supplied by [<CitationRef CitationID="CR38">38</CitationRef>] for approximate nearest neighbor search. A forest of eight randomized k-d trees is used in all experiments. We initialize cluster centers by randomly selecting a number of keypoints in the dataset. The number of iterations for k-means is set to be 10 because we observed that the cluster centers of k-means remains almost unchanged after 10 iterations.</Para>
+                <Para>The third baseline used in the empirical study is the random seeding method (<Emphasis Type="Bold">RS</Emphasis>) [<CitationRef CitationID="CR20">20</CitationRef>] that we mentioned in the Sect. <InternalRef RefID="Sec7">3</InternalRef> in which a large set of keypoints are first randomly sampled as seeds and a range search with fixed radius over each seed is then conducted to quantize the keypoints. The bag-of-words model is finally generated using the range search results over the seeds. There are two parameters in the random seeding method: one is the number of seeds and the other is the radius for the range search. Since the random seeding method and the proposed method share the same procedures of the randomly sampling and range search, we use the same parameters as the proposed method which yield the bast performance.</Para>
+                <Para>For all of the three baseline methods, a state-of-the-art text retrieval method, Okapi BM25 [<CitationRef CitationID="CR39">39</CitationRef>] is used to compute the similarity between a query image and images in the gallery given their bag-of-words representations. The inverted indices for both Okapi BM25 and the proposed retrieval model are stored in memory to make the retrieval procedure efficient.</Para>
+              </Section2>
+              <Section2 ID="Sec14">
+                <Heading>Evaluation</Heading>
+                <Para>In order to examine the efficiency of the proposed method, we measure the time spent on preprocessing as well as retrieval stage of the retrieval systems. For the proposed method, the preprocessing stage consists of three steps, i.e., randomly selecting a number of centers, identifying keypoints within the predefined range of the selected centers and computing weights <InlineEquation ID="IEq226"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq226.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> of every image; for the baseline method <Emphasis Type="Bold">RS</Emphasis>, it is almost the same as the proposed method except without the computation of <InlineEquation ID="IEq227"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq227.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation>. For the clustering-based baseline <Emphasis Type="Bold">HKM</Emphasis> and <Emphasis Type="Bold">AKM</Emphasis>, it consists of two steps, constructing visual vocabulary by clustering and mapping keypoints to visual words. In terms of retrieval time, we report the averaged retrieving time of one query for the four methods. We emphasize that besides the retrieval time, the preprocessing time is also very important for an image retrieval system when it comes to a large collection of images and the image collection is updated frequently. Take <ExternalRef><RefSource>http://Flickr.com</RefSource><RefTarget Address="http://Flickr.com" TargetType="URL"/></ExternalRef> as an example, which is one of the most popular online photo sharing web sites; there are about 900,000 new images uploaded every day [<CitationRef CitationID="CR26">26</CitationRef>]. These images must be preprocessed in time to be used for retrieval, which requires the preprocessing of an algorithm be very efficient.</Para>
+                <Para>To evaluate the retrieval accuracy of the proposed method, we use two different metrics for the datasets. For tattoo image dataset, the retrieval accuracy is evaluated based on whether a system could retrieve images that share the tattoo symbol as in the query image. We adapt the evaluation metric termed Cumulative Matching Characteristics (CMC) score [<CitationRef CitationID="CR29">29</CitationRef>] in this study. For a given rank position <InlineEquation ID="IEq228"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq228.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$k,$$]]></EquationSource></InlineEquation> its CMC score is computed as the percentage of queries whose matched images are found in the first <InlineEquation ID="IEq229"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq229.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$k$$]]></EquationSource></InlineEquation> retrieved images. The CMC score is similar to recall, a common metric used in Information Retrieval. We use CMC score on the tattoo database because it is the most widely used evaluation metric in forensic analysis.</Para>
+                <Para>For the Oxford building dataset and the Oxford building plus Flickr dataset, we follow [<CitationRef CitationID="CR38">38</CitationRef>] and evaluate the retrieval performance by Average Precision (AP) which is computed as the area under the precision–recall curve. In particular, an average precision score is computed for each of the five queries from a landmark specified in the Oxford building dataset, and these results are averaged to obtain the mean Average Precision (mAP) for each landmark.</Para>
+              </Section2>
+              <Section2 ID="Sec15">
+                <Heading>Results on the tattoo image dataset</Heading>
+                <Para>We select 995 images as queries and manually identify the gallery images that have the same tattoo symbols as the query images. We randomly select 100 images among the 995 query images and use them to train the optimal values for both <InlineEquation ID="IEq230"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq230.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\lambda $$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq231"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq231.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation>. The learned parameter <InlineEquation ID="IEq232"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq232.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\lambda $$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq233"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq233.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> are used for the consequential experiments. The remaining images are used for testing.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>The CMC scores for tattoo image retrieval with one million cluster/random centers</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO30">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_12_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>We first show the retrieval results of both the proposed method and the baseline methods with the parameters tuned to achieve the best performance and then show the sensitive of the proposed algorithm to the choice of parameters. Figure <InternalRef RefID="Fig2">2</InternalRef> gives the retrieval performance of the four methods in CMC curves for the first 100 retrieved images. It is clear that the proposed algorithms outperform the baseline methods, especially when the number of retrieved images is small.</Para>
+                <Para>The efficiency of the four methods are listed in Table <InternalRef RefID="Tab2">2</InternalRef>. For the preprocessing time, the proposed method is almost the same as random seeding method. Note that, in preprocessing the only difference between the proposed method and the random seeding method is that the proposed method needs to compute <InlineEquation ID="IEq234"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq234.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> while the random seeding method does not. From this result, we observe the computation of <InlineEquation ID="IEq235"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq235.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> is very efficient and in general its computational cost can be ignored. This result demonstrates that the proposed method is as efficient as the random seeding method in preprocessing. Comparing with the clustering-based methods, we can clearly observe that both the proposed method and the random seeding method are significantly more efficient which is about 8 times faster than the hierarchical k-means clustering more than 30 times faster than the approximate k-means method.</Para>
+                <Table Float="Yes" ID="Tab2">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>The preprocessing and retrieval time of the four methods on tattoo dataset</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="3">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Preprocessing</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Retrieval</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" colname="c2">
+                          <SimplePara>time (h)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>time (s)</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Proposed</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>1.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.02</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>RS</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>1.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.01</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>HKM</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>8.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.01</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>AKM</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>31.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.01</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Results of the proposed method for tattoo image retrieval with different value of <InlineEquation ID="IEq236"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq236.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\lambda $$]]></EquationSource></InlineEquation> base on one million random centers with <InlineEquation ID="IEq237"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq237.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho = 0.6 \bar{d}$$]]></EquationSource></InlineEquation>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO31">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_12_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>For the retrieval time, the proposed method is a little bit slower than the three baseline methods. After carefully checking the implementation, we found that the difference in retrieval time is because the logarithm function used by the proposed method in (<InternalRef RefID="Equ16">16</InternalRef>) takes a significantly longer time to be computed than the simple addition and multiplication used by baseline methods which is BM25 model. In a real retrieval system, however, this disadvantage can be overcome by some engineering tricks. For example, a logarithm look up table can be built in advance and computing the logarithm of a value can be simplified as checking the lookup table. In fact, this trick is commonly used in the implementation of automatic speech recognition systems.</Para>
+              </Section2>
+              <Section2 ID="Sec16">
+                <Heading>Parameter <InlineEquation ID="IEq238"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq238.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\lambda $$]]></EquationSource></InlineEquation>
+                </Heading>
+                <Para>Figure <InternalRef RefID="Fig3">3</InternalRef> shows the CMC curves of the proposed method with <InlineEquation ID="IEq239"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq239.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\lambda $$]]></EquationSource></InlineEquation> varied from <InlineEquation ID="IEq240"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq240.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$0.01\bar{n}$$]]></EquationSource></InlineEquation> to <InlineEquation ID="IEq241"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq241.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$100 \bar{n}$$]]></EquationSource></InlineEquation>, where <InlineEquation ID="IEq242"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq242.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\bar{n}$$]]></EquationSource></InlineEquation> is the average number of keypoints in an image. In this experiment, we set the number of random centers to be one million, and <InlineEquation ID="IEq243"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq243.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> to be 0.6 <InlineEquation ID="IEq244"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq244.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\bar{d}}$$]]></EquationSource></InlineEquation>, where <InlineEquation ID="IEq245"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq245.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\bar{d}}$$]]></EquationSource></InlineEquation> is the average distance between any two keypoints which is estimated from 1,000 randomly sampled keypoints from the collection. This result shows the performance of the proposed method is overall not sensitive to the choice of <InlineEquation ID="IEq246"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq246.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\lambda $$]]></EquationSource></InlineEquation>.</Para>
+              </Section2>
+              <Section2 ID="Sec17">
+                <Heading>Parameter <InlineEquation ID="IEq247"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq247.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation>
+                </Heading>
+                <Para>Figure <InternalRef RefID="Fig4">4</InternalRef> shows the CMC curves of the proposed method with <InlineEquation ID="IEq248"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq248.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> varied from <InlineEquation ID="IEq249"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq249.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$0.3\bar{d}$$]]></EquationSource></InlineEquation> to <InlineEquation ID="IEq250"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq250.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$1.1 \bar{d}$$]]></EquationSource></InlineEquation>. In this experiment, we again fixed the number of centers to be one million. From the figure we observe that with the exception of the smallest radius <InlineEquation ID="IEq251"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq251.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> (i.e., <InlineEquation ID="IEq252"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq252.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$r = 0.3\bar{d}$$]]></EquationSource></InlineEquation>), the retrieval system achieves similar performance for different values of <InlineEquation ID="IEq253"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq253.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation>. This indicates that the proposed algorithm is in general insensitive to the choice of <InlineEquation ID="IEq254"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq254.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> as long as <InlineEquation ID="IEq255"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq255.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> is large enough compared with the average inter-points distance between keypoints. This result can be understood by the fact that in a high-dimensional space, most data points are far from each other and as a result, unless we dramatically change the radius <InlineEquation ID="IEq256"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq256.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation>, we do not expect the points within a distance <InlineEquation ID="IEq257"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq257.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> of the centers to change significantly.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Results of the proposed method for tattoo image retrieval with different value of <InlineEquation ID="IEq258"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq258.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> base on one million random centers</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO32">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_12_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec18">
+                <Heading>Number of random centers</Heading>
+                <Para>Figure <InternalRef RefID="Fig5">5</InternalRef> shows the performance of the proposed method with different number of randomly selected centers. The <InlineEquation ID="IEq259"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq259.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\lambda $$]]></EquationSource></InlineEquation> and <InlineEquation ID="IEq260"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq260.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho $$]]></EquationSource></InlineEquation> are selected to maximize the performance for the given number of centers. We clearly observe a significant increase in the retrieval accuracy when the number of centers is increased from 10K to 1M. This is not surprising because a large number of random centers usually result in a better discrimination between different SIFT keypoints and consequently lead to an improvement in the detection of similar images. A similar observation is also found when we run our retrieval system using the bag-of-words model approach which is consistent with the observation in [<CitationRef CitationID="CR38">38</CitationRef>].</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Results of the proposed method for tattoo image retrieval with different number of centers</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO33">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_12_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Table Float="Yes" ID="Tab3">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>mAP results of the proposed method and baseline methods for Oxford5K building data set and Oxford5K <InlineEquation ID="IEq261"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq261.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr1M data set</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="5">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Proposed</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>RS</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>HKM</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>AKM</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Oxford5K</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>0.61</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.57</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.53</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0.57</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Oxford5K <InlineEquation ID="IEq262"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq262.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr1M</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>0.45</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.43</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.36</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0.39</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+              </Section2>
+              <Section2 ID="Sec19">
+                <Heading>Results on Oxford building and Oxford building <InlineEquation ID="IEq263"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq263.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr datasets</Heading>
+                <Para>Based on the observation from the experiments of tattoo image retrieval and the similar observation in [<CitationRef CitationID="CR38">38</CitationRef>], we use one million cluster/random centers in this experiment. The parameters of the proposed methods are set as the following based on our experiments done with tattoo images. We set <InlineEquation ID="IEq264"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq264.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho = 0.6\bar{d},$$]]></EquationSource></InlineEquation> where <InlineEquation ID="IEq265"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq265.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\bar{d}$$]]></EquationSource></InlineEquation> is the average inter-points distance that was estimated based on 1,000 randomly sampled pairs. We set the parameter <InlineEquation ID="IEq266"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq266.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\lambda =10 \bar{n}$$]]></EquationSource></InlineEquation> where <InlineEquation ID="IEq267"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq267.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\bar{n}$$]]></EquationSource></InlineEquation> is the average number of keypoint in an image.</Para>
+                <Para>The mAP results of the proposed method and baseline methods are listed in Table <InternalRef RefID="Tab3">3</InternalRef>. Note that for the Oxford5K + Flickr1M dataset, we follow the experimental protocol in [<CitationRef CitationID="CR38">38</CitationRef>] by only using the cluster/random centers that are obtained from the images in the Oxford5K dataset. The results clearly show that the proposed method outperforms baselines.</Para>
+                <Para>As expected the performance of the proposed method drops slightly when the 1M Flickr images are added to the Oxford5K dataset. In contrast, the two clustering-based bag-of-words based methods suffer from a significant loss in the performance when we include one million images into the Oxford5K data set. We believe this difference in the performance is due to the fact that the visual content of the one million Flickr images is significantly different from that of the Oxford 5K images, i.e., the keypoints extracted from the Flickr images are generally far away from those in the Oxford5K images. As discussed earlier, the proposed method is robust to the outlying keypoints which makes it less sensitive to the inclusion of the Flickr1M dataset than the clustering-based bag-of-words model. To verify this, we measure the distance between keypoints and centers for both Oxford5k data set and Oxford5k+Flickr1M data set. We find that for the Oxford building images, there are <InlineEquation ID="IEq269"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq269.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$${\sim }$$]]></EquationSource></InlineEquation>8% keypoints that are separated from any of the centers by a distance larger than <InlineEquation ID="IEq270"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq270.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\rho \!=\!0.6\bar{d}$$]]></EquationSource></InlineEquation>. This percentage is increased to <InlineEquation ID="IEq271"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq271.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\sim $$]]></EquationSource></InlineEquation>24% for the Flickr images, indicating that a large portion of keypoints from the Flickr images are significantly different from the keypoints from the Oxford building images.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig6">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Examples of two queries (<Emphasis Type="Italic">the first column</Emphasis>) and the first six retrieved images. The <Emphasis Type="Italic">first four rows</Emphasis> give the retrieved results for the Oxford5K building database, and the <Emphasis Type="Italic">next four rows</Emphasis> give the retrieved results for Oxford5K + Flickr1M database. The correctly retrieved results are outlined in <Emphasis Type="Italic">green</Emphasis> and irrelevant images are marked in <Emphasis Type="Italic">red</Emphasis> (color figure online)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO34">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_12_Fig6_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>In Fig. <InternalRef RefID="Fig6">6</InternalRef>, we show two examples of the queries and the retrieved images. From the retrieval results of the first query, we can clearly observe that the proposed method retrieves images with different patterns to the images retrieved by the three baseline methods. This is mainly because of the different term weighting scheme used in the proposed method as we emphasized in the early sections. For example, because the random seeding method employs different weighting scheme to the proposed method, even if it uses the same sampling and range search procedure as the proposed method, it retrieves quite different images from the proposed method. On the other hand, because the random seeding method uses the same retrieval model, e.g., the same term weighting scheme, as the other two clustering-based methods, even if it uses quite different strategy than the clustering-based methods in generating the bag-of-words representation, they still retrieve images with similar patterns.</Para>
+                <Table Float="Yes" ID="Tab4">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 4</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Preprocessing and retrieval times of the proposed method and the baseline methods with one million cluster/random centers</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="5">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" nameend="c3" namest="c2">
+                          <SimplePara>Oxford5K</SimplePara>
+                        </entry>
+                        <entry align="left" nameend="c5" namest="c4">
+                          <SimplePara>Oxford5K <InlineEquation ID="IEq273"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq273.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr1M</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Preprocess (h)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Retrieval (s)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Preprocess (h)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Retrieval (s)</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Proposed</SimplePara>
+                        </entry>
+                        <entry align="center" colname="c2">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.12</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>95</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>1.3</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>RS</SimplePara>
+                        </entry>
+                        <entry align="center" colname="c2">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.07</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>95</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0.68</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>HKM</SimplePara>
+                        </entry>
+                        <entry align="center" colname="c2">
+                          <SimplePara>11.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.08</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>685</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0.84</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>AKM</SimplePara>
+                        </entry>
+                        <entry align="center" colname="c2">
+                          <SimplePara>36.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.08</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>262</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0.89</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Para>The preprocessing and retrieval times of the two algorithms are shown in Table <InternalRef RefID="Tab4">4</InternalRef>. For preprocessing, we split the Oxford5K <InlineEquation ID="IEq274"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq274.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr1M dataset into 82 subsets and each subset contains about 10,000,000 keypoints. These 82 subsets are processed separately on multiple machines and are aggregated later to obtain the final result of keypoint quantization. The preprocessing time for Oxford5K <InlineEquation ID="IEq275"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq275.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr1M dataset is estimated by the average processing time of each of the 82 subsets. Note that for the Oxford5K <InlineEquation ID="IEq276"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq276.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr1M dataset, the preprocessing time of AKM is significantly shorter than HKM. This is because we use the same cluster centers that are generated from the Oxford5K dataset to quantize the keypoints in Oxford5K <InlineEquation ID="IEq277"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq277.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr1M dataset. Hence, the processing time for the Oxford5K <InlineEquation ID="IEq278"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq278.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr1M dataset only involves finding the nearest neighbor cluster center for each keypoint in the Oxford5K <InlineEquation ID="IEq279"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq279.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr1M dataset. We find that the implementation of k-d tree based approximate nearest neighbor search employed in AKM is roughly three times faster than that of HKM, thereby leading to a shorter processing time for AKM than for HKM for the Oxford5K <InlineEquation ID="IEq280"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq280.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource></InlineEquation> Flickr1M dataset. From the table, it shows clearly that, for both of the datasets, the proposed method is significantly more efficient, for example, ten times faster, in preprocessing time than the clustering-based methods. Combining the results of preprocessing time from the previous experiment on the tattoo image dataset, we can draw the conclusion that the proposed method is significant more efficient than the clustering-based methods in terms of preprocessing time, which makes it more applicable to large-scale image retrieval.</Para>
+                <Para>For the retrieval time, the proposed method is a little bit slower than the baseline methods which is similar to what we have observed on the tattoo dataset. As we discussed earlier, this is mainly due to the slow computation of the logarithm function used by the proposed method in (<InternalRef RefID="Equ16">16</InternalRef>) which can be easily overcome by some engineering tricks, for example, a pre-built logarithm look up table.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec20">
+              <Heading>Conclusion and future work</Heading>
+              <Para>In this paper, we presented a statistical modeling approach for large-scale near-duplicate image retrieval. The key idea of the proposed method is to view the bag of features extracted from each image as random samples from an underlying unknown distribution. More specifically, for each image, we first estimate its underlying density function from the observed bag of features. The similarity between the given query and a data base image is then computed by the query likelihood, i.e., the likelihood of generating the observed bag of features of the query image with the given density function of an database image.</Para>
+              <Para>There are two major challenges when applying such idea onto large scale datasets: how to efficiently estimate the density function of keypoint distribution for each image and how to quickly identify the subset of images in the gallery that is visually similar to a given query. We have developed algorithms in this paper which successfully solve these two challenges. Comparing with the widely used clustering-based bag-of-words model, the new method proposed has a couple of advantages.</Para>
+              <Para>First, in the bag-of-words model, the step of keypoints quantization and step of image matching are totally separated while in the proposed method these two steps are naturally unified with the introduction of density function of each image. With the unification of the two steps, the whole process can then be optimized which leads to improved retrieval performance.</Para>
+              <Para>Second, because of the separation of the keypoint quantization and image marching in the bag-of-words model, it often employs ad-hoc term weighting scheme in the retrieval step, such as TF-IDF. However, in the proposed method the term weighting is embedded into the estimation of query likelihood. In the field of text retrieval, this embedded term weighting scheme, such as statistical language model, has been shown to be more effective than the ad-hoc schemes. Our empirical studies of the proposed method also clearly demonstrate this advantage.</Para>
+              <Para>Third, the proposed method is much more efficient in preprocessing the data than the clustering-based bag-of-words model. This is because the proposed method first avoids the step of clustering and simply randomly selects a number of keypoints as centers, which is very efficient. Then the proposed method only conducts the range search over the sampled centers while the clustering-based bag-of-words model needs to do the nearest neighbor search over all the keypoints. Since the number of randomly sampled centers is much smaller than the number of overall keypoints, for example, one millon randomly sampled centers versus one billion keypoints, the proposed method is much more computational efficient.</Para>
+              <Para>Fourth, in the clustering-based bag-of-words model, the radius of clusters could vary significantly from cluster to cluster which leads to an inconsistent criterion for keypoints quantization and potentially suboptimal performance in retrieval; on the contrary, the proposed method uses a range search for each center which ensures that only “similar” keypoints will contribute to the corresponding element in the weight <InlineEquation ID="IEq281"><InlineMediaObject><ImageObject Color="BlackWhite" FileRef="13735_2012_12_Article_IEq281.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/></InlineMediaObject><EquationSource Format="TEX"><![CDATA[$$\varvec{\alpha }$$]]></EquationSource></InlineEquation> of that center.</Para>
+              <Para>Finally, the proposed method is more robust to the outlier keypoints than the clustering-based bag-of-words model. This is because if a keypoint is far away from all centers it is very likely to be an outlier and such keypoints are ignored by the proposed method, whereas in the clustering-based bag-of-words model, even if a keypoint is far away from all the cluster centers, it has to be mapped to a cluster center.</Para>
+              <Para>In the future research, we would like to enrich the method developed in this paper along the direction of incorporating the geometric relationship between keypoints. Several recent studies [<CitationRef CitationID="CR36">36</CitationRef>, <CitationRef CitationID="CR40">40</CitationRef>, <CitationRef CitationID="CR49">49</CitationRef>, <CitationRef CitationID="CR53">53</CitationRef>, <CitationRef CitationID="CR54">54</CitationRef>, <CitationRef CitationID="CR55">55</CitationRef>, <CitationRef CitationID="CR56">56</CitationRef>] have shown that by incorporating the geometric relationship among the keypoints, one can further improve the accuracy of image retrieval. For example, in [<CitationRef CitationID="CR40">40</CitationRef>, <CitationRef CitationID="CR49">49</CitationRef>], rigid spatial information is embedded by partitioning and quantizing the image space; in [<CitationRef CitationID="CR55">55</CitationRef>, <CitationRef CitationID="CR56">56</CitationRef>], geometry-preserving visual phrases are introduced to model the co-occurrences of visual words, either in the entire images or in local neighborhoods. It is particularly interesting to notice that the idea of visual phrases in those studies is a very close analogy to the widely used n-gram model in the filed of text retrieval which could gives us a good starting point to develop statistical methods to incorporate geometry information into image retrieval.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_Article_12.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_12_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>Boughorbel S, Tarel JP, Fleuret F (2004) Non-mercer kernels for svm object recognition. In: BMVC. doi: <ExternalRef><RefSource>10.5244/C.18.16</RefSource><RefTarget TargetType="DOI" Address="10.5244/C.18.16"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>Carson C, Belongie S, Greenspan H, Malik J (1997) Region-based image querying. In: Proceedings of IEEE workshop on content-based access of image and video libraries, pp 42–49. doi: <ExternalRef><RefSource>10.1109/IVL.1997.629719</RefSource><RefTarget TargetType="DOI" Address="10.1109/IVL.1997.629719"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>Csurka G, Dance C, Fan L, Willamowski J, Bray C (2004) Visual categorization with bags of keypoints. In: Workshop on statistical learning in computer vision</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>Datar M, Immorlica N, Indyk P, Mirrokni VS (2004) Locality-sensitive hashing scheme based on p-stable distributions. In: Proceedings of the twentieth annual symposium on computational geometry. doi: <ExternalRef><RefSource>10.1145/997817.997857</RefSource><RefTarget TargetType="DOI" Address="10.1145/997817.997857"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Eakins J, Graham M (1999) Content-based image retrieval. Tech. Rep. JTAP-039, Institute for Image Data Research, University of Northumbria Newcastle</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Fei-Fei L, Perona P (2005) A bayesian hierarchical model for learning natural scene categories. In: CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Felzenszwalb PF, Huttenlocher DP (2003) Pictorial structures for object recognition. In: IJCV</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>Gionis A, Indyk P, Motwani R (1999) Similarity search in high dimensions via hashing. In: VLDB</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Grauman K, Darrell T (2006) Approximate correspondences in high dimensions. In: NIPSnewpage </BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>Grauman K, Darrell T (2007) Pyramid match hashing: Sub-linear time indexing over partial correspondences. In: CVPR. doi: <ExternalRef><RefSource>10.1109/CVPR.2007.383225</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2007.383225"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Grauman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Darrell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Perona</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">The pyramid match kernel: efficient learning with sets of features</ArticleTitle>
+                  <JournalTitle>J Mach Learn Res</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>725</FirstPage>
+                  <LastPage>760</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1222.68206</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Grauman K, Darrell T, Perona P (2007) The pyramid match kernel: efficient learning with sets of features. J Mach Learn Res 8:725–760</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Hirata K, Kato T (1992) Query by visual example—content based image retrieval. In: Third international conference on extending database technology</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Jegou H, Douze M, Schmid C (2008) Hamming embedding and weak geometric consistency for large scale image search. In: ECCV</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Kaplan LM, Murenz IR, Namuduri KR (1998) Fast texture database retrieval using extended fractal features. In: Storage and retrieval for image and video databases VI, pp 162–173</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>Ke Y, Sukthankar R, Huston L (2004) Efficient near-duplicate detection and sub-image retrieval. In: ACM Multimedia</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>Kivinen J, Sudderth E, Jordan M (2007) Learning multiscale representations of natural scenes using dirichlet processes. In: ICCV. doi: <ExternalRef><RefSource>10.1109/ICCV.2007.4408870</RefSource><RefTarget TargetType="DOI" Address="10.1109/ICCV.2007.4408870"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>Kondor RI, Jebara T (2003) A kernel between sets of vectors. In: ICML</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>Lazebnik S et al. (2003) A sparse texture representation using affine-invariant regions. In: CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibUnstructured>Lepetit V, Lagger P, Fua P (2005) Randomized trees for real-time keypoint recognition. In: CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibUnstructured>Li F, Tong W, Jin R, Jain A (2009) An efficient key point quantization algorithm for large scale image retrieval. In: ACM multimedia international conference workshop on large-scale multimedia retrieval and mining. doi: <ExternalRef><RefSource>10.1145/1631058.1631075</RefSource><RefTarget TargetType="DOI" Address="10.1145/1631058.1631075"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibUnstructured>Liu F, Picard RW (1996) Periodicity, directionality and randomness: wold features for image modelling and retrieval. IEEE Trans Pattern Anal Mach Intell 18(7):722–733. doi:<ExternalRef><RefSource>10.1109/34.506794</RefSource><RefTarget Address="10.1109/34.506794" TargetType="DOI"/></ExternalRef>. <ExternalRef><RefSource>http://dx.doi.org/10.1109/34.506794</RefSource><RefTarget Address="http://dx.doi.org/10.1109/34.506794" TargetType="URL"/></ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Liu T, Moore A, Gray A, Yang K (2004) An investigation of practical approximate nearest neighbor algorithms. In: NIPS</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibUnstructured>Lowe D (2004) Distinctive image features from scale-invariant keypoints. Int J Comput Vis 60(2):91–110. doi:<ExternalRef><RefSource>10.1023/B:VISI.0000029664.99615.94</RefSource><RefTarget Address="10.1023/B:VISI.0000029664.99615.94" TargetType="DOI"/></ExternalRef>. <ExternalRef><RefSource>http://dx.doi.org/10.1023/B:VISI.0000029664.99615.94</RefSource><RefTarget Address="http://dx.doi.org/10.1023/B:VISI.0000029664.99615.94" TargetType="URL"/></ExternalRef>. doi: <ExternalRef><RefSource>10.1023/B:VISI.0000029664.99615.94</RefSource><RefTarget TargetType="DOI" Address="10.1023/B:VISI.0000029664.99615.94"/></ExternalRef>.
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibUnstructured>Lyu S (2005) Mercer kernels for object recognition with local features. In: CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibUnstructured>Ma WY, Manjunath BS (1998) A texture thesaurus for browsing large aerial photographs. J Am Soc Inf Sci 49(7):633–648</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibUnstructured>Mallapragada PK, Jin R, Jain AK (2010) Online visual vocabulary pruning using pairwise constraints. In: CVPR. doi: <ExternalRef><RefSource>10.1109/CVPR.2010.5540062</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2010.5540062"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Manning</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Raghavan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Schntze</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <BookTitle>Introduction to information retrieval</BookTitle>
+                  <PublisherName>Cambridge University Press</PublisherName>
+                  <PublisherLocation>Cambridge</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1160.68008</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Manning CD, Raghavan P, Schntze H (2008) Introduction to information retrieval. Cambridge University Press, Cambridge</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibUnstructured>Mehrotra R, Gary JE (1995) Similar-shape retrieval in shape data management. Computer 28(9):57–62. doi:<ExternalRef><RefSource>10.1109/2.410154</RefSource><RefTarget Address="10.1109/2.410154" TargetType="DOI"/></ExternalRef>. <ExternalRef><RefSource>http://dx.doi.org/10.1109/2.410154</RefSource><RefTarget Address="http://dx.doi.org/10.1109/2.410154" TargetType="URL"/></ExternalRef>. doi: <ExternalRef><RefSource>10.1109/2.410154</RefSource><RefTarget TargetType="DOI" Address="10.1109/2.410154"/></ExternalRef>.
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibUnstructured>Moon H, Phillips PJ (2001) Computational and performance aspects of PCA-based face-recognition algorithms. Perception 30(3):303–321. doi: <ExternalRef><RefSource>10.1068/p2896</RefSource><RefTarget TargetType="DOI" Address="10.1068/p2896"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibUnstructured>Moreno PJ et al (2003) A Kullback-Leibler divergence based kernel for svm classification in multimedia applications. In: NIPS</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibUnstructured>Muja M, Lowe DG (2009) Fast approximate nearest neighbors with automatic algorithm configuration. In: International conference on computer vision theory and applications</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibUnstructured>Niblack CW, Barber R, Equitz W, Flickner MD, Glasman EH, Petkovic D, Yanker P, Faloutsos C, Taubin G (1993) The qbic project: querying images by color, texture and shape. Tech. Rep. RJ-9203, IBM Research</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibUnstructured>Nister D, Stewenius H (2006) Scalable recognition with a vocabulary tree. In: CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibUnstructured>Parzen E (1962) On estimation of a probability density function and mode. Ann Math Stat 33(3):1065–1076. doi: <ExternalRef><RefSource>10.1214/aoms/1177704472</RefSource><RefTarget TargetType="DOI" Address="10.1214/aoms/1177704472"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibUnstructured>Pavlidis T (2008) Limitations of cbir. In: ICPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibUnstructured>Perdoch M et al (2009) Efficient representation of local geometry for large scale object retrieval. In: CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibUnstructured>Perronnin F, Dance C, Csurka G, Bressian M (2006) Adopted vocabularies for generic visual categorization. In: ECCV</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibUnstructured>Philbin J, Chum O, Isard M, Sivic J, Zisserman A (2007) Object retrieval with large vocabularies and fast spatial matching. In: CVPR. doi: <ExternalRef><RefSource>10.1109/CVPR.2007.383172</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2007.383172"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibUnstructured>Robertson SE, Walker S, Hancock-Beaulieu M (1998) Okapi at trec-7. In: Proceedings of the seventh text retrieval conference</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibUnstructured>Schmid C (2006) Beyond bags of features: spatial pyramid matching for recognizing natural scene categories. In: CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibUnstructured>Sebe N, Lew MS (2001) Color-based retrieval. Pattern Recognit Lett 22(2):223–230. doi: <ExternalRef><RefSource>10.1016/S0167-8655(00)00092-1</RefSource><RefTarget TargetType="DOI" Address="10.1016/S0167-8655(00)00092-1"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Shakhnarovich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Darrell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Indyk</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <BookTitle>Nearest-neighbor methods in learning and vision: theory and practice</BookTitle>
+                  <PublisherName>MIT Press</PublisherName>
+                  <PublisherLocation>Cambridge</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Shakhnarovich G, Darrell T, Indyk P (2006) Nearest-neighbor methods in learning and vision: theory and practice. MIT Press, Cambridge</BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>43.</CitationNumber>
+                <BibUnstructured>Silpa-Anan C, Hartley R (2008) Optimised kd-trees for fast image descriptor matching. In: CVPR. doi: <ExternalRef><RefSource>10.1109/CVPR.2008.4587638</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2008.4587638"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR44">
+                <CitationNumber>44.</CitationNumber>
+                <BibUnstructured>Sivic J, Zisserman A (2003) Video Google: A text retrieval approach to object matching in videos. In: ICCV. doi: <ExternalRef><RefSource>10.1109/ICCV.2003.1238663</RefSource><RefTarget TargetType="DOI" Address="10.1109/ICCV.2003.1238663"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR45">
+                <CitationNumber>45.</CitationNumber>
+                <BibUnstructured>Stricker M, Orengo M (1995) Similarity of color images. In: Proceedings of SPIE, vol 2420, pp 381–392</BibUnstructured>
+              </Citation>
+              <Citation ID="CR46">
+                <CitationNumber>46.</CitationNumber>
+                <BibUnstructured>Swain MJ, Ballard DH (1991) Color indexing. Int J Comput Vis 7:11–32. doi: <ExternalRef><RefSource>10.1007/BF00130487</RefSource><RefTarget TargetType="DOI" Address="10.1007/BF00130487"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR47">
+                <CitationNumber>47.</CitationNumber>
+                <BibUnstructured>Tamura H, Mori S, Yamawaki T (1978) Textural features corresponding to visual perception. IEEE Trans Syst Man Cybern. doi: <ExternalRef><RefSource>10.1109/TSMC.1978.4309999</RefSource><RefTarget TargetType="DOI" Address="10.1109/TSMC.1978.4309999"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR48">
+                <CitationNumber>48.</CitationNumber>
+                <BibUnstructured>Tirilly P, Claveau V, Gros P (2008) Language modeling for bag-of-visual words image categorization. In: CIVR. doi: <ExternalRef><RefSource>10.1145/1386352.1386388</RefSource><RefTarget TargetType="DOI" Address="10.1145/1386352.1386388"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR49">
+                <CitationNumber>49.</CitationNumber>
+                <BibUnstructured>Viitaniemi V, Laaksonen J (2009) Spatial extensions to bag of visual words. In: Proceeding of the ACM international conference on image and video retrieval. doi: <ExternalRef><RefSource>10.1145/1646396.1646441</RefSource><RefTarget TargetType="DOI" Address="10.1145/1646396.1646441"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR50">
+                <CitationNumber>50.</CitationNumber>
+                <BibUnstructured>Wallraven C, Caputo B, Graf A (2003) Recognition with local features: the kernel recipe. In: CVPR. doi: <ExternalRef><RefSource>10.1109/ICCV.2003.1238351</RefSource><RefTarget TargetType="DOI" Address="10.1109/ICCV.2003.1238351"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR51">
+                <CitationNumber>51.</CitationNumber>
+                <BibUnstructured>Winn J, Criminisi A, Minka T (2005) Object categorization by learned universal visual dictionary. In: ICCV. doi: <ExternalRef><RefSource>10.1109/ICCV.2005.171</RefSource><RefTarget TargetType="DOI" Address="10.1109/ICCV.2005.171"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR52">
+                <CitationNumber>52.</CitationNumber>
+                <BibUnstructured>Wu L, Li M, Li Z, Ma W, Yu N (2007) Visual language modeling for image classification. In: CIVR. doi: <ExternalRef><RefSource>10.1145/1290082.1290101</RefSource><RefTarget TargetType="DOI" Address="10.1145/1290082.1290101"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR53">
+                <CitationNumber>53.</CitationNumber>
+                <BibUnstructured>Wu Z et al (2009) Bundling features for large scale partial-duplicate web image search. In: CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR54">
+                <CitationNumber>54.</CitationNumber>
+                <BibUnstructured>Yuan J, Wu Y, Yang M (2007) Discovery of collocation patterns: from visual words to visual phrases. In: CVPR. doi: <ExternalRef><RefSource>10.1109/CVPR.2007.383222</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2007.383222"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR55">
+                <CitationNumber>55.</CitationNumber>
+                <BibUnstructured>Zhang Y, Chen T (2009) Effcient kernels for identifying unbounded-order spatial features. In CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR56">
+                <CitationNumber>56.</CitationNumber>
+                <BibUnstructured>Zhang Y, Jia Z, Chen T (2011) Image retrieval with geometry-preserving visual phrases. In: CVPR. doi: <ExternalRef><RefSource>10.1109/CVPR.2011.5995528</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2011.5995528"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,2263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Humana Press</PublisherName>
+    <PublisherLocation>Totowa, NJ</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>7651</SeriesID>
+      <SeriesPrintISSN>1064-3745</SeriesPrintISSN>
+      <SeriesElectronicISSN>1940-6029</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Methods in Molecular Biology™</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>J.M.</GivenName>
+            <FamilyName>Walker</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>School of Life Sciences University of Hertfordshire</OrgName>
+          <OrgAddress>
+            <City>Hatfield</City>
+            <State>Hertfordshire, AL10 9AB</State>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Contributed volume" ContainsESM="No" Language="En" MediaType="eBook" NumberingStyle="ChapterContentSeparately" OutputMedium="Online" TocLevels="0">
+        <BookID>978-1-60327-527-9</BookID>
+        <BookTitle>T Cell Protocols</BookTitle>
+        <BookSubTitle>Second Edition</BookSubTitle>
+        <BookVolumeNumber>514</BookVolumeNumber>
+        <BookSequenceNumber>514</BookSequenceNumber>
+        <BookDOI>10.1007/978-1-60327-527-9</BookDOI>
+        <BookTitleID>145011</BookTitleID>
+        <BookPrintISBN>978-1-58829-587-3</BookPrintISBN>
+        <BookElectronicISBN>978-1-60327-527-9</BookElectronicISBN>
+        <BookChapterCount>11</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Humana Press</CopyrightHolderName>
+          <CopyrightYear>2009</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="SCL" Type="Primary">Life Sciences</BookSubject>
+          <BookSubject Code="SCL14005" Priority="1" Type="Secondary">Biochemistry, general</BookSubject>
+          <BookSubject Code="SCB14000" Priority="2" Type="Secondary">Immunology</BookSubject>
+          <BookSubject Code="SCL16020" Priority="3" Type="Secondary">Cell Culture</BookSubject>
+          <SubjectCollection Code="SUCO11642">Biomedical and Life Sciences</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>7651</SeriesID>
+        </BookContext>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff2">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Gennaro</GivenName>
+              <Particle>De</Particle>
+              <FamilyName>Libero</FamilyName>
+            </EditorName>
+            <Role>Dr</Role>
+            <Contact>
+              <Email>Gennaro.DeLibero@unibas.ch</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff2">
+            <OrgName>University of Basel</OrgName>
+            <OrgAddress>
+              <State>Basel</State>
+              <Country>Switzerland</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Chapter ID="Chap7" Language="En">
+        <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ChapterContentSeparately" OutputMedium="Online" TocLevels="0">
+          <ChapterID>7</ChapterID>
+          <ChapterNumber>Chapter 7</ChapterNumber>
+          <ChapterDOI>10.1007/978-1-60327-527-9_7</ChapterDOI>
+          <ChapterSequenceNumber>7</ChapterSequenceNumber>
+          <ChapterTitle Language="En">Limiting Dilution Analysis of Antigen-Specific T Cells</ChapterTitle>
+          <ChapterFirstPage>95</ChapterFirstPage>
+          <ChapterLastPage>105</ChapterLastPage>
+          <ChapterCopyright>
+            <CopyrightHolderName>Humana Press, a part of Springer Science+Business Media, LLC</CopyrightHolderName>
+            <CopyrightYear>2009</CopyrightYear>
+          </ChapterCopyright>
+          <ChapterGrants Type="Regular">
+            <MetadataGrant Grant="OpenAccess"/>
+            <AbstractGrant Grant="OpenAccess"/>
+            <BodyPDFGrant Grant="Restricted"/>
+            <BodyHTMLGrant Grant="Restricted"/>
+            <BibliographyGrant Grant="Restricted"/>
+            <ESMGrant Grant="Restricted"/>
+          </ChapterGrants>
+          <ChapterContext>
+            <SeriesID>7651</SeriesID>
+            <BookID>978-1-60327-527-9</BookID>
+            <BookTitle>T Cell Protocols</BookTitle>
+          </ChapterContext>
+        </ChapterInfo>
+        <ChapterHeader>
+          <AuthorGroup>
+            <Author AffiliationIDS="Aff3" CorrespondingAffiliationID="Aff3">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Jorge</GivenName>
+                <FamilyName>Carneiro</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff3">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Lurdes</GivenName>
+                <FamilyName>Duarte</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff4">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Elisabetta</GivenName>
+                <FamilyName>Padovan</FamilyName>
+              </AuthorName>
+            </Author>
+            <Affiliation ID="Aff3">
+              <OrgName>Instituto Gulbenkian de Ciência</OrgName>
+              <OrgAddress>
+                <State>Oeiras</State>
+                <Country>Portugal</Country>
+              </OrgAddress>
+            </Affiliation>
+            <Affiliation ID="Aff4">
+              <OrgName>Universidade de Lisboa, Faculdade de Medicina</OrgName>
+              <OrgAddress>
+                <State>Lisboa</State>
+                <Country>Portugal</Country>
+              </OrgAddress>
+            </Affiliation>
+          </AuthorGroup>
+          <Abstract ID="Abs1" Language="En">
+            <Heading>Abstract</Heading>
+            <Para TextBreak="No">Limiting dilution analysis (LDA) has been extensively employed as a quantitative method to estimate the precursor frequency of various T lymphocyte subsets according to their functional properties in vitro. We describe here an example of LDA experiment assessing antigen-specific T cell proliferation of microcultures in the presence or absence of adjuvant and illustrate how to estimate the frequencies of precursor T cells using an online tool that we made publicly available.</Para>
+          </Abstract>
+          <KeywordGroup Language="En">
+            <Heading>Key words</Heading>
+            <Keyword>Antigen</Keyword>
+            <Keyword>antigen presenting cells</Keyword>
+            <Keyword>CD4<Superscript>+</Superscript> T cells</Keyword>
+            <Keyword>cell proliferation</Keyword>
+            <Keyword>human</Keyword>
+            <Keyword>limiting dilution</Keyword>
+            <Keyword>microculture</Keyword>
+            <Keyword>single-hit/multi-hit Poisson model</Keyword>
+          </KeywordGroup>
+        </ChapterHeader>
+        <Body>
+          <Section1 ID="Sec1" OutputMedium="Online" Type="Introduction">
+            <Heading>Introduction</Heading>
+            <Para TextBreak="No">In recent years several methods have been employed to estimate the precursor frequency of various T lymphocyte subsets. A summary of most used assays is presented in <Emphasis Type="Bold">Table</Emphasis>
+              <InternalRef RefID="Tab7_1_978-1-60327-527-9">
+                <Emphasis Type="Bold">7.1</Emphasis>
+              </InternalRef>. Induction of cytokines in response to an antigen-specific stimulation is a general method to assess CD4<Superscript>+</Superscript> and CD8<Superscript>+</Superscript> T cell responses in vitro, using ELISPOT or FACS analysis. FACS analysis upon labeling of lymphocytes with tetramers or CFSE is largely employed to enumerate Ag-specific T cells in vitro and ex vivo. Although these assays can detect expansion of precursor T cells present at very low frequencies (1/10<Superscript>6</Superscript>), the cellular responses measured are representative of neither CD8<Superscript>+</Superscript> T cell functions, nor CD4<Superscript>+</Superscript> T lymphocyte activity, unless B cell responses are measured in the same assay. Furthermore, the frequency of Ag-specific T cells measured with ELISPOT and FACS staining methods are overestimated <CitationRef CitationID="CR1">(1</CitationRef>, <CitationRef CitationID="CR2">2)</CitationRef>. LDA represents instead a quantitative method to determine T cell precursor frequencies based on lymphocyte functional properties <CitationRef CitationID="CR3">(3)</CitationRef>. Incorporation of <Superscript>3</Superscript>H-thymidine is employed to measure proliferation of CD4<Superscript>+</Superscript> T helper cells microcultures, while release of <Superscript>51</Superscript>Cr from Na<Subscript>2</Subscript>
+              <Superscript>51</Superscript>CrO<Subscript>4</Subscript>-labeled target cells is used to quantify the lytic activity of cytotoxic CD8<Superscript>+</Superscript> T cells seeded in limiting dilution conditions. LDA requires first the outgrowth of T cells in culture, and then a functional read-out, thus allowing the detection of functional lymphocyte precursors in the range of 1/10<Superscript>4</Superscript>–1/10<Superscript>5</Superscript>.
+<Table Float="Yes" ID="Tab7_1_978-1-60327-527-9">
+                <Caption Language="En">
+                  <CaptionNumber>Table 7.1</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Characteristics of cytokine detection, tetramer staining, CFSE staining and LDA methods used for the determination of Ag-specific T cell precursor frequency</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <tgroup cols="5">
+                  <colspec align="left" colname="col1" colnum="1"/>
+                  <colspec align="left" colname="col2" colnum="2"/>
+                  <colspec align="left" colname="col3" colnum="3"/>
+                  <colspec align="left" colname="col4" colnum="4"/>
+                  <colspec align="left" colname="col5" colnum="5"/>
+                  <thead>
+                    <row>
+                      <entry colname="col1" valign="top"/>
+                      <entry colname="col2" valign="middle">
+                        <SimplePara>Cytokine</SimplePara>
+                      </entry>
+                      <entry colname="col3" valign="middle">
+                        <SimplePara>Tetramer</SimplePara>
+                      </entry>
+                      <entry colname="col4" valign="middle">
+                        <SimplePara>CFSE staining</SimplePara>
+                      </entry>
+                      <entry colname="col5" valign="middle">
+                        <SimplePara>LDA</SimplePara>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry colname="col1" valign="middle">
+                        <SimplePara>Lymphocyte subset</SimplePara>
+                      </entry>
+                      <entry colname="col2" valign="middle">
+                        <SimplePara>CD4<Superscript>+</Superscript> and CD8<Superscript>+</Superscript> T  cells</SimplePara>
+                      </entry>
+                      <entry colname="col3" valign="middle">
+                        <SimplePara>CD8<Superscript>+</Superscript> T cells</SimplePara>
+                      </entry>
+                      <entry colname="col4" valign="middle">
+                        <SimplePara>CD4<Superscript>+</Superscript> and CD8<Superscript>+</Superscript> T cells</SimplePara>
+                      </entry>
+                      <entry colname="col5" valign="middle">
+                        <SimplePara>CD4<Superscript>+</Superscript> and CD8<Superscript>+</Superscript> T cells</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="col1" valign="middle">
+                        <SimplePara>Read-out</SimplePara>
+                      </entry>
+                      <entry colname="col2" valign="middle">
+                        <SimplePara>ELISPOT and FACS staining</SimplePara>
+                      </entry>
+                      <entry colname="col3" valign="middle">
+                        <SimplePara>FACS staining</SimplePara>
+                      </entry>
+                      <entry colname="col4" valign="middle">
+                        <SimplePara>FACS staining</SimplePara>
+                      </entry>
+                      <entry colname="col5" valign="middle">
+                        <SimplePara>
+                          <Superscript>3</Superscript>HTdR incorporation and <Superscript>51</Superscript>Cr-release</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="col1" valign="middle">
+                        <SimplePara>Cellular response</SimplePara>
+                      </entry>
+                      <entry colname="col2" valign="middle">
+                        <SimplePara>Production of cytokines</SimplePara>
+                      </entry>
+                      <entry colname="col3" valign="middle">
+                        <SimplePara>Expression of Ag-specific TCR</SimplePara>
+                      </entry>
+                      <entry colname="col4" valign="middle">
+                        <SimplePara>Cell proliferation</SimplePara>
+                      </entry>
+                      <entry colname="col5" valign="middle">
+                        <SimplePara>Cell proliferation and lytic activity</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="col1" valign="middle">
+                        <SimplePara>Requirement</SimplePara>
+                      </entry>
+                      <entry colname="col2" valign="middle">
+                        <SimplePara>Need of secondary non-specific T cell stimulation</SimplePara>
+                      </entry>
+                      <entry colname="col3" valign="middle">
+                        <SimplePara>Suitable for ex-vivo and in vitro studies</SimplePara>
+                      </entry>
+                      <entry colname="col4" valign="middle">
+                        <SimplePara>Suitable for ex-vivo and in vitro studies</SimplePara>
+                      </entry>
+                      <entry colname="col5" valign="middle">
+                        <SimplePara>Need of T cell expansion in vitro</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="col1" valign="middle">
+                        <SimplePara>Detection range</SimplePara>
+                      </entry>
+                      <entry colname="col2" valign="middle">
+                        <SimplePara>1/10<Superscript>3</Superscript>–1/10<Superscript>6</Superscript>
+                        </SimplePara>
+                      </entry>
+                      <entry colname="col3" valign="middle">
+                        <SimplePara>1/10<Superscript>2</Superscript>–1/10<Superscript>5</Superscript>
+                        </SimplePara>
+                      </entry>
+                      <entry colname="col4" valign="middle">
+                        <SimplePara>1/10<Superscript>2</Superscript>–1/10<Superscript>5</Superscript>
+                        </SimplePara>
+                      </entry>
+                      <entry colname="col5" valign="middle">
+                        <SimplePara>1/10<Superscript>4</Superscript>–1/10<Superscript>5</Superscript>
+                        </SimplePara>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </Table>
+            </Para>
+            <Para TextBreak="No">We will make use of the effect of synthetic compounds known to act as immune enhancers on antigen-specific T lymphocytes <CitationRef CitationID="CR4">(4</CitationRef>, <CitationRef CitationID="CR5">5)</CitationRef> to illustrate the setting of a classical experiment of LDA analysis for CD4<Superscript>+</Superscript> T helper cells and show how to determine the cell precursor cell frequencies, using the single-hit and multi-hit Poisson model <CitationRef CitationID="CR3">(3)</CitationRef>.</Para>
+          </Section1>
+          <Section1 ID="Sec2" OutputMedium="Online">
+            <Heading>Materials</Heading>
+            <Para TextBreak="No">
+              <OrderedList>
+                <ListItem>
+                  <ItemNumber>1.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">Peripheral blood mononuclear cells (PBMC) isolated from human healthy donors.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>2.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">Complete cell culture medium: RPMI 1640 containing 1% sodium pyruvate, non-essential amino acids, glutamax and kanamycin, 0.1% β-mercaptoethanol (Invitrogen, Basel, CH) and 5% human AB serum (<Emphasis Type="Italic">see</Emphasis>
+                      <Emphasis Type="Bold">Note 1</Emphasis>).</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>3.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">Medium for cell washing: RPMI 1640 containing 10 mM Hepes and 0.5% human AB serum.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>4.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">The synthetic lipopeptide adjuvant P<Subscript>3</Subscript>CSK<Subscript>4</Subscript> and the CSK<Subscript>4</Subscript> control carrier peptide (EMC microcollections, Tübingen, D).</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>5.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">The antigenic peptide HBsAg<Subscript>19–33</Subscript> (FFLLTRILTIPQSLD), which binds promiscuous HLA-DR molecules <CitationRef CitationID="CR6">(6)</CitationRef>.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>6.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">Tritiated (<Superscript>3</Superscript>H)-thymidine at 50 μCi/ml prepared by adding 1 ml of <Superscript>3</Superscript>H-thymidine at 600 μCi/ml (TRK758; Amersham Biosciences, Little Chalfont, UK) to 19 ml of cell culture medium.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>7.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">A cell harvester and a β-counter. We harvested the cells on GF/A glass fiber filters and measured cell-associated <Superscript>3</Superscript>H-thymidine with an automatic β-counter provided by Inotech, Asbach, D.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>8.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">Cell culture plates with 24 flat-bottom and 96 U-bottom wells.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>9.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">A cell centrifuge.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>10.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">A cell incubator at 37°C and 5% CO<Subscript>2</Subscript>.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>11.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">A γ-irradiator.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>12.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">Variable volume pipettes and a 12-channel pipette.</Para>
+                  </ItemContent>
+                </ListItem>
+              </OrderedList>
+            </Para>
+          </Section1>
+          <Section1 ID="Sec3" OutputMedium="Online">
+            <Heading>Methods</Heading>
+            <Para TextBreak="No">Below we describe (1) how to prepare and expand a primary culture of (Ag)-specific T lymphocytes in vitro, (2) how to restimulate the generated polyclonal T cell line with the specific Ag in limiting dilution condition, (3) how to measure proliferation of T cell microcultures, and (4) how to choose a single-hit or multi-hit Poisson model and to determine the frequency of Ag-specific T cells.</Para>
+            <Section2 ID="Sec4" OutputMedium="Online">
+              <Heading>T Cell Priming In Vitro</Heading>
+              <Para TextBreak="No">
+                <OrderedList>
+                  <ListItem>
+                    <ItemNumber>1.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Antigen-specific T helper cell lines are best generated from freshly isolated PBMC (<Emphasis Type="Italic">see</Emphasis>
+                        <Emphasis Type="Bold">Note</Emphasis>
+                        <Emphasis Type="Bold">2</Emphasis>).</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>2.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Total PBMC are diluted in cell culture medium at 1.5×10<Superscript>6</Superscript> cells/ml and 1 ml of the cell suspension is seeded in two wells of a 24-well plate.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>3.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">The first well is then stimulated with 1 ml of HBsAg<Subscript>19–33</Subscript> peptide diluted in cell culture medium at 6 μg/ml in the presence of CSK<Subscript>4</Subscript> at 200 ng/ml.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>4.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">A mixture of HBsAg<Subscript>19–33</Subscript> peptide at 6 μg/ml and P<Subscript>3</Subscript>CSK<Subscript>4</Subscript> at 200 ng/ml is added to the second well containing PBMC. Each well will thus contain 1.5×10<Superscript>6</Superscript> PBMC, primed with 3 μg/ml of Ag and 100 ng/ml of adjuvant/carrier in a final volume of 2 ml.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>5.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">In order to harvest sufficient cells for the limiting dilution cultures described in <Emphasis Type="Bold">Section</Emphasis>
+                        <Emphasis Type="Bold">3.2</Emphasis>, we recommend seeding multiple wells for each priming condition.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>6.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">The remaining PBMC can be kept frozen (<Emphasis Type="Italic">see</Emphasis>
+                        <Emphasis Type="Bold">Note</Emphasis>
+                        <Emphasis Type="Bold">3</Emphasis>) and used as antigen presenting cells (APC) in the limiting dilution cultures.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>7.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Primed lymphocytes are incubated at 37°C in 5% CO<Subscript>2</Subscript> for 5 days.</Para>
+                    </ItemContent>
+                  </ListItem>
+                </OrderedList>
+              </Para>
+            </Section2>
+            <Section2 ID="Sec5" OutputMedium="Online">
+              <Heading>Stimulation of Primed Lymphocyte in Limiting Dilution Condition</Heading>
+              <Para TextBreak="No">
+                <OrderedList>
+                  <ListItem>
+                    <ItemNumber>1.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">After 5 days of priming, cells are restimulated in limiting dilution conditions. To this aim, autologous Ag-pulsed/non-pulsed and irradiated APC are needed.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>2.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">To prepare Ag-pulsed APC, autologous PBMC are diluted at 5–10×10<Superscript>6</Superscript> /ml in cell culture medium containing 10 mM Hepes, HBsAg<Subscript>19–33</Subscript> 3 μg/ml and either adjuvant or carrier at 100 ng/ml.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>3.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">To prepare non-pulsed APC, a smaller aliquot of PBMC is diluted in a separate tube with either adjuvant or carrier at 100 ng/ml, without antigen.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>4.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">All APC-containing tubes are placed at 37°C for 1–2 h; tubes are gently shaken every 10 min.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>5.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Lymphocyte cultures primed in the presence of antigen and adjuvant/carrier are then harvested.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>6.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Cultures set in the same priming conditions may be pooled together.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>7.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Cells are washed once and diluted at 2×10<Superscript>5</Superscript> cells/ml in complete cell culture medium.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>8.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Cell mixtures of 200 μl/well are seeded in a 96 U-bottom cell plates (plate A). In our example, we have seeded a total of 36 wells per culture, however, seeding a higher number of wells, will reduce the experimental error.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>9.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">To prepare serial dilution of primed lymphocytes, 100 μl/well of cell culture medium are first added in 36 wells of three empty 96 U-bottom plates (plates B, C, D).</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>10.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Using a 12-channel pipette, 100 μl/well of the cell suspension is harvested from the first row of plate A and transferred into the first row of plate B, then in the first row of plate C, and finally into the first row of plate D.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>11.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">The excess of 100 μl/well of cell suspension from plate D is discarded.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>12.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">The procedure is repeated for each row of plate A through plate D. When the transfer is completed, each well (or microculture) contains 100 μl/well of cell culture medium, with serial dilution of cells: plate A, 2×10<Superscript>4</Superscript> cells/well; plate B, 10<Superscript>4</Superscript> cells/well; plate C, 5×10<Superscript>3</Superscript> cells/well; plate D, 2.5×10<Superscript>3</Superscript> cells/well.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>13.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Microcultures can be placed in the incubator while preparing the APC.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>14.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Ag-pulsed and non-pulsed PBMC are irradiated at 3,500 rad and washed two times, changing tube once.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>15.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">After the last wash, Ag-pulsed and irradiated PBMC are diluted at 5×10<Superscript>5</Superscript>/ml in cell culture medium and seeded in 100 μl/well into 33 of the 36 microcultures contained in plates A–D.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>16.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Non-pulsed and irradiated PBMC are diluted in the same conditions and seeded in 100 μl/well into the remaining three wells of each plate.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>17.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">When completed, each plate contains a total of 36 microculture with 5×10<Superscript>4</Superscript> PBMC/well and primed lymphocyte at a given serial dilution in a final volume of 200 μl/well.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>18.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">The three microcultures with non-pulsed irradiated PBMC represent the negative control of stimulation.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>19.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">All culture plates are incubated for 48 h at 37°C in 5% CO<Subscript>2</Subscript>.</Para>
+                    </ItemContent>
+                  </ListItem>
+                </OrderedList>
+              </Para>
+            </Section2>
+            <Section2 ID="Sec6" OutputMedium="Online">
+              <Heading>Determination of T Cell Proliferation</Heading>
+              <Para TextBreak="No">
+                <OrderedList>
+                  <ListItem>
+                    <ItemNumber>1.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">After 2 days, 10 μl/well of <Superscript>3</Superscript>H-thymidine at 50 μCi/ml are added to each microculture and incubated at 37°C in 5% CO<Subscript>2</Subscript> for 16–18 h.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>2.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Microcultures are finally harvested on filter papers and cell-associated radioactivity measured with an automatic β-counter.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>3.</ItemNumber>
+                    <ItemContent>
+                      <Para TextBreak="No">Raw experimental data are given as cpm (counts per minute) for each single microcultures as represented in <Emphasis Type="Bold">Tables</Emphasis>
+                        <InternalRef RefID="Tab7_2_978-1-60327-527-9">
+                          <Emphasis Type="Bold">7.2</Emphasis>
+                        </InternalRef> and <InternalRef RefID="Tab7_3_978-1-60327-527-9">
+                          <Emphasis Type="Bold">7.3</Emphasis>
+                        </InternalRef>.</Para>
+                    </ItemContent>
+                  </ListItem>
+                </OrderedList>
+                <Table Float="Yes" ID="Tab7_2_978-1-60327-527-9">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 7.2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Proliferative responses of limiting dilution cultures in the presence of non-pulsed, irradiated PBMC</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="9">
+                    <colspec align="left" colname="col1" colnum="1"/>
+                    <colspec align="left" colname="col2" colnum="2"/>
+                    <colspec align="left" colname="col3" colnum="3"/>
+                    <colspec align="left" colname="col4" colnum="4"/>
+                    <colspec align="left" colname="col5" colnum="5"/>
+                    <colspec align="left" colname="col6" colnum="6"/>
+                    <colspec align="left" colname="col7" colnum="7"/>
+                    <colspec align="left" colname="col8" colnum="8"/>
+                    <colspec align="left" colname="col9" colnum="9"/>
+                    <thead>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" nameend="col9" namest="col2" valign="bottom">
+                          <SimplePara>
+                            <Superscript>3</Superscript>H-Thymidine incorporation (cpm)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="middle">
+                          <SimplePara>Stimuli</SimplePara>
+                        </entry>
+                        <entry colname="col2" nameend="col5" namest="col2" valign="bottom">
+                          <SimplePara>CSK4</SimplePara>
+                        </entry>
+                        <entry colname="col3" nameend="col9" namest="col6" valign="bottom">
+                          <SimplePara>P3CSK4</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="middle">
+                          <SimplePara>Cells/well</SimplePara>
+                        </entry>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>20,000</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>10,000</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>5,000</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>2,500</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>20,000</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>10,000</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>5,000</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>2,500</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="middle">
+                          <SimplePara>804</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="middle">
+                          <SimplePara>198</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="middle">
+                          <SimplePara>44</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="middle">
+                          <SimplePara>22</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="middle">
+                          <SimplePara>2,250</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="middle">
+                          <SimplePara>417</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="middle">
+                          <SimplePara>40</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="middle">
+                          <SimplePara>225</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="middle">
+                          <SimplePara>831</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="middle">
+                          <SimplePara>168</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="middle">
+                          <SimplePara>67</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="middle">
+                          <SimplePara>117</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="middle">
+                          <SimplePara>1,640</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="middle">
+                          <SimplePara>446</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="middle">
+                          <SimplePara>160</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="middle">
+                          <SimplePara>82</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="middle">
+                          <SimplePara>290</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="middle">
+                          <SimplePara>343</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="middle">
+                          <SimplePara>75</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="middle">
+                          <SimplePara>35</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="middle">
+                          <SimplePara>1,477</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="middle">
+                          <SimplePara>555</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="middle">
+                          <SimplePara>160</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="middle">
+                          <SimplePara>62</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="middle">
+                          <SimplePara>Mean</SimplePara>
+                        </entry>
+                        <entry colname="col2" valign="middle">
+                          <SimplePara>250</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="middle">
+                          <SimplePara>– </SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="middle">
+                          <SimplePara>626</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="middle">
+                          <SimplePara>SD</SimplePara>
+                        </entry>
+                        <entry colname="col2" valign="middle">
+                          <SimplePara>284</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="middle">
+                          <SimplePara> –</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="middle">
+                          <SimplePara>740</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="middle">
+                          <SimplePara>Mean+(SD*3)</SimplePara>
+                        </entry>
+                        <entry colname="col2" valign="middle">
+                          <SimplePara>1,101</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="middle">
+                          <SimplePara>– </SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="middle">
+                          <SimplePara>2,846</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="middle">
+                          <SimplePara>–</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Table Float="Yes" ID="Tab7_3_978-1-60327-527-9">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 7.3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Proliferative responses of limiting dilution cultures in the presence of Ag-pulsed, irradiated PBMC</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="9">
+                    <colspec align="left" colname="col1" colnum="1"/>
+                    <colspec align="left" colname="col2" colnum="2"/>
+                    <colspec align="left" colname="col3" colnum="3"/>
+                    <colspec align="left" colname="col4" colnum="4"/>
+                    <colspec align="left" colname="col5" colnum="5"/>
+                    <colspec align="left" colname="col6" colnum="6"/>
+                    <colspec align="left" colname="col7" colnum="7"/>
+                    <colspec align="left" colname="col8" colnum="8"/>
+                    <colspec align="left" colname="col9" colnum="9"/>
+                    <thead>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" nameend="col9" namest="col2" valign="bottom">
+                          <SimplePara>
+                            <Superscript>3</Superscript>H-Thymidine incorporation (cpm)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom">
+                          <SimplePara>Stimuli</SimplePara>
+                        </entry>
+                        <entry colname="col2" nameend="col5" namest="col2" valign="bottom">
+                          <SimplePara>HBsAg + CSK4</SimplePara>
+                        </entry>
+                        <entry colname="col3" nameend="col9" namest="col6" valign="bottom">
+                          <SimplePara>HBsAg + P3CSK4</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom">
+                          <SimplePara>Cells/well</SimplePara>
+                        </entry>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>20,000</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>10,000</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>5,000</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>2,500</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>20,000</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>10,000</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>5,000</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>2,500</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,380</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>398</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>280</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>146</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>7,297</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>1,412</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>831</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>572</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>516</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>658</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>292</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>442</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>4,484</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>5,004</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>918</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>280</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,763</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>538</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>322</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>297</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>5,295</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>2,545</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,941</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>360</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,771</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>303</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>325</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>115</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>6,844</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>4,353</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>523</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>386</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>904</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>818</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>477</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>241</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>4,542</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>2,480</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>538</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>297</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>721</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>565</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>107</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>215</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>5,250</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>3,149</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>635</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>335</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>866</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>1,400</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>125</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>410</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>3,589</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>3,051</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,261</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>297</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,816</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>843</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>580</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>122</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>5,419</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>1,659</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>668</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>1,092</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>791</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>366</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>274</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>455</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>3,900</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>3,389</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>918</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>406</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,494</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>883</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>223</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>300</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>7,454</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>2,314</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>370</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>528</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>579</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>668</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>105</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>112</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>5,918</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>2,859</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,665</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>173</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>356</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>333</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>350</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>392</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>4,623</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>2,420</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,219</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>293</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,636</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>936</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>2,574</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>57</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>1,996</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>1,374</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>788</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>289</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,722</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>918</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>113</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>292</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>6,129</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>1,323</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,412</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>383</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,172</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>405</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>188</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>20</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>4,906</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>427</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,267</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>773</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>2,391</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>469</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>230</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>92</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>5,113</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>862</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,058</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>755</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>958</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>1,161</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>255</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>147</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>5,272</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>3,460</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>293</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>550</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,354</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>871</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>233</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>117</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>6,779</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>1,960</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>288</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>403</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,801</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>1,181</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>443</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>485</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>5,822</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>2,580</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>501</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>2,146</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>2,254</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>668</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>205</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>225</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>10,680</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>3,088</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>240</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>348</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>979</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>811</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>815</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>265</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>5,258</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>3,962</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>503</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>408</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>980</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>726</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>253</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>580</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>2,249</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>2,262</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>706</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>242</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,035</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>415</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>358</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>177</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>2,140</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>983</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,093</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>265</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>910</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>245</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>510</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>415</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>2,831</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>730</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>656</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>527</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>2,559</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>911</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>235</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>382</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>1,632</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>1,913</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>358</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>252</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,118</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>1,714</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>648</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>60</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>3,582</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>449</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>703</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>295</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>947</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>1,306</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>208</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>52</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>4,302</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>1,542</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>245</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>430</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,343</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>490</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>888</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>85</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>2,672</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>2,821</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,206</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>240</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,629</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>313</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>333</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>47</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>3,650</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>484</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>258</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>252</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,158</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>776</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>463</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>404</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>4,007</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>1,409</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,216</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>267</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,857</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>448</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>965</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>190</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>2,710</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>2,645</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>868</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>969</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>1,449</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>1,449</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>255</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>42</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>2,608</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>1,048</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>1,139</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>395</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="bottom"/>
+                        <entry colname="col2" valign="bottom">
+                          <SimplePara>877</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="bottom">
+                          <SimplePara>671</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="bottom">
+                          <SimplePara>610</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="bottom">
+                          <SimplePara>240</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="bottom">
+                          <SimplePara>4,241</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="bottom">
+                          <SimplePara>950</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="bottom">
+                          <SimplePara>581</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="bottom">
+                          <SimplePara>329</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="middle">
+                          <SimplePara>Nr. of wells below 1,101 cpm</SimplePara>
+                        </entry>
+                        <entry colname="col2" valign="middle">
+                          <SimplePara>14</SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="middle">
+                          <SimplePara>27</SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="middle">
+                          <SimplePara>32</SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="middle">
+                          <SimplePara>33</SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="middle">
+                          <SimplePara>
+                            <Emphasis Type="Bold">–</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="middle">
+                          <SimplePara>
+                            <Emphasis Type="Bold">–</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="middle">
+                          <SimplePara>
+                            <Emphasis Type="Bold">–</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="middle">
+                          <SimplePara>
+                            <Emphasis Type="Bold">–</Emphasis>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="col1" valign="middle">
+                          <SimplePara>Nr. of wells below 2,846 cpm</SimplePara>
+                        </entry>
+                        <entry colname="col2" valign="middle">
+                          <SimplePara>
+                            <Emphasis Type="Bold">–</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry colname="col3" valign="middle">
+                          <SimplePara>
+                            <Emphasis Type="Bold">–</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry colname="col4" valign="middle">
+                          <SimplePara>
+                            <Emphasis Type="Bold">–</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry colname="col5" valign="middle">
+                          <SimplePara>
+                            <Emphasis Type="Bold">–</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry colname="col6" valign="middle">
+                          <SimplePara>8</SimplePara>
+                        </entry>
+                        <entry colname="col7" valign="middle">
+                          <SimplePara>24</SimplePara>
+                        </entry>
+                        <entry colname="col8" valign="middle">
+                          <SimplePara>33</SimplePara>
+                        </entry>
+                        <entry colname="col9" valign="middle">
+                          <SimplePara>33</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+              </Para>
+            </Section2>
+            <Section2 ID="Sec7" OutputMedium="Online">
+              <Heading>LDA Analysis</Heading>
+              <Para TextBreak="No">LDA data from T cell cultures are first analyzed using the single-hit Poisson model assuming that only one cell is sufficient for generating a positive response (<Emphasis Type="Italic">see</Emphasis>
+                <Emphasis Type="Bold">Note</Emphasis>
+                <Emphasis Type="Bold">4</Emphasis>). Since the application of this model requires the determination of the number of microcultures that scored negative in proliferation, we first determined the threshold of proliferation indicative of positive responses on the basis of the results obtained in all microcultures stimulated with non-pulsed and irradiated PBMC, irrespective of the limiting dilution (<Emphasis Type="Italic">see</Emphasis>
+                <Emphasis Type="Bold">Note</Emphasis>
+                <Emphasis Type="Bold">5</Emphasis>). As illustrated in <Emphasis Type="Bold">Table</Emphasis>
+                <InternalRef RefID="Tab7_2_978-1-60327-527-9">
+                  <Emphasis Type="Bold">7.2</Emphasis>
+                </InternalRef>, we set this threshold at a value of at least 3 SD above the mean of the proliferation in the absence of antigen. Thus, cultures in the presence of CSK<Subscript>4</Subscript> are considered positive if exceeding 1,101 cpm, while cultures grown in the presence of P<Subscript>3</Subscript>CSK<Subscript>4</Subscript>, are positive if scoring above 2,846 cpm.</Para>
+              <Para TextBreak="No">Once the thresholds are defined, the number of negative microcultures is quickly established, as illustrated in <Emphasis Type="Bold">Table</Emphasis>
+                <InternalRef RefID="Tab7_3_978-1-60327-527-9">
+                  <Emphasis Type="Bold">7.3</Emphasis>
+                </InternalRef>.
+</Para>
+              <Para TextBreak="No">Knowing the cell input per microculture (20,000, 10,000, 5,000, 2,500), the number of microculture seeded (33) and the number of negative wells (CSK<Subscript>4</Subscript>: 14, 27, 32, 33; P<Subscript>3</Subscript>CSK<Subscript>4</Subscript>: 8, 24, 33, 33) for each priming condition, it is possible to estimate the goodness of fit of the single-hit model and calculate the frequency of Ag-specific T cells using the online tool that we made publicly available at: <ExternalRef>
+                  <RefSource>http://eao.igc.gulbenkian.pt/ti/Soft/lda/index.html</RefSource>
+                  <RefTarget Address="http://eao.igc.gulbenkian.pt/ti/Soft/lda/index.html" TargetType="URL"/>
+                </ExternalRef>
+              </Para>
+              <Para TextBreak="No">The graphical representation of this LDA analysis illustrated in <Emphasis Type="Bold">Fig.</Emphasis>
+                <InternalRef RefID="Fig7_1_978-1-60327-527-9">
+                  <Emphasis Type="Bold">7.1</Emphasis>
+                </InternalRef>, reveals that the frequency of HBsAg-specific lymphocytes in the presence of CSK<Subscript>4</Subscript> and P<Subscript>3</Subscript>CSK<Subscript>4</Subscript> would be 3.5×10<Superscript>–4</Superscript> and 1.9×10<Superscript>–4</Superscript>, respectively, according to the single-hit model.
+<Figure Category="Standard" Float="Yes" ID="Fig7_1_978-1-60327-527-9">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 7.1.</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Graphical display of LDA results analyzed according to the single-hit Poisson model. Data from Ag-stimulated culture in the presence of CSK<Subscript>4</Subscript> and P<Subscript>3</Subscript>CSK<Subscript>4</Subscript> are represented in <Emphasis Type="Bold">A</Emphasis> and <Emphasis Type="Bold">B</Emphasis>, respectively.</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="MediaObjects/978-1-60327-527-9_7_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para TextBreak="No">However, the plots in <Emphasis Type="Bold">Fig.</Emphasis>
+                <InternalRef RefID="Fig7_1_978-1-60327-527-9">
+                  <Emphasis Type="Bold">7.1</Emphasis>
+                </InternalRef> also indicate that the plotted data do not strictly follow a single-hit Poisson curve. If so, the graphical representation would match the straight-line. Following this diagnosis, the data are re-analyzed using a multi-hit model (<Emphasis Type="Italic">see</Emphasis>
+                <Emphasis Type="Bold">Note</Emphasis>
+                <Emphasis Type="Bold">6</Emphasis>). The best fitting of the multi-hit model, shown in <Emphasis Type="Bold">Fig.</Emphasis>
+                <InternalRef RefID="Fig7_2_978-1-60327-527-9">
+                  <Emphasis Type="Bold">7.2</Emphasis>
+                </InternalRef>, indicates that the frequency of HBsAg-specific lymphocytes in the presence of CSK<Subscript>4</Subscript> and P<Subscript>3</Subscript>CSK<Subscript>4</Subscript> is 6.7×10<Superscript>–4</Superscript> and 3.9×10<Superscript>–4</Superscript>, respectively, and that measuring a proliferative response requires at least three and four cells, respectively. Comparison of the single-hit and multi-hit estimates indicates that by taking the former single-hit estimates one would have incurred in errors, although the qualitative order of the estimates is the same.
+<Figure Category="Standard" Float="Yes" ID="Fig7_2_978-1-60327-527-9">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 7.2.</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Graphical display of LDA results analyzed according to the multi-hit Poisson model. Data from Ag-stimulated culture in the presence of CSK<Subscript>4</Subscript> and P<Subscript>3</Subscript>CSK<Subscript>4</Subscript> are represented in <Emphasis Type="Bold">A</Emphasis> and <Emphasis Type="Bold">B</Emphasis>, respectively.</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="MediaObjects/978-1-60327-527-9_7_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section2>
+          </Section1>
+          <Section1 ID="Sec8" OutputMedium="Online">
+            <Heading>Notes</Heading>
+            <Para TextBreak="No">
+              <OrderedList>
+                <ListItem>
+                  <ItemNumber>1.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">The quality of human serum strongly influences lymphocyte viability and growth in vitro. In our experience, best culture conditions are obtained using human sera provided by the blood bank of local Hospitals.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>2.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">If frozen PBMC were to be employed, de-freeze the vial at 37°C using a water bath. Transfer the cells in a 15 ml cell culture tube and fill it drop-by-drop with washing medium. Centrifuge the tube at 1,200 rpm for 10 min, discard the supernatant, dilute the cell pellet in washing medium and repeat the centrifugation. Proceed as described in <Emphasis Type="Bold">Section 3.1</Emphasis>.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>3.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">To freeze remaining PBMC, wash cells once and dilute the pellet in freezing medium (FBS 40%, DMSO 10% in RPMI 1640) at a density of 5–50×10<Superscript>6</Superscript>/ml. Prepare freezing vials containing 1 ml of cell mixture, freeze the vials at –80°C in a stiropore box and transfer in liquid nitrogen after 24–48 h.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>4.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">The quantitative description of limiting dilution data is typically analyzed using single-hit Poisson model. This model assumes that a single responder cell in the population sample seeded into culture well is sufficient to produce a functional measurement. In our case, this means that the progeny of a responder single cell can incorporate enough thymidine to be detected as above background cpm measurement. Under these conditions, we consider the average probability that none of the <Emphasis Type="Italic">c</Emphasis> cells seeded into the well is a responding cell, when the frequency of responder cells is <Emphasis Type="Italic">r</Emphasis>. This probability is:<Equation ID="Equa">
+                        <MediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="978-1-60327-527-9_7_Chapter_TeX2GIF_Equa.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </MediaObject>
+                        <EquationSource Format="TEX"><![CDATA[
+$$F_{\rm{o}} = (1 - r)^c$$
+]]></EquationSource>
+                      </Equation>
+                    </Para>
+                    <Para TextBreak="No">which when <Emphasis Type="Italic">r</Emphasis> is much smaller than 1, i.e., when the responder cells are minor fraction of total population, is approximately:<Equation ID="Equb">
+                        <MediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="978-1-60327-527-9_7_Chapter_TeX2GIF_Equb.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </MediaObject>
+                        <EquationSource Format="TEX"><![CDATA[
+$$F_{\rm{o}} = e^{ - rc}$$
+]]></EquationSource>
+                      </Equation>
+                    </Para>
+                    <Para TextBreak="No">This means that if we plot the natural logarithm of the fraction of negative wells a function of the number of seeding cells <Emphasis Type="Italic">c</Emphasis> we get a straight line:<Equation ID="Equc">
+                        <MediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="978-1-60327-527-9_7_Chapter_TeX2GIF_Equc.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </MediaObject>
+                        <EquationSource Format="TEX"><![CDATA[
+$$Ln(F_{\rm{o}} ) = - rc$$
+]]></EquationSource>
+                      </Equation>
+                    </Para>
+                    <Para TextBreak="No">Traditionally, it is common to plot the data in semi-log plot and interpolate the number of seeding cells leading to <Emphasis Type="Italic">F</Emphasis>
+                      <Subscript>0</Subscript>=ln(−1)≈0.379, as this corresponds to the number of seeding cells that contains on average 1 cell. Bonefoix et al. <CitationRef CitationID="CR7">(7)</CitationRef> have provided another more rigorous way analyzing the LDA data using a generalized linear model, including a simple way to check whether or not the single-hit Poisson model fits well the data. We made these options available on-line, as illustrated in the text.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>5.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">In our settings, this method of data analysis was compatible with the sensitivity of our detection system (~1,000 cpm). Variation can be made, if more sensitive counters are used.</Para>
+                  </ItemContent>
+                </ListItem>
+                <ListItem>
+                  <ItemNumber>6.</ItemNumber>
+                  <ItemContent>
+                    <Para TextBreak="No">Often LDA data do not follow single-hit Poisson model, since the assumption that a single cell is sufficient to give a measurable response does not hold. For example, the TCR-dependent T cell proliferative responses in vitro are typically dependent on endogenous IL-2 produced by the T cells themselves. Therefore one must seed the microcultures with a critical number of responder cells producing IL-2, whose cooperation is necessary to kick-off a detectable response. These situations fit the multi-hit Poisson model:<Equation ID="Equd">
+                        <MediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="978-1-60327-527-9_7_Chapter_TeX2GIF_Equd.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </MediaObject>
+                        <EquationSource Format="TEX"><![CDATA[
+$$F_{\rm{o}} = e^{ - rc} \mathop {\sum}\limits_{i = 1}^m \frac{{r^{i - 1} }}{{(i - 1)!}}$$
+]]></EquationSource>
+                      </Equation>
+                    </Para>
+                    <Para TextBreak="No">where <Emphasis Type="Italic">r</Emphasis> is the critical number of responder cells one needs to score a proliferative response. An algorithm to estimate the fraction of cells under these conditions is implemented in the online tool that we made publicly available.</Para>
+                  </ItemContent>
+                </ListItem>
+              </OrderedList>
+            </Para>
+          </Section1>
+        </Body>
+        <BodyRef FileRef="BodyRef/PDF/978-1-60327-527-9_Chapter_7.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+        <ChapterBackmatter>
+          <Bibliography ID="Bib1">
+            <Heading>References</Heading>
+            <Citation ID="CR1">
+              <CitationNumber>1.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>AL.</Initials>
+                  <FamilyName>Givan</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JL.</Initials>
+                  <FamilyName>Fisher</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M.</Initials>
+                  <FamilyName>Waugh</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MS.</Initials>
+                  <FamilyName>Ernstoff</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>PK.</Initials>
+                  <FamilyName>Wallace</FamilyName>
+                </BibAuthorName>
+                <Year>1999</Year>
+                <ArticleTitle Language="En">A flow cytometric method to estimate the precursor frequencies of cells proliferating in response to specific antigens</ArticleTitle>
+                <JournalTitle>J Immunol Methods</JournalTitle>
+                <VolumeID>230</VolumeID>
+                <FirstPage>99</FirstPage>
+                <LastPage>112</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DyaK1MXnslynt74%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="DOI">
+                  <Handle>10.1016/S0022-1759(99)00136-2</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>10594357</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Givan AL, Fisher JL, Waugh M, Ernstoff MS, Wallace PK. A flow cytometric method to estimate the precursor frequencies of cells proliferating in response to specific antigens. J Immunol Methods 1999;230:99–112.</BibUnstructured>
+            </Citation>
+            <Citation ID="CR2">
+              <CitationNumber>2.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>MJ.</Initials>
+                  <FamilyName>Pittet</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>D.</Initials>
+                  <FamilyName>Valmori</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>PR.</Initials>
+                  <FamilyName>Dunbar</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>1999</Year>
+                <ArticleTitle Language="En">High frequencies of naive Melan-A/MART-1-specific CD8(+) T cells in a large proportion of human histocompatibility leukocyte antigen (HLA)-A2 individuals</ArticleTitle>
+                <JournalTitle>J Exp Med</JournalTitle>
+                <VolumeID>190</VolumeID>
+                <FirstPage>705</FirstPage>
+                <LastPage>15</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DyaK1MXlvFCitrs%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="DOI">
+                  <Handle>10.1084/jem.190.5.705</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>10477554</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Pittet MJ, Valmori D, Dunbar PR, et al. High frequencies of naive Melan-A/MART-1-specific CD8(+) T cells in a large proportion of human histocompatibility leukocyte antigen (HLA)-A2 individuals. J Exp Med 1999;190:705–15.</BibUnstructured>
+            </Citation>
+            <Citation ID="CR3">
+              <CitationNumber>3.</CitationNumber>
+              <BibBook>
+                <BibAuthorName>
+                  <Initials>I.</Initials>
+                  <FamilyName>Lefkovits</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>H.</Initials>
+                  <FamilyName>Waldmann</FamilyName>
+                </BibAuthorName>
+                <Year>1979</Year>
+                <BookTitle>Limiting Dilution Analysis of Cells in the Immune System</BookTitle>
+                <PublisherName>Cambridge University Press</PublisherName>
+                <PublisherLocation>London</PublisherLocation>
+              </BibBook>
+              <BibUnstructured>Lefkovits I, Waldmann H. Limiting Dilution Analysis of Cells in the Immune System. London: Cambridge University Press, 1979</BibUnstructured>
+            </Citation>
+            <Citation ID="CR4">
+              <CitationNumber>4.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>M.</Initials>
+                  <FamilyName>Ghielmetti</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M.</Initials>
+                  <FamilyName>Zwicker</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>T.</Initials>
+                  <FamilyName>Ghielmetti</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MM.</Initials>
+                  <FamilyName>Simon</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>PM.</Initials>
+                  <FamilyName>Villiger</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>E.</Initials>
+                  <FamilyName>Padovan</FamilyName>
+                </BibAuthorName>
+                <Year>2005</Year>
+                <ArticleTitle Language="En">Synthetic bacterial lipopeptide analogs facilitate naive CD4+ T cell differentiation and enhance antigen-specific HLA-II-restricted responses</ArticleTitle>
+                <JournalTitle>Eur J Immunol</JournalTitle>
+                <VolumeID>35</VolumeID>
+                <FirstPage>2434</FirstPage>
+                <LastPage>42</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD2MXps1Gmtbk%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="DOI">
+                  <Handle>10.1002/eji.200526241</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>16052608</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Ghielmetti M, Zwicker M, Ghielmetti T, Simon MM, Villiger PM, Padovan E. Synthetic bacterial lipopeptide analogs facilitate naive CD4+ T cell differentiation and enhance antigen-specific HLA-II-restricted responses. Eur J Immunol 2005;35:2434–42.</BibUnstructured>
+            </Citation>
+            <Citation ID="CR5">
+              <CitationNumber>5.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>A.</Initials>
+                  <FamilyName>Reschner</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A.</Initials>
+                  <FamilyName>Moretta</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>R.</Initials>
+                  <FamilyName>Landmann</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M.</Initials>
+                  <FamilyName>Heberer</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>GC.</Initials>
+                  <FamilyName>Spagnoli</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>E.</Initials>
+                  <FamilyName>Padovan</FamilyName>
+                </BibAuthorName>
+                <Year>2003</Year>
+                <ArticleTitle Language="En">The ester-bonded palmitoyl side chains of Pam3CysSerLys4 lipopeptide account for its powerful adjuvanticity to HLA class I-restricted CD8+ T lymphocytes</ArticleTitle>
+                <JournalTitle>Eur J Immunol</JournalTitle>
+                <VolumeID>33</VolumeID>
+                <FirstPage>2044</FirstPage>
+                <LastPage>52</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD3sXlslWltro%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="DOI">
+                  <Handle>10.1002/eji.200323776</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>12884871</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Reschner A, Moretta A, Landmann R, Heberer M, Spagnoli GC, Padovan E. The ester-bonded palmitoyl side chains of Pam3CysSerLys4 lipopeptide account for its powerful adjuvanticity to HLA class I-restricted CD8+ T lymphocytes. Eur J Immunol 2003;33:2044–52.</BibUnstructured>
+            </Citation>
+            <Citation ID="CR6">
+              <CitationNumber>6.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>J.</Initials>
+                  <FamilyName>Alexander</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MF.</Initials>
+                  <FamilyName>del Guercio</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A.</Initials>
+                  <FamilyName>Maewal</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2000</Year>
+                <ArticleTitle Language="En">Linear PADRE T helper epitope and carbohydrate B cell epitope conjugates induce specific high titer IgG antibody responses</ArticleTitle>
+                <JournalTitle>J Immunol</JournalTitle>
+                <VolumeID>164</VolumeID>
+                <FirstPage>1625</FirstPage>
+                <LastPage>33</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD3cXot1Kiuw%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>10640784</Handle>
+                </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.4049/jimmunol.164.3.1625</Handle>
+</Occurrence>
+              </BibArticle>
+              <BibUnstructured>Alexander J, del Guercio MF, Maewal A, et al. Linear PADRE T helper epitope and carbohydrate B cell epitope conjugates induce specific high titer IgG antibody responses. J Immunol 2000;164:1625–33.</BibUnstructured>
+            </Citation>
+            <Citation ID="CR7">
+              <CitationNumber>7.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>T.</Initials>
+                  <FamilyName>Bonnefoix</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>P.</Initials>
+                  <FamilyName>Bonnefoix</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M.</Initials>
+                  <FamilyName>Callanan</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>P.</Initials>
+                  <FamilyName>Verdiel</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JJ.</Initials>
+                  <FamilyName>Sotto</FamilyName>
+                </BibAuthorName>
+                <Year>2001</Year>
+                <ArticleTitle Language="En">Graphical representation of a generalized linear model-based statistical test estimating the fit of the single-hit Poisson model to limiting dilution assays</ArticleTitle>
+                <JournalTitle>J Immunol</JournalTitle>
+                <VolumeID>167</VolumeID>
+                <FirstPage>5725</FirstPage>
+                <LastPage>30</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD3MXotlamtb4%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>11698445</Handle>
+                </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.4049/jimmunol.167.10.5725</Handle>
+</Occurrence>
+              </BibArticle>
+              <BibUnstructured>Bonnefoix T, Bonnefoix P, Callanan M, Verdiel P, Sotto JJ. Graphical representation of a generalized linear model-based statistical test estimating the fit of the single-hit Poisson model to limiting dilution assays. .J Immunol 2001;167:5725–30.</BibUnstructured>
+            </Citation>
+          </Bibliography>
+        </ChapterBackmatter>
+      </Chapter>
+    </Book>
+  </Series>
+</Publisher>

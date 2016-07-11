@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+   <PublisherInfo>
+      <PublisherName>The Chinese Society of Oceanography</PublisherName>
+      <PublisherLocation>Heidelberg</PublisherLocation>
+   </PublisherInfo>
+   <Journal OutputMedium="All">
+      <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+         <JournalID>13131</JournalID>
+         <JournalPrintISSN>0253-505X</JournalPrintISSN>
+         <JournalElectronicISSN>1869-1099</JournalElectronicISSN>
+         <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+         <JournalAbbreviatedTitle>Acta Oceanol. Sin.</JournalAbbreviatedTitle>
+         <JournalSubjectGroup>
+            <JournalSubject Type="Primary">Earth Sciences</JournalSubject>
+            <JournalSubject Type="Secondary">Environmental Chemistry</JournalSubject>
+            <JournalSubject Type="Secondary">Climate Change</JournalSubject>
+            <JournalSubject Type="Secondary">Marine &amp; Freshwater Sciences</JournalSubject>
+            <JournalSubject Type="Secondary">Ecology</JournalSubject>
+            <JournalSubject Type="Secondary">Oceanography</JournalSubject>
+            <JournalSubject Type="Secondary">Engineering Fluid Dynamics</JournalSubject>
+            <SubjectCollection Code="Earth and Environmental Science">SC7</SubjectCollection>
+         </JournalSubjectGroup>
+      </JournalInfo>
+      <Volume OutputMedium="All">
+         <VolumeInfo TocLevels="0" VolumeType="Regular">
+            <VolumeIDStart>31</VolumeIDStart>
+            <VolumeIDEnd>31</VolumeIDEnd>
+            <VolumeIssueCount>6</VolumeIssueCount>
+         </VolumeInfo>
+         <Issue IssueType="Regular" OutputMedium="All">
+            <IssueInfo IssueType="Regular" TocLevels="0">
+               <IssueIDStart>5</IssueIDStart>
+               <IssueIDEnd>5</IssueIDEnd>
+               <IssueArticleCount>17</IssueArticleCount>
+               <IssueHistory>
+                  <OnlineDate>
+                     <Year>2012</Year>
+                     <Month>10</Month>
+                     <Day>12</Day>
+                  </OnlineDate>
+                  <CoverDate>
+                     <Year>2012</Year>
+                     <Month>9</Month>
+                  </CoverDate>
+                  <PricelistYear>2012</PricelistYear>
+               </IssueHistory>
+               <IssueCopyright>
+                  <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+                  <CopyrightYear>2012</CopyrightYear>
+               </IssueCopyright>
+            </IssueInfo>
+            <Article ID="s13131-012-0245-5" OutputMedium="All">
+               <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+                  <ArticleID>245</ArticleID>
+                  <ArticleDOI>10.1007/s13131-012-0245-5</ArticleDOI>
+                  <ArticleSequenceNumber>16</ArticleSequenceNumber>
+                  <ArticleTitle Language="En">Study of tide prediction method influenced by nonperiodic factors based on support vector machines</ArticleTitle>
+                  <ArticleFirstPage>160</ArticleFirstPage>
+                  <ArticleLastPage>164</ArticleLastPage>
+                  <ArticleHistory>
+                     <RegistrationDate>
+                        <Year>2012</Year>
+                        <Month>10</Month>
+                        <Day>10</Day>
+                     </RegistrationDate>
+                     <Received>
+                        <Year>2011</Year>
+                        <Month>8</Month>
+                        <Day>15</Day>
+                     </Received>
+                     <Accepted>
+                        <Year>2012</Year>
+                        <Month>3</Month>
+                        <Day>30</Day>
+                     </Accepted>
+                     <OnlineDate>
+                        <Year>2012</Year>
+                        <Month>10</Month>
+                        <Day>12</Day>
+                     </OnlineDate>
+                  </ArticleHistory>
+                  <ArticleCopyright>
+                     <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+                     <CopyrightYear>2012</CopyrightYear>
+                  </ArticleCopyright>
+                  <ArticleGrants Type="Regular">
+                     <MetadataGrant Grant="OpenAccess"/>
+                     <AbstractGrant Grant="OpenAccess"/>
+                     <BodyPDFGrant Grant="Restricted"/>
+                     <BodyHTMLGrant Grant="Restricted"/>
+                     <BibliographyGrant Grant="Restricted"/>
+                     <ESMGrant Grant="Restricted"/>
+                  </ArticleGrants>
+               </ArticleInfo>
+               <ArticleHeader>
+                  <AuthorGroup>
+                     <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Shijun</GivenName>
+                           <FamilyName>He</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>heshijun6@163.com</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Wenjun</GivenName>
+                           <FamilyName>Zhou</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Ruyan</GivenName>
+                           <FamilyName>Zhou</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Dongmei</GivenName>
+                           <FamilyName>Huang</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Affiliation ID="Aff1">
+                        <OrgDivision>College of information</OrgDivision>
+                        <OrgName>Shanghai Ocean University</OrgName>
+                        <OrgAddress>
+                           <City>Shanghai</City>
+                           <Postcode>201306</Postcode>
+                           <Country Code="CN">China</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                  </AuthorGroup>
+                  <Abstract ID="Abs1" Language="En">
+                     <Heading>Abstract</Heading>
+                     <Para>Harmonic analysis, the traditional tidal forecasting method, cannot take into account the impact of noncyclical factors, and is also based on the BP neural network tidal prediction model which is easily limited by the amount of data. According to the movement of celestial bodies, and considering the insufficient tidal characteristics of historical data which are impacted by the nonperiodic weather, a tidal prediction method is designed based on support vector machine (SVM) to carry out the simulation experiment by using tidal data from Xiamen Tide Gauge, Luchaogang Tide Gauge and Weifang Tide Gauge individually. And the results show that the model satisfactorily carries out the tide prediction which is influenced by noncyclical factors. At the same time, it also proves that the proposed prediction method, which when compared with harmonic analysis method and the BP neural network method, has faster modeling speed, higher prediction precision and stronger generalization ability.</Para>
+                  </Abstract>
+                  <KeywordGroup Language="En">
+                     <Heading>Key words</Heading>
+                     <Keyword>tidal prediction</Keyword>
+                     <Keyword>support vector machines</Keyword>
+                     <Keyword>celestial motion law</Keyword>
+                     <Keyword>harmonic analysis</Keyword>
+                     <Keyword>BP neural network</Keyword>
+                     <Keyword>nonperiodic factors</Keyword>
+                  </KeywordGroup>
+                  <ArticleNote Type="Misc">
+                     <SimplePara>Foundation item: The Shanghai Committee of Science and Technology of China under contract No. 10510502800; the Graduate Student Education Innovation Program Foundation of Shanghai Municipal Education Commission of China; the National Key Science Foundation Research “973” Project of the Ministry of Science and Technology of China under contract No. 2012CB316200.</SimplePara>
+                  </ArticleNote>
+               </ArticleHeader>
+               <BodyRef TargetType="OnlinePDF" FileRef="BodyRef/PDF/13131_2012_Article_245.pdf"/>
+               <ArticleBackmatter>
+                  <Bibliography ID="Bib1">
+                     <Heading>References</Heading>
+                     <Citation ID="CR1">
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>D. E.</Initials>
+                              <FamilyName>Cartwright</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>A. C.</Initials>
+                              <FamilyName>Eddon</FamilyName>
+                           </BibAuthorName>
+                           <Year>1965</Year>
+                           <ArticleTitle Language="En">Corrected tables of tidal harmonics</ArticleTitle>
+                           <JournalTitle>Geophys J R astr oc</JournalTitle>
+                           <VolumeID>33</VolumeID>
+                           <IssueID>2</IssueID>
+                           <FirstPage>253</FirstPage>
+                           <LastPage>264</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1111/j.1365-246X.1973.tb03420.x</Handle>
+</Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Cartwright D E, Eddon A C. 1965. Corrected tables of tidal harmonics. Geophys J R astr oc, 33(2): 253–264</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR2">
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>M.</Initials>
+                              <FamilyName>Chen</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Y.</Initials>
+                              <FamilyName>Chu</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>K.</Initials>
+                              <FamilyName>Liu</FamilyName>
+                           </BibAuthorName>
+                           <Etal/>
+                           <Year>2006</Year>
+                           <ArticleTitle Language="En">Improved schemes of quasi-harmonic method for tide prediction of shallow water ports</ArticleTitle>
+                           <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+                           <VolumeID>28</VolumeID>
+                           <IssueID>1</IssueID>
+                           <FirstPage>9</FirstPage>
+                           <LastPage>17</LastPage>
+                        </BibArticle>
+                        <BibUnstructured>Chen Manchun, Chu Yingjie, Liu Kexiu, et al. 2006. Improved schemes of quasi-harmonic method for tide prediction of shallow water ports. Acta Oceanologica Sinica, 28(1): 9–17</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR3">
+                        <BibBook>
+                           <BibAuthorName>
+                              <Initials>G. H.</Initials>
+                              <FamilyName>Darwin</FamilyName>
+                           </BibAuthorName>
+                           <Year>1907</Year>
+                           <BookTitle>Ocean tides and Lunar disturbance of gravity. Scientific Papers I</BookTitle>
+                           <PublisherName>Cambridge University Press</PublisherName>
+                           <PublisherLocation>Cambridge</PublisherLocation>
+                        </BibBook>
+                        <BibUnstructured>Darwin G H. 1907. Ocean tides and Lunar disturbance of gravity. Scientific Papers I. Cambridge: Cambridge University Press</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR4">
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>A. T.</Initials>
+                              <FamilyName>Doodson</FamilyName>
+                           </BibAuthorName>
+                           <Year>1921</Year>
+                           <ArticleTitle Language="En">The harmonic development of tidegenerating potential</ArticleTitle>
+                           <JournalTitle>Intern Hydrogr Rev</JournalTitle>
+                           <VolumeID>31</VolumeID>
+                           <IssueID>1</IssueID>
+                           <FirstPage>37</FirstPage>
+                           <LastPage>61</LastPage>
+                        </BibArticle>
+                        <BibUnstructured>Doodson A T. 1921. The harmonic development of tidegenerating potential. Intern Hydrogr Rev, 31(1): 37–61</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR5">
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>A. T.</Initials>
+                              <FamilyName>Doodson</FamilyName>
+                           </BibAuthorName>
+                           <Year>1982</Year>
+                           <ArticleTitle Language="En">The analysis of tidal observations</ArticleTitle>
+                           <JournalTitle>Phil. London: Tran Roy Soc</JournalTitle>
+                           <VolumeID>A227</VolumeID>
+                           <FirstPage>223</FirstPage>
+                           <LastPage>279</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1098/rsta.1928.0006</Handle>
+</Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Doodson A T. 1982. The analysis of tidal observations. Phil. London: Tran Roy Soc, A227: 223–279</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR6">
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>Q.</Initials>
+                              <FamilyName>Li</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>H.</Initials>
+                              <FamilyName>Ji</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>Gao.</Initials>
+                              <FamilyName>Zhang</FamilyName>
+                           </BibAuthorName>
+                           <Year>2007</Year>
+                           <ArticleTitle Language="En">Study of tidal prediction of harbor baredon neural network</ArticleTitle>
+                           <JournalTitle>Journal of Guangzhou Mar Itime College (in Chinese)</JournalTitle>
+                           <VolumeID>15</VolumeID>
+                           <IssueID>1</IssueID>
+                           <FirstPage>1</FirstPage>
+                           <LastPage>4</LastPage>
+                        </BibArticle>
+                        <BibUnstructured>Li Qihua, Ji Haipeng, Zhang Gao. 2007. Study of tidal prediction of harbor baredon neural network. Journal of Guangzhou Mar Itime College (in Chinese), 15(1): 1–4</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR7">
+                        <BibBook>
+                           <BibAuthorName>
+                              <Initials>J.</Initials>
+                              <FamilyName>Mercer</FamilyName>
+                           </BibAuthorName>
+                           <Year>1990</Year>
+                           <BookTitle>Functions of positive and negative type and their connection with the theory of integral equations</BookTitle>
+                           <PublisherName>Philos Trans Roy Soc</PublisherName>
+                           <PublisherLocation>London</PublisherLocation>
+                           <FirstPage>415</FirstPage>
+                           <LastPage>446</LastPage>
+                        </BibBook>
+                        <BibUnstructured>Mercer J. 1990. Functions of positive and negative type and their connection with the theory of integral equations. London: Philos Trans Roy Soc, A209: 415–446</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR8">
+                        <BibBook>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Mukherjee</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>E.</Initials>
+                              <FamilyName>Osuna</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>F.</Initials>
+                              <FamilyName>Girosi</FamilyName>
+                           </BibAuthorName>
+                           <Year>1997</Year>
+                           <BookTitle>Nonlinear prediction of chaotic time series using support vector machines</BookTitle>
+                           <PublisherName>Proc Of IEEE NNSP’97</PublisherName>
+                           <PublisherLocation>Amelia Island, FL</PublisherLocation>
+                        </BibBook>
+                        <BibUnstructured>Mukherjee S, Osuna E, Girosi F. 1997. Nonlinear prediction of chaotic time series using support vector machines. Amelia Island, FL: Proc Of IEEE NNSP’97</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR9">
+                        <BibChapter>
+                           <BibAuthorName>
+                              <Initials>S.</Initials>
+                              <FamilyName>Mukherjee</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>E.</Initials>
+                              <FamilyName>Osuna</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>F.</Initials>
+                              <FamilyName>Girosi</FamilyName>
+                           </BibAuthorName>
+                           <Year>1999</Year>
+                           <ChapterTitle Language="En">Nonlinear prediction of chaotic time series using support vector machines</ChapterTitle>
+                           <BookTitle>NNSP’97: Neural Networks for Signal Processing: VII</BookTitle>
+                           <PublisherName>Proceedings of the IEEE Signal Processing Society Workshop</PublisherName>
+                           <PublisherLocation>Amelia Island, FL, USA</PublisherLocation>
+                           <FirstPage>511</FirstPage>
+                           <LastPage>520</LastPage>
+                        </BibChapter>
+                        <BibUnstructured>Mukherjee S, Osuna E, Girosi F. 1999. Nonlinear prediction of chaotic time series using support vector machines. NNSP’97: Neural Networks for Signal Processing: VII. Amelia Island, FL, USA: Proceedings of the IEEE Signal Processing Society Workshop, 511–520</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR10">
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>F. E. H.</Initials>
+                              <FamilyName>Tay</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>L. J.</Initials>
+                              <FamilyName>Cao</FamilyName>
+                           </BibAuthorName>
+                           <Year>2001</Year>
+                           <ArticleTitle Language="En">Application of Support Vector Machines in Financial Time Series Forecasting</ArticleTitle>
+                           <JournalTitle>Omega</JournalTitle>
+                           <VolumeID>29</VolumeID>
+                           <IssueID>4</IssueID>
+                           <FirstPage>309</FirstPage>
+                           <LastPage>317</LastPage>
+                           <Occurrence Type="DOI">
+                              <Handle>10.1016/S0305-0483(01)00026-3</Handle>
+                           </Occurrence>
+                        </BibArticle>
+                        <BibUnstructured>Tay F E H, Cao L J. 2001. Application of Support Vector Machines in Financial Time Series Forecasting. Omega, 29(4): 309–317</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR11">
+                        <BibUnstructured>Tsai C P, Lee T L. 2000. Back-Propagation neural Networkin tidal-level forecasting. Pro 22th Conf on Ocean Engineeringin, 147–153</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR12">
+                        <BibBook>
+                           <BibAuthorName>
+                              <Initials>V. N.</Initials>
+                              <FamilyName>Vapnik</FamilyName>
+                           </BibAuthorName>
+                           <Year>1995</Year>
+                           <BookTitle>The nature of statistical learning theory</BookTitle>
+                           <PublisherName>Springer</PublisherName>
+                           <PublisherLocation>New York</PublisherLocation>
+<Occurrence Type="DOI">
+<Handle>10.1007/978-1-4757-2440-0</Handle>
+</Occurrence>
+                        </BibBook>
+                        <BibUnstructured>Vapnik V N. 1995. The nature of statistical learning theory. New York: Springer</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR13">
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>Changhai.</Initials>
+                              <FamilyName>Wang</FamilyName>
+                           </BibAuthorName>
+                           <Year>1995</Year>
+                           <ArticleTitle Language="En">A model of the harmonic analysis of tides</ArticleTitle>
+                           <JournalTitle>Marine Forcasts</JournalTitle>
+                           <VolumeID>12</VolumeID>
+                           <IssueID>4</IssueID>
+                           <FirstPage>71</FirstPage>
+                           <LastPage>76</LastPage>
+                        </BibArticle>
+                        <BibUnstructured>Wang Changhai. 1995. A model of the harmonic analysis of tides. Marine Forcasts, 12(4): 71–76</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR14">
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>Hanxing.</Initials>
+                              <FamilyName>Xu</FamilyName>
+                           </BibAuthorName>
+                           <Year>1982</Year>
+                           <ArticleTitle Language="En">Studies on prediction of shallowwater tides</ArticleTitle>
+                           <JournalTitle>Oceanologia et Limnologia Sinica</JournalTitle>
+                           <VolumeID>13</VolumeID>
+                           <IssueID>3</IssueID>
+                           <FirstPage>207</FirstPage>
+                           <LastPage>217</LastPage>
+                        </BibArticle>
+                        <BibUnstructured>Xu Hanxing. 1982. Studies on prediction of shallowwater tides. Oceanologia et Limnologia Sinica, 13(3): 207–217</BibUnstructured>
+                     </Citation>
+                     <Citation ID="CR15">
+                        <BibArticle>
+                           <BibAuthorName>
+                              <Initials>B. D.</Initials>
+                              <FamilyName>Zetler</FamilyName>
+                           </BibAuthorName>
+                           <BibAuthorName>
+                              <Initials>R. A.</Initials>
+                              <FamilyName>Cummings</FamilyName>
+                           </BibAuthorName>
+                           <Year>1967</Year>
+                           <ArticleTitle Language="En">A harmonic method for predicting shallow-water tides</ArticleTitle>
+                           <JournalTitle>Journal of Marine Research USA</JournalTitle>
+                           <VolumeID>25</VolumeID>
+                           <IssueID>1</IssueID>
+                           <FirstPage>103</FirstPage>
+                           <LastPage>114</LastPage>
+                        </BibArticle>
+                        <BibUnstructured>Zetler B D, Cummings R A. 1967. A harmonic method for predicting shallow-water tides. Journal of Marine Research USA, 25(1): 103–114</BibUnstructured>
+                     </Citation>
+                  </Bibliography>
+               </ArticleBackmatter>
+            </Article>
+         </Issue>
+      </Volume>
+   </Journal>
+</Publisher>

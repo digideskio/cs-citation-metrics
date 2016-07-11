@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>The Chinese Society of Oceanography</PublisherName>
+    <PublisherLocation>Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>13131</JournalID>
+      <JournalPrintISSN>0253-505X</JournalPrintISSN>
+      <JournalElectronicISSN>1869-1099</JournalElectronicISSN>
+      <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Oceanol. Sin.</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Earth Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Environmental Chemistry</JournalSubject>
+        <JournalSubject Type="Secondary">Ecology</JournalSubject>
+        <JournalSubject Type="Secondary">Engineering Fluid Dynamics</JournalSubject>
+        <JournalSubject Type="Secondary">Oceanography</JournalSubject>
+        <JournalSubject Type="Secondary">Marine &amp; Freshwater Sciences</JournalSubject>
+        <JournalSubject Type="Secondary">Climate Change</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>31</VolumeIDStart>
+        <VolumeIDEnd>31</VolumeIDEnd>
+        <VolumeIssueCount>6</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>1</IssueIDStart>
+          <IssueIDEnd>1</IssueIDEnd>
+          <IssueArticleCount>16</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>1</Month>
+              <Day>18</Day>
+            </OnlineDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>1</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13131-012-0174-3" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>174</ArticleID>
+            <ArticleDOI>10.1007/s13131-012-0174-3</ArticleDOI>
+            <ArticleSequenceNumber>5</ArticleSequenceNumber>
+            <ArticleTitle Language="En">An improved QuikSCAT wind retrieval algorithm and eye locating for typhoon</ArticleTitle>
+            <ArticleFirstPage>41</ArticleFirstPage>
+            <ArticleLastPage>50</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>17</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>21</Day>
+              </Received>
+              <Accepted>
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Chinese Society of Oceanography and Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jian</GivenName>
+                  <FamilyName>Zhong</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>zhongjianjian2008@163.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jianfang</GivenName>
+                  <FamilyName>Fei</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Sixun</GivenName>
+                  <FamilyName>Huang</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Huadong</GivenName>
+                  <FamilyName>Du</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Liang</GivenName>
+                  <FamilyName>Zhang</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Institute of Meteorology</OrgDivision>
+                <OrgName>University of Science and Technology of People’s Liberation Army</OrgName>
+                <OrgAddress>
+                  <City>Nanjing</City>
+                  <Postcode>211101</Postcode>
+                  <Country Code="CN">China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>This paper proposes a rain considered geophysical model function (GMF), to be noted as GMF plus Rain. GMF plus Rain is based on the basic raidative transfer model with attenuation and scattering effects of rain on radar signal considered. Combined with the NSCAT2 GMF and the rain correction model, the GMF plus Rain model is used to retrieve the ocean wind vectors from the collocated QuikSCAT and SSM/I rain rate data for typhoon Melor. The resulting wind speed estimates of typhoon Melor show improved agreement with the wind fields derived from the best track analysis of Japan Meteorological Agency (JMA). The results imply that compared with the GMF model, the GMF plus Rain model can improve the precision of wind retrieval under the rain condition. Then, a new general algorithm of locating the eye of typhoon through the normalized radar cross section (NRCS) is proposed. The implementation of this algorithm in the ten QuikSCAT observations of typhoon Melor suggests that this algorithm is effective.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>scatterometer</Keyword>
+              <Keyword>radiative transfer model</Keyword>
+              <Keyword>typhoon wind field</Keyword>
+              <Keyword>locating the eye of typhoon</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Foundation item: The National Natural Science Foundation of China under contract Nos 41005029, 41105012 and 41105063; the National Public Benefit (Meteorology) Research Foundation of China under contract No. GYHY201106004.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/13131_2012_Article_174.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L. F.</Initials>
+                    <FamilyName>Bliven</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P. W.</Initials>
+                    <FamilyName>Sobieski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Craeye</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Rain generated ring-waves: measurements and modeling for remote sensing</ArticleTitle>
+                  <JournalTitle>Int J Remote Sens</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>221</FirstPage>
+                  <LastPage>228</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/014311697219385</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bliven L F, Sobieski P W, Craeye C. 1997. Rain generated ring-waves: measurements and modeling for remote sensing. Int J Remote Sens, 18(1): 221–228</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z. S.</Initials>
+                    <FamilyName>Haddad</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D. A.</Initials>
+                    <FamilyName>Short</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S. L.</Initials>
+                    <FamilyName>Durden</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">A new parameterization of the rain drop size distribution</ArticleTitle>
+                  <JournalTitle>IEEE Trans Geosci Remote Sensing</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>532</FirstPage>
+                  <LastPage>539</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/36.581961</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Haddad Z S, Short D A, Durden S L. 1997. A new parameterization of the rain drop size distribution. IEEE Trans Geosci Remote Sensing, 35: 532–539</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Song</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Xingwei.</Initials>
+                    <FamilyName>Jiang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Neural network wind retrieval from ERS1/2 scatterometer data</ArticleTitle>
+                  <JournalTitle>Acta Oecanologica Sinica</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>35</FirstPage>
+                  <LastPage>39</LastPage>
+                </BibArticle>
+                <BibUnstructured>Lin Mingsen, Song Xingai, Jiang Xingwei. 2006. Neural network wind retrieval from ERS1/2 scatterometer data. Acta Oecanologica Sinica, 25(3): 35–39</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Sun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Shuqin.</Initials>
+                    <FamilyName>Zheng</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">A study on a new retrieval algorithm for measurement of oceanic wind vectors field using satellite microwave scatterometer</ArticleTitle>
+                  <JournalTitle>Acta Oceanologica Sinica</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>305</FirstPage>
+                  <LastPage>391</LastPage>
+                </BibArticle>
+                <BibUnstructured>Lin Mingsen, Sun Ying, Zheng Shuqin. 1998. A study on a new retrieval algorithm for measurement of oceanic wind vectors field using satellite microwave scatterometer. Acta Oceanologica Sinica, 17: 305–391</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <BibUnstructured>Liou K N. 2004. An Introduction to Atmospheric Radiation. 2nd ed. China Meteorological Press, 27–34</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <BibBook>
+                  <InstitutionalAuthorName>Marcos Portabella Arnus.</InstitutionalAuthorName>
+                  <Year>2003</Year>
+                  <BookTitle>Wind Field Retrieval from Satellite Radar Systems</BookTitle>
+                  <PublisherName>University of Barcelona Press</PublisherName>
+                  <PublisherLocation>Amsterdam</PublisherLocation>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>142</LastPage>
+                </BibBook>
+                <BibUnstructured>Marcos Portabella Arnus. 2003. Wind Field Retrieval from Satellite Radar Systems. Amsterdam: University of Barcelona Press, 1–142</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R. K.</Initials>
+                    <FamilyName>Moore</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. H.</Initials>
+                    <FamilyName>Chaudry</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I. J.</Initials>
+                    <FamilyName>Birrers</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <ArticleTitle Language="En">Errors in scatterometer-radiometer wind measurements dur to rain</ArticleTitle>
+                  <JournalTitle>IEEE J Ocean Eng</JournalTitle>
+                  <VolumeID>OE-8</VolumeID>
+                  <FirstPage>37</FirstPage>
+                  <LastPage>49</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/JOE.1983.1145541</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Moore R K, Chaudry A H, Birrers I J. 1983. Errors in scatterometer-radiometer wind measurements dur to rain. IEEE J Ocean Eng, OE-8: 37–49</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Stiles</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Yueh</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Impact of rain on wind scatterometer data</ArticleTitle>
+                  <JournalTitle>IEEE Trans Geosci Remote Sensing</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>1973</FirstPage>
+                  <LastPage>1983</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TGRS.2002.803846</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stiles B, Yueh S. 2002. Impact of rain on wind scatterometer data. IEEE Trans Geosci Remote Sensing, 40: 1973–1983</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Tournadre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Quilfen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Impact of rain cell on scatterometer data: 1. theory and modeling</ArticleTitle>
+                  <JournalTitle>J Geophys Res: C-Oceans</JournalTitle>
+                  <VolumeID>108</VolumeID>
+                  <IssueID>C7</IssueID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>39</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1029/2002JC001428</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tournadre J, Quilfen Y. 2003. Impact of rain cell on scatterometer data: 1. theory and modeling. J Geophys Res: C-Oceans, 108(C7): 1–39</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>F. T.</Initials>
+                    <FamilyName>Ulaby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. K.</Initials>
+                    <FamilyName>Moore</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. K.</Initials>
+                    <FamilyName>Fung</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <BookTitle>Microwave Remote Sensing: Active and Passive</BookTitle>
+                  <PublisherName>Artech House</PublisherName>
+                  <PublisherLocation>Norwood, MA</PublisherLocation>
+                  <FirstPage>315</FirstPage>
+                  <LastPage>400</LastPage>
+                </BibBook>
+                <BibUnstructured>Ulaby F T, Moore R K, Fung A K. 1981. Microwave Remote Sensing: Active and Passive. Norwood, MA: Artech House, 315–400</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Vogelzang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Stoffelen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Verhoef</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Validation of two-dimensional variational ambiguity removal on SeaWinds scatterometer data</ArticleTitle>
+                  <JournalTitle>J Atmos Oceanic Techno</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>1229</FirstPage>
+                  <LastPage>1245</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/2008JTECHA1232.1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Vogelzang J, Stoffelen Ad, Verhoef A, et al. 2010. Validation of two-dimensional variational ambiguity removal on SeaWinds scatterometer data. J Atmos Oceanic Techno, 26: 1229–1245</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F. J.</Initials>
+                    <FamilyName>Wentz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. W.</Initials>
+                    <FamilyName>Spencer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">SSM/I rain retrievals within a unified all weather ocean algorithm</ArticleTitle>
+                  <JournalTitle>J Atmos Sci</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>1613</FirstPage>
+                  <LastPage>1627</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1175/1520-0469(1998)055&lt;1613:SIRRWA&gt;2.0.CO;2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wentz F J, Spencer R W. 1998. SSM/I rain retrievals within a unified all weather ocean algorithm. J Atmos Sci, 55(5): 1613–1627</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S. H.</Initials>
+                    <FamilyName>Yueh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B. W.</Initials>
+                    <FamilyName>Stiles</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">QuikSCAT wind retrievals for tropical cyclones</ArticleTitle>
+                  <JournalTitle>IEEE Trans Geosci Remote Sensing</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>2616</FirstPage>
+                  <LastPage>2628</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TGRS.2003.814913</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yueh S H, Stiles B W, Liu W. 2003. QuikSCAT wind retrievals for tropical cyclones. IEEE Trans Geosci Remote Sensing, 41: 2616–2628</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S. H.</Initials>
+                    <FamilyName>Yueh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B. W.</Initials>
+                    <FamilyName>Stiles</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W. Y.</Initials>
+                    <FamilyName>Tsai</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">QuickSCAT geophysical model function for tropical cyclones and application to hurricane Floyd</ArticleTitle>
+                  <JournalTitle>IEEE Trans Geosc Remote Sens</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>2601</FirstPage>
+                  <LastPage>2611</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/36.974995</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yueh S H, Stiles B W, Tsai W Y, et al. 2001. QuickSCAT geophysical model function for tropical cyclones and application to hurricane Floyd. IEEE Trans Geosc Remote Sens, 39: 2601–2611</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Variational assimilation combined with generalized variational optimization analysis for sea surface wind retrieval from microwave scatterometer data</ArticleTitle>
+                  <JournalTitle>Acta Phys sin (in Chinese)</JournalTitle>
+                  <VolumeID>59</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>2889</FirstPage>
+                </BibArticle>
+                <BibUnstructured>Zhang Liang, Huang Sixun, Liu Yudi, et al. 2010. Variational assimilation combined with generalized variational optimization analysis for sea surface wind retrieval from microwave scatterometer data. Acta Phys sin (in Chinese), 59(4): 2889</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Zhong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Du</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Application of the Tikhonov regularization method to wind retrieval from scatterometer data: I. Sensitivity analysis and simulation experiments</ArticleTitle>
+                  <JournalTitle>Chinese Physics B</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>034301</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/1674-1056/20/3/034301</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zhong Jian, Huang Sixun, Du Huadong, et al. 2011. Application of the Tikhonov regularization method to wind retrieval from scatterometer data: I. Sensitivity analysis and simulation experiments. Chinese Physics B, 20: 034301</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Zhong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Fei</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Application of Tikhonov regularization method to wind retrieval from scatterometer data: II. Cyclone wind retrieval with consideration of rain</ArticleTitle>
+                  <JournalTitle>Chinese Physics B</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>064301</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/1674-1056/20/6/064301</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zhong Jian, Huang Sixun, Fei Jianfang, et al. 2011. Application of Tikhonov regularization method to wind retrieval from scatterometer data: II. Cyclone wind retrieval with consideration of rain. Chinese Physics B, 20: 064301</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Zou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Delu.</Initials>
+                    <FamilyName>Pan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Applications of QuikSCAT in typhoon observation and tracking</ArticleTitle>
+                  <JournalTitle>J Remote Sensing</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>847</FirstPage>
+                  <LastPage>853</LastPage>
+                </BibArticle>
+                <BibUnstructured>Zou Juhong, Lin Mingsen, Pan Delu. 2009. Applications of QuikSCAT in typhoon observation and tracking. J Remote Sensing, 13: 847–853</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Zou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Pan</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">A unified C-band and Ku-band GMF determined by using neural network approach</ArticleTitle>
+                  <JournalTitle>Acta Oecanological Sinica (in Chinese)</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>23</FirstPage>
+                  <LastPage>28</LastPage>
+                </BibArticle>
+                <BibUnstructured>Zou Juhong, Lin Mingsen, Pan Delu, et al. 2008. A unified C-band and Ku-band GMF determined by using neural network approach. Acta Oecanological Sinica (in Chinese), 30(5): 23–28</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

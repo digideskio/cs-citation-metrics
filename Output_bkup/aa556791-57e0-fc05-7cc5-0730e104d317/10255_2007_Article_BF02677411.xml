@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10255</JournalID>
+      <JournalPrintISSN>0168-9673</JournalPrintISSN>
+      <JournalElectronicISSN>1618-3932</JournalElectronicISSN>
+      <JournalTitle>Acta Mathematicae Applicatae Sinica</JournalTitle>
+      <JournalAbbreviatedTitle>Acta Mathematicae Applicatae Sinica</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Math Applications in Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Type="Secondary">Mathematical and Computational Physics</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>14</VolumeIDStart>
+        <VolumeIDEnd>14</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>13</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>1998</Year>
+              <Month>7</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Science Press</CopyrightHolderName>
+            <CopyrightYear>1998</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="Art9">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>BF02677411</ArticleID>
+            <ArticleDOI>10.1007/BF02677411</ArticleDOI>
+            <ArticleSequenceNumber>9</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Schwarz type domain decomposition algorithms for parabolic equations and error estimates</ArticleTitle>
+            <ArticleFirstPage>300</ArticleFirstPage>
+            <ArticleLastPage>313</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>1995</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+              </Received>
+              <Revised>
+                <Year>1998</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+              </Revised>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Science Press</CopyrightHolderName>
+              <CopyrightYear>1998</CopyrightYear>
+            </ArticleCopyright><ArticleGrants Type="Regular"><MetadataGrant Grant="OpenAccess"/><AbstractGrant Grant="OpenAccess"/><BodyPDFGrant Grant="Restricted"/><BodyHTMLGrant Grant="Restricted"/><BibliographyGrant Grant="Restricted"/><ESMGrant Grant="Restricted"/></ArticleGrants>
+            <ArticleContext>
+              <JournalID>10255</JournalID>
+              <VolumeIDStart>14</VolumeIDStart>
+              <VolumeIDEnd>14</VolumeIDEnd>
+              <IssueIDStart>3</IssueIDStart>
+              <IssueIDEnd>3</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Rui</GivenName>
+                  <FamilyName>Hongxing</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Yang</GivenName>
+                  <FamilyName>Danping</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Mathematics</OrgDivision>
+                <OrgName>Shandong University</OrgName>
+                <OrgAddress>
+                  <Postcode>250100</Postcode>
+                  <City>Jinan</City>
+                  <Country>China</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Two kinds of Schwarz type domain decomposition methods are introduced to solve the general selfadjoint second order parabolic partial differential equations, and the dependence of convergence rate of these algorithms on parameters of time-step and space-mesh is also analyzed. The convergence, independent of the iteration times at each time-level, of the approximate solution is proved and a priori optimal<Emphasis Type="Italic">L</Emphasis>
+                <Superscript>2</Superscript> error estimates are given.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Key words</Heading>
+              <Keyword>Schwarz algorithms</Keyword>
+              <Keyword>parabolic problems</Keyword>
+              <Keyword>finite element method</Keyword>
+              <Keyword>error analysis</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Supported by the National Natural Science Foundation of China and Science Foundation of Shandong Province.</SimplePara>
+            </ArticleNote>
+            <ArticleNote Type="Misc">
+              <SimplePara>Supported partly by China State Major Key Project for Basic Researches and Science Foundation of China State Education Commission.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10255_2007_Article_BF02677411.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>[1]</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>R.A.</Initials>
+                    <FamilyName>Adamas</FamilyName>
+                  </BibAuthorName>
+                  <Year>1975</Year>
+                  <BookTitle>Sobolev Space</BookTitle>
+                  <PublisherName>Academic Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>R.A. Adamas. Sobolev Space. Academic Press, New York, 1975.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>[2]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.H.</Initials>
+                    <FamilyName>Bramble</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.E.</Initials>
+                    <FamilyName>Pasciak</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Xu</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Convergence Estimates for Product Iterative Methods with Application to Domain Decomposition</ArticleTitle>
+                  <JournalTitle>Math. Comp.</JournalTitle>
+                  <VolumeID>57</VolumeID>
+                  <IssueID>195</IssueID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>21</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0754.65085</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2938660</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J.H. Bramble, J.E. Pasciak, J. Wang and J. Xu. Convergence Estimates for Product Iterative Methods with Application to Domain Decomposition.<Emphasis Type="Italic">Math. Comp.</Emphasis>, 1991, 57(195): 1–21.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>[3]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>X.C.</Initials>
+                    <FamilyName>Cai</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Additive Schwarz Algorithms for Parabolic Convection Diffusion Equations</ArticleTitle>
+                  <JournalTitle>Numer. Math.</JournalTitle>
+                  <VolumeID>60</VolumeID>
+                  <FirstPage>41</FirstPage>
+                  <LastPage>61</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01385713</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>X.C. Cai. Additive Schwarz Algorithms for Parabolic Convection Diffusion Equations.<Emphasis Type="Italic">Numer. Math.</Emphasis>, 1991, 60: 41–61.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>[4]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Xu</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Iterative Methods by Space Decomposition and Subspace Correction</ArticleTitle>
+                  <JournalTitle>SIAM Rev.</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>581</FirstPage>
+                  <LastPage>613</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0788.65037</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/1034116</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. Xu. Iterative Methods by Space Decomposition and Subspace Correction.<Emphasis Type="Italic">SIAM Rev.</Emphasis>, 1992, 34: 581–613.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>[5]</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>P.G.</Initials>
+                    <FamilyName>Ciarlet</FamilyName>
+                  </BibAuthorName>
+                  <Year>1978</Year>
+                  <BookTitle>The Finite Element Method for Elliptic Problems</BookTitle>
+                  <PublisherName>North-Holland</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0383.65058</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>P.G. Ciarlet. The Finite Element Method for Elliptic Problems. North-Holland, New York, 1978.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>[6]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.N.</Initials>
+                    <FamilyName>Dawson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.F.</Initials>
+                    <FamilyName>Dupont</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Explicit/Implicit Conservative Galerkin Domain Decomposition Procedures for Parabolic Problems</ArticleTitle>
+                  <JournalTitle>Math. Comp.</JournalTitle>
+                  <VolumeID>58</VolumeID>
+                  <IssueID>197</IssueID>
+                  <FirstPage>21</FirstPage>
+                  <LastPage>34</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0746.65072</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2153018</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C.N. Dawson and T.F. Dupont. Explicit/Implicit Conservative Galerkin Domain Decomposition Procedures for Parabolic Problems.<Emphasis Type="Italic">Math. Comp.</Emphasis>, 1992, 58(197): 21–34.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>[7]</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.N.</Initials>
+                    <FamilyName>Dawson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Q.</Initials>
+                    <FamilyName>Du</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.F.</Initials>
+                    <FamilyName>Dupont</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">A Finite Difference Domain Decomposition Algorithm for Numerical Solution of Heat Equation</ArticleTitle>
+                  <JournalTitle>Math. Comp.</JournalTitle>
+                  <VolumeID>57</VolumeID>
+                  <IssueID>195</IssueID>
+                  <FirstPage>63</FirstPage>
+                  <LastPage>71</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0732.65091</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2938663</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C.N. Dawson, Q. Du and T.F. Dupont. A Finite Difference Domain Decomposition Algorithm for Numerical Solution of Heat Equation.<Emphasis Type="Italic">Math. Comp.</Emphasis>, 1991, 57(195): 63–71.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>[8]</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Dryja</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O.B.</Initials>
+                    <FamilyName>Widlund</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ChapterTitle Language="En">Towards a Unified Theory of Domain Decomposition Algorithm for Elliptic Problems</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Chan</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Glowinski</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Periaux</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>O.B.</Initials>
+                    <FamilyName>Widlund</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>3rd International Symposium on Domain Decomposition Methods for Partial Differential Equations</BookTitle>
+                  <PublisherName>SIAM</PublisherName>
+                  <PublisherLocation>Phledelphia</PublisherLocation>
+                </BibChapter>
+                <BibUnstructured>M. Dryja and O.B. Widlund. Towards a Unified Theory of Domain Decomposition Algorithm for Elliptic Problems. In: 3rd International Symposium on Domain Decomposition Methods for Partial Differential Equations, T. Chan, R. Glowinski, J. Periaux and O.B. Widlund, eds., SIAM, Phledelphia, 1990.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>[9]</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>P.L.</Initials>
+                    <FamilyName>Lions</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ChapterTitle Language="En">On the Scharz Alternating Method I</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Glowinski</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>G. H.</Initials>
+                    <FamilyName>Golub</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>G. A.</Initials>
+                    <FamilyName>Meurant</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Periaux</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>First International Symposium on Domain Decomposition Methods for Partial Differential Equations</BookTitle>
+                  <PublisherName>SIAM</PublisherName>
+                  <PublisherLocation>Phledelphia</PublisherLocation>
+                </BibChapter>
+                <BibUnstructured>P.L. Lions. On the Scharz Alternating Method I. In: First International Symposium on Domain Decomposition Methods for Partial Differential Equations, R. Glowinski, G. H. Golub, G. A. Meurant and J. Periaux, eds., SIAM, Phledelphia, 1988.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>[10]</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>P.L.</Initials>
+                    <FamilyName>Lions</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ChapterTitle Language="En">On the Schwarz Alternating Method II</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Chan</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Glowinski</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Periaux</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>O.B.</Initials>
+                    <FamilyName>Widlund</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Second International Symposium on Domain Decomposition Methods for Partial Differential Equations</BookTitle>
+                  <PublisherName>SIAM</PublisherName>
+                  <PublisherLocation>Phledelphia</PublisherLocation>
+                </BibChapter>
+                <BibUnstructured>P.L. Lions. On the Schwarz Alternating Method II. In Second International Symposium on Domain Decomposition Methods for Partial Differential Equations, T. Chan, R. Glowinski, J. Periaux and O.B. Widlund, eds., SIAM, Phledelphia, 1989.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,2567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <JournalSubject Type="Secondary">Computer Science, general</JournalSubject>
+        <JournalSubject Type="Secondary">Information Storage and Retrieval</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <SubjectCollection Code="Computer Science">SC6</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>1</VolumeIDStart>
+        <VolumeIDEnd>1</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>4</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>9</Month>
+              <Day>18</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2012</Year>
+              <Month>9</Month>
+              <Day>17</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>10</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-012-0008-2" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>8</ArticleID>
+            <ArticleDOI>10.1007/s13735-012-0008-2</ArticleDOI>
+            <ArticleSequenceNumber>4</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Directional local extrema patterns: a new descriptor for content based image retrieval</ArticleTitle>
+            <ArticleCategory>Regular Paper</ArticleCategory>
+            <ArticleFirstPage>191</ArticleFirstPage>
+            <ArticleLastPage>203</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+              </Received>
+              <Revised>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+              </Revised>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>21</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Subrahmanyam</GivenName>
+                  <FamilyName>Murala</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>subbumurala@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>R.</GivenName>
+                  <GivenName>P.</GivenName>
+                  <FamilyName>Maheshwari</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>+91-9837229406</Phone>
+                  <Fax>+91-1332-273560</Fax>
+                  <Email>rpmaheshwari@ieee.org</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>R.</GivenName>
+                  <FamilyName>Balasubramanian</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>balaiitr@ieee.org</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Electrical Engineering</OrgDivision>
+                <OrgName>Indian Institute of Technology Roorkee</OrgName>
+                <OrgAddress>
+                  <City>Roorkee</City>
+                  <Postcode>247667</Postcode>
+                  <State>Uttarakhand</State>
+                  <Country Code="IN">India</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Mathematics</OrgDivision>
+                <OrgName>Indian Institute of Technology Roorkee</OrgName>
+                <OrgAddress>
+                  <City>Roorkee</City>
+                  <Postcode>247667</Postcode>
+                  <State>Uttarakhand</State>
+                  <Country Code="IN">India</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para>In this paper, a new algorithm using directional local extrema patterns meant for content-based image retrieval application is proposed. The standard local binary pattern (LBP) encodes the relationship between reference pixel and its surrounding neighbors by comparing gray-level values. The proposed method differs from the existing LBP in a manner that it extracts the directional edge information based on local extrema in 0<InlineEquation ID="IEq1">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                </InlineEquation>, 45<InlineEquation ID="IEq2">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                </InlineEquation>, 90<InlineEquation ID="IEq3">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                </InlineEquation>, and 135<InlineEquation ID="IEq4">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                </InlineEquation> directions in an image. Performance is compared with LBP, block-based LBP (BLK_LBP), center-symmetric local binary pattern (CS-LBP), local edge patterns for segmentation (LEPSEG), local edge patterns for image retrieval (LEPINV), and other existing transform domain methods by conducting four experiments on benchmark databases viz. Corel (DB1) and Brodatz (DB2) databases. The results after being investigated show a significant improvement in terms of their evaluation measures as compared with other existing methods on respective databases.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Local binary patterns (LBP)</Keyword>
+              <Keyword>Texture</Keyword>
+              <Keyword>Image retrieval</Keyword>
+              <Keyword>Pattern Recognition</Keyword>
+              <Keyword>Databases</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>Nowadays we can get very good digital scanners and cameras to store the sweet memories of world tour. With these cameras a huge amount of images are coming out. However, we cannot access or make use of these data unless they are organized so as to allow efficient browsing, searching, and retrieval. Hence, there is a dire need of some search technique viz content-based image retrieval (CBIR). The feature extraction is a prominent step and the effectiveness of a CBIR system depends typically on the method of features extraction from raw images. The CBIR utilizes the visual contents of an image such as <Emphasis Type="Italic">color, texture, shape, faces, spatial layout, etc. </Emphasis> to represent and index the image. The visual features can further be classified into general features which include color, texture, shape, and domain-specific features as human faces and finger prints. There exists no single best representation of an image for all perceptual subjectivity, because the user may take the photographs in different conditions (view angle, illumination changes etc.). Comprehensive and extensive literature survey on CBIR is presented in [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR4">4</CitationRef>].</Para>
+              <Para>Texture analysis has attracted a great deal of attention due to its potential values for computer vision and pattern recognition applications. This branch of texture analysis is particularly well suited for identification of products such as ceramic tiles, marble, parquet slabs, etc. This has been an eye catcher for researchers. Ahmadian et al. used the wavelet transform for texture classification [<CitationRef CitationID="CR5">5</CitationRef>]. The discrete wavelet transform (DWT) based texture image retrieval using generalized Gaussian density and Kullback–Leibler distance can be seen in [<CitationRef CitationID="CR6">6</CitationRef>]. Texture classification and segmentation by use of wavelet frames is observed in [<CitationRef CitationID="CR7">7</CitationRef>]. However, DWT can extract the features only in three directions (horizontal, Vertical and diagonal). Hence, Gabor transform (GT) [<CitationRef CitationID="CR8">8</CitationRef>], rotated wavelet filters [<CitationRef CitationID="CR9">9</CitationRef>], and the combination of dual tree complex wavelet filters (DT-CWF) [<CitationRef CitationID="CR10">10</CitationRef>], dual tree rotated complex wavelet filters (DT-RCWF) have been proposed in literature to extract the more directional features which are absent in DWT. Manjunath et al. [<CitationRef CitationID="CR8">8</CitationRef>] proposed the Gabor transform (GT) for image retrieval on Bordatz texture database taking into account the mean and standard deviation features from four scales and six directions of GT. Texture image retrieval by calculation of characteristics of image in different directions has been achieved using rotated wavelet filters [<CitationRef CitationID="CR9">9</CitationRef>], and the combination of DT-CWF, DT-RCWF and also rotational invariant DT-RCWF is proposed by Kokare et al. [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR11">11</CitationRef>], respectively.</Para>
+              <Para>Now, a concise review of the related literature available, targeted for development of our algorithm, is given here. The local binary pattern (LBP) features are designed for description of texture. Ojala et al. [<CitationRef CitationID="CR12">12</CitationRef>] proposed the LBP, which are converted to rotational invariant for texture classification [<CitationRef CitationID="CR13">13</CitationRef>]. Pietikainen et al. proposed the rotational invariant texture classification using feature distributions [<CitationRef CitationID="CR14">14</CitationRef>]. Ahonen et al. [<CitationRef CitationID="CR15">15</CitationRef>] and Zhao and Pietikainen [<CitationRef CitationID="CR16">16</CitationRef>] used the LBP operator for facial expression analysis and recognition. Heikkila et al. proposed the background modeling and detection using LBP [<CitationRef CitationID="CR17">17</CitationRef>]. Huang et al. [<CitationRef CitationID="CR18">18</CitationRef>] proposed the extended LBP for shape localization. Heikkila et al. [<CitationRef CitationID="CR19">19</CitationRef>] used the LBP for interest region description. Li and Staunton [<CitationRef CitationID="CR20">20</CitationRef>] used the combination of Gabor filter and LBP for texture segmentation. Zhang et al. [<CitationRef CitationID="CR21">21</CitationRef>] proposed local derivative patterns (LDP) for face recognition, where they considered LBP as non-directional first-order local patterns collected from the first-order derivatives of an image. The block-based texture feature which uses the LBP texture feature as the source of image description is proposed in [<CitationRef CitationID="CR22">22</CitationRef>] for CBIR. The center-symmetric local binary pattern (CS-LBP) which is a modified version of the well-known LBP feature is combined with scale invariant feature transform (SIFT) in [<CitationRef CitationID="CR23">23</CitationRef>] for description of interest regions. Yao et al. [<CitationRef CitationID="CR24">24</CitationRef>] have proposed two types of local edge patterns (LEP) histograms: one is LEPSEG for image segmentation, and the other is LEPINV for image retrieval. The LEPSEG is sensitive to variations in rotation and scale; on the contrary, the LEPINV is resistant to variations in rotation and scale.</Para>
+              <Para>It has already been proved that the directional features are very valuable for image retrieval applications [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR11">11</CitationRef>]. But, the above-discussed various extensions of LBP features are non-directional features. To address this problem, in this paper we propose the directional local extrema patterns (DLEP) for image retrieval and the main contributions of this work are given in the next subsection.</Para>
+              <Section2 ID="Sec2">
+                <Heading>Main contributions</Heading>
+                <Para>The main contributions of this work are summarized as follows:<OrderedList>
+                    <ListItem>
+                      <ItemNumber>1.</ItemNumber>
+                      <ItemContent>
+                        <Para>The DLEP is proposed in 0<InlineEquation ID="IEq5">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, 45<InlineEquation ID="IEq6">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, 90<InlineEquation ID="IEq7">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, and 135<InlineEquation ID="IEq8">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation> directions in contrast to LBP. This DLEP differs from the existing LBP in a manner that it extracts the directional edge information based on local extrema.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>2.</ItemNumber>
+                      <ItemContent>
+                        <Para>The performance of the proposed method is tested on benchmark image databases.</Para>
+                      </ItemContent>
+                    </ListItem>
+                  </OrderedList>The paper is systematized as follows: In Sect. <InternalRef RefID="Sec1">1</InternalRef>, a brief review of CBIR and related work is given. Section <InternalRef RefID="Sec3">2</InternalRef> presents a concise review of local pattern operator. The proposed system framework and query matching are illustrated in Sect. <InternalRef RefID="Sec7">3</InternalRef>. Experimental results and discussions are given in Sect. <InternalRef RefID="Sec10">4</InternalRef>. Based on the above work, conclusions and future scope are derived in Sect. <InternalRef RefID="Sec15">5</InternalRef>.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Local patterns</Heading>
+              <Section2 ID="Sec4">
+                <Heading>Local binary patterns (LBP)</Heading>
+                <Para>The LBP operator was introduced by Ojala et al. [<CitationRef CitationID="CR12">12</CitationRef>] for texture classification. Success in terms of speed (no need to tune any parameters) and performance is reported in many research areas such as texture classification [<CitationRef CitationID="CR12">12</CitationRef>, <CitationRef CitationID="CR13">13</CitationRef>, <CitationRef CitationID="CR14">14</CitationRef>], face recognition [<CitationRef CitationID="CR15">15</CitationRef>, <CitationRef CitationID="CR16">16</CitationRef>], object tracking, bio-medical image retrieval, and finger print recognition. Given a center pixel in the 3<InlineEquation ID="IEq9">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\times $$]]></EquationSource>
+                  </InlineEquation>3 pattern, LBP value is computed by comparing its gray-scale value with its neighborhoods based on Eqs. (<InternalRef RefID="Equ1">1</InternalRef>) and (<InternalRef RefID="Equ1">2</InternalRef>):<Equation ID="Equ1">
+                    <EquationNumber>1</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\text{ LBP}_{P,R} =\sum \limits _{p=1}^P {2^{(p-1)}\times f_1 (I(g_p )-I(g_c))}\end{aligned}$$]]></EquationSource>
+                  </Equation>
+                  <Equation ID="Equ2">
+                    <EquationNumber>2</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&f_1 (x)=\left\{ {\begin{array}{l@{\quad }l} 1&x\ge 0 \\ 0&\text{ else} \\ \end{array}} \right. \end{aligned}$$]]></EquationSource>
+                  </Equation>where <InlineEquation ID="IEq10">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$I(g_c )$$]]></EquationSource>
+                  </InlineEquation> denotes the gray value of the center pixel, <InlineEquation ID="IEq11">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$I(g_p)$$]]></EquationSource>
+                  </InlineEquation> represents the gray value of its neighbors, <InlineEquation ID="IEq12">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$P$$]]></EquationSource>
+                  </InlineEquation> stands for the number of neighbors, and <InlineEquation ID="IEq13">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$R$$]]></EquationSource>
+                  </InlineEquation> the radius of the neighborhood.</Para>
+                <Para>After computing the LBP pattern for each pixel <InlineEquation ID="IEq14">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$(j, k)$$]]></EquationSource>
+                  </InlineEquation>, the whole image is represented by building a histogram as shown in Eq. (<InternalRef RefID="Equ3">3</InternalRef>).<Equation ID="Equ3">
+                    <EquationNumber>3</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} H_\mathrm{ LBP} (l)&= \sum \limits _{j=1}^{N_1 } {\sum \limits _{k=1}^{N_2 } {f_2 (} } \text{LBP}(j,k),l);\; l\in [0,(2^P-1)]\nonumber \\ \end{aligned}$$]]></EquationSource>
+                  </Equation>
+                  <Equation ID="Equ4">
+                    <EquationNumber>4</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} f_2 (x,y)&= \left\{ {\begin{array}{l@{\quad }l} 1&x=y \\ 0&\text{ else} \\ \end{array}} \right. \end{aligned}$$]]></EquationSource>
+                  </Equation>where the size of input image is <InlineEquation ID="IEq15">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_1 \times N_2 $$]]></EquationSource>
+                  </InlineEquation>.</Para>
+                <Para>Figure <InternalRef RefID="Fig1">1</InternalRef> shows an example of obtaining an LBP from a given <InlineEquation ID="IEq16">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$3\times 3$$]]></EquationSource>
+                  </InlineEquation> pattern. The histograms of these patterns contain the information on the distribution of edges in an image.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Calculation of LBP</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO5">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_8_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Example of obtaining DLEP for the <InlineEquation ID="IEq17">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$3\times 3$$]]></EquationSource>
+                          </InlineEquation> pattern</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO6">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_8_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Center-symmetric local binary patterns (CS_LBP)</Heading>
+                <Para>Instead of comparing each pixel with the center pixel, Heikkila et al. [<CitationRef CitationID="CR23">23</CitationRef>] have compared center-symmetric pairs of pixels for CS_LBP as shown in Eq. (<InternalRef RefID="Equ5">5</InternalRef>):<Equation ID="Equ5">
+                    <EquationNumber>5</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned}  {\rm CS\_LBP}_{P,R} =\sum \limits _{p=1}^P {2^{(p-1)}\times f_1 (I(g_p )-I(g_{p+(P/2)} ))} \end{aligned}$$]]></EquationSource>
+                  </Equation>After computing the CS_LBP pattern for each pixel <InlineEquation ID="IEq18">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$(j, k)$$]]></EquationSource>
+                  </InlineEquation>, the whole image is represented by building a histogram, as similar to the LBP.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Directional local extrema patterns (DLEP)</Heading>
+                <Para>The idea of LBP proposed in [<CitationRef CitationID="CR12">12</CitationRef>] has been adopted to define directional local extrema patterns (DLEP). DLEP describes the spatial structure of the local texture using the local extrema of center gray pixel<InlineEquation ID="IEq19">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$g_c $$]]></EquationSource>
+                  </InlineEquation>.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Example to obtain DLEP pattern in 0<InlineEquation ID="IEq20">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation> direction</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO8">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_8_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>In proposed DLEP for a given image the local extrema in 0<InlineEquation ID="IEq21">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation>, 45<InlineEquation ID="IEq22">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation>, 90<InlineEquation ID="IEq23">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq23.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation>, and 135<InlineEquation ID="IEq24">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq24.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation> directions are obtained by computing local difference between the center pixel and its neighbors as shown below:<Equation ID="Equ6">
+                    <EquationNumber>6</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} I^{\prime }(g_i )=I(g_c )-I(g_i ); \quad i=1,2,\ldots ,8 \end{aligned}$$]]></EquationSource>
+                  </Equation>The local extremas are obtained by Eq. (<InternalRef RefID="Equ7">7</InternalRef>).<Equation ID="Equ7">
+                    <EquationNumber>7</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\hat{I}_\alpha (g_c )=f_3 (I^{\prime }(g_j ),\quad I^{\prime }(g_{j+4} ));\quad j={(1+\alpha } /45) \nonumber \\&\qquad \qquad \qquad \qquad \qquad \qquad \qquad \forall \alpha =0^{\circ }, 45^{\circ },90^{\circ },135^{\circ } \end{aligned}$$]]></EquationSource>
+                  </Equation>
+                  <Equation ID="Equ8">
+                    <EquationNumber>8</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&f_3 (I^{\prime }(g_j ),\quad I^{\prime }(g_{j+4} ))=\left\{ {\begin{array}{l@{\quad }l} 1&I^{\prime }(g_j )\times I^{\prime }(g_{j+4} )\ge 0 \\ 0&\text{ else} \\ \end{array}} \right. \end{aligned}$$]]></EquationSource>
+                  </Equation>The DLEP is defined (<InlineEquation ID="IEq25">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq25.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\alpha =0^{\circ }, 45^{\circ }, 90^{\circ }$$]]></EquationSource>
+                  </InlineEquation>, and <InlineEquation ID="IEq26">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq26.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$135^{\circ })$$]]></EquationSource>
+                  </InlineEquation> as follows:<Equation ID="Equ9">
+                    <EquationNumber>9</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \left. {\text{ DLEP}(I(g_c ))} \right|_\alpha =\left\{ {\hat{I}_\alpha (g_c );\,\hat{I}_\alpha (g_1 );\,\hat{I}_\alpha (g_2 );\ldots \hat{I}_\alpha (g_8 )} \right\} \nonumber \\ \end{aligned}$$]]></EquationSource>
+                  </Equation>The detailed representation of DLEP can be seen in Fig. <InternalRef RefID="Fig2">2</InternalRef>.</Para>
+                <Para>Eventually, the given image is converted to DLEP images with values ranging from 0 to 511.</Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Example of LBP and DLEP feature maps: <Emphasis Type="Bold">a</Emphasis> sample image, <Emphasis Type="Bold">b</Emphasis> LBP feature map, <Emphasis Type="Bold">c</Emphasis> DLEP feature map in 0<InlineEquation ID="IEq27">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq27.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation> direction, <Emphasis Type="Bold">d</Emphasis> DLEP feature map in 45<InlineEquation ID="IEq28">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq28.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation> direction, <Emphasis Type="Bold">e</Emphasis> DLEP feature map in 90<InlineEquation ID="IEq29">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq29.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation> direction, and <Emphasis Type="Bold">f</Emphasis> DLEP feature map in 135<InlineEquation ID="IEq30">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq30.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation> direction</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO13">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_8_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Proposed image retrieval system framework</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO14">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_8_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig6">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Some sample images from database Corel-1K (one image per category)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO15">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_8_Fig6_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>After calculation of DLEP, the whole image is represented by building a histogram supported by Eq. (<InternalRef RefID="Equ10">10</InternalRef>).<Equation ID="Equ10">
+                    <EquationNumber>10</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} H_{\left. \mathrm{ DLEP} \right|_\alpha } (l)\!=\!\sum \limits _{j=1}^{N_1 } {\sum \limits _{k=1}^{N_2 } {f_2 (} } \left. {\text{DLEP}(j,k)} \right|_\alpha ,l);\quad \! l\!\in \! [0,\,511]\nonumber \\ \end{aligned}$$]]></EquationSource>
+                  </Equation>where the size of input image is <InlineEquation ID="IEq31">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq31.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_1 \times N_2 $$]]></EquationSource>
+                  </InlineEquation>.</Para>
+                <Para>The DLEP computation for a center pixel marked with red color has been illustrated in Fig. <InternalRef RefID="Fig2">2</InternalRef>. The local difference between the center pixel and its eight neighbors are used to evaluate the directions as shown in Fig. <InternalRef RefID="Fig2">2</InternalRef>. Further, these directions are utilized to obtain DLEP patterns in 0<InlineEquation ID="IEq32">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq32.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation>, 45<InlineEquation ID="IEq33">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq33.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation>, 90<InlineEquation ID="IEq34">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq34.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation>, and 135<InlineEquation ID="IEq35">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq35.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation> directions. The selected 3<InlineEquation ID="IEq36">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq36.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\times $$]]></EquationSource>
+                  </InlineEquation>3 pattern for DLEP calculation is represented with subscripts (0) to (8) as shown in Fig. <InternalRef RefID="Fig2">2</InternalRef>.</Para>
+                <Para>An example of the DLEP computation in 0<InlineEquation ID="IEq37">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq37.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation> direction for a center pixel marked with red color has been illustrated in Fig. <InternalRef RefID="Fig3">3</InternalRef>. For a center pixel ‘6’ we apply the local extrema in horizontal direction and then it is seen that these two directions are leaving from the center pixel; hence this pattern is coded to ‘1’. Similarly, we computed the remaining bits of DLEP from other 8 neighbors, and the resulting pattern is ‘1 1 1 0 1 1 1 0 1’. In the same fashion, DLEP patterns for center pixel in the directions 45<InlineEquation ID="IEq38">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq38.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation>, 90<InlineEquation ID="IEq39">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq39.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation>, and 135<InlineEquation ID="IEq40">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq40.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                  </InlineEquation> are also computed.</Para>
+                <Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Results of various techniques in terms of precision on Corel-1K database</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="7">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <colspec align="left" colname="c6" colnum="6"/>
+                    <colspec align="left" colname="c7" colnum="7"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Category</SimplePara>
+                        </entry>
+                        <entry align="left" nameend="c7" namest="c2">
+                          <SimplePara>Precision (<Emphasis Type="Italic">n</Emphasis> = 10) (%)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" colname="c2">
+                          <SimplePara>CS_LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>LEPSEG</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>LEPINV</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>BLK_LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>PM</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Africans</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>50.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>54.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>44.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>53.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>59.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>69.3</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Beaches</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>53.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>43.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>34.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>52.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>54.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>60.5</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Buildings</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>44.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>51.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>46.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>64.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>63.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>72.0</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Buses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>78.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>87.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>80.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>89.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>95.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>97.9</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Dinosaurs</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>96.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>96</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>95.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>99.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>98.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>98.5</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Elephants</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>43.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>53.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>48.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>58.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>45.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>55.9</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Flowers</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>86.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>91.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>90.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>91.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>91.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>91.9</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Horses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>62.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>69.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>61.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>83.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>74.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>76.9</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Mountains</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>31.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>37.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>36.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>44.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>47.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>42.7</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Food</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>43.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>67.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>68.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>62.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>80.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>82.0</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Total</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>59.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>65.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>60.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>70.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>71.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>74.8</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                  <tfooter>
+                    <SimplePara>
+                      <Emphasis Type="Italic">n</Emphasis> number of top matches considered</SimplePara>
+                    <SimplePara>PM: Proposed Method (DLEP); BLK_LBP: Block based LBP [<CitationRef CitationID="CR22">22</CitationRef>]</SimplePara>
+                  </tfooter>
+                </Table>
+                <Table Float="Yes" ID="Tab2">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Results of various techniques in terms of recall on Corel-1K database</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="7">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <colspec align="left" colname="c6" colnum="6"/>
+                    <colspec align="left" colname="c7" colnum="7"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Category</SimplePara>
+                        </entry>
+                        <entry align="left" nameend="c7" namest="c2">
+                          <SimplePara>Recall (<Emphasis Type="Italic">n </Emphasis>= 100) (%)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" colname="c2">
+                          <SimplePara>CS_LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>LEPSEG</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>LEPINV</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>BLK_LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>PM</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Africans</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>33.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>25.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>19.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>32.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>32.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>39.7</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Beaches</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>36.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>21.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>18.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>29.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>32.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>37.3</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Buildings</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>23.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>25.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>24.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>30.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>33.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>34.9</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Buses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>49.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>49.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>42.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>57.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>57.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>74.1</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Dinosaurs</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>83.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>74.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>69.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>86.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>83.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>88.0</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Elephants</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>27.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>25.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>21.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>28.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>27.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>29.0</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Flowers</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>65.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>74.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>71.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>55.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>72.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>70.8</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Horses</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>34.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>30.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>27.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>47.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>42.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>41.7</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Mountains</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>22.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>18.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>19.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>28.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>27.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>29.0</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Food</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>30.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>35.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>31.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>33.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>46.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>47.0</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Total</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>40.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>38.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>34.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>43.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>45.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>49.16</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                  <tfooter>
+                    <SimplePara>
+                      <Emphasis Type="Italic">n</Emphasis> number of top matches considered</SimplePara>
+                    <SimplePara>PM: Proposed Method (DLEP); BLK_LBP: Block based LBP [<CitationRef CitationID="CR22">22</CitationRef>]</SimplePara>
+                  </tfooter>
+                </Table>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig7">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 7</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Comparison of proposed method with other existing methods in terms of <Emphasis Type="Bold">a</Emphasis> average precision and <Emphasis Type="Bold">b</Emphasis> average retrieval rate on Corel-1K database</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO17">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_8_Fig7_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>The proposed DLEP is different from the well-known LBP. The DLEP encodes the spatial relation between any pair of neighbors in a local region along a given direction, while LBP [<CitationRef CitationID="CR12">12</CitationRef>] extracts relation between the center pixel and its neighbors. Therefore, DLEP captures more spatial information as compared with LBP. It has already been proved that the directional features are very valuable for image retrieval applications [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR11">11</CitationRef>].</Para>
+                <Para>Figure <InternalRef RefID="Fig4">4</InternalRef> illustrates the results obtained by applying LBP and DLEP operators on referenced face image. Face image is chosen as it provides the results which are visibly comprehensible to differentiate the effectiveness of these approaches. From Fig. <InternalRef RefID="Fig4">4</InternalRef>, it is observed that the DLEP yields more directional edge information as compared with LBP. The experimental results demonstrate that the proposed DLEP shows better performance as compared with LBP, indicating that it can capture more edge information than LBP for texture extraction.</Para>
+                <Table Float="Yes" ID="Tab3">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Results of all methods in terms of precision and recall on Corel-5K and Corel-10K databases</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="8">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <colspec align="left" colname="c6" colnum="6"/>
+                    <colspec align="left" colname="c7" colnum="7"/>
+                    <colspec align="left" colname="c8" colnum="8"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Database</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2" morerows="1">
+                          <SimplePara>Performance</SimplePara>
+                        </entry>
+                        <entry align="left" nameend="c8" namest="c3">
+                          <SimplePara>Method</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c3">
+                          <SimplePara>CS_LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>LEPSEG</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>LEPINV</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>BLK_LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>PM</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Corel-5K</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Precision (%)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>32.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>41.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>35.19</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>45.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>43.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>48.8</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Recall (%)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>14.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>18.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>14.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>20.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>19.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>21.1</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Corel-10K</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Precision (%)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>34.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>28.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>38.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>37.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>40.0</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Recall (%)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>10.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>13.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>11.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>15.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>14.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>15.7</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                  <tfooter>
+                    <SimplePara>PM: Proposed Method (DLEP); BLK_LBP: Block based LBP [<CitationRef CitationID="CR22">22</CitationRef>]</SimplePara>
+                  </tfooter>
+                </Table>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig8">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 8</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Comparison of proposed method with other existing methods on Corel-5K. <Emphasis Type="Bold">a</Emphasis> Category-wise performance in terms of precision, <Emphasis Type="Bold">b</Emphasis> category-wise performance in terms of recall, <Emphasis Type="Bold">c</Emphasis> total database performance in terms of average precision, and <Emphasis Type="Bold">d</Emphasis> total database performance in terms of ARR</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO18">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_8_Fig8_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig9">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 9</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>An example of image retrieval by proposed method (DLEP) on Corel-5K database</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO19">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_8_Fig9_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7">
+              <Heading>Proposed system framework</Heading>
+              <Section2 ID="Sec8">
+                <Heading>Proposed image retrieval system</Heading>
+                <Para>Figure <InternalRef RefID="Fig5">5</InternalRef> depicts the flowchart of the proposed technique and algorithm for the same is presented here:</Para>
+                <Para>
+                  <Emphasis Type="Italic">Algorithm:</Emphasis>
+                </Para>
+                <Para>
+                  <Emphasis Type="Italic">Input: Image; Output: Retrieval result</Emphasis>
+                  <OrderedList>
+                    <ListItem>
+                      <ItemNumber>1.</ItemNumber>
+                      <ItemContent>
+                        <Para>Load the gray-scale image</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>2.</ItemNumber>
+                      <ItemContent>
+                        <Para>Calculate the local extrema in 0<InlineEquation ID="IEq45">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq45.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, 45<InlineEquation ID="IEq46">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq46.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, 90<InlineEquation ID="IEq47">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq47.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, and 135<InlineEquation ID="IEq48">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq48.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation> directions.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>3.</ItemNumber>
+                      <ItemContent>
+                        <Para>Compute the DLEP patterns in 0<InlineEquation ID="IEq49">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq49.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, 45<InlineEquation ID="IEq50">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq50.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, 90<InlineEquation ID="IEq51">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq51.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, and 135<InlineEquation ID="IEq52">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq52.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation> directions.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>4.</ItemNumber>
+                      <ItemContent>
+                        <Para>Construct the histograms for DLEP patterns in 0<InlineEquation ID="IEq53">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq53.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, 45<InlineEquation ID="IEq54">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq54.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, 90<InlineEquation ID="IEq55">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq55.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation>, and 135<InlineEquation ID="IEq56">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq56.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                          </InlineEquation> directions.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>5.</ItemNumber>
+                      <ItemContent>
+                        <Para>Construct the feature vector by concatenating all histograms.</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>6.</ItemNumber>
+                      <ItemContent>
+                        <Para>Compare the query image with the image in the database using Eq. (<InternalRef RefID="Equ11">11</InternalRef>).</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>7.</ItemNumber>
+                      <ItemContent>
+                        <Para>Retrieve the images based on the best matches</Para>
+                      </ItemContent>
+                    </ListItem>
+                  </OrderedList>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec9">
+                <Heading>Query matching</Heading>
+                <Para>Feature vector for query image <InlineEquation ID="IEq57">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq57.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$Q$$]]></EquationSource>
+                  </InlineEquation> is represented as<InlineEquation ID="IEq58">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq58.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$f_Q =(f_{Q_1 } ,f_{Q_1 } ,\ldots \ldots f_{Q_{Lg} } )$$]]></EquationSource>
+                  </InlineEquation> obtained after the feature extraction. Similarly, each image in the database is represented with feature vector <InlineEquation ID="IEq59">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq59.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$f_{\mathrm{ DB}_j } =(f_{\mathrm{ DB}_{j1} } ,f_{\mathrm{ DB}_{j1} } ,\ldots f_{\mathrm{ DB}_{jLg} } );\,j=1,2, \ldots ,\left|\text{DB} \right|$$]]></EquationSource>
+                  </InlineEquation>. The goal is to select <InlineEquation ID="IEq60">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq60.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$n$$]]></EquationSource>
+                  </InlineEquation> best images that resemble the query image. This involves selection of <InlineEquation ID="IEq61">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq61.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$n$$]]></EquationSource>
+                  </InlineEquation> top matched images by measuring the distance between query image and image in the database <InlineEquation ID="IEq62">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq62.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\left|\text{DB} \right|$$]]></EquationSource>
+                  </InlineEquation>. In order to match the images we used <InlineEquation ID="IEq63">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq63.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$d_{1}$$]]></EquationSource>
+                  </InlineEquation> similarity distance metric computed by Eq. (<InternalRef RefID="CR11">11</InternalRef>).<Equation ID="Equ11">
+                    <EquationNumber>11</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} D(Q,\text{ DB})=\sum \limits _{i=1}^{Lg} {\left| {\frac{f_{\mathrm{ DB}_{ji} } -f_{Q_i } }{1+f_{\mathrm{ DB}_{ji} } +f_{Q_i } }} \right|} \end{aligned}$$]]></EquationSource>
+                  </Equation>where <InlineEquation ID="IEq64">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq64.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$f_{\mathrm{ DB}_{ji} } $$]]></EquationSource>
+                  </InlineEquation>is <InlineEquation ID="IEq65">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq65.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$i$$]]></EquationSource>
+                  </InlineEquation>th feature of <InlineEquation ID="IEq66">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq66.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$j$$]]></EquationSource>
+                  </InlineEquation>th image in the database <InlineEquation ID="IEq67">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq67.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\left|{\text{ DB}} \right|$$]]></EquationSource>
+                  </InlineEquation>.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec10">
+              <Heading>Experimental results and discussions</Heading>
+              <Para>The retrieval performance of the proposed method has been analyzed by conducting four experiments on two different databases (Corel-10K (DB1), and Brodatz database (DB2)) and results are presented separately.</Para>
+              <Para>In experiment #1, #2, and #3, images from Corel database [<CitationRef CitationID="CR25">25</CitationRef>] have been used. This database consists of large number of images of various contents ranging from animals to outdoor sports to natural images. These images have been pre-classified into different categories each of size 100 by domain professionals. Some researchers think that Corel database meets all the requirements to evaluate an image retrieval system, due its large size and heterogeneous content.</Para>
+              <Para>In all experiments, each image in the database is used as the query image. For each query, the system collects <InlineEquation ID="IEq68">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq68.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$n$$]]></EquationSource>
+                </InlineEquation> database images <InlineEquation ID="IEq69">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq69.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$X=(x_{1}, x_{2}, \ldots , x_{n})$$]]></EquationSource>
+                </InlineEquation> with the shortest image matching distance computed using Eq. (<InternalRef RefID="Equ11">11</InternalRef>). If the retrieved image <InlineEquation ID="IEq70">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq70.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$x_{i}=1, 2, \ldots , n$$]]></EquationSource>
+                </InlineEquation> belongs to same category as that of the query image then we say the system has appropriately identified the expected image; else, the system fails to find the expected image.</Para>
+              <Para>The performance of the proposed method is measured in terms of average precision, average recall, and average retrieval rate (ARR) as shown below:</Para>
+              <Para>
+                <Figure Category="Standard" Float="Yes" ID="Fig10">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 10</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Comparison of proposed method with other existing methods on Corel-10K. <Emphasis Type="Bold">a</Emphasis> Category-wise performance in terms of precision, <Emphasis Type="Bold">b</Emphasis> category-wise performance in terms of recall, <Emphasis Type="Bold">c</Emphasis> total database performance in terms of average precision and <Emphasis Type="Bold">d</Emphasis> total database performance in terms of ARR</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO21">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_8_Fig10_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>
+                <Figure Category="Standard" Float="Yes" ID="Fig11">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 11</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>An example of image retrieval by proposed method (DLEP) on Corel-10K database</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO22">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_8_Fig11_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>For the query image <InlineEquation ID="IEq71">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq71.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$I_q $$]]></EquationSource>
+                </InlineEquation>, the precision is defined as follows:<Equation ID="Equ12">
+                  <EquationNumber>12</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P(I_q ,n)=\frac{1}{n}\sum \limits _{i=1}^{\left| {\text{DB}} \right|} {\left| {\delta ( {\Phi ( {I_i }),\Phi ( {I_q })})\vert \,\text{ Rank}(I_i ,I_q )\le n} \right|}\nonumber \\ \end{aligned}$$]]></EquationSource>
+                </Equation>where ‘<InlineEquation ID="IEq72">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq72.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$n$$]]></EquationSource>
+                </InlineEquation>’ indicates the number of retrieved images, <InlineEquation ID="IEq73">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq73.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\left|{\text{DB}} \right|$$]]></EquationSource>
+                </InlineEquation> is size of image database. <InlineEquation ID="IEq74">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq74.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\Phi ( x)$$]]></EquationSource>
+                </InlineEquation> stands for the category of ‘<InlineEquation ID="IEq75">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq75.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$x$$]]></EquationSource>
+                </InlineEquation>’, <InlineEquation ID="IEq76">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq76.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\text{ Rank}(I_i ,I_q )$$]]></EquationSource>
+                </InlineEquation> returns the rank of image <InlineEquation ID="IEq77">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq77.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$I_i $$]]></EquationSource>
+                </InlineEquation> (for the query image<InlineEquation ID="IEq78">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq78.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$I_q )$$]]></EquationSource>
+                </InlineEquation> among all images of <InlineEquation ID="IEq79">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq79.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\left| {\text{DB}} \right|$$]]></EquationSource>
+                </InlineEquation> and <InlineEquation ID="IEq80">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq80.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\delta ( {\Phi ( {I_i }),\Phi ( {I_q })})=\left\{ {\begin{array}{l@{\quad }l} 1&\Phi ( {I_i })=\Phi ( {I_q }) \\ 0&\text{Otherwise} \\ \end{array}} \right.$$]]></EquationSource>
+                </InlineEquation>.</Para>
+              <Para>Recall is defined as below:<Equation ID="Equ13">
+                  <EquationNumber>13</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \left. {R(I_q ,n)=P(I_q ,N_G )} \right|_{n=N_G } \end{aligned}$$]]></EquationSource>
+                </Equation>The average precision for the <InlineEquation ID="IEq81">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq81.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$j$$]]></EquationSource>
+                </InlineEquation>th similarity category of the reference image database are given by Eq. (<InternalRef RefID="Equ14">14</InternalRef>).<Equation ID="Equ14">
+                  <EquationNumber>14</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} P_\mathrm{ ave}^j (n)=\frac{1}{N_G }\sum \limits _{i\in G} {P(I_i ,n)} \end{aligned}$$]]></EquationSource>
+                </Equation>Finally, the total average precision, and ARR for the whole reference image database are computed using Eqs. (<InternalRef RefID="Equ15">15</InternalRef>) and (<InternalRef RefID="Equ16">16</InternalRef>), respectively<Equation ID="Equ15">
+                  <EquationNumber>15</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&P_\mathrm{ ave}^\mathrm{ Total} (n)=\frac{1}{\left| {\text{DB}} \right|}\sum \limits _{i=1}^{\left| {\text{DB}} \right|} {P(I_i ,n)} \end{aligned}$$]]></EquationSource>
+                </Equation>
+                <Equation ID="Equ16">
+                  <EquationNumber>16</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&\text{ ARR}=\frac{1}{\left| {\text{DB}} \right|}\left. {\sum \limits _{i=1}^{\left| {\text{DB}} \right|} {R(I_i ,n)} } \right|_{n\le 100} \end{aligned}$$]]></EquationSource>
+                </Equation>The average recall <InlineEquation ID="IEq82">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq82.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$(R)$$]]></EquationSource>
+                </InlineEquation> is also defined in the same manner.</Para>
+              <Section2 ID="Sec11">
+                <Heading>Experiment #1</Heading>
+                <Para>For this experiment, we have collected 1000 images to form database Corel-1K. These images are collected from ten different domains, namely <Emphasis Type="Italic">Africans, beaches, buildings, buses, dinosaurs, elephants, flowers, horses, mountains</Emphasis>, and <Emphasis Type="Italic"> food</Emphasis>. Each category has <InlineEquation ID="IEq83">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq83.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_{G}$$]]></EquationSource>
+                  </InlineEquation> (100) images with resolution of either <InlineEquation ID="IEq84">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq84.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$256\times 384$$]]></EquationSource>
+                  </InlineEquation> or <InlineEquation ID="IEq85">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq85.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$384\times 256$$]]></EquationSource>
+                  </InlineEquation>. Figure <InternalRef RefID="Fig6">6</InternalRef> shows the sample images of Corel-1K database (one image from each category). The performance of the proposed method is measured in terms of average precision, average recall, and ARR as shown in Eqs. (<InternalRef RefID="Equ12">12</InternalRef>–<InternalRef RefID="Equ16">16</InternalRef>).</Para>
+                <Para>Tables <InternalRef RefID="Tab1">1</InternalRef> and <InternalRef RefID="Tab2">2</InternalRef> show the results of proposed method and other existing methods (LBP, CS_LBP, LEPSEG, LEPINV, BLK_LBP) in terms of precision and recall. The results are considered to be better if average values of precision and recall are high.</Para>
+                <Table Float="Yes" ID="Tab4">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 4</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Average retrieval rate for the 116 texture classes of Brodatz database</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="2">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Method</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>ARR (%)</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>GT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>74.19</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>DT-CWT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>74.73</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>DT-RCWT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>71.17</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>DT-CWT+DT-RCWT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>77.75</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>CS_LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>59.44</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>LBPSEG</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>73.75</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>LBPINV</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>65.69</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>BLK_LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>75.54</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>LBP</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>73.26</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>PM</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>82.68</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                  <tfooter>
+                    <SimplePara>PM: Proposed Method (DLEP); BLK_LBP: Block based LBP [<CitationRef CitationID="CR22">22</CitationRef>]</SimplePara>
+                  </tfooter>
+                </Table>
+                <Para>
+                  <Figure Category="Standard" Float="Yes" ID="Fig12">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 12</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Comparison of proposed method with other existing method in terms of ARR on DB2 database</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO28">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_8_Fig12_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>From Tables <InternalRef RefID="Tab1">1</InternalRef> and <InternalRef RefID="Tab2">2</InternalRef>, the following points are observed:<OrderedList>
+                    <ListItem>
+                      <ItemNumber>1.</ItemNumber>
+                      <ItemContent>
+                        <Para>The average precision of proposed method (74.8%) is more as compared with LBP (71.2%), CS_LBP (59.1%), LEPSEG (65.2%), LEPINV (60.8%), and BLK_ LBP (70.1%).</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>2.</ItemNumber>
+                      <ItemContent>
+                        <Para>The average recall of proposed method (49.16%) is more as compared with LBP (45.71%), CS_LBP (40.9%), LEPSEG (38.1%), LEPINV (34.68%), and BLK_LBP (43.0%).</Para>
+                      </ItemContent>
+                    </ListItem>
+                  </OrderedList>From the above observations, it is evident that the proposed method significantly improves results in terms of average precision and average recall. Figure <InternalRef RefID="Fig7">7</InternalRef>a, b show the experimental results of proposed method and other existing methods. It is observed that the proposed method (DLEP) achieves a superior average precision and ARR on image database Corel-1K as compared with other existing methods.</Para>
+              </Section2>
+              <Section2 ID="Sec12">
+                <Heading>Experiment #2</Heading>
+                <Para>In this experiment, we have used 5000 images to form database of Corel-5K. This database consists of 50 different categories and each category contains 100 images. The performance of the proposed method is measured in terms of average precision, average recall, and ARR as shown in Eqs. (<InternalRef RefID="Equ12">12</InternalRef>–<InternalRef RefID="Equ16">16</InternalRef>).</Para>
+                <Para>Table <InternalRef RefID="Tab3">3</InternalRef> illustrates the retrieval results of proposed method and other existing methods on Corel-5K and Corel-10K databases in terms of average precision and recall. Figure <InternalRef RefID="Fig8">8</InternalRef>a, b show the category-wise performance of methods in terms of precision and recall on Corel-5K database. The performance of all techniques in terms of average precision and ARR on Corel-5K database can be seen in Fig. <InternalRef RefID="Fig8">8</InternalRef>c, d, respectively. From Table <InternalRef RefID="Tab3">3</InternalRef> and Fig. <InternalRef RefID="Fig8">8</InternalRef>, it is clear that the proposed method shows a significant improvement as compared with other existing methods in terms of their evaluation measures on Corel-5K database. Figure <InternalRef RefID="Fig9">9</InternalRef> illustrates the query results of proposed method on Corel-5K database (top left image is the query image).</Para>
+              </Section2>
+              <Section2 ID="Sec13">
+                <Heading>Experiment #3</Heading>
+                <Para>In experiment #3, we have used 10,000 images to form database of Corel-10K. This database consists of 100 different categories and each category contains 100 images. The performance of the proposed method is measured in terms of average precision, average recall, and ARR as shown in Eqs. (<InternalRef RefID="Equ12">12</InternalRef>–<InternalRef RefID="Equ15">16</InternalRef>).</Para>
+                <Para>Figure <InternalRef RefID="Fig10">10</InternalRef>a, b show the category-wise performance of methods in terms of precision and recall on Corel-10K database. The performance of all techniques in terms of average precision and ARR on Corel-10K database can be seen in Fig. <InternalRef RefID="Fig10">10</InternalRef>c, d, respectively. From Table <InternalRef RefID="Tab3">3</InternalRef> and Fig. <InternalRef RefID="Fig10">10</InternalRef>, it is clear that the proposed method shows a significant improvement as compared with other existing methods in terms of their evaluation measures on Corel-10K database. Figure <InternalRef RefID="Fig11">11</InternalRef> illustrates the query results of proposed method on Corel-10K database (top left image is the query image).</Para>
+              </Section2>
+              <Section2 ID="Sec14">
+                <Heading>Experiment #4</Heading>
+                <Para>In experiment #4 the database DB2 is used, that consists of 116 different textures. We have used 109 textures from Brodatz texture photographic album [<CitationRef CitationID="CR26">26</CitationRef>] and seven textures from University of Southern California (USC) database [<CitationRef CitationID="CR27">27</CitationRef>]. The size of each texture is 512<InlineEquation ID="IEq88">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq88.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\times $$]]></EquationSource>
+                  </InlineEquation>512. Each 512<InlineEquation ID="IEq89">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq89.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\times $$]]></EquationSource>
+                  </InlineEquation>512 image is divided into sixteen 128<InlineEquation ID="IEq90">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq90.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\times $$]]></EquationSource>
+                  </InlineEquation>128 non-overlapping sub-images, thus creating a database of 1856 (116<InlineEquation ID="IEq91">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq91.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\times $$]]></EquationSource>
+                  </InlineEquation>16) images. In this experiment, each image in the database is considered as the query image and the performance of the proposed method is measured in terms of ARR as given by Eq. (<InternalRef RefID="Equ17">17</InternalRef>).<Equation ID="Equ17">
+                    <EquationNumber>17</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_Equ17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \text{ ARR}=\frac{1}{\left| {\text{DB}} \right|}\left. {\sum \limits _{i=1}^{\left| {\text{ DB}} \right|} {R(I_i ,\,n)} } \right|_{\begin{array}{ll} N_G\; =\; 16 \\ n\; \ge\; 16 \\ \end{array}} \end{aligned}$$]]></EquationSource>
+                  </Equation>The database DB2 is used to compare the performance of the proposed method (DLEP) with other existing methods (GT, DT-CWT, DT-RCWT, DT-CWT+DT-RCWT CS_LBP, LEPSEG, LEPINV, BLK_LBP, and LBP) in terms of ARR. From Table <InternalRef RefID="Tab4">4</InternalRef>, it is evident that the proposed is outperforming other existing methods. Figure <InternalRef RefID="Fig12">12</InternalRef>a, b show the graphs which illustrates the retrieval performance of proposed method and other existing methods as a function of number of top matches, and we find that the proposed method outperforms the other existing methods in terms ARR.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec15">
+              <Heading>Conclusions and future work</Heading>
+              <Para>A new approach for CBIR is presented in this paper. The proposed DLEP differs from the existing LBP in a manner that it extracts the directional edge information based on local extrema in 0<InlineEquation ID="IEq92">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq92.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                </InlineEquation>, 45<InlineEquation ID="IEq93">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq93.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                </InlineEquation>, 90<InlineEquation ID="IEq94">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq94.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                </InlineEquation>, and 135<InlineEquation ID="IEq95">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_8_Article_IEq95.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$^{\circ }$$]]></EquationSource>
+                </InlineEquation> directions in an image. Performance of the proposed method is tested by conducting four experiments on benchmark image databases and retrieval results show a significant improvement in terms of their evaluation measures as compared with other existing methods on respective databases.</Para>
+              <Para>Further this work can be extended by combining proposed method with GT and by varying the number of neighbors (more directions) of referenced pixels.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_Article_8.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_8_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <Heading>Acknowledgments</Heading>
+              <SimplePara>This work was supported by the Ministry of Human Resource and Development, India under grant MHR-02-23-200 (429). Our sincere thanks to Mr. Anil Balaji Gonde, Dr. Dinesh Kumar Rajoriya and Mr. Pratul Arvind (Research Scholars), Department of Electrical Engineering, Indian Institute of Technology Roorkee, Roorkee for their valuable technical discussions during this work. We would like to thank the editor and anonymous reviewers for insightful comments and helpful suggestions to improve the quality, which have been incorporated in this manuscript.</SimplePara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Rui</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TS</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Image retrieval: current techniques, promising directions and open issues</ArticleTitle>
+                  <JournalTitle>J Vis Commun Image Represent</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>39</FirstPage>
+                  <LastPage>62</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1006/jvci.1999.0413</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rui Y, Huang TS (1999) Image retrieval: current techniques, promising directions and open issues. J Vis Commun Image Represent 10:39–62</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AWM</Initials>
+                    <FamilyName>Smeulders</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Worring</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Santini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gupta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Jain</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Content-based image retrieval at the end of the early years</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <IssueID>12</IssueID>
+                  <FirstPage>1349</FirstPage>
+                  <LastPage>1380</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/34.895972</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Smeulders AWM, Worring M, Santini S, Gupta A, Jain R (2000) Content-based image retrieval at the end of the early years. IEEE Trans Pattern Anal Mach Intell 22(12):1349–1380</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kokare</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BN</Initials>
+                    <FamilyName>Chatterji</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PK</Initials>
+                    <FamilyName>Biswas</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">A survey on current content based image retrieval methods</ArticleTitle>
+                  <JournalTitle>IETE J Res</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <IssueID>3&amp;4</IssueID>
+                  <FirstPage>261</FirstPage>
+                  <LastPage>271</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1080/03772063.2002.11416285</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kokare M, Chatterji BN, Biswas PK (2002) A survey on current content based image retrieval methods. IETE J Res 48(3&amp;4):261–271</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Lu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W-Y</Initials>
+                    <FamilyName>Ma</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">A survey of content-based image retrieval with high-level semantics</ArticleTitle>
+                  <JournalTitle>J Pattern Recognit</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>262</FirstPage>
+                  <LastPage>282</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1103.68503</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patcog.2006.04.045</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Liu Y, Zhang D, Lu G, Ma W-Y (2007) A survey of content-based image retrieval with high-level semantics. J Pattern Recognit 40:262–282</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Ahmadian A, Mostafa A (2003) An efficient texture classification algorithm using Gabor wavelet. In: 25th annual international conference of the IEEE EMBS, pp 930–933, Cancun, Mexico</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MN</Initials>
+                    <FamilyName>Do</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Vetterli</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Wavelet-based texture retrieval using generalized Gaussian density and Kullback-leibler distance</ArticleTitle>
+                  <JournalTitle>IEEE Trans Image Process</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>146</FirstPage>
+                  <LastPage>158</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1888915</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/83.982822</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Do MN, Vetterli M (2002) Wavelet-based texture retrieval using generalized Gaussian density and Kullback-leibler distance. IEEE Trans Image Process 11(2):146–158</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Unser</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Texture classification by wavelet packet signatures</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <IssueID>11</IssueID>
+                  <FirstPage>1186</FirstPage>
+                  <LastPage>1191</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/34.244679</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Unser M (1993) Texture classification by wavelet packet signatures. IEEE Trans Pattern Anal Mach Intell 15(11):1186–1191</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BS</Initials>
+                    <FamilyName>Manjunath</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WY</Initials>
+                    <FamilyName>Ma</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Texture features for browsing and retrieval of image data</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>837</FirstPage>
+                  <LastPage>842</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/34.531803</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Manjunath BS, Ma WY (1996) Texture features for browsing and retrieval of image data. IEEE Trans Pattern Anal Mach Intell 18(8):837–842</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kokare</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PK</Initials>
+                    <FamilyName>Biswas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BN</Initials>
+                    <FamilyName>Chatterji</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Texture image retrieval using rotated wavelet filters</ArticleTitle>
+                  <JournalTitle>J Pattern Recognit Lett</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>1240</FirstPage>
+                  <LastPage>1249</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patrec.2007.02.006</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kokare M, Biswas PK, Chatterji BN (2007) Texture image retrieval using rotated wavelet filters. J Pattern Recognit Lett 28:1240–1249</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kokare</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PK</Initials>
+                    <FamilyName>Biswas </FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BN</Initials>
+                    <FamilyName>Chatterji</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Texture image retrieval using new rotated complex wavelet filters</ArticleTitle>
+                  <JournalTitle>IEEE Trans Syst Man Cybernet</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>1168</FirstPage>
+                  <LastPage>1178</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TSMCB.2005.850176</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kokare M, Biswas PK, Chatterji BN (2005) Texture image retrieval using new rotated complex wavelet filters. IEEE Trans Syst Man Cybernet 33(6):1168–1178</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kokare</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PK</Initials>
+                    <FamilyName>Biswas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BN</Initials>
+                    <FamilyName>Chatterji</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Rotation-invariant texture image retrieval using rotated complex wavelet filters</ArticleTitle>
+                  <JournalTitle>IEEE Trans Syst Man Cybernet</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>1273</FirstPage>
+                  <LastPage>1282</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TSMCB.2006.874692</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kokare M, Biswas PK, Chatterji BN (2006) Rotation-invariant texture image retrieval using rotated complex wavelet filters. IEEE Trans Syst Man Cybernet 36(6):1273–1282</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Ojala</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Pietikainen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Harwood</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">A comparative sudy of texture measures with classification based on feature distributions</ArticleTitle>
+                  <JournalTitle>J Pattern Recognit</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>51</FirstPage>
+                  <LastPage>59</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0031-3203(95)00067-4</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ojala T, Pietikainen M, Harwood D (1996) A comparative sudy of texture measures with classification based on feature distributions. J Pattern Recognit 29(1):51–59</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Ojala</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Pietikainen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Maenpaa</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Multiresolution gray-scale and rotation invariant texture classification with local binary patterns</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <IssueID>7</IssueID>
+                  <FirstPage>971</FirstPage>
+                  <LastPage>987</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2002.1017623</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ojala T, Pietikainen M, Maenpaa T (2002) Multiresolution gray-scale and rotation invariant texture classification with local binary patterns. IEEE Trans Pattern Anal Mach Intell 24(7):971–987</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Pietikainen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Ojala</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Scruggs</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KW</Initials>
+                    <FamilyName>Bowyer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Jin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Hoffman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Marques</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Jacsik</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Worek</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Overview of the face recognition using feature distributions</ArticleTitle>
+                  <JournalTitle>J Pattern Recognit</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>43</FirstPage>
+                  <LastPage>52</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0031-3203(99)00032-1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pietikainen M, Ojala T, Scruggs T, Bowyer KW, Jin C, Hoffman K, Marques J, Jacsik M, Worek W (2000) Overview of the face recognition using feature distributions. J Pattern Recognit 33(1):43–52</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Ahonen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Hadid</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Pietikainen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Face description with local binary patterns: applications to face recognition</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <IssueID>12</IssueID>
+                  <FirstPage>2037</FirstPage>
+                  <LastPage>2041</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2006.244</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ahonen T, Hadid A, Pietikainen M (2006) Face description with local binary patterns: applications to face recognition. IEEE Trans Pattern Anal Mach Intell 28(12):2037–2041</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Zhao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Pietikainen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Dynamic texture recognition using local binary patterns with an application to facial expressions</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>915</FirstPage>
+                  <LastPage>928</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2007.1110</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zhao G, Pietikainen M (2007) Dynamic texture recognition using local binary patterns with an application to facial expressions. IEEE Trans Pattern Anal Mach Intell 29(6):915–928</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Heikkiala</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Pietikainen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">A texture based method for modeling the background and detecting moving objects</ArticleTitle>
+                  <JournalTitle>IEEE Trans Pattern Anal Mach Intell</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>657</FirstPage>
+                  <LastPage>662</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2006.68</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Heikkiala M, Pietikainen M (2006) A texture based method for modeling the background and detecting moving objects. IEEE Trans Pattern Anal Mach Intell 28(4):657–662</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>Huang X, Li SZ, Wang Y (2004) Shape localization based on statistical method using extended local binary patterns. In: Proc Int Conf Image and Graphics, pp 184–187</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Heikkila</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Pietikainen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Schmid</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Description of interest regions with local binary patterns</ArticleTitle>
+                  <JournalTitle>J Pattern Recognit</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>425</FirstPage>
+                  <LastPage>436</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patcog.2008.08.014</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Heikkila M, Pietikainen M, Schmid C (2009) Description of interest regions with local binary patterns. J Pattern Recognit 42:425–436</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RC</Initials>
+                    <FamilyName>Staunton</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Optimum Gabor filter design and local binary patterns for texture segmentation</ArticleTitle>
+                  <JournalTitle>J Pattern Recognit</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>664</FirstPage>
+                  <LastPage>672</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patrec.2007.12.001</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Li M, Staunton RC (2008) Optimum Gabor filter design and local binary patterns for texture segmentation. J Pattern Recognit 29:664–672</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Gao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Zhao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Local derivative pattern versus local binary pattern: Face recognition with higher-order local pattern descriptor</ArticleTitle>
+                  <JournalTitle>IEEE Trans Image Process</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>533</FirstPage>
+                  <LastPage>544</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2729774</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TIP.2009.2035882</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zhang B, Gao Y, Zhao S, Liu J (2010) Local derivative pattern versus local binary pattern: Face recognition with higher-order local pattern descriptor. IEEE Trans Image Process 19(2):533–544</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Takala V, Ahonen T, Pietikainen M (2005) Block-based methods for image retrieval using local binary patterns. SCIA 2005, LNCS, vol 3450, pp 882–891</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Heikkil</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Pietikainen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Schmid</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Description of interest regions with local binary patterns</ArticleTitle>
+                  <JournalTitle>Pattern Recognit</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <FirstPage>425</FirstPage>
+                  <LastPage> 436</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patcog.2008.08.014</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Heikkil M, Pietikainen M, Schmid C (2009) Description of interest regions with local binary patterns. Pattern Recognit 42:425– 436</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C-H</Initials>
+                    <FamilyName>Yao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S-Y</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Retrieval of translated, rotated and scaled color textures</ArticleTitle>
+                  <JournalTitle>Pattern Recognit</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <FirstPage>913</FirstPage>
+                  <LastPage>929</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0031-3203(02)00124-3</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yao C-H, Chen S-Y (2003) Retrieval of translated, rotated and scaled color textures. Pattern Recognit 36:913–929</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibUnstructured>Corel-1 K image database. [Online]. <ExternalRef>
+                    <RefSource>http://wang.ist.psu.edu/docs/rela-ted.shtml</RefSource>
+                    <RefTarget Address="http://wang.ist.psu.edu/docs/rela-ted.shtml" TargetType="URL"/>
+                  </ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Brodatz</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <BookTitle>Textures: a photographic album for artists and designers</BookTitle>
+                  <PublisherName>Dover</PublisherName>
+                  <PublisherLocation>New York </PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Brodatz P (1996) Textures: a photographic album for artists and designers. Dover, New York </BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibUnstructured>University of Southern California, Signal and Image Processing Institute, Rotated Textures. [Online]. <ExternalRef>
+                    <RefSource>http://sipi.usc.edu/database/</RefSource>
+                    <RefTarget Address="http://sipi.usc.edu/database/" TargetType="URL"/>
+                  </ExternalRef>
+                </BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

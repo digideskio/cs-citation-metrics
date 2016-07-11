@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Doug</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <City>Lancaster</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <City>Zurich</City>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>Stanford</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <City>Bern</City>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <City>Dortmund</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <State>MA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbrücken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-642-14366-3</BookID>
+        <BookTitle>Biomedical Image Registration</BookTitle>
+        <BookSubTitle>4th International Workshop, WBIR 2010, Lübeck, Germany, July 11-13, 2010. Proceedings</BookSubTitle>
+        <BookVolumeNumber>6204</BookVolumeNumber>
+        <BookSequenceNumber>6204</BookSequenceNumber>
+        <BookDOI>10.1007/978-3-642-14366-3</BookDOI>
+        <BookTitleID>212463</BookTitleID>
+        <BookPrintISBN>978-3-642-14365-6</BookPrintISBN>
+        <BookElectronicISBN>978-3-642-14366-3</BookElectronicISBN>
+        <BookChapterCount>24</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2010</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="I" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="I22021" Priority="1" Type="Secondary">Image Processing and Computer Vision</BookSubject>
+          <BookSubject Code="H28009" Priority="2" Type="Secondary">Health Informatics</BookSubject>
+          <BookSubject Code="H29005" Priority="3" Type="Secondary">Imaging / Radiology</BookSubject>
+          <BookSubject Code="I18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="I2203X" Priority="5" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="L15001" Priority="6" Type="Secondary">Bioinformatics</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>International Workshop on Biomedical Image Registration</ConfSeriesName>
+          <ConfSeriesID Type="Springer">wbir</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">wbir</ConfSeriesID>
+          <ConfEventID Type="Springer">wbir2010</ConfEventID>
+          <ConfEventAbbreviation>WBIR</ConfEventAbbreviation>
+          <ConfNumber>4</ConfNumber>
+          <ConfEventLocation>
+            <City>Lübeck</City>
+            <Country>Germany</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2010</Year>
+            <Month>7</Month>
+            <Day>11</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2010</Year>
+            <Month>7</Month>
+            <Day>13</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Bernd</GivenName>
+              <FamilyName>Fischer</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>fischer@math.uni-luebeck.de</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Benoît</GivenName>
+              <GivenName>M.</GivenName>
+              <FamilyName>Dawant</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>benoit.dawant@vanderbilt.edu</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff18">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Cristian</GivenName>
+              <FamilyName>Lorenz</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>Cristian.Lorenz@Philips.com</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Institute of Mathematics and Image Computing</OrgDivision>
+            <OrgName>University of Lübeck</OrgName>
+            <OrgAddress>
+              <Street>Wallstr. 40</Street>
+              <Postcode>23560</Postcode>
+              <City>Lübeck</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Electrical Engineering and Computer Science</OrgDivision>
+            <OrgName>Vanderbilt University</OrgName>
+            <OrgAddress>
+              <Street>VU Station B 351662</Street>
+              <Postcode>37240-1662</Postcode>
+              <City>Nashville</City>
+              <State>TN</State>
+              <Country>USA</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff18">
+            <OrgName>Philips Research Europe - Hamburg, Sector Medical Imaging Systems</OrgName>
+            <OrgAddress>
+              <Street>Röntgenstr. 24-26</Street>
+              <Postcode>22335</Postcode>
+              <City>Hamburg</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part6">
+        <PartInfo TocLevels="0">
+          <PartID>6</PartID>
+          <PartSequenceNumber>6</PartSequenceNumber>
+          <PartTitle>Methods II</PartTitle>
+          <PartChapterCount>3</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Biomedical Image Registration</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap23" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>23</ChapterID>
+            <ChapterDOI>10.1007/978-3-642-14366-3_23</ChapterDOI>
+            <ChapterSequenceNumber>23</ChapterSequenceNumber>
+            <ChapterTitle Language="En">Normalized Measures of Mutual Information with General Definitions of Entropy for Multimodal Image Registration</ChapterTitle>
+            <ChapterFirstPage>258</ChapterFirstPage>
+            <ChapterLastPage>268</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2010</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>6</PartID>
+              <BookID>978-3-642-14366-3</BookID>
+              <BookTitle>Biomedical Image Registration</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Nathan</GivenName>
+                  <GivenName>D.</GivenName>
+                  <FamilyName>Cahill</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>nathan.cahill@rit.edu</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff19">
+                <OrgDivision>Center for Applied and Computational Mathematics, School of Mathematical Sciences</OrgDivision>
+                <OrgName>Rochester Institute of Technology</OrgName>
+                <OrgAddress>
+                  <Street>85 Lomb Memorial Drive</Street>
+                  <City>Rochester</City>
+                  <State>NY</State>
+                  <Postcode>14618</Postcode>
+                  <Country>USA</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>Mutual information (MI) was introduced for use in multimodal image registration over a decade ago [1,2,3,4]. The MI between two images is based on their marginal and joint/conditional entropies. The most common versions of entropy used to compute MI are the Shannon and differential entropies; however, many other definitions of entropy have been proposed as competitors. In this article, we show how to construct normalized versions of MI using any of these definitions of entropy. The resulting similarity measures are analogous to normalized mutual information (NMI), entropy correlation coefficient (ECC), and symmetric uncertainty (SU), which have all been shown to be superior to MI in a variety of situations. We use publicly available CT, PET, and MR brain images with known ground truth transformations to evaluate the performance of the normalized measures for rigid multimodal registration. Results show that for a number of different definitions of entropy, the proposed normalized versions of mutual information provide a statistically significant improvement in target registration error (TRE) over the non-normalized versions.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Image registration</Keyword>
+              <Keyword>mutual information</Keyword>
+              <Keyword>entropy</Keyword>
+            </KeywordGroup>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-642-14366-3_Chapter_23.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Maes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Collignon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Vandermeulen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Marchal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Suetens</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Multimodality Image Registration by Maximization of Mutual Information</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Med. Imag.</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>187</FirstPage>
+                  <LastPage>198</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/42.563664</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Maes, F., Collignon, A., Vandermeulen, D., Marchal, G., Suetens, P.: Multimodality Image Registration by Maximization of Mutual Information. IEEE Trans. Med. Imag. 16(2), 187–198 (1997)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>Collignon, A.: Multi-modality Medical Image Registration by Maximization of Mutual Information. Ph.D. Thesis, Catholic University of Leuven, Leuven, Belgium (1998)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>Viola, P.A.: Alignment by Maximization of Mutual Information. Ph.D. Thesis, Artificial Intelligence Laboratory, Massachusetts Institute of Technology (1995)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P.A.</Initials>
+                    <FamilyName>Viola</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.M.</Initials>
+                    <FamilyName>Wells</FamilyName>
+                    <Suffix>III</Suffix>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Alignment by Maximization of Mutual Information</ArticleTitle>
+                  <JournalTitle>Int. J. Comp. Vis.</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>137</FirstPage>
+                  <LastPage>154</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1007958904918</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Viola, P.A., Wells III, W.M.: Alignment by Maximization of Mutual Information. Int. J. Comp. Vis. 24(2), 137–154 (1997)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.P.W.</Initials>
+                    <FamilyName>Pluim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.B.A.</Initials>
+                    <FamilyName>Maintz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.A.</Initials>
+                    <FamilyName>Viergever</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Mutual-Information-Based Registration of Medical Images: A Survey</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Med. Imag.</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>986</FirstPage>
+                  <LastPage>1004</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TMI.2003.815867</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pluim, J.P.W., Maintz, J.B.A., Viergever, M.A.: Mutual-Information-Based Registration of Medical Images: A Survey. IEEE Trans. Med. Imag. 22(8), 986–1004 (2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Studholme</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.L.G.</Initials>
+                    <FamilyName>Hill</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.J.</Initials>
+                    <FamilyName>Hawkes</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">An Overlap Invariant Entropy Measure of 3D Medical Image Alignment</ArticleTitle>
+                  <JournalTitle>Patt. Rec.</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>71</FirstPage>
+                  <LastPage>86</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0031-3203(98)00091-0</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Studholme, C., Hill, D.L.G., Hawkes, D.J.: An Overlap Invariant Entropy Measure of 3D Medical Image Alignment. Patt. Rec. 32, 71–86 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Melbourne, A., Hawkes, D., Atkinson, D.: Image Registration Using Uncertainty Coefficients. In: Proc. ISBI 2009, pp. 951–954 (2009). doi:<ExternalRef><RefSource>10.1109/ISBI.2009.5193211</RefSource><RefTarget Address="10.1109/ISBI.2009.5193211" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>Wachowiak, M.P., Smoliková, R., Tourassi, G.D., Elmaghraby, A.S.: Similarity Metrics Based on Nonadditive Entropies for 2D–3D Multimodal Biomedical Image Registration. In: Sonka, M., Fitzpatrick, J.M. (eds.) Proc. SPIE of Medical Imaging 2003: Image Processing, vol. 5032, pp. 1090–1100 (2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.C.</Initials>
+                    <FamilyName>Vemuri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ChapterTitle Language="En">A New &amp; Robust Information Theoretic Measure and Its Application to Image Alignment</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>C.J.</Initials>
+                    <FamilyName>Taylor</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J.A.</Initials>
+                    <FamilyName>Noble</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Information Processing in Medical Imaging</BookTitle>
+                  <ConfEventName>18th International Conference, IPMI 2003</ConfEventName>
+                  <ConfEventLocation>Ambleside, UK</ConfEventLocation>
+                  <ConfEventDate>July 20-25, 2003</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>2732</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>388</FirstPage>
+                  <LastPage>400</LastPage>
+                </BibChapter>
+                <BibUnstructured>Wang, F., Vemuri, B.C., Rao, M., Chen, Y.: A New &amp; Robust Information Theoretic Measure and Its Application to Image Alignment. In: Taylor, C.J., Noble, J.A. (eds.) IPMI 2003. LNCS, vol. 2732, pp. 388–400. Springer, Heidelberg (2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.C.</Initials>
+                    <FamilyName>Vemuri</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Non-rigid Multi-modal Image Registration Using Cross-cumulative Residual Entropy</ArticleTitle>
+                  <JournalTitle>Int. J. Comp. Vis.</JournalTitle>
+                  <VolumeID>74</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>201</FirstPage>
+                  <LastPage>205</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11263-006-0011-2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wang, F., Vemuri, B.C.: Non-rigid Multi-modal Image Registration Using Cross-cumulative Residual Entropy. Int. J. Comp. Vis. 74(2), 201–205 (2007)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Liao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.C.S.</Initials>
+                    <FamilyName>Chung</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ChapterTitle Language="En">Multi-modal Image Registration Using the Generalized Survival Exponential Entropy</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Larsen</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Nielsen</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Sporring</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Medical Image Computing and Computer-Assisted Intervention – MICCAI 2006</BookTitle>
+                  <ConfEventName>9th International Conference</ConfEventName>
+                  <ConfEventLocation>Copenhagen, Denmark</ConfEventLocation>
+                  <ConfEventDate>October 1-6, 2006</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>4191</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>964</FirstPage>
+                  <LastPage>971</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/11866763_118</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Liao, S., Chung, A.C.S.: Multi-modal Image Registration Using the Generalized Survival Exponential Entropy. In: Larsen, R., Nielsen, M., Sporring, J. (eds.) MICCAI 2006. LNCS, vol. 4191, pp. 964–971. Springer, Heidelberg (2006)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Cahill, N.D.: Constructing and Solving Variational Image Registration Problems. D.Phil. Thesis, Department of Engineering Science, University of Oxford (2009)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Cahill, N.D., Schnabel, J.A., Noble, J.A., Hawkes, D.J.: Overlap Invariance of Cumulative Residual Entropy Measures for Multimodal Image Alignment. In: Pluim, J.P.W., Dawant, B.M. (eds.) Proc. SPIE of Medical Imaging 2009: Image Processing, vol. 7259 (2009). doi:<ExternalRef><RefSource>10.1117/12.811585</RefSource><RefTarget Address="10.1117/12.811585" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.E.</Initials>
+                    <FamilyName>Shannon</FamilyName>
+                  </BibAuthorName>
+                  <Year>1948</Year>
+                  <ArticleTitle Language="En">A Mathematical Theory of Communication</ArticleTitle>
+                  <JournalTitle>Bell Sys. Tech. J.</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>379</FirstPage>
+                  <LastPage>423</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1154.94303</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>26286</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1002/j.1538-7305.1948.tb01338.x</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shannon, C.E.: A Mathematical Theory of Communication. Bell Sys. Tech. J. 27, 379–423, 623–656 (1948)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>Rényi, A.: On measures of entropy and information. In: Proc. 4th Berkeley Symp. Mathematical Statistics and Probability, Berkeley, CA, vol. I, pp. 547–561 (1961)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Tsallis</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Possible Generalizations of Boltzmann-Gibbs Statistics</ArticleTitle>
+                  <JournalTitle>J. Stat. Phys.</JournalTitle>
+                  <VolumeID>52</VolumeID>
+                  <FirstPage>479</FirstPage>
+                  <LastPage>487</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1082.82501</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01016429</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>968597</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tsallis, C.: Possible Generalizations of Boltzmann-Gibbs Statistics. J. Stat. Phys. 52, 479–487 (1988)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.L.</Initials>
+                    <FamilyName>Campbell</FamilyName>
+                  </BibAuthorName>
+                  <Year>1966</Year>
+                  <ArticleTitle Language="En">Exponential Entropy as a Measure of Extent of a Distribution</ArticleTitle>
+                  <JournalTitle>Zeitschr. für Wahrsch. und verw. Geb.</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>217</FirstPage>
+                  <LastPage>255</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0141.35102</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00533058</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Campbell, L.L.: Exponential Entropy as a Measure of Extent of a Distribution. Zeitschr. für Wahrsch. und verw. Geb. 5, 217–255 (1966)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Koski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.-E.</Initials>
+                    <FamilyName>Persson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Some Properties of Generalized Exponential Entropies with Applications to Data Compression</ArticleTitle>
+                  <JournalTitle>Inf. Sci.</JournalTitle>
+                  <VolumeID>62</VolumeID>
+                  <IssueID>1-2</IssueID>
+                  <FirstPage>103</FirstPage>
+                  <LastPage>132</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0746.94006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0020-0255(92)90027-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1157038</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Koski, T., Persson, L.-E.: Some Properties of Generalized Exponential Entropies with Applications to Data Compression. Inf. Sci. 62(1-2), 103–132 (1992)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.C.</Initials>
+                    <FamilyName>Vemuri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Cumulative Residual Entropy: A New Measure of Information</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Inf. Th.</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>1220</FirstPage>
+                  <LastPage>1228</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TIT.2004.828057</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2094878</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rao, M., Chen, Y., Vemuri, B.C., Wang, F.: Cumulative Residual Entropy: A New Measure of Information. IEEE Trans. Inf. Th. 50(6), 1220–1228 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Zografos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Nadarajah</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Survival Exponential Entropies</ArticleTitle>
+                  <JournalTitle>IEEE Trans. Inf. Th.</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>1239</FirstPage>
+                  <LastPage>1246</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TIT.2004.842772</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2237997</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zografos, K., Nadarajah, S.: Survival Exponential Entropies. IEEE Trans. Inf. Th. 51(3), 1239–1246 (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibUnstructured>Drissi, N., Chonavel, T., Boucher, J.M.: Generalized Cumulative Residual Entropy for Distributions with Unrestricted Supports. Res. Let. Sig. Proc. Article ID 790607, 2008 (2008). doi:<ExternalRef><RefSource>10.1155/2008/790607</RefSource><RefTarget Address="10.1155/2008/790607" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Astola, J., Virtanen, I.: A Measure of Overall Statistical Dependence Based on the Entropy Concept. In: Proc. Univ. Vaasa. No. 91 (1983)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>I.H.</Initials>
+                    <FamilyName>Witten</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Frank</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <BookTitle>Data Mining: Practical Machine Learning Tools and Techniques</BookTitle>
+                  <PublisherName>Morgan Kaufmann</PublisherName>
+                  <PublisherLocation>Amsterdam</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1076.68555</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Witten, I.H., Frank, E.: Data Mining: Practical Machine Learning Tools and Techniques. Morgan Kaufmann, Amsterdam (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>West</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Comparison and Evaluation of Retrospective Intermodality Brain Image Registration Techniques</ArticleTitle>
+                  <JournalTitle>J. Comp. Assist. Tom.</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>554</FirstPage>
+                  <LastPage>566</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00004728-199707000-00007</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>West, J., et al.: Comparison and Evaluation of Retrospective Intermodality Brain Image Registration Techniques. J. Comp. Assist. Tom. 21(4), 554–566 (1997)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Doug</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <City>Lancaster</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <City>Zurich</City>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>Stanford</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <City>Bern</City>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <City>Dortmund</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <State>MA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbrücken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-642-14366-3</BookID>
+        <BookTitle>Biomedical Image Registration</BookTitle>
+        <BookSubTitle>4th International Workshop, WBIR 2010, Lübeck, Germany, July 11-13, 2010. Proceedings</BookSubTitle>
+        <BookVolumeNumber>6204</BookVolumeNumber>
+        <BookSequenceNumber>6204</BookSequenceNumber>
+        <BookDOI>10.1007/978-3-642-14366-3</BookDOI>
+        <BookTitleID>212463</BookTitleID>
+        <BookPrintISBN>978-3-642-14365-6</BookPrintISBN>
+        <BookElectronicISBN>978-3-642-14366-3</BookElectronicISBN>
+        <BookChapterCount>24</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2010</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="I" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="I22021" Priority="1" Type="Secondary">Image Processing and Computer Vision</BookSubject>
+          <BookSubject Code="H28009" Priority="2" Type="Secondary">Health Informatics</BookSubject>
+          <BookSubject Code="H29005" Priority="3" Type="Secondary">Imaging / Radiology</BookSubject>
+          <BookSubject Code="I18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="I2203X" Priority="5" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="L15001" Priority="6" Type="Secondary">Bioinformatics</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>International Workshop on Biomedical Image Registration</ConfSeriesName>
+          <ConfSeriesID Type="Springer">wbir</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">wbir</ConfSeriesID>
+          <ConfEventID Type="Springer">wbir2010</ConfEventID>
+          <ConfEventAbbreviation>WBIR</ConfEventAbbreviation>
+          <ConfNumber>4</ConfNumber>
+          <ConfEventLocation>
+            <City>Lübeck</City>
+            <Country>Germany</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2010</Year>
+            <Month>7</Month>
+            <Day>11</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2010</Year>
+            <Month>7</Month>
+            <Day>13</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Bernd</GivenName>
+              <FamilyName>Fischer</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>fischer@math.uni-luebeck.de</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Benoît</GivenName>
+              <GivenName>M.</GivenName>
+              <FamilyName>Dawant</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>benoit.dawant@vanderbilt.edu</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff18">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Cristian</GivenName>
+              <FamilyName>Lorenz</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>Cristian.Lorenz@Philips.com</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Institute of Mathematics and Image Computing</OrgDivision>
+            <OrgName>University of Lübeck</OrgName>
+            <OrgAddress>
+              <Street>Wallstr. 40</Street>
+              <Postcode>23560</Postcode>
+              <City>Lübeck</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Electrical Engineering and Computer Science</OrgDivision>
+            <OrgName>Vanderbilt University</OrgName>
+            <OrgAddress>
+              <Street>VU Station B 351662</Street>
+              <Postcode>37240-1662</Postcode>
+              <City>Nashville</City>
+              <State>TN</State>
+              <Country>USA</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff18">
+            <OrgName>Philips Research Europe - Hamburg, Sector Medical Imaging Systems</OrgName>
+            <OrgAddress>
+              <Street>Röntgenstr. 24-26</Street>
+              <Postcode>22335</Postcode>
+              <City>Hamburg</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part1">
+        <PartInfo TocLevels="0">
+          <PartID>1</PartID>
+          <PartSequenceNumber>1</PartSequenceNumber>
+          <PartTitle>Applications</PartTitle>
+          <PartChapterCount>4</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Biomedical Image Registration</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap3" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>3</ChapterID>
+            <ChapterDOI>10.1007/978-3-642-14366-3_3</ChapterDOI>
+            <ChapterSequenceNumber>3</ChapterSequenceNumber>
+            <ChapterTitle Language="En">3D-Reconstruction of Basal Cell Carcinoma</ChapterTitle>
+            <ChapterSubTitle Language="En">A Proof-of-Principle Study</ChapterSubTitle>
+            <ChapterFirstPage>25</ChapterFirstPage>
+            <ChapterLastPage>36</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2010</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>1</PartID>
+              <BookID>978-3-642-14366-3</BookID>
+              <BookTitle>Biomedical Image Registration</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff19">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Patrick</GivenName>
+                  <FamilyName>Scheibe</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>pscheibe@trm.uni-leipzig.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff20">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Tino</GivenName>
+                  <FamilyName>Wetzig</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff21">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jens-Peer</GivenName>
+                  <FamilyName>Kuska</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff22">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Markus</GivenName>
+                  <FamilyName>Löffler</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff20">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jan</GivenName>
+                  <GivenName>C.</GivenName>
+                  <FamilyName>Simon</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff20">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Uwe</GivenName>
+                  <FamilyName>Paasch</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff21">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ulf-Dietrich</GivenName>
+                  <FamilyName>Braumann</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff19">
+                <OrgDivision>Translational Centre for Regenerative Medicine (TRM Leipzig)</OrgDivision>
+                <OrgName>Universität Leipzig</OrgName>
+                <OrgAddress>
+                  <Street>Philipp-Rosenthal-Straße 55</Street>
+                  <Postcode>04103</Postcode>
+                  <City>Leipzig</City>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff20">
+                <OrgDivision>Department of Dermatology, Venerology and Allergology</OrgDivision>
+                <OrgName>Universität Leipzig</OrgName>
+                <OrgAddress>
+                  <Street>Philipp-Rosenthal-Straße 23-25</Street>
+                  <Postcode>04103</Postcode>
+                  <City>Leipzig</City>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff21">
+                <OrgDivision>Interdisciplinary Centre for Bioinformatics (IZBI)</OrgDivision>
+                <OrgName>Universität Leipzig</OrgName>
+                <OrgAddress>
+                  <Street>Härtelstraße 16-18</Street>
+                  <Postcode>04107</Postcode>
+                  <City>Leipzig</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff22">
+                <OrgDivision>Institute for Medical Informatics, Statistics, and Epidemiology (IMISE)</OrgDivision>
+                <OrgName>Universität Leipzig</OrgName>
+                <OrgAddress>
+                  <Street>Härtelstraße 16-18</Street>
+                  <Postcode>04107</Postcode>
+                  <City>Leipzig</City>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para>This work presents a complete processing-chain for a 3D-reconstruction of Basal Cell Carcinoma (BCC). BCC is the most common malignant skin cancer with a high risk of local recurrence after insufficient treatment. Therefore, we have focused on the development of an automated image-processing chain for 3D-reconstruction of BCC using large histological serial sections. We introduce a novel kind of image-processing chain (core component: non-linear image registration) which is optimised for the diffuse nature of BCC.</Para>
+              <Para>For full-automatic delineation of the tumour within the tissue we apply a fuzzy c-means segmentation method, which does not calculate a hard segmentation decision but class membership probabilities. This feature moves the binary decision tumorous vs. non-tumorous to the end of the processing chain, and it ensures smooth gradients which are needed for a consistent registration.</Para>
+              <Para>We used a multi-grid form of the nonlinear registration effectively suppressing registration runs into local minima (possibly caused by diffuse nature of the tumour). To register the stack of images this method is applied in a new way to reduce a global drift of the image stack while registration.</Para>
+              <Para>Our method was successfully applied in a proof-of-principle study for automated tissue volume reconstruction followed by a quantitative tumour growth analysis.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Non-linear Image Registration</Keyword>
+              <Keyword>Image Segmentation</Keyword>
+              <Keyword>3D-Reconstruction</Keyword>
+            </KeywordGroup>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-642-14366-3_Chapter_3.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B.A.</Initials>
+                    <FamilyName>Raasch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.G.</Initials>
+                    <FamilyName>Buettner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Garbe</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Basal cell carcinoma: histological classification and body-site distribution</ArticleTitle>
+                  <JournalTitle>Br. J. Dermatol.</JournalTitle>
+                  <VolumeID>155</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>401</FirstPage>
+                  <LastPage>407</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1365-2133.2006.07234.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Raasch, B.A., Buettner, P.G., Garbe, C.: Basal cell carcinoma: histological classification and body-site distribution. Br. J. Dermatol. 155(2), 401–407 (2006)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.S.</Initials>
+                    <FamilyName>Rigel</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Cutaneous ultraviolet exposure and its relationship to the development of skin cancer</ArticleTitle>
+                  <JournalTitle>J. Am. Acad. Dermatol.</JournalTitle>
+                  <VolumeID>58</VolumeID>
+                  <IssueID>5 Suppl. 2</IssueID>
+                  <FirstPage>129</FirstPage>
+                  <LastPage>132</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jaad.2007.04.034</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rigel, D.S.: Cutaneous ultraviolet exposure and its relationship to the development of skin cancer. J. Am. Acad. Dermatol. 58(5 Suppl. 2), 129–132 (2008)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Woerle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Heckmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Konz</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Micrographic surgery of basal cell carcinomas of the head</ArticleTitle>
+                  <JournalTitle>Recent Results Cancer Res.</JournalTitle>
+                  <VolumeID>160</VolumeID>
+                  <FirstPage>219</FirstPage>
+                  <LastPage>224</LastPage>
+                </BibArticle>
+                <BibUnstructured>Woerle, B., Heckmann, M., Konz, B.: Micrographic surgery of basal cell carcinomas of the head. Recent Results Cancer Res. 160, 219–224 (2002)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N.A.</Initials>
+                    <FamilyName>Swanson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <ArticleTitle Language="En">Mohs surgery. technique, indications, applications, and the future</ArticleTitle>
+                  <JournalTitle>Arch. Dermatol.</JournalTitle>
+                  <VolumeID>119</VolumeID>
+                  <IssueID>9</IssueID>
+                  <FirstPage>761</FirstPage>
+                  <LastPage>773</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/archderm.119.9.761</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Swanson, N.A.: Mohs surgery. technique, indications, applications, and the future. Arch. Dermatol. 119(9), 761–773 (1983)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U.D.</Initials>
+                    <FamilyName>Braumann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.P.</Initials>
+                    <FamilyName>Kuska</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Einenkel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.C.</Initials>
+                    <FamilyName>Horn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Löffler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Höckel</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Three-dimensional reconstruction and quantification of cervical carcinoma invasion fronts from histological serial sections</ArticleTitle>
+                  <JournalTitle>IEEE Transactions on Medical Imaging</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <IssueID>10</IssueID>
+                  <FirstPage>1286</FirstPage>
+                  <LastPage>1307</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TMI.2005.855437</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Braumann, U.D., Kuska, J.P., Einenkel, J., Horn, L.C., Löffler, M., Höckel, M.: Three-dimensional reconstruction and quantification of cervical carcinoma invasion fronts from histological serial sections. IEEE Transactions on Medical Imaging 24(10), 1286–1307 (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U.D.</Initials>
+                    <FamilyName>Braumann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Scherf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Einenkel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.C.</Initials>
+                    <FamilyName>Horn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Wentzensen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Loeffler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.P.</Initials>
+                    <FamilyName>Kuska</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Large histological serial sections for computational tissue volume reconstruction</ArticleTitle>
+                  <JournalTitle>Methods Inf. Med.</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>614</FirstPage>
+                  <LastPage>622</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1160/ME9065</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Braumann, U.D., Scherf, N., Einenkel, J., Horn, L.C., Wentzensen, N., Loeffler, M., Kuska, J.P.: Large histological serial sections for computational tissue volume reconstruction. Methods Inf. Med. 46(5), 614–622 (2007)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Braun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Klumb</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Bondon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Salomon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Skaria</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Adatto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>French</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Saurat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Vallee</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Three-Dimensional Reconstruction of Basal Cell Carcinomas</ArticleTitle>
+                  <JournalTitle>Derma Surg.</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>562</FirstPage>
+                  <LastPage>569</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1097/00042728-200505000-00013</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Braun, R., Klumb, F., Bondon, D., Salomon, D., Skaria, A., Adatto, M., French, L., Saurat, J., Vallee, J.: Three-Dimensional Reconstruction of Basal Cell Carcinomas. Derma Surg. 31(5), 562–569 (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Matsumura</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.C.</Initials>
+                    <FamilyName>Sato-Matsumura</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Yokota</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Kobayashi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Nagashima</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Ohkawara</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Three-dimensional reconstruction in dermatopathology–a personal computer-based system</ArticleTitle>
+                  <JournalTitle>J. Cutan. Pathol.</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>197</FirstPage>
+                  <LastPage>200</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1600-0560.1999.tb01828.x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Matsumura, T., Sato-Matsumura, K.C., Yokota, T., Kobayashi, H., Nagashima, K., Ohkawara, A.: Three-dimensional reconstruction in dermatopathology–a personal computer-based system. J. Cutan. Pathol. 26(4), 197–200 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Modersitzki</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>Numerical Methods for Image Registration, Numerical Mathematics and Scientific Computation</BookTitle>
+                  <PublisherName>Oxford University Press</PublisherName>
+                  <PublisherLocation>USA</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Modersitzki, J.: Numerical Methods for Image Registration, Numerical Mathematics and Scientific Computation. Oxford University Press, USA (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>Chan, T., Osher, S., Shen, J.: The digital TV filter and non-linear denoising (2001)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Bezdek</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <BookTitle>Pattern Recognition with Fuzzy Objective Function algorithms</BookTitle>
+                  <PublisherName>Plenum</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0503.68069</Handle>
+                  </Occurrence>
+<Occurrence Type="DOI">
+<Handle>10.1007/978-1-4757-0450-1</Handle>
+</Occurrence>
+                </BibBook>
+                <BibUnstructured>Bezdek, J.: Pattern Recognition with Fuzzy Objective Function algorithms. Plenum, New York (1981)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.C.</Initials>
+                    <FamilyName>Dunn</FamilyName>
+                  </BibAuthorName>
+                  <Year>1973</Year>
+                  <ArticleTitle Language="En">A fuzzy relative of the ISODATA process and its use in detecting compact well-separated clusters</ArticleTitle>
+                  <JournalTitle>Journal of Cybernetics</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>32</FirstPage>
+                  <LastPage>57</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0291.68033</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/01969727308546046</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>375857</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dunn, J.C.: A fuzzy relative of the ISODATA process and its use in detecting compact well-separated clusters. Journal of Cybernetics 3, 32–57 (1973)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Amit</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">A nonlinear variational problem for image matching</ArticleTitle>
+                  <JournalTitle>SIAM Journal on Scientific Computing</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>207</FirstPage>
+                  <LastPage>224</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0802.68158</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/0915014</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1257164</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Amit, Y.: A nonlinear variational problem for image matching. SIAM Journal on Scientific Computing 15(1), 207–224 (1994)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Braumann, U.D., Kuska, J.P.: Influence of the boundary conditions on the result of non-linear image registration. In: Proceedings of the IEEE International Conference on Image Processing, pp. I-1129–I-1132. IEEE Signal Processing Society, Los Alamitos (September 2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Choi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Wette</FamilyName>
+                  </BibAuthorName>
+                  <Year>1969</Year>
+                  <ArticleTitle Language="En">Maximum likelihood estimation of the parameters of the gamma distribution and their bias</ArticleTitle>
+                  <JournalTitle>Technometrics</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>683</FirstPage>
+                  <LastPage>690</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0183.48003</Handle>
+                  </Occurrence>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/1266892</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Choi, S., Wette, R.: Maximum likelihood estimation of the parameters of the gamma distribution and their bias. Technometrics 11(4), 683–690 (1969)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Gaffling</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Jäger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V.</Initials>
+                    <FamilyName>Daum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Tauchi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Lütjen-Drecoll</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ChapterTitle Language="En">Interpolation of Histological Slices by means of Non-rigid Registration</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>H.P.</Initials>
+                    <FamilyName>Meinzer</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>T.M.</Initials>
+                    <FamilyName>Deserno</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Handels</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Tolxdorff</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Bildverarbeitung für die Medizin 2009 – Algorithmen, Systeme, Anwendungen</BookTitle>
+                  <ConfEventLocation>Informatik aktuell</ConfEventLocation>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>267</FirstPage>
+                  <LastPage>271</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-540-93860-6_54</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Gaffling, S., Jäger, F., Daum, V., Tauchi, M., Lütjen-Drecoll, E.: Interpolation of Histological Slices by means of Non-rigid Registration. In: Meinzer, H.P., Deserno, T.M., Handels, H., Tolxdorff, T. (eds.) Bildverarbeitung für die Medizin 2009 – Algorithmen, Systeme, Anwendungen, Informatik aktuell, pp. 267–271. Springer, Heidelberg (March 2009)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

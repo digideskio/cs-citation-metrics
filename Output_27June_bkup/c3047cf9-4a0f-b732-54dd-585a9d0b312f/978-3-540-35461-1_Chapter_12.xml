@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Dough</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>CA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>MA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbruecken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-540-35461-1</BookID>
+        <BookTitle>Combinatorial Pattern Matching</BookTitle>
+        <BookSubTitle>17th Annual Symposium, CPM 2006, Barcelona, Spain, July 5-7, 2006. Proceedings</BookSubTitle>
+        <BookVolumeNumber>4009</BookVolumeNumber>
+        <BookSequenceNumber>4009</BookSequenceNumber>
+        <BookDOI>10.1007/11780441</BookDOI>
+        <BookTitleID>139689</BookTitleID>
+        <BookPrintISBN>978-3-540-35455-0</BookPrintISBN>
+        <BookElectronicISBN>978-3-540-35461-1</BookElectronicISBN>
+        <BookChapterCount>36</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2006</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="SCI" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="SCI2203X" Priority="1" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="SCI16021" Priority="2" Type="Secondary">Algorithm Analysis and Problem Complexity</BookSubject>
+          <BookSubject Code="SCI21033" Priority="3" Type="Secondary">Document Preparation and Text Processing</BookSubject>
+          <BookSubject Code="SCI18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="SCL15001" Priority="5" Type="Secondary">Bioinformatics</BookSubject>
+          <BookSubject Code="SCI15017" Priority="6" Type="Secondary">Data Structures</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>Annual Symposium on Combinatorial Pattern Matching</ConfSeriesName>
+          <ConfSeriesID Type="Springer">cpm</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">cpm</ConfSeriesID>
+          <ConfEventID Type="Springer">cpm2006</ConfEventID>
+          <ConfEventAbbreviation>CPM</ConfEventAbbreviation>
+          <ConfNumber>17</ConfNumber>
+          <ConfEventLocation>
+            <City>Barcelona</City>
+            <Country>Spain</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>5</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>7</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Moshe</GivenName>
+              <FamilyName>Lewenstein</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>moshe@cs.biu.ac.il</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Gabriel</GivenName>
+              <FamilyName>Valiente</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>valiente@lsi.upc.edu</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Department of Computer Science</OrgDivision>
+            <OrgName>Bar-Ilan University</OrgName>
+            <OrgAddress>
+              <Postcode>52900</Postcode>
+              <City>Ramat-Gan</City>
+              <Country>Israel</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Software</OrgDivision>
+            <OrgName>Technical University of Catalonia</OrgName>
+            <OrgAddress>
+              <Postcode>08034</Postcode>
+              <City>Barcelona</City>
+              <Country>Spain</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part4">
+        <PartInfo TocLevels="0">
+          <PartID>4</PartID>
+          <PartSequenceNumber>4</PartSequenceNumber>
+          <PartTitle>Session 3. Probabilistic and Algebraic Techniques</PartTitle>
+          <PartChapterCount>4</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Combinatorial Pattern Matching</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap12" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>12</ChapterID>
+            <ChapterDOI>10.1007/11780441_12</ChapterDOI>
+            <ChapterSequenceNumber>12</ChapterSequenceNumber>
+            <ChapterTitle Language="En">Tiling an Interval of the Discrete Line</ChapterTitle>
+            <ChapterFirstPage>117</ChapterFirstPage>
+            <ChapterLastPage>128</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2006</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>4</PartID>
+              <BookID>978-3-540-35461-1</BookID>
+              <BookTitle>Combinatorial Pattern Matching</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Olivier</GivenName>
+                  <FamilyName>Bodini</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>bodini@lirmm.fr</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Eric</GivenName>
+                  <FamilyName>Rivals</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>rivals@lirmm.fr</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff18">
+                <OrgDivision>L.I.R.M.M., CNRS U.M.R. 5506</OrgDivision>
+                <OrgName>Université de Montpellier II</OrgName>
+                <OrgAddress>
+                  <Street>161 rue Ada</Street>
+                  <Postcode>F-34392 Cedex 5</Postcode>
+                  <City>Montpellier</City>
+                  <Country>France</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para TextBreak="No">We consider the problem of tiling a segment {0, ..., <Emphasis Type="Italic">n</Emphasis>} of the discrete line. More precisely, we ought to characterize the structure of the patterns that tile a segment and their number. A pattern is a subset of ℕ. A tiling pattern or tile for {0, ..., <Emphasis Type="Italic">n</Emphasis>} is a subset <InlineEquation ID="IEq1">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="978-3-540-35461-1_12_Chapter_TeX2GIFIEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$A \in {{\mathcal P}({\mathbb{N}})}$]]></EquationSource>
+                </InlineEquation> such that there exists <InlineEquation ID="IEq2">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="978-3-540-35461-1_12_Chapter_TeX2GIFIEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$B \in {{\mathcal P}({\mathbb{N}})}$]]></EquationSource>
+                </InlineEquation> and such that the direct sum of <Emphasis Type="Italic">A</Emphasis> and <Emphasis Type="Italic">B</Emphasis> equals {0, ..., <Emphasis Type="Italic">n</Emphasis>}. This problem is related to the difficult question of the decomposition in direct sums of the torus ℤ/<Emphasis Type="Italic">n</Emphasis>ℤ (proposed by Minkowski). Using combinatorial and algebraic techniques, we give a new elementary proof of Krasner factorizations. We combinatorially prove that the tiles are direct sums of some arithmetic sequences of specific lengths. Besides, we show there are as many tiles whose smallest tilable segment is {0, ..., <Emphasis Type="Italic">n</Emphasis>} as tiles whose smallest tilable segment is {0, ..., <Emphasis Type="Italic">d</Emphasis>}, for all strict divisors <Emphasis Type="Italic">d</Emphasis> of <Emphasis Type="Italic">n</Emphasis>. This enables us to exhibit an optimal linear time algorithm to compute for a given pattern the smallest segment that it tiles if any, as well as a recurrence formula for counting the tiles of a segment.</Para>
+            </Abstract>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-540-35461-1_Chapter_12.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Beauquier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Nivat</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ChapterTitle Language="En">Tiling the plane with one tile</ChapterTitle>
+                  <BookTitle>Proc. 6th Annual Symposium on Computational Geometry (SGC 1990)</BookTitle>
+                  <ConfEventLocation>Berkeley, CA</ConfEventLocation>
+                  <PublisherName>ACM Press</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>128</FirstPage>
+                  <LastPage>138</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/98524.98553</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Beauquier, D., Nivat, M.: Tiling the plane with one tile. In: Proc. 6th Annual Symposium on Computational Geometry (SGC 1990), Berkeley, CA, pp. 128–138. ACM Press, New York (1990)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>Beauquier, D., Nivat, M., Remila, E., Robson, J.M.: Tiling figures of the plane with two bars. Computational Geometry: Theory and Applications 5 (1996). doi: <ExternalRef><RefSource>10.1016/0925-7721(94)00015-N</RefSource><RefTarget TargetType="DOI" Address="10.1016/0925-7721(94)00015-N"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Berger</FamilyName>
+                  </BibAuthorName>
+                  <Year>1966</Year>
+                  <ArticleTitle Language="En">The undecidability of the domino problem</ArticleTitle>
+                  <JournalTitle>Mem. Amer. Math. Soc.</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>72</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1090/memo/0066</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Berger, R.: The undecidability of the domino problem. Mem. Amer. Math. Soc. 66, 1–72 (1966)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.M.</Initials>
+                    <FamilyName>Coven</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.D.</Initials>
+                    <FamilyName>Meyerowitz</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Tiling the integers with translates of one finite set</ArticleTitle>
+                  <JournalTitle>Journal of Algebra</JournalTitle>
+                  <VolumeID>212</VolumeID>
+                  <FirstPage>161</FirstPage>
+                  <LastPage>174</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1006/jabr.1998.7628</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1670646</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0927.11008</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Coven, E.M., Meyerowitz, A.D.: Tiling the integers with translates of one finite set. Journal of Algebra 212, 161–174 (1999)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Culik</FamilyName>
+                    <Suffix>II</Suffix>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Kari</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ChapterTitle Language="En">On Aperiodic Sets of Wang Tiles</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Freksa</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Jantzen</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Valk</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Foundations of Computer Science</BookTitle>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>1337</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>153</FirstPage>
+                  <LastPage>162</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BFb0052084</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Culik II, K., Kari, J.: On Aperiodic Sets of Wang Tiles. In: Freksa, C., Jantzen, M., Valk, R. (eds.) Foundations of Computer Science. LNCS, vol. 1337, pp. 153–162. Springer, Heidelberg (1997)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N.G.</Initials>
+                    <FamilyName>Bruijn</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <Year>1950</Year>
+                  <ArticleTitle Language="En">On bases for the set of intergers</ArticleTitle>
+                  <JournalTitle>Publ. Math. Debrecen</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <FirstPage>232</FirstPage>
+                  <LastPage>242</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>39748</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0038.18502</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>de Bruijn, N.G.: On bases for the set of intergers. Publ. Math. Debrecen 1, 232–242 (1950)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Felice</FamilyName>
+                    <Particle>De</Particle>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">An application of Hajós factorizations to variable-length codes</ArticleTitle>
+                  <JournalTitle>Theoretical Computer Science</JournalTitle>
+                  <VolumeID>164</VolumeID>
+                  <IssueID>1–2</IssueID>
+                  <FirstPage>223</FirstPage>
+                  <LastPage>252</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0304-3975(95)00223-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1411206</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0864.94014</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>De Felice, C.: An application of Hajós factorizations to variable-length codes. Theoretical Computer Science 164(1–2), 223–252 (1996)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Fuchs</FamilyName>
+                  </BibAuthorName>
+                  <Year>1960</Year>
+                  <BookTitle>Abelian Groups</BookTitle>
+                  <PublisherName>Oxford Univ. Press</PublisherName>
+                  <PublisherLocation>Oxford</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0100.02803</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Fuchs, L.: Abelian Groups. Oxford Univ. Press, Oxford (1960)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Hajós</FamilyName>
+                  </BibAuthorName>
+                  <Year>1950</Year>
+                  <ArticleTitle Language="En">Sur la factorisation des groupes abéliens</ArticleTitle>
+                  <JournalTitle>Cas. Mat. Fys.</JournalTitle>
+                  <VolumeID>74</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>157</FirstPage>
+                  <LastPage>162</LastPage>
+                </BibArticle>
+                <BibUnstructured>Hajós, G.: Sur la factorisation des groupes abéliens. Cas. Mat. Fys. 74(3), 157–162 (1950)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Hajós</FamilyName>
+                  </BibAuthorName>
+                  <Year>1950</Year>
+                  <ArticleTitle Language="En">Sur le problème de factorisation des groupes cycliques</ArticleTitle>
+                  <JournalTitle>Acta Math. Acad. Sci. Hung.</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <FirstPage>189</FirstPage>
+                  <LastPage>195</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF02021311</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0041.15702</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hajós, G.: Sur le problème de factorisation des groupes cycliques. Acta Math. Acad. Sci. Hung. 1, 189–195 (1950)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Krasner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Ranulak</FamilyName>
+                  </BibAuthorName>
+                  <Year>1937</Year>
+                  <ArticleTitle Language="En">Sur une propriété des polynômes de la division du cercle</ArticleTitle>
+                  <JournalTitle>Comptes rendus de l’Académie des Sciences Paris</JournalTitle>
+                  <VolumeID>240</VolumeID>
+                  <FirstPage>397</FirstPage>
+                  <LastPage>399</LastPage>
+                </BibArticle>
+                <BibUnstructured>Krasner, M., Ranulak, B.: Sur une propriété des polynômes de la division du cercle. Comptes rendus de l’Académie des Sciences Paris 240, 397–399 (1937)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.C.</Initials>
+                    <FamilyName>Lagarias</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Tiling the line with translates of one tile</ArticleTitle>
+                  <JournalTitle>Inventiones Mathematicae</JournalTitle>
+                  <VolumeID>124</VolumeID>
+                  <IssueID>1-3</IssueID>
+                  <FirstPage>341</FirstPage>
+                  <LastPage>365</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s002220050056</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1369421</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0847.05037</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lagarias, J.C., Wang, Y.: Tiling the line with translates of one tile. Inventiones Mathematicae 124(1-3), 341–365 (1996)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N.H.</Initials>
+                    <FamilyName>Lam</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Hajós factorizations and completion of codes</ArticleTitle>
+                  <JournalTitle>Theoretical Computer Science</JournalTitle>
+                  <VolumeID>182</VolumeID>
+                  <IssueID>1–2</IssueID>
+                  <FirstPage>245</FirstPage>
+                  <LastPage>256</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0304-3975(97)00032-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1463939</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1053.20531</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lam, N.H.: Hajós factorizations and completion of codes. Theoretical Computer Science 182(1–2), 245–256 (1997)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Lang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <BookTitle>Algebraic Number Theory</BookTitle>
+                  <EditionNumber>2</EditionNumber>
+                  <SeriesTitle Language="En">Graduate Texts in Mathematics</SeriesTitle>
+                  <NumberInSeries>110</NumberInSeries>
+                  <PublisherName>Addison-Wesley Publishing Company</PublisherName>
+                  <PublisherLocation>Reading</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Lang, S.: Algebraic Number Theory, 2nd edn. Graduate Texts in Mathematics, vol. 110. Addison-Wesley Publishing Company, Reading (2000)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Penrose</FamilyName>
+                  </BibAuthorName>
+                  <Year>1974</Year>
+                  <ArticleTitle Language="En">Pentaplexy.</ArticleTitle>
+                  <JournalTitle>Bulletin of the Institute of Mathematics and its Applications</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>266</FirstPage>
+                  <LastPage>271</LastPage>
+                </BibArticle>
+                <BibUnstructured>Penrose, R.: Pentaplexy. Bulletin of the Institute of Mathematics and its Applications 10, 266–271 (1974)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>Sloane, N.J.A.: The On-Line Encyclopedia of Integer Sequences (2004), available at: <ExternalRef>
+                    <RefSource>
+                      <Literal>http://www.research.att.com/~njas/sequences/</Literal>
+                    </RefSource>
+                    <RefTarget Address="http://www.research.att.com/~njas/sequences/" TargetType="URL"/>
+                  </ExternalRef>
+                        </BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>Stein, S.K., Szabo, S.: Algebra and Tiling: Homomorphisms in the Service of Geometry. Carus Mathematical Monograph, vol. 25, MAA (1994)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Szabo</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>Topics in factorization of abelian groups</BookTitle>
+                  <PublisherName>Birkhauser</PublisherName>
+                  <PublisherLocation>Basel</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Szabo, S.: Topics in factorization of abelian groups. Birkhauser, Basel (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Thiant</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">An <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">n</Emphasis> log<Emphasis Type="Italic">n</Emphasis>)-algorithm for finding a domino tiling of a plane picture whose number of holes is bounded</ArticleTitle>
+                  <JournalTitle>Theorical Computer Sciences</JournalTitle>
+                  <VolumeID>303</VolumeID>
+                  <IssueID>2-3</IssueID>
+                  <FirstPage>353</FirstPage>
+                  <LastPage>374</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0304-3975(02)00497-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1990771</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1053.68068</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Thiant, N.: An <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">n</Emphasis> log<Emphasis Type="Italic">n</Emphasis>)-algorithm for finding a domino tiling of a plane picture whose number of holes is bounded. Theorical Computer Sciences 303(2-3), 353–374 (2003)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibUnstructured>Thurston, W.P.: Conway’s tiling groups. Am. Math. Monthly, 757–773 (October 1990)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Tijdeman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ChapterTitle Language="En">Decomposition of the integers as a direct sum of two subsets</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>David</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Number Theory</BookTitle>
+                  <PublisherName>Oxford Univ. Press</PublisherName>
+                  <PublisherLocation>Oxford</PublisherLocation>
+                  <FirstPage>261</FirstPage>
+                  <LastPage>276</LastPage>
+                </BibChapter>
+                <BibUnstructured>Tijdeman, R.: Decomposition of the integers as a direct sum of two subsets. In: David, S. (ed.) Number Theory, pp. 261–276. Oxford Univ. Press, Oxford (1995)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>

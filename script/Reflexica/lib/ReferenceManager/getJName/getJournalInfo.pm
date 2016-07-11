@@ -1,0 +1,54 @@
+#version 1.0
+package ReferenceManager::getJName::getJournalInfo;
+
+# perl d:/SanjeevRai/PerlTest/dbiExample.pl
+use strict;
+#use Win32;
+#############################################
+sub main{
+  my ($hashValRef, $colName)=@_;
+  my $filePath=$0;
+
+  $filePath=~s/\\/\//g;
+  $filePath=~s/(.*)([\/\\])(.*?)\.(pl|exe)/$1$2\/JAbbri\.ini/;
+  my $iniDatabase="";
+  if(-e $filePath){
+    open (INFile, "<$filePath") || die "Error in open Journal DataBase ini file.";
+    undef $/;
+    $iniDatabase=<INFile>;
+    close (INFile);
+  }else{
+    use ReferenceManager::JAbbriDB;
+    $iniDatabase=getJAbbriDB();
+  }
+
+  $hashValRef=getFullName($colName, $hashValRef, $iniDatabase);
+  return $hashValRef;
+}
+#############################################
+
+sub getFullName{
+  my ($colName, $hashValRef, $iniDatabase)=@_;
+  my $JTFull;
+  if ($colName eq "abbr"){
+    foreach my $hashVal (keys %$hashValRef){
+      if ($iniDatabase=~/<fullJName>([^<>]+?)<\/fullJName><with><sortJName>\Q$hashVal\E<\/sortJName>/){
+	$$hashValRef{$hashVal}=$1;
+      }
+    }
+  }elsif ($colName eq "full"){
+    foreach my $hashVal (keys %$hashValRef){
+      if ($iniDatabase=~/<fullJName>\Q$hashVal\E<\/fullJName><with><sortJName>([^<>]+?)<\/sortJName>/){
+	$$hashValRef{$hashVal}=$1;
+      }
+    }
+  }else{
+    #Win32::MsgBox("Wrong column name.", 16, "Column Name Error");
+    exit;
+  }
+  return $hashValRef;
+}
+#############################################
+return 1;
+
+

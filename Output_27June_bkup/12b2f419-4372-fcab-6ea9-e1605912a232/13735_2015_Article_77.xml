@@ -1,0 +1,2262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer London</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalDOI>10.1007/13735.2192-662X</JournalDOI>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCI" Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Code="SCI18059" Priority="1" Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Code="SCI18032" Priority="2" Type="Secondary">Information Storage and Retrieval</JournalSubject>
+        <JournalSubject Code="SCI18040" Priority="3" Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <JournalSubject Code="SCI18030" Priority="4" Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <JournalSubject Code="SCI22021" Priority="5" Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Code="SCI00001" Priority="6" Type="Secondary">Computer Science, general</JournalSubject>
+        <SubjectCollection Code="SC6">Computer Science</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>4</VolumeIDStart>
+        <VolumeIDEnd>4</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>2</IssueIDStart>
+          <IssueIDEnd>2</IssueIDEnd>
+          <IssueTitle Language="En">Special Issue: Concept Detection with Big Data</IssueTitle>
+          <IssueArticleCount>7</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>20</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>19</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-015-0077-0" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>77</ArticleID>
+            <ArticleDOI>10.1007/s13735-015-0077-0</ArticleDOI>
+            <ArticleSequenceNumber>2</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">On-the-fly learning for visual search of large-scale image and video datasets</ArticleTitle>
+            <ArticleCategory>Regular Paper</ArticleCategory>
+            <ArticleFirstPage>75</ArticleFirstPage>
+            <ArticleLastPage>93</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+              </Received>
+              <Revised>
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+              </Revised>
+              <Accepted>
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>The Author(s)</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+              <License SubType="CC BY" Type="OpenAccess" Version="4.0">
+                <SimplePara>
+                  <Emphasis Type="Bold">Open Access</Emphasis>This article is distributed under the terms of the Creative Commons Attribution License which permits any use, distribution, and reproduction in any medium, provided the original author(s) and the source are credited.</SimplePara>
+              </License>
+            </ArticleCopyright>
+            <ArticleGrants Type="OpenChoice">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1" ID="Au1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ken</GivenName>
+                  <FamilyName>Chatfield</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>ken@robots.ox.ac.uk</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1" ID="Au2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Relja</GivenName>
+                  <FamilyName>Arandjelović</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1" ID="Au3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Omkar</GivenName>
+                  <FamilyName>Parkhi</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1" ID="Au4">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Andrew</GivenName>
+                  <FamilyName>Zisserman</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Visual Geometry Group, Department of Engineering Science</OrgDivision>
+                <OrgName>University of Oxford</OrgName>
+                <OrgAddress>
+                  <City>Oxford</City>
+                  <Country Code="GB">UK</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para ID="Par1">The objective of this work is to visually search large-scale video datasets for semantic entities specified by a text query. The paradigm we explore is constructing visual models for such semantic entities <Emphasis Type="Italic">on-the-fly</Emphasis>, i.e. at run time, by using an image search engine to source visual training data for the text query. The approach combines fast and accurate learning and retrieval, and enables videos to be returned within seconds of specifying a query. We describe three classes of queries, each with its associated visual search method: object instances (using a bag of visual words approach for matching); object categories (using a discriminative classifier for ranking key frames); and faces (using a discriminative classifier for ranking face tracks). We discuss the features suitable for each class of query, for example Fisher vectors or features derived from convolutional neural networks (CNNs), and how these choices impact on the trade-off between three important performance measures for a real-time system of this kind, namely: (1) accuracy, (2) memory footprint, and (3) speed. We also discuss and compare a number of important implementation issues, such as how to remove ‘outliers’ in the downloaded images efficiently, and how to best obtain a single descriptor for a face track. We also sketch the architecture of the real-time on-the-fly system. Quantitative results are given on a number of large-scale image and video benchmarks (e.g.  TRECVID INS, MIRFLICKR-1M), and we further demonstrate the performance and real-world applicability of our methods over a dataset sourced from 10,000 h of unedited footage from BBC News, comprising 5M+ key frames.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Object category retrieval and recognition</Keyword>
+              <Keyword>Object instance retrieval</Keyword>
+              <Keyword>Face retrieval</Keyword>
+              <Keyword>On-the-fly</Keyword>
+              <Keyword>Convolutional neural networks</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para ID="Par2">One of the dreams of large-scale image search is to be able to retrieve images based on their visual content with the same ease, speed and in particular accuracy, as a Google search of the Web. Achieving this objective has been hampered for the most part by a semantic gap between the target category (e.g. ‘Gothic Cathedrals’) and the image features available to represent the data. In this paper we explore a method for bridging the gap by learning from readily available images downloaded from the Web with standard image search engines (such as Google Image search). In this manner the semantic gap is obviated for several types of query (see below), allowing powerful visual models to be constructed on the basis of freeform text queries.</Para>
+              <Para ID="Par3">A second aspect of the objective is to be able to achieve results immediately, and this requires that learning of a category occurs ‘on-the-fly’ at search time, as well as the scalable and immediate search of large-scale datasets. Putting the two together allows a user to start with a text query, learn a visual model for the specified category and then search an unannotated dataset on its visual content with results retrieved within seconds.</Para>
+              <Para ID="Par4">Computer vision researchers saw the potential of image search engines as soon as they were introduced [<CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR31">31</CitationRef>, <CitationRef CitationID="CR33">33</CitationRef>, <CitationRef CitationID="CR45">45</CitationRef>]. Early papers were concerned with improving the quality of the returned images, for example by reranking based on visual consistency to promote the target class. However, due to click-through crowd sourcing, the quality of the images is now extremely high over a vast variation of queries, to the extent that for most queries the first 100 or so top-ranking images are for the most part free of non-class images. The problem of visual polysemy still remains [<CitationRef CitationID="CR45">45</CitationRef>], (e.g. ‘Jaguar’ the car versus ‘jaguar’ the cat), but to an extent this can be avoided by more specific search queries (‘Jaguar car’ or ‘jaguar cat’) or by employing the clusters automatically provided by the search engines.</Para>
+              <Para ID="Par5">Learning on-the-fly from a reservoir of annotated images (the Web or proprietary datasets) has been investigated by a number of groups, including [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR18">18</CitationRef>, <CitationRef CitationID="CR34">34</CitationRef>, <CitationRef CitationID="CR39">39</CitationRef>, <CitationRef CitationID="CR48">48</CitationRef>, <CitationRef CitationID="CR52">52</CitationRef>]. Such learning is in contrast to the more conventional approach of using hand-curated collections of positive and negative training images, such as PASCAL VOC [<CitationRef CitationID="CR15">15</CitationRef>] or ImageNet [<CitationRef CitationID="CR12">12</CitationRef>], where the set of categories is preset. On-the-fly learning offers a way to overcome the ‘closed world’ problem in computer vision, where object category recognition systems are restricted to only these pre-defined categories. There are applications to searching video archives, such as those of the BBC, and to searching personal image and video collections [<CitationRef CitationID="CR29">29</CitationRef>, <CitationRef CitationID="CR30">30</CitationRef>], since both archives and personal collections have only sparse textual annotations at best.</Para>
+              <Para ID="Par6">This paper explores learning on-the-fly starting from a text query for immediate retrieval from large-scale video datasets, although the methods are equally applicable to image datasets. In the following we describe approaches suitable for learning and retrieving three classes of queries from downloaded images, each using a different technology. First, in Sect. <InternalRef RefID="Sec2">2</InternalRef>, we consider <Emphasis Type="Italic">object and scene instances</Emphasis> such as specific places, scenes or objects, e.g. the White House, the Mona Lisa painting and an HSBC logo. We compare a number of methods of using an image set for retrieval and also describe a method for learning from noisy labels, namely, the query object is inferred from the downloaded image set by very efficiently identifying and eliminating any ‘outlier’ images. Second, in Sect. <InternalRef RefID="Sec11">3</InternalRef>, we consider <Emphasis Type="Italic">object and scene categories</Emphasis> such as cars, crowds, and forests. The difference with the instance case is that a discriminative approach is used, requiring negative training images in addition to the ‘positive’ downloaded training images for the target category. Third, Sect. <InternalRef RefID="Sec16">4</InternalRef> describes an approach for <Emphasis Type="Italic">face</Emphasis> retrieval, for example to search for a particular person, such as President Obama. This also uses discriminative learning, but applied to tracked faces, rather than to individual images/key frames used in the instance and category search.</Para>
+              <Para ID="Par7">We then describe an architecture that allows these three approaches to be employed in an on-the-fly manner (Sect. <InternalRef RefID="Sec21">5</InternalRef>), where text-to-image search using e.g. Google Image Search as the source of training images allows videos to be retrieved from large-scale datasets in a matter of seconds. We give particular attention to the retrieval performance/memory/speed trade-off inherent to such a system.</Para>
+              <Para ID="Par8">Throughout the paper we provide quantitative evaluations on a number of standard large-scale video datasets, including MIRFLICKR-1M [<CitationRef CitationID="CR19">19</CitationRef>, <CitationRef CitationID="CR20">20</CitationRef>] and TRECVID [<CitationRef CitationID="CR36">36</CitationRef>, <CitationRef CitationID="CR37">37</CitationRef>], and qualitative examples on a video dataset provided by the BBC of News broadcasts. This covers all news programmes broadcast over all BBC channels from 6 pm until midnight from 2007 to 2012. It consists of 10,132 h of footage from 17,401 different programmes, and is represented by 5,297,206 key frames.</Para>
+              <Para ID="Par9">This submission builds on a number of our previous conference papers [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR39">39</CitationRef>].</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Object instance retrieval</Heading>
+              <Para ID="Par10">Here, we describe the first search modality, namely searching for specific object instances, such as specific buildings, logos and paintings in a large-scale image database. The aim of this specific object search is to instantaneously find key frames that contain the query object in the video dataset despite changes in scale, viewpoint, cropping and partial occlusion. This competence is useful in a number of settings, for example media production teams are interested in searching internal databases for images or video footage to accompany news reports and newspaper articles.</Para>
+              <Para ID="Par11">Current systems, for example Google Goggles, concentrate on querying using a single view of an object, e.g. a photo a user takes with his mobile phone, to answer the question ‘what is this?’. Here, we consider the somewhat converse problem of finding <Emphasis Type="Italic">all</Emphasis> images of an object given that the user knows what he is looking for; so the input modality is text, not an image. The problem is tackled in two stages: textual Google Image search is used to gather crowd-sourced images of the textual query, which are then in turn used to issue a visual query to search our image database.</Para>
+              <Para ID="Par12">A question arises as to how to use multiple query images (the query set), as current systems only issue a single visual query at a time. We propose three methods for doing this: method (i) uses the query set jointly to issue a single query (<Emphasis Type="Italic">early fusion</Emphasis>), while methods (ii) and (iii) issue a query for each image in the query set and combine the retrieved results (<Emphasis Type="Italic">late fusion</Emphasis>). The three methods are described next.</Para>
+              <Section2 ID="Sec3">
+                <Heading>Retrieval methods</Heading>
+                <Para ID="Par14">
+                  <Emphasis Type="Italic">(i) Joint concatenated query (Joint-Concat)</Emphasis> Similar to the average query expansion method of [<CitationRef CitationID="CR11">11</CitationRef>], all descriptors from all images in the query set are concatenated into a single set of query descriptors, which is then used to rank database images using an existing single-query retrieval method.</Para>
+                <Para ID="Par15">
+                  <Emphasis Type="Italic">(ii) Maximum of multiple queries (MQ-Max)</Emphasis> A query is issued for each image in the query set independently and retrieved ranked lists are combined by scoring each retrieved image by the maximum of the individual scores obtained from each query.</Para>
+                <Para ID="Par16">
+                  <Emphasis Type="Italic">(iii) Average of multiple queries (MQ-Avg)</Emphasis> Similar to (ii), but the ranked lists are combined by scoring each retrieved image by the average of the individual scores obtained from each query.</Para>
+                <Para ID="Par17">In [<CitationRef CitationID="CR1">1</CitationRef>] we introduced two additional methods which use discriminative learning. However, these were found not to perform significantly differently to the other non-discriminative methods used here and are not compatible with the underlying Hamming embedding retrieval system (Sect. <InternalRef RefID="Sec5">2.3</InternalRef>).</Para>
+              </Section2>
+              <Section2 ID="Sec4">
+                <Heading>Spatial reranking</Heading>
+                <Para ID="Par18">Precision of a retrieval system can be improved by reranking images based on their spatial consistency [<CitationRef CitationID="CR42">42</CitationRef>, <CitationRef CitationID="CR47">47</CitationRef>] with the query. Since spatial consistency estimation is computationally relatively costly, only a short list of top-ranked results is reranked. We use the spatial reranking method of Philbin et al.  [<CitationRef CitationID="CR42">42</CitationRef>] which reranks images based on the number of matching descriptors consistent with an affine transformation (inliers) between the query and the database image.</Para>
+                <Para ID="Par19">Here, we explain how to perform spatial reranking when multiple queries are used. For fair comparison of different methods, it is important to fix the total number of spatial transformation estimations and fix it to <InlineEquation ID="IEq1">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$R=200$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mrow>
+                          <mi>R</mi>
+                          <mo>=</mo>
+                          <mn>200</mn>
+                        </mrow>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> per image in the query set of size <InlineEquation ID="IEq2">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mi>N</mi>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation>.</Para>
+                <Para ID="Par20">For the <Emphasis Type="Italic">Joint-Concat</Emphasis> method which performs a single query, reranking is performed on the top <InlineEquation ID="IEq3">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$R$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mi>R</mi>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> results. Images are reranked based on the average number of inliers across images in the query set. The number of spatial transformation estimations is thus <InlineEquation ID="IEq4">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N \times R$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mrow>
+                          <mi>N</mi>
+                          <mo>×</mo>
+                          <mi>R</mi>
+                        </mrow>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation>.</Para>
+                <Para ID="Par21">For methods <Emphasis Type="Italic">MQ-Max</Emphasis> and <Emphasis Type="Italic">MQ-Avg</Emphasis> which issue <InlineEquation ID="IEq5">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mi>N</mi>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> queries each, reranking is performed for each query independently before combining the retrieved lists. For a particular query (one of <InlineEquation ID="IEq6">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mi>N</mi>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation>), reranking is done on the top <InlineEquation ID="IEq7">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$R$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mi>R</mi>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> results using only the queried image. The number of spatial transformation estimations is thus, again, <InlineEquation ID="IEq8">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N \times R$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mrow>
+                          <mi>N</mi>
+                          <mo>×</mo>
+                          <mi>R</mi>
+                        </mrow>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation>.</Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Underlying single query image retrieval system</Heading>
+                <Para ID="Par22">All methods in Sect. <InternalRef RefID="Sec3">2.1</InternalRef> make use of a standard single query retrieval system—<Emphasis Type="Italic">Joint-Concat</Emphasis> uses it to query with the concatenated query set, while <Emphasis Type="Italic">MQ-Max</Emphasis> and <Emphasis Type="Italic">MQ-Avg</Emphasis> use it to query with each query image independently. To this end, we implemented the Hamming embedding retrieval system [<CitationRef CitationID="CR23">23</CitationRef>] with burstiness normalization [<CitationRef CitationID="CR24">24</CitationRef>]. RootSIFT [<CitationRef CitationID="CR2">2</CitationRef>] descriptors are extracted from the affine-Hessian interest points [<CitationRef CitationID="CR35">35</CitationRef>], quantized into 100k visual words, and a 64-bit Hamming embedding [<CitationRef CitationID="CR23">23</CitationRef>] signature is stored together with each feature to improve feature matching precision. Two features are deemed to match if they are assigned to the same visual word and their Hamming signatures are within a standard threshold of 24 on the Hamming distance [<CitationRef CitationID="CR23">23</CitationRef>, <CitationRef CitationID="CR51">51</CitationRef>]. For a given query, a similarity score for a database image is obtained by summing all the Gaussian weighted votes of the image’s matching features (a standard parameter value of <InlineEquation ID="IEq9">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\sigma =16$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mrow>
+                          <mi mathvariant="italic">σ</mi>
+                          <mo>=</mo>
+                          <mn>16</mn>
+                        </mrow>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> is used, as in [<CitationRef CitationID="CR24">24</CitationRef>, <CitationRef CitationID="CR51">51</CitationRef>]). Finally, burstiness normalization of [<CitationRef CitationID="CR24">24</CitationRef>] is applied as well. We follow the common practice [<CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR23">23</CitationRef>, <CitationRef CitationID="CR43">43</CitationRef>] of using an independent dataset, Paris 6k [<CitationRef CitationID="CR43">43</CitationRef>], for all training, i.e. computation of the visual vocabulary and Hamming embedding parameters.</Para>
+                <Para ID="Par23">Spatial reranking is performed on the top <InlineEquation ID="IEq10">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$R=200$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mrow>
+                          <mi>R</mi>
+                          <mo>=</mo>
+                          <mn>200</mn>
+                        </mrow>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> retrieved results using an affine transformation [<CitationRef CitationID="CR42">42</CitationRef>]. To alleviate quantization errors, multiple assignment [<CitationRef CitationID="CR43">43</CitationRef>] to three nearest visual words is performed, but so as not to increase memory requirements this is done on query features only, as in [<CitationRef CitationID="CR25">25</CitationRef>].</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Query set outlier removal</Heading>
+                <Para ID="Par24">The methods discussed thus far assume that the query image set is outlier free and tries to retrieve all database images relevant to all images in the query set. However, it is often useful to be able to form query sets automatically by crawling images from the Internet, as will be shown in Sect. <InternalRef RefID="Sec21">5</InternalRef> which uses textual Google Image search for this task. Such query sets which are not manually curated by a user often contain outliers because of imperfect search results, as well as inherent ambiguity in textual queries. An example is shown in Fig. <InternalRef RefID="Fig1">1</InternalRef> where a textual search for the ‘Electronic Arts’ company retrieves many relevant images from Google Image search which contain the recognizable EA letters, but there are also many outliers, including music for the book ‘The electronic arts of sound and light’, a digital drawing, a building facade and a game made by Electronic Arts which does not contain their logo.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Automatic outlier removal. The top 18 images retrieved from textual Google Image search with the query ‘Electronic Arts’. Our automatic outlier removal procedure filters out all the outliers (shown with <Emphasis Type="Italic">red border</Emphasis>), while only making one mistake (false removal: <Emphasis Type="Italic">second row</Emphasis>, <Emphasis Type="Italic">second from left</Emphasis>). It is important to note that the visual diversity is preserved and surviving images contain: dark EA on bright background, bright EA on dark background, small-resolution EA logos (<Emphasis Type="Italic">second row</Emphasis>, fourth image, the <Emphasis Type="Italic">bottom right corner</Emphasis> contains the small logo), etc</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para ID="Par25">We propose performing automatic outlier removal of images in the query set based on visual information. A key design goal is to remove outliers while maintaining visual diversity, as visual diversity is required for large recall. To this end, we employ a relatively loose consistency check where an image is deemed to be an outlier only if it is not similar enough to any other image in the query set. Two images are deemed to be similar enough if they share at least four matching descriptors. A descriptor match is defined in the standard way for a retrieval system which uses Hamming embedding (Sect. <InternalRef RefID="Sec5">2.3</InternalRef>), namely two descriptors match if they are assigned to the same visual word and their Hamming signatures are within a threshold on the Hamming distance; here, a tight threshold of 16 (for 64-bit signatures) is employed. The procedure is motivated by the work of Tolias and Jégou [<CitationRef CitationID="CR51">51</CitationRef>] who demonstrate that accurate descriptor matching is sufficient for selection of reliable images for query expansion, without the need for using any geometric information traditionally required for query expansion [<CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR11">11</CitationRef>]. Figure <InternalRef RefID="Fig1">1</InternalRef> shows results of the automatic removal of outlier images in the query set.</Para>
+                <Para ID="Par26">Finally, outlier removal can be done very efficiently as it only requires pairwise Hamming distances to be computed between descriptors in the query set, and Hamming distance computation can be performed very fast on modern CPUs. Furthermore, the distances need to be computed only between descriptors assigned to the same visual word. While easily parallelizable, the entire procedure only takes 4 ms on average using a single thread.</Para>
+              </Section2>
+              <Section2 ID="Sec7">
+                <Heading>Evaluation and results</Heading>
+                <Para ID="Par29">In this section we assess the retrieval performance of our multiple query methods by comparing them to a standard single query system, and compare them to each other.</Para>
+                <Section3 ID="Sec8">
+                  <Heading>Dataset and evaluation procedure</Heading>
+                  <Para ID="Par30">The retrieval performance of the proposed methods is evaluated using standard and publicly available Oxford Buildings [<CitationRef CitationID="CR42">42</CitationRef>] visual object retrieval benchmark. This dataset contains 5062 high-resolution images automatically downloaded from Flickr. It defines 55 queries (consisting of an image and query region of interest) used for evaluation (5 for each of the 11 chosen Oxford landmarks) and it is quite challenging due to substantial variations in scale, viewpoint and lighting conditions. The basic dataset, often referred to as <Emphasis Type="Italic">Oxford 5k</Emphasis>, is usually appended with another 100k Flickr images to test large-scale retrieval, thus forming the <Emphasis Type="Italic">Oxford 105k</Emphasis> dataset. Retrieval performance is measured in terms of mean average precision (mAP).</Para>
+                  <Para ID="Par31">The standard evaluation protocol needs to be modified for our task as it was originally set up to evaluate single-query methods. We perform 11 queries, 1 per each predefined landmark; the performance is still measured using mAP.</Para>
+                  <Para ID="Par32">Our methods are evaluated in two modes of operation depending on the source of the query set: one using the five predefined queries per landmark (Oxford queries, OQ), and the other using the top eight Google Image search results for the landmark names (Google queries, GQ), chosen by the user to make sure the images contain the object of interest. The images in the Oxford Building dataset were obtained by crawling Flickr, so we append a ‘-flickr’ flag to the textual Google Image search to avoid downloading exactly the images from the Oxford dataset which would artificially boost our performance. Note that the region of interest (ROI) is not provided for the GQ case, which makes this task more challenging.</Para>
+                </Section3>
+                <Section3 ID="Sec9">
+                  <Heading>Baselines</Heading>
+                  <Para ID="Par33">We compare our methods which use multiple query images to those that use a single image to query. For the Oxford queries (OQ) case the queries are the 55 predefined ones for the dataset, while for the Google queries (GQ) case thses are the 88 images downloaded from Google Image search. The two proposed baselines use exactly the same descriptors and vocabulary as our multiple query methods.</Para>
+                  <Para ID="Par34">
+                    <Emphasis Type="Italic">Single query</Emphasis> A natural baseline to compare to is the system of Jégou et al. as described in [<CitationRef CitationID="CR24">24</CitationRef>] with extensions of Sect. <InternalRef RefID="Sec5">2.3</InternalRef>. The AP for each of the 11 query landmarks is computed as the average AP across single queries for that landmark.</Para>
+                  <Para ID="Par35">
+                    <Emphasis Type="Italic">Single query oracle (‘cheating’)</Emphasis> The <Emphasis Type="Italic">single query</Emphasis> method is used to rank images using each query from the query set (the same query sets are used as for our multiple query methods) and the best performing query is kept. This method cannot be used in a real-world system as it requires an oracle (i.e. looks up ground truth).</Para>
+                </Section3>
+              </Section2>
+              <Section2 ID="Sec10">
+                <Heading>Results and discussion</Heading>
+                <Para ID="Par36">Figure <InternalRef RefID="Fig2">2</InternalRef> shows a few examples of textual queries and the retrieved results. Note the ability of the system to retrieve specific objects (e.g. the Ashmolean museum in Fig. <InternalRef RefID="Fig2">2</InternalRef>b) as well as sets of relevant objects (e.g. different Oxford museums in Fig. <InternalRef RefID="Fig2">2</InternalRef>e) without explicitly determining the specific/general mode of operation.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Query terms and top retrieved images from the Oxford 5k dataset. The captions show the textual queries used to download images from Google to form the query set. The top 20 images were used, without any user feedback to select the relevant one; the results are generated with the <Emphasis Type="Italic">MQ-Max</Emphasis> method. Specific (<Emphasis Type="Bold">a</Emphasis>, <Emphasis Type="Bold">b</Emphasis>) and broad (<Emphasis Type="Bold">c</Emphasis>, <Emphasis Type="Bold">e</Emphasis>) queries are automatically handled without special considerations. <Emphasis Type="Bold">e</Emphasis> Searching for ‘Museum, Oxford’, which is a broader query than <Emphasis Type="Bold">b</Emphasis>, yields in the top 16 results photos of three Oxford museums and a photo from the interior of one of them</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig2_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para ID="Par37">Table <InternalRef RefID="Tab1">1</InternalRef> shows the retrieval performance on the Oxford 105k dataset. It can be seen that all the multiple query methods are superior to the ‘single query’ baseline, improving the performance by 41 and 78 % for the Oxford queries and Google queries (without spatial reranking or multiple assignment), respectively. It is clear that using multiple queries is indeed very beneficial, as the best performance using Oxford queries (0.891) is better than the best reported result using a single query (0.850 achieved by [<CitationRef CitationID="CR50">50</CitationRef>]. The method uses query expansion, so in a sense it does make use of multiple images); it is even on par with the state of the art on a much easier Oxford 5k dataset ([<CitationRef CitationID="CR51">51</CitationRef>]: 0.894). All the multiple query methods also beat the ‘single query oracle’ method which uses ground truth to determine which one of the images from the query set is best to be used to issue a single query.<Table Float="Yes" ID="Tab1">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Retrieval performance (mAP) of the proposed instance search methods on the Oxford 105k dataset</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="9">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <colspec align="left" colname="c6" colnum="6"/>
+                      <colspec align="left" colname="c7" colnum="7"/>
+                      <colspec align="left" colname="c8" colnum="8"/>
+                      <colspec align="left" colname="c9" colnum="9"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1" morerows="1"/>
+                          <entry align="left" nameend="c5" namest="c2">
+                            <SimplePara>Google queries (GQ)</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c9" namest="c6">
+                            <SimplePara>Oxford queries (OQ)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c2"/>
+                          <entry align="left" colname="c3">
+                            <SimplePara>SR</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>MA</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>MA + SR</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6"/>
+                          <entry align="left" colname="c7">
+                            <SimplePara>SR</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>MA</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>MA + SR</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Single query</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.433</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.479</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.492</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.524</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.616</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.665</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>0.682</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>0.729</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Single query oracle</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.733</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.762</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.779</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.800</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.754</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.816</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>0.814</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>0.849</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Joint-Concat</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.789</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.798</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.788</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.812</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.863</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.878</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>0.874</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>0.887</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>MQ-Max</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.664</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.778</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.707</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.801</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.814</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.861</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>0.843</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>0.881</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>MQ-Avg</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.765</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.796</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.783</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.821</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.868</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.880</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>0.876</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>0.891</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>SR and MA stand for spatial reranking and multiple assignment, respectively. The source of the query images is either five predefined images (‘Oxford queries’) images, or the top eight Google images which contain the queried object (‘Google queries’). Details of the evaluation procedure, baselines and proposed methods are given in Sects. <InternalRef RefID="Sec8">2.5.1</InternalRef>, <InternalRef RefID="Sec9">2.5.2</InternalRef> and <InternalRef RefID="Sec3">2.1</InternalRef>, respectively. All proposed methods significantly outperform the ‘single query’ and ‘single query oracle’ baselines</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para ID="Par38">From the quantitative evaluation it is clear that multiple query methods are very beneficial for achieving higher recall of images containing the queried object; however, it is not yet clear which of the three proposed methods should be used, as all of them perform very well on the Oxford 105k benchmark. Thus, we next analyse the performance of various methods qualitatively on the BBC News dataset (introduced in Sect. <InternalRef RefID="Sec1">1</InternalRef>) and show two representative queries and their outputs in Fig. <InternalRef RefID="Fig3">3</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Multiple query instance retrieval on BBC News dataset. <Emphasis Type="Bold">a</Emphasis>–<Emphasis Type="Bold">d</Emphasis> Two different textual queries and retrieval results of <Emphasis Type="Italic">MQ-Avg</Emphasis> and <Emphasis Type="Italic">MQ-Max</Emphasis> methods. The <Emphasis Type="Italic">Joint-Concat</Emphasis> method is omitted for space reasons, but its behaviour is quite similar to <Emphasis Type="Italic">MQ-Avg</Emphasis>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig3_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para ID="Par39">The <Emphasis Type="Italic">MQ-Max</Emphasis> method clearly retrieves more diverse results than <Emphasis Type="Italic">MQ-Avg</Emphasis> and <Emphasis Type="Italic">Joint-Concat</Emphasis> (due to lack of space we do not show <Emphasis Type="Italic">Joint-Concat</Emphasis>, but its behaviour is similar to <Emphasis Type="Italic">MQ-Avg</Emphasis>)—this is because taking the maximal score of the retrieved lists enables it to rank an image highly based on a strong match with a single query image from the query set. The other two methods which average the scores downweigh potential challenging examples even if they match very well with one query image, thus only retrieving ‘canonical’ views of an object. For example, while <Emphasis Type="Italic">MQ-Avg</Emphasis> retrieves mostly frontal views of Buckingham Palace (Fig. <InternalRef RefID="Fig3">3</InternalRef>b), <Emphasis Type="Italic">MQ-Max</Emphasis> manages to find a few more challenging images (Fig. <InternalRef RefID="Fig3">3</InternalRef>a): an image from a newspaper, more side views, as well as one photo from its interior. Similarly, <Emphasis Type="Italic">MQ-Avg</Emphasis> finds Coca Cola logos mostly coming from ads in football games (Fig. <InternalRef RefID="Fig3">3</InternalRef>c), while <Emphasis Type="Italic">MQ-Max</Emphasis> discovers extra images where the logo appears in a news studio and on a list of FIFA partners (Fig. <InternalRef RefID="Fig3">3</InternalRef>d).</Para>
+                <Para ID="Par40">It is also interesting to compare <Emphasis Type="Italic">MQ-Avg</Emphasis> with <Emphasis Type="Italic">Joint-Concat</Emphasis> to understand whether it is better to issue multiple queries and then merge the resulting ranked lists (the <Emphasis Type="Italic">MQ-</Emphasis>approaches), or to have a joint representation of the query set and perform a single query (<Emphasis Type="Italic">Joint-Avg</Emphasis>). In our qualitative investigations, we observed that the ‘multiple queries’ approach performed better. The argument for this is similar to those made in favour of the <Emphasis Type="Italic">MQ-Max</Emphasis> method, namely that it is beneficial to be able to find close matches to each individual query image. Furthermore, we believe that the spatial reranking procedure (Sect. <InternalRef RefID="Sec4">2.2</InternalRef>) of the <Emphasis Type="Italic">MQ-</Emphasis>methods is more efficient—estimation of a spatial transformation between a query image and a short list is conducted on the short list obtained from the corresponding query image, while for <Emphasis Type="Italic">Joint-Concat</Emphasis>, where only a single ‘global’ short list is available, many attempts at spatial verification are wasted on using irrelevant query images. Another positive aspect of the ‘multiple queries’ methods is that they can be parallelized very easily—each query is independent and can be handled in a separate parallel thread.</Para>
+                <Para ID="Par41">Finally, taking all aspects into consideration, we conclude that the method of choice for multiple query retrieval is <Emphasis Type="Italic">MQ-Max</Emphasis>, where each image from the query set is queried on independently and max-pooling is applied to the retrieved sets of results.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec11">
+              <Heading>Object category retrieval</Heading>
+              <Para ID="Par42">In contrast to the instance retrieval modality described in the previous section, which excels at finding specific objects (e.g. find all images of Westminster Cathedral), the object category modality is designed to handle queries of a broader nature (e.g. find images of <Emphasis Type="Italic">all</Emphasis> cathedrals).</Para>
+              <Para ID="Par43">The structure of a typical object category retrieval pipeline is illustrated in Fig. <InternalRef RefID="Fig4">4</InternalRef>. In contrast to the instance retrieval setting, a learning stage is introduced in the form of a support vector machine. By training the SVM with a selection of positive training images that sufficiently capture both the commonalities and differences of appearance that occur within a class, more general queries are possible than with the instance retrieval modality.<Figure Category="Standard" Float="Yes" ID="Fig4">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 4</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Architecture of a typical object category retrieval pipeline. Positive and negative training images can be either sourced from a separate training split of the target dataset, or from some other source such as Google Image search</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO4">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Section2 ID="Sec12">
+                <Heading>Visual features</Heading>
+                <Para ID="Par44">Perhaps, the single most important design choice in such a pipeline is the selection of the image encoding function <InlineEquation ID="IEq11">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\phi (I)$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mrow>
+                          <mi mathvariant="italic">ϕ</mi>
+                          <mo stretchy="false">(</mo>
+                          <mi>I</mi>
+                          <mo stretchy="false">)</mo>
+                        </mrow>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation>. We build on research that shows that deep ConvNet features significantly outperform shallow features, such as Fisher vectors [<CitationRef CitationID="CR6">6</CitationRef>, <CitationRef CitationID="CR41">41</CitationRef>], on the image classification task [<CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR28">28</CitationRef>, <CitationRef CitationID="CR53">53</CitationRef>].</Para>
+                <Para ID="Par45">As shown in [<CitationRef CitationID="CR13">13</CitationRef>, <CitationRef CitationID="CR53">53</CitationRef>], the vector of activities <InlineEquation ID="IEq12">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\phi _{\mathrm {CNN}}(I)$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mrow>
+                          <msub>
+                            <mi mathvariant="italic">ϕ</mi>
+                            <mi mathvariant="normal">CNN</mi>
+                          </msub>
+                          <mrow>
+                            <mo stretchy="false">(</mo>
+                            <mi>I</mi>
+                            <mo stretchy="false">)</mo>
+                          </mrow>
+                        </mrow>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> of the penultimate layer of a deep CNN, learnt on a large dataset such as ImageNet [<CitationRef CitationID="CR12">12</CitationRef>], can be used as a powerful image descriptor applicable to other datasets. We used code based on the open source Caffe framework [<CitationRef CitationID="CR27">27</CitationRef>] to pre-train our CNN model, using the settings described for the CNN-M network in Chatfield et al. [<CitationRef CitationID="CR7">7</CitationRef>].</Para>
+                <Para ID="Par46">Aside from providing state-of-the-art retrieval performance, one advantage that ConvNet-based features have over other alternative representations is that they are very compact. Furthermore, Chatfield et al. [<CitationRef CitationID="CR7">7</CitationRef>] have shown that the underlying network can be retrained to output features as low as 128-D, all without compromising significantly on retrieval performance (a drop of only <InlineEquation ID="IEq13">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\sim $$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mo>∼</mo>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation>2 % is observed). We therefore similarly set the dimensionality of our feature layer to 128-D.</Para>
+                <Para ID="Par47">
+                  <Emphasis Type="Italic">Compression</Emphasis> Optionally, these already very compact codes can be compressed further using binary compression methods. We explore the use of <Emphasis Type="Italic">product quantization (PQ)</Emphasis>, which has been widely used as a compression method for image features [<CitationRef CitationID="CR26">26</CitationRef>, <CitationRef CitationID="CR44">44</CitationRef>] and works by splitting the original feature into <InlineEquation ID="IEq14">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$Q$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mi>Q</mi>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation>-dimensional sub-blocks, each of which is encoded using a separate vocabulary of cluster centres pre-learned from a training set. We explore compression using <InlineEquation ID="IEq15">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$Q=4,8$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mrow>
+                          <mi>Q</mi>
+                          <mo>=</mo>
+                          <mn>4</mn>
+                          <mo>,</mo>
+                          <mn>8</mn>
+                        </mrow>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation>-dimensional sub-blocks.</Para>
+              </Section2>
+              <Section2 ID="Sec13">
+                <Heading>Experiments and evaluation protocol</Heading>
+                <Para ID="Par48">We quantitatively evaluate the retrieval performance of the system using two datasets:</Para>
+                <Para ID="Par49">
+                  <Emphasis Type="Italic">PASCAL VOC 2007</Emphasis> [<CitationRef CitationID="CR15">15</CitationRef>] comprises around 10,000 images downloaded from the photo-sharing site Flickr. We use the provided train and validation splits for training, and the test split for testing. Full annotation is provided for 20 different object classes within those images, and we use these classes as the basis of our evaluation. This dataset is used to provide a baseline evaluation of our system across a standard and widely used object category retrieval benchmark.</Para>
+                <Para ID="Par50">
+                  <Emphasis Type="Italic">MIRFLICKR-1M</Emphasis> [<CitationRef CitationID="CR19">19</CitationRef>, <CitationRef CitationID="CR20">20</CitationRef>] is a much larger dataset, comprising 1M unannotated images (aside from quite noisy image tags). The dataset represents a snapshot of images taken by popularity also from the image-sharing site Flickr, and thus is more representative of typical Web-based consumer photography than ImageNet [<CitationRef CitationID="CR12">12</CitationRef>], which although also sourced from Flickr was collected through queries for often very specific terms from WordNet. This dataset is used to provide an evaluation of our system in a more realistic large-scale setting.</Para>
+                <Para ID="Par51">Finally, we evaluate the performance of our methods qualitatively over the BBC News dataset described in Sect. <InternalRef RefID="Sec1">1</InternalRef>.</Para>
+                <Section3 ID="Sec14">
+                  <Heading>Evaluation protocol</Heading>
+                  <Para ID="Par53">In all cases, we are interested in evaluating the performance within an object category retrieval setting, and so measuring the ‘goodness’ of the first few pages of retrieved results is critical. We therefore evaluate using precision at <InlineEquation ID="IEq16">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>K</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>, where <InlineEquation ID="IEq17">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K=100$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mrow>
+                            <mi>K</mi>
+                            <mo>=</mo>
+                            <mn>100</mn>
+                          </mrow>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>, on the basis that the larger the proportion of true positives for a given object category at the top of a ranked list, the better is the perceived performance.</Para>
+                  <Para ID="Par54">Adopting such an evaluation protocol also has the advantage that we are able to use the 1M images from the MIRFLICKR-1M dataset despite the fact that full annotations are not provided. Since we only need to consider the top <InlineEquation ID="IEq18">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>K</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> of the ranked list for each class during evaluation, we can take a ‘lazy’ approach to annotating the MIRFLICKR-1M dataset, annotating instances of each PASCAL VOC class only as far down the ranked list as necessary to generate a complete annotation for the top-<InlineEquation ID="IEq19">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$K$$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mi>K</mi>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation> results. This avoids having to generate a full set of annotation for all 1M images.</Para>
+                  <Para ID="Par55">We investigate two training scenarios. In the first we use the PASCAL VOC classes and the training split from the PASCAL VOC 2007 dataset to train our classifier. Secondly, we switch over to the use of training data from Google Image search. This is to test how the system responds in a more realistic retrieval scenario, where training data is sourced on-the-fly. A fixed pool of <InlineEquation ID="IEq20">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\sim $$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mo>∼</mo>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>16,000 negative training images is sourced from the Web by issuing queries for a set of fixed ‘negative’ query terms<Footnote ID="Fn1">
+                      <Para ID="Par56">Miscellanea, random selection, photo random selection, random objects, random things, nothing in particular, photos of stuff, random photos, random stuff, things.</Para>
+                    </Footnote> to both Google and Bing Image search, and attempting to download the first 1000 results in each case, and for each class around <InlineEquation ID="IEq21">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\sim $$]]></EquationSource>
+                      <EquationSource Format="MATHML"><![CDATA[
+                                ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <mo>∼</mo>
+                        </math><![CDATA[
+                            ]]></EquationSource>
+                    </InlineEquation>1000 positive training images are retrieved.</Para>
+                </Section3>
+              </Section2>
+              <Section2 ID="Sec15">
+                <Heading>Results and analysis</Heading>
+                <Para ID="Par57">The results of our experiments over both VOC 2007 and the MIRFLICKR-1M dataset are presented in Table <InternalRef RefID="Tab2">2</InternalRef>. We first explore the performance of the pipeline using the VOC train split for training and the VOC test split for evaluation. This provides a good baseline of the performance of our features on a standard retrieval benchmark, and the features perform excellently with even the worst performing classes (‘cow’ and ‘bottle’) yielding 88 % precision at 100, and 13 out of the 20 classes performing at a perfect 100 % precision at 100.<Table Float="Yes" ID="Tab2">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Object category retrieval results (Mean Prec @ 100) over the PASCAL VOC 2007 and MIRFLICKR-1M datasets</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="7">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <colspec align="left" colname="c6" colnum="6"/>
+                      <colspec align="left" colname="c7" colnum="7"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1" morerows="1"/>
+                          <entry align="left" colname="c2" morerows="1"/>
+                          <entry align="left" nameend="c4" namest="c3">
+                            <SimplePara>VOC training</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>Google training</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6" morerows="1">
+                            <SimplePara>Storage/1M ims. (MB)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7" morerows="1">
+                            <SimplePara>Comp. time/im (s)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c3">
+                            <SimplePara>VOC 2007</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>MIRFLICKR</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>MIRFLICKR</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>(a) CNN</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>128</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>92.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>95.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>92.3</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>488</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.34 (0.061)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>(b) CNN</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>128 PQ</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>90.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>94.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>92.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>30.5</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>+3.9 ms</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>(c) CNN</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>128 PQ-8</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>88.8</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>93.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>91.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>15.3</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>+2.0 ms</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>
+                        <Emphasis Type="Italic">PQ</Emphasis> and <Emphasis Type="Italic">PQ-8</Emphasis> indicate the application of product quantization to compress the codes, using 4-dimension and 8-dimension subquantizers, respectively. Storage and computation time for each representation are also given</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para ID="Par58">Switching to the MIRFLICKR-1M dataset, but still using the VOC training data, actually results in a slight improvement of the performance across the board. This scenario provides a closer representation of the performance of a real-world on-the-fly object category retrieval system, given that the image statistics of the MIRFLICKR-1M dataset are not known in advance, and the good performance indicates that the pipeline is able to scale to a larger, uncurated dataset, with the greater diversity of images that is implied.</Para>
+                <Para ID="Par59">Finally, switching over to the use of training data from Google Image search in place of the VOC training split and again evaluating over the MIRFLICKR-1M dataset as expected result in a small drop in performance (<InlineEquation ID="IEq22">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\sim $$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mo>∼</mo>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation>2–3 %) for all methods. Nonetheless, the average precision at 100 in all cases remains above 90 %, indicating that despite cross-domain issues the training data from Google Image search combined with our CNN-based visual features are descriptive enough to tackle all of the PASCAL VOC classes.</Para>
+                <Para ID="Par60">Some sample ranking results for some of the VOC classes are shown in Fig. <InternalRef RefID="Fig5">5</InternalRef> using training images from Google Image search. However, as mentioned earlier the advantage of an on-the-fly architecture is that no limitation is imposed on the object categories which can be queried for, as a new classifier can be trained on demand. We present sample ranking results for some query terms disjunct from the 20 PASCAL VOC classes in Fig. <InternalRef RefID="Fig6">6</InternalRef> to demonstrate that the architecture is very much generalizable to query terms outside of the PASCAL category hierarchy.<Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Object category ranking results over the MIRFLICKR-1M dataset (queries within the PASCAL VOC classes)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO5">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig5_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                  <Figure Category="Standard" Float="Yes" ID="Fig6">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Object category ranking results over the MIRFLICKR-1M dataset (queries outside the PASCAL VOC classes)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO6">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig6_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para ID="Par61">
+                  <Emphasis Type="Italic">Results over BBC News dataset</Emphasis> Some sample ranking results over the BBC News dataset, which is larger still than the MIRFLICKR-1M dataset by an order of magnitude, are shown in Fig. <InternalRef RefID="Fig7">7</InternalRef>. It can be seen how even when applied over a large dataset from a very different domain, the approach scales well.<Figure Category="Standard" Float="Yes" ID="Fig7">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 7</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Object category retrieval results over the BBC News dataset using images from Google Image search for training</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO7">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig7_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec16">
+              <Heading>Face retrieval</Heading>
+              <Para ID="Par62">The aim of this modality is to retrieve a particular object class—faces. It can be used to handle queries such as find all images of person X, where X is a politician or actor for example. The approach is quite similar to that of object category retrieval in the previous section, in that discriminative classification is used with the architecture of Fig. <InternalRef RefID="Fig4">4</InternalRef>, including positive and negative training data and a linear SVM classifier. The difference is that the fundamental unit of retrieval is a face track, and the process of obtaining and representing these tracks is an important part of the pipeline.</Para>
+              <Section2 ID="Sec17">
+                <Heading>Video processing</Heading>
+                <Para ID="Par63">We pre-process all videos in our target dataset with the objective of detecting all faces within a shot and associating all detections of the same person into contiguous face tracks.</Para>
+                <Para ID="Par64">
+                  <Emphasis Type="Italic">Face detection and tracking</Emphasis> A face track is a temporal connection of detected faces of a single person. Faces are detected using the OpenCV frontal face detector and are linked together using KLT tracks as described in [<CitationRef CitationID="CR14">14</CitationRef>]. The facial landmark detector of [<CitationRef CitationID="CR14">14</CitationRef>] is used to detect nine facial landmark points. These points are used in the face representation and also for selecting the best face to represent the track. False-positive face tracks are removed based on the landmark detection confidence and the length of the track. Table <InternalRef RefID="Tab3">3</InternalRef> gives statistics on the number of detections and face tracks in the datasets used here.<Table Float="Yes" ID="Tab3">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Face retrieval dataset details</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="4">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Dataset</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Hours</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>Faces</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>Tracks</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Buffy</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>16.5</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>1,212,471</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>21,053</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TRECVID 2012 INS</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>188</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>479,004</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>13,171</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TRECVID 2013 INS</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>435</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>5,141,166</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>149,225</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>BBC News</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>10,132</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>6M</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>2.1M</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Number of faces detected (faces) and face tracks (tracks) in different datasets used for evaluation</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec18">
+                <Heading>Face representation</Heading>
+                <Para ID="Par65">All of our face representations are feature vectors of fixed dimension which will be used in the learning stage. An important choice is whether a feature vector is computed for each face detection individually, or a single feature vector is used to represent the entire face track. For example, the patch intensity-based descriptor [<CitationRef CitationID="CR14">14</CitationRef>] or intensity gradient descriptor [<CitationRef CitationID="CR39">39</CitationRef>] produces one vector per frame in a track. Obtaining a score for a track is then both time consuming and memory intensive, as the complexity depends on the number of frames. An alternative is to select a single representative frame or to aggregate across the face track. The recently introduced Fisher vector-based descriptor [<CitationRef CitationID="CR38">38</CitationRef>] aggregates to produce a single feature vector for a face track. As described in Sect. <InternalRef RefID="Sec12">3.1</InternalRef>, these features can be compressed using product quantization [<CitationRef CitationID="CR26">26</CitationRef>].</Para>
+              </Section2>
+              <Section2 ID="Sec19">
+                <Heading>Datasets and evaluation protocol</Heading>
+                <Para ID="Par67">We use three datasets for the qualitative evaluation of our approach, the details of which are given in Table <InternalRef RefID="Tab3">3</InternalRef>:</Para>
+                <Para ID="Par68">
+                  <Emphasis Type="Italic">Buffy</Emphasis> This is formed of 22 episodes of season 5 of ‘Buffy the Vampire Slayer’ and forms the core of our primary evaluation dataset. Different versions of this data have appeared in literature before [<CitationRef CitationID="CR14">14</CitationRef>, <CitationRef CitationID="CR46">46</CitationRef>, <CitationRef CitationID="CR49">49</CitationRef>]. We use the data publicly available at [<CitationRef CitationID="CR3">3</CitationRef>] that contains face tracks and associated ground truth for all 22 episodes. Ground truth annotations are provided for the tracks of the six primary characters in the series, namely Buffy, Willow, Xander, Giles, Tara and Anya. The first ten episodes provide training tracks for these characters and the rest of the episodes form the test split.</Para>
+                <Para ID="Par69">
+                  <Emphasis Type="Italic">TRECVID 2012 INS</Emphasis> This dataset was introduced for the TRECVID instance search competition in 2012. It consists of videos downloaded from Flickr under the creative commons licence. The face tracks of this dataset are used for negative training data in the experiments.</Para>
+                <Para ID="Par70">
+                  <Emphasis Type="Italic">TRECVID 2013 INS</Emphasis> This dataset was introduced as a part of TRECVID instance search competition in 2013. The dataset consists of about 214 episodes from the BBC television series ‘EastEnders’. The face tracks from the 78 episodes of this dataset are used as distracters in the experiments to make the task of recognition harder. Since the data are collected from a disjoint TV series, it makes it a perfect choice as a distractor for the the Buffy dataset.</Para>
+                <Para ID="Par71">For each character, the quality of the trained model is assessed using <Emphasis Type="Italic">Precision @ k</Emphasis>, i.e. the fraction of the top-k ranked results that are classified correctly and also the <Emphasis Type="Italic">average precision</Emphasis>. Finally, we further evaluate performance qualitatively over the BBC News dataset described in Sect. <InternalRef RefID="Sec1">1</InternalRef>.</Para>
+              </Section2>
+              <Section2 ID="Sec20">
+                <Heading>Experiments</Heading>
+                <Para ID="Par72">Our objective is to assess the quality of the retrieved face tracks for a given character. There are two specific goals: first, to find the best representation of a face track; second, to assess the suitability of Google Images for training character-specific models.</Para>
+                <Para ID="Par73">The training procedure is common to all the experiments described below. Given a character, a linear SVM classifier is trained using all tracks belonging to that character from the training data as positive examples, while tracks of all other characters and all tracks from TRECVID 2012 INS are used as negative training examples. The trained classifier is used to rank tracks from the test split of the Buffy dataset combined with the whole of the TRECVID 2013 INS dataset.</Para>
+                <Para ID="Par74">We compare four methods of representing and scoring face tracks. The first three are variants of the intensity gradient descriptor [<CitationRef CitationID="CR39">39</CitationRef>], whilst the fourth uses the Fisher vector face track representation [<CitationRef CitationID="CR38">38</CitationRef>]:</Para>
+                <Para ID="Par75">
+                  <Emphasis Type="Italic">LM</Emphasis> We select one representative frame of the track using the maximum facial landmark detector confidence score and represent the track by the feature vector of the face in the selected frame. The advantage of this method is that there is just one SVM score computation required per track.</Para>
+                <Para ID="Par76">
+                  <Emphasis Type="Italic">Max</Emphasis> Every face of the track is scored using the SVM, and the maximum score obtained is assigned to the track. Unlike the <Emphasis Type="Italic">LM</Emphasis> method, feature vectors for <Emphasis Type="Italic">all</Emphasis> faces of the track must be stored as they are required for classification.</Para>
+                <Para ID="Par77">
+                  <Emphasis Type="Italic">Avg</Emphasis> A single vector representation is computed for the track by averaging over all face descriptors. The track is then scored by the SVM of the average vector (due to linearity, this is equivalent to averaging the scores over all faces). As with the <Emphasis Type="Italic">LM</Emphasis> method, only a single feature vector needs to be stored per track.</Para>
+                <Para ID="Par78">
+                  <Emphasis Type="Italic">FV</Emphasis> A single Fisher vector is computed for the whole track.</Para>
+                <Para ID="Par79">Table <InternalRef RefID="Tab4">4</InternalRef> shows the performance of each of these methods over the combined Buffy + TRECVID 2013 INS dataset. For the intensity gradient descriptor, it can be seen that taking the maximum score for all frames in a track (<Emphasis Type="Italic">Max</Emphasis>) performs best. However, the Fisher vector representation outperforms all other methods, whilst only producing one feature per track in contrast to the <Emphasis Type="Italic">Max</Emphasis> method.<Table Float="Yes" ID="Tab4">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Face retrieval experiments</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="7">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <colspec align="left" colname="c6" colnum="6"/>
+                      <colspec align="left" colname="c7" colnum="7"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1" morerows="1">
+                            <SimplePara>Character</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2" morerows="1">
+                            <SimplePara>Train tracks</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3" morerows="1">
+                            <SimplePara>Test tracks</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c6" namest="c4">
+                            <SimplePara>Grad. feat</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7" morerows="1">
+                            <SimplePara>FV</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c4">
+                            <SimplePara>LM</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>Max</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>Avg</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Buffy</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>2000</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>2179</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.960 (0.520)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.909 (0.526)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.970 (0.518)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.970 (0.784)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Giles</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>504</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>630</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.960 (0.350)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>1.000 (0.450)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.818 (0.279)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>1.000 (0.798)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Xander</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>795</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>841</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.990 (0.463)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.990 (0.519)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.960 (0.399)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>1.000 (0.813)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Willow</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>720</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>1146</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.899 (0.311)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.869 (0.361)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.838 (0.255)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>1.000 (0.748)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Tara</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>318</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>619</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.879 (0.273)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.939 (0.342)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.869 (0.230)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>1.000 (0.697)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Anya</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>449</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>762</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.869 (0.251)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.869 (0.285)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.778 (0.204)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>1.000 (0.715)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Mean</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>–</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>–</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.926 (0.361)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.929 (0.414)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.872 (0.314)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.995 (0.759)</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Prec @ 100 and average precision (in brackets) for different characters and experiments. Train and test track statistics are from the Buffy dataset. With the addition of distractors from the TV13INS data, the total number of test tracks is 124,761. All the performance figures are reported on this combined test set. The track representation experiments using gradient descriptors (Grad. Feats) show that selecting the maximum score (Max) amongst all detections from a track is the best strategy. Selecting one frame based on facial landmark score (LM) performs comparably in terms of Prec @ 100 while reducing memory and computational requirements</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para ID="Par80">Table <InternalRef RefID="Tab5">5</InternalRef> compares the performance of a classifier trained on ground truth data to the one trained using images obtained from Google. For the characters where Gooogle can return both sufficient and accurate images to train a classifier, the results are comparable to the ground truth classifier, whilst performance drops in cases where Google cannot provide sufficient and accurate images for the character.<Table Float="Yes" ID="Tab5">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Comparison of training data sources for face retieval</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="5">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1" morerows="1">
+                            <SimplePara>Character</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Ground</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>Truth</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c5" namest="c4">
+                            <SimplePara>Google</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Grad</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>FV</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>Grad</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>FV</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Buffy</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.960</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.970</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.626</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.677</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Giles</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.960</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>1.000</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.162</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.182</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Per character Prec @ 100 for classifiers trained on different data sources. The images available for a character from Google vary in quality. For the primary character of the series ‘Buffy’, Google returns sufficient images to train a classifier well. For a secondary character, such as ‘Giles’, the performance reduction observed is due to the lower quality of training images available from Google</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para ID="Par81">
+                  <Emphasis Type="Italic">Results over the BBC News dataset</Emphasis> Figure <InternalRef RefID="Fig8">8</InternalRef> Example results of face retrieval for the BBC News dataset. In this case the training images are sourced from Google instead of from a curated dataset. As can be seen, we succeed in retrieving faces of a specific person with varying expressions and illumination.<Figure Category="Standard" Float="Yes" ID="Fig8">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 8</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Face retrieval search examples. Top results for queries Barack Obama, Margaret Thatcher and Vladimir Putin on the BBC News dataset</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO8">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig8_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec21">
+              <Heading>Building an on-the-fly system</Heading>
+              <Para ID="Par82">This section describes the architecture of an on-the-fly system and how the three methods of the previous sections are implemented within it. As always, the issues are what to compute and store in advance vs. online and the memory–speed trade-off.</Para>
+              <Para ID="Par83">The on-the-fly system architecture for the case of object category retrieval (Sect. <InternalRef RefID="Sec11">3</InternalRef>) is shown in Fig. <InternalRef RefID="Fig9">9</InternalRef> (compare to Fig. <InternalRef RefID="Fig4">4</InternalRef> for the non-on-the-fly version). We will describe this case first and then outline the differences required for instance or face retrieval.<Figure Category="Standard" Float="Yes" ID="Fig9">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 9</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Architecture of the on-the-fly object category retrieval pipeline. Positive training images are downloaded on-the-fly from Google Image search by the front-end component and then fed to the back end for processing. In the back end, the images are encoded and after a fixed timeout of <InlineEquation ID="IEq23">
+                          <InlineMediaObject>
+                            <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq23.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                          </InlineMediaObject>
+                          <EquationSource Format="TEX"><![CDATA[$$\tau $$]]></EquationSource>
+                          <EquationSource Format="MATHML"><![CDATA[
+                                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                              <mi mathvariant="italic">τ</mi>
+                            </math><![CDATA[
+                                    ]]></EquationSource>
+                        </InlineEquation> seconds all encoded images are fed to a Linear SVM for batch training (along with a fixed pool of negative features pre-computed during the pre-processing phase). Finally, the linear SVM model <Emphasis Type="Bold">w</Emphasis> is applied to the precomputed features of the target dataset and the resulting classification scores sorted in descending order to produce the output ranking</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO9">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig9_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para ID="Par84">The architecture is split into a pre-processing and online stage:</Para>
+              <Para ID="Par85">
+                <Emphasis Type="Italic">Pre-processing</Emphasis> Visual features are extracted for all images in the target dataset, along with those for a fixed pool of <InlineEquation ID="IEq24">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq24.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\sim $$]]></EquationSource>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mo>∼</mo>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                </InlineEquation>16,000 negative training images. The negative images are sourced from the Web by issuing queries for a set of fixed ‘negative’ query terms (in the same way as described in Sect. <InternalRef RefID="Sec14">3.2.1</InternalRef>). Both the dataset features and those of the negative training pool are then stored in memory when the system is launched for speed of access.</Para>
+              <Para ID="Par86">
+                <Emphasis Type="Italic">On-line stage</Emphasis> Given a textual query, the corresponding top <InlineEquation ID="IEq25">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq25.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$K\sim 100$$]]></EquationSource>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>K</mi>
+                        <mo>∼</mo>
+                        <mn>100</mn>
+                      </mrow>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                </InlineEquation> images are retrieved from Google Image search. Visual features are computed on-the-fly for each image as it is downloaded. These images are used as the positive visual training data for our object category. Along with the fixed pool of pre-computed negative training data, these are used to train a linear SVM <InlineEquation ID="IEq26">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq26.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\langle \mathbf {w},\phi (I)\rangle $$]]></EquationSource>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mo stretchy="false">⟨</mo>
+                        <mi mathvariant="bold">w</mi>
+                        <mo>,</mo>
+                        <mi mathvariant="italic">ϕ</mi>
+                        <mo stretchy="false">(</mo>
+                        <mi>I</mi>
+                        <mo stretchy="false">)</mo>
+                        <mo stretchy="false">⟩</mo>
+                      </mrow>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                </InlineEquation> by fitting <InlineEquation ID="IEq27">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq27.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\mathbf {w}$$]]></EquationSource>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi mathvariant="bold">w</mi>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                </InlineEquation> to the available training data by minimizing an objective function balancing a quadratic regularizer and the hinge loss. The parameter <InlineEquation ID="IEq28">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq28.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$C$$]]></EquationSource>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi>C</mi>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                </InlineEquation> in the SVM is set to a constant value of <InlineEquation ID="IEq29">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq29.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$C=10$$]]></EquationSource>
+                  <EquationSource Format="MATHML"><![CDATA[
+                        ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mrow>
+                        <mi>C</mi>
+                        <mo>=</mo>
+                        <mn>10</mn>
+                      </mrow>
+                    </math><![CDATA[
+                    ]]></EquationSource>
+                </InlineEquation>.</Para>
+              <Para ID="Par87">Having learnt a classifier for our concept, we then apply it to our dataset features, computed in the pre-processing phase. Following this, the output classification function is used as a ranking metric, and the images are presented to the user in descending order of these scores.</Para>
+              <Section2 ID="Sec22">
+                <Heading>System architecture</Heading>
+                <Para ID="Par88">The architecture of the system can be broadly split into a single front-end and multiple back-end components.</Para>
+                <Para ID="Par89">
+                  <Emphasis Type="Italic">Front-end component</Emphasis> The front-end component is in charge of presenting the Web interface, managing requests and converting textual queries to visual training data by downloading images from Google Image search. It is written in Python.</Para>
+                <Para ID="Par90">
+                  <Emphasis Type="Italic">Back-end components</Emphasis> There is one back-end component for each search modality and each manages the process of producing a ranked list of results given a query. The back-end components are all written in C++ for speed and efficiency, as they are the most computationally expensive part of the system.</Para>
+              </Section2>
+              <Section2 ID="Sec23">
+                <Heading>Implementation details</Heading>
+                <Para ID="Par91">
+                  <Emphasis Type="Italic">Obtaining positive training images</Emphasis> The image downloader component is implemented in Python using co-routines to maximize the rate at which training images can be downloaded. Our target is to download between 20 and 150 training images, depending on the search modality. We do this by first requesting the first 300 results from Google and then impose a timeout of <InlineEquation ID="IEq30">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq30.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\tau _\mathrm{image}\sim 100$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mrow>
+                          <msub>
+                            <mi mathvariant="italic">τ</mi>
+                            <mi mathvariant="normal">image</mi>
+                          </msub>
+                          <mo>∼</mo>
+                          <mn>100</mn>
+                        </mrow>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> ms on the download time of each image, which ensures that no undue time is wasted retrieving images from slow servers. A global timeout is also set between <InlineEquation ID="IEq31">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq31.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\tau _\mathrm{global}\sim 1$$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mrow>
+                          <msub>
+                            <mi mathvariant="italic">τ</mi>
+                            <mi mathvariant="normal">global</mi>
+                          </msub>
+                          <mo>∼</mo>
+                          <mn>1</mn>
+                        </mrow>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> and 5 s depending on how many training images are required. Features are then computed in real time and in parallel over multiple CPU cores and stored in memory for training.</Para>
+                <Para ID="Par92">
+                  <Emphasis Type="Italic">Instance search</Emphasis> We have found it sufficient to use a query set of 20 images downloaded from Google for the instance search modality. For methods which issue multiple queries (<Emphasis Type="Italic">MQ-</Emphasis>), each query is executed in an independent thread and then merged.</Para>
+                <Para ID="Par93">
+                  <Emphasis Type="Italic">Category search</Emphasis> We use between 100 and 150 images from Google for the category search modality. When querying Google Image search, we ask it to only return ‘photos’, avoiding the pollution of the training data by line drawings and cartoon images. Ranking is conducted using a parallel approach which splits the target dataset between multiple computation threads.</Para>
+                <Para ID="Par94">
+                  <Emphasis Type="Italic">Face search</Emphasis> We use between 100 and 150 images from Google for the face search modality. When querying Google Image search, we ask it to only return ‘faces’. Again, ranking uses a parallel approach with multiple computation threads over the target dataset tracks.</Para>
+              </Section2>
+              <Section2 ID="Sec24">
+                <Heading>Memory requirements</Heading>
+                <Para ID="Par95">The details of the BBC News dataset, along with the memory requirements of each search modality, are summarized in Table <InternalRef RefID="Tab6">6</InternalRef>.<Table Float="Yes" ID="Tab6">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>BBC News dataset statistics and memory requirements</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="2">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <tbody>
+                        <row>
+                          <entry align="left" nameend="c2" namest="c1">
+                            <SimplePara>Dataset details</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>   No. of programmes</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>17,401</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>   Hours</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>10,132</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>   Keyframes</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>5.3M</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>   Face tracks</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>2.1M</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" nameend="c2" namest="c1">
+                            <SimplePara>Memory req.</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>   Instances</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>21 GB</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>   Categories</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>2.7 GB</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>   Faces</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>32 GB</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>   Categories (with PQ)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.08 GB</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>   Faces (with PQ)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>2 GB</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>The BBC News dataset is sourced from all BBC News footage broadcast from 6 pm until midnight from 2007 to 2012 and is used for qualitative evaluation and the on-the-fly system. In the case of product quantized (PQ) figures for the category and faces modality, subquantizers of size 8 and 4 dimensions, respectively, are used</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para ID="Par96">
+                  <Emphasis Type="Italic">Instance search</Emphasis> Posting lists in the inverted index are compressed by encoding differences of sorted image identifiers using variable-byte coding [<CitationRef CitationID="CR54">54</CitationRef>]. Furthermore, local affine shape of the affine-Hessian interest points (Sect. <InternalRef RefID="Sec5">2.3</InternalRef>) are compressed using [<CitationRef CitationID="CR40">40</CitationRef>]. After compression, the instance search modality requires 42 GB of RAM for the entire BBC News dataset. To further reduce the memory requirements we subsample the dataset by two by removing every other frame from the index, and therefore halving the RAM usage to 21 GB.</Para>
+                <Para ID="Par97">
+                  <Emphasis Type="Italic">Category search</Emphasis> The ConvNet-based features used for category search are already very compact (128-D) and so we store and use them over the target dataset in uncompressed form. However, further compression can be achieved of up to 32<InlineEquation ID="IEq32">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq32.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\times $$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mo>×</mo>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> using product quantization as described in Sect. <InternalRef RefID="Sec12">3.1</InternalRef> and shown in Table <InternalRef RefID="Tab2">2</InternalRef>.</Para>
+                <Para ID="Par98">
+                  <Emphasis Type="Italic">Face search</Emphasis> Using the frame selection strategy based on facial landmark detection (Sect. <InternalRef RefID="Sec16">4</InternalRef>) significantly reduces memory requirements compared to processing all frames. However, as with the category search features, a further 16<InlineEquation ID="IEq33">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2015_77_Article_IEq33.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\times $$]]></EquationSource>
+                    <EquationSource Format="MATHML"><![CDATA[
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <mo>×</mo>
+                      </math><![CDATA[
+                        ]]></EquationSource>
+                  </InlineEquation> compression can be achieved using product quantization.</Para>
+              </Section2>
+              <Section2 ID="Sec25">
+                <Heading>Web-based demo system</Heading>
+                <Para ID="Par99">An online demonstration of the three methods is available at <ExternalRef>
+                    <RefSource>http://www.robots.ox.ac.uk/~vgg/research/on-the-fly/</RefSource>
+                    <RefTarget Address="http://www.robots.ox.ac.uk/~vgg/research/on-the-fly/" TargetType="URL"/>
+                  </ExternalRef> and illustrated in Fig. <InternalRef RefID="Fig10">10</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig10">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 10</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Web-based on-the-fly demo system. (<Emphasis Type="Italic">1</Emphasis>) the user enters a text query term and selects a search modality, (<Emphasis Type="Italic">2</Emphasis>) images are downloaded from Google Image search and used to train an appearance model on-the-fly, (<Emphasis Type="Italic">3</Emphasis>) ranked results over the target dataset are returned. A live demo is available online—see the text for details</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO10">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig10_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec26">
+              <Heading>Applications and extensions</Heading>
+              <Para ID="Par100">In this section we overview a number of applications and comparisons of the approaches.</Para>
+              <Para ID="Par101">
+                <Emphasis Type="Italic">Interaction between search modalities</Emphasis> An image or video database can be browsed intuitively by switching between search modalities—users can pick out results of previous searches to query the database potentially using a different modality. An example is shown in Fig. <InternalRef RefID="Fig11">11</InternalRef> where a user transitions from face to instance search.<Figure Category="Standard" Float="Yes" ID="Fig11">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 11</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Interaction between face and instance search. Users can effortlessly switch between search modalities. In this example, querying for the British queen is done via face search (<Emphasis Type="Bold">a</Emphasis>), and the second result depicting the 10 pound note is used to issue an instance search query (<Emphasis Type="Bold">b</Emphasis>). Results are on the BBC News dataset</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO11">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig11_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para ID="Par102">
+                <Emphasis Type="Italic">Facial attribute search</Emphasis> On-the-fly face classification can also be used for retrieving face tracks with specific attributes such as a moustache, beard, glasses and gender, by simply using these for the text query, rather than specifying a person (by name) as in the case of identity retrieval. This simple technique enables users to explore the content along other dimensions. Figure <InternalRef RefID="Fig12">12</InternalRef> shows several facial attribute examples on the BBC News dataset.<Figure Category="Standard" Float="Yes" ID="Fig12">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 12</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Face retrieval attribute search examples. Top search results for facial attribute queries ‘beard’ and ‘black spectacles’, respectively, on the BBC News dataset</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO12">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig12_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para ID="Par103">
+                <Emphasis Type="Italic">Uber classifiers</Emphasis> The on-the-fly paradigm can be complemented by persistent classifiers learnt from curated datasets. These are termed ‘uber’ classifiers. The need for such classifiers is twofold: first, classifiers trained on-the-fly are subject to changes in the results of the image search engines—content on the Internet can change rapidly, e.g. for trending topics, and also slowly, e.g. with returns dominated by more recent (and thus older) faces of a particular actor or politician. Second, training classifiers off-line avoids the compromise between speed and accuracy, so far as larger training sets can be employed. For example, if the goal is to retrieve all occurrences of a politician in a static (archive) dataset, then using recent photos from a Web search may perform poorly, but a classifier trained on a corpus of images spanning several decades would likely perform better.</Para>
+              <Para ID="Par104">Figure <InternalRef RefID="Fig13">13</InternalRef> One such example. Searching for the former Australian prime minister a few years after her tenure does not result in good results because of the poor training data available from the Web. However, after manually curating images from relevant websites, the uber classifier yields superior results.<Figure Category="Standard" Float="Yes" ID="Fig13">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 13</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Face uber classifier example. The top search results when queried for the former Australian prime minister Julia Gillard. On-the-fly search results (<Emphasis Type="Italic">top row</Emphasis>) are quite poor, while the results with an uber classifier (<Emphasis Type="Italic">bottom row</Emphasis>) trained on curated data are much better. Results are on the BBC News dataset</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO13">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig13_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para ID="Par105">
+                <Emphasis Type="Italic">Comparing different approaches for the same query</Emphasis> It is interesting to consider how category and instance searches perform against each other when faced with the same textual query; Fig. <InternalRef RefID="Fig14">14</InternalRef> shows three examples. As expected, category search works well for category queries ‘aeroplane’ and ‘TV monitor’, while instance search is superior for ‘Coca Cola’. However, the failure modes of both modalities are interesting to analyse. Category search fails for specific object queries by over-generalizing, for the ‘Coca Cola’ query it finds several bottles, not necessarily Coca Cola bottles (note that the bottles in the top retrieval obtained from category search are not of ‘Coca Cola’ but just of ‘Cola’). Conversely, instance search focuses on specific instances, for the ‘aeroplane’ query it manages to find a few aeroplane models which exist in the query set. The query ‘TV monitor’ also shows over-specialization of instance search where the results are polluted with LG logos.<Figure Category="Standard" Float="Yes" ID="Fig14">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 14</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Comparison of category and instance search. The top five retrievals for the category and instance search modalities for the same three queries: ‘aeroplane’, ‘TV monitor’ and ‘Coca Cola’. The results are on the BBC News dataset</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO14">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2015_77_Fig14_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section1>
+            <Section1 ID="Sec27">
+              <Heading>Conclusions and future work</Heading>
+              <Para ID="Par106">In this paper we have illustrated the on-the-fly approach for three classes of queries: object instances, object categories and faces. The question, then, is what next? Can human pose be learnt on-the-fly from still images downloaded by search engines or human actions [<CitationRef CitationID="CR21">21</CitationRef>]?</Para>
+              <Para ID="Par107">The visual search competencies described here are each based on a different underlying technology (Bag of Visual Words, Image Classification, Face-track classification)—though as illustrated in Sect. <InternalRef RefID="Sec26">6</InternalRef> a particular query class can be handled by more than one underlying technology to some extent. This raises the question of how to choose which technology to use for a particular text query or, alternatively, how to combine the results if the text query is issued to all three search methods.</Para>
+              <Para ID="Par108">The two competencies that use discriminative learning (categories and faces) require a set of negative images for training. Presently, we use a fixed generic set of negatives for all queries. However, it is likely that a more sophisticated method which selects a set of negative images per query, according to their discriminativeness for the query at hand, would result in a further improvement in results. This could be via topic modelling within a larger pool of uniformly distributed dataset images, followed by the subsampling of ‘negative’ topics close to the decision plane. Alternatively, the use of an iterative negative ensemble learning approach using support vector machines as in [<CitationRef CitationID="CR32">32</CitationRef>] could be explored.</Para>
+              <Para ID="Par109">There are also a number of standard competencies that are provided by modern search engines: such as composite queries (e.g. ‘Obama standing outside the White House’), diversity of the returned results and clustering of the returned results. Each of these have a different twist when vision, rather than text, is the primary search and representation method. Developing these competencies for visual search opens up new research directions.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2015_Article_77.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2015_77_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <Heading>Acknowledgments</Heading>
+              <SimplePara>This work was supported by the EPSRC, ERC Grant VisRec No. 228180 and EU Project AXES ICT–269980. We are very grateful to Rob Cooper of the BBC for arranging and supplying the BBC News dataset.</SimplePara>
+            </Acknowledgments>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>Arandjelović R, Zisserman A (2012) Multiple queries for large scale specific object retrieval. In: Proceedings of BMVC</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>Arandjelović R, Zisserman A (2012) Three things everyone should know to improve object retrieval. In: Proceedings of CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>Bauml M, Tapaswi M, Stiefelhagen R (2014) A time pooled track kernel for person identification. In: Proceedings of the 11th international conference on advanced video and signal-Based surveillance (AVSS). IEEE</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>Berg TL, Forsyth DA (2006) Animals on the web. In: Proceedings of CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Bergamo A, Torresani L, Fitzgibbon A (2011) PiCoDes: learning a compact code for novel-category recognition. In: NIPS, pp 2088–2096</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Chatfield K, Lempitsky V, Vedaldi A, Zisserman A (2011) The devil is in the details: an evaluation of recent feature encoding methods. In: Proceedings of BMVC. doi: <ExternalRef><RefSource>10.5244/C.25.76</RefSource><RefTarget TargetType="DOI" Address="10.5244/C.25.76"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>Chatfield K, Simonyan K, Vedaldi A, Zisserman A (2014) Return of the devil in the details: Delving deep into convolutional nets. In: Proceedings of BMVC. doi: <ExternalRef><RefSource>10.5244/C.28.6</RefSource><RefTarget TargetType="DOI" Address="10.5244/C.28.6"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>Chatfield K, Simonyan K, Zisserman A (2014) Efficient on-the-fly category retrieval using convnets and GPUs. In: Proceedings of ACCV, lecture notes in computer science. Springer</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Chatfield K, Zisserman A (2012) Visor: Towards on-the-fly large-scale object category retrieval. In: Proceedings of ACCV, lecture notes in computer science. Springer</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>Chum O, Mikulik A, Perďoch M, Matas J (2011) Total recall II: query expansion revisited. In: Proceedings of CVPR. doi: <ExternalRef><RefSource>10.1109/CVPR.2011.5995601</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2011.5995601"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Chum O, Philbin J, Sivic J, Isard M, Zisserman A (2007) Total recall: automatic query expansion with a generative feature model for object retrieval. In: Proceedings of ICCV. doi: <ExternalRef><RefSource>10.1109/ICCV.2007.4408891</RefSource><RefTarget TargetType="DOI" Address="10.1109/ICCV.2007.4408891"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Deng J, Dong W, Socher R, Li LJ, Li K, Fei-Fei L (2009) Imagenet: a large-scale hierarchical image database. In: Proceedings of CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Donahue J, Jia Y, Vinyals O, Hoffman J, Zhang N, Tzeng E, Darrell T (2013) Decaf: a deep convolutional activation feature for generic visual recognition. CoRR. <ExternalRef>
+                    <RefSource>arXiv:1310.1531</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1310.1531" TargetType="URL"/>
+                  </ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Everingham</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Sivic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zisserman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Taking the bite out of automatic naming of characters in TV video</ArticleTitle>
+                  <JournalTitle>Image Vis Comput</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>545</FirstPage>
+                  <LastPage>559</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.imavis.2008.04.018</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Everingham M, Sivic J, Zisserman A (2009) Taking the bite out of automatic naming of characters in TV video. Image Vis Comput 27(5):545–559</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Everingham</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Gool</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CKI</Initials>
+                    <FamilyName>Williams</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Winn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zisserman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">The PASCAL visual object classes (VOC) challenge</ArticleTitle>
+                  <JournalTitle>IJCV</JournalTitle>
+                  <VolumeID>88</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>303</FirstPage>
+                  <LastPage>338</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11263-009-0275-4</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Everingham M, Van Gool L, Williams CKI, Winn J, Zisserman A (2010) The PASCAL visual object classes (VOC) challenge. IJCV 88(2):303–338</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>Fergus R, Fei-Fei L, Perona P, Zisserman A (2005) Learning object categories from Google’s image search. In: Proceedings of ICCV</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Fergus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Fei-Fei</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Perona</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zisserman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Learning object categories from internet image searches</ArticleTitle>
+                  <JournalTitle>Proc IEEE</JournalTitle>
+                  <VolumeID>98</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>1453</FirstPage>
+                  <LastPage>1466</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/JPROC.2010.2048990</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fergus R, Fei-Fei L, Perona P, Zisserman A (2010) Learning object categories from internet image searches. Proc IEEE 98(8):1453–1466</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>Fernando B, Tuytelaars T (2013) Mining multiple queries for image retrieval: on-the-fly learning of an object-specific mid-level representation. In: Proceedings of ICCV. doi: <ExternalRef><RefSource>10.1109/ICCV.2013.316</RefSource><RefTarget TargetType="DOI" Address="10.1109/ICCV.2013.316"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibUnstructured>Huiskes MJ, Lew MS (2008) The mir flickr retrieval evaluation. In: MIR ’08: Proceedings of the 2008 ACM international conference on multimedia information retrieval. doi: <ExternalRef><RefSource>10.1145/1460096.1460104</RefSource><RefTarget TargetType="DOI" Address="10.1145/1460096.1460104"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibUnstructured>Huiskes MJ, Thomee B, Lew MS (2010) New trends and ideas in visual concept detection: the mir flickr retrieval evaluation initiative. In: MIR ’10: Proceedings of the 2010 ACM international conference on multimedia information retrieval, pp 527–536. doi: <ExternalRef><RefSource>10.1145/1743384.1743475</RefSource><RefTarget TargetType="DOI" Address="10.1145/1743384.1743475"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Ikizler-Cinbis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Sclaroff</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Web-based classifiers for human action recognition</ArticleTitle>
+                  <JournalTitle>Multimed IEEE Trans</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>1031</FirstPage>
+                  <LastPage>1045</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TMM.2012.2187180</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ikizler-Cinbis N, Sclaroff S (2012) Web-based classifiers for human action recognition. Multimed IEEE Trans 14(4):1031–1045</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Jégou H, Chum O (2012) Negative evidences and co-occurrences in image retrieval: the benefit of PCA and whitening. In: Proceedings of ECCV</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibUnstructured>Jégou H, Douze M, Schmid C (2008) Hamming embedding and weak geometric consistency for large scale image search. In: Proceedings of ECCV, pp 304–317</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibUnstructured>Jégou H, Douze M, Schmid C (2009) On the burstiness of visual elements. In: Proceedings of CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Jégou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Douze</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Schmid</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Improving bag-of-features for large scale image search</ArticleTitle>
+                  <JournalTitle>IJCV</JournalTitle>
+                  <VolumeID>87</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>316</FirstPage>
+                  <LastPage>336</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11263-009-0285-2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jégou H, Douze M, Schmid C (2010) Improving bag-of-features for large scale image search. IJCV 87(3):316–336</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibUnstructured>Jégou H, Douze M, Schmid C (2011) Product quantization for nearest neighbor search. IEEE PAMI</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibUnstructured>Jia Y, Schelhamer E, Donahue J, Karayev S, Long J, Girshick R, Guadarrama S, Darrell T (2014) Caffe: convolutional architecture for fast feature embedding. <ExternalRef>
+                    <RefSource>arXiv:1408.5093</RefSource>
+                    <RefTarget Address="http://arxiv.org/abs/1408.5093" TargetType="URL"/>
+                  </ExternalRef>
+                </BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibUnstructured>Krizhevsky A, Sutskever I, Hinton GE (2012) ImageNet classification with deep convolutional neural networks. In: NIPS, pp 1106–1114</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibUnstructured>Kumar N, Seitz S (2014) Photo recall: using the internet to label your photos. In: The 23rd international conference on world wide web companion. doi: <ExternalRef><RefSource>10.1145/2567948.2577360</RefSource><RefTarget TargetType="DOI" Address="10.1145/2567948.2577360"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibUnstructured>Kumar N, Seitz S (2014) Photo recall: Using the internet to label your photos. In: 2nd workshop on web-scale vision and social media (VSM) at CVPR 2014</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibUnstructured>Li J, Wang G, Fei-Fei L (2007) OPTIMOL: automatic object Picture collection via incremental model learning. In: Proceedings of CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CGM</Initials>
+                    <FamilyName>Snoek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Worring</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Koelma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AWM</Initials>
+                    <FamilyName>Smeulders</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Bootstrapping visual categorization with relevant negatives</ArticleTitle>
+                  <JournalTitle>IEEE Trans Multimed</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>933</FirstPage>
+                  <LastPage>945</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TMM.2013.2238523</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Li X, Snoek CGM, Worring M, Koelma D, Smeulders AWM (2013) Bootstrapping visual categorization with relevant negatives. IEEE Trans Multimed 15(4):933–945</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibUnstructured>Lin WH, Jin R, Hauptmann A (2003) Web image retrieval re-ranking with relevance model. In: Proceedings of ICWI</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibUnstructured>Liu Y, Xu D, Tsang IW, Luo J (2009) Using large-scale web data to facilitate textual query based retrieval of consumer photos. In: Proceedings of the 17th ACM international conference on multimedia, MM ’09, pp 55–64. doi: <ExternalRef><RefSource>10.1145/1631272.1631283</RefSource><RefTarget TargetType="DOI" Address="10.1145/1631272.1631283"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Mikolajczyk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Schmid</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Scale and affine invariant interest point detectors</ArticleTitle>
+                  <JournalTitle>IJCV</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <IssueID>60</IssueID>
+                  <FirstPage>63</FirstPage>
+                  <LastPage>86</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/B:VISI.0000027790.02288.f2</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mikolajczyk K, Schmid C (2004) Scale and affine invariant interest point detectors. IJCV 1(60):63–86</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibUnstructured>Over P, Awad G, Michel M, Fiscus J, Sanders G, Kraaij W, Smeaton AF, Quenot G (2012) Trecvid 2012—an overview of the goals, tasks, data, evaluation mechanisms and metrics. In: Proceedings of TRECVID 2012</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibUnstructured>Over P, Awad G, Michel M, Fiscus J, Sanders G, Kraaij W, Smeaton AF, Quenot G (2013) Trecvid 2013—an overview of the goals, tasks, data, evaluation mechanisms and metrics. In: Proceedings of TRECVID 2013</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibUnstructured>Parkhi OM, Simonyan K, Vedaldi A, Zisserman A (2014) A compact and discriminative face track descriptor. In: Proceedings of CVPR. IEEE</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibUnstructured>Parkhi OM, Vedaldi A, Zisserman A (2012) On-the-fly specific person retrieval. In: International workshop on image analysis for multimedia interactive services. IEEE</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibUnstructured>Perďoch M, Chum O, Matas J (2009) Efficient representation of local geometry for large scale object retrieval. In: Proceedings of CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibUnstructured>Perronnin F, Sánchez J, Mensink T (2010) Improving the Fisher kernel for large-scale image classification. In: Proceedings of ECCV. doi: <ExternalRef><RefSource>10.1007/978-3-642-15561-1_11</RefSource><RefTarget TargetType="DOI" Address="10.1007/978-3-642-15561-1_11"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibUnstructured>Philbin J, Chum O, Isard M, Sivic J, Zisserman A (2007) Object retrieval with large vocabularies and fast spatial matching. In: Proceedings of CVPR. doi: <ExternalRef><RefSource>10.1109/CVPR.2007.383172</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2007.383172"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR43">
+                <CitationNumber>43.</CitationNumber>
+                <BibUnstructured>Philbin J, Chum O, Isard M, Sivic J, Zisserman A (2008) Lost in quantization: improving particular object retrieval in large scale image databases. In: Proceedings of CVPR. doi: <ExternalRef><RefSource>10.1109/CVPR.2008.4587635</RefSource><RefTarget TargetType="DOI" Address="10.1109/CVPR.2008.4587635"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR44">
+                <CitationNumber>44.</CitationNumber>
+                <BibUnstructured>Sánchez J, Perronnin F (2011) High-dimensional signature compression for large-scale image classification. In: Proceedings of CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR45">
+                <CitationNumber>45.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Schroff</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Criminisi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zisserman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Harvesting image databases from the web</ArticleTitle>
+                  <JournalTitle>IEEE PAMI</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>754</FirstPage>
+                  <LastPage>766</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/TPAMI.2010.133</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schroff F, Criminisi A, Zisserman A (2011) Harvesting image databases from the web. IEEE PAMI 33(4):754–766</BibUnstructured>
+              </Citation>
+              <Citation ID="CR46">
+                <CitationNumber>46.</CitationNumber>
+                <BibUnstructured>Sivic J, Everingham M, Zisserman A (2009) “Who are you?”—learning person specific classifiers from video. In: Proceedings of CVPR</BibUnstructured>
+              </Citation>
+              <Citation ID="CR47">
+                <CitationNumber>47.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Sivic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zisserman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Video Google: a text retrieval approach to object matching in videos</ArticleTitle>
+                  <JournalTitle>Proc ICCV</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <FirstPage>1470</FirstPage>
+                  <LastPage>1477</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1109/ICCV.2003.1238663</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sivic J, Zisserman A (2003) Video Google: a text retrieval approach to object matching in videos. Proc ICCV 2:1470–1477</BibUnstructured>
+              </Citation>
+              <Citation ID="CR48">
+                <CitationNumber>48.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Sivic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Zisserman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Efficient visual search for objects in videos</ArticleTitle>
+                  <JournalTitle>Proc IEEE</JournalTitle>
+                  <VolumeID>96</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>548</FirstPage>
+                  <LastPage>566</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/JPROC.2008.916343</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sivic J, Zisserman A (2008) Efficient visual search for objects in videos. Proc IEEE 96(4):548–566</BibUnstructured>
+              </Citation>
+              <Citation ID="CR49">
+                <CitationNumber>49.</CitationNumber>
+                <BibUnstructured>Tapaswi M, Bauml M, Stiefelhagen R (2014) Story-based video retrieval in TV series using plot synopses. In: ACM international conference on multimedia retrieval (ICMR). doi: <ExternalRef><RefSource>10.1145/2578726.2578727</RefSource><RefTarget TargetType="DOI" Address="10.1145/2578726.2578727"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR50">
+                <CitationNumber>50.</CitationNumber>
+                <BibUnstructured>Tolias G, Jégou H (2013) Local visual query expansion: exploiting an image collection to refine local descriptors. Technical report RR-8325, INRIA</BibUnstructured>
+              </Citation>
+              <Citation ID="CR51">
+                <CitationNumber>51.</CitationNumber>
+                <BibUnstructured>Tolias G, Jégou H (2014) Visual query expansion with or without geometry: refining local descriptors by feature aggregation. Pattern Recognit. doi: <ExternalRef><RefSource>10.1016/j.patcog.2014.04.007</RefSource><RefTarget TargetType="DOI" Address="10.1016/j.patcog.2014.04.007"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR52">
+                <CitationNumber>52.</CitationNumber>
+                <BibUnstructured>Torresani L, Szummer M, Fitzgibbon A (2010) Efficient object category recognition using classemes. In: Proceedings of ECCV, pp 776–789. doi: <ExternalRef><RefSource>10.1007/978-3-642-15549-9_56</RefSource><RefTarget TargetType="DOI" Address="10.1007/978-3-642-15549-9_56"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR53">
+                <CitationNumber>53.</CitationNumber>
+                <BibUnstructured>Zeiler MD, Fergus R (2014) Visualizing and understanding convolutional networks. In: Proceedings of ECCV 2014, vol 8689. Springer, pp 818–833</BibUnstructured>
+              </Citation>
+              <Citation ID="CR54">
+                <CitationNumber>54.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Zobel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Moffat</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Inverted files for text search engines</ArticleTitle>
+                  <JournalTitle>ACM Comput Surv</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>6</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/1132956.1132959</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Zobel J, Moffat A (2006) Inverted files for text search engines. ACM Comput Surv 38(2):6</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

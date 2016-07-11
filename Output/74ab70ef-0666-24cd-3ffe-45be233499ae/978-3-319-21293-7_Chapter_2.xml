@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer International Publishing</PublisherName>
+    <PublisherLocation>Cham</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer.com</PublisherURL>
+  </PublisherInfo>
+  <Book Language="En" OutputMedium="All">
+    <BookInfo BookProductType="Professional book" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="3" NumberingStyle="ChapterContent" OutputMedium="All" TocLevels="0">
+      <BookID>978-3-319-21293-7</BookID>
+      <BookTitle>Modern Stroke Rehabilitation through e-Health-based Entertainment</BookTitle>
+      <BookDOI>10.1007/978-3-319-21293-7</BookDOI>
+      <BookTitleID>327370</BookTitleID>
+      <BookPrintISBN>978-3-319-21292-0</BookPrintISBN>
+      <BookElectronicISBN>978-3-319-21293-7</BookElectronicISBN>
+      <BookEdition>1st ed. 2016</BookEdition>
+      <BookChapterCount>10</BookChapterCount>
+      <BookCopyright>
+        <CopyrightHolderName>Springer International Publishing Switzerland</CopyrightHolderName>
+        <CopyrightYear>2016</CopyrightYear>
+        <CopyrightStandardText Language="En">This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed.</CopyrightStandardText>
+      </BookCopyright>
+      <BookSubjectGroup>
+        <BookSubject Code="SCT" Type="Primary">Engineering</BookSubject>
+        <BookSubject Code="SCT2700X" Priority="1" Type="Secondary">Biomedical Engineering</BookSubject>
+        <BookSubject Code="SCT24068" Priority="2" Type="Secondary">Circuits and Systems</BookSubject>
+        <BookSubject Code="SCH55006" Priority="3" Type="Secondary">Rehabilitation</BookSubject>
+        <BookSubject Code="SCH27002" Priority="4" Type="Secondary">Public Health</BookSubject>
+        <BookSubject Code="SCI18059" Priority="5" Type="Secondary">Multimedia Information Systems</BookSubject>
+        <SubjectCollection Code="SUCO11647">Engineering</SubjectCollection>
+      </BookSubjectGroup>
+      <BookstoreLocation>Electrical Engineering</BookstoreLocation>
+    </BookInfo>
+    <BookHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Emmanouela</GivenName>
+            <FamilyName>Vogiatzaki</FamilyName>
+          </EditorName>
+          <Contact>
+            <Email>emmanouela@rfsat.com</Email>
+          </Contact>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Artur</GivenName>
+            <FamilyName>Krukowski</FamilyName>
+          </EditorName>
+          <Contact>
+            <Email>krukowa@intracom-telecom.com</Email>
+          </Contact>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgDivision>(RFSAT) Ltd</OrgDivision>
+          <OrgName>Research for Science, Art and Technology</OrgName>
+          <OrgAddress>
+            <City>Sheffield</City>
+            <Country>United Kingdom</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Intracom S. A. Telecom Solutions</OrgName>
+          <OrgAddress>
+            <City>Peania</City>
+            <Country>Greece</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </BookHeader>
+    <Chapter ID="b978-3-319-21293-7_2" Language="En" OutputMedium="All">
+      <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" Language="En" NumberingDepth="3" NumberingStyle="ChapterContent" OutputMedium="All" TocLevels="0">
+        <ChapterID>2</ChapterID>
+        <ChapterNumber>Chapter 2</ChapterNumber>
+        <ChapterDOI>10.1007/978-3-319-21293-7_2</ChapterDOI>
+        <ChapterSequenceNumber>2</ChapterSequenceNumber>
+        <ChapterTitle Language="En">Requirements and Conceptual Architecture</ChapterTitle>
+        <ChapterFirstPage>27</ChapterFirstPage>
+        <ChapterLastPage>50</ChapterLastPage>
+        <ChapterCopyright>
+          <CopyrightHolderName>Springer International Publishing Switzerland</CopyrightHolderName>
+          <CopyrightYear>2016</CopyrightYear>
+        </ChapterCopyright>
+        <ChapterHistory>
+          <RegistrationDate>
+            <Year>2015</Year>
+            <Month>6</Month>
+            <Day>11</Day>
+          </RegistrationDate>
+        </ChapterHistory>
+        <ChapterContext>
+          <BookID>978-3-319-21293-7</BookID>
+          <BookTitle>Modern Stroke Rehabilitation through e-Health-based Entertainment</BookTitle>
+        </ChapterContext>
+      </ChapterInfo>
+      <ChapterHeader>
+        <AuthorGroup>
+          <Author AffiliationIDS="Aff3" CorrespondingAffiliationID="Aff3">
+            <AuthorName DisplayOrder="Western">
+              <GivenName>Artur</GivenName>
+              <FamilyName>Krukowski</FamilyName>
+            </AuthorName>
+            <Contact>
+              <Email>krukowa@intracom-telecom.com</Email>
+            </Contact>
+          </Author>
+          <Author AffiliationIDS="Aff4">
+            <AuthorName DisplayOrder="Western">
+              <GivenName>Emmanouela</GivenName>
+              <FamilyName>Vogiatzaki</FamilyName>
+            </AuthorName>
+          </Author>
+          <Author AffiliationIDS="Aff5">
+            <AuthorName DisplayOrder="Western">
+              <GivenName>Steffen</GivenName>
+              <FamilyName>Ortmann</FamilyName>
+            </AuthorName>
+          </Author>
+          <Affiliation ID="Aff3">
+            <OrgName>Intracom S. A. Telecom Solutions</OrgName>
+            <OrgAddress>
+              <City>Peania</City>
+              <Country>Greece</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff4">
+            <OrgName>Research for Science, Art and Technology (RFSAT) Ltd.</OrgName>
+            <OrgAddress>
+              <City>Sheffield</City>
+              <Country>UK</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff5">
+            <OrgName>IHP</OrgName>
+            <OrgAddress>
+              <City>Frankfurt (oder)</City>
+              <Country>Germany</Country>
+            </OrgAddress>
+          </Affiliation>
+        </AuthorGroup>
+        <Abstract ID="Abs1" Language="En" OutputMedium="All">
+          <Heading>Abstract</Heading>
+          <Para ID="Par1">This chapter describes an overview of research into the design principles for the system envisioned for the rehabilitation of stroke patients. The report identifies the design principles from two perspectives. From one side, it describes the system user needs/clinical specification—this describes the system requirements from a user/therapist perspective in order to provide the service and ensure effective usability of the system. On the other hand, it shows the system from a technical perspective—detailing the operational system to be used for pilot testing, proof-of-concept experiments and demonstration purposes. This offers the development of system requirements from both perspectives for a functional and operational system. These requirements can be implemented into forthcoming work packages to achieve both technical objectives and to satisfy user needs. A review of the literature and the findings of our National Institute of Health Research (NIHR) Programme ‘Assistive Technologies in Rehabilitation of the Arm following Stroke’ (ATRAS REF: RP-PG-0707-10012) has informed the proposed design from the user needs perspective. The chapter then follows up with the system specification and the description of the conceptual architecture.</Para>
+        </Abstract>
+      </ChapterHeader>
+      <Body>
+        <Section1 ID="Sec1">
+          <Heading>User Needs for Post-stroke Home-Based Rehabilitation System</Heading>
+          <Para ID="Par2">There is a paucity of literature published on user perspectives of home-based rehabilitation technology; however, some key work from the ‘SMART’ consortium research project may be useful to aid the development of the StrokeBack system. The SMART project, funded by the Engineering and Physical Sciences Research Council (UK), was a joint project with partners from Sheffield Hallam University, University of Bath, University of Essex, University of Ulster and the Stroke Association. The project started in November 2003 and completed in December 2006. The aim of the project was to explore how technology might be used to facilitate active in-home rehabilitation for people following stroke [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR2">2</CitationRef>]. The main issues to consider when developing a rehabilitation system for post-stroke patients are:<UnorderedList Mark="Bullet">
+              <ItemContent>
+                <Para ID="Par3">How home-based rehabilitation for stroke can be promoted</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par4">How to develop and test a home-based stroke rehabilitation system</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par5">The use of a computer interface and wearable sensor technologies</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par6">The practicalities of home-based rehabilitation technologies</Para>
+              </ItemContent>
+            </UnorderedList>
+</Para>
+          <Para ID="Par7">The SMART system was developed to offer home-based upper limb rehabilitation to stroke patients. It utilised accelerometer technology with a goal to collect 3D data at preferred locations on the patients’ limbs. Patients interacted with the interface of the system via their personal computer. Their computer also served as a base station to receive movement data collected by their body area network. The monitoring system was web based and consisted of a central server which managed all data from patients and health professionals. System has two levels of access, one for health care professionals and one for patients. In order to identify the necessary components of the SMART system, the research group has published a number of papers which detail the user needs of a home-based rehabilitation system [<CitationRef CitationID="CR1">1</CitationRef>–<CitationRef CitationID="CR7">7</CitationRef>].</Para>
+          <Para ID="Par8">The initial design requirements, sensor attachments and usability of the system were identified by interviews and focus groups with a total of 16 therapists, 39 patients, and 13 carers. The interviews were carried out with new participants and some expert patients (who became familiar with the system and could comment on new developments). A first prototype of the system was tested with 5 therapists and 4 stroke patients who could use the system in a 2-week trial. The clinical specification of the system was developed from 28 therapist responses to a postal survey. The second prototype was tested on 8 patients. The findings of this research were that the home-based rehabilitation should be:<UnorderedList Mark="Bullet">
+              <ItemContent>
+                <Para ID="Par9">An aid to therapy—patients did not want a standalone therapy</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par10">Not to be specific to one ‘model of therapy’</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par11">Flexible to individual needs as no two stroke survivors are the same</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par12">Simple and compact to use, adaptable to individual needs in their home</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par13">Take into account difficulties with memory, perception, language, information processing, and attention impairments associated with stroke</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par14">Give feedback on rehabilitation performance, even when progress is slow</Para>
+              </ItemContent>
+            </UnorderedList>
+</Para>
+          <Section2 ID="Sec2">
+            <Heading>Sensor Attachments and Fastening</Heading>
+            <Para ID="Par15">During testing of the initial prototype, stroke patients tried to don sensors that had been designed with a clip to accommodate left- and right-sided stroke patients. Each sensor therefore had two clips; patients found this too confusing and were unable to don the sensors easily. Clothing garments were also found to be initially difficult to don. Patients found the chest strap too confusing and those who were able to use it found they became fatigued quickly after attempting to don the chest strap sensors. This led to patients who wore the chest straps doing less rehabilitation exercises due to their fatigue levels. Sensor attachments which had Velcro fastening were difficult for patients to attach due to the high level of friction. A fastening with a ridged strap was found to be simple to don but not comfortable to wear for extended periods of time. The patients felt the optimal sensor attachment was a simple wristband that can be adjusted with one hand.</Para>
+          </Section2>
+          <Section2 ID="Sec3">
+            <Heading>Physical System Design</Heading>
+            <Para ID="Par16">The prototype testing revealed that many stroke patients have problems with computers and using a standard mouse. One fundamental finding is that the system is easily incorporated into patients living environments, without the need to store large amounts of equipment in the home or the need to set it up daily. The majority of patients were very unfamiliar with standard computers and preferred an interface with a touch screen and audio instructions of how to use the system.</Para>
+          </Section2>
+          <Section2 ID="Sec4">
+            <Heading>Computer Interface Design</Heading>
+            <Para ID="Par17">With regard to the rehabilitation exercises patients found a ‘tree style’ navigation confusing, (e.g. they had to click on an image of a whole body, then click on an image of an upper limb, then click on an image of an elbow before they could view elbow exercises they had done). The researchers replaced the tree style navigation with a ‘calendar function’. This allowed patients to select and review exercises based on the time and date they were carried out. Patients found having visual icons for each movement helpful. For example:</Para>
+            <Para ID="Par18">
+<InlineMediaObject>
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_2_Figa_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </InlineMediaObject> Reaching movement</Para>
+            <Para ID="Par19">
+<InlineMediaObject>
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_2_Figb_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </InlineMediaObject> Grasping movement</Para>
+            <Para ID="Par20">Therapists and patients found a text area for therapists’ comments useful, as therapists could provide further tailored feedback and encouragement to patients. Finally, the later prototypes of the SMART system were developed with a minimum number of buttons and options. Buttons had to be large, easy to view and colour coded with themes.</Para>
+          </Section2>
+          <Section2 ID="Sec5">
+            <Heading>Exercise Prescription</Heading>
+            <Para ID="Par21">Patients and therapists felt that a home-based system could create a danger of allowing patients to have too much exercise, which can be demotivating and stop them from using it. There has to be a balance between protecting the stroke patient and not progressing their rehabilitation and giving too much exercise that is directly unsupervised.</Para>
+          </Section2>
+          <Section2 ID="Sec6">
+            <Heading>Feedback on Progress (and Interface Design of Feedback)</Heading>
+            <Para ID="Par22">The majority of patients described this as one of the most important factors in adhering to the exercises. The first prototype of the system used graphs as feedback. Patients did not find this helpful and required a simpler visual feedback system. Patients opted to see a ‘target movement’ next to their own movement. This allowed them to see how close their upper limb exercises were compared to an ideal movement. The smart system used a 3D graphic of a target movement, which was generally well received. One prototype of the system allowed patients to view the target movement and their own movement from three angles; however, patients found this unnecessary and overly complex. Patients agreed that they wanted an objective score of their movements and rehabilitation progress in addition to a display of their previous attempts over time. Finally, some patients reported that they would like the option to record their own notes. In the event of a fall at home or illness, they wanted a method to see if adverse conditions meant their rehabilitation was more difficult than usual.</Para>
+          </Section2>
+          <Section2 ID="Sec7">
+            <Heading>Outcome Measures and Compliance</Heading>
+            <Para ID="Par23">Patients and therapists felt that all outcomes must be relevant to restoring upper limb function and activities of daily living as opposed to directly addressing impairments. The researchers found that displaying visual prompts to remind the patient to don the sensors was helpful to increase adherence. Patients also found providing a list of FAQs and a user manual with images and instructions of how to use the system helpful to aid their memory. Giving patients an example of the sensor output on the screen helped them to know if the system was working, and that they had donned the sensors in the correct position and on the correct limbs. In addition, colour coding the sensors for donning on the left and right arms helped to increase adherence to wearing the body sensors. Both patients and therapists felt engagement of family and/or carers in the development of any home-based rehabilitation system was vital, as they will often assist patient to do rehabilitation.</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec8">
+          <Heading>Clinical Specification of the System</Heading>
+          <Para ID="Par24">The StrokeBack system will consist of two parts:<OrderedList>
+              <ListItem>
+                <ItemNumber>1.</ItemNumber>
+                <ItemContent>
+                  <Para ID="Par25">‘Expert clinical system’ that in principle is hosted in a hospital, though it could be also portable, which requires expert user to set up for detailed studies and clinical knowledge for the assessment of a patient.</Para>
+                </ItemContent>
+              </ListItem>
+              <ListItem>
+                <ItemNumber>2.</ItemNumber>
+                <ItemContent>
+                  <Para ID="Par26">‘Home-based system’ that is much simpler and easy to use, allowing it to be set up by non-experts, e.g. family members or caretakers.</Para>
+                </ItemContent>
+              </ListItem>
+            </OrderedList>
+</Para>
+          <Para ID="Par27">The StrokeBack system is specific to upper limb rehabilitation and has been developed and tested during the performance of a subset of the ‘Wolf Motor Function Test’ (WMFT). The activities will encompass a wide range of levels of ability and functional tasks. The system generates extra impairment level data including: spasticity/stiffness, motor control, speed, smoothness, repeatability, fatigue and endurance, as well as effort put in.</Para>
+          <Para ID="Par28">The fundamental principle of the expert system is to become a diagnostic tool for the identification of key impairments, identified by analysis of data generated during the performance of standardised tasks. It offers a method of activity prescription. It consists of a BAN of external sensors, e.g. cameras with an aim to collect large amounts of rich highly informative data for real-time data analysis. Both real-time feedback and power consumption were not critical in this case.</Para>
+          <Para ID="Par29">The fundamental principles of the home-based system were the usability as a key to user adherence to prescriptions. The system was expected to be minimalistic and utilise a subset of the sensors allowing patients to easily interact with workstation activities. In this case, power consumption is critical, as well as the real-time data analysis and presentation.</Para>
+          <Section2 ID="Sec9">
+            <Heading>WMFT Tests</Heading>
+            <Para ID="Par30">The WMFT was chosen to test patient’s ability to perform everyday tasks using household items—being suitable for patients to perform in their homes as well as in clinic. Such tests are sensitive to a wide range of abilities; they are standardised, validated and widely used.</Para>
+            <Para ID="Par31">They enable characterisation of functional movement—i.e. not simply joint ranges and permit correlation with test-score as validation of sensor data while score can be used to prescribe rehabilitation and give feedback.</Para>
+            <Para ID="Par32">The WMFT scoring scale selected by therapists with each individual task or exercise was given a numerical value defined from:<UnorderedList Mark="Bullet">
+                <ItemContent>
+                  <Para ID="Par33">0 = when patient does not or is unable to attempt with the involved arm</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par34">1 = when the involved arm does not participate functionally and the task is not achieved; however, an attempt is made to use the arm</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par35">2 = when arm does participate and the task is achieved, but movement is influenced to some degree by compensatory movements and/or abnormal movement patterns or performed slowly and/or with effort</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par36">3 = when arm does participate and the task is achieved in one attempt; movement is close to normal but slightly slower; may lack precision, fine coordination or fluidity</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par37">4 = when arm does participate; movement appears to be normal, timely (pay attention to expected normal times) and controlled</Para>
+                </ItemContent>
+              </UnorderedList>
+</Para>
+          </Section2>
+          <Section2 ID="Sec10">
+            <Heading>Sensors, Data and Metrics</Heading>
+            <Para ID="Par38">Sensors were selected to measure movement (accelerometers, rate gyros, magnetometers), electromyogram (EMG) and possibly include also heart rate and respiration as measures of physical activity and effort. Sensor data were to be used for determining conventional metrics such as joint ranges, velocity and acceleration. More meaningful metrics related to normal movement patterns will also be determined, e.g. trunk movement during reaching, symmetry, accuracy of performance and smoothness as well as the correlation of WMFT data with the clinical score—‘assessor-free’ measure of function.</Para>
+          </Section2>
+          <Section2 ID="Sec11">
+            <Heading>Design Overview from Clinical and User Perspectives</Heading>
+            <Para ID="Par39">A decision-making system presents suggestions to the patient about activities to practice that are appropriately challenging, address-specific impairments, goals and interests. These suggestions were classified as exercises and ADL.</Para>
+            <Para ID="Par40">Basic principles were for patients to choose activities that they want to practice from an appropriate targeted range and then allowing patients to sets their own targets for each day or for the longer term. Patients become more motivated because they have chosen their activities and feel more in control and responsible. In conclusions of clinical, the system specification included:<UnorderedList Mark="Bullet">
+                <ItemContent>
+                  <Para ID="Par41">Self-management as key to patients—locus of control [<CitationRef CitationID="CR8">8</CitationRef>]</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par42">Motivation and fun as key to ensure adherence and achieving benefit</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par43">Designed to achieve realistic goals</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par44">Intensity of exercises targeted to individuals based on results assessment</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par45">Reaching ability level near normal operation is likely to be maintained</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par46">Offering an intelligent progression of tasks and activities</Para>
+                </ItemContent>
+              </UnorderedList>
+</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec12">
+          <Heading>Ethical and Privacy Protection Regulations and Directives</Heading>
+          <Para ID="Par47">One of the most controversial issues for PHRs is how the technology could threaten the privacy of patient information [<CitationRef CitationID="CR9">9</CitationRef>]. Network computer break-ins are becoming more common, thus storing medical information online can cause fear of the exposure of health information to unauthorised individuals. In addition to height, weight, blood pressure and other quantitative information about a patient’s physical body, medical records can reveal very sensitive information, including fertility, surgical procedures, emotional and psychological disorders, diseases, etc. Various threats exist to patient information confidentiality, example of are:<UnorderedList Mark="Bullet">
+              <ItemContent>
+                <Para ID="Par48">Accidental disclosure: during multiple electronic transfers of data to various entities, medical personnel can make innocent mistakes in its disclosure.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par49">Internal leaks: medical personnel may misuse their access to patient information out of curiosity, or leak out personal medical information for profit, revenge or other purposes.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par50">Uncontrolled secondary usage: those who are granted access to patient information solely for the purpose of supporting primary care can exploit that permission for reasons not listed in the contract, such as research.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par51">External intrusion: Former employees, network intruders, hackers or others may access information, damage systems or disrupt operations.</Para>
+              </ItemContent>
+            </UnorderedList>
+</Para>
+          <Para ID="Par52">Unlike paper-based records that require manual control, digital health records are secured by technological tools. Rindfleisch [<CitationRef CitationID="CR6">6</CitationRef>] identifies three general classes of technological interventions that can improve security:<UnorderedList Mark="Bullet">
+              <ItemContent>
+                <Para ID="Par53">Deterrents—These depend on the ethical behaviour of people and include controls such as alerts, reminders and education of users. Useful form of deterrents is Audit Trails, recording identity, times and circumstances of users accessing information. Users aware of such a record keeping system are discouraged from taking ethically inappropriate actions.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par54">Technological obstacles—These directly control the ability of a user to access information and ensure that users only access information they need to know according to their job requirements. Examples of technological obstacles include authorisation, authentication, encryption, firewalls and more.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par55">System management precautions—This involves proactively examining the information system to ensure that known sources of vulnerability are eliminated. An example of this would be installing antivirus software in a system.</Para>
+              </ItemContent>
+            </UnorderedList>
+</Para>
+          <Para ID="Par56">The extent of information security concerns surrounding PHRs extends beyond technological issues. Each transfer of information in treatment process must be authorised by patients even if it is for their benefit. No clearly defined architectural requirements and information use policies are yet available. While the trends and developments of ICT in healthcare have given rise to many positive developments, concerns about the use of ICT in user services mainly concentrate on the difficulty of respecting privacy and confidentiality when third parties may have a strong interest in getting access to personal health data electronically recorded and stored and difficulty in ensuring the security of shared personal data [<CitationRef CitationID="CR10">10</CitationRef>].</Para>
+          <Para ID="Par57">Therefore, the project is dedicated to respecting and protecting the personal data, considered as extremely sensitive since they refer to the identity and private life of the individual. It recognises the intent to create a potential for the circulation of personal data across local, national and professional borders, giving such data an enhanced European dimension, while respecting the principles of the European Convention of Human Rights, the rules of the Convention of the Council of Europe for the protection of individuals with regard to automatic processing of personal data and especially the European Directive 95/46/EC, for the protection of personal data will be strictly followed when addressing ethical issues.</Para>
+          <Section2 ID="Sec13">
+            <Heading>Involving Adult Healthy Volunteers</Heading>
+            <Para ID="Par58">Potential ethical issues that are addressed in this research will involve end-user interviews, questionnaires and trialling of prototype systems during the development and testing. The right to privacy and data protection is a fundamental right, and therefore volunteers have the right to remain anonymous and all research will comply with Data Protection legislation as to ICT research data related to volunteers.</Para>
+            <Para ID="Par59">During our research, only participants who have sufficient cognitive and physical ability to be able to safely participate and clearly give informed consent are asked to participate. Potential ethical issues arise from the fact that participants, especially those who may tire easily or become distressed. Ethical issues may also arise when the system is used to give participant location or well-being information to third parties. Here, release of this information is subject to informed consent of participants, and subject to the ethical frameworks to restrict knowledge of this information to only those given consent.</Para>
+            <Para ID="Par60">All participants in the research are volunteers enrolled from the end-user groups connected with this research, and all ethical criteria are supervised by ethicists. At all times, participants are ensured privacy and technical platform managing private user data is fully geared to enforce ethics.</Para>
+          </Section2>
+          <Section2 ID="Sec14">
+            <Heading>Tracking the Location of People</Heading>
+            <Para ID="Par61">Tracking the location of people is tightly linked with services delivered at the location of the user. This requires new look at the new socio-legal issues they raise. In the developed system, we only consider laws applicable to protecting privacy of the general population and NOT the laws and regulation specific for the case of the employee tracking and localisation.</Para>
+            <Para ID="Par62">The European legislation has adopted specific rules requiring that the consent of users or subscribers be obtained before location data are processed, and that the users or subscribers be informed about the terms of such processing. The rule is that the applicable law is that of the Member State where the ‘controller’ is established; and not that of the Member State of which the data subject is a national. ‘If the controller is not established in a Member State, and in that case data protection laws of the third country should be found adequate by the EU-Commission’ [<CitationRef CitationID="CR11">11</CitationRef>].</Para>
+            <Para ID="Par63">Location data collection will be in accordance with some basic principles: finality, transparency, legitimacy, accuracy, proportionality, security and awareness. Access to location data must be restricted to persons who in the course of exercising their duties may legitimately consult them in light of their purpose. The relevant laws include:<UnorderedList Mark="Bullet">
+                <ItemContent>
+                  <Para ID="Par64">Directive 95/46/EC: Protection of individuals with regard to processing of personal data and free movement of such data [<CitationRef CitationID="CR12">12</CitationRef>]</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par65">Directive 2002/58/EC: Processing of personal data and protection of privacy in electronic communications [<CitationRef CitationID="CR11">11</CitationRef>]</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par66">Directive 58/2002/EC of the European Parliament and of the Council of 12th July 2002 [<CitationRef CitationID="CR13">13</CitationRef>]</Para>
+                </ItemContent>
+              </UnorderedList>
+</Para>
+            <Para ID="Par67">Processing of personal data and the protection of privacy in electronic telecommunications sector is governed by:<UnorderedList Mark="Bullet">
+                <ItemContent>
+                  <Para ID="Par68">Directive 97/66/EC: Data Protection in the Telecommunications Sector [<CitationRef CitationID="CR14">14</CitationRef>]</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par69">Directive 99/5/EC: Radio equipment and telecommunications terminal equipment and the mutual recognition of their conformity [<CitationRef CitationID="CR15">15</CitationRef>]</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para ID="Par70">Art. 29—Data Protection Working Party: Working Document on Privacy on the Internet [<CitationRef CitationID="CR16">16</CitationRef>]</Para>
+                </ItemContent>
+              </UnorderedList>
+</Para>
+          </Section2>
+          <Section2 ID="Sec15">
+            <Heading>Specific Approaches Adopted</Heading>
+            <Para ID="Par71">The consent of users or subscribers shall be obtained before location data needed for supplying a value-added service are processed. Users or subscribers will be informed about the terms of such use. Access to location data must be restricted to persons who in the course of exercising their duties may legitimately consult them in the light of their purpose. All required user profile data are stored upon his/her mobile device and be securely protected.</Para>
+            <Para ID="Par72">Relevant preferences relate to his/her diet, physical activities, dietary or transport/tourism-related preferences, and, in general, simple everyday task preferences will not be stored locally. The user will have the capacity to view/hear, change or delete, as he/she wishes, all stored data by the system (including his/her profile data), with the help of a very simple and multimodal interaction (touch, buttons and voice input supported).</Para>
+            <Para ID="Par73">Types of data to be retained under categories identified in Article 4 of Directive 95/58 of 12<Superscript>th</Superscript> July, 2002. Specific safeguards—issues considered by the Article 29 working parties to be addressed with regard to the retention of data processed in connection with the provision of public electronic communication services (21st October 2005 opinion on the same subject directive proposal issued by the EU Commission on 21st September 2005).</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec16">
+          <Heading>Authentication and Authorisation</Heading>
+          <Para ID="Par74">Authentication and authorisation are two main means for allowing access for the user to a resource. Authentication involves such issues like identifying the user by means of either a simple login/password check to elaborate biometric analysis involving fingerprints, retina scans and voice and/or face recognition. Authorisation then performs checks whether a given user may be granted access to a given resource or not.</Para>
+          <Para ID="Par75">Such processes have been part of any secure system from the beginning of computing systems. Their complication has increased recently with the rapid growth of the amount of information resources and number of user accounts in each system, platform and/or network. This increases network administrators’ work on properly securing their network and databases against unauthorised access at the same time providing users’ with uninterrupted access to resources that they should be authorised to access.</Para>
+          <Para ID="Par76">However, currently employed methods for performing authentication and authorisation, in most cases, require user authentication every time he moves between resources stored on differently protected sites causing annoyance and loss of time. On the other hand, approach to authorising users based on user-resource association requires tedious administrators’ job to properly secure access to different resources and gives rise to frequent faults when users are either authorised to access resources that they should not have access to or not being able to access those that they should be able to.</Para>
+          <Para ID="Par77">This problem has been identified and addressed in almost all the systems since long time [<CitationRef CitationID="CR17">17</CitationRef>]. Administrators are offered means for specifying access rights per-user group, policy definition mechanisms and macros allowing them to simplify management of access right to both existing and new users. Despite the fact that these tools are used, the problems of authentication and authorisation still contain loop holes attributed mostly to human errors than to machine security as such. Our proposed seamless authentication and authorisation is aimed to simplify further the process of securing access to multiple-interconnected systems as well as making authorisation less prompt to faults.</Para>
+          <Para ID="Par78">Authentication is the process of authenticating a user across multiple account protected resources and platforms, i.e. agreeing between different authentication authorities means of establishing trust relationships and dependability for transferring users authentication status, i.e. checking that a user is who they claim to be. The process will include customisation of means of authentication whereby users will not be required to perform authentication while transferring from one trusted party to another using single authentication.</Para>
+          <Para ID="Par79">In the case of moving from a party with lower authentication requirements to one requiring higher level of authentication, user will only be required to perform extra security checks while accessing differently protected resources instead of performing the whole authentication process from the beginning. Approaches like this have been already proposed, most known being Windows Passport or Live Account [<CitationRef CitationID="CR18">18</CitationRef>], where user may move between sites that support this technology. However, such methods do not take into account differences between authentication means required by different sites. This limits applicability of technologies to social websites aiming to keep a record of users accessing their services.</Para>
+          <Para ID="Par80">Authorisation in computer terms refers to granting access to a resource to a given user. In most computer systems, granting access is related to belonging to a specific user group meant to allowing administrators defining single access rights rules for a group of users. However, this makes it very difficult when it comes to more per-user access granting, especially in systems with large number of user accounts. What we propose is to unify and simplify means of granting user access to given resources.</Para>
+          <Para ID="Par81">The process will define sets of resource authorisation dependencies whereby access to one resource may be implicitly granted upon prior-assigned access rights to another resource. This will allow removing the need for the security administrator to provide access rights to every user to every resource, instead concentrating on defining security interdependencies between resources and defining user access right only to key global resources. Note that this will not remove a possibility to explicitly grant or block access to a given resource to a given user, if required.</Para>
+        </Section1>
+        <Section1 ID="Sec17">
+          <Heading>Concept Platform Architecture</Heading>
+          <Para ID="Par82">The PHR platform developed internally by Intracom S. A. Telecom Solutions, name intLIFE, has been enhanced and geared to diverse health application through a number of FP7-funded research projects, such as Artemis-CHIRON [<CitationRef CitationID="CR19">19</CitationRef>], ICT-PSP-NEXES [<CitationRef CitationID="CR20">20</CitationRef>], AAL-PAMAP [<CitationRef CitationID="CR21">21</CitationRef>], FP7-StrokeBack [<CitationRef CitationID="CR22">22</CitationRef>] and FP7-ARMOR [<CitationRef CitationID="CR23">23</CitationRef>]. Special adaptations have been geared to allow safe sharing of patients’ clinical data with appropriate measures, as described earlier, for the protection of private data, ensuring controlled access to it while ensuring that any data distributed cannot be traced back to the person from whom data has been taken from. This way a medical system based on PHR system could be safely applied for the purpose of deriving clinical models build from large amount of data for subsequently allowing more reliable feature-based clinical diagnosis on other patients and detection of conditions not possible earlier. In order to provide necessary privacy and security safeguards EHR/PHR, Vital Signs Monitoring and Management subsystems are all connected via secure and encrypted interfaces controlled via authentication, authorisation, and anonymising modules.</Para>
+          <Para ID="Par83">A conceptual system architecture of the StrokeBack system is presented in Fig. <InternalRef RefID="Fig1">2.1</InternalRef>. It contains a Patient System deployed at home supporting physiological remote monitoring of patient well-being, runs the rehabilitation games and offers full integration with online Personal health Record (PHR) used as a data repository for sharing information between the patient and his/her physician(s).<Figure Category="Standard" Float="Yes" ID="Fig1">
+              <Caption Language="En">
+                <CaptionNumber>Fig. 2.1</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>Concept architecture of the overall rehabilitation system</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO1">
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_2_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </MediaObject>
+            </Figure>
+</Para>
+          <Para ID="Par84">It offers full support to immersive user interfaces like Kinect [<CitationRef CitationID="CR24">24</CitationRef>], Leap Motion [<CitationRef CitationID="CR25">25</CitationRef>], Emotiv EEG [<CitationRef CitationID="CR26">26</CitationRef>] and other ones, combined with a range of virtual and augmentation systems in order to enable fully immersive gaming experience. As shown in Fig. <InternalRef RefID="Fig2">2.2</InternalRef>, we support 3D Smart TVs, AR/VR visors and 3D projectors.<Figure Category="Standard" Float="Yes" ID="Fig2">
+              <Caption Language="En">
+                <CaptionNumber>Fig. 2.2</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>Physical architecture of a gaming subsystem</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO2">
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_2_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </MediaObject>
+            </Figure>
+</Para>
+          <Para ID="Par85">The system is geared to offer also fully support usage also on mobile devices like smartphones, tablets, etc. We have developed an affordable integrated gaming solution for both near field and full-body exercises, which we call the ‘Smart Table’ (Fig. <InternalRef RefID="Fig3">2.3</InternalRef>). The clinician part of the system provides access to back-office PHR data repository for constant monitoring of patients’ condition. The current design contains two Kinect sensors: one at table level for supporting use of physical objects and one at the top for upper body exercising. Two displays are embedded, one flat for physical objects while the top one for displaying more classical board games controlled either with Kinect or other user interfaces. The progress of their rehabilitation and other relevant physiological data including audio–visual connection are also provided, if needed. The back-office services are currently based on open-source solutions like Open EMR [<CitationRef CitationID="CR27">27</CitationRef>] platforms.<Figure Category="Standard" Float="Yes" ID="Fig3">
+              <Caption Language="En">
+                <CaptionNumber>Fig. 2.3</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>Concept (<Emphasis Type="Bold">a</Emphasis>) and actual (<Emphasis Type="Bold">b</Emphasis>) ‘Virtual Table’</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO3">
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_2_Fig3_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+              </MediaObject>
+            </Figure>
+</Para>
+          <Para ID="Par86">Ultimately, they will be migrated to the intLIFE core PHR service platform. The overall gaming system has been designed using client–server approach allowing us to store the game repository and game provision of the PHR server, thus maximally lowering the load on the client devices. This allowed us from one side to run games on such devices as Smart TVs or Smartphones, while offering us flexibility of maintaining the latest versions of the games without the need of updating the clients. However, since any network-based system needs to anticipate that connectivity may not be always maintained, we have built into our system two scenarios: when network is constantly available and when it is not (Fig. <InternalRef RefID="Fig4">2.4</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig4">
+              <Caption Language="En">
+                <CaptionNumber>Fig. 2.4</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>Online and off-line ‘game’ management</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO4">
+                <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_2_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+              </MediaObject>
+            </Figure>
+</Para>
+          <Para ID="Par87">In the former case, game server is executed remotely, while in the latter one it can be executed locally and use games downloaded earlier. Similarly, physiological data and game progress info can be either uploaded on the fly or pre-stored and uploaded when network link is re-established.</Para>
+        </Section1>
+        <Section1 ID="Sec18">
+          <Heading>BAN System Overview</Heading>
+          <Para ID="Par88">It is not appropriate or possible to provide a technical specification for the BAN system this early since this is an area that will continue to evolve over the duration of the research programme. Nevertheless, it is possible to present an overview of the BAN system in terms of its intended use. Basically, there will be two types of BAN system: an expert system and a home-based system. The former is intended for use within the clinic and will host a number of different types of sensor producing ‘rich’, high quality data. It will be the more complex of the two systems and therefore by necessity will require the assistance of skilled operators to set it up and fit it to a patient. By comparison, the home-based version will contain a minimal set of sensors and a data logging capability. Its design will be driven by the requirements for simplicity of use, ease of donning/doffing and operational lifetime. The quality of data expected from this system will not be as high as that for the expert system, though still of sufficient value to produce a qualitative indicator of rehabilitation progress.</Para>
+          <Section2 ID="Sec19">
+            <Heading>Sensor Specification</Heading>
+            <Para ID="Par89">Prior to and while the BAN sensors are being developed, initial investigations will use commercially available wireless sensors with measurements being performed both on able-bodied subjects and on stroke patients with varying degrees of upper limb impairment. These investigations will allow us to develop and evaluate various data compression techniques and feature extraction methodologies, as well as establishing sensor type, number and placement to optimise reconstruction of limb movement. Methods for securely attaching sensors to the body will also be investigated with particular emphasis on the ease with which these items can be put on and taken off.</Para>
+            <Para ID="Par90">A review of the available literature indicates that accelerometers are widely used in kinematic studies of various clinical pathologies and in studies monitoring a range of different human movements [<CitationRef CitationID="CR28">28</CitationRef>]. The magnitude of accelerations generated during human movement varies across the body and depending on the activity being performed generally increase in size from cranial toward caudal body parts. Bouten et al. concluded that waist level body-worn accelerometers must be able to measure accelerations up to ±6 g with frequencies up to 20 Hz in order to assess daily physical activities [<CitationRef CitationID="CR29">29</CitationRef>]. Magnetometers are often used in conjunction with accelerometers to provide spatial coordinate information using the Earth’s magnetic field as a reference allowing more accurate tracking of body parts [<CitationRef CitationID="CR30">30</CitationRef>, <CitationRef CitationID="CR31">31</CitationRef>]. Errors can however occur when a body part is rotated since such a motion would be recorded by an accelerometer as a decrease in acceleration (due to a change in the magnitude of the gravitational component of the measured signal). To overcome this problem, rate gyroscopes can be used to detect when body part rotation occurs and correct the accelerometer signal [<CitationRef CitationID="CR32">32</CitationRef>].</Para>
+            <Para ID="Par91">An ideal sensor system for the accurate kinematic measurement of human body parts should therefore comprise accelerometers, magnetometers and gyroscopes. A commercial sensor system that meets this requirement has been identified: the Shimmer platform (<ExternalRef>
+                <RefSource>www.shimmer-research.com</RefSource>
+                <RefTarget Address="http://www.shimmer-research.com" TargetType="URL"/>
+              </ExternalRef>). This system is based upon a body-worn node that contains as standard a 3-axis accelerometer, a 2 Gbyte detachable memory card for on-board data storage and a low power 2.4 GHz 802.15.4 radio communication link for live data transmission. A range of other modules can be directly attached to the base module each of which provides additional functionality (e.g. magnetometers, rate gyroscopes, EMG and ECG). The wireless capability of this system permits untethered connection of the sensor modules to the body, thus reducing movement restrictions associated with cabling and allowing unhindered, natural movement.</Para>
+            <Para ID="Par92">Of particular interest in the Shimmer system is the 9-degrees of freedom (DoF) sensor module which includes a 3-axis accelerometer, a 3-axis angular rate gyroscope and a 3-axis magnetometer. Relevant parameters for this sensor module are listed in Table <InternalRef RefID="Tab1">2.1</InternalRef>. Having three different types of sensor housed together in a single unit means that each type of sensor can be simultaneously subjected to exactly the same movements and forces during evaluation. This will allow direct comparisons to be made between sensor types and between specific kinematic parameters derived from the data produced by single types of sensor or by combinations of sensor types.<Table Float="Yes" ID="Tab1">
+                <Caption Language="En">
+                  <CaptionNumber>Table 2.1</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Shimmer 9DoF sensor module parameters</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <tgroup cols="4">
+                  <colspec align="left" colname="c1" colnum="1"/>
+                  <colspec align="left" colname="c2" colnum="2"/>
+                  <colspec align="left" colname="c3" colnum="3"/>
+                  <colspec align="left" colname="c4" colnum="4"/>
+                  <thead>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Parameter</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Accelerometer</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>Magnetometer</SimplePara>
+                      </entry>
+                      <entry colname="c4">
+                        <SimplePara>Rate gyroscope</SimplePara>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Range</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>±1.5 g, ±6 g switchable</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>±4 G</SimplePara>
+                      </entry>
+                      <entry colname="c4">
+                        <SimplePara>±500°/s</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="1">
+                        <SimplePara>Sensitivity</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>800 mV/g</SimplePara>
+                      </entry>
+                      <entry colname="c3" morerows="1">
+                        <SimplePara>7 mG</SimplePara>
+                      </entry>
+                      <entry colname="c4" morerows="1">
+                        <SimplePara>2 mV/°/s</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>206 mV/g</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Linearity</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>±1.0 % FS</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>±0.1 % FS</SimplePara>
+                      </entry>
+                      <entry colname="c4">
+                        <SimplePara>&lt;1.0 % FS</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Cross-axis sensitivity</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>±5.0 %</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>±0.2 % FS/G</SimplePara>
+                      </entry>
+                      <entry colname="c4">
+                        <SimplePara>±1.0 %</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Frequency response</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>300 Hz</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>–</SimplePara>
+                      </entry>
+                      <entry colname="c4">
+                        <SimplePara>140 Hz</SimplePara>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </Table>
+</Para>
+            <Para ID="Par93">A PC-based motion capture system will also form part of the measurement system. This can be trained to recognise the upper limb of a patient and track its motion during exercises and tasks, producing near real-time values for joint angle, upper and lower arm segment velocities, etc. Depending on how accurately this can be achieved, data from the motion capture system could be considered as a ‘gold’ standard. It may also prove possible to train the system to recognise the locations of sensors on the BAN and recalibrate them if they are observed to be out of position, in an incorrect orientation or misaligned.</Para>
+            <Para ID="Par94">Two different motion capture systems will be assessed: the Microsoft Kinect and the ASUS Xtion Pro Live. Both have two vision systems: RGB and infrared. The former simply responds to visible light and as such cannot provide depth information but will be used to provide real-time recordings of patient movement. The infrared camera system works by using time-domain reflectometry (TDR), where the time difference between a pulse of infrared light emitted from the system and its subsequent detection when reflected from an object is used to calculate the distance to the reflecting surface. Thus, the infrared camera system is capable of measuring depth. It might be possible to use the infrared system to calibrate the Shimmer sensors. In this respect, the camera system will be trained to recognise a Shimmer sensor and its orientation and then used to record its movement during predefined calibration exercises.</Para>
+            <Para ID="Par95">Data produced by the Shimmer sensors can then be directly compared with the data generated by the camera system and any differences in derived spatial positions can be used to generate calibration coefficients. Relevant technical specifications for the two motion capture systems are directly compared in Table <InternalRef RefID="Tab2">2.2</InternalRef>. Microsoft have recently released the Kinect version 2 system which is reported to have a near field range down to 0.4 m, though no other technical data is available from their website. A number of different sensors and assessment techniques will be used to monitor patient rehabilitation both in the home environment (the home-based system) and also in the clinic (the expert system). The types of sensor and how they will be deployed will depend on the assessment technique used.<Table Float="Yes" ID="Tab2">
+                <Caption Language="En">
+                  <CaptionNumber>Table 2.2</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Comparison of motion capture system specifications</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <tgroup cols="3">
+                  <colspec align="left" colname="c1" colnum="1"/>
+                  <colspec align="left" colname="c2" colnum="2"/>
+                  <colspec align="left" colname="c3" colnum="3"/>
+                  <thead>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Parameter</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Xtion Pro Live</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>Kinect</SimplePara>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Range (m)</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>0.8–3.5</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>1.2–3.5</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Horizontal field of view</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>58°</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>57°</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Vertical field of view</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>45°</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>43°</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry nameend="c3" namest="c1">
+                        <SimplePara>Data streams</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>320 × 240 16-bit colour (frames/s)</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>60</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>30</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>640 × 480 32-bit colour (frames/s)</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>30</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>30</SimplePara>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </Table>
+</Para>
+          </Section2>
+          <Section2 ID="Sec20">
+            <Heading>Expert System Use Case</Heading>
+            <Para ID="Par96">The expert system is designed to be employed in a controlled environment under the supervision of a physiotherapist, or other appropriately qualified clinician, trained in its use. This will generally take place at the clinic although it could possibly be used within the home environment as well if suitable personnel are present.</Para>
+            <Para ID="Par97">The expert system will consist of a number of body-worn wireless sensors (the expert BAN) and a PC-based motion capture system (Kinect or ASUS [<CitationRef CitationID="CR33">33</CitationRef>]). The choice of sensors used will be kinematic sensor modules (comprise tri-axial accelerometers, tri-axial rate gyroscopes and tri-axial magnetometers, which when combined give 9 degrees of freedom in measurement), EMG sensors to monitor muscle activity in the biceps and triceps and an ECG sensor to monitor heart rhythm. The kinematic sensor modules will be positioned on the forearm just above the wrist, on the upper arm just above the elbow and on the sternum, though exact positioning will be determined through early stage investigations. The motion capture system will be used to film the patient as they perform specific tasks and exercises, and the temporal film record will be used as a qualitative measure of patient rehabilitation progress.</Para>
+            <Para ID="Par98">Appropriate methods to provide secure and repeatable attachment of the sensors to the body will be investigated early in the research programme as well as the effects of sensor orientation and misalignment.</Para>
+            <Para ID="Par99">Assessment with the expert system will initially commence with a face-to-face dialogue between the patient and clinician. From this, the clinician will be able to establish the patient’s level of impairment and the patient will be able to inform the clinician as to what their personal objectives from rehabilitation are. This will enable the clinician to decide which of a range of upper limb functional tasks and exercises are most appropriate for the patient. Following on from this dialogue, the measurement phase commences with the patient encouraged to perform a subset of exercises and functional tasks from the WMFT collection, which will have been specifically selected by the clinician to suit the patient’s objectives and perceived capabilities.</Para>
+            <Para ID="Par100">The motion capture system will record the patient’s movements during the exercises. Through suitable signal processing, the motion capture system will produce temporal and spatial kinematic information including: limb segment position in space, limb segment velocity and acceleration, joint angles, and total time for individual task completion. Accordingly, the motion capture system can be considered as a ‘standard’ against which data derived from other sensor sources can be compared.</Para>
+            <Para ID="Par101">During the exercises, data from the body-worn wireless sensors will also be directly transmitted to the host PC in real time and processed in two different ways. Firstly, transformation algorithms will convert the raw sensor data to three-dimensional spatial information which will be directly compared with the data generated from the motion capture system. This will serve as a simple check on the accuracy and robustness of the transformation algorithms. The second data processing strategy will involve searching for patterns within the sensor data that exhibit high correlation with specific movements of the upper limb or specific functional tasks being performed. These data patterns will be used by the home-based system as templates to determine whether such movements are being performed by the patient during normal activities of daily living. Other features of the data recorded (such features to be determined) will also be used as metrics to assess rehabilitation progress. For example, this might include calculating energy expenditure from EMG data or estimating metabolic rate from ECG data.</Para>
+            <Para ID="Par102">The clinician will also assess the patient while they perform the prescribed exercises and use their professional judgement to rate the patient in accordance with the WMFT scoring system. This score will be entered into the PHR. All of the raw data collected from the body-worn wireless sensors and motion capture system as well as processed data will also be stored in the PHR.</Para>
+            <Para ID="Par103">Subsequent scheduled or ad hoc visits to the clinic will involve re-rating the patient’s performance of their specific and prescribed subset of tasks from the WMFT, allowing a longitudinal measure of rehabilitation progress to be determined with clinical credibility.</Para>
+          </Section2>
+          <Section2 ID="Sec21">
+            <Heading>Home-Based System</Heading>
+            <Para ID="Par104">Because the home-based system is required to be used with non-professional intervention, it is less complex than the expert system and will involve fewer sensors. Specifically, EMG and ECG sensors will not be incorporated within the home-based BAN. Simplicity of use and ease of donning will, however, be of prime importance since the system is intended to be operated either solely by the patient or with the assistance of a carer or family member. Two different use cases are proposed for the home-based system, representing a short controlled assessment phase and a longer uncontrolled assessment phase.</Para>
+            <Section3 ID="Sec22">
+              <Heading>Use Case 1</Heading>
+              <Para ID="Par105">In this first use case, the home-based BAN will be used in conjunction with a PC motion capture system within a controlled ‘measurement zone’ (e.g. at a work table with a customised interaction platform). Initially, the patient will be instructed to perform a number of simple tasks that effectively move the sensors through a number of predefined orientations while being filmed by the motion capture system. At the same time, the sensors will be transmitting their data to the host PC. By comparing the sensor data with that from the motion capture system, it will be possible to re-calibrate the sensors, accounting for any positional inaccuracies in sensor placement.</Para>
+              <Para ID="Par106">After this calibration phase, the patient will be asked to perform repetitions of the specific WMFT exercises identified as being appropriate to them during initial assessment at the clinic. To keep the patient engaged with these motor function tests, motivational software games will be developed that will require the patient to move the upper limb in a manner that mimics the movement requirements of the specific exercises assigned to them. Data from the body-worn sensors will be transmitted in real time to the PC through a wireless communication link and converted directly into time-stamped spatial coordinates that will be used as the input controls to the PC games. As well as making the exercises more enjoyable, this will also present the patient with real-time visual feedback on their performance.</Para>
+              <Para ID="Par107">Other relevant kinematic information will be derived from the spatial coordinate data including body segment acceleration, body segment velocity, body segment angle, body segment tremor, etc., and these will all be stored on the PC for post-exercise analysis to yield quantitative measures of performance. Such performance indicators will be presented to the patient in a suitable format at the end of the exercise session (e.g. graphs, road maps). In this manner, the patient will feel a greater sense of involvement in their own rehabilitation.</Para>
+              <Para ID="Par108">Although not (yet) clinically endorsed by health professionals, the performance indicators produced from the kinematic data as well as the raw data can still be used as symptomatic measures of patients’ rehabilitative progress. As an example, consider Fig. <InternalRef RefID="Fig5">2.5</InternalRef> which shows a pattern of data which might be collected from a single accelerometer located on the forearm. This is not real data, but has been generated simply to illustrate the point. Consider further that the data has been collected during repetitions of a specific task (e.g. reach and grasp). On the first day (left side of figure), the data shows a high degree of noise indicating a jerky movement of the forearm. It also shows that the level of noise and the time taken to complete the task have both increased by the final repetition, indicating fatigue. By comparison, the data collected for the same task some weeks later (right side of figure) shows less noise suggesting a much smoother movement of the forearm. Greater acceleration levels are also achieved, and the task is completed in a quicker time. There is also less variation between the first and final repetition indicating a lower degree of fatigue. Such comparisons of data patterns over time can therefore be used as a qualitative indicator of rehabilitation progress.<Figure Category="Standard" Float="Yes" ID="Fig5">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 2.5</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Example of accelerometer data collected during a task</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO5">
+                    <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_2_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                </Figure>
+</Para>
+              <Para ID="Par109">Data patterns like those shown in Fig. <InternalRef RefID="Fig5">2.5</InternalRef> are examples of classified data: in this example, the data has been classified as being representative of the reach and grasp task. Data collected during the game playing phase of rehabilitation will be examined to identify whether such characteristic patterns exist that can be associated with particular arm movements or tasks. The fact that the game playing involves repetitions of discrete arm movements is beneficial to this objective, allowing correlation scores to be calculated across data sets for nominally the same task, effectively ranking the patterns with a score indicating how representative they are of that particular task. Furthermore, since the game playing phase is repeated on a daily basis, any such data patterns found can be routinely updated to compensate for the patient’s improvement in task performance. These patterns will be used to determine whether their associated arm movements are being performed by the patient during activities of daily living (see next section).</Para>
+              <Para ID="Par110">Raw sensor data, processed sensor kinematic data, motion capture kinematic data and processed sensor classifying data will all be stored in the PHR through an Internet connection to the patient’s home PC, which can be accessed on demand (remotely) by clinicians to assess rehabilitation progress.</Para>
+            </Section3>
+            <Section3 ID="Sec23">
+              <Heading>Use Case 2</Heading>
+              <Para ID="Par111">In this second use case, the home-based BAN will be used to surreptitiously gather data from the patient during activities of daily living (ADLs). This removes the bias often encountered due to patients trying harder during exercises when they know that they are being assessed and therefore provides a more accurate measure of patient effort and progress. It is therefore of vital importance that the method by which the sensors are attached is both comfortable and non-intrusive to the patient and does not restrict normal activities or movements. Ideally, the BAN garments might take the form of a simple wrist strap, upper arm strap and chest band.</Para>
+              <Para ID="Par112">The home-based BAN will also contain a processing hub with data storage facility and a wireless receiver. The BAN sensors will at this stage have been re-programmed by the PC software to operate at a lower acquisition rate to prolong battery life. The hub will process the sensor data in real time and perform data compression to reduce data storage requirements (thus helping to extend the BAN operational lifetime).</Para>
+              <Para ID="Par113">Data will be gathered by the BAN over a fixed period (battery life dependent), and at the end of a session this data will be downloaded from the hub to a PC through some form of docking station. The data will then be analysed to look for the classifying, characteristic patterns that are associated with particular movements or operations (as defined in the clinical assessment phase and daily PC gaming phase). Other patient activities not previously defined by data patterns may also be inferred, such as inactivity, lying down, sit-to-stand, stand-to-sit and so on. Once these activities have been identified within the BAN data, they will be presented to the patient in a meaningful format and also stored on the PHR for later analysis by clinicians. Presentation formats might for example simply convey information such as the patient performed 20 reach-and-grasp tasks during the monitoring period which revealed that the time to complete this task increased over the course of the day by 15 % or the patient was inactive for 3 h and 20 min during the monitoring period.</Para>
+            </Section3>
+          </Section2>
+          <Section2 ID="Sec24">
+            <Heading>Summary of the System Design</Heading>
+            <Para ID="Par114">Figure <InternalRef RefID="Fig6">2.6</InternalRef> presents a simplified comparison of the three different use case scenarios for the expert and home-based system: at the clinic, gaming at home and ADL at home. The figure graphically compares three metrics: the estimated number of sensors required for each use case, the estimated time taken to complete each use case and the clinical relevance of each use case. The latter is a subjective score with maximum value of 10. It is based on the perceived quality of the data collected and its ability to generate a reliable and quantifiable score indicative of rehabilitation progress. For this metric, the scores assigned to both use cases of the home-based system are low in comparison to the clinical use case. This may prove to be rather conservative if it can be demonstrated that the home-based system can produce quantifiable data that indicates the state of rehabilitation and if it can be accepted (believed) by clinicians.<Figure Category="Standard" Float="Yes" ID="Fig6">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 2.6</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Comparison of systems</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO6">
+                  <ImageObject Color="Color" FileRef="MediaObjects/327370_1_En_2_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                </MediaObject>
+              </Figure>
+</Para>
+          </Section2>
+        </Section1>
+        <Section1 ID="Sec25">
+          <Heading>Validation and Preliminary Evaluations with Users</Heading>
+          <Para ID="Par115">Both technical system validation tests and preliminary evaluations by other project partners have been performed. Regarding the evaluations of the home rehabilitation system, we have used the following regime:<UnorderedList Mark="Bullet">
+              <ItemContent>
+                <Para ID="Par116">Patient switches on the rehabilitation gaming device.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par117">Patient starts the ‘Tele-rehabilitation’-session by using the interaction-board (Kinect-based ‘touch table’).</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par118">Patient selects the ‘autonomous training’, i.e. without real-time connection to the therapist, or ‘with supervision’. In case of no supervised training is scheduled or there is no connection to Internet, an ‘auto training’ mode is selected automatically.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par119">Patient selects an exercise game and runs it. She/he may consider former trainings scores and adjust the difficulty level. Some exercises may be accompanied by music and the patient may be asked for the desired music title. Actions follow a set of permissions configured earlier by the therapist.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par120">Patient executes the exercise in the autonomous modus. The PHR monitors and analyses the execution of tasks and exercises and generates respective feedback. Finally, training results and acquired scores are uploaded to PHR.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par121">Patient executes the exercise with live-supervision of the therapist. She/he is observed by the therapist may see the therapist on the screen via bidirectional video communication and may receive training guidance in real time.</Para>
+              </ItemContent>
+              <ItemContent>
+                <Para ID="Par122">Patient can see the final evaluation and score of an exercise after finishing it.</Para>
+              </ItemContent>
+            </UnorderedList>
+</Para>
+          <Para ID="Par123">As expected Kinect has proven unreliable for near-field upper limb tracking requiring frequent re-calibration, while Leap Motion offered sufficient precision for fingers and palm tracking.</Para>
+        </Section1>
+        <Section1 ID="Sec26">
+          <Heading>Summary and Observations</Heading>
+          <Para ID="Par124">The introduction of EHR/PHR systems is the response to the inherent problem of the medical community in dealing with growing amount of papers and printed type of medical records. This becomes also a matter of costs as much time and money is wasted on copying, faxing, and retrieving paper files. Move to electronically stored and managed patient records is both a simplification of the past problems, while adding new ones.</Para>
+          <Para ID="Par125">Hence, governments demand increasingly secure and standard-compliant health records [<CitationRef CitationID="CR34">34</CitationRef>, <CitationRef CitationID="CR35">35</CitationRef>]. In today’s world, it takes more than a simple document to meet national record keeping guidelines. Electronic Health Records are an obvious solution to all emerging problems in the medical care, offering simplification of growing patient records, stimulates easier exchange of data among medical professionals, and contributes to cutting costs of medical care as a whole. Records are accessible by multiple health providers. Subject to providing sufficient safeguards at every level, a complete security of data may be achieved. Through data encryption, password protection, the electronic health record offers a peace of mind that data is kept away from unauthorised eyes. Nevertheless, although the future of e-health has never looked so bright, there are still several concerns that need careful attention.</Para>
+          <Para ID="Par126">Growth of e-health systems inherently implies that any patient’s data may be stored not in one place, but on several diverse systems implying increased risk of leaking information to unauthorised third parties. Cyber security procedures are also not consistent across various systems, implying that some may be easier to break into and increasing vulnerability of data stored there.</Para>
+          <Para ID="Par127">What adds to the problem is lack of seamless interoperability among e-health systems based on electronic records [<CitationRef CitationID="CR36">36</CitationRef>]. Since early stages of development of HL7 standard [<CitationRef CitationID="CR37">37</CitationRef>], now one of the base reference standards for e-health, it was considered only as a set of guidelines and not a factual standard to follow. This has resulted in systems being built and deployed that had implemented only a part of the HL7 specification [<CitationRef CitationID="CR38">38</CitationRef>] suited to particular needs of a given service provider. Interoperability among such restricted systems is a tiresome process, resulting in exchanging incomplete information. This deficiency has been recently recognised as critical for future e-health and the HL7 is being evolved to define the base set of interoperability criteria for ensuring smooth collaboration among different health systems. However, this process is still ongoing and requires much more research work, including interoperability at the device level and especially for mobile physiological monitoring.</Para>
+          <Para ID="Par128">In conclusion, we can observe a dramatic change in the e-health domain with the introduction of electronic health records, boosting the efficiency of medical services at a lower cost, at the same time offering still a vast range of research challenges that we may expect to be pursued and hopefully resolved in the near future.</Para>
+        </Section1>
+      </Body>
+      <BodyRef FileRef="978-3-319-21293-7_Chapter_2.pdf" OutputMedium="Online" PDFType="Typeset" TargetType="OnlinePDF"/>
+      <ChapterBackmatter>
+        <Bibliography ID="Bib1">
+          <Heading>References</Heading>
+          <Citation ID="CR1">
+            <CitationNumber>1.</CitationNumber>
+            <BibChapter>
+              <BibAuthorName>
+                <Initials>GA</Initials>
+                <FamilyName>Mountain</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>PM</Initials>
+                <FamilyName>Ware</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Hammerton</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>SJ</Initials>
+                <FamilyName>Mawson</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Zheng</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>R</Initials>
+                <FamilyName>Davies</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>N</Initials>
+                <FamilyName>Black</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Zhou</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Hu</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>N</Initials>
+                <FamilyName>Harris</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>C</Initials>
+                <FamilyName>Eccleston</FamilyName>
+              </BibAuthorName>
+              <Year>2006</Year>
+              <ChapterTitle Language="En">The SMART project: a user led approach to developing applications for domiciliary stroke rehabilitation</ChapterTitle>
+              <BibEditorName>
+                <Initials>P</Initials>
+                <FamilyName>Clarkson</FamilyName>
+              </BibEditorName>
+              <BibEditorName>
+                <Initials>J</Initials>
+                <FamilyName>Langdon</FamilyName>
+              </BibEditorName>
+              <BibEditorName>
+                <Initials>P</Initials>
+                <FamilyName>Robinson</FamilyName>
+              </BibEditorName>
+              <Eds/>
+              <BookTitle>Designing Accessible Technology</BookTitle>
+              <PublisherName>Springer</PublisherName>
+              <PublisherLocation>London</PublisherLocation>
+            </BibChapter>
+            <BibUnstructured>G.A. Mountain, P.M. Ware, J. Hammerton, S.J. Mawson, J. Zheng, R. Davies, N. Black, H. Zhou, H. Hu, N. Harris, C. Eccleston, The SMART project: a user led approach to developing applications for domiciliary stroke rehabilitation, in <Emphasis Type="Italic">Designing Accessible Technology</Emphasis>, ed. by P. Clarkson, J. Langdon, P. Robinson (Springer, London, 2006)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR2">
+            <CitationNumber>2.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>G</Initials>
+                <FamilyName>Mountain</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>S</Initials>
+                <FamilyName>Wilson</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>C</Initials>
+                <FamilyName>Eccleston</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>S</Initials>
+                <FamilyName>Mawson</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Hammerton</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>T</Initials>
+                <FamilyName>Ware</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Zheng</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>R</Initials>
+                <FamilyName>Davies</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>N</Initials>
+                <FamilyName>Black</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>N</Initials>
+                <FamilyName>Harris</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>T</Initials>
+                <FamilyName>Stone</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Hu</FamilyName>
+              </BibAuthorName>
+              <Year>2010</Year>
+              <ArticleTitle Language="En">Developing and testing a telerehabilitation system for people following stroke: issues of usability</ArticleTitle>
+              <JournalTitle>J. Eng. Des.</JournalTitle>
+              <VolumeID>21</VolumeID>
+              <FirstPage>223</FirstPage>
+              <LastPage>236</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1080/09544820903333792</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>G. Mountain, S. Wilson, C. Eccleston, S. Mawson, J. Hammerton, T. Ware, H. Zheng, R. Davies, N. Black, N. Harris, T. Stone, H. Hu, Developing and testing a telerehabilitation system for people following stroke: issues of usability. J. Eng. Des. <Emphasis Type="Bold">21</Emphasis>, 223–236 (2010)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR3">
+            <CitationNumber>3.</CitationNumber>
+            <BibUnstructured>S. Wilson, R. Davies, T. Stone, J. Hammerton, P. Ware, S. Mawson, N. Harris, C. Eccleston, H. Zheng, N. Black, G. Mountain, Developing a telemonitoring system for stroke rehabilitation, in <Emphasis Type="Italic">Proceedings of Ergonomics Society Annual Conference</Emphasis>, Nottingham, 2007</BibUnstructured>
+          </Citation>
+          <Citation ID="CR4">
+            <CitationNumber>4.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Zheng</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>R</Initials>
+                <FamilyName>Davies</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Zhou</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Hammerton</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>SJ</Initials>
+                <FamilyName>Mawson</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>PM</Initials>
+                <FamilyName>Ware</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>ND</Initials>
+                <FamilyName>Black</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>C</Initials>
+                <FamilyName>Eccleston</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Hu</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>T</Initials>
+                <FamilyName>Stone</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>GA</Initials>
+                <FamilyName>Mountain</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>ND</Initials>
+                <FamilyName>Harris</FamilyName>
+              </BibAuthorName>
+              <Year>2006</Year>
+              <ArticleTitle Language="En">SMART project: application of emerging information and communication technology to home-based rehabilitation for stroke patients</ArticleTitle>
+              <JournalTitle>Int. J. Disabil. Hum. Dev.</JournalTitle>
+              <VolumeID>5</VolumeID>
+              <FirstPage>271</FirstPage>
+              <LastPage>276</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1515/IJDHD.2006.5.3.271</Handle>
+</Occurrence>
+              <BibComments>Special Issue on Advances in Virtual Reality Therapy and Rehabilitation</BibComments>
+            </BibArticle>
+            <BibUnstructured>H. Zheng, R. Davies, H. Zhou, J. Hammerton, S.J. Mawson, P.M. Ware, N.D. Black, C. Eccleston, H. Hu, T. Stone, G.A. Mountain, N.D. Harris, SMART project: application of emerging information and communication technology to home-based rehabilitation for stroke patients. Int. J. Disabil. Hum. Dev. <Emphasis Type="Bold">5</Emphasis>, 271–276 (2006). Special Issue on Advances in Virtual Reality Therapy and Rehabilitation</BibUnstructured>
+          </Citation>
+          <Citation ID="CR5">
+            <CitationNumber>5.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Zheng</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>ND</Initials>
+                <FamilyName>Black</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>ND</Initials>
+                <FamilyName>Harris</FamilyName>
+              </BibAuthorName>
+              <Year>2005</Year>
+              <ArticleTitle Language="En">Position-sensing technologies for movement analysis in stroke rehabilitation</ArticleTitle>
+              <JournalTitle>Med. Biol. Eng. Comput.</JournalTitle>
+              <VolumeID>43</VolumeID>
+              <FirstPage>413</FirstPage>
+              <LastPage>420</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1007/BF02344720</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>H. Zheng, N.D. Black, N.D. Harris, Position-sensing technologies for movement analysis in stroke rehabilitation. Med. Biol. Eng. Comput. <Emphasis Type="Bold">43</Emphasis>, 413–420 (2005)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR6">
+            <CitationNumber>6.</CitationNumber>
+            <BibUnstructured>H. Zheng, R.J. Davies, N.D. Black, Web-based monitoring system for home based rehabilitation with stroke patients, in <Emphasis Type="Italic">Proceedings of 18th IEEEE International Symposium on Computer Based Medical Systems</Emphasis>, Ireland, 2005</BibUnstructured>
+          </Citation>
+          <Citation ID="CR7">
+            <CitationNumber>7.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Zheng</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>C</Initials>
+                <FamilyName>Nugent</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>P</Initials>
+                <FamilyName>McCullagh</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>Y</Initials>
+                <FamilyName>Huang</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>S</Initials>
+                <FamilyName>Zhang</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>W</Initials>
+                <FamilyName>Burns</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>R</Initials>
+                <FamilyName>Davies</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>N</Initials>
+                <FamilyName>Black</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>P</Initials>
+                <FamilyName>Wright</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Sue</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>C</Initials>
+                <FamilyName>Eccleston</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Hawley</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>G</Initials>
+                <FamilyName>Mountain</FamilyName>
+              </BibAuthorName>
+              <Year>2010</Year>
+              <ArticleTitle Language="En">Smart self-management: assistive technology to support people with chronic disease</ArticleTitle>
+              <JournalTitle>J. Telemed. Telecare.</JournalTitle>
+              <VolumeID>16</VolumeID>
+              <FirstPage>224</FirstPage>
+              <LastPage>227</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1258/jtt.2010.004017</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>H. Zheng, C. Nugent, P. McCullagh, Y. Huang, S. Zhang, W. Burns, R. Davies, N. Black, P. Wright, M. Sue, C. Eccleston, M. Hawley, G. Mountain, Smart self-management: assistive technology to support people with chronic disease. J. Telemed. Telecare. <Emphasis Type="Bold">16</Emphasis>, 224–227 (2010)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR8">
+            <CitationNumber>8.</CitationNumber>
+            <BibBook>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Ogden</FamilyName>
+              </BibAuthorName>
+              <Year>2007</Year>
+              <BookTitle>Health Psychology: A Textbook</BookTitle>
+              <EditionNumber>4</EditionNumber>
+              <PublisherName>Open University Press</PublisherName>
+              <PublisherLocation>Berkshire, England</PublisherLocation>
+            </BibBook>
+            <BibUnstructured>J. Ogden, <Emphasis Type="Italic">Health Psychology: A Textbook</Emphasis>, 4th edn. (Open University Press, Berkshire, England, 2007)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR9">
+            <CitationNumber>9.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>K</Initials>
+                <FamilyName>Heubusch</FamilyName>
+              </BibAuthorName>
+              <Year>2008</Year>
+              <ArticleTitle Language="En">IT standards for PHRs: are PHRs ready for standards? Are standards ready for PHRs?</ArticleTitle>
+              <JournalTitle>J. AHIMA</JournalTitle>
+              <VolumeID>79</VolumeID>
+              <IssueID>6</IssueID>
+              <FirstPage>31</FirstPage>
+              <LastPage>36</LastPage>
+            </BibArticle>
+            <BibUnstructured>K. Heubusch, IT standards for PHRs: are PHRs ready for standards? Are standards ready for PHRs? J. AHIMA <Emphasis Type="Bold">79</Emphasis>(6), 31–36 (2008)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR10">
+            <CitationNumber>10.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Eichelberg</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>T</Initials>
+                <FamilyName>Aden</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>J</Initials>
+                <FamilyName>Riesmeier</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>A</Initials>
+                <FamilyName>Dogac</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>G</Initials>
+                <FamilyName>Laleci</FamilyName>
+              </BibAuthorName>
+              <Year>2005</Year>
+              <ArticleTitle Language="En">A survey and analysis of electronic healthcare record standards</ArticleTitle>
+              <JournalTitle>ACM Comput. Surv.</JournalTitle>
+              <VolumeID>37</VolumeID>
+              <IssueID>4</IssueID>
+              <FirstPage>277</FirstPage>
+              <LastPage>315</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1145/1118890.1118891</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>M. Eichelberg, T. Aden, J. Riesmeier, A. Dogac, G. Laleci, A survey and analysis of electronic healthcare record standards. ACM Comput. Surv. <Emphasis Type="Bold">37</Emphasis>(4), 277–315 (2005)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR11">
+            <CitationNumber>11.</CitationNumber>
+            <BibUnstructured>Directive 2002/58/EC, <ExternalRef>
+                <RefSource>http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32002L0058</RefSource>
+                <RefTarget Address="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32002L0058" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR12">
+            <CitationNumber>12.</CitationNumber>
+            <BibUnstructured>Directive 95/46/EC, <ExternalRef>
+                <RefSource>http://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:31995L0046</RefSource>
+                <RefTarget Address="http://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:31995L0046" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR13">
+            <CitationNumber>13.</CitationNumber>
+            <BibUnstructured>Directive 58/2002/EC, <ExternalRef>
+                <RefSource>http://eur-lex.europa.eu/legal-content/en/TXT/?uri=OJ:L:2002:010:TOC</RefSource>
+                <RefTarget Address="http://eur-lex.europa.eu/legal-content/en/TXT/?uri=OJ:L:2002:010:TOC" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR14">
+            <CitationNumber>14.</CitationNumber>
+            <BibUnstructured>Directive 97/66/EC, <ExternalRef>
+                <RefSource>http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31997L0066</RefSource>
+                <RefTarget Address="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31997L0066" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR15">
+            <CitationNumber>15.</CitationNumber>
+            <BibUnstructured>Directive 99/5/EC, <ExternalRef>
+                <RefSource>http://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:31999L0005</RefSource>
+                <RefTarget Address="http://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:31999L0005" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR16">
+            <CitationNumber>16.</CitationNumber>
+            <BibUnstructured>Article 29 Working Party on the protection of personal data, <ExternalRef>
+                <RefSource>http://www.privacycommission.be/en/art-29-wp</RefSource>
+                <RefTarget Address="http://www.privacycommission.be/en/art-29-wp" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR17">
+            <CitationNumber>17.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>TC</Initials>
+                <FamilyName>Rindfleisch</FamilyName>
+              </BibAuthorName>
+              <Year>1997</Year>
+              <ArticleTitle Language="En">Privacy, information technology and health care</ArticleTitle>
+              <JournalTitle>Commun. ACM</JournalTitle>
+              <VolumeID>40</VolumeID>
+              <IssueID>8</IssueID>
+              <FirstPage>92</FirstPage>
+              <LastPage>100</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1145/257874.257896</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>T.C. Rindfleisch, Privacy, information technology and health care. Commun. ACM <Emphasis Type="Bold">40</Emphasis>(8), 92–100 (1997)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR18">
+            <CitationNumber>18.</CitationNumber>
+            <BibUnstructured>MS Live, <ExternalRef>
+                <RefSource>http://www.microsoft.com/en-us/account/default.aspx</RefSource>
+                <RefTarget Address="http://www.microsoft.com/en-us/account/default.aspx" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR19">
+            <CitationNumber>19.</CitationNumber>
+            <BibUnstructured>Artemis CHIRON project, <ExternalRef>
+                <RefSource>http://www.chiron-project.eu</RefSource>
+                <RefTarget Address="http://www.chiron-project.eu" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR20">
+            <CitationNumber>20.</CitationNumber>
+            <BibUnstructured>FP7-NEXES project, <ExternalRef>
+                <RefSource>http://www.nexeshealth.eu</RefSource>
+                <RefTarget Address="http://www.nexeshealth.eu" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR21">
+            <CitationNumber>21.</CitationNumber>
+            <BibUnstructured>AAL PAMAP project, <ExternalRef>
+                <RefSource>http://www.pamap.org</RefSource>
+                <RefTarget Address="http://www.pamap.org" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR22">
+            <CitationNumber>22.</CitationNumber>
+            <BibUnstructured>FP7-StrokeBack project, <ExternalRef>
+                <RefSource>http://www.strokeback.eu</RefSource>
+                <RefTarget Address="http://www.strokeback.eu" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR23">
+            <CitationNumber>23.</CitationNumber>
+            <BibUnstructured>FP7 ARMOR project, <ExternalRef>
+                <RefSource>http://armor.tesyd.teimes.gr</RefSource>
+                <RefTarget Address="http://armor.tesyd.teimes.gr" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR24">
+            <CitationNumber>24.</CitationNumber>
+            <BibUnstructured>Microsoft Kinect sensor, <ExternalRef>
+                <RefSource>http://www.microsoft.com/en-us/kinectforwindows</RefSource>
+                <RefTarget Address="http://www.microsoft.com/en-us/kinectforwindows" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR25">
+            <CitationNumber>25.</CitationNumber>
+            <BibUnstructured>Leap Motion sensor, <ExternalRef>
+                <RefSource>https://www.leapmotion.com</RefSource>
+                <RefTarget Address="https://www.leapmotion.com" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR26">
+            <CitationNumber>26.</CitationNumber>
+            <BibUnstructured>Emotiv EEG interfaces, <ExternalRef>
+                <RefSource>http://emotiv.com</RefSource>
+                <RefTarget Address="http://emotiv.com" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR27">
+            <CitationNumber>27.</CitationNumber>
+            <BibUnstructured>Open EMR project, <ExternalRef>
+                <RefSource>http://www.open-emr.org</RefSource>
+                <RefTarget Address="http://www.open-emr.org" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR28">
+            <CitationNumber>28.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>MJ</Initials>
+                <FamilyName>Mathie</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>ACF</Initials>
+                <FamilyName>Coster</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>NH</Initials>
+                <FamilyName>Lovell</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>BG</Initials>
+                <FamilyName>Celler</FamilyName>
+              </BibAuthorName>
+              <Year>2004</Year>
+              <ArticleTitle Language="En">Accelerometry: providing an integrated, practical method for long-term, ambulatory monitoring of human movement</ArticleTitle>
+              <JournalTitle>Physiol. Meas.</JournalTitle>
+              <VolumeID>25</VolumeID>
+              <FirstPage>R1</FirstPage>
+              <LastPage>R20</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1088/0967-3334/25/2/R01</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>M.J. Mathie, A.C.F. Coster, N.H. Lovell, B.G. Celler, Accelerometry: providing an integrated, practical method for long-term, ambulatory monitoring of human movement. Physiol. Meas. <Emphasis Type="Bold">25</Emphasis>, R1–R20 (2004)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR29">
+            <CitationNumber>29.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>CVC</Initials>
+                <FamilyName>Bouten</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>KTM</Initials>
+                <FamilyName>Koekkoek</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>M</Initials>
+                <FamilyName>Verduin</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>R</Initials>
+                <FamilyName>Kodde</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>JD</Initials>
+                <FamilyName>Janssen</FamilyName>
+              </BibAuthorName>
+              <Year>1997</Year>
+              <ArticleTitle Language="En">A triaxial accelerometer and portable data processing unit for the assessment of daily physical activity</ArticleTitle>
+              <JournalTitle>IEEE Trans. Biomed. Eng.</JournalTitle>
+              <VolumeID>44</VolumeID>
+              <FirstPage>136</FirstPage>
+              <LastPage>147</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1109/10.554760</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>C.V.C. Bouten, K.T.M. Koekkoek, M. Verduin, R. Kodde, J.D. Janssen, A triaxial accelerometer and portable data processing unit for the assessment of daily physical activity. IEEE Trans. Biomed. Eng. <Emphasis Type="Bold">44</Emphasis>, 136–147 (1997)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR30">
+            <CitationNumber>30.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>KJ</Initials>
+                <FamilyName>O’Donovan</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>R</Initials>
+                <FamilyName>Kamnik</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>DT</Initials>
+                <FamilyName>O’Keeffe</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>GM</Initials>
+                <FamilyName>Lyons</FamilyName>
+              </BibAuthorName>
+              <Year>2007</Year>
+              <ArticleTitle Language="En">An inertial and magnetic sensor based technique for joint angle measurement</ArticleTitle>
+              <JournalTitle>J. Biomech.</JournalTitle>
+              <VolumeID>40</VolumeID>
+              <FirstPage>2604</FirstPage>
+              <LastPage>2611</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/j.jbiomech.2006.12.010</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>K.J. O’Donovan, R. Kamnik, D.T. O’Keeffe, G.M. Lyons, An inertial and magnetic sensor based technique for joint angle measurement. J. Biomech. <Emphasis Type="Bold">40</Emphasis>, 2604–2611 (2007)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR31">
+            <CitationNumber>31.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Zhou</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>T</Initials>
+                <FamilyName>Stone</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>H</Initials>
+                <FamilyName>Hu</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>N</Initials>
+                <FamilyName>Harris</FamilyName>
+              </BibAuthorName>
+              <Year>2008</Year>
+              <ArticleTitle Language="En">Use of multiple wearable inertial sensors in upper limb motion tracking</ArticleTitle>
+              <JournalTitle>Med. Eng. Phys.</JournalTitle>
+              <VolumeID>30</VolumeID>
+              <FirstPage>123</FirstPage>
+              <LastPage>133</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/j.medengphy.2006.11.010</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>H. Zhou, T. Stone, H. Hu, N. Harris, Use of multiple wearable inertial sensors in upper limb motion tracking. Med. Eng. Phys. <Emphasis Type="Bold">30</Emphasis>, 123–133 (2008)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR32">
+            <CitationNumber>32.</CitationNumber>
+            <BibArticle>
+              <BibAuthorName>
+                <Initials>RE</Initials>
+                <FamilyName>Mayagoitia</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>AV</Initials>
+                <FamilyName>Nene</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>PH</Initials>
+                <FamilyName>Veltink</FamilyName>
+              </BibAuthorName>
+              <Year>2002</Year>
+              <ArticleTitle Language="En">Accelerometer and rate gyroscope measurement of kinematics: an inexpensive alternative to optical motion analysis systems</ArticleTitle>
+              <JournalTitle>J. Biomech.</JournalTitle>
+              <VolumeID>35</VolumeID>
+              <FirstPage>537</FirstPage>
+              <LastPage>542</LastPage>
+              <Occurrence Type="DOI">
+                <Handle>10.1016/S0021-9290(01)00231-7</Handle>
+              </Occurrence>
+            </BibArticle>
+            <BibUnstructured>R.E. Mayagoitia, A.V. Nene, P.H. Veltink, Accelerometer and rate gyroscope measurement of kinematics: an inexpensive alternative to optical motion analysis systems. J. Biomech. <Emphasis Type="Bold">35</Emphasis>, 537–542 (2002)</BibUnstructured>
+          </Citation>
+          <Citation ID="CR33">
+            <CitationNumber>33.</CitationNumber>
+            <BibUnstructured>ASUS sensor, <ExternalRef>
+                <RefSource>http://www.asus.com/Multimedia/Xtion/</RefSource>
+                <RefTarget Address="http://www.asus.com/Multimedia/Xtion/" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR34">
+            <CitationNumber>34.</CitationNumber>
+            <BibUnstructured>HL7 EHR system functional MODEL: a major development towards consensus on electronic health record system functionality, White Paper, 2004</BibUnstructured>
+          </Citation>
+          <Citation ID="CR35">
+            <CitationNumber>35.</CitationNumber>
+            <BibUnstructured>ISO/TC 215 Technical report: electronic health record definition, scope and context, 2nd Draft, August 2003</BibUnstructured>
+          </Citation>
+          <Citation ID="CR36">
+            <CitationNumber>36.</CitationNumber>
+            <BibChapter>
+              <BibAuthorName>
+                <Initials>A</Initials>
+                <FamilyName>Krukowski</FamilyName>
+              </BibAuthorName>
+              <BibAuthorName>
+                <Initials>E</Initials>
+                <FamilyName>Vogiatzaki</FamilyName>
+              </BibAuthorName>
+              <Etal/>
+              <Year>2013</Year>
+              <ChapterTitle Language="En">Patient health record (PHR) system, Chapter 6</ChapterTitle>
+              <BibEditorName>
+                <Initials>K</Initials>
+                <FamilyName>Maharatna</FamilyName>
+              </BibEditorName>
+              <BibEditorName>
+                <Initials>S</Initials>
+                <FamilyName>Bonfiglio</FamilyName>
+              </BibEditorName>
+              <Eds/>
+              <BookTitle>Next-Generation Remote Healthcare: A Practical System Design Perspective</BookTitle>
+              <PublisherName>Springer Science and Business Media</PublisherName>
+              <PublisherLocation>New York</PublisherLocation>
+              <ISBN>978-1-4614-8842-2</ISBN>
+            </BibChapter>
+            <BibUnstructured>A. Krukowski, E. Vogiatzaki et al., Patient health record (PHR) system, Chapter 6, in <Emphasis Type="Italic">Next-Generation Remote Healthcare: A Practical System Design Perspective</Emphasis>, ed. by K. Maharatna, S. Bonfiglio (Springer Science and Business Media, New York, 2013). ISBN 978-1-4614-8842-2</BibUnstructured>
+          </Citation>
+          <Citation ID="CR37">
+            <CitationNumber>37.</CitationNumber>
+            <BibUnstructured>HL7: Health Level Seven International (2007), <ExternalRef>
+                <RefSource>www.hl7.org</RefSource>
+                <RefTarget Address="http://www.hl7.org" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+          <Citation ID="CR38">
+            <CitationNumber>38.</CitationNumber>
+            <BibUnstructured>SNOMED-CT. SNOMED-CT, International Health Terminology Standards Development Organisation (2009), <ExternalRef>
+                <RefSource>http://www.ihtsdo.org/snomed-ct</RefSource>
+                <RefTarget Address="http://www.ihtsdo.org/snomed-ct" TargetType="URL"/>
+              </ExternalRef>
+</BibUnstructured>
+          </Citation>
+        </Bibliography>
+      </ChapterBackmatter>
+    </Chapter>
+  </Book>
+</Publisher>

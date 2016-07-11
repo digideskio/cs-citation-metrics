@@ -1,0 +1,1972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer-Verlag</PublisherName>
+    <PublisherLocation>London</PublisherLocation>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="ContentOnly">
+      <JournalID>13735</JournalID>
+      <JournalPrintISSN>2192-6611</JournalPrintISSN>
+      <JournalElectronicISSN>2192-662X</JournalElectronicISSN>
+      <JournalTitle>International Journal of Multimedia Information Retrieval</JournalTitle>
+      <JournalAbbreviatedTitle>Int J Multimed Info Retr</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Type="Primary">Computer Science</JournalSubject>
+        <JournalSubject Type="Secondary">Information Systems Applications (incl. Internet)</JournalSubject>
+        <JournalSubject Type="Secondary">Multimedia Information Systems</JournalSubject>
+        <JournalSubject Type="Secondary">Computer Science, general</JournalSubject>
+        <JournalSubject Type="Secondary">Image Processing and Computer Vision</JournalSubject>
+        <JournalSubject Type="Secondary">Information Storage and Retrieval</JournalSubject>
+        <JournalSubject Type="Secondary">Data Mining and Knowledge Discovery</JournalSubject>
+        <SubjectCollection Code="Computer Science">SC6</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>1</VolumeIDStart>
+        <VolumeIDEnd>1</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>5</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2012</Year>
+              <Month>10</Month>
+              <Day>23</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2012</Year>
+              <Month>10</Month>
+              <Day>22</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2012</Year>
+              <Month>12</Month>
+            </CoverDate>
+            <PricelistYear>2012</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag London</CopyrightHolderName>
+            <CopyrightYear>2012</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s13735-012-0018-0" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="ContentOnly" TocLevels="0">
+            <ArticleID>18</ArticleID>
+            <ArticleDOI>10.1007/s13735-012-0018-0</ArticleDOI>
+            <ArticleSequenceNumber>5</ArticleSequenceNumber>
+            <ArticleTitle Language="En" OutputMedium="All">Leveraging visual concepts and query performance prediction for semantic-theme-based video retrieval</ArticleTitle>
+            <ArticleCategory>Regular Paper</ArticleCategory>
+            <ArticleFirstPage>263</ArticleFirstPage>
+            <ArticleLastPage>280</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>9</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+              </Received>
+              <Revised>
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>8</Day>
+              </Revised>
+              <Accepted>
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>27</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag London Limited</CopyrightHolderName>
+              <CopyrightYear>2012</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="OpenAccess"/>
+              <BodyHTMLGrant Grant="OpenAccess"/>
+              <BibliographyGrant Grant="OpenAccess"/>
+              <ESMGrant Grant="OpenAccess"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Stevan</GivenName>
+                  <FamilyName>Rudinac</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>s.rudinac@tudelft.nl</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Martha</GivenName>
+                  <FamilyName>Larson</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>m.a.larson@tudelft.nl</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Alan</GivenName>
+                  <FamilyName>Hanjalic</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>a.hanjalic@tudelft.nl</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Multimedia Information Retrieval Lab</OrgDivision>
+                <OrgName>Delft University of Technology</OrgName>
+                <OrgAddress>
+                  <City>Delft</City>
+                  <Country Code="NL">The Netherlands</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <Para>In this paper, we present a novel approach that utilizes noisy shot-level visual concept detection to improve text-based video retrieval. As opposed to most of the related work in the field, we consider entire videos as the retrieval units and focus on queries that address a general subject matter (semantic theme) of a video. Retrieval is performed using a coherence-based query performance prediction framework. In this framework, we make use of video representations derived from the visual concepts detected in videos to select the best possible search result given the query, video collection, available search mechanisms and the resources for query modification. In addition to investigating the potential of this approach to outperform typical text-based video retrieval baselines, we also explore the possibility to achieve further improvement in retrieval performance through combining our concept-based query performance indicators with the indicators utilizing the spoken content of the videos. The proposed retrieval approach is data driven, requires no prior training and relies exclusively on the analyses of the video collection and different results lists returned for the given query text. The experiments are performed on the MediaEval 2010 datasets and demonstrate the effectiveness of our approach.</Para>
+            </Abstract>
+            <KeywordGroup Language="En" OutputMedium="All">
+              <Heading>Keywords</Heading>
+              <Keyword>Semantic-theme-based video retrieval</Keyword>
+              <Keyword> Query performance prediction</Keyword>
+              <Keyword>Query expansion selection</Keyword>
+              <Keyword>Visual concept selection</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>In this paper, we address the problem of video retrieval at the <Emphasis Type="Italic">semantic theme</Emphasis> level, where semantic theme refers to a general subject matter (topic) of a video. The query is formulated to encode a topical information need of the user, and the retrieval system is expected to return videos that treat relevant subjects. Examples of such “topical” queries are <Emphasis Type="Italic">court hearings</Emphasis>, <Emphasis Type="Italic">youth programs</Emphasis>, <Emphasis Type="Italic">archaeology</Emphasis>, <Emphasis Type="Italic">celebrations</Emphasis>, <Emphasis Type="Italic">scientific research</Emphasis>, <Emphasis Type="Italic">economics</Emphasis>, <Emphasis Type="Italic">politics</Emphasis> and <Emphasis Type="Italic">zoos</Emphasis>.</Para>
+              <Para>Semantic themes come in a variety of abstraction levels and degrees to which they are visually constraining. In practice, a set of semantic themes might include video genres in a more traditional sense [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR32">32</CitationRef>] or the semantic labels assigned by archivists in professional libraries. They can, however, also correspond to the categories used in online content sharing portals, such as YouTube<Footnote ID="Fn1">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://www.youtube.com</RefSource>
+                      <RefTarget Address="http://www.youtube.com" TargetType="URL"/>
+                    </ExternalRef>.</Para>
+                </Footnote> and blip.tv<Footnote ID="Fn2">
+                  <Para>
+                    <ExternalRef>
+                      <RefSource>http://www.blip.tv</RefSource>
+                      <RefTarget Address="http://www.blip.tv" TargetType="URL"/>
+                    </ExternalRef>.</Para>
+                </Footnote>.</Para>
+              <Para>A high level of inter-annotator agreement observed in professional digital libraries indicates that humans easily agree on the semantic theme of a video. Although it is not obvious where this inter-annotator agreement comes from, we hypothesize that both the visual and spoken content channel (ASR output) provide valuable information in this respect. While support for this hypothesis in the case of the spoken content channel was provided in our previous work [<CitationRef CitationID="CR23">23</CitationRef>], our goal in this paper is to investigate the potential of the visual channel to help retrieve videos using topical queries.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Keyframes of shots from a video in the TRECVID 2009 collection that is relevant to the semantic theme <Emphasis Type="Italic">youth programs</Emphasis>. The visual content of the shots contains information only weakly related to what the entire video is actually about</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_18_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>On a first sight, the information in the visual channel may seem rather unreliable as an indicator of the general topic of a video. As shown in the examples in Fig. <InternalRef RefID="Fig1">1</InternalRef>, frames extracted from different shots of a video covering the topic <Emphasis Type="Italic">youth programs</Emphasis> are characterized by highly diverse visual content that also does not directly connect a shot to the topic specified by the query. However, in view of the fact that the visual channel is used to complement or illustrate the topic of a video, it should not be surprising if the same key elements of the visual content, such as objects or parts of the scenery, appear in a large number of video clips covering the same semantic theme. Observed from this perspective, the visual content across different video shots in Fig. <InternalRef RefID="Fig1">1</InternalRef> may indeed be found consistent at a particular level of content representation, namely at the level of visual concepts. Here, our definition of a visual concept corresponds to the definition adopted in the TRECVID benchmark [<CitationRef CitationID="CR19">19</CitationRef>] and represented by the ontologies such as the LSCOM [<CitationRef CitationID="CR17">17</CitationRef>]. Typical examples of visual concepts are <Emphasis Type="Italic">vehicle</Emphasis>, <Emphasis Type="Italic">meeting</Emphasis>, <Emphasis Type="Italic">outdoor</Emphasis>, <Emphasis Type="Italic">waterscape</Emphasis>, <Emphasis Type="Italic">flag</Emphasis> and—as in the case of the examples in Fig. <InternalRef RefID="Fig1">1</InternalRef>—<Emphasis Type="Italic">people</Emphasis>. In the same way, videos about <Emphasis Type="Italic">court hearings</Emphasis> could be expected to include many indoor scenes in courtrooms, while videos about <Emphasis Type="Italic">zoos</Emphasis> could be expected to depict animals significantly more often than other visual concepts. Videos about <Emphasis Type="Italic">celebrations</Emphasis> and <Emphasis Type="Italic">politics</Emphasis> typically contain shots involving people, but with different occurrence patterns: frequent appearance of larger groups of people might be more typical in case of celebration, whereas a video about politics would include more shots of individual people (e.g., taken during interviews with individual politicians).</Para>
+              <Para>In view of the above, the information on visual concepts should not go unexploited for the purpose of retrieving videos based on semantic themes. While this information remains insufficient to link a video directly to a topical query, we foresee a large value of this information in its ability to help determine whether two videos are similar in terms of their semantic themes. As we also conjecture that the visual concept detectors have a potential to encode information about stylistic features related to television production rules [<CitationRef CitationID="CR16">16</CitationRef>], their value for determining video similarity may expand across a broad range of semantic themes defined at various abstraction levels.</Para>
+              <Para>We propose in this paper a retrieval approach that consists of the following two steps:<UnorderedList Mark="Bullet">
+                  <ItemContent>
+                    <Para>Building a video representation that is suitable for assessing similarity between two videos in terms of their semantic themes and that is based on aggregating the outputs of visual concept detectors across different shots of a video.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>Query expansion selection (QES) that responds to topical queries and that is based on the query performance prediction (QPP) principle (e.g., [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR35">35</CitationRef>]). Here, the proposed video representation serves as input into query performance indicators, which evaluate various results lists produced by different query modifications.</Para>
+                  </ItemContent>
+                </UnorderedList>The list with the highest estimated performance is then adopted as the best possible search result given a topical query, video collection, available search mechanisms and the resources for query modification.</Para>
+              <Para>The main research questions we address in this paper are the following:<UnorderedList Mark="Bullet">
+                  <ItemContent>
+                    <Para>To which extent can the proposed QES retrieval approach outperform a baseline system that solely relies on the spoken content channel?</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>For which categories or abstraction levels of semantic themes does the QES approach work well and what reasons of failure can be inferred for semantic themes for which the approach fails?</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>Is it possible to obtain a more reliable prediction through combining concept-based indicators and text-based indicators of query performance?</Para>
+                  </ItemContent>
+                </UnorderedList>We first explain the rationale and outline the contribution of our retrieval approach in Sect. <InternalRef RefID="Sec2">2</InternalRef>, while in Sect. <InternalRef RefID="Sec3">3</InternalRef>, we provide an insight into the state-of-the-art in the main technologies underlying this approach. Then, we introduce the two main approach steps listed above, namely building the video representation that we refer to as <Emphasis Type="Italic">Concept Vector</Emphasis> (Sect. <InternalRef RefID="Sec7">4</InternalRef>) and designing the QES retrieval framework utilizing this video representation (Sect. <InternalRef RefID="Sec11">5</InternalRef>). Sections <InternalRef RefID="Sec14">6</InternalRef>, <InternalRef RefID="Sec22">7</InternalRef> and <InternalRef RefID="Sec31">8</InternalRef> are dedicated to the experimental evaluation of our approach. Sections <InternalRef RefID="Sec14">6</InternalRef> and <InternalRef RefID="Sec22">7</InternalRef> address the first two research questions mentioned above, while the third research question is addressed in Sect. <InternalRef RefID="Sec31">8</InternalRef>. The discussion in Sect. <InternalRef RefID="Sec34">9</InternalRef> concludes the paper.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Approach rationale and contribution</Heading>
+              <Para>We base our approach on the same rationale that is underlying general QPP approaches [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR35">35</CitationRef>] and which builds on the clustering theorem [<CitationRef CitationID="CR20">20</CitationRef>] stating that closely related documents tend to be relevant to the same request. In our approach, for analysing the relatedness between videos in terms of a semantic theme, we rely on the discussion in Sect. <InternalRef RefID="Sec1">1</InternalRef> and propose a video representation that exploits general distribution patterns of a large set of visual concepts detected in a video. Hereby, we do not assume that a special set of visual concepts must be detected for a given video collection. In other words, our approach does not require the assurance that the concept set used provides complete semantic coverage of the visual content of the collection. The possibility to work with a general set of visual concept detectors makes our retrieval approach unsupervised, and therefore, opens a broader search range than in the case of supervised alternatives. Examples of such alternatives are the approaches that learn or otherwise generate mappings between specific visual concepts and semantic themes. Such approaches, which have been studied for shot-level retrieval, cf. [<CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR26">26</CitationRef>], face the challenge of collecting a sufficiently large and representative set of visual concepts, particularly daunting for never-before-seen topical queries and being rather sensitive to the quality of visual concept detectors. Furthermore, as discussed in more detail in Sect. <InternalRef RefID="Sec6">3.3</InternalRef>, such approaches are commonly tailored for TRECVID-like queries, differing from semantic themes in their strong reference to the visual channel of the video. In addition, since statistical information is collected over a large set of concept detectors, our approach is less sensitive to noise in the individual detectors.</Para>
+              <Para>Different results lists serving as input to query performance prediction are obtained for different query expansions created by adding additional terms to the original query. Query expansion (see Sect. <InternalRef RefID="Sec4">3.1</InternalRef> for more information) is widely deployed in the field of information retrieval (IR) to enrich the original query so as to provide a better match with documents in the target collection. In particular, it is known to increase recall [<CitationRef CitationID="CR15">15</CitationRef>]. In the area of spoken content retrieval, query expansion is often used [<CitationRef CitationID="CR12">12</CitationRef>, <CitationRef CitationID="CR33">33</CitationRef>] where it also compensates for errors in the speech recognition transcripts. The danger of query expansion is, however, that it may introduce inappropriate terms into the query, causing topical drift. Given an initial query text, a speech transcript of a video collection and a set of search results lists obtained for different query expansion methods and applied to the speech transcript, our QES approach controls the drift and selects the most appropriate query expansion method.</Para>
+              <Para>In our previous work [<CitationRef CitationID="CR23">23</CitationRef>], coherence indicators of query performance, exploiting pair-wise video similarities in terms of their spoken content, demonstrated the ability to improve retrieval at the semantic theme level within the proposed QES framework. In this paper, we revisit and adjust this framework to first investigate to which extent a modification of these <Emphasis Type="Italic">text-based</Emphasis> coherence indicators into the indicators exploiting <Emphasis Type="Italic">concept-based</Emphasis> similarities between videos can lead to an improvement of the semantic-theme-based video retrieval within the QES framework. Then, we also investigate whether additional improvement could be achieved by combining text-based and concept-based indicators.</Para>
+              <Para>In addition to being the first work to address in depth the problem of semantic-theme-based video retrieval, the main novel technical contribution of our approach is an integration of the output of visual-concept detectors aggregated across the entire video and the output of automatic speech recognition, both known to be noisy. We will show that through such integration, an overall improvement in retrieving videos using topical queries can be achieved, compared to several baseline approaches commonly used in the IR field. More specifically, we will demonstrate that for a given query, our concept-based query performance indicators are indeed effective in selecting the best out of available search results lists. Finally, we will show that a simple combination of concept-based indicators with the text-based alternatives might significantly improve performance in terms of mean average precision (MAP) and that, more importantly, a combined coherence indicator selects the optimal results list in over 35 % of queries, more than state-of-the-art text-based indicators.</Para>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Related work</Heading>
+              <Section2 ID="Sec4">
+                <Heading>Query expansion</Heading>
+                <Para>A common problem in information retrieval is a mismatch between vocabularies of the query and the collection being queried. This problem is often addressed by expanding the query using, for instance, pseudo-relevance feedback or thesauri. Query expansion can be particularly helpful in the case of spoken content retrieval in which speech recognizer errors, and particularly, errors caused by words spoken in the recognizer input, but missing in the recognizer vocabulary, frequently occur. It is sometimes difficult to separate the improvement contributed by the expansion itself from the error compensating effects, but overall query expansion is known to yield improvement [<CitationRef CitationID="CR12">12</CitationRef>, <CitationRef CitationID="CR33">33</CitationRef>]. For example, recognizer error occurring for the original query term <Emphasis Type="Italic">excavation</Emphasis> might be compensated by expanding the query with additional related terms, such as <Emphasis Type="Italic">digging</Emphasis>, <Emphasis Type="Italic">archaeology</Emphasis>, <Emphasis Type="Italic">archaeologist</Emphasis> and <Emphasis Type="Italic">artifacts</Emphasis>, which are potentially correctly recognized. Although proper query expansion may generally improve the retrieval results, it also introduces the danger of a topical drift [<CitationRef CitationID="CR14">14</CitationRef>], the tendency of expanded query to move away from the topic expressed by the original query.</Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Query performance prediction</Heading>
+                <Para>Topical drift can be controlled by appropriate query performance prediction applied to decide whether a query should be expanded and how [<CitationRef CitationID="CR4">4</CitationRef>]. In particular, our work is related to methods for post-retrieval query prediction, i.e., methods that use results lists returned by an initial retrieval run as the basis for their performance prediction. In [<CitationRef CitationID="CR3">3</CitationRef>], query prediction uses the Kullback–Leibler divergence between the query model and the background collection model (clarity score). Yom-Tov et al. [<CitationRef CitationID="CR35">35</CitationRef>] proposed efficient and robust methods for query performance prediction based on measuring the overlap between the results returned for a full query and its sub-queries.</Para>
+                <Para>Recently, a coherence-based approach to query prediction has been proposed [<CitationRef CitationID="CR7">7</CitationRef>]. This approach measures the topical coherence of top documents in the results list to predict query performance. The approach is low in computational complexity and requires no labeled training data. Further, the coherence-based approach is appealing, because it goes beyond measuring the similarity of the top documents in a results list to measuring their topical clustering structure [<CitationRef CitationID="CR8">8</CitationRef>]. The coherence score is thus able to identify a results list as high-quality even in the face of relatively large diversity among the topical clusters in the top of results list.</Para>
+                <Para>In our recent work [<CitationRef CitationID="CR23">23</CitationRef>], we demonstrated the performance of the coherence score defined in [<CitationRef CitationID="CR8">8</CitationRef>] and two light-weight alternatives for the task of text-based QES. Subsequently, we carried out initial work, reported briefly in [<CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>], which established the potential of coherence score to be useful for multimodal QES. In this paper, we present the fully developed version of that initial approach including automatic generation of Concept Vectors for video representation, combining the proposed text-based and concept-based query performance indicators and validation on a large dataset.</Para>
+                <Para>In [<CitationRef CitationID="CR31">31</CitationRef>], an approach to performance comparison of web image search results has been proposed. The underlying ideas, including assumptions on density of relevant and non-relevant images and their pairwise similarities place this approach into the group of coherence-based approaches. However, it requires training and relies on preference learning, which could eventually reduce applicability to unseen queries. In addition, the set of queries used in the experiments indicates a strong reference to the visual channel and it remains unclear whether the approach could be applied for multimedia information retrieval at a higher semantic level, especially since the models were built based on low-level visual features only.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Multimodal video retrieval</Heading>
+                <Para>Since a video conventionally consists of both a visual and audio track, multimodal approaches are clearly necessary to exploit all available information to benefit video retrieval. Our QES approach bears closest resemblance to reranking approaches, which use visual information to refine the initial results returned by spoken content retrieval [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR21">21</CitationRef>, <CitationRef CitationID="CR30">30</CitationRef>]. However, there are important differences between QES and reranking. First, reranking approaches are restricted to reordering the initial results list—there is no mechanism that allows visual features to help admit additional results. Second, reranking methods are static and therefore known to benefit some queries and not others [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR21">21</CitationRef>, <CitationRef CitationID="CR30">30</CitationRef>], while our QES approach adapts itself to queries. It attempts to maximally exploit the available information to select the best results list per query.</Para>
+                <Para>Another important difference between the work presented here and the previous work is the type of the retrieval task. As noted in the Sect. <InternalRef RefID="Sec1">1</InternalRef>, semantic-theme-based video retrieval involves retrieving video according to its subject matter. Typical semantic theme (topical) queries are thus defined at a higher abstraction level and therefore substantially different from conventional TRECVID queries, which include named persons, named objects, general objects, scenes and sports (cf. [<CitationRef CitationID="CR6">6</CitationRef>]). TRECVID-type queries are strongly related to the visual channel and may not be actually representative of the overall topic of the video. This difference is reflected in the size of the retrieval unit. Unlike the majority of approaches that address video retrieval at the shot level (e.g., [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR18">18</CitationRef>, <CitationRef CitationID="CR28">28</CitationRef>, <CitationRef CitationID="CR30">30</CitationRef>]), we consider entire videos as retrieval units. Our decision to move beyond shot-level retrieval is guided by the reasoning that a semantic theme is an attribute of either an entire video or a video segment of a significant length. We also believe that in many real-world search scenarios, e.g., popular content sharing websites, such as <Emphasis Type="Italic">YouTube</Emphasis> and <Emphasis Type="Italic">blip.tv</Emphasis>, users are actually looking for the entire videos to watch and that clips or segments must be of a certain minimum length to satisfy users’ information need. While there has been little effort in the past that targeted video retrieval beyond the level of individual shots, recently, a story-level video retrieval approach was proposed that retrieves news items containing visually relevant shots [<CitationRef CitationID="CR1">1</CitationRef>]. Although relevance is not assessed with respect to the semantic theme, we mention this approach here because it is similar to our own regarding a relatively large retrieval unit and also the use of language models built over the concept detector output.</Para>
+                <Para>The increasing awareness of the need to address queries at a higher abstraction level than, e.g., LSCOM, can also be observed from the reformulation of a TRECVID search task, which was renamed to <Emphasis Type="Italic">known item search task</Emphasis> in TRECVID 2010 [<CitationRef CitationID="CR19">19</CitationRef>] and which included a limited number of theme-based queries, as well as a new video-level retrieval evaluation metric.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7">
+              <Heading>Building concept vectors</Heading>
+              <Para>In this section, we present our approach for automatically creating Concept Vectors, visual concept-based representations of videos that are used to calculate similarities between videos that capture resemblances in terms of a semantic theme.</Para>
+              <Section2 ID="Sec8">
+                <Heading>Making use of incomplete sets of noisy visual concept detectors</Heading>
+                <Para>Since the relation between the semantic theme of a video and its visual content is potentially weak, the problem of successfully utilizing the visual channel for the purpose of query performance prediction appears to be rather challenging. In view of the discussion in Sect. <InternalRef RefID="Sec1">1</InternalRef>, we believe that the intermediate representation at the level of visual concepts could lead to a solution for this task. Like words in the speech channel, concepts in the visual channel can be said to reflect the elements of the thematic content of the video.</Para>
+                <Para>A critical challenge to making effective use of visual concepts is the relatively low performance of state-of-the-art visual concept detectors. As an example, the performance in terms of mean average precision (MAP) of the best performer in “Concept Detection” and “Interactive Search” tasks of TRECVID 2009 was below 0.25 [<CitationRef CitationID="CR28">28</CitationRef>]. Our approach is based on the insight that in spite of a relatively poor performance and noisiness of individual visual concept detectors at the shot level, aggregating the results of concept detections across a series of shots could help reduce the influence of this noise and still provide the basis for a reasonable video-level representation in the use context addressed in this paper.</Para>
+                <Para>The question has been raised in the literature of how many and which concept detectors would be required to sufficiently cover the entire semantic space for the purpose of effective video retrieval in a general use case [<CitationRef CitationID="CR5">5</CitationRef>]. Although, ideally, as many concept detectors as possible should be available to be able to handle enormous diversity of visual content and address a broad range of video search requests, the reality is that the set of available concept detectors will always be limited and not necessarily representative for every content domain. We hypothesize, however, that availability of the optimal visual concept set for a given use case is not critical for successful deployment of our approach, provided that mechanisms are developed to determine which particular concepts from the available concept set are more informative to be applied on a particular video collection.</Para>
+                <Para>Based on the above two hypotheses, we approach automatic generation of Concept Vectors by starting from an arbitrary set of available visual concept detectors, analyzing their output and selecting the most representative (informative and discriminative) visual concepts. Technical steps of this approach are described in more detailed in the subsequent parts of this section.</Para>
+              </Section2>
+              <Section2 ID="Sec9">
+                <Heading>Concept-based video representation</Heading>
+                <Para>To create our Concept Vectors, we follow the general process illustrated in Fig. <InternalRef RefID="Fig2">2</InternalRef> in which we draw an analogy to the conventional information retrieval and consider visual concepts as terms in a video “document”. In this process, we aim at representing a video <Emphasis Type="Italic">v</Emphasis> from a collection <Emphasis Type="Italic">V</Emphasis> using a vector <InlineEquation ID="IEq3">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathbf{{x}}_v$$]]></EquationSource>
+                  </InlineEquation> defined as<Equation ID="Equ1">
+                    <EquationNumber>1</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathbf{{x}}_v=[x_{1v}, x_{2v},\ldots , x_{|C|v}]^\top \end{aligned}$$]]></EquationSource>
+                  </Equation>where <InlineEquation ID="IEq4">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$x_{cv}$$]]></EquationSource>
+                  </InlineEquation> is the weight of the concept <Emphasis Type="Italic">c</Emphasis> in video <Emphasis Type="Italic">v</Emphasis>, <Emphasis Type="Italic">C</Emphasis> is a general set of visual concepts and <InlineEquation ID="IEq5">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^\top $$]]></EquationSource>
+                  </InlineEquation> is the transpose operator. The weight <InlineEquation ID="IEq6">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$x_{cv}$$]]></EquationSource>
+                  </InlineEquation> serves to indicate the importance of the concept <Emphasis Type="Italic">c</Emphasis> in representing the video <Emphasis Type="Italic">v</Emphasis>. In the conventional information retrieval, this importance is generally expressed as a function of the <InlineEquation ID="IEq7">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm tf _{c,v}$$]]></EquationSource>
+                  </InlineEquation> (term frequency) and <InlineEquation ID="IEq8">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm idf _{c}$$]]></EquationSource>
+                  </InlineEquation> (inverse document frequency) [<CitationRef CitationID="CR25">25</CitationRef>], which reflects the number of occurrences of a term in a video and its discriminative power within the collection, respectively. The index “<InlineEquation ID="IEq9">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$c,v$$]]></EquationSource>
+                  </InlineEquation>” indicates that the TF component of the weight is specific for a video, while the index “<InlineEquation ID="IEq10">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource>
+                  </InlineEquation>” reflects that the IDF component is computed over the entire collection.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Illustration of our approach to concept-based video representation starting from a general concept set <Emphasis Type="Italic">C</Emphasis>. Final concept vectors <InlineEquation ID="IEq1">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$${\tilde{\mathbf{x }}}_{v}$$]]></EquationSource>
+                          </InlineEquation> are created based on the subset <InlineEquation ID="IEq2">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$\widetilde{C}$$]]></EquationSource>
+                          </InlineEquation> of selected concepts, as explained in Sect. <InternalRef RefID="Sec10">4.3</InternalRef>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_18_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>When computing the <InlineEquation ID="IEq11">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm tf _{c,v}$$]]></EquationSource>
+                  </InlineEquation> component of the weight, we take into account the fact that state-of-the-art concept detection systems [<CitationRef CitationID="CR11">11</CitationRef>, <CitationRef CitationID="CR27">27</CitationRef>] usually output shot-level lists of confidence scores for the given visual concepts, rather than binary judgments. For this reason, we model the term frequency here by the sum of a concept’s confidence scores taken from each shot of a video. To avoid bias toward videos containing more shots, we normalize the sum of confidence scores with the number of shots. Furthermore, recent works (i.e., [<CitationRef CitationID="CR11">11</CitationRef>, <CitationRef CitationID="CR27">27</CitationRef>]) revealed that the values of visual concept confidence vary widely within the interval of <InlineEquation ID="IEq12">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq12.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$[0, 1],$$]]></EquationSource>
+                  </InlineEquation> with low confidence values commonly indicating erroneous detection. Low confidence values effectively introduce a large amount of noise into the system, which will negatively bias the computation of <InlineEquation ID="IEq13">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq13.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm idf _{c}.$$]]></EquationSource>
+                  </InlineEquation> Therefore, we analyze the outputs of individual concept detectors and consider the reliable outputs only. In other words, we perform thresholding at the shot level to retain only those concepts in the representation that have substantial confidence scores. In our approach, thresholding is an essential step also because, as revealed by our exploratory experiments, reliable indicator of term (concept) frequency is critical for reliably selecting a subset of representative concepts.</Para>
+                <Para>Taking into account the above considerations, we compute <InlineEquation ID="IEq14">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq14.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm tf _{c,v}$$]]></EquationSource>
+                  </InlineEquation> according to the following expression:<Equation ID="Equ2">
+                    <EquationNumber>2</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathrm tf _{c,v} = \frac{\sum \limits _{j=1}^{N_v}\quad \{\xi _{c,v,j} : \xi _{c,v,j} > t_{\xi }\}}{N_v} \end{aligned}$$]]></EquationSource>
+                  </Equation>Here, <InlineEquation ID="IEq15">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq15.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm tf _{c,v}$$]]></EquationSource>
+                  </InlineEquation> is the normalized frequency of a concept <Emphasis Type="Italic">c</Emphasis> in video <Emphasis Type="Italic">v</Emphasis>, <InlineEquation ID="IEq16">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq16.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_v$$]]></EquationSource>
+                  </InlineEquation> is the number of shots in a video and <InlineEquation ID="IEq17">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq17.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\xi _{c,v,j}$$]]></EquationSource>
+                  </InlineEquation> is the confidence of the presence of a particular concept <Emphasis Type="Italic">c</Emphasis> in the shot <Emphasis Type="Italic">j</Emphasis> of video <Emphasis Type="Italic">v</Emphasis> as provided by the concept detector. The value of the threshold <InlineEquation ID="IEq18">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq18.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$t_\xi $$]]></EquationSource>
+                  </InlineEquation> we introduce for the purpose of denoising the output of the concept detectors is not critical if selected above a certain value. In our experiments, threshold values larger than 0.3 yielded insignificant difference in the performance.<Equation ID="Equ3">
+                    <EquationNumber>3</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \mathrm idf _{c} = \mathrm log \frac{|V|}{|\{v:\mathrm tf _{c,v}>0\}|} \end{aligned}$$]]></EquationSource>
+                  </Equation>While <InlineEquation ID="IEq19">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq19.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm tf _{c,v}$$]]></EquationSource>
+                  </InlineEquation> represents the intensity of concept occurrence in a single video, <InlineEquation ID="IEq20">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq20.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm idf _c$$]]></EquationSource>
+                  </InlineEquation> (c.f. (<InternalRef RefID="Equ3">3</InternalRef>)) serves to incorporate the general pattern of visual concept occurrence within the entire collection. <InlineEquation ID="IEq21">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq21.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm idf _{c}$$]]></EquationSource>
+                  </InlineEquation> is computed by first dividing the entire number of videos in the collection with the number of videos in which the given concept is present and then by taking a logarithm of the quotient. Different ways of mapping <InlineEquation ID="IEq22">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq22.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm tf _{c,v}$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq23">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq23.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathrm idf _{c}$$]]></EquationSource>
+                  </InlineEquation> onto <InlineEquation ID="IEq24">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq24.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$x_{cv}$$]]></EquationSource>
+                  </InlineEquation> will be investigated experimentally in Sect. <InternalRef RefID="Sec22">7</InternalRef>.</Para>
+              </Section2>
+              <Section2 ID="Sec10">
+                <Heading>Concept selection</Heading>
+                <Para>The goal of concept selection is to choose a subset of concepts from the available set <InlineEquation ID="IEq25">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq25.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$C$$]]></EquationSource>
+                  </InlineEquation> that are able to capture semantic similarities between videos. Concept selection can be seen as a feature selection problem known from the pattern recognition and information retrieval domain. Through years, many methods have been proposed to select features [<CitationRef CitationID="CR29">29</CitationRef>, <CitationRef CitationID="CR34">34</CitationRef>], many of which are supervised and require prior training. Our previous work revealed a high positive correlation between the frequency of concept occurrence across the collection and its effectiveness in discriminating between videos based on the semantic theme [<CitationRef CitationID="CR24">24</CitationRef>]. To have our approach completely data driven and unsupervised, we introduce a method for concept selection based on a simple heuristics that involves computing of the <Emphasis Type="Italic">frequency</Emphasis>, <Emphasis Type="Italic">variance</Emphasis> and <Emphasis Type="Italic">kurtosis</Emphasis> of visual concepts in the video collection. As will be explained in Sect. <InternalRef RefID="Sec21">6.2.2</InternalRef>, here we set <InlineEquation ID="IEq26">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq26.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$x_{cv} = \mathrm tf _{c,v}$$]]></EquationSource>
+                  </InlineEquation>.<Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Illustration of <Emphasis Type="Italic">frequency</Emphasis>, <Emphasis Type="Italic">variance</Emphasis> and <Emphasis Type="Italic">kurtosis</Emphasis> criteria for concept selection. Distribution examples on the right show the desired behavior of frequency, variance and kurtosis for marking relevant visual concepts</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO6">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_18_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Emphasis Type="Italic">Frequency.</Emphasis> We conjecture that concepts that occur in many videos within the collection will be more helpful in comparing videos than those concepts appearing in only few videos (Fig. <InternalRef RefID="Fig3">3</InternalRef>a). Then, the relative difference in the importance weights of such concepts can provide a basis for calculating similarity between two videos. For each concept <InlineEquation ID="IEq27">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq27.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource>
+                  </InlineEquation> we compute <InlineEquation ID="IEq28">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq28.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$ freq _{c}$$]]></EquationSource>
+                  </InlineEquation> by aggregating the concept counts <InlineEquation ID="IEq29">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq29.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$a_{cv}$$]]></EquationSource>
+                  </InlineEquation> across videos in which that concept appears:<Equation ID="Equ4">
+                    <EquationNumber>4</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} freq _c = \sum \limits _{v=1}^{|V|}a_{cv} ~~\text{ and}~~ a_{cv}= \left\{ \begin{array}{l l} 1,&\quad x_{cv} > 0 \\ 0,&\quad \text{ otherwise} \\ \end{array} \right. \end{aligned}$$]]></EquationSource>
+                  </Equation>
+                  <Emphasis Type="Italic">Variance.</Emphasis> Selecting the frequent concepts only is not enough, since some frequent concepts might have importance weights distributed uniformly throughout the collection. In that case, the concept will not be discriminative for comparing videos. Therefore, we require these frequent concepts to also have a high <Emphasis Type="Italic">variance</Emphasis> (Fig. <InternalRef RefID="Fig3">3</InternalRef>b) of their importance weights across the video collection as well:<Equation ID="Equ5">
+                    <EquationNumber>5</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} var _{c} = \mathrm{var} (\mathbf{{y}}_c),\mathbf{{y}}_c = [x_{c1}, x_{c2}, \ldots , x_{c|V|}] \end{aligned}$$]]></EquationSource>
+                  </Equation>where <InlineEquation ID="IEq30">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq30.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathbf{{y}}_c$$]]></EquationSource>
+                  </InlineEquation> is the vector of weights of concept <InlineEquation ID="IEq31">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq31.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$c$$]]></EquationSource>
+                  </InlineEquation> in all videos in the collection.</Para>
+                <Para>
+                  <Emphasis Type="Italic">Kurtosis.</Emphasis> A high variance (<InternalRef RefID="Equ5">5</InternalRef>) might be the consequence of either infrequent extreme deviations or, preferably, frequent, but moderate variations of concept weights across the collection. To isolate the concepts with frequent but moderate variations, we focus on those concepts with a low kurtosis. Kurtosis is a measure of “peakedness” of the probability distribution of a real-valued random variable (Fig. <InternalRef RefID="Fig3">3</InternalRef>c). We compute <InlineEquation ID="IEq32">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq32.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$ kurt _c$$]]></EquationSource>
+                  </InlineEquation> of a concept using (<InternalRef RefID="Equ6">6</InternalRef>), where <InlineEquation ID="IEq33">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq33.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mu $$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq34">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq34.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\sigma $$]]></EquationSource>
+                  </InlineEquation> are the mean and the standard deviation of the vector <InlineEquation ID="IEq35">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq35.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\mathbf{{y}}_c$$]]></EquationSource>
+                  </InlineEquation>:<Equation ID="Equ6">
+                    <EquationNumber>6</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} kurt _c = \frac{\sum \limits _{v=1}^{|V|} (x_{cv} - \mu )^4}{(|V| - 1)\sigma ^4} \end{aligned}$$]]></EquationSource>
+                  </Equation>
+                  <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Illustration of the procedure for selecting concepts that satisfy the frequency, variance and kurtosis criteria</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO10">
+                      <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_18_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>As illustrated in Fig. <InternalRef RefID="Fig4">4</InternalRef>, we produce three ranked lists by sorting the concepts according to the decreasing frequency and variance and increasing kurtosis in the collection. Then, we compute the percentage of the overlap between the three top-<InlineEquation ID="IEq36">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq36.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_c$$]]></EquationSource>
+                  </InlineEquation> lists for the increasing number <InlineEquation ID="IEq37">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq37.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_c$$]]></EquationSource>
+                  </InlineEquation> of top-ranked concepts. The process stops at <InlineEquation ID="IEq38">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq38.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\widetilde{N}_c,$$]]></EquationSource>
+                  </InlineEquation> when the first dominant local maximum in the overlap value curve is reached (e.g., overlap of more than 70 %), after which the concepts are selected that are common to all three top-<InlineEquation ID="IEq39">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq39.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\widetilde{N}_c$$]]></EquationSource>
+                  </InlineEquation> lists. Prior to detecting local maxima, we smooth the overlap curve using a moving average filter, with the span parameter set to 10. The smoothing performed in this way helps reduce the influence of non-dominant local extrema and improves robustness of the concept selection approach. As will be shown in Sect. <InternalRef RefID="Sec14">6</InternalRef>, the change in overlap with the increasing <InlineEquation ID="IEq40">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq40.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_c$$]]></EquationSource>
+                  </InlineEquation> remains largely consistent over different video collections and concept detection systems.</Para>
+                <Para>If we denote the three top-<InlineEquation ID="IEq41">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq41.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_c$$]]></EquationSource>
+                  </InlineEquation> lists of concepts sorted by <Emphasis Type="Italic">frequency</Emphasis>, <Emphasis Type="Italic">variance</Emphasis> and <Emphasis Type="Italic">kurtosis</Emphasis> as <InlineEquation ID="IEq42">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq42.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$ Freq (N_c)$$]]></EquationSource>
+                  </InlineEquation>, <InlineEquation ID="IEq43">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq43.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$ Var (N_c)$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq44">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq44.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$ Kurt (N_c),$$]]></EquationSource>
+                  </InlineEquation> respectively, the selected set <InlineEquation ID="IEq45">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq45.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\widetilde{C}$$]]></EquationSource>
+                  </InlineEquation> of visual concepts can be defined as<Equation ID="Equ7">
+                    <EquationNumber>7</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ7.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \widetilde{C} = Freq (\widetilde{N}_c) \cap Var (\widetilde{N}_c) \cap Kurt (\widetilde{N}_c) \end{aligned}$$]]></EquationSource>
+                  </Equation>which leads to the “optimal” concept vector<Equation ID="Equ8">
+                    <EquationNumber>8</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ8.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} {\tilde{\mathbf{x }}}_v=[\tilde{x}_{1v}, \tilde{x}_{2v}, \ldots , \tilde{x}_{|\widetilde{C}|v}]^\top \end{aligned}$$]]></EquationSource>
+                  </Equation>that serves as input for comparing videos in the subsequent query expansion selection step. In (<InternalRef RefID="Equ8">8</InternalRef>), <InlineEquation ID="IEq46">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq46.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\tilde{x}_{cv}$$]]></EquationSource>
+                  </InlineEquation> is the weight of concept <InlineEquation ID="IEq47">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq47.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$c \in \widetilde{C}$$]]></EquationSource>
+                  </InlineEquation> in video <InlineEquation ID="IEq48">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq48.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$v \in V$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq49">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq49.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$^\top $$]]></EquationSource>
+                  </InlineEquation> is the transpose operator.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec11">
+              <Heading>Query expansion selection</Heading>
+              <Para>We approach the QES task from the data driven perspective, analyzing the collection being queried and the retrieval results list returned for the given query text. Figure <InternalRef RefID="Fig5">5</InternalRef> illustrates our QES approach. The system makes an unsupervised online analysis of the results lists produced for the original query and multiple query expansions to decide whether the query should be expanded, and if so, which of the alternative expansions would eventually yield the best results. An additional strength of our approach lies in the fact that we do not attempt to predict the retrieval performance (i.e., in terms of MAP) for each of the results lists (which usually requires prior training), but only compare the coherence of their top-ranked results. We evaluate three coherence indicators for this purpose, which will be introduced in the remainder of this section.<Figure Category="Standard" Float="Yes" ID="Fig5">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 5</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Illustration of our QES approach</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO11">
+                    <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_18_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Section2 ID="Sec12">
+                <Heading>Coherence indicator</Heading>
+                <Para>The coherence indicator [<CitationRef CitationID="CR8">8</CitationRef>] is used to select the results list with the highest coherence among the top-<InlineEquation ID="IEq50">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq50.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                  </InlineEquation> retrieved results. The indicator is computed according to (<InternalRef RefID="Equ9">9</InternalRef>) as the ratio of video pairs in the top-<InlineEquation ID="IEq51">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq51.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                  </InlineEquation> results whose similarity is larger than a threshold <InlineEquation ID="IEq52">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq52.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\theta .$$]]></EquationSource>
+                  </InlineEquation>
+                  <Equation ID="Equ9">
+                    <EquationNumber>9</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ9.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned}&{ Co(TopN) }=\frac{{\sum _{{u,v \in T\!opN,u \ne v}} {\delta ({u,v})}}}{{N({N - 1})}}, \nonumber \\&\delta ({u,v})=\left\{ \begin{array}{l@{\quad }l} 1,&\text{ sim}\;\!\left({\tilde{\mathbf{x }}_{u},\tilde{\mathbf{x }}_{v}}\right) >\theta \\ 0,&\text{ otherwise}\\ \end{array}\right. \end{aligned}$$]]></EquationSource>
+                  </Equation>The threshold <InlineEquation ID="IEq53">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq53.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\theta $$]]></EquationSource>
+                  </InlineEquation> is set as a similarity value between particularly close videos in the collection. The threshold choice will be further discussed in Sects. <InternalRef RefID="Sec22">7</InternalRef> and <InternalRef RefID="Sec31">8</InternalRef>. As a similarity measure sim<InlineEquation ID="IEq54">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq54.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\left({\tilde{\mathbf{x }}_{u},\tilde{\mathbf{x }}_{v}}\right)$$]]></EquationSource>
+                  </InlineEquation> we use the cosine similarity between the concept vectors (<InternalRef RefID="Equ8">8</InternalRef>) computed for videos <Emphasis Type="Italic">u</Emphasis> and <Emphasis Type="Italic">v</Emphasis>.</Para>
+              </Section2>
+              <Section2 ID="Sec13">
+                <Heading>Max-AIS and mean-AIS indicators</Heading>
+                <Para>The max-AIS and mean-AIS indicators [<CitationRef CitationID="CR23">23</CitationRef>] have been introduced as an alternative to the coherence score, because they do not need the reference to the video collection and make the decision based on the analysis of top-<InlineEquation ID="IEq55">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq55.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                  </InlineEquation> ranked videos only. These indicators select the query expansion producing a results list in which top-<InlineEquation ID="IEq56">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq56.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                  </InlineEquation> videos are characterized by high average item similarities (AIS) with their fellows. For video <Emphasis Type="Italic">v</Emphasis> AIS is computed according to (<InternalRef RefID="Equ10">10</InternalRef>).<Equation ID="Equ10">
+                    <EquationNumber>10</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ10.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} {\textit{AIS}}_{v} = \frac{\sum _{u \in T\!opN, u \ne v} \text{ sim}\left({\tilde{\mathbf{x }}_{u},\tilde{\mathbf{x }}_{v}}\right)}{N - 1} \end{aligned}$$]]></EquationSource>
+                  </Equation>Again, as a similarity measure sim<InlineEquation ID="IEq57">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq57.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\left({\tilde{\mathbf{x }}_{u},\tilde{\mathbf{x }}_{v}}\right)$$]]></EquationSource>
+                  </InlineEquation>, we use the cosine similarity between the concept vectors (<InternalRef RefID="Equ8">8</InternalRef>) computed for videos <Emphasis Type="Italic">u</Emphasis> and <Emphasis Type="Italic">v</Emphasis>. Max-AIS indicator takes the maximum AIS value of all top-<InlineEquation ID="IEq58">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq58.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                  </InlineEquation> videos in the results list, while mean-AIS takes the average of the AIS values in the top-<InlineEquation ID="IEq59">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq59.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N.$$]]></EquationSource>
+                  </InlineEquation>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec14">
+              <Heading>Experimental setup</Heading>
+              <Para>This section describes our experimental framework and gives the implementation details of our approach.</Para>
+              <Section2 ID="Sec15">
+                <Heading>Datasets</Heading>
+                <Para>The experiments are performed on two datasets, that are re-issues of the TRECVID 2007, 2008 and 2009 data made for the purposes of the “Tagging Task: Professional Version” offered for the MediaEval 2010<Footnote ID="Fn3">
+                    <Para>
+                      <ExternalRef>
+                        <RefSource>http://www.multimediaeval.org</RefSource>
+                        <RefTarget Address="http://www.multimediaeval.org" TargetType="URL"/>
+                      </ExternalRef>.</Para>
+                  </Footnote> benchmark [<CitationRef CitationID="CR13">13</CitationRef>]. This benchmark also provided ground truth in the form of semantic theme labels assigned by professional archivists. The datasets are referred to as DS-1 and DS-2 and correspond to the MediaEval 2010 development and test dataset, respectively. Both datasets consist of the news magazine, science news, news reports, documentaries, educational programming and archival videos, provided by The Netherlands Institute for Sound and Vision (S&amp;V)<Footnote ID="Fn4">
+                    <Para>
+                      <ExternalRef>
+                        <RefSource>http://www.beeldengeluid.nl</RefSource>
+                        <RefTarget Address="http://www.beeldengeluid.nl" TargetType="URL"/>
+                      </ExternalRef>.</Para>
+                  </Footnote>. For the experiments, we use both DS-1 and DS-2 to investigate generalization of our approach across datasets. Unless stated otherwise, we do not treat them as the development and the test set, but rather as two equal datasets.</Para>
+                <Section3 ID="Sec16">
+                  <Heading>Description of DS-1 dataset</Heading>
+                  <Para>The DS-1 dataset is a large subset (nearly all) of the TRECVID 2007 and 2008 datasets, which consist of 219 videos each (438 videos in total). In the process of creating the DS-1 dataset, the videos without a semantic theme label were removed. Further, the videos without the automatic speech recognition transcripts and/or machine translation were also discarded. This led to a dataset consisting of 405 videos. As the queries, 37 semantic theme labels assigned by the S&amp;V archive staff were used. These labels were selected such that each of them has more than five videos associated with it. The list of labels was post-processed by a normalization process that included standardization of the form of the labels and elimination of labels encoding the names of personages or video sources (e.g., amateur video).</Para>
+                </Section3>
+                <Section3 ID="Sec17">
+                  <Heading>Description of DS-2 dataset</Heading>
+                  <Para>The DS-2 dataset is composed of videos from TRECVID 2009 dataset. Only videos (400 in total) that did not occur in TRECVID 2007 and 2008 were included. Again, the videos without a semantic label provided by the S&amp;V have been removed. Further, the videos without the automatic speech recognition transcripts and/or machine translation were also discarded. This led to a dataset consisting of 378 videos. As the queries, a set of 41 semantic labels assigned by the S&amp;V archive staff were used, defined as explained in the previous section. As with the DS-1 dataset, the list of labels was post-processed by a normalization process that included standardization of the form of the label.</Para>
+                  <Para>As shown in Tables <InternalRef RefID="Tab8">8</InternalRef> and <InternalRef RefID="Tab9">9</InternalRef>, only 16 semantic labels are common to both DS-1 and DS-2 datasets, which serves to test the transferability of our approach to the never-before-seen queries. The performance stability across queries is analyzed in Sect. <InternalRef RefID="Sec30">7.6</InternalRef>.</Para>
+                </Section3>
+                <Section3 ID="Sec18">
+                  <Heading>Query expansion methods</Heading>
+                  <Para>The query is modified using the following expansions.<UnorderedList Mark="Bullet">
+                      <ItemContent>
+                        <Para>Conventional PRF (pseudo-relevance feedback), where 45 expansion terms are sampled from the automatic speech recognition transcripts of top-ranked videos in the initial results list produced for unexpanded query.</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para>WordNet expansion, by means of which the initial query terms are expanded with all their synonyms. The average total number of terms in such expanded queries is 12 for DS-1 and 13 for DS-2.</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para>Google Sets expansion, in which the initial query is expanded with a certain number of items (words or multi-word phrases) that frequently co-occur with that query on the web. To control topical drift, we limit the number of expansion items to 15.</Para>
+                      </ItemContent>
+                    </UnorderedList>
+                  </Para>
+                </Section3>
+              </Section2>
+              <Section2 ID="Sec19">
+                <Heading>Visual concept detectors</Heading>
+                <Section3 ID="Sec20">
+                  <Heading>Concept detector choice</Heading>
+                  <Para>Videos from the DS-1 dataset are represented using CU-VIREO374 concept detection scores [<CitationRef CitationID="CR11">11</CitationRef>]. The system consists of 374 visual concepts selected from the LSCOM ontology [<CitationRef CitationID="CR17">17</CitationRef>]. To represent the DS-2 dataset, we used (separately) both CU-VIREO374 and MediaMill [<CitationRef CitationID="CR27">27</CitationRef>] visual concept detection scores for the purpose of comparative analysis. MediaMill system consists of 64 concept detectors and at the moment when the experiments described here were performed, their outputs were publicly available for DS-2 dataset only.</Para>
+                </Section3>
+                <Section3 ID="Sec21">
+                  <Heading>Concept selection procedure</Heading>
+                  <Para>We now experimentally verify the feasibility of the methodology for selecting a subset of representative visual concepts for a given collection, which is based on the frequency, variance and kurtosis of the concepts, as described in Sect. <InternalRef RefID="Sec10">4.3</InternalRef>. In the experiments reported in Sect. <InternalRef RefID="Sec22">7</InternalRef>, TF weighting yielded a better performance than TF–IDF in the concept selection task and therefore for the computation of concept frequency, variance and kurtosis, c.f. (<InternalRef RefID="Equ4">4</InternalRef>), (<InternalRef RefID="Equ5">5</InternalRef>) and (<InternalRef RefID="Equ6">6</InternalRef>), we set here <InlineEquation ID="IEq60">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq60.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$x_{cv} = \mathrm tf _{c,v}$$]]></EquationSource>
+                    </InlineEquation>.</Para>
+                  <Para>Figure <InternalRef RefID="Fig6">6</InternalRef>a–c shows the plots of frequency of concept occurrences, variance and kurtosis of <InlineEquation ID="IEq61">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq61.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\mathrm tf _{c,v}$$]]></EquationSource>
+                    </InlineEquation> throughout the video collection constructed using CU-VIREO374 concepts on the DS-1 dataset and CU-VIREO374 and MediaMill concept detectors on the DS-2 dataset.</Para>
+                  <Para>The results shown in Fig. <InternalRef RefID="Fig6">6</InternalRef>a indicate that some concepts are present in almost all videos in the collection with a significant confidence, while a large subset of concepts appear only in a limited number of videos. This observation holds for both the DS-1 and the DS-2 dataset, and surprisingly, both for CU-VIREO374 and MediaMill concept detectors (not affected by the difference in number of concept detectors in both systems).<Figure Category="Standard" Float="Yes" ID="Fig6">
+                      <Caption Language="En">
+                        <CaptionNumber>Fig. 6</CaptionNumber>
+                        <CaptionContent>
+                          <SimplePara>
+                            <Emphasis Type="Bold">a</Emphasis> Frequencies of concept occurrences in the DS-1 and DS-2 datasets (sorted in decreasing order) <Emphasis Type="Bold">b</Emphasis> Concept variances (sorted in decreasing order) <Emphasis Type="Bold">c</Emphasis> Concept kurtoses (sorted in increasing order) <Emphasis Type="Bold">d</Emphasis> Percentage of overlap between the lists of concepts ordered according to frequency, variance and kurtosis</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                      <MediaObject ID="MO16">
+                        <ImageObject Color="Color" FileRef="MediaObjects/13735_2012_18_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                      </MediaObject>
+                    </Figure>
+                  </Para>
+                  <Para>In addition, as shown in Fig. <InternalRef RefID="Fig6">6</InternalRef>b, a small subset of concepts has a high variance in the DS-1/DS-2 dataset, while a larger number of concepts show relatively uniform values across the collection. Similar observation can also be made for kurtosis (Fig. <InternalRef RefID="Fig6">6</InternalRef>c). The goal of our concept selection procedure is to isolate a set of concepts that appear as high as possible in the concept ranking (i.e., as far to the left as possible in Fig. <InternalRef RefID="Fig6">6</InternalRef>a–c), meaning that they have high variance, high frequency and also low kurtosis. Finally, Fig. <InternalRef RefID="Fig6">6</InternalRef>d shows the curves used to determine the length <InlineEquation ID="IEq62">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq62.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\widetilde{N}_c$$]]></EquationSource>
+                    </InlineEquation> of the ranked lists at which the set of selected concepts is generated as the overlap between the three lists. Supporting the illustration in Fig. <InternalRef RefID="Fig4">4</InternalRef>, the curves indeed show clear local maxima at which <InlineEquation ID="IEq63">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq63.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\widetilde{N}_c$$]]></EquationSource>
+                    </InlineEquation> can be determined.</Para>
+                </Section3>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec22">
+              <Heading>Experimental evaluation of QES based on concept-based coherence indicators</Heading>
+              <Para>Through the experiments summarized in this section, we seek answers to the following research questions:<UnorderedList Mark="Bullet">
+                  <ItemContent>
+                    <Para>How does the proposed QES approach perform if videos are represented using the original concept vector (<InternalRef RefID="Equ1">1</InternalRef>), without refinement through the concept selection step (Sect. <InternalRef RefID="Sec23">7.1</InternalRef>)?</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>To which extent does the concept selection step improve the QES performance and under which conditions(Sect. <InternalRef RefID="Sec24">7.2</InternalRef>)?</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>Do the results generalize onto a new dataset and under which conditions (Sect. <InternalRef RefID="Sec27">7.3</InternalRef>)?</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>What is the impact of the quality of visual concept detection on the QES performance (Sect. <InternalRef RefID="Sec28">7.4</InternalRef>)?</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>Is the performance gain stable across queries (Sect. <InternalRef RefID="Sec30">7.6</InternalRef>)?</Para>
+                  </ItemContent>
+                </UnorderedList>We will address these questions first by working with the coherence indicator (Co) defined in (<InternalRef RefID="Equ9">9</InternalRef>). The performance of alternative indicators (mean-AIS and max-AIS) is then analyzed separately in Sect. <InternalRef RefID="Sec29">7.5</InternalRef>. Furthermore, we will evaluate our approach in view of the above questions through a comparative analysis involving the best-performing baseline approach. This reference approach is selected among the simple text-search baseline that uses speech recognition transcripts only and our three additional results lists produced using common query expansions (Sect. <InternalRef RefID="Sec18">6.1.3</InternalRef>). The performance of these approaches in terms of MAP is shown in Table <InternalRef RefID="Tab1">1</InternalRef> for both DS-1 and DS-2 datasets. Note that the four results lists produced by these four baseline approaches are the ones that will be combined by our QES approach.<Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>MAP of the baseline and the query expansions used</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="5">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Dataset</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Baseline</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>PRF</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>WordNet</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>Google Sets</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>DS-1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>0.2322</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.2619</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.1941</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0.1271</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>DS-2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>0.2381</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.2621</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.1867</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0.1276</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+              </Para>
+              <Para>When interpreting the results, it is important to note that here we are not interested in improving the MAP in the absolute sense since MAP depends on the quality of the available baseline results lists. Instead, for each query, we target to always choose the best results list, whatever MAP it has. To make a comparison with the theoretical optimum, we make use of “oracle” indicators, the hypothetical indicators that always choose the correct query expansion. Here, we note that oracle indicators would achieve a MAP of 0.3082 and 0.3136 on the DS-1 and DS-2 datasets, respectively. These numbers can be seen as the upper limits of the achievable performance of our QES approach. Throughout experiments, we also compare the performance of our QES approach to the performance of the “Best Baseline”, a baseline approach achieving the highest MAP for a given video collection.</Para>
+              <Para>Finally, the evaluation will take into account the influence of the main parameters of our approach:<UnorderedList Mark="Bullet">
+                  <ItemContent>
+                    <Para>The threshold <InlineEquation ID="IEq64">
+                        <InlineMediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq64.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </InlineMediaObject>
+                        <EquationSource Format="TEX"><![CDATA[$$\theta $$]]></EquationSource>
+                      </InlineEquation> used for computing the Co indicator,</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>top-<InlineEquation ID="IEq65">
+                        <InlineMediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq65.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </InlineMediaObject>
+                        <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                      </InlineEquation>, the number of videos used for computing the Co, mean-AIS and max-AIS coherence indicators,</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>the number of automatically selected visual concept detectors <InlineEquation ID="IEq66">
+                        <InlineMediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq66.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </InlineMediaObject>
+                        <EquationSource Format="TEX"><![CDATA[$$|\widetilde{C}|$$]]></EquationSource>
+                      </InlineEquation> and</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>
+                      <InlineEquation ID="IEq67">
+                        <InlineMediaObject>
+                          <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq67.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                        </InlineMediaObject>
+                        <EquationSource Format="TEX"><![CDATA[$$x_{cv}$$]]></EquationSource>
+                      </InlineEquation>, that can be set to either TF or TF–IDF.</Para>
+                  </ItemContent>
+                </UnorderedList>
+              </Para>
+              <Section2 ID="Sec23">
+                <Heading>QES using all concepts</Heading>
+                <Para>In the first query expansion selection (QES) experiment, we use both CU-VIREO374 and MediaMill concept detectors. In Table <InternalRef RefID="Tab2">2</InternalRef> we report the performance of the system for the optimal parameter settings.<Table Float="Yes" ID="Tab2">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>MAP of our QES approach when all concepts and TF weights are used</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="5">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Dataset</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Concepts</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>Best Base.</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>QES</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>Oracle</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>DS-1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>C-V374</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2619</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.2363</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.3082</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>DS-2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>C-V374</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2621</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.268^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.3136</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>DS-2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>MM 64</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2621</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.2743^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.3136</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Statistically significant improvement over the baseline is indicated with “^” (Wilcoxon Signed Rank test, <InlineEquation ID="IEq68">
+                          <InlineMediaObject>
+                            <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq68.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                          </InlineMediaObject>
+                          <EquationSource Format="TEX"><![CDATA[$$p=0.05$$]]></EquationSource>
+                        </InlineEquation>)</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para>Although the use of all visual concepts available improves results on DS-2 dataset, the improvement is achieved for only a limited number of parameter settings and therefore cannot be considered robust enough. Moreover, in the case of DS-1 dataset improvement is not obtained for any parameter setting and/or choice of indicator. This finding supports our hypothesis that the concept selection is a critical step in our approach.</Para>
+              </Section2>
+              <Section2 ID="Sec24">
+                <Heading>QES applying the concept selection</Heading>
+                <Para>In this section, we investigate the performance improvement that can be gained when applying concept selection. We first experiment with DS-1 and then analyze in Sect. <InternalRef RefID="Sec27">7.3</InternalRef> the capability of our approach to achieve a similar performance on the dataset DS-2 as well. For the DS-1 dataset from the entire CU-VIREO374 concept collection, only 15 most informative concepts are selected.</Para>
+                <Para>The performance of our QES approach in this case is summarized in Table <InternalRef RefID="Tab3">3</InternalRef>. It is still far from the ideal performance of the oracle, but it shows a moderate improvement over the best-performing baseline, and also over the results in Table <InternalRef RefID="Tab2">2</InternalRef> (first row), where no concept selection was performed.<Table Float="Yes" ID="Tab3">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>MAP of QES approach for DS-1 dataset when our concept selection approach on CU-VIREO 374 is used</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="4">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Weights</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Best Base.</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>QES</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>Oracle</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TF</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.2619</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2757^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.3082</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TF–IDF</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.2619</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2648</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.3082</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Statistically significant improvement over the baseline is indicated with “^” (Wilcoxon Signed Rank test, <InlineEquation ID="IEq69">
+                          <InlineMediaObject>
+                            <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq69.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                          </InlineMediaObject>
+                          <EquationSource Format="TEX"><![CDATA[$$p=0.05$$]]></EquationSource>
+                        </InlineEquation>)</SimplePara>
+                    </tfooter>
+                  </Table>
+                  <Table Float="Yes" ID="Tab4">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>MAP for different values of parameter <InlineEquation ID="IEq70">
+                            <InlineMediaObject>
+                              <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq70.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                            </InlineMediaObject>
+                            <EquationSource Format="TEX"><![CDATA[$$\theta $$]]></EquationSource>
+                          </InlineEquation>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="5">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Weights</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>
+                              <InlineEquation ID="IEq71">
+                                <InlineMediaObject>
+                                  <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq71.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                </InlineMediaObject>
+                                <EquationSource Format="TEX"><![CDATA[$$\theta =70~\%$$]]></EquationSource>
+                              </InlineEquation>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>
+                              <InlineEquation ID="IEq72">
+                                <InlineMediaObject>
+                                  <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq72.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                </InlineMediaObject>
+                                <EquationSource Format="TEX"><![CDATA[$$\theta =80~\%$$]]></EquationSource>
+                              </InlineEquation>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>
+                              <InlineEquation ID="IEq73">
+                                <InlineMediaObject>
+                                  <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq73.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                </InlineMediaObject>
+                                <EquationSource Format="TEX"><![CDATA[$$\theta =90~\%$$]]></EquationSource>
+                              </InlineEquation>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>Best Base.</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TF</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.2735^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2745^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.2757^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.2619</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TF–IDF</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.225</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2648</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.23</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.2619</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Statistically significant improvement over the baseline is indicated with “^” (Wilcoxon Signed Rank test, <InlineEquation ID="IEq74">
+                          <InlineMediaObject>
+                            <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq74.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                          </InlineMediaObject>
+                          <EquationSource Format="TEX"><![CDATA[$$p=0.05$$]]></EquationSource>
+                        </InlineEquation>)</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para> </Para>
+                <Section3 ID="Sec25">
+                  <Heading>Robustness to parameter setting</Heading>
+                  <Para>To investigate the robustness of the retrieval performance in this case to parameter setting, we first investigate the QES performance for several values of threshold <InlineEquation ID="IEq75">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq75.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\theta $$]]></EquationSource>
+                    </InlineEquation>. In all cases, the number of top-<InlineEquation ID="IEq76">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq76.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                    </InlineEquation> documents used to calculate the indicator is set to 20. This parameter value already yielded good results when calculating the coherence indicator on text vectors [<CitationRef CitationID="CR23">23</CitationRef>]. The results are shown in Table <InternalRef RefID="Tab4">4</InternalRef>. Normalized TF video representation appears to be more robust to parameter setting than TF–IDF, since it shows consistent improvement for various values of parameter <InlineEquation ID="IEq77">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq77.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\theta $$]]></EquationSource>
+                    </InlineEquation>. In [<CitationRef CitationID="CR8">8</CitationRef>], the suggested parameter value is 95 %, but here it seems that the indicator calculated on concept-based features may be even more robust than the one calculated using conventional (text-based) TF or TF–IDF document representations.</Para>
+                  <Para>Regarding the choice for <InlineEquation ID="IEq79">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq79.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$x_{cv}$$]]></EquationSource>
+                    </InlineEquation>, we investigate for which choice statistically significant improvements are obtained. In Tables <InternalRef RefID="Tab2">2</InternalRef>, <InternalRef RefID="Tab3">3</InternalRef> and <InternalRef RefID="Tab4">4</InternalRef> the statistically significant improvements over the baseline retrieval method are indicated with “^”. As a significance measure, we adopt the Wilcoxon signed rank test <InlineEquation ID="IEq80">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq80.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$(p=0.05)$$]]></EquationSource>
+                    </InlineEquation>, commonly used in information retrieval. As indicated in the tables, almost all improvements obtained when the TF weights are used are statistically significant, which supports our conclusion that they are indeed more valuable for our purposes. The superior performance of TF weights might be a result of the fact that it is the pattern of concept occurrence (reflected in TF) rather than the absolute presence or absence of a concept in videos (encoded by IDF) that provides more helpful means of capturing semantic similarity. This effect may be specific to the distribution of concepts within video, since in text retrieval, the IDF weight generally makes an important contribution. We conjecture that the IDF component is particularly sensitive to the noise of concept detectors and that a high IDF value for a particular concept might be caused by an erroneous detection. Finally, the reason for a lower performance might lay in the fact that we select a rather small subset of concepts that appear frequently in the collection, and thus the IDF component does not have a positive influence.</Para>
+                </Section3>
+                <Section3 ID="Sec26">
+                  <Heading>Optimality of the obtained results</Heading>
+                  <Para>Further, we analyze whether our concept selection approach is capable of selecting the optimal threshold for the number of concepts to be used. Here, we consider only TF weights, because, as shown in the previous section, they demonstrate a superior performance to TF–IDF weights. We gradually increase the number of top-<InlineEquation ID="IEq81">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq81.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$N_c$$]]></EquationSource>
+                    </InlineEquation> concepts in the lists produced based on frequency, variance and kurtosis criteria and thus the number of overlapping concepts. The best overall MAP of 0.2757 is obtained when 15 concepts are selected, which is the same result achieved with a concept set chosen using the automatically selected threshold. This finding confirms the capability of our approach to select the optimal value <InlineEquation ID="IEq82">
+                      <InlineMediaObject>
+                        <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq82.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                      </InlineMediaObject>
+                      <EquationSource Format="TEX"><![CDATA[$$\widetilde{N}_c$$]]></EquationSource>
+                    </InlineEquation>.</Para>
+                </Section3>
+              </Section2>
+              <Section2 ID="Sec27">
+                <Heading>Generalization across datasets</Heading>
+                <Para>For the DS-2 set, our concept selection approach extracts 32 representative concepts from the CU-VIREO374 concept collection. The performance comparison with the best-performing baseline approach and the oracle indicator is shown in Table <InternalRef RefID="Tab5">5</InternalRef>. Measuring the performance of the system for the varying number of selected concepts, as described in the previous section, reveals that in the case of TF–IDF weights our approach indeed selects the optimal number of concepts. In the case of TF weights, the maximal performance (MAP = 0.27) is obtained using the coherence indicator on 15 selected concepts (similar to the DS-1 set).<Table Float="Yes" ID="Tab5">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>MAP of QES approach for the DS-2 dataset when the concept selection approach on CU-VIREO374 concepts is used</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="4">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Weights</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Best Base.</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>QES</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>Oracle</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TF</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.2621</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2631</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.3136</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TF–IDF</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.2621</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.256</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.3136</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Statistically significant improvement over the baseline is indicated with “^” (Wilcoxon Signed Rank test, <InlineEquation ID="IEq78">
+                          <InlineMediaObject>
+                            <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq78.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                          </InlineMediaObject>
+                          <EquationSource Format="TEX"><![CDATA[$$p=0.05$$]]></EquationSource>
+                        </InlineEquation>)</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para>Similarly to the DS-1 set, when TF representation is used, a moderate improvement is achieved. TF–IDF representation again appears to be less robust and here it performs even worse than the best baseline approach (still outperforming the other three baselines). When the selection approach is applied to MediaMill concept collection, a subset of 14 representative concepts is selected. As an illustration, the automatically selected concepts are: <Emphasis Type="Italic">Building</Emphasis>, <Emphasis Type="Italic">Crowd</Emphasis>, <Emphasis Type="Italic">Face</Emphasis>, <Emphasis Type="Italic">Hand</Emphasis>, <Emphasis Type="Italic">Outdoor</Emphasis>, <Emphasis Type="Italic">Person</Emphasis>, <Emphasis Type="Italic">PersonWalkingOrRunning</Emphasis>, <Emphasis Type="Italic">Road</Emphasis>, <Emphasis Type="Italic">Sky</Emphasis>, <Emphasis Type="Italic">Street</Emphasis>, <Emphasis Type="Italic">TwoPeople</Emphasis>, <Emphasis Type="Italic">Urban</Emphasis>, <Emphasis Type="Italic">Vegetation</Emphasis> and <Emphasis Type="Italic">Waterscape</Emphasis>. The performance of QES approach using the Co indicator is shown in Table <InternalRef RefID="Tab6">6</InternalRef>.<Table Float="Yes" ID="Tab6">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 6</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>MAP of QES approach for the DS-2 dataset when the concept selection approach on MediaMill concepts is used</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="4">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Weights</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Best Base.</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>QES</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>Oracle</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TF</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.2621</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2688^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.3136</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TF–IDF</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.2621</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2673</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.3136</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Statistically significant improvement over the baseline is indicated with “^” (Wilcoxon Signed Rank test, <InlineEquation ID="IEq83">
+                          <InlineMediaObject>
+                            <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq83.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                          </InlineMediaObject>
+                          <EquationSource Format="TEX"><![CDATA[$$p=0.05$$]]></EquationSource>
+                        </InlineEquation>)</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para>Both TF and TF–IDF concept-based feature variants yield a modest performance improvement and again the TF weights are performing slightly better, which is consistent with our previous findings.</Para>
+              </Section2>
+              <Section2 ID="Sec28">
+                <Heading>Impact of quality of concept detectors</Heading>
+                <Para>Compared to CU-VIREO374, the use of MediaMill concept set yields an increased robustness to parameter settings and, as shown in Tables <InternalRef RefID="Tab2">2</InternalRef>, <InternalRef RefID="Tab5">5</InternalRef>, <InternalRef RefID="Tab6">6</InternalRef> and <InternalRef RefID="Tab7">7</InternalRef>, generally gives a higher performance improvement (in terms of MAP). This is not unexpected, since the MediaMill system achieved the highest performance in TRECVID 2009 concept detection and interactive search tasks [<CitationRef CitationID="CR28">28</CitationRef>]. We can therefore conclude that the quality of concept detectors remains an important factor influencing the performance of our approach.<Table Float="Yes" ID="Tab7">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 7</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>MAP of QES approach for the DS-2 dataset when the concept selection approach on MediaMill concepts and the mean-AIS indicator are applied</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="5">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Weights</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Indicator</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>Best Base.</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>QES</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>Oracle</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TF</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>mean-AIS</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2621</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.2719^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.3136</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>TF–IDF</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>mean-AIS</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2621</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.27^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.3136</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Statistically significant improvement over the baseline is indicated with “^” (Wilcoxon Signed Rank test, <InlineEquation ID="IEq84">
+                          <InlineMediaObject>
+                            <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq84.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                          </InlineMediaObject>
+                          <EquationSource Format="TEX"><![CDATA[$$p=0.05$$]]></EquationSource>
+                        </InlineEquation>)</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec29">
+                <Heading>Alternative coherence indicators</Heading>
+                <Para>In addition to the coherence indicator (Co), we test the usability of two alternative indicators of the topical clustering structure (mean-AIS and max-AIS). The experimental results show that when CU-VIREO374 concepts are used, the alternative indicators do not yield improvement on either DS-1 or the DS-2 set. However, when the MediaMill concepts are used in the DS-2 set, the overall best performer for a wide range of parameter settings is the mean-AIS indicator. Table <InternalRef RefID="Tab7">7</InternalRef> summarizes the performance of our QES system on the DS-2 set, when the automatic concept selection approach is applied to the MediaMill concept set.</Para>
+                <Para>Wilcoxon signed rank test reveals that the obtained improvements are indeed statistically significant. The results from Table <InternalRef RefID="Tab7">7</InternalRef> are also consistent with our earlier findings. Namely, in our previous work [<CitationRef CitationID="CR23">23</CitationRef>], we showed that the mean-AIS and max-AIS indicators might be successfully used for query expansion selection when the videos are represented by the vectors of TF–IDF weights calculated on the automatic speech recognition transcripts text of the videos only. Moreover, the overall best-performing indicator in those experiments appeared to be mean-AIS. We conjecture that the performance improvement can be attributed to a higher sensitivity of mean-AIS indicator to the quality of concept detectors.</Para>
+                <Para>Mean-AIS indicator calculated on TF and TF–IDF weights gives consistent improvement in performance for different sizes of top-<InlineEquation ID="IEq85">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq85.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                  </InlineEquation> video set over which it is calculated (i.e., <Emphasis Type="Italic">N</Emphasis> = 5, 10, 15, 20) when MediaMill concepts are used. This finding confirms that, depending on the quality of concept detector set, our approach is relatively robust to parameter setting.</Para>
+              </Section2>
+              <Section2 ID="Sec30">
+                <Heading>Performance stability across queries</Heading>
+                <Para>In this section, we investigate how the improvement is distributed over queries. Our method predicts the correct query expansion in approximately 40 % of time, but it also seems to make the correct prediction in the critical cases where the AP improves significantly. The indicator seems to make the error generally only in the cases when the coherence of the tops of different results lists is similar, but fortunately, the MAP values of these lists are also similar. For example, after the failure analysis of the results presented in Table <InternalRef RefID="Tab7">7</InternalRef>, when the mean-AIS indicator is used on TF weights, we concluded that our indicator chooses the correct expansion in 43.9 % of cases. Further analysis reveals that the indicator additionally chooses the second best expansion in 34.15 % of queries and the errors were generally made in the case where the second best and the best results lists have very similar coherence of top results. Basically, our indicator selects the best or second best expansion in roughly 78 % of queries. It is also important to note that our query expansion selection makes use of all available query expansions approaches. Namely, as shown in Table <InternalRef RefID="Tab1">1</InternalRef>, the Google Sets expansion in general performs worse than the baseline retrieval, PRF and WordNet expansions, but there are queries for which it helps and our indicators seem to be capable of predicting such cases. For example, a failure analysis of the results presented in Table <InternalRef RefID="Tab6">6</InternalRef>, when the Co indicator is used on TF weights, reveals that in the case of topical queries, such as <Emphasis Type="Italic">dictatorship</Emphasis> and <Emphasis Type="Italic">youth programs</Emphasis>, the Google Sets expansion yields the best results and our indicator appears to be capable of detecting it. Further, in the case of queries <Emphasis Type="Italic">youth programs</Emphasis> and <Emphasis Type="Italic">patients</Emphasis>, the best-performing expansions are Google Sets and WordNet, while the generally better-performing baseline and PRF expansion achieve <InlineEquation ID="IEq86">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq86.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$0$$]]></EquationSource>
+                  </InlineEquation> MAP. In both cases, our indicator manages to select the best query expansion.<Table Float="Yes" ID="Tab8">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 8</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Successfulness of our concept-based indicator, text-based alternative indicator and the combined indicator in predicting the optimal query expansion on the DS-1 set</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO17">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_18_Figa1_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Table>
+                  <Table Float="Yes" ID="Tab9">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 9</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Successfulness of our concept-based indicators, text-based alternative indicator and the combined indicator in predicting the optimal query expansion on the DS-2 set</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO18">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/13735_2012_18_Figa2_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Table>
+                </Para>
+                <Para>As explained in the introduction, we expect the performance of our approach to be influenced by several important factors, such as abstraction level of a particular semantic label, semantic and visual diversity of the videos relevant to that semantic label and the quality of visual concept detectors used. Tables <InternalRef RefID="Tab8">8</InternalRef> and <InternalRef RefID="Tab9">9</InternalRef> show for which semantic labels (queries), our query performance prediction approach succeeds in selecting an optimal expansion. Here, for both datasets and concept sets, we use Co indicator on TF weights. A general observation can be made that the performance of our concept-based indicators is relatively independent of the abstraction level of a particular semantic label. In other words, the indicators manage to choose a correct results list for some more abstract (e.g., <Emphasis Type="Italic">daily life</Emphasis>, <Emphasis Type="Italic">politics</Emphasis>, <Emphasis Type="Italic">economy</Emphasis> and <Emphasis Type="Italic">history</Emphasis>) and some less abstract queries (e.g., <Emphasis Type="Italic">landscape</Emphasis> and <Emphasis Type="Italic">food</Emphasis>). We believe that in case of some abstract semantic themes, our concept-based indicators are able to capture high-level stylistic similarities between videos, originating in television production rules. For example, political documentaries and talk shows usually feature several people talking about the subject. Further, in Table <InternalRef RefID="Tab9">9</InternalRef>, we observe that for some semantic labels MediaMill concept detectors perform better, while in some other cases, the better-performing concept detector set is CU-VIREO374. This may be attributed to the fact that many concepts selected for those sets are different and not all concepts are equally representative of a particular semantic theme. In addition, as shown in [<CitationRef CitationID="CR11">11</CitationRef>, <CitationRef CitationID="CR27">27</CitationRef>], performance of concept detectors varies significantly within a concept detector set, which further influences effectiveness and reliability of the set in capturing the semantic characteristics of a video. Finally, on the DS-2 set, our concept-based indicators perform well for some semantically related queries, such as <Emphasis Type="Italic">children</Emphasis>, <Emphasis Type="Italic">youth</Emphasis> and <Emphasis Type="Italic">youth programs</Emphasis>. This observation supports our assumption that the correct decisions of concept-based indicators actually do not occur randomly, but depend on the quality of concept detectors and the degree to which a particular semantic theme is visually constraining.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec31">
+              <Heading>Comparison with the text-based and combined query performance indicators</Heading>
+              <Para>While the experiments described in the previous section served to demonstrate that our concept-based video representation and the concept-based indicators of query performance are indeed promising solutions for semantic-theme-based video retrieval, here, we compare their performance with the performance of text-based alternatives. As discussed in Sect. <InternalRef RefID="Sec3">3</InternalRef>, recently proposed coherence-based indicators (e.g., [<CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>]), have been proven effective in a wide range of text information retrieval applications. In [<CitationRef CitationID="CR23">23</CitationRef>], we showed that post-retrieval coherence-based query performance indicators, such as those described in Sect. <InternalRef RefID="Sec11">5</InternalRef>, might improve spoken content retrieval significantly. The retrieval framework used is similar to the one illustrated by Fig. <InternalRef RefID="Fig5">5</InternalRef>, with, however, an important difference in video representation. For that, we exploit only the automatic speech recognition transcripts of the videos and represent each video as the vector of TF–IDF weights.</Para>
+              <Section2 ID="Sec32">
+                <Heading>Text-based indicators on DS-1 and DS-2 datasets</Heading>
+                <Para>In this experiment, we use DS-1 set for exploring the parameter space and report results on DS-2 set. To simplify the analysis of indicator fusion, we limit the experiments to the coherence indicator Co only and report cases in which the other indicators perform better in terms of MAP or robustness to parameter setting. We choose to focus on the coherence indicator in this experiment, also because, it is the only indicator to yield performance improvement on both DS-1 and DS-2 sets when CU-VIREO374 concepts are used to represent videos. For text-based video representation, we index English translation of the automatic speech recognition transcripts and create vectors of TF–IDF weights. Preprocessing includes stemming and rigorous stopword removal, where each word appearing in more than <InlineEquation ID="IEq89">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq89.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_s\%$$]]></EquationSource>
+                  </InlineEquation> of videos is considered to be a stopword. Our exploratory experiments show that the best results are obtained for <InlineEquation ID="IEq90">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq90.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_s = 20~\%$$]]></EquationSource>
+                  </InlineEquation>. Further, similarly to [<CitationRef CitationID="CR8">8</CitationRef>], we experimentally prove that the text-based coherence indicator yields optimal performance when computed on top-5 documents using a high value for document similarity threshold <InlineEquation ID="IEq91">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq91.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\theta = 95~\%$$]]></EquationSource>
+                  </InlineEquation>. The performance on both datasets is reported in Table <InternalRef RefID="Tab10">10</InternalRef>.<Table Float="Yes" ID="Tab10">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 10</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>MAP of QES approach for DS-1 and DS-2 set when the coherence indicator Co is used with concept-based and text-based video representations; performance of indicator selection method is shown as well</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="9">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <colspec align="left" colname="c6" colnum="6"/>
+                      <colspec align="left" colname="c7" colnum="7"/>
+                      <colspec align="left" colname="c8" colnum="8"/>
+                      <colspec align="left" colname="c9" colnum="9"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Dataset</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Best Base.</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c4" namest="c3">
+                            <SimplePara>QES concepts</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c6" namest="c5">
+                            <SimplePara>QES text</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c8" namest="c7">
+                            <SimplePara>QES concepts<InlineEquation ID="IEq87">
+                                <InlineMediaObject>
+                                  <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq87.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                                </InlineMediaObject>
+                                <EquationSource Format="TEX"><![CDATA[$$+$$]]></EquationSource>
+                              </InlineEquation>Text</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>Oracle</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1"/>
+                          <entry align="left" colname="c2"/>
+                          <entry align="left" colname="c3">
+                            <SimplePara>MAP</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>Corr. (%)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>MAP</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>Corr. (%)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>MAP</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>Corr. (%)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9"/>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>DS-1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.2619</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2757^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>40</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.2624^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>30</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.2846^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>54</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>0.3082^</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>DS-2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.2621</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.2688^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>37</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.2734^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>32</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.2831^</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>44</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>0.3136^</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Statistically significant improvement over the baseline is indicated with “^” (Wilcoxon Signed Rank test, <InlineEquation ID="IEq88">
+                          <InlineMediaObject>
+                            <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq88.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                          </InlineMediaObject>
+                          <EquationSource Format="TEX"><![CDATA[$$p=0.05$$]]></EquationSource>
+                        </InlineEquation>)</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para>The best performer on DS-1 set is our proposed max-AIS indicator, scoring an MAP of 0.2648 when computed on top-5 documents. In general, on both the DS-1 and DS-2 sets, max-AIS and mean-AIS appear to be more robust than the Co indicator, yielding improvement for a larger range of parameter settings. Finally, for the completeness of the analysis, we repeat the experiments representing videos as the vectors of normalized TF weights. Interestingly, normalized TF representation yields a similar performance improvement to TF–IDF for various values of stopword removal threshold <InlineEquation ID="IEq92">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq92.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$N_s \in [10~\%, 90~\%]$$]]></EquationSource>
+                  </InlineEquation>, which might suggest that some stylistic attributes of the conversational speech might be particularly useful for discriminating between videos based on the semantic theme.</Para>
+              </Section2>
+              <Section2 ID="Sec33">
+                <Heading>Indicator selection</Heading>
+                <Para>As discussed in Sect. <InternalRef RefID="Sec30">7.6</InternalRef>, our best-performing concept-based indicator, mean-AIS, on DS-2 set chooses a correct query expansion in roughly 40 % of cases, while the first or second best expansion is selected in over 70 % of cases. Therefore, we expect that fusion of text-based and concept-based indicators might lead to a further performance improvement.</Para>
+                <Para>To prove the concept, we choose to perform fusion through a simple voting strategy, acknowledging that a more sophisticated fusion approach might yield a higher performance improvement. First, we compute the indicators for the results lists generated in response to the original query and the three query expansions used and then select to use a more confident indicator for that query. We consider an indicator as more confident if it has a larger relative difference <InlineEquation ID="IEq93">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq93.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$ \delta  Co ^m$$]]></EquationSource>
+                  </InlineEquation> between outputs for the most coherent and second most coherent results list.<Equation ID="Equ11">
+                    <EquationNumber>11</EquationNumber>
+                    <MediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_Equ11.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$\begin{aligned} \delta {Co} ^m = \frac{Co_1^m - Co_2^m}{Co_2^m}, m\in \{c,t\} \end{aligned}$$]]></EquationSource>
+                  </Equation>In (<InternalRef RefID="Equ11">11</InternalRef>), <InlineEquation ID="IEq94">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq94.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$ Co ^c_1$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq95">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq95.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$ Co ^c_2$$]]></EquationSource>
+                  </InlineEquation> are the outputs of the concept-based indicator computed for the most coherent and second most coherent results list, while <InlineEquation ID="IEq96">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq96.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$ Co ^t_1$$]]></EquationSource>
+                  </InlineEquation> and <InlineEquation ID="IEq97">
+                    <InlineMediaObject>
+                      <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq97.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </InlineMediaObject>
+                    <EquationSource Format="TEX"><![CDATA[$$ Co ^t_2$$]]></EquationSource>
+                  </InlineEquation> are the corresponding outputs of the text-based indicator.</Para>
+                <Para>Table <InternalRef RefID="Tab10">10</InternalRef> shows the performance of our QES approach when: (1) concept-based video representation (indicator) is used; (2) text-based video representation (indicator) is used; (3) a more confident out of two computed indicators is selected. In a separate field, for each indicator we show a percentage of correctly selected expansions (i.e., percentage of cases in which the optimal query expansion is selected). As explained in the previous section, for the reasons of consistency and analysis simplification, we limit the experiment to coherence indicator Co only. On DS-1 dataset CU-VIREO374 concept set is used, while for DS-2 we make use of better-performing MediaMill visual concept detectors.</Para>
+                <Para>The results indicate that selection of a more confident indicator brings additional performance improvement in terms of both MAP and ratio of correctly selected query expansions, which proves our starting assumption. The results presented in Table <InternalRef RefID="Tab10">10</InternalRef> indicate that the concept-based indicators yield a comparable performance to the state-of-the-art alternatives in the IR field, computed using the spoken content only. Furthermore, in the case of concept-based indicators, performance improvement seems to be better distributed across queries (e.g., optimal results list/ query expansion is selected more often). An interesting observation can be made in Table <InternalRef RefID="Tab8">8</InternalRef>: if either text-based or concept-based indicator manages to select the optimal results list, a combined indicator will succeed in the task as well. A similar, although not as constant, trend could be observed in Table <InternalRef RefID="Tab9">9</InternalRef>, which further shows that even a simple combining of indicators can lead to a more reliable prediction. Finally, the experiments confirm our main assumption that the information relevant to a semantic theme can be extracted from the visual channel of the video and not only from its spoken content.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec34">
+              <Heading>Discussion</Heading>
+              <Para>We have presented an approach to semantic-theme-based video retrieval that uses shot-level outputs of visual concept detectors to automatically build video-level representations, here referred to as Concept Vectors. These vectors are used to calculate coherence indicators that enable query expansion selection (QES) within a post-retrieval query performance prediction framework. The novel contribution of our approach is the effective combination of the output of automatic speech recognition and visual-concept detection, both known to be noisy, to achieve an overall improvement in retrieval of videos according to the semantic theme specified by the query. Our approach does not aim at obtaining hypothetical maximum performance on the given datasets, but rather to select the best out of available results lists for a given topical query in an unsupervised fashion. Concept Vectors are used to compare videos with each other instead of with the query. In this way, we are able to avoid any training that would be necessary to create a step that maps the query onto the appropriate concepts. Therefore, our approach has a potential to be used in a larger number of applications than the alternative solutions based on e.g., supervised learning.</Para>
+              <Para>A key advantage of our approach is its ability to make effective use of the noisy output of concept detectors. In fact, our Concept Vectors are designed to make optimal use of a given set of concepts, meaning that we do not necessarily need a guarantee that the set of concepts that we use provides a complete coverage of the semantic space of the collection. However, the starting concept set should provide a certain minimum required semantic coverage necessary for discriminating between videos at the level of a semantic theme. In addition, given the concept detector sets of the same quality, the one providing a better semantic coverage is intuitively expected to yield a similar or better performance within our system.</Para>
+              <Para>Our experimental evaluation validated the effectiveness of our approach and confirmed that the automatic selection of concepts during the process of building the Concept Vector is critical for the retrieval performance improvement. Experiments also revealed that the automatically determined cut-off for the list of concepts to be used succeeds in approximating the optimal value. Further, it was shown that including the IDF factor provided no further performance gains, consistent with the conclusion that it is not so much the uniqueness of a concept in a video, but rather the frequency of that concept’s appearance that best captures pair-wise similarity between videos in terms of semantic theme. The method for automatic selection of concepts to be used to build the Concept Vector was shown to be transferable in an unproblematic manner to an unseen dataset of a similar type. Changing datasets does, however, require a re-optimization of the parameters involved in calculating the coherence indicator, namely the <InlineEquation ID="IEq98">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq98.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$\theta $$]]></EquationSource>
+                </InlineEquation> cutoff and also the number of top-<InlineEquation ID="IEq99">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="13735_2012_18_Article_IEq99.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[$$N$$]]></EquationSource>
+                </InlineEquation> documents used.</Para>
+              <Para>The improvement yielded by the approach is distributed relatively well across the board, i.e., its benefit is not localized to only certain types of queries. In particular, there is no apparent correlation between the absolute number of documents relevant to a particular query within the collection and the effectiveness of our QES approach. This observation supports our claim that the applicability of our approach generalizes well across different kinds of queries presented to the system, and in particular to new queries with new properties. The efficacy of the approach was shown to have a sensitivity to the quality of the concept detectors, with better-performing concept detectors yielding higher improvement of QES.</Para>
+              <Para>The automatic approach for generating Concept Vectors involves a relatively small number of concepts. If a small set of well-chosen concept detectors in certain scenarios, such as the one described in this paper, is sufficient to improve the results of semantic-theme-based retrieval, a productive avenue for the development of concept detectors is to concentrate on achieving high quality for a small number of detectors and not on training concept detectors that will cover the entire conceivable semantic space.</Para>
+              <Para>We demonstrate that not only spoken content of the video but also information extracted from the visual channel can be successfully exploited for discriminating between videos based on the semantic theme. Finally, here we show that a simple combination of “unimodal” coherence indicators of query performance, exploiting text-based and concept-based video representations, might further improve retrieval performance. More specifically, for each query, we first compute text-based and concept-based query performance indicators, and then, automatically select the more confident indicator to obtain a higher performance improvement, both in terms of overall MAP and percentage of correctly selected expansions. Experiments reveal that our combined query performance indicator makes a correct decision for 30 % queries more than a state of the art text-based alternative.</Para>
+              <Para>Our future work will involve investigation into the further refinement of the approach to building concept-based video-level representations. In particular, we are interested in exploiting not only the frequency of occurrence of concepts but rather detailed information about their occurrence patterns, including distributional properties such as burstiness and also co-occurrence with other concepts. Finally, we are interested in investigating methods for automatically estimating the optimal parameter settings for QES, in determining the lower bound of concept detection quality necessary for a concept detector to be useful in our method and also determining the exact nature of the collection-specific properties that make our approach more or less suitable for a particular retrieval task.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_Article_18.pdf" TargetType="OnlinePDF"/>
+          <BodyRef FileRef="BodyRef/PDF/13735_2012_18_TEX.zip" TargetType="TEX"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>Aly R, Doherty A, Hiemstra D, Smeaton A (2010) Beyond shot retrieval: searching for broadcast news items using language models of concepts. In: Advances in information retrieval, LNCS, vol 5993, Springer, Heidelberg, pp 241–252</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>Arijon D (1976) Grammar of the Film Language. Silman-James Press, Los Angeles, CA, USA</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>Cronen-Townsend S, Zhou Y, Croft WB (2002) Predicting query performance. In: Proceedings 25th annual international ACM SIGIR conference on research and development in information retrieval, ACM, SIGIR ’02, pp 299–306</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>Hauff C, Murdock V, Baeza-Yates R (2008) Improved query difficulty prediction for the web. In: Proceedings 17th ACM conference on information and knowledge management, ACM, CIKM ’08, pp 439–448</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Hauptmann A, Yan R, Lin WH (2007) How many high-level concepts will fill the semantic gap in news video retrieval? In: Proceedings 6th ACM international conference on Image and video retrieval, CIVR ’07, pp 627–634</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Hauptmann A, Christel M, Yan R (2008) Video retrieval based on semantic concepts. In: Proceedings of the IEEE, 96(4):602–622. doi:<ExternalRef><RefSource>10.1109/JPROC.2008.916355</RefSource><RefTarget Address="10.1109/JPROC.2008.916355" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>He J, Larson M, de Rijke M (2008) Using coherence-based measures to predict query difficulty. In: Advances in information retrieval, LNCS, vol 4956, Springer, Heidelberg, pp 689–694</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>He</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Weerkamp</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Larson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Rijke</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">An effective coherence measure to determine topical consistency in user-generated content</ArticleTitle>
+                  <JournalTitle>Int J Doc Anal Recognit</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>185</FirstPage>
+                  <LastPage>203</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10032-009-0089-5</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>He J, Weerkamp W, Larson M, de Rijke M (2009) An effective coherence measure to determine topical consistency in user-generated content. Int J Doc Anal Recognit 12:185–203</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibUnstructured>Hsu WH, Kennedy LS, Chang SF (2006) Video search reranking via information bottleneck principle. In: Proceedings 14th annual ACM international conference on Multimedia, ACM, MM ’06, pp 35–44</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>Huurnink B, Hofmann K, de Rijke M (2008) Assessing concept selection for video retrieval. In: Proceedings 1st ACM international conference on Multimedia information retrieval, ACM, MIR ’08, pp 459–466</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>Jiang YG, Yanagawa A, Chang SF, Ngo CW (2008) CU-VIREO374: Fusing Columbia374 and VIREO374 for Large Scale Semantic Concept Detection. ADVENT Technical Report #223-2008-1, Columbia University, New York</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>Johnson SE, Jourlin P, Jones KS, Woodland PC (2000) Spoken document retrieval for trec-8 at cambridge university. In: Proceedings TREC-8, pp 197–206</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Larson M, Soleymani M, Serdyukov P, Rudinac S, Wartena C, Murdock V, Friedland G, Ordelman R, Jones GJF (2011) Automatic tagging and geotagging in video collections and communities. In: Proceedings 1st ACM Internatinal Conference on Multimedia Retrieval, ACM, ICMR ’11, pp 51:1–51:8</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>Lee KS, Croft WB, Allan J (2008) A cluster-based resampling method for pseudo-relevance feedback. In: Proceedings 31st annual international ACM SIGIR conference on research and development in information retrieval, ACM, SIGIR ’08, pp 235–242</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>Manning CD, Raghavan P, Schütze H (2008) Introduction to information retrieval. Cambridge University Press, Cambridge</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>Nack F, Dorai C, Venkatesh S (2001) Computational media aesthetics: finding meaning beautiful. Multimedia, IEEE 8(4):10–12. doi:<ExternalRef><RefSource>10.1109/93.959093</RefSource><RefTarget Address="10.1109/93.959093" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Naphade</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Smith</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Tesic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SF</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Hsu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Kennedy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Hauptmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Curtis</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Large-scale concept ontology for multimedia</ArticleTitle>
+                  <JournalTitle>IEEE MultiMedia</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>86</FirstPage>
+                  <LastPage>91</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/MMUL.2006.63</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Naphade M, Smith JR, Tesic J, Chang SF, Hsu W, Kennedy L, Hauptmann A, Curtis J (2006) Large-scale concept ontology for multimedia. IEEE MultiMedia 13:86–91</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>Natsev AP, Haubold A, Tešić J, Xie L, Yan R (2007) Semantic concept-based query expansion and re-ranking for multimedia retrieval. In: Proceedings 15th international conference on Multimedia, ACM, MM ’07, pp 991–1000</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibUnstructured>Over P, Awad G, Fiscus J, Antonishek B, Qu G (2010) TRECVID 2010 an overview of the goals, tasks, data, evaluation mechanisms and metrics. In: Proceedings TRECVID Workshop, NIST, pp 1–34</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibUnstructured>van Rijsbergen CJ (1979) Information retrieval. Butterworth.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibUnstructured>Rudinac S, Larson M, Hanjalic A (2009) Exploiting visual reranking to improve pseudo-relevance feedback for spoken-content-based video retrieval. In: 10th Workshop on image analysis for multimedia interactive services, WIAMIS ’09, pp 17–20. doi:<ExternalRef><RefSource>10.1109/WIAMIS.2009.5031421</RefSource><RefTarget Address="10.1109/WIAMIS.2009.5031421" TargetType="DOI"/></ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>Rudinac S, Larson M, Hanjalic A (2010a) Exploiting noisy visual concept detection to improve spoken content based video retrieval. In: Proceedings ACM internatinal conference on Multimedia, ACM, MM ’10, pp 727–730</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibUnstructured>Rudinac S, Larson M, Hanjalic A (2010b) Exploiting result consistency to select query expansions for spoken content retrieval. In: Advances in information retrieval, LNCS, vol 5993, Springer, Heidelberg, pp 645–648</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibUnstructured>Rudinac S, Larson M, Hanjalic A (2010c) Visual concept-based selection of query expansions for spoken content retrieval. In: Proceedings 33rd international ACM SIGIR conference on research and development in information retrieval, ACM, SIGIR ’10, pp 891–892</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Salton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Buckley</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Term-weighting approaches in automatic text retrieval</ArticleTitle>
+                  <JournalTitle>Inf Process Manage</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>513</FirstPage>
+                  <LastPage>523</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0306-4573(88)90021-0</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Salton G, Buckley C (1988) Term-weighting approaches in automatic text retrieval. Inf Process Manage 24:513–523</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CGM</Initials>
+                    <FamilyName>Snoek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Worring</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Concept-based video retrieval</ArticleTitle>
+                  <JournalTitle>Founda Trends Inf Retr</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>215</FirstPage>
+                  <LastPage>322</LastPage>
+<Occurrence Type="DOI">
+<Handle>10.1561/1500000014</Handle>
+</Occurrence>
+                </BibArticle>
+                <BibUnstructured>Snoek CGM, Worring M (2009) Concept-based video retrieval. Founda Trends Inf Retr 4(2):215–322</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibUnstructured>Snoek CGM et al (2008) The MediaMill TRECVID 2008 semantic video search engine. In: Proceedings TRECVID Workshop</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibUnstructured>Snoek CGM et al (2009) The MediaMill TRECVID 2009 semantic video search engine. In: Proceedings TRECVID Workshop</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibUnstructured>Theodoridis S, Koutroumbas K (2008) Pattern Recognition, 4th edn. Academic Press, Waltham, MA, USA</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibUnstructured>Tian X, Yang L, Wang J, Yang Y, Wu X, Hua XS (2008) Bayesian video search reranking. In: Proceedings 16th ACM international conference on Multimedia, ACM, MM ’08, pp 131–140</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibUnstructured>Tian X, Lu Y, Yang L, Tian Q (2011) Learning to judge image search results. In: Proceedings 19th ACM international conference on Multimedia, ACM, MM ’11, pp 363–372</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibUnstructured>Vasconcelos N, Lippman A (1997) Towards semantically meaningful feature spaces for the characterization of video content. In: Proceedings international conference on image processing, IEEE Computer Society, ICIP ’97</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibUnstructured>Woodland PC, Johnson SE, Jourlin P, Jones KS (2000) Effects of out of vocabulary words in spoken document retrieval. In: Proceedings 23rd annual international ACM SIGIR conference on research and development in information retrieval, ACM, SIGIR ’00, pp 372–374 </BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibUnstructured>Yang Y, Pedersen JO (1997) A comparative study on feature selection in text categorization. In: Proceedings 14th international conference on machine learning, Morgan Kaufmann Publishers Inc., ICML ’97, pp 412–420</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibUnstructured>Yom-Tov E, Fine S, Carmel D, Darlow A (2005) Learning to estimate query difficulty: including applications to missing content detection and distributed information retrival. In: Proceedings 28th annual international ACM SIGIR conference on research and development in information retrival, ACM, SIGIR’05, pp 512–519</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

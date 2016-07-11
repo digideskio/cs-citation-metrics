@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin, Heidelberg</PublisherLocation>
+  </PublisherInfo>
+  <Series>
+    <SeriesInfo SeriesType="Series" TocLevels="0">
+      <SeriesID>558</SeriesID>
+      <SeriesPrintISSN>0302-9743</SeriesPrintISSN>
+      <SeriesElectronicISSN>1611-3349</SeriesElectronicISSN>
+      <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+    </SeriesInfo>
+    <SeriesHeader>
+      <EditorGroup>
+        <Editor AffiliationIDS="Aff1">
+          <EditorName DisplayOrder="Western">
+            <GivenName>David</GivenName>
+            <FamilyName>Hutchison</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff2">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Takeo</GivenName>
+            <FamilyName>Kanade</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff3">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Josef</GivenName>
+            <FamilyName>Kittler</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff4">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Jon</GivenName>
+            <GivenName>M.</GivenName>
+            <FamilyName>Kleinberg</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff5">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Friedemann</GivenName>
+            <FamilyName>Mattern</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff6">
+          <EditorName DisplayOrder="Western">
+            <GivenName>John</GivenName>
+            <GivenName>C.</GivenName>
+            <FamilyName>Mitchell</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff7">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moni</GivenName>
+            <FamilyName>Naor</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff8">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Oscar</GivenName>
+            <FamilyName>Nierstrasz</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff9">
+          <EditorName DisplayOrder="Western">
+            <GivenName>C.</GivenName>
+            <FamilyName>Pandu Rangan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff10">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Bernhard</GivenName>
+            <FamilyName>Steffen</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff11">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Madhu</GivenName>
+            <FamilyName>Sudan</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff12">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Demetri</GivenName>
+            <FamilyName>Terzopoulos</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff13">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Dough</GivenName>
+            <FamilyName>Tygar</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff14">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Moshe</GivenName>
+            <GivenName>Y.</GivenName>
+            <FamilyName>Vardi</FamilyName>
+          </EditorName>
+        </Editor>
+        <Editor AffiliationIDS="Aff15">
+          <EditorName DisplayOrder="Western">
+            <GivenName>Gerhard</GivenName>
+            <FamilyName>Weikum</FamilyName>
+          </EditorName>
+        </Editor>
+        <Affiliation ID="Aff1">
+          <OrgName>Lancaster University</OrgName>
+          <OrgAddress>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff2">
+          <OrgName>Carnegie Mellon University</OrgName>
+          <OrgAddress>
+            <City>Pittsburgh</City>
+            <State>PA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff3">
+          <OrgName>University of Surrey</OrgName>
+          <OrgAddress>
+            <City>Guildford</City>
+            <Country>UK</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff4">
+          <OrgName>Cornell University</OrgName>
+          <OrgAddress>
+            <City>Ithaca</City>
+            <State>NY</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff5">
+          <OrgName>ETH Zurich</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff6">
+          <OrgName>Stanford University</OrgName>
+          <OrgAddress>
+            <City>CA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff7">
+          <OrgName>Weizmann Institute of Science</OrgName>
+          <OrgAddress>
+            <City>Rehovot</City>
+            <Country>Israel</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff8">
+          <OrgName>University of Bern</OrgName>
+          <OrgAddress>
+            <Country>Switzerland</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff9">
+          <OrgName>Indian Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>Madras</City>
+            <Country>India</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff10">
+          <OrgName>University of Dortmund</OrgName>
+          <OrgAddress>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff11">
+          <OrgName>Massachusetts Institute of Technology</OrgName>
+          <OrgAddress>
+            <City>MA</City>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff12">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff13">
+          <OrgName>University of California</OrgName>
+          <OrgAddress>
+            <City>Berkeley</City>
+            <State>CA</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff14">
+          <OrgName>Rice University</OrgName>
+          <OrgAddress>
+            <City>Houston</City>
+            <State>TX</State>
+            <Country>USA</Country>
+          </OrgAddress>
+        </Affiliation>
+        <Affiliation ID="Aff15">
+          <OrgName>Max-Planck Institute of Computer Science</OrgName>
+          <OrgAddress>
+            <City>Saarbruecken</City>
+            <Country>Germany</Country>
+          </OrgAddress>
+        </Affiliation>
+      </EditorGroup>
+    </SeriesHeader>
+    <Book Language="En">
+      <BookInfo BookProductType="Proceedings" ContainsESM="No" Language="En" MediaType="eBook" NumberingDepth="2" NumberingStyle="ContentOnly" OutputMedium="All" TocLevels="0">
+        <BookID>978-3-540-35461-1</BookID>
+        <BookTitle>Combinatorial Pattern Matching</BookTitle>
+        <BookSubTitle>17th Annual Symposium, CPM 2006, Barcelona, Spain, July 5-7, 2006. Proceedings</BookSubTitle>
+        <BookVolumeNumber>4009</BookVolumeNumber>
+        <BookSequenceNumber>4009</BookSequenceNumber>
+        <BookDOI>10.1007/11780441</BookDOI>
+        <BookTitleID>139689</BookTitleID>
+        <BookPrintISBN>978-3-540-35455-0</BookPrintISBN>
+        <BookElectronicISBN>978-3-540-35461-1</BookElectronicISBN>
+        <BookChapterCount>36</BookChapterCount>
+        <BookCopyright>
+          <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+          <CopyrightYear>2006</CopyrightYear>
+        </BookCopyright>
+        <BookSubjectGroup>
+          <BookSubject Code="SCI" Type="Primary">Computer Science</BookSubject>
+          <BookSubject Code="SCI2203X" Priority="1" Type="Secondary">Pattern Recognition</BookSubject>
+          <BookSubject Code="SCI16021" Priority="2" Type="Secondary">Algorithm Analysis and Problem Complexity</BookSubject>
+          <BookSubject Code="SCI21033" Priority="3" Type="Secondary">Document Preparation and Text Processing</BookSubject>
+          <BookSubject Code="SCI18032" Priority="4" Type="Secondary">Information Storage and Retrieval</BookSubject>
+          <BookSubject Code="SCL15001" Priority="5" Type="Secondary">Bioinformatics</BookSubject>
+          <BookSubject Code="SCI15017" Priority="6" Type="Secondary">Data Structures</BookSubject>
+          <SubjectCollection Code="SUCO11645">Computer Science</SubjectCollection>
+        </BookSubjectGroup>
+        <BookContext>
+          <SeriesID>558</SeriesID>
+        </BookContext>
+        <ConferenceInfo>
+          <ConfSeriesName>Annual Symposium on Combinatorial Pattern Matching</ConfSeriesName>
+          <ConfSeriesID Type="Springer">cpm</ConfSeriesID>
+          <ConfSeriesID Type="DBLP">cpm</ConfSeriesID>
+          <ConfEventID Type="Springer">cpm2006</ConfEventID>
+          <ConfEventAbbreviation>CPM</ConfEventAbbreviation>
+          <ConfNumber>17</ConfNumber>
+          <ConfEventLocation>
+            <City>Barcelona</City>
+            <Country>Spain</Country>
+          </ConfEventLocation>
+          <ConfEventDateStart>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>5</Day>
+          </ConfEventDateStart>
+          <ConfEventDateEnd>
+            <Year>2006</Year>
+            <Month>7</Month>
+            <Day>7</Day>
+          </ConfEventDateEnd>
+        </ConferenceInfo>
+      </BookInfo>
+      <BookHeader>
+        <EditorGroup>
+          <Editor AffiliationIDS="Aff16">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Moshe</GivenName>
+              <FamilyName>Lewenstein</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>moshe@cs.biu.ac.il</Email>
+            </Contact>
+          </Editor>
+          <Editor AffiliationIDS="Aff17">
+            <EditorName DisplayOrder="Western">
+              <GivenName>Gabriel</GivenName>
+              <FamilyName>Valiente</FamilyName>
+            </EditorName>
+            <Contact>
+              <Email>valiente@lsi.upc.edu</Email>
+            </Contact>
+          </Editor>
+          <Affiliation ID="Aff16">
+            <OrgDivision>Department of Computer Science</OrgDivision>
+            <OrgName>Bar-Ilan University</OrgName>
+            <OrgAddress>
+              <Postcode>52900</Postcode>
+              <City>Ramat-Gan</City>
+              <Country>Israel</Country>
+            </OrgAddress>
+          </Affiliation>
+          <Affiliation ID="Aff17">
+            <OrgDivision>Department of Software</OrgDivision>
+            <OrgName>Technical University of Catalonia</OrgName>
+            <OrgAddress>
+              <Postcode>08034</Postcode>
+              <City>Barcelona</City>
+              <Country>Spain</Country>
+            </OrgAddress>
+          </Affiliation>
+        </EditorGroup>
+      </BookHeader>
+      <Part ID="Part8">
+        <PartInfo TocLevels="0">
+          <PartID>8</PartID>
+          <PartSequenceNumber>8</PartSequenceNumber>
+          <PartTitle>Session 7. Applications in Molecular Biology III</PartTitle>
+          <PartChapterCount>2</PartChapterCount>
+          <PartContext>
+            <SeriesID>558</SeriesID>
+            <BookTitle>Combinatorial Pattern Matching</BookTitle>
+          </PartContext>
+        </PartInfo>
+        <Chapter ID="Chap25" Language="En">
+          <ChapterInfo ChapterType="OriginalPaper" ContainsESM="No" NumberingDepth="2" NumberingStyle="ContentOnly" TocLevels="0">
+            <ChapterID>25</ChapterID>
+            <ChapterDOI>10.1007/11780441_25</ChapterDOI>
+            <ChapterSequenceNumber>25</ChapterSequenceNumber>
+            <ChapterTitle Language="En">Longest Common Subsequences in Permutations and Maximum Cliques in Circle Graphs</ChapterTitle>
+            <ChapterFirstPage>270</ChapterFirstPage>
+            <ChapterLastPage>281</ChapterLastPage>
+            <ChapterCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2006</CopyrightYear>
+            </ChapterCopyright>
+            <ChapterGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ChapterGrants>
+            <ChapterContext>
+              <SeriesID>558</SeriesID>
+              <PartID>8</PartID>
+              <BookID>978-3-540-35461-1</BookID>
+              <BookTitle>Combinatorial Pattern Matching</BookTitle>
+            </ChapterContext>
+          </ChapterInfo>
+          <ChapterHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff18">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Alexander</GivenName>
+                  <FamilyName>Tiskin</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>tiskin@dcs.warwick.ac.uk</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff18">
+                <OrgDivision>Department of Computer Science</OrgDivision>
+                <OrgName>The University of Warwick</OrgName>
+                <OrgAddress>
+                  <City>Coventry</City>
+                  <Postcode>CV4 7AL</Postcode>
+                  <Country>United Kingdom</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Heading>Abstract</Heading>
+              <Para TextBreak="No">For two strings <Emphasis Type="Italic">a</Emphasis>, <Emphasis Type="Italic">b</Emphasis>, the longest common subsequence (LCS) problem consists in comparing <Emphasis Type="Italic">a</Emphasis> and <Emphasis Type="Italic">b</Emphasis> by computing the length of their LCS . In a previous paper, we defined a generalisation, called “the all semi-local LCS problem”, for which we proposed an efficient output representation and an efficient algorithm. In this paper, we consider a restriction of this problem to strings that are permutations of a given set. The resulting problem is equivalent to the all local longest increasing subsequences (LIS) problem. We propose an algorithm for this problem, running in time <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">n</Emphasis>
+                        <Superscript>1.5</Superscript>) on an input of size <Emphasis Type="Italic">n</Emphasis>. As an interesting application of our method, we propose a new algorithm for finding a maximum clique in a circle graph on <Emphasis Type="Italic">n</Emphasis> nodes, running in the same asymptotic time <Emphasis Type="Italic">O</Emphasis>(<Emphasis Type="Italic">n</Emphasis>
+                        <Superscript>1.5</Superscript>). Compared to a number of previous algorithms for this problem, our approach presents a substantial improvement in worst-case running time.</Para>
+            </Abstract>
+          </ChapterHeader>
+          <BodyRef FileRef="BodyRef/PDF/978-3-540-35461-1_Chapter_25.pdf" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ChapterBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.H.</Initials>
+                    <FamilyName>Albert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Golynski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.M.</Initials>
+                    <FamilyName>Hamel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>López-Ortiz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.S.</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.A.</Initials>
+                    <FamilyName>Safari</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Longest increasing subsequences in sliding windows</ArticleTitle>
+                  <JournalTitle>Theoretical Computer Science</JournalTitle>
+                  <VolumeID>321</VolumeID>
+                  <FirstPage>405</FirstPage>
+                  <LastPage>414</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.tcs.2004.03.057</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2076155</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1067.68053</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Albert, M.H., Golynski, A., Hamel, A.M., López-Ortiz, A., Rao, S.S., Safari, M.A.: Longest increasing subsequences in sliding windows. Theoretical Computer Science 321, 405–414 (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.E.R.</Initials>
+                    <FamilyName>Alves</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.N.</Initials>
+                    <FamilyName>Cáceres</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.W.</Initials>
+                    <FamilyName>Song</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">An all-substrings common subsequence algorithm</ArticleTitle>
+                  <JournalTitle>Electronic Notes in Discrete Mathematics</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>133</FirstPage>
+                  <LastPage>139</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.endm.2005.05.019</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Alves, C.E.R., Cáceres, E.N., Song, S.W.: An all-substrings common subsequence algorithm. Electronic Notes in Discrete Mathematics 19, 133–139 (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Apostolico</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.J.</Initials>
+                    <FamilyName>Atallah</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.E.</Initials>
+                    <FamilyName>Hambrusch</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">New clique and independent set algorithms for circle graphs</ArticleTitle>
+                  <JournalTitle>Discrete Applied Mathematics</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>24</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0166-218X(92)90200-T</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1158766</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0794.05120</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Apostolico, A., Atallah, M.J., Hambrusch, S.E.: New clique and independent set algorithms for circle graphs. Discrete Applied Mathematics 36, 1–24 (1992)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.L.</Initials>
+                    <FamilyName>Bentley</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Multidimensional divide-and-conquer</ArticleTitle>
+                  <JournalTitle>Communications of the ACM</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>214</FirstPage>
+                  <LastPage>229</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/358841.358850</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>567150</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0434.68049</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bentley, J.L.: Multidimensional divide-and-conquer. Communications of the ACM 23(4), 214–229 (1980)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Bespamyatnikh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Segal</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Enumerating longest increasing subsequences and patience sorting</ArticleTitle>
+                  <JournalTitle>Information Processing Letters</JournalTitle>
+                  <VolumeID>76</VolumeID>
+                  <FirstPage>7</FirstPage>
+                  <LastPage>11</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0020-0190(00)00124-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1797557</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bespamyatnikh, S., Segal, M.: Enumerating longest increasing subsequences and patience sorting. Information Processing Letters 76, 7–11 (2000)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Yuan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Yang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ChapterTitle Language="En">Longest increasing subsequences in windows based on canonical antichain partition</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>X.</Initials>
+                    <FamilyName>Deng</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>D.-Z.</Initials>
+                    <FamilyName>Du</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Algorithms and Computation</BookTitle>
+                  <ConfEventName>16th International Symposium, ISAAC 2005</ConfEventName>
+                  <ConfEventLocation>Sanya, Hainan, China</ConfEventLocation>
+                  <ConfEventDate>December 19-21, 2005</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>3827</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>1153</FirstPage>
+                  <LastPage>1162</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/11602613_114</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Chen, E., Yuan, H., Yang, L.: Longest increasing subsequences in windows based on canonical antichain partition. In: Deng, X., Du, D.-Z. (eds.) ISAAC 2005. LNCS, vol. 3827, pp. 1153–1162. Springer, Heidelberg (2005)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.W.</Initials>
+                    <FamilyName>Dijkstra</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Some beautiful arguments using mathematical induction</ArticleTitle>
+                  <JournalTitle>Acta Informatica</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>8</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF00288531</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>557545</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0435.68055</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dijkstra, E.W.: Some beautiful arguments using mathematical induction. Acta Informatica 13, 1–8 (1980)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Even</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Itai</FamilyName>
+                  </BibAuthorName>
+                  <Year>1971</Year>
+                  <ChapterTitle Language="En">Queues, stacks and graphs</ChapterTitle>
+                  <BookTitle>Theory of Machines and Computations</BookTitle>
+                  <PublisherName>Academic Press</PublisherName>
+                  <PublisherLocation>London</PublisherLocation>
+                  <FirstPage>71</FirstPage>
+                  <LastPage>86</LastPage>
+                </BibChapter>
+                <BibUnstructured>Even, S., Itai, A.: Queues, stacks and graphs. In: Theory of Machines and Computations, pp. 71–86. Academic Press, London (1971)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Gavril</FamilyName>
+                  </BibAuthorName>
+                  <Year>1973</Year>
+                  <ArticleTitle Language="En">Algorithms for a maximum clique and a maximum independent set of a circle graph</ArticleTitle>
+                  <JournalTitle>Networks</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>261</FirstPage>
+                  <LastPage>273</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/net.3230030305</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>340106</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0259.05125</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gavril, F.: Algorithms for a maximum clique and a maximum independent set of a circle graph. Networks 3, 261–273 (1973)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W.-L.</Initials>
+                    <FamilyName>Hsu</FamilyName>
+                  </BibAuthorName>
+                  <Year>1985</Year>
+                  <ArticleTitle Language="En">Maximum weight clique algorithms for circular-arc graphs and circle graphs</ArticleTitle>
+                  <JournalTitle>SIAM Journal on Computing</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>224</FirstPage>
+                  <LastPage>231</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/0214018</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>774941</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0567.68042</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hsu, W.-L.: Maximum weight clique algorithms for circular-arc graphs and circle graphs. SIAM Journal on Computing 14(1), 224–231 (1985)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>JaJa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Mortensen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Q.</Initials>
+                    <FamilyName>Shi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ChapterTitle Language="En">Space-efficient and fast algorithms for multidimensional dominance reporting and counting</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Fleischer</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Trippen</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Algorithms and Computation</BookTitle>
+                  <ConfEventName>15th International Symposium, ISAAC 2004</ConfEventName>
+                  <ConfEventLocation>Hong Kong, China</ConfEventLocation>
+                  <ConfEventDate>December 20-22, 2004</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>3341</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>558</FirstPage>
+                  <LastPage>568</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-540-30551-4_49</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>JaJa, J., Mortensen, C., Shi, Q.: Space-efficient and fast algorithms for multidimensional dominance reporting and counting. In: Fleischer, R., Trippen, G. (eds.) ISAAC 2004. LNCS, vol. 3341, pp. 558–568. Springer, Heidelberg (2004)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Masuda</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Nakajima</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Kashiwabara</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Fujisawa</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Efficient algorithms for finding maximum cliques of an overlap graph</ArticleTitle>
+                  <JournalTitle>Networks</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>157</FirstPage>
+                  <LastPage>171</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/net.3230200203</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1038719</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0695.90093</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Masuda, S., Nakajima, K., Kashiwabara, T., Fujisawa, T.: Efficient algorithms for finding maximum cliques of an overlap graph. Networks 20, 157–171 (1990)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Rotem</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Urrutia</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <ArticleTitle Language="En">Finding maximum cliques in circle graphs</ArticleTitle>
+                  <JournalTitle>Networks</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>269</FirstPage>
+                  <LastPage>278</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/net.3230110305</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>636232</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0459.68029</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rotem, D., Urrutia, J.: Finding maximum cliques in circle graphs. Networks 11, 269–278 (1981)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Tiskin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ChapterTitle Language="En">All semi-local longest common subsequences in subquadratic time</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>D.</Initials>
+                    <FamilyName>Grigoriev</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Harrison</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>E.A.</Initials>
+                    <FamilyName>Hirsch</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Computer Science – Theory and Applications</BookTitle>
+                  <ConfEventName>First International Computer Science Symposium in Russia, CSR 2006</ConfEventName>
+                  <ConfEventLocation>St. Petersburg, Russia</ConfEventLocation>
+                  <ConfEventDate>June 8-12. 2006</ConfEventDate>
+                  <SeriesTitle Language="En">Lecture Notes in Computer Science</SeriesTitle>
+                  <NumberInSeries>3967</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Heidelberg</PublisherLocation>
+                  <FirstPage>352</FirstPage>
+                  <LastPage>363</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/11753728_36</Handle>
+                  </Occurrence>
+                </BibChapter>
+                <BibUnstructured>Tiskin, A.: All semi-local longest common subsequences in subquadratic time. In: Grigoriev, D., Harrison, J., Hirsch, E.A. (eds.) CSR 2006. LNCS, vol. 3967, pp. 352–363. Springer, Heidelberg (2006)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ChapterBackmatter>
+        </Chapter>
+      </Part>
+    </Book>
+  </Series>
+</Publisher>
